@@ -32,4 +32,65 @@ aleshores quan facis la xarxa doncs ja tindrás els fitxers amb les dades
 per fer CSVs a python hi ha un módul que es diu CSV pro no et ratllis molt amb això nem fent poc a poc
 
 ~~Vale. Entec que farè un programa amb python que fagi tot això de forma automàtica no?~~
-Sep.Python o el que vulguis pro si no es python ni javascript jo em moraria.
+Sep.Python o el que vulguis pro si no es python ni javascript jo em moraria
+
+
+
+## 01/12/2019
+
+Estic mirant aquest vídeo [Aquí enllaç](https://youtu.be/ng2o98k983k)
+
+Execute comands in terminal 
+```
+pip install beautifulsoup4
+//No sè si hi ha alguna vesió superior, s ha instalat bé
+
+pip install lxml
+//També s'ha instalat bé (Ni idea que és)
+
+pip install html5lib
+//Aquest deu ser actual i obviament una llibreria de html
+
+pip install requests
+//No sé que és però aquest també l'ha passat l'Adrià.
+
+// Als 5:20 min comença a explicar una mica que és HTML5 estructura i etiquetes
+// Diu que és similar al metalleguatge XML
+//S'obren els tag's i es tanquen els tag's
+```
+
+3:36 hores
+
+[Stackoverflow](https://stackoverflow.com/questions/52690994/web-scraping-python-writing-to-a-csv)
+
+```
+import requests
+import csv
+from bs4 import BeautifulSoup as bs
+
+url = requests.get("https://www.top500.org/list/2018/06")
+soup = bs(url.content, 'html.parser')
+
+filename = "computerRank10.csv"
+csv_writer = csv.writer(open(filename, 'w'))
+
+
+for tr in soup.find_all("tr"):
+    data = []
+    # for headers ( entered only once - the first time - )
+    for th in tr.find_all("th"):
+        data.append(th.text)
+    if data:
+        print("Inserting headers : {}".format(','.join(data)))
+        csv_writer.writerow(data)
+        continue
+
+    for td in tr.find_all("td"):
+        if td.a:
+            data.append(td.a.text.strip())
+        else:
+            data.append(td.text.strip())
+    if data:
+        print("Inserting data: {}".format(','.join(data)))
+        csv_writer.writerow(data)
+```
