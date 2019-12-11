@@ -2,7 +2,7 @@
 
 El que et comentava era algo tipus això, la wikipedia té diguem 4 clases de contingut, en negreta en blau per les referencies, formules i text normal
 
-![Foto Pantalla](.\Backpagetion.jpeg)
+![Foto Pantalla](./Backpropagation.jpeg)
 
 Extreure el codi html es senzill i hi han moduls de python que tel parsejen;
 
