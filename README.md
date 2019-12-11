@@ -2,11 +2,11 @@
 
 El que et comentava era algo tipus això, la wikipedia té diguem 4 clases de contingut, en negreta en blau per les referencies, formules i text normal
 
-![Foto Pantalla](Backpagetion.jpeg)
+![Foto Pantalla](./Backpagetion.jpeg)
 
 Extreure el codi html es senzill i hi han moduls de python que tel parsejen;
 
-![Foto Pantalla](parsejen.mp4)
+![Foto Pantalla](./parsejen.mp4)
 
 ~~Bones Adrià, vale ja miraré quin paquet haig de importar per fer-ho. Però aleshores de conjunts {X,Y} com a dataset que faig servir. La Wikipedia mateixa ?~~
 
