@@ -41,7 +41,7 @@ Sep.Python o el que vulguis pro si no es python ni javascript jo em moraria
 Estic mirant aquest vídeo [Aquí enllaç](https://youtu.be/ng2o98k983k)
 
 Execute comands in terminal 
-```
+```c
 pip install beautifulsoup4
 //No sè si hi ha alguna vesió superior, s ha instalat bé
 
@@ -63,7 +63,7 @@ pip install requests
 
 [Stackoverflow](https://stackoverflow.com/questions/52690994/web-scraping-python-writing-to-a-csv)
 
-```
+```python
 import requests
 import csv
 from bs4 import BeautifulSoup as bs
