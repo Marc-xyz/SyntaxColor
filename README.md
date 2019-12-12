@@ -1,5 +1,18 @@
 # SyntaxColor
-
+## Tack List
+ - [ ] Fitxer ```*.txt``` amb 10 mil link a la Wikipedia (com a mínim)
+ - [ ] 10 mil fitxers ```*.txt``` amb  el codi html del article (com ```NomDelArticle_X.txt```)
+ - [ ] 10 mil fitxers ```*.cvs``` amb _vectr=(paraula,tipus, ... , paraula,tipus)_ (com ```NomDelArticle_Y.cvs```)
+## ~~Em queda una estona fins arribar als 10 000~~
+|Índex  del concepte|Tots els detalls resumits|
+|----------------------------|---------------------------------|
+|1.|Wikipedia té que diguem  4 classes de contingut (negreta, blau, fórmules,text normal)|
+|2.|Extreure el codi `html`, hi ha mòduls de python que ho parsejen|
+|2'.|Mòduls per fer scrapping a wikipedia [wikipedia, re, request,beautiful Soup (*)]|
+|3.|X: El text tal qual sense _labels_ (etiquetes) Y:Vector:= (paraula, tipus,...,paraula,tipus)|
+|3'.| X:```NomDelArticle_X.txt```, Y:```NomDelArticle_Y.cvs```|
+|3''.| Hi ha mòduls de python per fer fitxers ```*.cvs```, _commma separated vaules_|
+## --- NoneDateOf
 * El que et comentava era algo tipus això, la wikipedia té diguem 4 clases de contingut, en negreta en blau per les referencies, formules i text normal
 
 ![Foto Pantalla](./Backpropagation.jpeg)
@@ -100,7 +113,7 @@ Finalment la cosa ha sigut bastant més fàcil. Els codis que circulen per stack
 ```python
 import wikipedia
 ...
- expcept wikipedia.exceptions.PageError as eP:
+ except wikipedia.exceptions.PageError as eP:
 ...
  except wikipedia.exceptions.DisambiguationError as eD:
 ...
