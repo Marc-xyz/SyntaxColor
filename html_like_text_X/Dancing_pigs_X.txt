@@ -1,0 +1,269 @@
+
+
+Dancing pigs - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfhehQpAAD8AAGhOuI8AAADM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Dancing_pigs","wgTitle":"Dancing pigs","wgCurRevisionId":926513443,"wgRevisionId":926513443,"wgArticleId":1412125,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with style issues from August 2018","All articles with style issues","All articles with unsourced statements","Articles with unsourced statements from November 2019","Computer security",
+"Usability"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Dancing_pigs","wgRelevantArticleId":1412125,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2042852","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":
+"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Dancing pigs
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This article contains too many or overly lengthy quotations for an encyclopedic entry. Please help improve the article by presenting facts as a neutrally worded summary with appropriate citations. Consider transferring direct quotations to Wikiquote.  (August 2018)
+In computer security, the "dancing pigs" is a term or problem that describes computer users' attitudes to computer security. It states that users will continue to pick an amusing graphic even if they receive a warning from security software that it is potentially dangerous.[citation needed] In other words, users choose their primary desire features without considering the security. "Dancing pigs" is generally used by tech experts and can be found in IT articles. 
+
+Contents
+
+1 Origins
+2 Experimental support
+3 See also
+4 References
+5 External links
+
+
+
+Origins[edit]
+The term has its origin in a remark by Edward Felten:
+
+
+
+“
+
+Given a choice between dancing pigs and security, users will pick dancing pigs every time.[1]
+
+”
+
+
+
+Bruce Schneier states:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}The user's going to pick dancing pigs over security every time[2]
+
+Bruce Schneier expands on this remark as follows:
+
+If J. Random Websurfer clicks on a button that promises dancing pigs on his computer monitor, and instead gets a hortatory message describing the potential dangers of the applet — he's going to choose dancing pigs over computer security any day. If the computer prompts him with a warning screen like: "The applet DANCING PIGS could contain malicious code that might do permanent damage to your computer, steal your life's savings, and impair your ability to have children," he'll click OK without even reading it. Thirty seconds later he won't even remember that the warning screen even existed.[3]
+
+The Mozilla Security Reviewers' Guide states:
+
+Many of our potential users are inexperienced computer users, who do not understand the risks involved in using interactive Web content. This means we must rely on the user's judgement as little as possible.[4]
+
+A widely publicized 2009 paper[5] directly addresses the dancing pigs quotation and argues that users' behavior is plausibly rational:
+
+While amusing, this is unfair: users are never offered security, either on its own or as an alternative to anything else. They are offered long, complex and growing sets of advice, mandates, policy updates and tips. These sometimes carry vague and tentative suggestions of reduced risk, never security.[6]
+
+Experimental support[edit]
+One study of phishing found that people really do prefer dancing animals to security. The study showed participants a number of phishing sites, including one that copied the Bank of the West home page:[7]
+
+For many participants the "cute" design, the level of detail and the fact that the site does not ask for a great deal of information were the most convincing factors. Two participants mentioned the animated bear video that appears on the page, (e.g., "because that would take a lot of effort to copy"). Participants in general found this animation appealing and many reloaded the page just to see the animation again.
+
+Schneier believes the dancing pigs problem will lead to crime, a key threat. He said: "The tactics might change (...) as security measures make some tactics harder and others easier, but the underlying issue is constant." Ignoring computer security can inflict various types of damage resulting in significant losses.[8]
+
+See also[edit]
+Trojan horse (computing)
+Cute cat theory of digital activism
+References[edit]
+
+
+^ Gary McGraw and Edward Felten: Securing Java (John Wiley & Sons, 1999; .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}ISBN 0-471-31952-X), Chapter one, Part seven
+
+^ Mills, Elinor (October 23, 2009). "Q&A: Schneier warns of marketers and dancing pigs". CNET. Retrieved 12 February 2013.
+
+^ Bruce Schneier: Secrets and Lies (John Wiley & Sons, 2000; ISBN 0-471-45380-3), p262
+
+^ "Mozilla Security Review and Best Practices Guide". Mozilla Foundation. 17 May 2002. Retrieved 2 February 2015.
+
+^ Pothier, Mark (11 April 2010). "Please Do Not Change Your Password". The Boston Globe. Retrieved 2 February 2015.
+
+^ Cormac Herley (2009). So Long and No Thanks for the Externalities: the Rational Rejection of Security Advice by Users (PDF). New Security Paradigms Workshop.
+
+^ Rachna Dhamija, J. D. Tygar and Marti Hearst. "Why Phishing Works" (PDF). Archived from the original (PDF) on 2008-03-06. Retrieved 2011-05-25.
+
+^ Mills, Elinor (October 23, 2009). "Q&A: Schneier warns of marketers and dancing pigs". CNET. Retrieved 12 February 2013. The tactics might change--phishing, pharming, key logging, social engineering, password guessing, whatever--as security measures make some tactics harder and others easier, but the underlying issue is constant
+
+
+External links[edit]
+Beware of the dancing bunnies Larry Osterman's WebLog
+Strider HoneyMonkey Project
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Dancing_pigs&oldid=926513443"
+		
+		Categories: Computer securityUsabilityHidden categories: Wikipedia articles with style issues from August 2018All articles with style issuesAll articles with unsourced statementsArticles with unsourced statements from November 2019
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					FrançaisPortuguêsРусскийУкраїнська				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 16 November 2019, at 22:34 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.368","ppvisitednodes":{"value":1512,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":26264,"limit":2097152},"templateargumentsize":{"value":5824,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":24482,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  340.313      1 -total"," 45.90%  156.194      1 Template:Reflist"," 21.56%   73.378      1 Template:Over-quotation"," 21.19%   72.126      2 Template:ISBN"," 15.51%   52.778      3 Template:Cite_news"," 13.13%   44.684      2 Template:Catalog_lookup_link"," 12.83%   43.665      1 Template:Citation_needed"," 12.33%   41.961      5 Template:Quote"," 11.51%   39.175      1 Template:Fix","  7.89%   26.859      2 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.087","limit":"10.000"},"limitreport-memusage":{"value":3899564,"limit":52428800}},"cachereport":{"origin":"mw1296","timestamp":"20191123064031","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Dancing pigs","url":"https:\/\/en.wikipedia.org\/wiki\/Dancing_pigs","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2042852","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2042852","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-19T23:50:58Z","dateModified":"2019-11-16T22:34:35Z"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1268"});});
+
+

@@ -1,0 +1,228 @@
+
+
+Micro Cornucopia - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqsMQpAICgAAEDVzCMAAAEM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Micro_Cornucopia","wgTitle":"Micro Cornucopia","wgCurRevisionId":847217501,"wgRevisionId":847217501,"wgArticleId":4242506,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from May 2018","All articles needing additional references","Articles with Internet Archive links","1980s establishments in Oregon","1990 disestablishments in Oregon",
+"Defunct American computer magazines","Magazines established in 1981","Magazines disestablished in 1990","Magazines published in Oregon","Robotics magazines"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Micro_Cornucopia","wgRelevantArticleId":4242506,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6839158","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Micro Cornucopia
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Micro Cornucopia" – news · newspapers · books · scholar · JSTOR  (May 2018) (Learn how and when to remove this template message)
+Micro CornucopiaEditorDavid J. ThompsonCategoriesComputer magazinesFirst issueJuly 1981Final issueNumberMay 1990[1]53CountryUnited StatesBased inBend, OregonLanguageEnglish
+Micro Cornucopia, sometimes shortened to Micro C, was a 1980s magazine for microcomputer hobbyists and enthusiasts. It was published in Bend, Oregon by former Tektronix engineer David J. Thompson.  
+The magazine, originally conceived as a newsletter for users of the Ferguson Big Board (a single-board CP/M computer), was published bi-monthly beginning in July 1981. It soon expanded its coverage to other board-level computers, the Kaypro computer, and general hobbyist/experimental computing, with special interest areas being robotics, interfacing, embedded systems and programming languages. The magazine routinely published circuit diagrams and source code.   
+Micro C carried articles on a wide range of subjects, some system-specific and newsletter-like, but also covering (then) off-mainstream topics, e.g. 3D graphics, artificial intelligence, or the special needs of handicapped users. They published a 32-page catalog of CP/M and MS-DOS software, cover date Fall/Winter 1986, describing it as the second, the first having been the Spring issue.
+The publishers of Micro C organized free annual user conference dubbed "SOG" (Semi-Official Gathering) in Oregon.
+
+Contents
+
+1 Final issue
+2 Personnel
+3 References
+4 External links
+
+
+
+Final issue[edit]
+In issue 53, May 1990, Thompson wrote, "I'm closing down Micro C and I don't know what I'll be doing next."[1] He explained his loss of interest in the magazine, and subscribers were offered the choice to switch to one of several other magazines, including Computer Language.
+
+Personnel[edit]
+Publisher: David J. Thompson
+Technical Editor: Larry Fogg
+Regular contributors:
+Scott Robert Ladd
+Bruce Eckel
+References[edit]
+
+
+^ a b Thompson, David J (May 1990). "The Last Hoorah" (PDF). Micro Cornucopia (53): 4..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+
+External links[edit]
+Micro Cornucopia at the Internet Archive
+Issue 12, June 1983 page images
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Micro_Cornucopia&oldid=847217501"
+		
+		Categories: 1980s establishments in Oregon1990 disestablishments in OregonDefunct American computer magazinesMagazines established in 1981Magazines disestablished in 1990Magazines published in OregonRobotics magazinesHidden categories: Articles needing additional references from May 2018All articles needing additional referencesArticles with Internet Archive links
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+									
+				Add links			
+		
+				
+		
+				
+						
+								 This page was last edited on 23 June 2018, at 18:46 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.232","walltime":"0.361","ppvisitednodes":{"value":572,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12188,"limit":2097152},"templateargumentsize":{"value":438,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3180,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  333.077      1 -total"," 46.21%  153.905      1 Template:Refimprove"," 34.56%  115.113      1 Template:Ambox"," 27.12%   90.319      1 Template:Reflist"," 24.37%   81.165      1 Template:Cite_journal"," 23.15%   77.101      1 Template:Infobox_Magazine"," 16.11%   53.669      1 Template:Find_sources_mainspace"," 15.02%   50.041      1 Template:Infobox","  4.31%   14.354      1 Template:If_empty","  3.03%   10.085      1 Template:Internet_Archive"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"10.000"},"limitreport-memusage":{"value":3395982,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20191206184436","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Micro Cornucopia","url":"https:\/\/en.wikipedia.org\/wiki\/Micro_Cornucopia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6839158","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6839158","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-03-01T22:22:33Z","dateModified":"2018-06-23T18:46:46Z"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":166,"wgHostname":"mw1319"});});
+
+

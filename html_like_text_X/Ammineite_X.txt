@@ -1,0 +1,245 @@
+
+
+Ammineite - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqlxQpAMFgAAAHuiMQAAAAX","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ammineite","wgTitle":"Ammineite","wgCurRevisionId":926559872,"wgRevisionId":926559872,"wgArticleId":49603574,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Copper(II) minerals","Orthorhombic minerals"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Ammineite","wgRelevantArticleId":49603574,"wgIsProbablyEditable":!0,
+"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q19772354","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Ammineite
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		AmmineiteGeneralCategoryChloride mineralFormula.mw-parser-output .nobold{font-weight:normal}(repeating unit)CuCl2(NH3)2Crystal systemOrthorhombicCrystal classDipyramidal (mmm) H-M symbol: (2/m 2/m 2/m)Space groupCmcmUnit cella = 7.79, b = 10.64 c = 5.84 [Å] (approximated)IdentificationColorBlueCrystal habitHypidiomorphic crystals; powdery massesMohs scale hardness1LusterVitreousStreakLight blueDensity2.38 (calculated)PleochroismDark blue to light blueReferences[1][2]
+Ammineite is the first recognized mineral containing ammine groups. Its formula is [CuCl2(NH3)2]. The mineral is chemically pure. It was found in a guano deposit in Chile.[1][2] 
+At the same site other ammine-containing minerals were later found:[3] [4][5][6]
+
+Chanabayaite, CuCl(N3C2H2)(NH3)·0.25H2O (an alternative formula), a triazolate mineral
+Joanneumite, Cu(C3N3O3H2)2(NH3)2, an isocyanurate mineral
+Shilovite, Cu(NH3)4(NO3)2
+Contents
+
+1 Crystal structure
+2 Associated minerals
+3 Origin
+4 References
+
+
+
+Crystal structure[edit]
+The characteristic features of the structure of ammineite are:[1]
+
+layers of trans form of the copper complex, parallel to (001), connected by Cu-Cl bonds
+presence of CuN2Cl4 distorted octahedron ([4+2] coordination)
+edge-sharing of the octahedra produce zigzag chains along the [001] direction
+hydrogen bonds between NH3 and Cl atoms
+Associated minerals[edit]
+Ammineite coexists with atacamite, darapskite, halite and salammoniac.[1]
+
+Origin[edit]
+Ammineite is supposed to be a result of an interaction of an earlier copper mineral, likely from a plutonic rock, with ammonia in guano. Ammonia may be produced in decomposition of compounds like urea or uric adic.[1]
+
+References[edit]
+
+
+^ a b c d e Bojar, H.-P., Walter, F., Baumgartner, J., and Färber, G. 2010. Ammineite, CuCl2(NH3)2, a new species containing an ammine complex: mineral data and crystal structure. The Canadian Mineralogist 48(6), 1359-1371.
+
+^ a b Mindat, Ammineite, http://www.mindat.org/min-38895.html
+
+^ Mindat, Pabellón de Pica, http://www.mindat.org/loc-192704.html
+
+^ Mindat, Chanabayaite, http://www.mindat.org/min-43945.html
+
+^ Mindat, Joanneumite, http://www.mindat.org/min-42755.html
+
+^ Mindat, Shilovite, http://www.mindat.org/min-46139.html
+
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Ammineite&oldid=926559872"
+		
+		Categories: Copper(II) mineralsOrthorhombic minerals
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			In other projects
+			
+								
+					Wikimedia Commons				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					Català				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 17 November 2019, at 05:52 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.092","walltime":"0.115","ppvisitednodes":{"value":749,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6037,"limit":2097152},"templateargumentsize":{"value":733,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3619,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   95.984      1 -total"," 85.41%   81.983      1 Template:Infobox_mineral"," 72.85%   69.929      1 Template:Infobox"," 13.74%   13.190      2 Template:Nobold","  9.27%    8.899      1 Template:Reflist","  3.38%    3.245      1 Template:Template_other","  3.06%    2.934      2 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.017","limit":"10.000"},"limitreport-memusage":{"value":1052473,"limit":52428800}},"cachereport":{"origin":"mw1296","timestamp":"20191207145732","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Ammineite","url":"https:\/\/en.wikipedia.org\/wiki\/Ammineite","sameAs":"http:\/\/www.wikidata.org\/entity\/Q19772354","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q19772354","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-02-29T23:19:07Z","dateModified":"2019-11-17T05:52:34Z","headline":"halide mineral"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1253"});});
+
+

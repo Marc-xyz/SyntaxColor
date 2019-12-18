@@ -1,0 +1,211 @@
+
+
+NoSQLz - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqtfQpAIDEAAJ3IMGIAAABK","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"NoSQLz","wgTitle":"NoSQLz","wgCurRevisionId":928040646,"wgRevisionId":928040646,"wgArticleId":45567577,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Free database management systems","NoSQL","Big data products","Databases"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"NoSQLz","wgRelevantArticleId":45567577,"wgIsProbablyEditable":!0,
+"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q22661327","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	NoSQLz
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		NoSQLzInitial release2014Stable release2.1.0
+   / March 2, 2015 (2015-03-02)
+Written inIBM High Level AssemblerOperating systemz/OSAvailable inEnglishTypeNoSQLWebsitenosqlz.com
+NoSQLz is a consistent key-value big data store (NoSQL database) for z/OS IBM systems.[1] It was developed by systems programmer Thierry Falissard in 2013. The purpose was to provide a low-cost alternative to all proprietary mainframe DBMS (version 1 is free software).
+
+Distinctive features[edit]
+NoSQLz only provides basic create, read, update and delete (CRUD) functions. It is designed to be very straightforward and easy to implement.
+ACID properties are provided, so as to have "real transactions", through optimistic concurrency control, timestamp-based concurrency control and multiversion concurrency control (MVCC).
+
+Interfaces[edit]
+Unlike version 1, version 2 of NoSQLz is chargeable and supports IBM Parallel Sysplex. The NoSQLz DBMS can be interfaced in Rexx, Cobol, IBM High Level Assembler, etc.
+
+References[edit]
+
+
+^ NoSQLz project homepage
+
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=NoSQLz&oldid=928040646"
+		
+		Categories: Free database management systemsNoSQLBig data productsDatabases
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+									
+				Add links			
+		
+				
+		
+				
+						
+								 This page was last edited on 26 November 2019, at 12:11 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.124","walltime":"0.164","ppvisitednodes":{"value":654,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6404,"limit":2097152},"templateargumentsize":{"value":1018,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":383,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["118.82%  173.035      2 Template:Infobox","100.00%  145.624      1 -total"," 90.92%  132.399      1 Template:Infobox_software"," 36.89%   53.717      1 Template:Infobox_software/simple"," 13.82%   20.123      1 Template:Yesno-no"," 11.93%   17.377      1 Template:URL"," 11.62%   16.923      1 Template:Yesno","  9.07%   13.206      1 Template:Release_date","  7.08%   10.314      1 Template:Reflist","  4.86%    7.078      1 Template:MONTHNAME"]},"scribunto":{"limitreport-timeusage":{"value":"0.028","limit":"10.000"},"limitreport-memusage":{"value":1210966,"limit":52428800}},"cachereport":{"origin":"mw1341","timestamp":"20191126121101","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"NoSQLz","url":"https:\/\/en.wikipedia.org\/wiki\/NoSQLz","sameAs":"http:\/\/www.wikidata.org\/entity\/Q22661327","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q22661327","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-03-03T19:45:39Z","dateModified":"2019-11-26T12:11:02Z"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":115,"wgHostname":"mw1328"});});
+
+

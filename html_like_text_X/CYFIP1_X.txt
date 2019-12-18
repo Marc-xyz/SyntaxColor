@@ -1,0 +1,253 @@
+
+
+CYFIP1 - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfnG4wpAICAAAH2Vh1IAAALN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"CYFIP1","wgTitle":"CYFIP1","wgCurRevisionId":891675866,"wgRevisionId":891675866,"wgArticleId":14880070,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All stub articles","Genes on human chromosome 15","Human chromosome 15 gene stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"CYFIP1","wgRelevantArticleId":14880070,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q18036981","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready",
+"wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	CYFIP1
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		CYFIP1Available structuresPDBOrtholog search: PDBe RCSB List of PDB id codes3P8C, 4N78IdentifiersAliasesCYFIP1, P140SRA-1, SHYC, SRA-1, SRA1, cytoplasmic FMR1 interacting protein 1External IDsOMIM: 606322 MGI: 1338801 HomoloGene: 22628 GeneCards: CYFIP1 Gene location (Human)Chr.Chromosome 15 (human)[1]Band15q11.2Start22,867,052 bp[1]End22,981,063 bp[1]Gene location (Mouse)Chr.Chromosome 7 (mouse)[2]Band7|7 B5Start55,841,745 bp[2]End55,932,602 bp[2]RNA expression patternMore reference expression dataGene ontologyMolecular function• actin binding• protein complex binding• actin filament binding• Rac GTPase binding• protein binding• RNA 7-methylguanosine cap binding• translation regulator activityCellular component• extracellular exosome• cytoplasm• synapse• cell projection• cell junction• cytosol• SCAR complex• focal adhesion• lamellipodium• perinuclear region of cytoplasm• ruffle• mRNA cap binding complex• neuron projection• extracellular region• filopodium tip• secretory granule lumen• specific granule lumen• neuronal cell body• terminal bouton• dendritic spine• dendritic growth cone• axonal growth cone• excitatory synapse• central region of growth cone• peripheral region of growth cone• tertiary granule lumen• postsynapseBiological process• Rac protein signal transduction• cognition• Fc-gamma receptor signaling pathway involved in phagocytosis• multicellular organism development• ruffle organization• axon extension• vascular endothelial growth factor receptor signaling pathway• nervous system development• regulation of cell shape• cell differentiation• positive regulation of Arp2/3 complex-mediated actin nucleation• lamellipodium assembly• cellular response to insulin stimulus• neutrophil degranulation• positive regulation of axon extension• positive regulation of axonogenesis• response to electrical stimulus• positive regulation of dendrite development• positive regulation of ruffle assembly• negative regulation of synaptic vesicle recycling• neuron projection development• positive regulation of neurotrophin TRK receptor signaling pathway• dendrite extension• regulation of translation• modification of synaptic structure• cell morphogenesis• axon guidance• cell projection assembly• regulation of translation at postsynapse, modulating synaptic transmission• regulation of modification of postsynaptic actin cytoskeletonSources:Amigo / QuickGOOrthologsSpeciesHumanMouseEntrez2319120430EnsemblENSG00000280618ENSG00000273749ENSMUSG00000030447UniProtQ7L576Q7TMB8RefSeq (mRNA)NM_001033028NM_001287810NM_014608NM_001324119NM_001324120NM_001324122NM_001324123NM_001324124NM_001324125NM_001324126NM_001164661NM_001164662NM_011370RefSeq (protein)NP_001028200NP_001274739NP_001311048NP_001311049NP_001311051NP_001311052NP_001311053NP_001311054NP_001311055NP_055423NP_001158133NP_001158134NP_035500Location (UCSC)Chr 15: 22.87 – 22.98 MbChr 7: 55.84 – 55.93 MbPubMed search[3][4]WikidataView/Edit HumanView/Edit Mouse
+Cytoplasmic FMR1-interacting protein 1 is a protein that in humans is encoded by the CYFIP1 gene.[5][6]
+
+
+Contents
+
+1 Interactions
+2 References
+3 Further reading
+4 External links
+
+
+
+Interactions[edit]
+CYFIP1 has been shown to interact with FMR1,[5] to the exclusion of FXR1 and FXR2.[5] It also forms part of the WAVE regulatory complex (WRC),[7] and based on the crystal structure of the WRC it is believed CYFIP1 provides the binding site for the complex to Rac1.[8]
+
+References[edit]
+
+
+^ a b c ENSG00000273749 GRCh38: Ensembl release 89: ENSG00000280618, ENSG00000273749 - Ensembl, May 2017
+
+^ a b c GRCm38: Ensembl release 89: ENSMUSG00000030447 - Ensembl, May 2017
+
+^ "Human PubMed Reference:". National Center for Biotechnology Information, U.S. National Library of Medicine..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "Mouse PubMed Reference:". National Center for Biotechnology Information, U.S. National Library of Medicine.
+
+^ a b c Schenck A, Bardoni B, Moro A, Bagni C, Mandel JL (Jul 2001). "A highly conserved protein family interacting with the fragile X mental retardation protein (FMRP) and displaying selective interactions with FMRP-related proteins FXR1P and FXR2P". Proc Natl Acad Sci U S A. 98 (15): 8844–9. doi:10.1073/pnas.151231598. PMC 37523. PMID 11438699.
+
+^ "Entrez Gene: CYFIP1 cytoplasmic FMR1 interacting protein 1".
+
+^ Chen Z, Borek D, Padrick SB, Gomez TS, Metlagel Z, Ismail AM, Umetani J, Billadeau DD, Otwinowski Z, Rosen MK (25 Nov 2010). "Structure and control of the actin regulatory WAVE complex". Nature. 468 (7323): 533–8. doi:10.1038/nature09623. PMC 3085272. PMID 21107423.
+
+^ Koronakis V, Hume PJ, Humphreys D, Liu T, Hørning O, Jensen ON, McGhie EJ (30 Aug 2011). "WAVE regulatory complex activation by cooperating GTPases Arf and Rac1". Proc Natl Acad Sci U S A. 108 (35): 14449–54. doi:10.1073/pnas.1107666108. PMC 3167530. PMID 21844371.
+
+
+Further reading[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+Nomura N, Nagase T, Miyajima N,  et al. (1995). "Prediction of the coding sequences of unidentified human genes. II. The coding sequences of 40 new genes (KIAA0041-KIAA0080) deduced by analysis of cDNA clones from human cell line KG-1". DNA Res. 1 (5): 223–9. doi:10.1093/dnares/1.5.223. PMID 7584044.
+Kobayashi K, Kuroda S, Fukata M,  et al. (1998). "p140Sra-1 (specifically Rac1-associated protein) is a novel specific target for Rac1 small GTPase". J. Biol. Chem. 273 (1): 291–5. doi:10.1074/jbc.273.1.291. PMID 9417078.
+Witke W, Podtelejnikov AV, Di Nardo A,  et al. (1998). "In mouse brain profilin I and profilin II associate with regulators of the endocytic pathway and actin assembly". EMBO J. 17 (4): 967–76. doi:10.1093/emboj/17.4.967. PMC 1170446. PMID 9463375.
+Strausberg RL, Feingold EA, Grouse LH,  et al. (2003). "Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences". Proc. Natl. Acad. Sci. U.S.A. 99 (26): 16899–903. doi:10.1073/pnas.242603899. PMC 139241. PMID 12477932.
+Chai JH, Locke DP, Greally JM,  et al. (2003). "Identification of four highly conserved genes between breakpoint hotspots BP1 and BP2 of the Prader-Willi/Angelman syndromes deletion region that have undergone evolutionary transposition mediated by flanking duplicons". Am. J. Hum. Genet. 73 (4): 898–925. doi:10.1086/378816. PMC 1180611. PMID 14508708.
+Brajenovic M, Joberty G, Küster B,  et al. (2004). "Comprehensive proteomic analysis of human Par protein complexes reveals an interconnected protein network". J. Biol. Chem. 279 (13): 12804–11. doi:10.1074/jbc.M312171200. PMID 14676191.
+Ota T, Suzuki Y, Nishikawa T,  et al. (2004). "Complete sequencing and characterization of 21,243 full-length human cDNAs". Nat. Genet. 36 (1): 40–5. doi:10.1038/ng1285. PMID 14702039.
+Innocenti M, Zucconi A, Disanza A,  et al. (2004). "Abi1 is essential for the formation and activation of a WAVE2 signalling complex". Nat. Cell Biol. 6 (4): 319–27. doi:10.1038/ncb1105. PMID 15048123.
+Gerhard DS, Wagner L, Feingold EA,  et al. (2004). "The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC)". Genome Res. 14 (10B): 2121–7. doi:10.1101/gr.2596504. PMC 528928. PMID 15489334.
+Rual JF, Venkatesan K, Hao T,  et al. (2005). "Towards a proteome-scale map of the human protein-protein interaction network". Nature. 437 (7062): 1173–8. doi:10.1038/nature04209. PMID 16189514.
+Kawano Y, Yoshimura T, Tsuboi D,  et al. (2005). "CRMP-2 is involved in kinesin-1-dependent transport of the Sra-1/WAVE1 complex and axon formation". Mol. Cell. Biol. 25 (22): 9920–35. doi:10.1128/MCB.25.22.9920-9935.2005. PMC 1280248. PMID 16260607.
+Bittel DC, Kibiryeva N, Butler MG (2006). "Expression of 4 genes between chromosome 15 breakpoints 1 and 2 and behavioral outcomes in Prader-Willi syndrome". Pediatrics. 118 (4): e1276–83. doi:10.1542/peds.2006-0424. PMC 5453799. PMID 16982806.
+Chen Z, Borek D, Padrick SB, Gomez TS, Metlagel Z, Ismail AM, Umetani J, Billadeau DD, Otwinowski Z, Rosen MK (25 Nov 2010). "Structure and control of the actin regulatory WAVE complex". Nature. 468 (7323): 533–8. doi:10.1038/nature09623. PMC 3085272. PMID 21107423.
+Koronakis V, Hume PJ, Humphreys D, Liu T, Hørning O, Jensen ON, McGhie EJ (30 Aug 2011). "WAVE regulatory complex activation by cooperating GTPases Arf and Rac1". Proc Natl Acad Sci U S A. 108 (35): 14449–54. doi:10.1073/pnas.1107666108. PMC 3167530. PMID 21844371.
+
+External links[edit]
+Human CYFIP1 genome location and CYFIP1 gene details page  in the UCSC Genome Browser.
+Human SRA1 genome location and SRA1 gene details page  in the UCSC Genome Browser.
+
+
+This article on a gene on human chromosome 15 is a stub. You can help Wikipedia by expanding it.vte
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=CYFIP1&oldid=891675866"
+		
+		Categories: Genes on human chromosome 15Human chromosome 15 gene stubsHidden categories: All stub articles
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					العربيةУкраїнська				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 9 April 2019, at 13:26 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.276","walltime":"3.054","ppvisitednodes":{"value":1048,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":89786,"limit":2097152},"templateargumentsize":{"value":125,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":78,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49068,"limit":5000000},"entityaccesscount":{"value":73,"limit":400},"timingprofile":["100.00% 2973.821      1 -total"," 92.52% 2751.286      1 Template:Infobox_gene","  5.26%  156.444     17 Template:Cite_journal","  2.84%   84.467      1 Template:Reflist","  0.60%   17.847      1 Template:Gene-15-stub","  0.50%   14.864      1 Template:Asbox","  0.45%   13.369      1 Template:Refbegin","  0.11%    3.346      1 Template:Cite_web","  0.10%    2.840      2 Template:UCSC_gene_info","  0.09%    2.816      1 Template:Refend"]},"scribunto":{"limitreport-timeusage":{"value":"1.133","limit":"10.000"},"limitreport-memusage":{"value":10161015,"limit":52428800},"limitreport-profile":[["Scribunto_LuaSandboxCallback::getEntity","720","65.5"],["Scribunto_LuaSandboxCallback::getLabel","100","9.1"],["Scribunto_LuaSandboxCallback::formatPropertyValues","60","5.5"],["?","60","5.5"],["Scribunto_LuaSandboxCallback::callParserFunction","40","3.6"],["\u003CModule:Citation/CS1:820\u003E","20","1.8"],["is_alias_used \u003CModule:Citation/CS1/Utilities:162\u003E","20","1.8"],["coins_cleanup \u003CModule:Citation/CS1/COinS:132\u003E","20","1.8"],["Scribunto_LuaSandboxCallback::find","20","1.8"],["recursiveClone \u003CmwInit.lua:41\u003E","20","1.8"],["[others]","20","1.8"]]},"cachereport":{"origin":"mw1304","timestamp":"20191206122616","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"CYFIP1","url":"https:\/\/en.wikipedia.org\/wiki\/CYFIP1","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18036981","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18036981","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-12-25T11:44:04Z","dateModified":"2019-04-09T13:26:27Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/07\/Ideogram_human_chromosome_15.svg","headline":"protein-coding gene in the species Homo sapiens"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":141,"wgHostname":"mw1330"});});
+
+

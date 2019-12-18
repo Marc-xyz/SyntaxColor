@@ -1,0 +1,421 @@
+
+
+Kalimagone - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfqr5ApAICoAAFHGvqgAAACG","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Kalimagone","wgTitle":"Kalimagone","wgCurRevisionId":923443095,"wgRevisionId":923443095,"wgArticleId":60389408,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles with 'species' microformats","Articles containing potentially dated statements from April 2019","All articles containing potentially dated statements",
+"Taxonbars without primary Wikidata taxon IDs","All stub articles","Araneomorphae genera","Linyphiidae","Linyphiidae stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Kalimagone","wgRelevantArticleId":60389408,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q30753147","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Kalimagone
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Genus of spiders
+
+
+
+
+
+Kalimagone
+
+
+
+
+
+
+
+
+Scientific classification 
+
+
+Kingdom:
+
+Animalia
+
+
+Phylum:
+
+Arthropoda
+
+
+Subphylum:
+
+Chelicerata
+
+
+Class:
+
+Arachnida
+
+
+Order:
+
+Araneae
+
+
+Infraorder:
+
+Araneomorphae
+
+
+Family:
+
+Linyphiidae
+
+
+Genus:
+
+KalimagoneTanasevitch, 2017[1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Type species
+
+
+K. cuspidata Tanasevitch, 2017
+
+
+
+
+
+
+
+
+Species
+
+
+
+K. cuspidata Tanasevitch, 2017 — Malaysia (Borneo)
+K. rotunda Tanasevitch, 2017 — Malaysia (Borneo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kalimagone is a genus of Malaysian dwarf spiders first described by A. V. Tanasevitch in 2017.[2] As of April 2019[update] it contains only two species from Borneo.[1]
+
+References[edit]
+
+
+^ a b c "Gen. Kalimagone Tanasevitch, 2017". World Spider Catalog. Natural History Museum Bern. Retrieved 2019-04-01..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ Tanasevitch, A. V. (2017). "New genera and new species of the family Linyphiidae from Borneo, Sumatra and Java (Arachnida, Araneae)". Revue Suisse de Zoologie. 124 (1): 141–155. doi:10.5281/zenodo.322672.
+
+
+External links[edit]
+
+
+
+Wikispecies has information related to Kalimagone
+
+
+
+This Linyphiidae-related article is a stub. You can help Wikipedia by expanding it.vte
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Kalimagone&oldid=923443095"
+		
+		Categories: Araneomorphae generaLinyphiidaeLinyphiidae stubsHidden categories: Articles with short descriptionArticles with 'species' microformatsArticles containing potentially dated statements from April 2019All articles containing potentially dated statementsTaxonbars without primary Wikidata taxon IDsAll stub articles
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			In other projects
+			
+								
+					Wikispecies				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					Français				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 28 October 2019, at 16:11 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.484","walltime":"0.712","ppvisitednodes":{"value":5234,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":20989,"limit":2097152},"templateargumentsize":{"value":4241,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6150,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  677.816      1 -total"," 55.11%  373.565      1 Template:Automatic_taxobox"," 19.70%  133.548      1 Template:Reflist"," 12.77%   86.530      1 Template:Cite_web","  7.72%   52.343      1 Template:Short_description","  6.96%   47.187     22 Template:Delink","  6.35%   43.068      1 Template:Taxonbar","  5.36%   36.305      1 Template:Pagetype","  5.25%   35.594      1 Template:Cite_journal","  4.34%   29.419      1 Template:As_of"]},"scribunto":{"limitreport-timeusage":{"value":"0.372","limit":"10.000"},"limitreport-memusage":{"value":3546911,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20191218224453","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Kalimagone","url":"https:\/\/en.wikipedia.org\/wiki\/Kalimagone","sameAs":"http:\/\/www.wikidata.org\/entity\/Q30753147","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q30753147","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2019-04-01T21:40:12Z","dateModified":"2019-10-28T16:11:13Z","headline":"genus of Arachnida"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":873,"wgHostname":"mw1321"});});
+
+

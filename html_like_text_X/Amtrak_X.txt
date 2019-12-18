@@ -1,0 +1,1679 @@
+
+
+Amtrak - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfmqvgpAMFgAAD7InZMAAAAR","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Amtrak","wgTitle":"Amtrak","wgCurRevisionId":930652438,"wgRevisionId":930652438,"wgArticleId":51928,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: archived copy as title","All articles with dead external links","Articles with dead external links from June 2016","Articles with dead external links from December 2018",
+"Articles with permanently dead external links","CS1 maint: uses authors parameter","Articles with short description","Use mdy dates from February 2019","Articles needing additional references from July 2017","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from May 2015","Articles with unsourced statements from July 2015","Articles to be expanded from May 2015","All articles to be expanded","Articles using small message boxes","Wikipedia articles needing page number citations from July 2015","Articles with unsourced statements from June 2015","Articles containing potentially dated statements from 2015","All articles containing potentially dated statements","Articles containing potentially dated statements from 2014","Articles with hCards","Articles containing potentially dated statements from 2009","Commons category link is on Wikidata","Wikipedia articles with GND identifiers",
+"Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","Amtrak","1971 establishments in the United States","Alabama railroads","Arizona railroads","Arkansas railroads","British Columbia railways","California railroads","Class I railroads in North America","Colorado railroads","Connecticut railroads","Delaware railroads","Electric railways in the United States","Florida railroads","Georgia (U.S. state) railroads","Government-owned companies of the United States","Idaho railroads","Indiana railroads","Iowa railroads","Kansas railroads","Kentucky railroads","Louisiana railroads","Maine railroads","Maryland railroads","Massachusetts railroads","Michigan railroads","Minnesota railroads","Mississippi railroads","Missouri railroads","Montana railroads","Nebraska railroads","Nevada railroads","New Hampshire railroads","New Jersey railroads","New Mexico railroads",
+"New York (state) railroads","North American railroads by former company","North Carolina railroads","North Dakota railroads","Ohio railroads","Oklahoma railroads","Ontario railways","OpenTravel Alliance","Oregon railroads","Passenger rail transportation in the United States","Passenger railroads in the United States","Pennsylvania railroads","Quebec railways","Railroads in the Chicago Switching District","Railway companies established in 1971","Rhode Island railroads","South Carolina railroads","Tennessee railroads","Texas railroads","Utah railroads","Vermont railroads","Virginia railroads","Washington (state) railroads","Washington, D.C. railroads","West Virginia railroads","Wisconsin railroads","Corporations chartered by the United States Congress","Illinois railroads"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Amtrak","wgRelevantArticleId":51928,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],
+"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q23239","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":
+"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Amtrak
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		For other uses, see Amtrak (disambiguation).
+Intercity rail operator in the United States
+
+
+National Railroad Passenger Corporation (Amtrak)Geographic map of the Amtrak system (interactive map)Reporting markAMTK, AMTZ (IATA Code : 2V)Locale
+Contiguous United States (except South Dakota and Wyoming)
+British Columbia, Ontario, and Quebec in Canada
+Dates of operationMay 1, 1971[1][2]–present48 years agoPredecessor20 privately operated intercity passenger rail systemsTrack gauge4 ft 8 1⁄2 in (1,435 mm) standard gaugeElectrification
+12 kV, 25 Hz AC:
+Northeast Corridor (Washington, D.C. – New Rochelle)
+Philadelphia to Harrisburg Main Line (Keystone Corridor)
+25 kV, 60 Hz AC:
+Northeast Corridor (New Rochelle – Boston)
+Length44 routes (21,400 miles (34,400 km) route miles)Track owned: 623 miles (1,003 km)Headquarters1 Massachusetts Ave, N.W., Washington, D.C.Websitewww.amtrak.com
+The National Railroad Passenger Corporation, doing business as Amtrak, is a passenger railroad service that provides medium- and long-distance intercity service in the contiguous United States and to nine Canadian cities.
+Founded in 1971 as a quasi-public corporation to operate many U.S. passenger rail services,[1][2][3] it receives a combination of state and federal subsidies but is managed as a for-profit organization.[4] Amtrak's headquarters is located one block west of Union Station in Washington, D.C.[5]
+Amtrak serves more than 500 destinations in 46 states and three Canadian provinces, operating more than 300 trains daily over 21,400 miles (34,000 km) of track. Amtrak owns approximately 623 miles of this track and operates an additional 132 miles of track. Some track sections allow trains to run as fast as 150 mph (240 km/h).[4]
+In fiscal year 2018, Amtrak served 31.7 million passengers and had $3.4 billion in revenue, while employing more than 20,000 people. Nearly 87,000 passengers ride more than 300 Amtrak trains on a daily basis.[4] Nearly two-thirds of passengers come from the 10 largest metropolitan areas; 83% of passengers travel on routes shorter than 400 miles (645 km).[6]
+The name Amtrak is a portmanteau of the words America and trak, the latter itself a sensational spelling of track.[4]
+
+.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}Contents
+
+1 History
+
+1.1 Private passenger service
+1.2 Formation
+1.3 1970s: The Rainbow Era
+1.4 The 1980s and 1990s
+1.5 Growth in the 21st century
+
+
+2 Operations
+
+2.1 Routes
+2.2 Efficiency
+2.3 Intermodal connections
+2.4 On-time performance
+2.5 Ridership
+2.6 Guest Rewards
+2.7 Commuter services
+2.8 Lines
+2.9 Rolling stock
+
+
+3 On-board services
+
+3.1 Classes of service
+3.2 Wi-Fi and electronic services
+3.3 Baggage
+
+
+4 Company officers
+
+4.1 Presidents
+4.2 Board of Directors
+
+
+5 Labor issues
+6 Public funding
+
+6.1 Funding history
+
+6.1.1 1970s to 1990s
+6.1.2 2000s
+6.1.3 2010s
+
+
+6.2 Controversy
+
+
+7 Incidents
+8 See also
+9 Notes
+10 References
+11 Further reading
+12 External links
+
+
+
+History[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Amtrak" – news · newspapers · books · scholar · JSTOR  (July 2017) (Learn how and when to remove this template message)
+See also: History of rail transport in the United States
+Private passenger service[edit]
+  The Pennsylvania Railroad's Congressional in the 1960s
+In 1916, 98% of all commercial intercity travelers in the United States moved by rail, and the remaining 2% moved by inland waterways.[7] Nearly 42 million passengers used railways as primary transportation.[8] Passenger trains were owned and operated by the same privately owned companies that operated freight trains.[9] As the 20th century progressed, patronage declined in the face of competition from buses, air travel, and the automobile. New streamlined diesel-powered trains such as the Pioneer Zephyr were popular with the traveling public but could not reverse the trend.[10] By 1940, railroads held just 67 percent of commercial passenger-miles in the United States. In real terms, passenger-miles had fallen by 40% since 1916, from 42 billion to 25 billion.[8]
+Traffic surged during World War II, which was aided by troop movement and gasoline rationing. The railroad's market share surged to 74% in 1945, with a massive 94 billion passenger-miles.[11] After the war, railroads rejuvenated their overworked and neglected passenger fleets with fast and luxurious streamliners.[12] These new trains brought only temporary relief to the overall decline.[13] Even as postwar travel exploded, passenger travel percentages of the overall market share fell to 46% by 1950, and then 32% by 1957.[8] The railroads had lost money on passenger service since the Great Depression, but deficits reached $723 million in 1957. For many railroads, these losses threatened financial viability.[14]
+The causes of this decline were heavily debated. The National Highway System and airports, both funded by the government, competed directly with the railroads, who paid for their own infrastructure.[15] American car culture was also on the rise in the post-World War II years. Progressive Era rate regulation limited the railroad's ability to turn a profit.[16] Railroads also faced antiquated work rules and inflexible relationships with trade unions. To take one example, workers continued to receive a day's pay for 100-to-150-mile (160 to 240 km) work days. Streamliners covered that in two hours.[17]
+Matters approached a crisis in the 1960s. Passenger service route-miles fell from 107,000 miles (172,000 km) in 1958 to 49,000 miles (79,000 km) in 1970, the last full year of private operation.[18] The diversion of most U.S. Postal Service mail from passenger trains to trucks, airplanes, and freight trains in late 1967 deprived those trains of badly needed revenue.[19] In direct response, the Atchison, Topeka and Santa Fe Railway filed to discontinue 33 of its remaining 39 trains, ending almost all passenger service on one of the largest railroads in the country.[20] The equipment the railroads had ordered after World War II was now 20 years old, worn out, and in need of replacement.[21]
+
+Formation[edit]
+See also: List of railroads eligible to participate in the formation of Amtrak
+@media all and (max-width:720px){.mw-parser-output .mobile-float-reset{float:none!important;width:100%!important}}.mw-parser-output .stack-container{box-sizing:border-box}.mw-parser-output .stack-clear-left{float:left;clear:left}.mw-parser-output .stack-clear-right{float:right;clear:right}.mw-parser-output .stack-left{float:left}.mw-parser-output .stack-right{float:right}.mw-parser-output .stack-object{margin:1px;overflow:hidden}
+  The Denver and Rio Grande Western Railroad's Rio Grande Zephyr at Denver's Union Station in April 1983
+  Penn Central Railroad's employee publication announcing the inauguration of Amtrak on May 1, 1971. Penn Central Amtrak routes are shown.
+
+As passenger service declined various proposals were brought forward to rescue it. The 1961 Doyle Report proposed that the private railroads pool their services into a single body.[22] Similar proposals were made in 1965 and 1968, but failed to attract support. The federal government passed the High Speed Ground Transportation Act of 1965 to fund pilot programs in the Northeast Corridor, but this did nothing to address passenger deficits. In late 1969 multiple proposals emerged in the United States Congress, including equipment subsidies, route subsidies, and, lastly, a "quasi-public corporation" to take over the operation of intercity passenger trains. Matters were brought to a head on March 5, 1970, when the Penn Central, the largest railroad in the Northeast United States and teetering on bankruptcy, filed to discontinue 34 of its passenger trains.[23]
+In October 1970, Congress passed, and President Richard Nixon signed into law, the Rail Passenger Service Act.[24] Proponents of the bill, led by the National Association of Railroad Passengers (NARP), sought government funding to ensure the continuation of passenger trains. They conceived the National Railroad Passenger Corporation (NRPC), a private entity that would receive taxpayer funding and assume operation of intercity passenger trains.[25] The original working brand name for NRPC was Railpax, but shortly before the company started operating it was changed to Amtrak.[26] There were several key provisions:[27]
+
+Any railroad operating intercity passenger service could contract with the NRPC, thereby joining the national system.
+Participating railroads bought into the NRPC using a formula based on their recent intercity passenger losses. The purchase price could be satisfied either by cash or rolling stock; in exchange, the railroads received NRPC common stock.
+Any participating railroad was freed of the obligation to operate intercity passenger service after May 1, 1971, except for those services chosen by the Department of Transportation (DOT) as part of a "basic system" of service and paid for by NRPC using its federal funds.
+Railroads that chose not to join the NRPC system were required to continue operating their existing passenger service until 1975 and thenceforth had to pursue the customary ICC approval process for any discontinuance or alteration to the service.
+Of the 26 railroads still offering intercity passenger service in 1970, only six declined to join Amtrak.[28] Nearly everyone involved expected the experiment to be short-lived. The Nixon administration and many Washington insiders viewed the NRPC as a politically expedient way for the President and Congress to give passenger trains a "last hurrah" as demanded by the public. They expected Amtrak to quietly disappear as public interest waned.[29] After Fortune magazine exposed the manufactured mismanagement in 1974, Louis W. Menk, chairman of the Burlington Northern Railroad, remarked that the story was undermining the scheme to dismantle Amtrak.[30] Proponents also hoped that government intervention would be brief and that Amtrak would soon be able to support itself. Neither view had proved to be correct; for popular support allowed Amtrak to continue in operation longer than critics imagined, while financial results made passenger train service returning to private railroad operations infeasible.[citation needed]
+
+1970s: The Rainbow Era[edit]
+
+  A Burlington Northern EMD F3 leads the North Coast Hiawatha into Yakima, Washington, in July 1971, an example of early Amtrak "rainbow" consists, made up of equipment still painted in the colors of various freight carriers
+
+Amtrak began operations on May 1, 1971.[1][2][31] Amtrak received no rail tracks or rights-of-way at its inception. All Amtrak's routes were continuations of prior service, although Amtrak pruned about half the passenger rail network.[32] Of the 366 train routes that operated previously, Amtrak only continued 184.[33] On the routes that were continued (to the extent possible), schedules were retained with only minor changes from the Official Guide of the Railways and under the same names.[citation needed] Several major corridors became freight-only, including the ex-New York Central Railroad's Water Level Route from New York to Ohio and Grand Trunk Western Railroad's Chicago to Detroit route. Reduced passenger train schedules created headaches. A 19-hour layover became necessary for eastbound travel on the James Whitcomb Riley between Chicago and Newport News.[citation needed]
+Amtrak inherited problems with train stations (most notably deferred maintenance) and redundant facilities that competed with companies serving the same areas. On the day it started, Amtrak was given the responsibility of rerouting passenger trains from the seven train terminals in Chicago (LaSalle, Dearborn, Grand Central, Randolph, Chicago Northwestern Terminal, Central, and Union) into just one, Union Station. In New York City, Amtrak had to pay and maintain both the Penn Station and the Grand Central Terminal due to the lack of track connections to bring trains from upstate New York into Penn Station; a problem that was rectified once the Empire Connection was built in 1991.[34] Amtrak had to abandon numerous large stations whose upkeep could no longer be justified.[citation needed] On the other hand, the creation of the Los Angeles–Seattle Coast Starlight from three formerly separate train routes was an immediate success, resulting in an increase to daily service by 1973.[35][36]
+
+  Classic Amtrak logo displayed at the Oakland – Jack London Square station, California
+Needing to operate only half the train routes that were owned by the private railroads, Amtrak originally picked around 1,200 of the best passenger cars to lease from the 3,000 that the private railroads had owned. All were air-conditioned; and 90% were easy-to-maintain stainless steel.[37] When Amtrak took over, passenger cars and locomotives initially retained the paint schemes and logos of their former owners which resulted in Amtrak running trains with mismatched colors – the "Rainbow Era".[38] In mid-1971, Amtrak began purchasing some of the equipment it had leased, including 286 EMD E and F unit diesel locomotives, 30 GG1 electric locomotives and 1,290 passenger cars. By 1975, the official Amtrak color scheme was painted on most Amtrak equipment and newly purchased locomotives and rolling stock began appearing.[39]
+
+  An Amtrak EMD SDP40F with the San Francisco Zephyr in 1975. By the mid-1970s Amtrak equipment was acquiring its own identity.
+Amtrak soon had the opportunity to acquire rights-of-way. Following the bankruptcy of several northeastern railroads in the early 1970s, including Penn Central, which owned and operated the Northeast Corridor (NEC), Congress passed the Railroad Revitalization and Regulatory Reform Act of 1976.[40] A large part of the legislation was directed to the creation of Conrail, but the law also enabled the transfer of the portions of the NEC not already owned by state authorities to Amtrak. Amtrak acquired the majority of the NEC on April 1, 1976.[41] (The portion in Massachusetts is owned by the Commonwealth and managed by Amtrak. The route from New Haven to New Rochelle is owned by the Metropolitan Transportation Authority and the Connecticut Department of Transportation as the New Haven Line.)[citation needed] This main line became Amtrak's "jewel" asset, and helped the railroad generate revenue. While the NEC ridership and revenues were higher than any other segment of the system, the cost of operating and maintaining the corridor proved to be overwhelming. As a result, Amtrak's federal subsidy was increased dramatically. In subsequent years, other short route segments not needed for freight operations were transferred to Amtrak.[citation needed]
+In its first decade, Amtrak fell far short of financial independence, which continues today, but it did find modest success rebuilding trade. Outside factors discouraged competing transport, such as fuel shortages which increased costs of automobile and airline travel, and strikes which disrupted airline operations. Investments in Amtrak's track, equipment and information also made Amtrak more relevant to America's transportation needs.[42][43] Amtrak's ridership increased from 16.6 million in 1972 to 21 million in 1981.[44]
+
+The 1980s and 1990s[edit]
+This section needs expansion. You can help by adding to it.  (May 2015)
+
+  An EMD AEM-7 with a Metroliner in 1987. The AEM-7 was Amtrak's workhorse on electrified routes for over 30 years.
+  An EMD F40PH leads the California Zephyr in 1995. The F40PH replaced the unreliable SDP40F.
+
+In 1982, former Secretary of the Navy and retired Southern Railway head William Graham Claytor Jr. came out of retirement to lead Amtrak.[45][page needed] Despite frequent clashes with the Reagan administration over funding, Claytor enjoyed a good relationship with John H. Riley, the head of the Federal Railroad Administration (FRA), and with members of Congress. Limited funding led Claytor to use short-term debt to fund operations.[46]
+Building on mechanical developments in the 1970s,  high speed Washington-New York Metroliner Service was improved with new equipment and faster schedules. Travel time between New York and Washington D.C was reduced to under 3 hours.[47] According to the 1980 Amtrak Annual Report, a converted 12-car set saved the company approximately $250,000 a year in fuel, maintenance and yard support costs. Amtrak completed the head-end power conversion program in 1982. Demand for passenger rail service resulted in the creation of five new state-supported routes in California, Illinois, Missouri, Oregon and Pennsylvania, for a total of 15 state-supported routes across the nation.
+Ridership stagnated at roughly 20 million passengers per year amid uncertain government aid from 1981 to about 2000.[44][48] Thomas Downs succeeded Claytor in 1993. Amtrak's stated goal remained "operational self-sufficiency". By this time, however, Amtrak had a large overhang of debt from years of underfunding, and in the mid-1990s, Amtrak suffered through a serious cash crunch. Under Downs, Congress included a provision in the Taxpayer Relief Act of 1997 that resulted in Amtrak receiving a $2.3 billion tax refund that resolved their cash crisis.[49] However, Congress also instituted a "glide-path" to financial self-sufficiency, excluding railroad retirement tax act payments.[50]
+George Warrington became president in 1998 with a mandate to make Amtrak financially self-sufficient. Passengers became "guests" and there were expansions into express freight work, but the financial plans failed. Amtrak's inroads in express freight delivery created additional friction with competing freight operators, including the trucking industry. Delivery was delayed of much anticipated high-speed trainsets for the improved Acela Express service, which promised to be a strong source of income and favorable publicity along the Northeast Corridor between Boston and Washington, D.C.[citation needed]
+
+
+Growth in the 21st century[edit]
+
+  An Acela Express at Old Saybrook, Connecticut, in 2011
+  In the 21st century Amtrak replaced its F40PH units with the GE Genesis. Pictured are Amtrak engines #1 and #56, both GE Genesis P42DC diesels, pulling the eastbound California Zephyr at Grand Junction, Colorado, April 2012
+  Talgo equipment on the state-funded Amtrak Cascades in 2006. Amtrak partnerships with state governments grew throughout the early 2000s
+
+Ridership increased during the first decade of the 21st century after implementation of capital improvements in the NEC and rises in automobile fuel costs. The inauguration of the high-speed Acela Express in late 2000 generated considerable publicity and led to major ridership gains. However, through the late 1990s and very early 21st century, Amtrak could not add sufficient express freight revenue or cut sufficient other expenditures to break even. By 2002, it was clear that Amtrak could not achieve self-sufficiency, but Congress continued to authorize funding and released Amtrak from the requirement.[51] In early 2002, David L. Gunn replaced Warrington as president. In a departure from his predecessors' promises to make Amtrak self-sufficient in the short term, Gunn argued that no form of passenger transportation in the United States is self-sufficient as the economy is currently structured.[52] Highways, airports, and air traffic control all require large government expenditures to build and operate, coming from the Highway Trust Fund and Aviation Trust Fund paid for by user fees, highway fuel and road taxes, and, in the case of the General Fund, from general taxation.[53] Gunn dropped most freight express business and worked to eliminate deferred maintenance.[54]
+A plan by the Bush administration "to privatize parts of the national passenger rail system and spin off other parts to partial state ownership" provoked disagreement within Amtrak's board of directors. Late in 2005, Gunn was fired.[55] Gunn's replacement, Alexander Kummant (2006–08), was committed to operating a national rail network, and, like Gunn, opposed the notion of putting the Northeast Corridor under separate ownership.[56] He said that shedding the system's long-distance routes would amount to selling national assets that are on par with national parks, and that Amtrak's abandonment of these routes would be irreversible. In late 2006, Amtrak unsuccessfully sought annual congressional funding of $1 billion for ten years.[56] In early 2007, Amtrak employed 20,000 people in 46 states and served 25 million passengers a year, its highest amount since its founding in 1970. Politico noted a key problem: "the rail system chronically operates in the red. A pattern has emerged: Congress overrides cutbacks demanded by the White House and appropriates enough funds to keep Amtrak from plunging into insolvency. But, Amtrak advocates say, that is not enough to fix the system's woes."
+[57]
+Joseph H. Boardman replaced Kummant as President and CEO in late 2008.[58]
+In 2011, Amtrak announced its intention to improve and expand the high-speed rail corridor from Penn Station in NYC, under the Hudson River in new tunnels, and double-tracking the line to Newark, NJ called the Gateway Program, initially estimated to cost $13.5 billion.[59][60][61]
+From May 2011 to May 2012, Amtrak celebrated its 40th anniversary with festivities across the country that started on National Train Day (May 7, 2011). A commemorative book entitled Amtrak: An American Story was published, and a documentary was created. Six commemorative Heritage units a 40th Anniversary Exhibit Train toured the country. The Exhibit Train visited 45 communities and welcomed more than 85,000 visitors.[62] It was an entirely rebuilt train powered by GE Genesis locomotives and included three refurbished ex-Santa Fe baggage cars and a food service car. Four Genesis locomotives were painted into retired Amtrak paint schemes: No. 156 was in Phase 1 colors, No. 66 was in Phase 2 colors, No. 145 and No. 822 were in Phase 3 colors (822 pulled the Exhibit train),[63] and No. 184 was in Phase 4 colors.[64][65] After years of almost revolving-door CEOs at Amtrak, in December 2013, Boardman was named "Railroader of the Year" by Railway Age magazine, which noted that with over five years in the job, he is the second-longest serving head of Amtrak since it was formed more than 40 years ago.[66] In 2014 Amtrak began offering a "residency" program for writers.[67]
+On December 9, 2015, Boardman announced in a letter to employees that he would be leaving Amtrak in September 2016. He had advised the Amtrak Board of Directors of his decision the previous week. On August 19, 2016, the Amtrak Board of Directors named former Norfolk Southern Railway President & CEO Charles "Wick" Moorman as Boardman's successor with an effective date of September 1, 2016.[68] During his term, Moorman took no salary[69] and said that he saw his role as one of a "transitional CEO" who would reorganize Amtrak before turning it over to new leadership.[70]
+On November 17, 2016, the Gateway Program Development Corporation (GDC) was formed for the purpose of overseeing and effectuating the rail infrastructure improvements known as the Gateway Program.  (citation below) GDC is a partnership of the States of New York and New Jersey and Amtrak.  The Gateway Program includes the Hudson Tunnel Project, to build a new tunnel under the Hudson River and rehabilitate the existing century-old tunnel, and the Portal North Bridge, to replace a century-old moveable bridge with a modern structure that is less prone to failure.  Later projects of the Gateway Program, including expansion of track and platforms at Penn Station New York, construction of the Bergen Loop and other improvements will roughly double capacity for Amtrak and NJ Transit trains in the busiest, most complex section of the Northeast Corridor.[71]
+In June 2017, it was announced that former Delta and Northwest Airlines CEO Richard Anderson would become Amtrak's next President & CEO.[70] Anderson began the job on July 12, assuming the title of President immediately and serving alongside Moorman as "co-CEOs" until the end of the year.
+
+Operations[edit]
+Routes[edit]
+Main articles: List of Amtrak routes, List of busiest Amtrak stations, and List of major cities in U.S. lacking Amtrak service
+Amtrak is required by law to operate a national route system.[72] Amtrak has presence in 46 of the 48 contiguous states (lacking Wyoming and South Dakota). Amtrak services fall into three groups: short-haul service on the Northeast Corridor, state-supported short haul service outside the Northeast Corridor, and medium- and long-haul service known within Amtrak as the National Network. Amtrak receives federal funding for the vast majority of its operations including the central spine of the Northeast Corridor as well as for its National Network routes. In addition to the federally funded routes, Amtrak partners with transportation agencies in 18 states to operate other short and medium haul routes outside of the Northeast Corridor, some of which connect to it or are extensions off of it. In addition to its inter-city services, Amtrak also operates commuter services for three state agencies including MARC in Maryland, Shore Line East in Connecticut, and Metrolink in California.
+Service on the Northeast Corridor, between Boston, and Washington, D.C., as well as between Philadelphia and Harrisburg, is powered by overhead electric wires; for the rest of the system, diesel locomotives are used. Routes vary widely in frequency of service, from three-days-a-week trains on the Sunset Limited to weekday service several times per hour on the Northeast Corridor (NEC).[73] Amtrak also operates a captive bus service, Thruway Motorcoach, which provides connections to train routes.[74]
+The most popular and heavily used services are those running on the NEC, including the Acela Express and Northeast Regional. The NEC runs from Boston to Washington, D.C. via New York City and Philadelphia. Some services continue into Virginia. The NEC services accounted for 12.1 million of Amtrak's 31.7 million passengers in fiscal year 2018.[4] Outside the NEC the most popular services are the short-haul corridors in California. These include the Pacific Surfliner, Capitol Corridor, and San Joaquin, supplemented by an extensive network of connecting buses. Together the California corridor trains accounted for a combined 5,731,795 passengers in fiscal year 2018.[4] Other popular corridors include the Empire Corridor, which consists of trackage between New York City and Niagara Falls, New York via Albany and Buffalo, New York and carried 1,517,194 passengers in fiscal year 2018, and the Keystone Service from New York City to Harrisburg via Philadelphia that carried 1,519,936 passengers that same year.[4]
+Four of the six  busiest stations by boardings are on the NEC: New York (Penn Station) (first), Washington (Union Station) (second), Philadelphia (30th Street Station) (third), and Boston (South Station) (fifth). The other two are Chicago (Union Station) (fourth) and Los Angeles (Union Station) (sixth).[4]
+
+Efficiency[edit]
+Per passenger mile, Amtrak is 30–40 percent more energy-efficient than commercial airlines and automobiles overall,[75] though the exact figures for particular routes depend on load factor along with other variables. The electrified trains in the NEC are considerably more efficient than Amtrak's diesels and can feed energy captured from regenerative braking back to the electrical grid. Passenger rail is also very competitive with other modes in terms of safety per mile.
+
+
+
+
+Mode
+
+Revenue perpassenger mile[76]
+
+Energy consumptionper passenger mile[75]
+
+Deaths per 100million passenger miles[77]
+
+Reliability[78]
+
+
+Domestic airlines
+
+13.0¢
+
+2,931 BTU/mi (1,922 kJ/km)
+
+< 0.01
+
+81.9%
+
+
+Transit buses
+
+12.9¢[79]
+
+2,656 BTU/mi (1,741 kJ/km)
+
+0.06
+
+N/A
+
+
+Amtrak
+
+30.7¢
+
+1,745 BTU/mi (1,144 kJ/km)
+
+0.03
+
+83%
+
+
+Automobiles
+
+N/A
+
+3,501 BTU/mi (2,295 kJ/km)
+
+0.48
+
+N/A
+
+On-time performance is calculated differently for airlines than for Amtrak. A plane is considered on-time if it arrives within 15 minutes of the schedule. Amtrak uses a sliding scale, with trips under 250 miles (400 km) considered late if they are more than 10 minutes behind schedule, up to 30 minutes for trips over 551 miles (887 km) in length.[78]
+In 2005, Amtrak's carbon dioxide equivalent emissions were 0.411 lbs/mi (0.116 kg per km).[80] For comparison, this is similar to a car with two people,[81] about twice as high as the UK rail average (where more of the system is electrified),[82] about four times the average US motorcoach,[83] and about eight times a Finnish electric intercity train or fully loaded fifty-seat coach.[84][85] It is, however, about two thirds of the raw CO2-equivalent emissions of a long-distance domestic flight.[86]
+
+Intermodal connections[edit]
+Intermodal connections between Amtrak trains and other transportation are available at many stations. Most Amtrak rail stations in downtown areas have connections to local public transport. Amtrak also code shares with United Airlines, providing service between Newark Liberty International Airport (via its Amtrak station and AirTrain Newark) and Philadelphia 30th St, Wilmington, Stamford, and New Haven. Special codes are used to designate these intermodal routes, such as "ZVE" to designate the combination of New Haven's Union Station and Newark International Airport and the Amtrak connection between them. Amtrak also serves airport stations at Milwaukee, Oakland, Burbank, and Baltimore.[citation needed]
+Amtrak coordinates Thruway Motorcoach service to extend many of its routes, especially in California.[citation needed]
+
+On-time performance[edit]
+Outside the Northeast Corridor and stretches of track in Southern California and Michigan, most Amtrak trains run on tracks owned and operated by privately owned freight railroads. Freight rail operators are required under federal law to give dispatching preference to Amtrak trains. Some freight railroads have been accused of violating or skirting these regulations, allegedly resulting in passenger trains waiting in sidings for an hour or longer while waiting for freight traffic to clear the track. The railroads' dispatching practices were investigated in 2008,[87] resulting in stricter laws about train priority. Subsequently, Amtrak's overall on-time performance went up from 74.7% in fiscal 2008 to 84.7% in 2009, with long-distance trains and others outside the NEC seeing the greatest benefit. The Missouri River Runner jumped from 11% to 95%, becoming one of Amtrak's best performers. The Texas Eagle went from 22.4% to 96.7%, and the California Zephyr, with a 5% on-time record in 2008, went up to 78.3%.[88] This improved performance coincided with a general economic downturn, resulting in the lowest freight-rail traffic volumes since at least 1988, meaning less freight traffic to impede passenger traffic.[89] In 2018, Amtrak began issuing report cards, grading each host railroad based on the railroad's impact on on-time performance. The first report card, issued in March 2018, includes one A (given to Canadian Pacific) and two Fs (given to CN and Norfolk Southern).[90]
+
+Ridership[edit]
+  Annual ridership by fiscal year 1971–2012
+Amtrak carried 15,848,327 passengers in 1972, its first full year of operation.[91] Ridership has increased steadily ever since, carrying a record 31.7 million passengers in fiscal year 2017, double the total in 1972.[92]
+
+Guest Rewards[edit]
+Amtrak's loyalty program, Guest Rewards,[93] is similar to the frequent-flyer programs of many airlines. Guest Rewards members accumulate points by riding Amtrak and through other activities, and can redeem these points for free or discounted Amtrak tickets and other rewards.[93]
+
+Commuter services[edit]
+Main article: Commuter rail in North America
+Through various commuter services, Amtrak serves an additional 61.1 million passengers per year in conjunction with state and regional authorities in California (through Amtrak California and Metrolink), Connecticut (through Shore Line East), and Maryland (through MARC).[citation needed]
+
+Lines[edit]
+
+  An Amtrak catenary maintenance vehicle on the Northeast Corridor in Guilford, Connecticut
+  An electric Amtrak train with two AEM-7 locomotives running through New Jersey on the Northeast Corridor
+
+Along the NEC and in several other areas, Amtrak owns 730 miles (1,170 km) including 17 tunnels consisting of 29.7 miles (47.8 km) of track, and 1,186 bridges (including the famous Hell Gate Bridge) consisting of 42.5 miles (68.4 km) of track. In several places, primarily in New England, Amtrak leases tracks, providing track maintenance and controlling train movements. Most often, these tracks are leased from state, regional, or local governments. Amtrak owns and operates the following lines:[94]
+
+Northeast Corridor: the Northeast Corridor between Washington, D.C. and Boston via Baltimore, Philadelphia, Newark, New York and Providence is largely owned by Amtrak (363 of 457 miles),[4] working cooperatively with several state and regional commuter agencies.[95][96] Between New Haven, Connecticut, and New Rochelle, New York, Northeast Corridor trains travel on the Metro-North Railroad's New Haven Line, which is owned and operated by the Connecticut Department of Transportation and the Metropolitan Transportation Authority.
+Keystone Corridor: Amtrak owns the 104.2-mile line from Philadelphia to Harrisburg, Pennsylvania.[4] As a result of an investment partnership with the Commonwealth of Pennsylvania, signal and track improvements were completed in October 2006 that allow all-electric service with a top speed of 110 miles per hour (180 km/h) to run along the corridor.
+Empire Corridor: Amtrak owns the 11 miles (18 km) between New York Penn Station and Spuyten Duyvil, New York. In 2012, Amtrak leased the 94 miles (151 km) between Poughkeepsie, New York, and Schenectady, New York from owner CSX.[97] In addition, Amtrak owns the tracks across the Whirlpool Rapids Bridge and short approach sections near it.[98]
+Michigan Line: Amtrak acquired the west end of the former Michigan Central main line of 98 miles from Conrail in 1976.
+New Haven–Springfield Line: Amtrak owns the 62 miles (100 km) between New Haven and Springfield.
+Post Road Branch: 12.42 miles (19.99 km), Castleton-on-Hudson to Rensselaer, New York
+In addition to these lines Amtrak owns station and yard tracks in Chicago, Los Angeles, New Orleans, New York City, Oakland (Kirkham Street Yard),[99] Orlando, Portland, Oregon, Saint Paul, Seattle, Philadelphia, and Washington, D.C. Amtrak leases station and yard tracks in Hialeah, near Miami, Florida, from the State of Florida.[citation needed]
+Amtrak owns the Chicago Union Station Company (Chicago Union Station), New York Penn Station, Baltimore Penn Station and Providence Station. It has a 99.7% interest in the Washington Terminal Company (tracks around Washington Union Station) and 99% of 30th Street Limited (Philadelphia 30th Street Station).[100] Amtrak also owns Passenger Railroad Insurance.[101]
+
+Rolling stock[edit]
+Main article: List of Amtrak rolling stock
+Amtrak owns 2,142 railway cars and 425 locomotives for revenue runs and service. Examples include the GE P42DC, the Siemens ACS-64, the Amfleet car, and the Superliner car. Occasionally private cars, or loaned locomotives from other railroads can be found on Amtrak trains.
+
+On-board services[edit]
+Classes of service[edit]
+
+  The interior of a Viewliner sleeping car bedroom with the lower bed down
+  The interior of a long-distance Amfleet II coach
+
+As of 2015[update] Amtrak offers four classes of service: First Class, Sleeper Service, Business Class, and Coach Class:[102]
+
+First Class: First Class service is currently offered only on the Acela Express. Seats are larger than those of Business Class and come in a variety of seating styles (single, facing singles with table, double, facing doubles with table and wheelchair accessible). First Class is located in a separate car from business class and is located at the end of the train (to reduce the number of passengers walking in the aisles). A car attendant provides passengers with hot towel service, a complimentary meal and alcoholic beverages. First Class passengers have access to ClubAcela lounges located at select stations.[103]
+Sleeper Service: Sleeper Service comprises private room accommodations on long-distance trains. Rooms are classified into roomettes, bedrooms, accessible bedrooms, and family bedrooms (on some trains). Included in the price of a room are attendant service and on most routes, full hot meals. At night, attendants convert rooms into sleeping areas with fold-down beds and fresh linens. Shower facilities with towels and bar soap are available. Complimentary juice, coffee and bottled water are included as well. Sleeper car passengers have access to all passenger facilities aboard the train. Sleeper passengers have access to ClubAcela lounges, Metropolitan Lounges, and unattended First Class Lounges located at select stations.[104]
+Business Class: Business Class seating is offered on the Acela Express, Northeast Regional, many short-haul corridor trains and some long-distance trains. It is the standard class of service on the Acela Express. On all other trains where it is offered, Business Class is located in a dedicated car or section of the train. While the specific features vary by route, many include extra legroom and complimentary non-alcoholic drinks. Seats in business class recline, are typically appointed in leather and feature a fold-down tray table, foot rest, individual reading light, and power outlet. Business Class passengers have access to Metropolitan Lounges located at select stations and may purchase a daily access pass to select ClubAcela locations.[105]
+Coach Class: Coach Class is the standard class of service on all Amtrak trains except the Acela Express. Seats in coach recline and feature a fold-down tray table, foot rest, individual reading light, and power outlet. Coach cars on long-distance trains are configured with fewer seats per car so that passengers have additional legroom and seats which are equipped with leg rests.[106]
+Wi-Fi and electronic services[edit]
+Amtrak launched an e-ticketing system on the Downeaster in November 2011[107] and rolled it out nationwide on July 30, 2012. Amtrak officials said the system gives "more accurate knowledge in realtime of who is on the train which greatly improves the safety and security of passengers; en route reporting of onboard equipment problems to mechanical crews which may result in faster resolution of the issue; and more efficient financial reporting".[108]
+Amtrak first offered free Wi-Fi service to passengers aboard the Downeaster in 2008, the Acela Express and the Northeast Regional trains on the NEC in 2010, and the Amtrak Cascades in 2011. In February 2014, Amtrak rolled out Wi-Fi on corridor trains out of Chicago. When all the Midwest cars offer the AmtrakConnect service, about 85% of all Amtrak passengers nationwide will have Wi-Fi access.[109][110] As of 2014[update], most Amtrak passengers have access to free Wi-Fi. The service has developed a reputation for being unreliable and slow due to its cellular network connection;[111][112] on some routes it is usually unusable, either freezing on the login page or, if it manages to log in, failing to provide any internet bandwidth.
+
+Baggage[edit]
+  A Viewliner II baggage car at New London in 2016
+Amtrak allows carry-on baggage on all routes; services with baggage cars allow checked baggage at selected stations.[113][114] With the passage of the Wicker Amendment in 2010 passengers are allowed to put lawfully owned, unloaded firearms in checked Amtrak baggage, reversing a decade-long ban on such carriage.[115]
+Amtrak Express (reporting marks AMTK, AMTZ) provides small-package and less-than-truckload shipping among more than 100 cities. Amtrak Express also offers station-to-station shipment of human remains to many express cities. At smaller stations, funeral directors must load and unload the shipment onto and off the train. Amtrak hauled mail for the United States Postal Service and time-sensitive freight, but canceled these services in October 2004 due to minuscule profits.[116] On most parts of the few lines that Amtrak owns, trackage rights agreements allow freight railroads to use its trackage.
+
+
+Company officers[edit]
+Presidents[edit]
+  William Graham Claytor Jr, president 1982–93
+
+
+Name
+Tenure
+
+
+Roger Lewis[117]
+1971–1974
+
+
+Paul Reistrup[118][page needed]
+1974–1978
+
+
+Alan Stephenson Boyd[119][120]
+1978–1982
+
+
+W. Graham Claytor, Jr.[121]
+1982–1993
+
+
+Thomas Downs[122]
+1993–1998
+
+
+George Warrington[123]
+1998–2002
+
+
+David L. Gunn[124][125]
+2002–2005
+
+
+David Hughes[124] (interim)
+2005–2006
+
+
+Alexander Kummant[126][127]
+2006–2008
+
+
+William Crosbie (interim)
+2008
+
+
+Joseph H. Boardman[58][128]
+2008–2016
+
+
+Charles W. "Wick" Moorman IV[129][130]
+2016–2017
+
+
+Richard Anderson[70]
+2017–present
+
+Board of Directors[edit]
+Anthony Coscia, chairman[131]
+Jeffrey Moreland, vice-chairman[132]
+Richard H. Anderson, CEO and President[133]
+Thomas C. Carper[134]
+Albert DiClemente[135]
+Elaine Chao, United States Secretary of Transportation[136]
+Yvonne Brathwaite Burke[137]
+Christopher R. Beall[138]
+Derek Kan[139]
+Labor issues[edit]
+In the modern era, Amtrak faces a number of important labor issues. In the area of pension funding, because of limitations originally imposed by Congress, most Amtrak workers were traditionally classified as "railroad employees" and contributions to the Railroad Retirement system have been made for those employees. However, because the size of the contributions is determined on an industry-wide basis rather than with reference to the employer for whom the employees work, some critics, such as the National Association of Railroad Passengers, maintain that Amtrak is subsidizing freight railroad pensions by as much as US$150 million/year.[140]
+In recent times, efforts at reforming passenger rail have addressed labor issues. In 1997 Congress released Amtrak from a prohibition on contracting for labor outside the corporation (and outside its unions), opening the door to privatization.[141] Since that time, many of Amtrak's employees have been working without a contract. The most recent contract, signed in 1999, was mainly retroactive.
+Because of the fragmentation of railroad unions by job, as of 2009[update] Amtrak has 14 separate unions to negotiate with. Plus, it has 24 separate contracts with those unions.[142] This makes it difficult to make substantial changes, in contrast to a situation where one union negotiates with one employer. Former Amtrak president Kummant followed a cooperative posture with Amtrak's trade unions, ruling out plans to privatize large parts of Amtrak's unionized workforce.[143]
+
+Public funding[edit]
+Amtrak receives annual appropriations from federal and state governments to supplement operating and capital programs.
+
+
+Total federal grant appropriations per year (billions)
+
+
+FY 2009
+
+FY 2010
+
+FY 2011
+
+FY 2012
+
+FY 2013[144]
+
+FY 2014
+
+FY 2015[145]
+
+
+$1.488
+$1.565
+$1.484
+$1.418
+$1.374
+$1.37
+$1.375
+
+Funding history[edit]
+1970s to 1990s[edit]
+Amtrak commenced operations in 1971 with $40 million in direct federal aid, $100 million in federally insured loans, and a somewhat larger private contribution.[146] Officials expected that Amtrak would break even by 1974, but those expectations proved unrealistic and annual direct federal aid reached a 17-year high in 1981 of $1.25 billion.[147] During the Reagan administration, appropriations were halved and by 1986, federal support fell to a decade low of $601 million, almost none of which were capital appropriations.[148] In the late 1980s and early 1990s, Congress continued the reductionist trend even while Amtrak expenses held steady or rose. Amtrak was forced to borrow to meet short-term operating needs, and by 1995 Amtrak was on the brink of a cash crisis and was unable to continue to service its debts.[149] In response, in 1997 Congress authorized $5.2 billion for Amtrak over the next five years – largely to complete the Acela capital project – on the condition that Amtrak submit to the ultimatum of self-sufficiency by 2003 or liquidation.[150] While Amtrak made financial improvements during this period,[citation needed] it did not achieve self-sufficiency.[151]
+
+2000s[edit]
+  Amtrak's Piedmont near Charlotte, North Carolina with a state-owned locomotive. This route is run under a partnership with the North Carolina Department of Transportation, 2003
+  Amtrak Cascades service with tilting Talgo trainsets in Seattle, Washington, 2006
+In 2004, a stalemate in federal support of Amtrak forced cutbacks in services and routes as well as resumption of deferred maintenance. In fiscal 2004 and 2005, Congress appropriated about $1.2 billion for Amtrak, $300 million more than President George W. Bush had requested. However, the company's board requested $1.8 billion through fiscal 2006, the majority of which (about $1.3 billion) would be used to bring infrastructure, rolling stock, and motive power back to a state of good repair. In Congressional testimony, the DOT Inspector General confirmed that Amtrak would need at least $1.4 billion to $1.5 billion in fiscal 2006 and $2 billion in fiscal 2007 just to maintain the status quo. In 2006, Amtrak received just under $1.4 billion, with the condition that Amtrak would reduce (but not eliminate) food and sleeper service losses. Thus, dining service was simplified and now requires two fewer on-board service workers. Only Auto Train and Empire Builder services continue regular made-on-board meal service. In 2010 the Senate approved a bill to provide $1.96 billion to Amtrak, but cut the approval for high-speed rail to a $1 billion appropriation.[151]
+State governments have partially filled the breach left by reductions in federal aid. Several states have entered into operating partnerships with Amtrak, notably California, Pennsylvania, Illinois, Michigan, Oregon, Missouri, Washington, North Carolina, Oklahoma, Texas, Wisconsin, Vermont, Maine, and New York, as well as the Canadian province of British Columbia, which provides some of the resources for the operation of the Cascades route.
+With the dramatic rise in gasoline prices during 2007–08, Amtrak saw record ridership.[152] Capping a steady five-year increase in ridership overall, regional lines saw 12% year-over-year growth in May 2008.[153] In October 2007, the Senate passed S-294, Passenger Rail Improvement and Investment Act of 2007 (70–22) sponsored by Senators Frank Lautenberg and Trent Lott. Despite a veto threat by President Bush, a similar bill passed the House on June 11, 2008, with a veto-proof margin (311–104).[154] The final bill, spurred on by the September 12 Metrolink collision in California and retitled Rail Safety Improvement Act of 2008, was signed into law by President Bush on October 16, 2008. The bill appropriates $2.6 billion a year in Amtrak funding through 2013.[155]
+
+2010s[edit]
+Amtrak points out that in 2010, its farebox recovery (percentage of operating costs covered by revenues generated by passenger fares) was 79%, the highest reported for any U.S. passenger railroad.[156] This increased to 94.9% in 2018.[4]
+Amtrak has argued that it needs to increase capital program costs in 2013 in order to replace old train equipment because the multi-year maintenance costs for those trains exceeds what it would cost to simply buy new equipment that would not need to be repaired for several years. However, despite an initial request for more than $2.1 billion in funding for the year, the company had to deal with a year-over-year cut in 2013 federal appropriations, dropping to under $1.4 billion for the first time in several years.[144] Amtrak stated in 2010 that the backlog of needed repairs of the track it owns on the Northeast Corridor included over 200 bridges, most dating to the 19th century, tunnels under Baltimore dating to the American Civil War era and functionally obsolete track switches which would cost $5.2 billion to repair (more than triple Amtrak's total annual budget).[144] Amtrak's budget is only allocated on a yearly basis, and it has been argued by Joseph Vranich that this makes multi-year development programs and long-term fiscal planning difficult if not impossible.[157][page needed]
+In Fiscal Year 2011, the U.S. Congress granted Amtrak $563 million for operating and $922 million for capital programs.[158]
+
+Controversy[edit]
+Government aid to Amtrak was controversial from the beginning. The formation of Amtrak in 1971 was criticized as a bailout serving corporate rail interests and union railroaders, not the traveling public. Critics have asserted that Amtrak has proven incapable of operating as a business and that it does not provide valuable transportation services meriting public support,[157][page needed] a "mobile money-burning machine".[159] Many fiscal conservatives have argued that subsidies should be ended, national rail service terminated, and the NEC turned over to private interests. "To fund a Nostalgia Limited is not in the public interest."[160] Critics also question Amtrak's energy efficiency,[161][162] though the U.S. Department of Energy considers Amtrak among the most energy-efficient forms of transportation.[163]
+The Rail Passenger Service Act of 1970, which established Amtrak, specifically states that, "The Corporation will not be an agency or establishment of the United States Government".[164] Then common stock was issued in 1971 to railroads that contributed capital and equipment; these shares convey almost no benefits,[165] but their holders[166] declined a 2002 buy-out offer by Amtrak. There are currently 109,396,994 shares of preferred stock, at a par value of $100 per share, all held by the US government. There are 9,385,694 shares of common stock, with a par value of $10 per share, held by four other railroad companies: APU (formerly Penn Central) 53%, BNSF (35%), Canadian Pacific (7%), and Canadian National (5%).[167]
+
+Incidents[edit]
+Main article: List of accidents on Amtrak
+  Aerial view of the 1987 Maryland train collision
+The following are major accidents and incidents that involved Amtrak trains.
+
+
+
+Event
+Train
+Date
+Location
+Description
+Deaths
+Injuries
+
+
+1971 Salem, Illinois, derailment
+City of New Orleans
+June 10, 1971
+Salem, Illinois
+The City of New Orleans derailed due to a broken locomotive axle.
+11
+163
+
+
+1979 Harvey train crash
+Shawnee
+October 12, 1979
+Harvey, Illinois
+The Shawnee, consisting of brand new Superliners collided with a stationary Illinois Central Gulf freight train due to misaligned switches changed by a switcherman shortly before the train passed them.
+2
+38
+
+
+1987 Maryland train collision
+Colonial
+January 4, 1987
+Chase, Maryland
+The Colonial collided with three Conrail locomotives which had overrun signals.
+16
+164
+
+
+1990 Back Bay, Massachusetts train collision
+Night Owl
+December 12, 1990
+Back Bay, Boston, Massachusetts
+The Night Owl collided with a Massachusetts Bay Transportation Authority commuter train.
+0
+453
+
+
+1993 Big Bayou Canot rail accident
+Sunset Limited
+September 22, 1993
+Mobile, Alabama
+The Sunset Limited derailed on a bridge which had been damaged by a barge.
+47
+103
+
+
+1995 Palo Verde, Arizona derailment
+Sunset Limited
+October 9, 1995
+Palo Verde, Arizona
+The Sunset Limited derailed because of track sabotage.
+1
+78
+
+
+1996 Maryland train collision
+Capitol Limited
+February 16, 1996
+Silver Spring, Maryland
+The Capitol Limited collided with a Maryland Area Regional Commuter train which had overrun signals.
+11
+26
+
+
+1999 Bourbonnais, Illinois, train crash
+City of New Orleans
+March 15, 1999
+Bourbonnais, Illinois
+The City of New Orleans collided with a semi-truck on a grade crossing.
+13
+122
+
+
+2015 Philadelphia train derailment
+Northeast Regional
+May 12, 2015
+Philadelphia, Pennsylvania
+A Northeast Regional derailed due to excessive speed on a curve.
+8
+200+
+
+
+2017 Washington train derailment
+Cascades
+December 18, 2017
+DuPont, Washington
+A Cascades train derailed due to excessive speed on a curve.
+3
+62
+
+
+2018 Cayce, South Carolina train collision
+Silver Star
+February 4, 2018
+Cayce, South Carolina
+The Silver Star collided head-on into a parked CSX freight train.
+2
+116
+
+After settling for $17 million in the 2017 Washington state train crash, to prevent further lawsuits, the board adopted a new policy requiring arbitration.[168]
+
+See also[edit]
+
+
+Trains portal
+Companies portal
+United States portal
+
+Topics dealing with Amtrak
+
+Amtrak Arrow Reservation System
+Amtrak California, partnership with
+California Department of Transportation (Caltrans)
+Amtrak Cascades, partnership with
+Oregon Department of Transportation
+Washington State Department of Transportation
+Amtrak Express – Amtrak's freight and package service
+Amtrak paint schemes
+Amtrak Police Department
+Amtrak Standard Stations Program
+List of Amtrak stations
+Beech Grove Shops
+Positive train control
+Railway Museum of Greater Cincinnati
+Visible Intermodal Prevention and Response team (VIPR) – TSA's rail security operations
+Fred Weiderhold- former Inspector General of Amtrak
+Rail companies of interest
+
+Auto-Train Corporation – Pioneer of car-on-train service.
+Mid America Railcar Leasing
+Other national railroads
+
+Via Rail (Canada)
+National Rail (United Kingdom)
+Dutch Railways (Netherlands)
+Deutsche Bahn (Germany)
+Austrian Federal Railways (Austria)
+Czech Railways (Czech Republic)
+Swiss Federal Railways (Switzerland)
+Trenitalia (Italy)
+SNCF (France)
+Renfe (Spain)
+SJ (Sweden)
+Kereta Api Indonesia (Indonesia)
+Japan Railways Group (Japan)
+
+Notes[edit]
+
+
+^ a b c "Amtrak winner". Spokane Daily Chronicle. (Washington). UPI. May 1, 1971. p. 12..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b c "Last court test fails to clear Amtrak rails". Lewiston Morning Tribune. (Idaho). Associated Press. May 1, 1971. p. 1.
+
+^ Land, John S. (October 17, 1971). "Amtrak isn't railroading improvements through to passengers". Eugene Register-Guard. (Oregon). Associated Press. p. 8A.
+
+^ a b c d e f g h i j k Amtrak Company Profile (FY 2018) (PDF) (Report). Amtrak. March 1, 2019. Retrieved May 27, 2019.
+
+^ "Amtrak Fact Sheet, Fiscal Year 2017 District of Columbia" (PDF). Amtrak Government Affairs. November 2017. Retrieved June 25, 2018.
+
+^ Puentes, Robert; Adie Tomer; and Joseph Kane (March 2013). "A New Alignment: Strengthening America's Commitment to Passenger Rail". The Brookings Institution. Archived from the original on December 3, 2013. Retrieved January 15, 2015.
+
+^ "2Historical Statistics of the United States" (PDF). U.S. Census. 1957. Retrieved November 13, 2017.
+
+^ a b c Stover 1997, p. 219
+
+^ Carper 1968, pp. 112–113
+
+^ Solomon 2004, pp. 49–56
+
+^ Stover 1997, pp. 219–220
+
+^ Solomon 2004, p. 154
+
+^ Solomon 2004, p. 161
+
+^ Stover 1997, p. 220
+
+^ Saunders 2001, pp. 106–107
+
+^ Saunders 2001, pp. 32–33
+
+^ Stover 1997, p. 222
+
+^ Stover 1997, p. 228
+
+^ McCommons 2009, pp. 150–151
+
+^ Glischinski 1997, p. 96
+
+^ Saunders 2003, p. 55
+
+^ Saunders 2001, p. 124
+
+^ Sanders 2006, pp. 1–3
+
+^ Pub.L. 91–518, H.R. 17849, 84 Stat. 1327, enacted October 30, 1970
+
+^ Thoms 1973, pp. 38–39
+
+^ Thoms 1973, p. 51
+
+^ Thoms 1973, pp. 39–42
+
+^ Sanders 2006, pp. 7–8
+
+^ Luberoff, David (November 1996). "Amtrak and the States". Governing Magazine: 85.
+
+^ Loving, Jr., Rush (March 2009). "Trains formula for fixing Amtrak". Trains.
+
+^ Stover 1997, p. 234
+
+^ Cook, Louise (May 1, 1971). "Many famous trains roll into history". Lewiston Morning Tribune. (Idaho). Associated Press. p. 1.
+
+^ Sanders 2006, pp. 5–6
+
+^ "Digging into the Archives: The West Side Connection". Amtrak History. Amtrak. April 3, 2013. Retrieved June 25, 2018.
+
+^ Barr, Robert A. (March 18, 1973). "Amtrak's coastal train may run daily in June". The Seattle Times. p. D12.
+
+^ Barr, Robert A. (June 14, 1972). "Riders filling Amtrak's Seattle-San Diego trains". The Seattle Times. p. H4.
+
+^ ""We've Rejected 2 Out Of Every 3 Cars" advertisement, 1971". Amtrak. June 11, 2013.
+
+^ "Amtrak interiors through the years". USA Today. September 27, 2017. Retrieved March 21, 2018.
+
+^ Kelly, John (June 5, 2001). "Amtrak's beginnings". Classic Trains Magazine. Retrieved December 29, 2010.
+
+^ Railroad Revitalization and Regulatory Reform Act, Pub.L. 94–210, 90 Stat. 31, 45 U.S.C. § 801. February 5, 1976.
+
+^ U.S. Federal Railroad Administration, Washington, DC. "Northeast Corridor Main Line." Archived December 2, 2011, at the Wayback Machine Accessed November 15, 2011.
+
+^ Jones, William H. (May 12, 1979). "Americans Rediscover The Train; Trains are rediscovered". Washington Post. p. D8.
+
+^ Yemma, John (July 21, 1980). "Years Later, Amtrak is Keeping Riders Won in Gas Pinch". Christian Science Monitor. p. 4. Retrieved June 12, 2008.
+
+^ a b Nice, David C. (1998). Amtrak: The History and Politics of a National Railroad. Lynne Rienner Publishers. p. 24. ISBN 978-1-55587-734-7.
+
+^ Wilner 1994
+
+^ "Fortune : Still chugging. (W. Graham Claytor Jr.) (Fortune People) (column) @ HighBeam Research". Archived from the original on April 22, 2005. Retrieved November 23, 2005.
+
+^ "1980s—Building a Dream — Amtrak: History of America's Railroad". history.amtrak.com.
+
+^ 1999 Annual Report. Amtrak.
+
+^ Washington Post, March 18, 1998
+
+^ Scheinberg, Phyllis F. (October 28, 1999). Intercity Passenger Rail; Amtrak Faces Challenges in Improving its Financial Condition (Report GAO/T-RCED-00-30) (PDF) (Speech). House Committee on Transportation and Infrastructure Subcommittee on Ground Transportation. Archived (PDF) from the original on June 24, 2008. Retrieved June 12, 2008.
+
+^ Wirzbicki, Alan (October 31, 2007). "Senate votes to increase funding for Amtrak service". Boston Globe. Retrieved June 12, 2008.
+
+^ Gunn, David L. (June 20, 2002). Testimony of David Gunn Before Senate Committee on Appropriations Subcommittee on Transportation and Related Agencies (Speech). Senate Committee on Appropriations Subcommittee on Transportation and Related Agencies. Archived from the original on June 27, 2012. Retrieved June 12, 2008.
+
+^ Szep, Jason (June 12, 2008). "Q&A with Amtrak President Alex Kummant". Reuters. Retrieved June 14, 2008.
+
+^ "Amtrak President David Gunn Lectures at UIUC". CEE Alumni Association Newsletter, Online Edition. University of Illinois at Urbana-Champaign: CEE Alumni Association. Spring–Summer 2005. Archived from the original on August 25, 2007. Retrieved June 12, 2008.
+
+^ 
+Wald, Matthew (November 9, 2005). "Amtrak's President Is Fired by Its Board". The New York Times. Retrieved May 14, 2015.
+
+^ a b Wald, Matthew L.; Don Phillips (December 23, 2006). "Surprising Forecast for Amtrak: Growth". The New York Times. Retrieved June 12, 2008.
+
+^ 
+Glass, Andrew (February 7, 2007). "A Younger Biden Goes the Extra Miles for Amtrak". Politico. Retrieved May 11, 2015.
+
+^ a b "Amtrak Selects Transportation Industry Veteran as President & CEO" (Press release). Amtrak. November 25, 2008. Archived from the original on December 29, 2008. Retrieved November 26, 2008.
+
+^ Frassinelli, Mike (February 6, 2011). "N.J. senators, Amtrak official to announce new commuter train tunnel project across the Hudson". The Star-Ledger. Archived from the original on February 7, 2011. Retrieved February 7, 2011.
+
+^ "Gateway Project" (PDF). Amtrak. February 2011. Archived from the original (PDF) on February 7, 2011. Retrieved February 7, 2011.
+
+^ Fleisher, Liza; Grossman, Andrew (February 8, 2011). "Amtrak's Plan For New Tunnel Gains Support". The Wall Street Journal. Retrieved August 28, 2011.
+
+^ National Railroad. "Bulletin Board (40th Anniversary Train Ends U.S.)" (PDF). Amtrak Ink. National Railroad Passenger Corporation. Archived from the original (PDF) on November 8, 2012. Retrieved July 30, 2012.
+
+^ Margherone (February 2, 2011). "AMTK 145". Rrpicturearchives.net. Retrieved August 28, 2011.
+
+^ "America's Railroad Set to Celebrate 40th Anniversary" (PDF). Amtrak Ink. Washington, D.C.: Amtrak. December 2010 – January 2011. Retrieved January 18, 2011.
+
+^ Matt Van Hattem (May 2011). "New life for old schemes: For Amtrak's Beech Grove shop painters, it's deja vu all over again". Trains. 71 (5): 15.
+
+^ Amtrak President and CEO Joe Boardman named Railroader of the Year. Railway Age. Retrieved on April 12, 2014.
+
+^ Frances Cha (March 12, 2014). "Amtrak officially rolls out writers' residency". CNN.
+
+^ "Amtrak Names Industry Veteran Wick Moorman President and Chief Executive Officer – Amtrak Media". August 19, 2016.
+
+^ McGeehan, Patrick (June 26, 2017). "Amtrak Picks Delta's Former Chief to Lead It Through Challenging Time". The New York Times. Retrieved June 27, 2017.
+
+^ a b c Aratani, Lori (June 26, 2017). "Amtrak names new chief executive". The Washington Post. Retrieved June 27, 2017.
+
+^ "Gateway Program Overview" (PDF). www.gatewayprogram.org. December 9, 2018. Retrieved December 9, 2018.
+
+^ Amtrak Reform and Accountability Act of 1997. 105th Cong., Senate Report 105-85 (September 24, 1997).
+
+^ "Amtrak Train Schedules, Timetables". Amtrak.com. Retrieved November 23, 2012.
+
+^ "Amtrak Thruway Connecting Services Multiply Your Travel Destinations". Amtrak. Retrieved February 6, 2018.
+
+^ a b Figures are from 2008. "Table 4-20: Energy Intensity of Passenger Modes". Bureau of Transportation Statistics. Archived from the original on October 7, 2010. Retrieved October 25, 2010.
+
+^ Except where noted, figures are from 2007. "Table 3-16: Average Passenger Revenue per Passenger-Mile". Bureau of Transportation Statistics. Archived from the original on October 2, 2006. Retrieved November 17, 2006.
+
+^ Figures are from 2011. "Injury Facts". National Safety Council. 2014. Retrieved March 30, 2014.
+
+^ a b Figures from 2012. "Table 1-73: Amtrak On-Time Performance Trends and Hours of Delay by Cause". Bureau of Transportation Statistics. Retrieved March 30, 2014.; "Table 1-66: Flight Operations Arriving On Time by the Largest U.S. Air Carriers". Bureau of Transportation Statistics. Retrieved March 30, 2014.
+
+^ Figures from 2001, latest available
+
+^ "Archived copy" (PDF). Archived from the original (PDF) on May 15, 2013. Retrieved November 23, 2012.CS1 maint: archived copy as title (link) table 1.1, figures from 2005. Cf. http://docs.wri.org/wri_co2comm_2002_commuting_protected.xls Archived January 12, 2016, at the Wayback Machine, sheet 8, cell C33 (figures from 2002).
+
+^ respectively http://docs.wri.org/wri_co2comm_2002_commuting_protected.xls Archived January 12, 2016, at the Wayback Machine, sheet 8, cell C36 (figures from 2002); "Archived copy" (PDF). Archived from the original (PDF) on May 15, 2013. Retrieved November 23, 2012.CS1 maint: archived copy as title (link) table 1.1, figures from 2007.
+
+^ "figures from 2008–9" (PDF). Archived from the original (PDF) on March 24, 2009. Retrieved November 23, 2012.
+
+^ "Figures from 2007" (PDF). Archived from the original (PDF) on May 15, 2013. Retrieved November 23, 2012.
+
+^ Average emissions of railway. "Traffic in Finland". www.lipasto.vtt.fi.
+
+^ Carrying capacity. "Gross vehicle mass 18". www.lipasto.vtt.fi.
+
+^ LIPASTO. "Average passenger". www.lipasto.vtt.fi.
+
+^ "Root Causes of Amtrak Train Delays". U.S. Department of Transportation. September 8, 2008. Archived from the original on May 26, 2010. Retrieved February 4, 2010.
+
+^ "Monthly Performance Report for September 2009" (PDF). Amtrak. December 31, 2009. Retrieved February 4, 2010.
+
+^ "Rail Traffic in 2009: Lowest since at least 1988". Calculated Risk. January 13, 2010. Archived from the original on January 17, 2010. Retrieved February 7, 2010.
+
+^ Kingston, John (March 26, 2018). "Amtrak's initial report card on freight railroads ranges from A to a pair of F's". FreightWaves. Retrieved July 30, 2018.
+
+^ "Amtrak Ridership by Fiscal Year". NARP. Archived from the original on April 5, 2012. Retrieved July 10, 2015.
+
+^ "Amtrak FY17 Ridership Fact Sheet" (PDF). Amtrak. Retrieved February 7, 2018.
+
+^ a b "Guest Rewards". Amtrakguestrewards.com. Retrieved November 23, 2012.
+
+^ "Trains.com – Amtrak's Track". Retrieved November 23, 2005.[dead link]
+
+^ "The Amtrak Vision for the Northeast Corridor: 2012 Update Report" (PDF). Amtrak. July 17, 2012. Archived from the original (PDF) on December 30, 2015. Retrieved October 16, 2012.
+
+^ Nussbaum, Paul (July 10, 2012). "Amtrak's high-speed Northeast Corridor plan at $151 billion". The Inquirer. Retrieved July 23, 2013.
+
+^ "Governor Cuomo Announces Hudson Rail Lease – Amtrak/CSX Deal Will Improve Passenger Service, Move Projects Forward" (PDF) (Press release). Albany, New York: Amtrak. December 4, 2012. Archived from the original (PDF) on March 30, 2013. Retrieved December 5, 2012.
+
+^ STB Decision Docket No. AB 279 (Sub-No.6X) (PDF), retrieved September 10, 2013
+
+^ SMA Rail Consulting (April 2016). "California Passenger Rail NETWORK SCHEMATICS" (PDF). California Department of Transportation.
+
+^ "SEC Info – A/P I Deposit Corp · S-3 · On 1/11/02".
+
+^ "Email FS - FY02.xls" (PDF). Archived from the original (PDF) on June 24, 2008. Retrieved November 23, 2005.
+
+^ "Amtrak – Plan – Onboard – Seating Accommodations". Amtrak Official Website. Retrieved January 6, 2014.
+
+^ "First Class Seat". www.amtrak.com. Amtrak. Retrieved January 17, 2017.
+
+^ "Sleeping Accommodations". www.amtrak.com. Amtrak. Retrieved January 17, 2017.
+
+^ "Business Class Seat". www.amtrak.com. Amtrak. Retrieved January 17, 2017.
+
+^ "Reserved Coach Class Seat". www.amtrak.com. Amtrak. Retrieved January 17, 2017.
+
+^ Billings, Randy (November 11, 2011). "Amtrak Downeaster rolls out electronic tickets, improved Wi-Fi". Sun Journal. Retrieved November 12, 2011.
+
+^ National Railroad Passenger Corporation. "eTickets Now Accepted on Every Amtrak Train" (PDF). Amtrak News Release (30 July 2012). National Railroad Passenger Corporation. Archived from the original (PDF) on August 4, 2012. Retrieved July 30, 2012.
+
+^ "Amtrak − Plan − Onboard − Journey with Wi-Fi". Retrieved August 27, 2012.
+
+^ http://www.amtrak.com/ccurl/92/472/Amtrak-Midwest-Wi-Fi-ATK-13-154.pdf
+
+^ "Wi-Fi should actually work". The Economist. December 20, 2011.
+
+^ Ron Nixon (May 30, 2012). "Wi-Fi and Amtrak: Missed Connections". The New York Times.
+
+^ "Checked Baggage". Amtrak. Retrieved May 6, 2019.
+
+^ "Amtrak Baggage Allowance" (PDF). Amtrak. July 5, 2016. Retrieved May 6, 2019.
+
+^ Bizjak, Tony (November 30, 2010). "Amtrak to let passengers bring guns on most trains". Sacramento Bee. Archived from the original on December 3, 2010. Retrieved May 7, 2011.
+
+^ "Amtrak jettisons mail contracts". Railway Age. October 2004. Archived from the original on September 4, 2015. Retrieved June 14, 2012.
+
+^ "For Immediate Release 554-5700" (Press release). Amtrak. May 19, 1971. Archived from the original on June 27, 2008. Retrieved June 12, 2008.
+
+^ Zimmermann 1981
+
+^ "Today in Florida History for January". Archived from the original on July 22, 2007. Retrieved August 16, 2007.
+
+^ "Ax for Amtrak". Time. March 19, 1979. Retrieved August 16, 2007.
+
+^ Shutt, Anne (June 11, 1982). "In Short..." Christian Science Monitor. Retrieved June 12, 2008.
+
+^ Tolchin, Martin (December 26, 1993). "Amtrak Pressing for Capital Funds". The New York Times. Retrieved June 12, 2008.
+
+^ Field, David (December 22, 1998). "Amtrak chooses one of its own as president, CEO". USA Today.
+
+^ a b "Amtrak Board Releases Gunn" (Press release). Amtrak. November 11, 2005. Archived from the original on March 28, 2008. Retrieved June 12, 2008.
+
+^ Wald, Matthew L. (April 27, 2002). "A New York Transit Rescuer Is Hired to Revive Amtrak". The New York Times. Retrieved June 12, 2008.[permanent dead link]
+
+^ "Veteran Rail and Industrial Executive Alexander Kummant Appointed Amtrak President and CEO" (Press release). Amtrak. August 29, 2006. Archived from the original on June 27, 2012. Retrieved June 12, 2008.
+
+^ "Amtrak names a new president". Railway Age. Simmons-Boardman Publishing. 207 (9): 26. September 2006. ISSN 0033-8826.
+
+^ "Boardman named new Amtrak CEO". Trains.com. Kalmbach Publishing. November 25, 2008. Archived from the original on August 16, 2011. Retrieved November 26, 2008.
+
+^ Amtrak (August 19, 2016). "Amtrak Names Industry Veteran Wick Moorman President And Chief Executive Officer". PRNewswire (Press release). Retrieved August 19, 2016.
+
+^ "Moorman named as Amtrak President". Railway Gazette. August 19, 2016. Retrieved August 19, 2016.
+
+^ "Amtrak – Anthony Coscia". amtrak.com. Retrieved July 28, 2016.
+
+^ "Amtrak – About Amtrak – Board of Directors – Jeffrey R. Moreland". amtrak.com. Retrieved July 28, 2016.
+
+^ "Amtrak Board of Directors | Amtrak". www.amtrak.com. Retrieved July 29, 2017.
+
+^ "Amtrak – About Amtrak – Board of Directors – Thomas C. Carper". amtrak.com. Retrieved July 28, 2016.
+
+^ "Amtrak – Albert DiClemente". amtrak.com. Retrieved July 28, 2016.
+
+^ "Amtrak Board of Directors". www.amtrak.com. Retrieved July 29, 2017.
+
+^ "Amtrak – Yvonne Brathwaite Burke". www.amtrak.com. Retrieved July 29, 2017.
+
+^ "Amtrak – About Amtrak – Board of Directors – Christopher R. Beall". amtrak.com. Retrieved July 28, 2016.
+
+^ "About Amtrak: Derek Kan". Amtrak.com. Retrieved June 3, 2016.
+
+^ "Amtrak Myths & Facts: 4. Myth: Private Freight Railroad companies subsidize Amtrak". National Association of Railroad Passengers. August 3, 2011. Archived from the original on June 4, 2012. Retrieved July 8, 2012.
+
+^ Amtrak Reform and Accountability Act of 1997. 105th Cong. (January 7, 1997)
+
+^ "Sidetracked Negotiations: The Contract for Nearly 10,000 Unionized Amtrak Employees Expired on December 31, 1999. Since Then, Talks Have Failed to Make Much Headway – Business – redOrbit". redOrbit. Archived from the original on December 12, 2007. Retrieved January 20, 2009.
+
+^ Matthew Wald; John Philips (December 23, 2006). "Surprising Forecast for Amtrak". The New York Times.
+
+^ a b c Amtrak FY13 Comprehensive Business Plan (PDF) (Report). Amtrak. May 2013. Retrieved October 8, 2013.
+
+^ "FY15 Budget, Business Plan 2015" (PDF).
+
+^ Phillips, Don. Railpax Rescue. in Journey to Amtrak; The year history rode the passenger train. Ed. Harold A. Edmonson. Milwaukee, WI: Kalmbach Pub. Co., pp. 8–11 (1972).
+
+^ $709 million of the 1981 aid package was for operations. The remainder was capital appropriations. Vranich 1997, p. 37
+
+^ National Railroad Passenger Corp. Statistical Appendix to Amtrak FY1995 Annual Report, 1995 Annual Report, p.1.
+
+^ National Railroad Passenger Corp. 1999 Annual Report, p.41.
+
+^ Amtrak Reform and Accountability Act of 1997. 105th Cong. (January 7, 1997). Congressional Budget Office. S. 738 Amtrak Reform and Accountability Act (July 22, 1997), in 104th Cong. Senate Report 105-85 (September 24, 1997).
+
+^ a b "Senate committee ups Amtrak appropriation, cuts high-speed rail funding". Progressive Railroading. July 23, 2010. Retrieved December 29, 2010.
+
+^ Karush, Sarah (October 10, 2008). "Amtrak announces record annual ridership". Washington, D.C. Associated Press. Archived from the original on October 28, 2008. Retrieved October 27, 2008.
+
+^ Szep, Jason; Eric Beech (June 11, 2008). "Factbox: Amtrak gets a surge in riders". Reuters. Retrieved June 14, 2008.
+
+^ Karush, Sarah (June 11, 2008). "Amtrak funding bill approved by House". Associated Press. Retrieved June 14, 2008.[dead link]
+
+^ Hymon, Steve (October 16, 2008). "Bush signs rail safety and Amtrak bill". Los Angeles Times. Archived from the original on October 25, 2008. Retrieved October 27, 2008.
+
+^ National Railroad Passenger Corporation. "Basic Amtrak Facts". Amtrak National Facts, FY 2011. National Railroad Passenger Corporation. Archived from the original on July 26, 2012. Retrieved July 30, 2012.
+
+^ a b Vranich 2004
+
+^ U.S. Conference of Mayors. "III. Transportation" (PDF). Fiscal Year 2011 Appropriations (HR 1473). U.S. Conference of Mayors. Archived from the original (PDF) on April 19, 2011. Retrieved July 30, 2012.
+
+^ Wicker, Tom. In the Nation; Young David's Tantrum. The New York Times, p.A31 (May 3, 1985)
+
+^ Frailey, Fred W. Can Amtrak Survive the Budget Cutters?, U.S. News & World Report, p.52 (April 13, 1981).
+
+^ Congress Should Link Amtrak's Generous Subsidy to Improved Performance, Ronald D. Utt PhD, Heritage.org September 20, 2007
+
+^ https://www.newsweek.com/will-why-liberals-love-trains-68597
+
+^ "Inside Amtrak – News & Media – Energy Efficient Travel". Amtrak. Archived from the original on December 12, 2007. Retrieved January 20, 2009.
+
+^ 91st Congress of the United States of America. "Section 301: Creation of the Corporation". Rail Passenger Service Act of 1970. United States Government. Retrieved July 30, 2012.
+
+^ The Past and Future of U.S. Passenger Rail Service, sec. 4 n.21 (September 2003).
+
+^ "Web archive of U.S. House of Representatives report". Archived from the original on November 10, 2006.
+
+^ Joseph Vranich, Cornelius Chapman, and Edward L. Hudgins (February 8, 2002). "A Plan to Liquidate Amtrak – Cato Institute" (PDF, 111kb). Cato.org.CS1 maint: uses authors parameter (link)
+
+^ "Passengers can no longer sue Amtrak after company loses millions in deadly derailment lawsuits". KING5. November 16, 2019. Retrieved November 17, 2019.
+
+
+References[edit]
+Carper, Robert S. (1968). American Railroads in Transition; The Passing of the Steam Locomotives. A. S. Barnes. ISBN 978-0-498-06678-8.
+Edmonson, Harold A. (2000). Journey to Amtrak: The year history rode the passenger train. Kalmbach Books. ISBN 978-0-89024-023-6.
+Glischinski, Steve (1997). Santa Fe Railway. Osceola, Wisconsin: Motorbooks International. ISBN 978-0-7603-0380-1.
+Government Accountability Office (October 2005). "Amtrak Management: Systemic Problems Require Actions to Improve Efficiency, Effectiveness, and Accountability" (PDF). Archived (PDF) from the original on November 25, 2005. Retrieved November 23, 2005.
+Hosmer, Howard;  et al. (1958). Railroad Passenger Train Deficit (Report). Interstate Commerce Commission. 31954.
+McCommons, James (2009). Waiting on a Train: The Embattled Future of Passenger Rail Service. White River Junction, Vermont: Chelsea Green. ISBN 978-1-60358-064-9.
+McKinney, Kevin (June 1991). "At the dawn of Amtrak". Trains.
+Office of Inspector General for the Department of Transportation (July 10, 2012). "Analysis of the Causes of AMTRAK Train Delays" (PDF). United States Department of Transportation. OCLC 862979061.
+Peterman, David Randall (September 28, 2017). Amtrak: Overview (PDF). Washington, DC: Congressional Research Service.
+Sanders, Craig (2006). Amtrak in the Heartland. Bloomington, Indiana: Indiana University Press. ISBN 978-0-253-34705-3.
+Saunders, Richard (2001) [1978]. Merging Lines: American Railroads 1900–1970 (Revised ed.). DeKalb, Illinois: Northern Illinois University Press. ISBN 978-0-87580-265-7.
+Saunders, Richard (2003). Main Lines: Rebirth of the North American Railroads, 1970–2002. DeKalb, Illinois: Northern Illinois University Press. ISBN 0-87580-316-4.
+Schafer, Mike; Welsh, Joe; Holland, Kevin J. (2001). The American Passenger Train. Saint Paul, MN: MBI. ISBN 0-7603-0896-9.
+Schafer, Mike (June 1991). "Amtrak's Atlas: 1971–1991". Trains.
+Solomon, Brian (2004). Amtrak. Saint Paul, Minnesota: MBI. ISBN 978-0-7603-1765-5.
+Stover, John F. (1997). American Railroads (2nd ed.). Chicago: University of Chicago Press. ISBN 0-226-77657-3.
+Thoms, William E. (1973). Reprieve for the Iron Horse: The AMTRAK Experiment–Its Predecessors and Prospects. Baton Rouge, LA: Claitor's Publishing Division. OCLC 1094744.
+Vranich, Joseph (1997). Derailed: What Went Wrong and What to Do about America's Passenger Trains. New York: St. Martin's Press. ISBN 0-3121-7182-X.
+Vranich, Joseph (2004). End of the Line: The Failure of Amtrak Reform and the Future of America's Passenger Trains. Washington, D.C.: AEI Press. ISBN 0-8447-4203-1.
+Wilner, Frank N. (1994). The Amtrak Story. Omaha, NE: Simmons-Boardman. ISBN 0-9113-8216-X.
+Zimmermann, Karl R. (1981). Amtrak at Milepost 10. PTJ Publishing. ISBN 0-937658-06-5.
+Further reading[edit]
+Baron, David P. (August 1990). "Distributive Politics and the Persistence of Amtrak". The Journal of Politics. 52 (3): 883–913.
+Fostik, John (2017). Amtrak Across America: An Illustrated History (1st ed.). Enthusiast Books. ISBN 978-1583883501.
+Hanus, Chris; Shaske, John (2009). USA West by Train: The Complete Amtrak Travel Guide. Way of the Rail Publishing. ISBN 978-0-9730897-6-9.
+Pitt, John (2008). USA by Rail. Bradt Travel Guides. ISBN 978-1-84162-255-2.
+The Staff of Amtrak (2011). Amtrak: An American Story (40th Anniversary Book). Kalmbach Publishing Company, Books Division. ISBN 9780871164445.
+Wilner, Frank N. (2013). Amtrak: Past, Present, Future. Simmons-Boardman Books. ISBN 978-0-911-382600.
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Amtrak.
+
+
+
+
+Wikivoyage has a travel guide for rail travel in the United States.
+
+
+
+
+Wikiquote has quotations related to: Amtrak
+
+Official website 
+Amtrak - Historic Timeline
+Amtrak – Great American Stations
+The Museum of Railway Timetables (Amtrak timetables from 1971–present)
+vteAmtrak rolling stockCurrentRailcars and trainsets
+Acela Express
+Amfleet
+Auto Train Autorack
+CALIDOT (under construction)
+California Car
+Heritage Fleet
+Horizon
+Metroliner cab car
+Surfliner
+Superliner
+Talgo
+Viewliner
+Diesel locomotives
+GE Genesis P40DC
+GE Genesis P42DC
+EMD F59PHI
+GE P32-8WH
+EMD GP38H-3
+Siemens Charger
+Dual-mode locomotives
+GE Genesis P32AC-DM
+Electric locomotives
+Siemens ACS-64
+Work locomotives
+EMD GP38
+EMD MP15
+EMD SW1
+EMD SW1000R
+EMD SW1001
+EMD SW1500
+GE 80t
+MPI GP15
+MPI MP14B / MP21B
+FormerRailcars and trainsets
+Bombardier LRC
+Budd RDC
+Hi-Level
+Budd Metroliner
+Diesel locomotives
+EMD E8/E9
+EMD F3B/F7/FP7
+EMD SDP40F
+GE P30CH
+EMD F40PH
+EMD F69PHAC
+Dual-mode locomotives
+EMD FL9
+Electric locomotives
+PRR GG1
+GE E60
+EMD AEM-7
+Bombardier HHP-8
+Gas turbine trainsets
+UAC TurboTrain
+ANF/Rohr Turboliner
+Work locomotives
+ALCO RS-1/RS-3
+ALCO S-2
+EMD CF7
+EMD GP7/GP9
+EMD GP40
+EMD SSB1200
+EMD SW8
+GE 45t/65t
+Railpower GG20B
+PRR E44
+
+vteAmtrak routesLongdistanceWest
+California Zephyr
+Coast Starlight
+Empire Builder
+Southwest Chief
+Sunset Limited
+Texas Eagle
+East
+Auto Train
+Capitol Limited
+Cardinal
+City of New Orleans
+Crescent
+Lake Shore Limited
+Silver Service
+Silver Meteor
+Silver Star
+
+CorridorWest
+Amtrak Cascades
+Amtrak California
+Capitol Corridor
+Pacific Surfliner
+San Joaquin
+Midwest
+Heartland Flyer
+Hiawatha Service
+Missouri River Runner
+Illinois Service
+Black Hawk (planned)
+Illini and Saluki
+Illinois Zephyr and Carl Sandburg
+Lincoln Service
+Quad Cities (planned)
+Michigan Services
+Blue Water
+Pere Marquette
+Wolverine
+East
+Adirondack
+Downeaster
+Empire Service
+Ethan Allen Express
+Maple Leaf (shared with VIA Rail Canada)
+Pennsylvanian
+Vermonter
+Atlantic Coast Service
+Carolinian
+Palmetto
+Piedmont
+Northeast Corridor
+Acela Express
+Keystone Service
+Hartford Line / Valley Flyer
+Northeast Regional
+
+FormerNamed corridor services
+Chicago–Milwaukee
+Northeast Corridor
+Pacific Northwest
+
+Abraham Lincoln
+Ann Rutledge
+Arrowhead
+Atlantic City Express
+Beacon Hill
+Black Hawk
+Blue Ridge
+Blue Water Limited
+Broadway Limited
+Calumet
+Campus
+Cape Codder
+Champion
+Chesapeake
+Chief
+City of San Francisco
+Clamdigger
+Clocker
+Coast Daylight
+Colonial
+Connecticut Valley Service
+Denver Zephyr
+Desert Wind
+El Capitan
+Empire State Express
+Expo '74
+Fast Mail
+Florida Special
+Floridian
+Fort Pitt
+George Washington
+Gulf Breeze
+Gulf Coast Limited
+Hilltopper
+Hoosier State
+Indiana Connection
+Inter-American
+International
+James Whitcomb Riley
+Kansas City Mule
+Kentucky Cardinal
+Keystone
+Lake Cities
+Lake Country Limited
+Lake Shore
+Las Vegas Limited
+Lone Star
+Loop
+Metroliner
+Miamian
+Michigan Executive
+Montrealer
+Mountaineer
+National Limited
+Niagara Rainbow
+Night Owl
+North Coast Hiawatha
+North Star
+Orange County Commuter
+Pacific International
+Panama Limited
+Pioneer
+Potomac Special
+Potomac Turbo
+Prairie Marksman
+River Cities
+San Diegan
+San Francisco Zephyr
+Shawnee
+Shenandoah
+Silver Palm
+Silverliner Service
+Southwest Limited
+Spirit of California
+St. Louis Mule
+State House
+Super Chief
+Texas Chief
+Three Rivers
+Turboliner
+Twilight Limited
+Twilight Shoreliner
+Twin Cities Hiawatha
+Vacationer
+Valley Forge
+West Virginian
+Willamette Valley
+vteClass I railroads of North AmericaCurrent
+United States
+AMTK
+BNSF
+CN (GTC)
+CP (DH, SOO)
+CSXT
+KCS
+NS
+UP
+Canada
+CN
+CP
+VIA
+Mexico
+FXE
+KCSM
+Former(1956–present)
+AA
+ACL
+AC&Y
+AGS
+ASAB
+AT&N
+AT&SF
+AUT
+A&WP
+B&AR
+B&M
+BN
+B&O
+CAR&NW
+CB&Q
+C&EI
+CG
+CGW
+C&IM
+CNJ
+CNO&TP
+C&NW
+C&O
+CPME
+CR
+CRR
+C&S
+CS
+CSPM&O
+CV
+C&W
+C&WC
+DL&W
+DM&IR
+D&RGW
+DSS&A
+DT&I
+D&TSL
+DW&P
+EJ&E
+EL
+ERIE
+FEC
+FW&D
+GA
+GB&W
+G&F
+GM&O
+GN
+GS&F
+GTW
+IC
+ICG
+ITC
+KO&G
+L&A
+L&HR
+LI
+L&M
+L&N
+L&NE
+LS&I
+LV
+MEC
+MGA
+MI
+MILW/CMStP&P
+MIS
+MKT
+MN&S
+MON
+MP
+M&STL
+NC&STL
+NH
+NKP/ NYC&StL
+NYS&W
+NO&NE
+NP
+NS
+N&W
+NWP
+NYC
+NYCN
+NYO&W
+PC
+P&LE
+P&N
+PRR
+PRSL
+P&WV
+RDG
+RF&P
+RUT
+QA&P
+RI/CRIP
+S&A
+SAL
+SBD
+SCL
+SD&AE
+SI
+SIRT
+SLSF
+SLSFTX
+SN
+SOU
+SP
+SP&S
+SSW
+TC
+TFM
+TM
+T&NO
+T&P
+TP&W
+VGN
+WA
+WAB
+WC
+WM
+WP
+(pre–1956)
+A
+AB&A
+AB&C
+AC
+A&D
+AE
+A&NM
+A&STL
+A&V
+BA&P
+BC&A
+B&G
+BRI
+BR&P
+B&S
+BSL&W
+C&A
+CA&C
+C&C
+CC&CS
+CCC&STL
+CD&C
+C&E
+C&G
+CH&D
+C&I
+CINN
+CI&S
+CI&W
+CL&N
+CM
+CM&PS
+CNE
+CNNE
+CNOR
+C&OIN
+CP&STL
+CPVT
+CRI&G
+CR&NW
+CRP
+CS
+CTH&SE
+CV&M
+CVRR
+DGH&M
+D&IR
+D&M
+DM&N
+DNW&P
+D&SL
+EI&TH
+EP&SW
+E&TH
+F&CC
+FJ&G
+FS&W
+FW&RG
+GC&SF
+GH&SA
+GM&N
+GR&I
+G&SI
+HE&WT
+H&TC
+HV
+ICRY
+IGN
+ISRR
+KCM&O
+KCM&OTX
+K&M
+LA&SL
+LA&T
+LE&W
+LH&STL
+LR&N
+LR&NTX
+LS&MS
+LW
+M&A
+MC
+MD&V
+M&I
+MKTTX
+MLR
+ML&T
+M&NA
+M&O
+MO&G
+MSC
+MSP&SSM
+MTR
+MV
+NAL
+NCRY
+NJ&NY
+NN
+NOGN
+NOM&C
+NOT&M
+NYP&N
+OCAA
+OE
+OR&L
+OSL
+OWRN
+PB&W
+PCC&STL
+PCO
+PE
+P&E
+PERK
+PM
+P&NT
+PRDG
+P&S
+P&SF
+PS&N
+QO&KC
+SA&AP
+SAU&G
+SB&NY
+SD&A
+SFP&P
+S&IE
+SIND
+SJ&GI
+SKTX
+SLB&M
+SLIM&S
+SOUMS
+SSWTX
+SUN
+T&BV
+T&FS
+T&N
+T&OC
+TSTL&W
+U&D
+UTAH
+VAND
+VS&P
+V&SW
+WF&NW
+WF&S
+WJ&S
+W&LE
+WPT
+WSN
+WV
+Y&MV
+Timeline
+1910–1929
+1930–1976
+1977–present
+Railroads in italics meet the revenue specifications for Class I status, but are not technically Class I railroads due to being passenger-only railroads with no freight component.
+Authority control 
+GND: 10040355-4
+ISNI: 0000 0001 0687 9819
+LCCN: n79063287
+VIAF: 132304583
+ WorldCat Identities (via VIAF): 132304583
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Amtrak&oldid=930652438"
+		
+		Categories: Amtrak1971 establishments in the United StatesAlabama railroadsArizona railroadsArkansas railroadsBritish Columbia railwaysCalifornia railroadsClass I railroads in North AmericaColorado railroadsConnecticut railroadsDelaware railroadsElectric railways in the United StatesFlorida railroadsGeorgia (U.S. state) railroadsGovernment-owned companies of the United StatesIdaho railroadsIndiana railroadsIowa railroadsKansas railroadsKentucky railroadsLouisiana railroadsMaine railroadsMaryland railroadsMassachusetts railroadsMichigan railroadsMinnesota railroadsMississippi railroadsMissouri railroadsMontana railroadsNebraska railroadsNevada railroadsNew Hampshire railroadsNew Jersey railroadsNew Mexico railroadsNew York (state) railroadsNorth American railroads by former companyNorth Carolina railroadsNorth Dakota railroadsOhio railroadsOklahoma railroadsOntario railwaysOpenTravel AllianceOregon railroadsPassenger rail transportation in the United StatesPassenger railroads in the United StatesPennsylvania railroadsQuebec railwaysRailroads in the Chicago Switching DistrictRailway companies established in 1971Rhode Island railroadsSouth Carolina railroadsTennessee railroadsTexas railroadsUtah railroadsVermont railroadsVirginia railroadsWashington (state) railroadsWashington, D.C. railroadsWest Virginia railroadsWisconsin railroadsCorporations chartered by the United States CongressIllinois railroadsHidden categories: Webarchive template wayback linksCS1 maint: archived copy as titleAll articles with dead external linksArticles with dead external links from June 2016Articles with dead external links from December 2018Articles with permanently dead external linksCS1 maint: uses authors parameterArticles with short descriptionUse mdy dates from February 2019Articles needing additional references from July 2017All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from May 2015Articles with unsourced statements from July 2015Articles to be expanded from May 2015All articles to be expandedArticles using small message boxesWikipedia articles needing page number citations from July 2015Articles with unsourced statements from June 2015Articles containing potentially dated statements from 2015All articles containing potentially dated statementsArticles containing potentially dated statements from 2014Articles with hCardsArticles containing potentially dated statements from 2009Commons category link is on WikidataWikipedia articles with GND identifiersWikipedia articles with ISNI identifiersWikipedia articles with LCCN identifiersWikipedia articles with VIAF identifiersWikipedia articles with WorldCat-VIAF identifiers
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			In other projects
+			
+								
+					Wikimedia CommonsWikiquote				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					العربيةBân-lâm-gúБългарскиCatalàČeštinaCymraegDanskDeutschEestiEspañolEsperantoفارسیFrançaisGalego한국어Bahasa IndonesiaÍslenskaItalianoעבריתMagyarമലയാളംBahasa MelayuNederlands日本語Norsk bokmålOccitanPolskiPortuguêsRomânăРусскийSarduSimple EnglishSlovenčinaSlovenščinaSuomiSvenskaไทยTürkçeУкраїнськаייִדיש中文				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 13 December 2019, at 23:46 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.936","walltime":"3.511","ppvisitednodes":{"value":13229,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":471426,"limit":2097152},"templateargumentsize":{"value":21319,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":451452,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 2844.875      1 -total"," 40.29% 1146.120      1 Template:Reflist"," 16.07%  457.051     12 Template:Navbox"," 15.45%  439.489     70 Template:Cite_web"," 10.98%  312.388     36 Template:Cite_news","  9.43%  268.268      1 Template:Amtrak_routes","  7.82%  222.334    131 Template:Lnl","  6.68%  189.981     19 Template:Fix","  6.01%  171.073      3 Template:Sister_project","  5.46%  155.201      3 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"1.578","limit":"10.000"},"limitreport-memusage":{"value":19579532,"limit":52428800},"limitreport-profile":[["recursiveClone \u003CmwInit.lua:41\u003E","320","19.3"],["?","220","13.3"],["Scribunto_LuaSandboxCallback::gsub","140","8.4"],["init \u003CModule:Adjacent_stations/Amtrak\u003E","120","7.2"],["Scribunto_LuaSandboxCallback::getExpandedArgument","120","7.2"],["Scribunto_LuaSandboxCallback::callParserFunction","100","6.0"],["Scribunto_LuaSandboxCallback::getEntity","80","4.8"],["Scribunto_LuaSandboxCallback::match","80","4.8"],["dataWrapper \u003Cmw.lua:661\u003E","80","4.8"],["Scribunto_LuaSandboxCallback::unstripNoWiki","60","3.6"],["[others]","340","20.5"]]},"cachereport":{"origin":"mw1251","timestamp":"20191218023809","ttl":86400,"transientcontent":true}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Amtrak","url":"https:\/\/en.wikipedia.org\/wiki\/Amtrak","sameAs":"http:\/\/www.wikidata.org\/entity\/Q23239","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q23239","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-05-11T23:20:34Z","dateModified":"2019-12-13T23:46:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f6\/Amtrak_network_map_2016.png","headline":"intercity rail operator in the United States"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":115,"wgHostname":"mw1253"});});
+
+

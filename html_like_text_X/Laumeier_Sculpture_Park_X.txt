@@ -1,0 +1,550 @@
+
+
+Laumeier Sculpture Park - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfnEhApAIC8AALgSzikAAACJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Laumeier_Sculpture_Park","wgTitle":"Laumeier Sculpture Park","wgCurRevisionId":917148995,"wgRevisionId":917148995,"wgArticleId":6303710,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from August 2012","Infobox mapframe without OSM relation ID on Wikidata","Coordinates on Wikidata","Commons category link is on Wikidata","Pages using the Kartographer extension",
+"Sculpture gardens, trails and parks in the United States","Culture of St. Louis","Outdoor sculptures in Missouri","Art museums in Missouri","Museums in St. Louis County, Missouri","Institutions accredited by the American Alliance of Museums","Parks in St. Louis","Tourist attractions in St. Louis County, Missouri"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Laumeier_Sculpture_Park","wgRelevantArticleId":6303710,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":
+"wikipedia","wgKartographerLiveData":{"_6359fda60340447be67c5013803fed6b694a1bbc":[{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q1953144","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Laumeier Sculpture Park","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q1953144","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Laumeier Sculpture Park"}},{"type":"Feature","geometry":{"coordinates":[-90.412,38.551],"type":"Point"},"properties":{"title":"Laumeier Sculpture Park","marker-color":"#5E74F3"}}]},"wgCoordinates":{"lat":38.551,"lon":-90.412},"wgWikibaseItemId":"Q1953144","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
+"user.tokens":"loading","ext.cite.styles":"ready","ext.kartographer.style":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.kartographer.staticframe","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Laumeier Sculpture Park
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+Laumeier Sculpture ParkJonathan Borofsky's "Man with Briefcase at #2968443" (1986), in the park's eastern woodland[1]TypeCounty ParkLocation12580 Rott Road, Sunset Hills, Missouri, United StatesCoordinates38°33′04″N 90°24′43″W﻿ / ﻿38.551°N 90.412°W﻿ / 38.551; -90.412Coordinates: 38°33′04″N 90°24′43″W﻿ / ﻿38.551°N 90.412°W﻿ / 38.551; -90.412Area105 acres (0.42 km2)Created1975 (1975)Operated bySt. Louis County Parks and Recreation DepartmentVisitorsApproximately 300,000 per yearWebsitehttp://www.laumeiersculpturepark.org/
+Laumeier Sculpture Park is a 105-acre open-air museum and sculpture park located in Sunset Hills, Missouri, near St. Louis and is maintained in partnership with St. Louis County Parks and Recreation Department. It houses over 60 outdoor sculptures and features a 1.4-mile (2.3 km) walking trail,[2] and educational programs.[3] There is also an indoor gallery, an 1816 Tudor stone mansion,[4] which was the former residence of Henry and Matilda Laumeier.[5] Laumeier is accredited by the American Alliance of Museums. The park sees about 300,000 visitors each year and operates on a $1.5 million budget.[3]
+
+Contents
+
+1 History
+
+1.1 Future
+
+
+2 "The Way"
+3 Other works by notable artists
+4 See also
+5 References
+6 External links
+
+
+
+History[edit]
+The park was founded in 1968 by a property grant in the will of Matilda C. Laumeier, and was originally intended as a memorial to her deceased husband, Henry H. Laumeier. The will gave their land and country house to the county, and specified that would be used for passive purposes (e.g., no sport fields).[4] The park was 76 acres (0.31 km2) at its opening in 1975, but did not attract many visitors until a year later, when St. Louis sculptor Ernest Trova donated about 40 pieces of his work to the park.[6][7] It soon became a popular tourist attraction, and received an additional 20 acres (0.081 km2) from the Friends of Laumeier.[5] The additional land was mostly woods and is for site-specific sculptures, including an abandoned Depression-era concrete pool from the Orchard Valley estate that once occupied the land which was transformed into a large sculpture.[4]  [8]
+The founding executive director of the Sculpture Park was Dr. Beej Nierengarten-Smith, whose tenure lasted 22 years from October 1979 to May 2001. During  these early years the park won 6 operating grants and 2 conservation grants from the Institute of Museum and Library Services, including a grant to create an informative video on the park and an architectural assessment of its buildings. The park also received 22 grants from the National Endowment for the Arts for exhibitions and sculpture commissions. An endowment fund was created, valued at $2 million by 2000, and the park's operating fund increased from an initial $30,000 from St Louis County to over one million from combined resources. A variety of national and international sculptors were featured, including Terry Allen, Manuel Neri, Andy Goldsworthy, Judith Shea, and Joyce J. Scott.  Fifty percent of featured artists were women. Nierengarten-Smith also created the Contemporary Arts and Crafts Fair for education revenue, the Winter Solstice Program Fire and Ice, the Sand Castle Festival, Safari Camp in the woods for children and parents, and numerous other festivals for diverse audiences, including children. A volunteer program for the park and its special events was also created.  During the first 22 years, attendance rose from several hundred to 500,000 people, and the park twice received museum accreditation from the American Association of Museums. [9] [10]
+
+When Nierengarten-Smith retired in 2001, Glen Gentele became executive director.[11]  In September 2009 when Gentele accepted a position at another museum, Marilu Knode came from Arizona State University, where she was head of research for Future Arts Research, to become the current executive director. Knode was the former head of research at Future Arts Research at Arizona State University.[12]
+
+Future[edit]
+The park has raised significant funds for improvements and a new fine arts center. Lawrence Scarpa of the firm Brooks + Scarpa Architects, which won the 2010 AIA Architecture Firm Award, initially designed the Adam Aronson Fine Arts Center (named to honor an institutional founder member, long-term board member and major donor). Plans for this building were tabled and a less ambitious facility was constructed in 2015—designed by a regional architecture firm.
+
+"The Way"[edit]
+  Alexander Liberman's "The Way" (1980) is often cited as the park's signature sculpture.
+One of the park's best-known works, "The Way", was completed by Alexander Liberman in 1980. Constructed from eighteen salvaged steel oil tanks,[13] the sculpture is 65 feet (20 m) tall, 102 feet (31 m) wide, and 100 feet (30 m) deep,[14] and weighs 55 short tons (50 t).[15] It is painted cadmium red.[13] The park website describes the sculpture as a modernist work, "meant to represent the awe-inspiring impact of classical Greek temples and mammoth Gothic-style cathedrals" and modeled on post and lintel architecture.[13]
+"The Way" was composed on-site in a clearing later named "Way Field".[13] The work was funded by the National Endowment for the Arts and a donation by Alvin J. Siteman. In September 2011, it was restored by two workers using a hydraulic lift and 50 US gallons (190 litres) of paint.[14]
+The St. Louis Post-Dispatch described it as "iconic",[15] while another St. Louis newspaper, the Riverfront Times, described the sculpture as having become "a symbol of both the park and the city".[16]
+
+
+Other works by notable artists[edit]
+
+"Face of the Earth #3" (Vito Acconci, 1988)
+"La Libellule" (Arman, 1996)
+"Eclipse" (Charles Arnoldi, 1990)
+"Donut No. 3" (Fletcher Benton, 2002)
+"Java" (Anthony Caro, 1976)
+"Knots" (Cosimo Cavallaro, 1996)
+"Sugabus" (Robert Chambers, 2004)
+"Bombius" (Mark di Suvero, 1985–87)
+"Laumeier Project" (Jackie Ferrara, 1981)
+"Four Shades" (Ian Hamilton Finlay, 1994)
+"Crete" (Charles Ginnever, 1976–78)
+"Twins" (Joseph Havel, 2007)
+Ten plaques from "Living Series" (Jenny Holzer, 1980–82)
+"Untitled" (Donald Judd, 1984)
+"Intricate Wall" (Sol LeWitt, 2001–04)
+"Ball? Ball! Wall? Wall!" (Donald Lipski, 1994)
+"Not Without My Dog" (Tea Mäkipää, 2011)
+"Aurelia Roma" (Manuel Neri, 1994)
+"This area is under 23 hour video and audio surveillance" (Ahmet Ögüt, 2009)
+"Alpha" (Beverly Pepper, 1974)
+"Cromlech Glen" (Pepper, 1985–90)
+"House of the Minotaur" (Tony Rosenthal, 1980)
+"Leelinau" (Alison Saar, 1997)
+"Ricardo Cat" (Niki de Saint Phalle, 1999)
+"American Heartland Garden" (Judith Shea, 1992)
+"Public Goddess" (Shea, 1992)
+"St. Louis Bones" (Robert Stackhouse, 1987)
+"Flooded Chambers Maid" (Jessica Stockholder, 2009-10)
+"Eye" (Tony Tasset, 2007)
+"Falling Man" (Ernest Trova, 1969)
+"Gox No 3" (Trova, 1980)
+"Abstract Variation Lozanger No. 3" (Trova, 1980)
+"Untitled" (David von Schlegell, 1966)[17]
+
+See also[edit]
+
+
+
+Wikimedia Commons has media related to Laumeier Sculpture Park.
+
+Missouri Botanical Garden
+References[edit]
+
+
+^ "Man with Briefcase at #2968443". art-stl.com. Archived from the original on August 14, 2012. Retrieved August 13, 2012..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ Jackson, Harry (April 22, 2009). "Trail of the Week: Laumeier Sculpture Park". St. Louis Post-Dispatch. Retrieved August 13, 2012.
+
+^ a b Keaggy, Diane Toroian (December 13, 2009). "New Laumeier director plans to bring new life to sculpture park". St. Louis Post-Dispatch. Archived from the original on July 16, 2011. Retrieved January 1, 2010.
+
+^ a b c Nofziger, Fred (20 March 1988). "Laumeier Sculpture Park Is A 'Different' Place To Visit, Enjoy". Toledo Blade, p. E7.
+
+^ a b See, Ingram (March 22, 1987). "St. Louis Sculpture Park". The New York Times. Retrieved January 1, 2010.
+
+^ Bonetti, David (March 9, 2009). "Ernest Trova dies at age 82". St. Louis Post-Dispatch. Archived from the original on May 18, 2009. Retrieved January 1, 2010.
+
+^ Weber, Bruce (March 13, 2009). "Ernest Trova, 'Falling Man' Artist, Is Dead at 82". The New York Times. Archived from the original on August 14, 2012. Retrieved August 14, 2012.
+
+^ http://racstl.org/public-art/pool-complex-orchard-valley/
+
+^ McCue, George (ed). “Laumeier Sculpture Park first decade, 1976-1986”. St Louis, MO: The Park, 1986.
+
+^ Nierengarten-Smith, Beej, McCue, George, Brown, Susan Mattseld. “Laumeier Sculpture Park second decade, 1987-1996”. St Louis, MO: Laumeier Sculpture Park and Museum, 1998.
+
+^ Manning, Margie (July 27, 2001). "Gentele named director of Laumeier Sculpture Park". American City Business Journals, Inc. Retrieved January 1, 2010.
+
+^ Bonetti, David (July 13, 2009). "Laumeier Sculpture Park Appoints New Director". St. Louis Post-Dispatch. Retrieved August 13, 2012.
+
+^ a b c d "The Way, 1972-80". Laumeier Sculpture Park. Archived from the original on August 14, 2012. Retrieved August 13, 2012.
+
+^ a b "Restoration of 'The Way' underway". St. Louis Post-Dispatch. September 27, 2011. Archived from the original on August 14, 2012. Retrieved August 13, 2012.
+
+^ a b Keaggy, Diane Toroian (September 21, 2011). "Iconic Laumeier sculpture 'The Way' to be restored". St. Louis Post-Dispatch. Archived from the original on August 14, 2012. Retrieved August 13, 2012.
+
+^ Silva, Eddie (January 19, 2000). "Queen Beej". The Riverfront Times. Archived from the original on August 14, 2012. Retrieved August 13, 2012.
+
+^ "On View". Laumeier Sculpture Park. Archived from the original on August 14, 2012. Retrieved August 14, 2012.
+
+
+External links[edit]
+Official Site
+vteMuseums and cultural institutions in Greater St. LouisArt
+Contemporary Art Museum St. Louis
+Laumeier Sculpture Park
+Lemp Neighborhood Arts Center
+Mildred Lane Kemper Art Museum
+Pulitzer Arts Foundation
+Saint Louis Art Museum
+St. Louis Mercantile Library Art Museum
+Saint Louis University Museum of Art
+The Sheldon
+William and Florence Schmidt Art Center
+Architecture
+Gateway Arch
+Frank Lloyd Wright Kraus House
+Botanical
+Jewel Box
+Missouri Botanical Garden
+Children's
+City Museum
+The Magic House
+History
+Alton Museum of History and Art
+Anheuser-Busch Brewery
+Basilica of St. Louis, King of France
+Campbell House Museum
+Cathedral Basilica of Saint Louis
+Chatillon-DeMenil House
+Cupples House
+Daniel Boone Home
+Eugene Field House
+First Missouri State Capitol State Historic Site
+Jefferson Barracks Museums
+Scott Joplin House State Historic Site
+Lemp Mansion
+Lewis and Clark State Historic Site
+Missouri History Museum
+Museum of Westward Expansion
+Old Cahokia Courthouse
+Old Courthouse
+Benjamin Stephenson House
+Soldiers' Memorial
+Ulysses S. Grant National Historic Site
+Union Station
+Science andnatural history
+Cahokia Mounds
+Crow Observatory
+Mastodon State Historic Site
+McDonnell Planetarium
+Saint Louis Science Center
+Sports
+St. Louis Cardinals Hall of Fame Museum
+St. Louis Soccer Hall of Fame
+World Chess Hall of Fame
+Theatres andmusic venues
+Fox Theatre
+The Muny
+National Blues Museum
+Stifel Theatre
+Powell Hall
+The Sheldon
+Transportation
+Greater Saint Louis Air & Space Museum
+Historic Aircraft Restoration Museum
+Museum of Transportation
+Zoological
+Butterfly House
+World Aquarium
+Saint Louis Zoo
+
+vteParks in Greater St. LouisSt. LouisCity parksMaintainedby city
+Aboussie Park
+Alaska Park
+Aloe Plaza
+Aloe Plaza West
+Amberg Park
+Amherst Park
+Jet Banks Park
+Barrett Brothers Park
+Beckett Playground
+Bellerive Park
+Benton Park
+Louis G. "Midge" Berra Park
+North Riverfront Park
+Eugene "Tink" Bradley Park
+Buder Playground
+Busche Park
+Carnegie Park
+Carondelet Park
+Carondelet Lions Park
+Carr Square
+Jordan W. Chambers Park
+Cherokee Park
+Chouteau Park
+Christy Park
+Citygarden
+Clifton Heights Park
+Compton Hill Reservoir Park
+Costello Park
+De Soto Park
+Dickman Park
+Dwight Davis Park
+Eads Square Park
+Ellendale and Arsenal Park
+Fairground Park
+Fanetti Plaza
+Forest Park
+Fountain Park
+Fourteenth Street Mall
+Fox Park
+Father Filipiac Park
+Francis Park
+Franz Park
+Fremont Park
+Gamble Park
+Garrison-Brantner-Webster Park
+Gateway Mall
+Gwen B. Giles Park
+Grand Center Park
+Gravois Park
+Hamilton Heights Park
+W.C. Handy Park
+David Hickey Park
+Hyde Park
+Interco Plaza
+Jackson Place Park
+Kaufmann Park
+Kennedy Park
+Kenrick Garden Triangle Park
+Kiener Plaza
+Kingsbury Square Park
+Laclede Park
+Lafayette Park
+Joe Leisure Park
+Ray Leisure Park
+Lindenwood Park
+Lucas Garden Park
+Phillip Lucier Park
+Lyon Park
+Marquette Park
+May Amphitheater
+McDonald Park
+Memorial Plaza
+Mestres Park
+Minnesota & Hill Park
+Minniewood Park
+Mount Pleasant Park
+O'Fallon Park
+Parkland Park
+Penrose Park
+Ivory Perry Park
+Poelker Park
+Pontiac Square Park
+Ruth Porter Park
+River Des Peres Park
+River Des Peres Extension
+Rumbold Park
+Ernest J. Russell Park
+Serra Sculpture Park
+Sherman Park
+Sister Marie Charles Park
+Soulard Playground
+South St. Louis Square Park
+St. Louis Place Park
+St. Marcus Commemorative Park
+Strodtman Park
+Sublette Park
+Tambo Park
+Tandy Park
+Robert Terry Park
+Tiffany Park
+Rosalie Tilles Park
+Milton Turner Playground
+Unity Park
+Vivian and Astra Park
+Walnut Park
+Washington Square Park
+Willmore Park
+Windsor Park
+Yeatman Square Park
+Maintainedby others
+Gateway Arch National Park
+Leon Strauss Park
+Luther Ely Smith Square
+Tower Grove Park
+St. LouisCounty parksNorth area
+Bella Fontaine County Park
+General Daniel Bissell House County Park
+Bon Oak County Park
+Castlepoint County Park
+Champ County Park
+Endicott County Park
+Fort Belle Fontaine County Park
+King County Park
+Kinloch County Park
+Larimore County Park
+McDonnell County Park
+Sioux Passage County Park
+Spanish Lake County Park
+St. Vincent County Park
+Veterans Memorial County Park
+West area
+Creve Coeur County Park
+Ebsworth County Park
+Faust County Park
+Greensfelder County Park
+Lone Elk County Park
+Love County Park
+Queeny County Park
+Tilles County Park
+West Tyson County Park
+South area
+Bee Tree County Park
+Black Forest County Park
+Bohrer County Park
+Buder County Park
+Cliff Cave County Park
+Clydesdale County Park
+Jefferson Barracks County Park
+Laumeier Sculpture Park
+Lemay County Park
+Mathilda-Welmering County Park
+Ohlendorf County Park
+Simpson County Park
+Suson County Park
+Sylvan Springs County Park
+Unger County Park
+George Winter County Park
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Laumeier_Sculpture_Park&oldid=917148995"
+		
+		Categories: Sculpture gardens, trails and parks in the United StatesCulture of St. LouisOutdoor sculptures in MissouriArt museums in MissouriMuseums in St. Louis County, MissouriInstitutions accredited by the American Alliance of MuseumsParks in St. LouisTourist attractions in St. Louis County, MissouriHidden categories: Use mdy dates from August 2012Infobox mapframe without OSM relation ID on WikidataCoordinates on WikidataCommons category link is on WikidataPages using the Kartographer extension
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			In other projects
+			
+								
+					Wikimedia Commons				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					Nederlands				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 22 September 2019, at 13:36 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.416","walltime":"0.579","ppvisitednodes":{"value":2090,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":99132,"limit":2097152},"templateargumentsize":{"value":4689,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":45054,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  492.641      1 -total"," 33.66%  165.831      1 Template:Infobox_park"," 32.01%  157.703      1 Template:Reflist"," 31.93%  157.306      1 Template:Infobox"," 27.78%  136.835     13 Template:Cite_web"," 11.20%   55.196      1 Template:Use_mdy_dates","  9.37%   46.163      1 Template:Commons_category","  8.11%   39.976      9 Template:Convert","  6.33%   31.194      1 Template:Coord","  6.13%   30.219      6 Template:If_empty"]},"scribunto":{"limitreport-timeusage":{"value":"0.195","limit":"10.000"},"limitreport-memusage":{"value":7953437,"limit":52428800}},"cachereport":{"origin":"mw1342","timestamp":"20191214154303","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Laumeier Sculpture Park","url":"https:\/\/en.wikipedia.org\/wiki\/Laumeier_Sculpture_Park","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1953144","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1953144","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-08-06T23:23:32Z","dateModified":"2019-09-22T13:36:00Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/93\/Laumeier_Sculpture_Park_02.jpg","headline":"non-profit organisation in the USA"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1326"});});
+
+

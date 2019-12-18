@@ -1,0 +1,258 @@
+
+
+Natalia Trayanova - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqAHApAICIAAK0M2bgAAACM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Natalia_Trayanova","wgTitle":"Natalia Trayanova","wgCurRevisionId":931413736,"wgRevisionId":931413736,"wgArticleId":57659353,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: extra punctuation","CS1 maint: others","Articles with short description","Articles with hCards","Year of birth missing (living people)","Bulgarian women academics","Women in technology",
+"Living people","Bulgarian women scientists","Bulgarian scientists","Bulgarian physicists","Fulbright Distinguished Chairs","Johns Hopkins Biomedical Engineering faculty","Tulane University faculty","Sofia University alumni","Duke University faculty","Bulgarian emigrants to the United States","20th-century women engineers","21st-century women engineers","Bulgarian engineers","Fellows of the Biomedical Engineering Society","20th-century Bulgarian women","21st-century Bulgarian women"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Natalia_Trayanova","wgRelevantArticleId":57659353,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},
+"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q55081211","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse",
+"ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Natalia Trayanova
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Professor of biomedical engineering
+Natalia TrayanovaAlma materBulgarian Academy of Sciences 
+Sofia UniversityAwardsFellow of the International Academy of Medical and Biological Engineering 2017  
+Fellow of the American Heart Association 2010 
+Fellow of the Biomedical Engineering Society 2010 
+
+Fellow of the Heart Rhythm Society 2008Scientific careerInstitutionsJohns Hopkins University 
+University of Oxford 
+Tulane University 
+
+Duke University
+
+Natalia Trayanova FAHA FHRS is a Professor of Biomedical Engineering in the Department of Medicine at Johns Hopkins University. She directs the Alliance for Cardiovascular Diagnostic and Treatment Innovation [1]
+
+Early life and education[edit]
+Trayanova's father was a physiologist and director of the Biophysics Institute in Bulgaria.[2] Her mother was a Professor of Economics.[2] She studied physics at Sofia University, graduating in 1982.[3] Her father gave her a copy of Robert Plonsey's book, Bioelectric Phenomena, and Trayanova realised she could use her physics expertise in biology.[2] She earned a PhD from the Bulgarian Academy of Sciences in 1986, where she studied skeletal muscle fibre biopotentials[3]
+
+Research and career[edit]
+In 1986 Trayanova joined Duke University working with Robert Plonsey on rhythmic dysfunction in the heart.[2] In 1995 she was appointed Associate Professor at Tulane University, where she was awarded the several awards for teaching excellence.[4][5] She began to develop computer models for the heart but found that the cardiologists were not enthusiastic about computer modelling.[5] After Hurricane Katrina, several research institutions asked Trayanova to relocate and join them.[5] She was awarded a Fulbright Program Visiting Professorship and spent several months at the University of Oxford.
+In 2006 Trayanova was recruited to Johns Hopkins University as a Professor in the Johns Hopkins Biomedical Engineering and Institute for Computational Science.[6] Her work considers computational simulations of the heart.[7] She was elected a Fellow of the Biomedical Engineering Society and American Heart Association in 2010.[8][9] In 2011 she developed a computational framework that allowed virtual drug screening, simulating the drug-channel interactions and predicting the impact of drugs on electrical activity of the heart.[5]
+In 2012 she was named the Murray B Sachs Endowed Chair in Johns Hopkins Biomedical Engineering Department.[2] In 2013 she was awarded the National Institutes of Health Director’s Pioneer Award, which allowed her to develop a virtual electrophysiology lab.[10] The award gave her $2.5 million over five years to develop patient-specific computational models of the heart, allowing for doctors to provide personalised treatment and diagnoses.[10] She has received extensive support from the Maryland Innovation Initiative.[11] In 2019, she was inducted into the Women in Technology International Hall of Fame,[12] and she also received the 2019 Heart Rhythm Society Distinguished Scientist Award [13]
+She is the Chief Scientific Officer of Cardiosolv Ablation Technologies, a start-up that develops computational tools to help the treatment of ventricular tachycardia.[14] She gave a TED talk in 2017 entitled Your Personal Virtual Heart.[15] She was selected by the National Institutes of Health to take part in a briefing at Capitol Hill looking to defend the federal funding of scientific research.[16] She was elected a Fellow of the International Academy of Medical and Biological Engineering in 2017.[17]  She has been featured on Reddit AMA r/science,[18] has been interviewed by the BBC, NPR, the Economist, and has been on the Amazing Things Podcast.[19]
+
+References[edit]
+
+^ "Alliance for Cardiovascular Diagnostic and Treatment Innovation". Retrieved 2019-05-31..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b c d e "Natalia Trayanova on Developing Computer Simulations of Hearts". Retrieved 2018-06-11.
+
+^ a b "Natalia Trayanova, PhD | Johns Hopkins Department of Biomedical Engineering". Johns Hopkins Department of Biomedical Engineering. Retrieved 2018-06-11.
+
+^ "NSF Award Search: Award#9709754 - Mathematical Sciences/GIG:  Computational Science in        Biomedical Systems". www.nsf.gov. Retrieved 2018-06-11.
+
+^ a b c d Conversations about challenges in computing. Tveito, Aslak, 1961-, Bruaset, A. M. (Are Magnus),. Cham. ISBN 9783319002095. OCLC 853073413.CS1 maint: extra punctuation (link) CS1 maint: others (link)
+
+^ "JHU – Institute for Computational Medicine |   Two New Faculty Appointments at the Institute for Computational Medicine". icm.jhu.edu. Retrieved 2018-06-11.
+
+^ Johns Hopkins University (2015-02-10), Natalia Trayanova - Computational Simulations of the Heart, retrieved 2018-06-11
+
+^ "Trayanova recognized by AHA | Johns Hopkins Department of Biomedical Engineering". Johns Hopkins Department of Biomedical Engineering. Retrieved 2018-06-11.
+
+^ "Natalia A. Trayanova, M.S., Ph.D." Retrieved 2018-06-11.
+
+^ a b "Natalia Trayanova Receives 2013 NIH Director's Pioneer Award | Johns Hopkins Whiting School of Engineering". Johns Hopkins Whiting School of Engineering. 2013-09-30. Retrieved 2018-06-11.
+
+^ "MII Award Projects | Tedco". tedco.md. Retrieved 2018-06-11.
+
+^ "WIT 2019 Hall of Fame Inductees". Retrieved 2019-05-31.
+
+^ "Heart Rhythm Society 2019 Award Winners". Retrieved 2019-05-31.
+
+^ "Team | CardioSolv". cardiosolv.com. Retrieved 2018-06-11.
+
+^ TEDx Talks (2017-07-18), Your Personal Virtual Heart | Natalia Trayanova | TEDxJHU, retrieved 2018-06-11
+
+^ "JHU – Institute for Computational Medicine |   Natalia Trayanova visits Capitol Hill in Support of NIH Funding". icm.jhu.edu. Retrieved 2018-06-11.
+
+^ "BME's Natalia Trayanova elected as a Fellow of IAMBE | Johns Hopkins Whiting School of Engineering". Johns Hopkins Whiting School of Engineering. 2017-09-21. Retrieved 2018-06-11.
+
+^ "Science AMA Series: I'm Natalia Trayanova, a professor of biomedical engineering and medicine at Johns Hopkins University. I create virtual hearts to diagnose and treat patients with heart rhythm disorders. AMA!". www.reddit.com. Retrieved 2018-10-24.
+
+^ "Natalia Trayanova: Using a Personalized, Virtual Heart to Prevent Sudden Cardiac Death". www.amazingthingspodcast.com. Retrieved 2018-10-24.
+
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Natalia_Trayanova&oldid=931413736"
+		
+		Categories: Bulgarian women academicsWomen in technologyLiving peopleBulgarian women scientistsBulgarian scientistsBulgarian physicistsFulbright Distinguished ChairsJohns Hopkins Biomedical Engineering facultyTulane University facultySofia University alumniDuke University facultyBulgarian emigrants to the United States20th-century women engineers21st-century women engineersBulgarian engineersFellows of the Biomedical Engineering Society20th-century Bulgarian women21st-century Bulgarian womenHidden categories: CS1 maint: extra punctuationCS1 maint: othersArticles with short descriptionArticles with hCardsYear of birth missing (living people)
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+									
+				Add links			
+		
+				
+		
+				
+						
+								 This page was last edited on 18 December 2019, at 19:37 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.328","walltime":"0.450","ppvisitednodes":{"value":1870,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":34274,"limit":2097152},"templateargumentsize":{"value":1532,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":57171,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  411.105      1 -total"," 26.09%  107.248     10 Template:Cite_web"," 26.06%  107.153      1 Template:Infobox_scientist"," 24.15%   99.301      1 Template:Infobox_person"," 21.70%   89.191      2 Template:Infobox"," 18.76%   77.108      1 Template:Cite_book"," 14.54%   59.769      1 Template:Short_description"," 10.93%   44.938      1 Template:Pagetype","  6.05%   24.861      6 Template:Cite_news","  5.74%   23.616      5 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.179","limit":"10.000"},"limitreport-memusage":{"value":6226000,"limit":52428800}},"cachereport":{"origin":"mw1345","timestamp":"20191218193742","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Natalia Trayanova","url":"https:\/\/en.wikipedia.org\/wiki\/Natalia_Trayanova","sameAs":"http:\/\/www.wikidata.org\/entity\/Q55081211","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q55081211","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2018-06-11T20:58:23Z","dateModified":"2019-12-18T19:37:38Z","headline":"Professor of biomedical engineering"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1332"});});
+
+

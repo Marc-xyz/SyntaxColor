@@ -1,0 +1,298 @@
+
+
+Meggitt Vindicator II - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfqt-wpAAEEAADDoH8QAAADO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Meggitt_Vindicator_II","wgTitle":"Meggitt Vindicator II","wgCurRevisionId":926150911,"wgRevisionId":926150911,"wgArticleId":62030162,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Meggitt aircraft","Target drones"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Meggitt_Vindicator_II","wgRelevantArticleId":62030162,"wgIsProbablyEditable":
+!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Meggitt Vindicator II
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+Vindicator II
+
+
+
+
+
+
+
+Role
+
+Unmanned Aerial Vehicle – Training Target
+
+
+National origin
+
+Canada
+
+
+Manufacturer
+
+Meggitt Training Systems Canada - now Qinetiq Target Systems Canada
+
+
+
+
+
+
+
+
+
+Status
+
+Retired
+
+
+Primary user
+
+Canadian Forces, United States Navy
+
+
+
+Number built
+
+1-2[1] (Canada)  1 (USN)
+
+
+
+
+
+
+
+The Meggitt Vindicator II, is a Canadian-built Unmanned Aerial Vehicle – Training Target used by the Canadian Forces and United States Navy.[2]
+The UAV was used to simulate various types of targets like missiles, aircraft (including helicopter).[3]
+The vehicle was not powered and launched via pneumatic catapult.[4]
+
+Contents
+
+1 Operators
+2 On Display
+3 Specifications Meggitt Vindicator II
+4 References
+
+
+
+Operators[edit]
+ Canada - as CU-162
+ United States
+On Display[edit]
+1 UAV-T donated to Canadian War Museum in 2010[5]
+1 UAV-T at Naval Museum of Alberta[6]
+1 Reynolds-Alberta Museum[7]
+Specifications Meggitt Vindicator II[edit]
+Data from http://targetsystems.qinetiq.com/static/media/files/Vindicator_UAV-T_DS-AT-VN-V01_sw_final.pdfGeneral characteristics
+Crew: None
+Length: 2.72 m (8 ft 11 in)
+Wingspan: 2.59 m (8 ft 6 in)
+Height: 0.51 m (1 ft 8 in)
+Wing area: 1.7 m2 (18 sq ft)
+Empty weight: 68 kg (150 lb)
+Gross weight: 77 kg (170 lb)
+Fuel capacity: 23L
+Performance
+
+Maximum speed: 322 km/h (200 mph, 174 kn)
+Range: 190 km (120 mi, 100 nmi)
+Endurance: 1.5 hours
+Service ceiling: 910 m (3,000 ft)
+References[edit]
+
+
+^ http://www.rwrwalker.ca/post_int.html
+
+^ https://en.ruvsa.com/catalog/vindicator/
+
+^ http://targetsystems.qinetiq.com/static/media/files/Vindicator_UAV-T_DS-AT-VN-V01_sw_final.pdf
+
+^ https://en.ruvsa.com/catalog/vindicator/
+
+^ https://www.warmuseum.ca/media/canadian-war-museum-receives-a-21st-century-artifact/
+
+^ https://navalmuseumofalbertasociety.ca/resources/Documents/Ensign%202014%20Vol%2023/Ensign%20-%20Summer%202014%20COLOR.pdf
+
+^ http://targetsystems.qinetiq.com/en-ca/news/2009/11/10/vindicator-ii-uav-t-reynolds-aerospace-museum/
+
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Meggitt_Vindicator_II&oldid=926150911"
+		
+		Categories: Meggitt aircraftTarget drones
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+									
+				Add links			
+		
+				
+		
+				
+						
+								 This page was last edited on 14 November 2019, at 15:26 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.300","ppvisitednodes":{"value":2105,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6314,"limit":2097152},"templateargumentsize":{"value":1645,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3007,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  270.412      1 -total"," 51.95%  140.478      1 Template:Aircraft_specs"," 25.09%   67.850     11 Template:Aircraft_specs/length"," 24.36%   65.862      7 Template:Convert"," 16.91%   45.732      1 Template:Infobox_Aircraft_Begin"," 11.00%   29.746      2 Template:Flag"," 10.85%   29.341      1 Template:WPMILHIST_Infobox_style"," 10.35%   27.998      1 Template:Reflist","  7.83%   21.182      1 Template:USA","  7.32%   19.807      5 Template:Aircraft_specs/speed"]},"scribunto":{"limitreport-timeusage":{"value":"0.039","limit":"10.000"},"limitreport-memusage":{"value":2925782,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20191204232818","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1270"});});
+
+

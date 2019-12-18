@@ -1,0 +1,577 @@
+
+
+Vignoc - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfnylQpAMFoAAEUHGc8AAABW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Vignoc","wgTitle":"Vignoc","wgCurRevisionId":897656373,"wgRevisionId":897656373,"wgArticleId":15431235,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Coordinates on Wikidata","Articles containing Breton-language text","Articles with French-language external links","Commons category link from Wikidata","All stub articles",
+"Pages using the Kartographer extension","Communes of Ille-et-Vilaine","Ille-et-Vilaine geography stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Vignoc","wgRelevantArticleId":15431235,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgKartographerLiveData":{"_2f2ce168e71a56ab2d6f3cb445700be43f6bbf7d":[{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q1070915","properties":{
+"stroke-width":3,"stroke":"#FF0000","title":"Vignoc","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q1070915","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Vignoc"}},{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q1070915","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Vignoc","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q1070915","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Vignoc"}}]},"wgCoordinates":{"lat":48.2497,"lon":-1.7811},"wgWikibaseItemId":"Q1070915","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":
+"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Vignoc
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Commune in Brittany, FranceVignocGwiniegCommuneThe belltower of the church in VignocLocation of Vignoc
+VignocShow map of FranceVignocShow map of BrittanyCoordinates: 48°14′59″N 1°46′52″W﻿ / ﻿48.2497°N 1.7811°W﻿ / 48.2497; -1.7811Coordinates: 48°14′59″N 1°46′52″W﻿ / ﻿48.2497°N 1.7811°W﻿ / 48.2497; -1.7811CountryFranceRegionBrittanyDepartmentIlle-et-VilaineArrondissementRennesCantonMelesseIntercommunalityVal d'IlleGovernment • Mayor .mw-parser-output .nobold{font-weight:normal}(2014–2020) Jean Le GallArea114.09 km2 (5.44 sq mi)Population (2016-01-01)[1]1,873 • Density130/km2 (340/sq mi)Time zoneUTC+01:00 (CET) • Summer (DST)UTC+02:00 (CEST)INSEE/Postal code35356 /35630Elevation63–121 m (207–397 ft)1 French Land Register data, which excludes lakes, ponds, glaciers > 1 km2 (0.386 sq mi or 247 acres) and river estuaries.
+Vignoc (Breton: Gwinieg, Gallo: Veinyoc) is a commune in the Ille-et-Vilaine department in Brittany in northwestern France.
+
+Contents
+
+1 Population
+2 See also
+3 References
+4 External links
+
+
+
+Population[edit]
+Inhabitants of Vignoc are called Vignocois in French.
+
+Historical populationYearPop.±%1962 662—    1968 667+0.8%1975 674+1.0%1982 773+14.7%1990 887+14.7%1999 1,091+23.0%2009 1,806+65.5%
+
+See also[edit]
+Communes of the Ille-et-Vilaine department
+References[edit]
+INSEE
+
+
+^ "Populations légales 2016". INSEE. Retrieved 25 April 2019..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+
+Mayors of Ille-et-Vilaine Association (in French)
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Vignoc.
+
+Official website Vignoc (in French)
+French Ministry of Culture list for Vignoc (in French)
+vteCommunes of the Ille-et-Vilaine department 
+Acigné
+Amanlis
+Andouillé-Neuville
+Arbrissel
+Argentré-du-Plessis
+Aubigné
+Availles-sur-Seiche
+Baguer-Morvan
+Baguer-Pican
+Bain-de-Bretagne
+Bains-sur-Oust
+Bais
+Balazé
+Baulon
+La Baussaine
+La Bazouge-du-Désert
+Bazouges-la-Pérouse
+Beaucé
+Bécherel
+Bédée
+Betton
+Billé
+Bléruais
+Boisgervilly
+Boistrudan
+Bonnemain
+La Bosse-de-Bretagne
+La Bouëxière
+Bourgbarré
+Bourg-des-Comptes
+La Boussac
+Bovel
+Bréal-sous-Montfort
+Bréal-sous-Vitré
+Brécé
+Breteil
+Brie
+Brielles
+Broualan
+Bruc-sur-Aff
+Les Brulais
+Bruz
+Cancale
+Cardroc
+Cesson-Sévigné
+Champeaux
+Chanteloup
+Chantepie
+La Chapelle-aux-Filtzméens
+La Chapelle-Bouëxic
+La Chapelle-Chaussée
+La Chapelle-de-Brain
+La Chapelle-des-Fougeretz
+La Chapelle-du-Lou-du-Lac
+La Chapelle-Erbrée
+La Chapelle-Janson
+La Chapelle-Saint-Aubert
+La Chapelle-Thouarault
+Chartres-de-Bretagne
+Chasné-sur-Illet
+Châteaubourg
+Châteaugiron
+Châteauneuf-d'Ille-et-Vilaine
+Le Châtellier
+Châtillon-en-Vendelais
+Chauvigné
+Chavagne
+Chelun
+Cherrueix
+Chevaigné
+Cintré
+Clayes
+Coësmes
+Comblessac
+Combourg
+Combourtillé
+Cornillé
+Corps-Nuds
+La Couyère
+Crevin
+Le Crouais
+Cuguen
+Dinard
+Dingé
+Dol-de-Bretagne
+Domagné
+Domalain
+La Dominelais
+Domloup
+Dourdain
+Drouges
+Eancé
+Epiniac
+Erbrée
+Ercé-en-Lamée
+Ercé-près-Liffré
+Essé
+Étrelles
+Feins
+Le Ferré
+Fleurigné
+Forges-la-Forêt
+Fougères
+La Fresnais
+Gaël
+Gahard
+Gennes-sur-Seiche
+Gévezé
+Gosné
+La Gouesnière
+Goven
+Grand-Fougeray
+La Guerche-de-Bretagne
+Guichen
+Guignen
+Guipel
+Guipry-Messac
+Hédé-Bazouges
+L'Hermitage
+Hirel
+Iffendic
+Les Iffs
+Irodouër
+Janzé
+Javené
+Laignelet
+Laillé
+Lalleu
+Landavran
+Landéan
+Landujan
+Langan
+Langon
+Langouet
+Lanrigan
+Lassy
+Lécousse
+Lieuron
+Liffré
+Lillemer
+Livré-sur-Changeon
+Lohéac
+Longaulnay
+Le Loroux
+Lourmais
+Loutehel
+Louvigné-de-Bais
+Louvigné-du-Désert
+Luitré-Dompierre
+Maen-Roch
+Marcillé-Raoul
+Marcillé-Robert
+Marpiré
+Martigné-Ferchaud
+Maxent
+Mecé
+Médréac
+Meillac
+Melesse
+Mellé
+Mernel
+Mesnil-Roc'h
+La Mézière
+Mézières-sur-Couesnon
+Miniac-Morvan
+Miniac-sous-Bécherel
+Le Minihic-sur-Rance
+Mondevert
+Montauban-de-Bretagne
+Montautour
+Mont-Dol
+Monterfil
+Montfort-sur-Meu
+Montgermont
+Monthault
+Montreuil-des-Landes
+Montreuil-le-Gast
+Montreuil-sous-Pérouse
+Montreuil-sur-Ille
+Mordelles
+Mouazé
+Moulins
+Moussé
+Moutiers
+Muel
+La Noë-Blanche
+La Nouaye
+Nouvoitou
+Noyal-Châtillon-sur-Seiche
+Noyal-sous-Bazouges
+Noyal-sur-Vilaine
+Orgères
+Pacé
+Paimpont
+Pancé
+Parcé
+Parigné
+Parthenay-de-Bretagne
+Le Pertre
+Le Petit-Fougeray
+Pipriac
+Piré-Chancé
+Pléchâtel
+Pleine-Fougères
+Plélan-le-Grand
+Plerguer
+Plesder
+Pleugueneuc
+Pleumeleuc
+Pleurtuit
+Pocé-les-Bois
+Poilley
+Poligné
+Pont-Péan
+Les Portes du Coglais
+Princé
+Québriac
+Quédillac
+Rannée
+Redon
+Renac
+Rennes
+Retiers
+Le Rheu
+La Richardais
+Rimou
+Rives-du-Couesnon
+Romagné
+Romazy
+Romillé
+Roz-Landrieux
+Roz-sur-Couesnon
+Sains
+Saint-Armel
+Saint-Aubin-d'Aubigné
+Saint-Aubin-des-Landes
+Saint-Aubin-du-Cormier
+Saint-Benoît-des-Ondes
+Saint-Briac-sur-Mer
+Saint-Brieuc-des-Iffs
+Saint-Broladre
+Saint-Christophe-des-Bois
+Saint-Christophe-de-Valains
+Saint-Coulomb
+Saint-Didier
+Saint-Domineuc
+Sainte-Anne-sur-Vilaine
+Sainte-Colombe
+Sainte-Marie
+Saint-Erblon
+Saint-Ganton
+Saint-Georges-de-Gréhaigne
+Saint-Georges-de-Reintembault
+Saint-Germain-du-Pinel
+Saint-Germain-en-Coglès
+Saint-Germain-sur-Ille
+Saint-Gilles
+Saint-Gondran
+Saint-Gonlay
+Saint-Grégoire
+Saint-Guinoux
+Saint-Hilaire-des-Landes
+Saint-Jacques-de-la-Lande
+Saint-Jean-sur-Vilaine
+Saint-Jouan-des-Guérets
+Saint-Just
+Saint-Léger-des-Prés
+Saint-Lunaire
+Saint-Malo
+Saint-Malo-de-Phily
+Saint-Malon-sur-Mel
+Saint-Marcan
+Saint-Marc-le-Blanc
+Saint-Maugan
+Saint-Médard-sur-Ille
+Saint-Méen-le-Grand
+Saint-Méloir-des-Ondes
+Saint-M'Hervé
+Saint-Onen-la-Chapelle
+Saint-Ouen-des-Alleux
+Saint-Péran
+Saint-Père-Marc-en-Poulet
+Saint-Pern
+Saint-Rémy-du-Plain
+Saint-Sauveur-des-Landes
+Saint-Séglin
+Saint-Senoux
+Saint-Suliac
+Saint-Sulpice-des-Landes
+Saint-Sulpice-la-Forêt
+Saint-Symphorien
+Saint-Thual
+Saint-Thurial
+Saint-Uniac
+Saulnières
+Le Sel-de-Bretagne
+La Selle-en-Luitré
+La Selle-Guerchaise
+Sens-de-Bretagne
+Servon-sur-Vilaine
+Sixt-sur-Aff
+Sougéal
+Taillis
+Talensac
+Teillay
+Le Theil-de-Bretagne
+Thorigné-Fouillard
+Thourie
+Le Tiercent
+Tinténiac
+Torcé
+Trans-la-Forêt
+Treffendel
+Trémeheuc
+Tresbœuf
+Trévérien
+Trimer
+Le Tronchet
+Val-Couesnon
+Val d'Anast
+Val-d'Izé
+Vergéal
+Le Verger
+Vern-sur-Seiche
+Vezin-le-Coquet
+Vieux-Viel
+Vieux-Vy-sur-Couesnon
+Vignoc
+Villamée
+La Ville-ès-Nonais
+Visseiche
+Vitré
+Le Vivier-sur-Mer
+
+
+
+This Ille-et-Vilaine geographical article is a stub. You can help Wikipedia by expanding it.vte
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Vignoc&oldid=897656373"
+		
+		Categories: Communes of Ille-et-VilaineIlle-et-Vilaine geography stubsHidden categories: Articles with short descriptionCoordinates on WikidataArticles containing Breton-language textArticles with French-language external linksCommons category link from WikidataAll stub articlesPages using the Kartographer extension
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			In other projects
+			
+								
+					Wikimedia Commons				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					Bân-lâm-gúBoarischBrezhonegCatalàCebuanoCymraegDeutschEspañolEuskaraFrançaisGalegoItalianoҚазақшаLatinaMagyarBahasa MelayuNederlandsНохчийнOccitanOʻzbekcha/ўзбекчаPiemontèisPolskiPortuguêsRomânăSlovenčinaSvenskaУкраїнськаTiếng ViệtVolapükWinaray中文				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 18 May 2019, at 14:19 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.112","walltime":"1.415","ppvisitednodes":{"value":5714,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":93399,"limit":2097152},"templateargumentsize":{"value":19294,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3458,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1294.830      1 -total"," 73.20%  947.753      1 Template:Infobox_French_commune"," 72.11%  933.666      1 Template:Infobox_settlement"," 64.34%  833.052      1 Template:Infobox"," 20.02%  259.205      7 Template:Wikidata"," 19.36%  250.716      3 Template:France_metadata_Wikidata"," 12.98%  168.024      1 Template:Lang-br","  5.75%   74.517      7 Template:Both","  5.68%   73.547      5 Template:Main_other","  5.21%   67.447      1 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.707","limit":"10.000"},"limitreport-memusage":{"value":15941661,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20191218003224","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Vignoc","url":"https:\/\/en.wikipedia.org\/wiki\/Vignoc","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1070915","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1070915","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-01-26T14:52:54Z","dateModified":"2019-05-18T14:19:31Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/13\/Clocher_de_l%27%C3%A9glise_Saint-Melaine_de_Vignoc%2C_France.jpg","headline":"commune in Ille-et-Vilaine, France"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1255"});});
+
+

@@ -1,0 +1,3250 @@
+
+
+Deal or No Deal - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfk1SwpAAD8AAIlRsssAAABV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Deal_or_No_Deal","wgTitle":"Deal or No Deal","wgCurRevisionId":931200247,"wgRevisionId":931200247,"wgArticleId":1189308,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","Articles with German-language external links","Articles with Arabic-language external links","CS1 Arabic-language sources (ar)","Webarchive template wayback links",
+"Articles with Bulgarian-language external links","Articles with French-language external links","Articles with Greek-language external links","Articles with Hungarian-language external links","Articles with Italian-language external links","Articles with Korean-language external links","Articles with Spanish-language external links","CS1 German-language sources (de)","Articles with Vietnamese-language external links","CS1 errors: missing periodical","Articles with short description","Articles containing potentially dated statements from April 2015","All articles containing potentially dated statements","Articles containing Dari-language text","Articles containing Albanian-language text","Articles containing Algerian Arabic-language text","Articles containing Arabic-language text","Articles containing Armenian-language text","Articles containing Bulgarian-language text","Articles containing Khmer-language text","All articles with unsourced statements",
+"Articles with unsourced statements from April 2007","Articles with unsourced statements from December 2018","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from December 2018","Commons category link from Wikidata","Deal or No Deal","Endemol Shine Group franchises","Television series by Endemol","2000 Dutch television series debuts"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Deal_or_No_Deal","wgRelevantArticleId":1189308,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},
+"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q164304","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc",
+"mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Deal or No Deal
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		For the album by Wiz Khalifa, see Deal or No Deal (album).
+TV show format
+Deal or No DealCreated byDick de RijkOriginal workMiljoenenjachtOwned byEndemolOfficial websitehttp://www.endemol.com/programme/deal-or-no-deal
+Deal or No Deal is the name of several closely related television game shows, the first of which (launching the format) was the Dutch Miljoenenjacht (Hunt for Millions) produced by Dutch producer Endemol. It is played with up to 26 cases (or, in some versions, boxes), each containing randomly assigned sums of money. The player claims (or is assigned) one case or a box at the start of the game, without its contents being revealed. The contestant then chooses the other cases or boxes, one at a time, to be immediately opened and removed from play. Throughout the game, the player is offered an amount of money or prizes to quit, being asked the  titular question, "Deal or no deal?" If the contestant rejects every deal and eliminates all the other cases or boxes, the player keeps the money that was in the original case or box. Thus, the contestant "wins" depending on whether the player should have taken one of the deals or should have held onto the original case or box until the very end.
+
+Contents
+
+1 Gameplay
+2 International versions
+3 Top prize winners
+4 Basis and antecedents
+5 Algorithm used by “The Bank”
+6 Video games
+7 Online Gambling
+8 See also
+9 References
+10 External links
+
+
+
+Gameplay[edit]
+The gameplay of the show differs from country to country. In some countries, there is a preliminary contest in which the studio audience is whittled down to one final contender by several trivia question rounds, this final contender then proceeds to the main game. There are also some versions with the number of players equal to the number of cases, each player receives one case. Via a short trivia round or a random selection, one player is selected to be the contestant for the main game with his case. In other countries, there is only one preselected contestant who will play the main game without any preliminary contest.
+The main game revolves around the opening of a set of numbered briefcases, each of which contains a different prize (cash or otherwise).  The contents (i.e., the values) of all of the cases are known at the start of the game, but the specific location of any prize is unknown.  The contestant claims (or is assigned) a case to begin the game. The case's value is not revealed until the conclusion of the game.
+The contestant then begins choosing cases that are to be removed from play. The amount inside each chosen case is immediately revealed; by process of elimination, the amount revealed cannot be inside the case the contestant initially claimed (or was assigned). Throughout the game, after a predecided number of cases have been opened, the "Banker" offers the contestant an amount of money and/or prizes to quit the game; the offer is based roughly on the amounts remaining in play and the contestant's demeanor, so the bank tries to 'buy' the contestant's case for a lower price than what's inside the case. The player then answers the titular question, choosing:
+
+"Deal", accepting the offer presented and ending the game, or
+"No Deal", rejecting the offer and continuing the game.
+This process of removing cases and receiving offers continues, until either the player accepts an offer to 'deal', or all offers have been rejected and the values of all unchosen cases are revealed. Should a player end the game by taking a deal, a pseudo-game is continued from that point to see how much the player could have won by remaining in the game. Depending on subsequent choices and offers, it is determined whether or not the contestant made a "good deal", i.e. won more than if the game were allowed to continue.
+Since the range of possible values is known at the start of each game, how much the banker offers at any given point changes based on what values have been eliminated (i.e. the offer increases if lower values are eliminated and decreases if upper values are eliminated).  To promote suspense and lengthen games, the banker's offer is usually less than the expected value dictated by probability theory, particularly early in the game.[1] Generally, the offers early in the game are very low relative to the values still in play, but near the end of the game approach (or even exceed) the average of the remaining values.
+Only a few people have ever won the top prize on any version of the show (see table below). For a contestant to win the top prize the player would have to select the case containing the top prize and reject every offer the banker makes during the game. The chances of a player selecting the top prize are 4–5% depending on how many amounts are in the game.
+
+International versions[edit]
+  Countries with their own version (as of April 2015[update])
+
+
+
+Country
+
+Name
+
+Hosts
+
+Channel
+
+Premiere date
+
+End date
+
+Top prize
+
+
+ Afghanistan
+
+Ganjina(گنجینه)
+
+Rahim MehrzadMukhtar Lashkari
+
+Tolo TV
+
+May 30, 2010 (2010-05-30)
+
+May 14, 2013 (2013-05-14)
+
+؋1,000,000
+
+
+ Albania Kosovo
+
+Kutia
+
+Enkel Demi
+
+TV Klan
+
+September 2004 (2004-09)
+
+December 2011 (December 2011)
+
+€25,000
+
+
+Deal or no Deal(Dilema)
+
+Eno Popi
+
+Top Channel
+
+October 14, 2018 (2018-10-14)
+
+present
+
+L1,000,000 L2,000,000-(Sundays only)
+
+
+ Algeria
+
+Éddi Ouela Kheli(ادي ولا خلي)
+
+Sofiane Dani
+
+Echourouk TV
+
+June 17, 2015 (2015-06-17)
+
+present
+
+د.ج 10,000,000
+
+
+ Arab Maghreb
+
+Al Sandouk(الصندوق)
+
+Moez Toumi
+
+Nessma TV
+
+November 14, 2012 (2012-11-14)
+
+2013 (2013)
+
+د.ت 500,000د.ج 25,000,000MAD 2,500,000
+
+
+ Arab world
+
+Al Safqa(الصفقة)
+
+Amir Karara
+
+MBC1
+
+September 14, 2004 (2004-09-14)
+
+2004 (2004)
+
+US$1,000,000
+
+
+Deal or No Deal
+
+Michel Sanan
+
+LBC
+
+April 1, 2005 (2005-04-01)
+
+2006 (2006)
+
+US$250,000
+
+
+ Argentina
+
+Trato Hecho
+
+Julian Weich
+
+Telefe
+
+July 13, 2003 (2003-07-13)
+
+March 2006 (2006-03)
+
+AR$500,000
+
+
+Santiago Del Moro
+
+2020 (2020)
+
+
+
+
+
+
+ Armenia
+
+Dil kam No Dil(Դիլ կամ Նո Դիլ)
+
+?
+
+Armenia TV
+
+November 2006 (2006-11)
+
+2008 (2008)
+
+֏ 50,000,000
+
+
+ Australia
+
+Deal or No Deal
+
+Andrew O'Keefe
+
+Seven Network
+
+July 13, 2003 (2003-07-13)
+
+October 4, 2013 (2013-10-04)
+
+AU$2,000,000 (2003)AU$200,000 (2004-2013)
+
+
+ Austria
+
+Deal or No Deal
+
+Rainhard Fendrich
+
+ORF1
+
+July 1, 2005 (2005-07-01)
+
+September 2, 2005 (2005-09-02)
+
+€250,000
+
+
+ Azerbaijan
+
+Davam Ya Tamam
+
+Idris Cafarov
+
+Space TV
+
+2010 (2010)
+
+2011 (2011)
+
+₼10,000
+
+
+Murad Dadashov
+
+Azad Azerbaijan TV
+
+October 31, 2016 (2016-10-31)
+
+August 6, 2017 (2017-08-06)
+
+₼30,000
+
+
+ Belgium
+
+Miljoenenjacht
+
+Walter Grootaers
+
+Vtm
+
+October 16, 2004 (2004-10-16)
+
+2005 (2005)
+
+€1,000,000
+
+
+Te Nemen Of Te Laten
+
+Felice
+
+VijfTV
+
+August 21, 2006 (2006-08-21)
+
+2009 (2009)
+
+€200,000
+
+
+ Belize
+
+Tek It or Leave It
+
+Angela Gegg
+
+Channel 5
+
+December 2, 2008 (2008-12-02)
+
+March 3, 2009 (2009-03-03)
+
+BZ$15,000
+
+
+ Brazil
+
+Topa ou Não Topa
+
+Patricia Abravanel
+
+SBT
+
+August 6, 2006 (2006-08-06)
+
+presente
+
+R$1,000,000
+
+
+ Bulgaria
+
+Sdelka ili ne(Сделка или не)
+
+Rumen Lukanov
+
+Nova Television
+
+July 9, 2005 (2005-19-09)
+
+January 7, 2018 (2018-01-07)
+
+лв. 1,000,000
+
+
+ Cambodia
+
+Prom Rer Min Prom(ព្រម ឬមិនព្រម)
+
+Ith Setha
+
+CTN
+
+2009 (2009)
+
+2009 (2009)
+
+10,000,000 KHR
+
+
+ Canada
+
+Deal or No Deal Canada
+
+Howie Mandel
+
+Global
+
+February 4, 2007
+
+March 1, 2007
+
+CA$1,000,000
+
+
+Le Banquier
+
+Julie Snyder
+
+TVA
+
+January 24, 2007
+
+May 21, 2017
+
+CA$500,000
+
+
+ Chile
+
+Trato Hecho
+
+Don Francisco
+
+Canal 13
+
+October 19, 2004
+
+2006
+
+CL$120,000,000
+
+
+¡Allá Tú!
+
+Julián Elfenbein
+
+Chilevision
+
+April 16, 2007
+
+December 28, 2007
+
+CL$10,000,000
+
+
+ China
+
+Dong Gan Xiu Chang动感秀场
+
+Cheng Qian
+
+BTV-8
+
+2007
+
+2007
+
+1,000,000 points
+
+
+Ai Chang Cai Hui Ying爱唱才会赢
+
+Chen HuanTian YueZuo YanHuang Ziwen
+
+ZJSTV
+
+November 15, 2008
+
+October 31, 2010
+
+CN¥100,000
+
+
+ Colombia
+
+¡Hay Trato!
+
+Julio CorrealCarlos Calero
+
+Canal Caracol
+
+July 16, 2005
+
+2006
+
+COL$210,000,000
+
+
+ Costa Rica
+
+Trato Hecho
+
+Gustavo Rojas
+
+Teletica
+
+April 10, 2012
+
+2012
+
+₡25,000,000
+
+
+ Croatia
+
+Uzmi ili ostavi
+
+Željko Pervan Mirko Fodor Mario Petreković
+
+HRT 2
+
+2006
+
+2007
+
+500,000Kn
+
+
+ Czech Republic
+
+Ber nebo neber
+
+Pavel Zuna
+
+TV Prima
+
+February 11, 2007
+
+December 27, 2008
+
+5,000,000 Kč
+
+
+ Denmark
+
+Deal or No Deal
+
+Casper Christensen
+
+TV 2
+
+August 28, 2006
+
+November 22, 2007
+
+2,000,000 Kr
+
+
+ Dominican Republic
+
+Trato Hecho con Nestlé
+
+Frank Perozo  Mía Taveras
+
+Antena Latina
+
+July 2008
+
+2009
+
+RD$3,000,000
+
+
+ Ecuador
+
+Trato Hecho
+
+Roberto Angelelli
+
+Teleamazonas
+
+April 9, 2006
+
+2007
+
+US$100,000
+
+
+El Familión Nestlé Trato Hecho
+
+Daniel Sarcos
+
+Gama TV andRed Telesistema
+
+January 26, 2010
+
+late 2010
+
+US$100,000
+
+
+ Egypt
+
+Lebet el Hayatلعبة الحياة
+
+Razan Maghrebi
+
+Al-Hayat TV
+
+August 24, 2009
+
+2010
+
+ج.م. 250,000ج.م. 500,000
+
+
+Deal or no deal: El Ikhtiyarديل أور نو ديل: الإختيار
+
+Maya Diab
+
+Al-Nahar TV
+
+May 27, 2012
+
+late 2012
+
+ج.م. 250,000
+
+
+ El Salvador
+
+Trato Hecho
+
+Daniel Rucks
+
+TCS
+
+May 1, 2012
+
+2014
+
+US$50,000
+
+
+ Estonia
+
+Võta või jäta
+
+Alari Kivisaar
+
+TV3
+
+2007
+
+2010
+
+1,000,000 krooni
+
+
+March 8, 2013
+
+2013
+
+€100,000
+
+
+ Finland
+
+Ota tai jätä
+
+Pauli Aalto-Setälä
+
+Nelonen
+
+January 10, 2007
+
+November 29, 2007
+
+€500,000
+
+
+ France
+
+À prendre ou à laisser
+
+Arthur
+
+TF1
+
+January 12, 2004
+
+June 3, 2010
+
+€500,000€1,000,000
+
+
+Julien Courbet
+
+D8
+
+October 8, 2014
+
+October 30, 2015
+
+€100,000
+
+
+ Georgia
+
+Va-Bankვა-ბანკი
+
+Misha Mshvildadze (2008) Duta Skhirtladze (2009)
+
+Rustavi 2
+
+November 11, 2008
+
+June 23, 2009
+
+50,000 ლარი
+
+
+ Germany
+
+Die Chance deines Lebens
+
+Kai Pflaume
+
+Sat.1
+
+April 30, 2000
+
+December 18, 2000
+
+DM10,000,000
+
+
+Der MillionenDeal
+
+Linda de Mol
+
+Sat.1
+
+May 1, 2004
+
+June 12, 2004
+
+€2,000,000
+
+
+Deal or No Deal – Die Show der Glücksspirale
+
+Guido Cantz
+
+Sat.1
+
+June 23, 2005
+
+December 20, 2008
+
+€250,000
+
+
+Deal or No Deal
+
+Wayne Carpendale
+
+Sat.1
+
+July 30, 2014
+
+August 5, 2015
+
+€250,000
+
+
+ Greece Cyprus
+
+Deal
+
+Christos Ferendinos
+
+ANT1
+
+February 12, 2005
+
+March 4, 2011
+
+€200,000€150,000
+
+
+Alpha TV
+
+October 3, 2016
+
+present
+
+€60,000
+
+
+Super Deal (weekends)
+
+ANT1
+
+2006
+
+2007
+
+€500,000
+
+
+ Honduras
+
+Trato Hecho
+
+Erick Chavarría
+
+Televicentro
+
+April 19, 2015
+
+2015
+
+Lps.1,000,000
+
+
+ Hong Kong
+
+一擲千金Deal or No Deal
+
+Michael Hui
+
+TVB Jade
+
+October 29, 2006
+
+January 21, 2007
+
+HK$3,000,000
+
+
+Alfred Cheung
+
+April 22, 2007
+
+February 17, 2008
+
+
+ Hungary
+
+Áll az alku
+
+Gábor Gundel Takács
+
+TV2
+
+April 4, 2004
+
+September 29, 2006
+
+50,000,000 Ft
+
+
+October 2, 2006
+
+December 31, 2006
+
+100,000,000 Ft
+
+
+Áron Kovács
+
+May 4, 2009
+
+June 4, 2010
+
+21,000,000 Ft
+
+
+Gábor Gundel Takács
+
+August 28, 2017
+
+October 6, 2017
+
+100,000,000 Ft
+
+
+February 5, 2018
+
+April 27, 2018
+
+100,000,000 Ft
+
+
+July 15, 2019
+
+August 23, 2019
+
+100,000,000 Ft
+
+
+ India
+
+Deal Ya No Deal
+
+R. MadhavanMandira BediRajeev Khandelwal
+
+SET
+
+November 23, 2005
+
+July 26, 2006
+
+₹10,000,000
+
+
+ Deala No Deala
+
+Rishi
+
+Sun TV
+
+October 31, 2009
+
+3 March 2012
+
+₹5,000,000
+
+
+Deal or No Deal
+
+Mukesh
+
+Surya TV
+
+November 7, 2009
+
+
+Sai Kumar
+
+Gemini TV
+
+
+Udaya TV
+
+
+Ronit Roy
+
+&TV
+
+September 5, 2015
+
+November 29, 2015
+
+₹10,000,000
+
+
+ Indonesia
+
+Deal or No Deal Indonesia
+
+Tantowi Yahya
+
+RCTI
+
+May 19, 2007
+
+December 18, 2008
+
+Rp. 2,000,000,000
+
+
+Deal or No Deal
+
+Deddy Corbuzier
+
+antv
+
+December 1, 2011
+
+February 3, 2012
+
+Rp. 1,000,000,000
+
+
+Deal or No Deal Indonesia
+
+Cak Lontong
+
+Global TV
+
+October 20, 2014
+
+January 29, 2015
+
+Rp. 500,000,000
+
+
+ Iran
+
+تمام یا دوامTamam Ya Davam
+
+Sina Valiollah
+
+FARSI1
+
+January 16, 2012
+
+April 27, 2012
+
+US$20,000
+
+
+ Ireland
+
+Deal or No Deal
+
+Keith Barry
+
+TV3
+
+November 13, 2009
+
+March 12, 2010
+
+€250,000
+
+
+ Israel
+
+הדיל הגדולHadil Hagadol
+
+Moran Atias
+
+Channel 10
+
+March 16, 2005
+
+2006
+
+₪ 1,500,000
+
+
+דיל או לא דילDil o Lo Dil
+
+
+ Italy
+
+Affari Tuoi
+
+Paolo Bonolis (2003-2005)Pupo (2005-2006)Antonella Clerici (2006)Flavio Insinna (2006-2008; 2013-2017)Max Giusti (2008-2013)
+
+Rai 1
+
+October 14, 2003
+
+March 17, 2017
+
+€500,000€1,000,000€2,000,000
+
+
+ Jamaica
+
+The Digicel Deal or No Deal
+
+Simon Crosskill
+
+TVJ
+
+September 23, 2009
+
+2009
+
+JM$3,000,000
+
+
+ Japan
+
+ザ・ディールZa Dīru
+
+Shinsuke Shimada
+
+TBS
+
+September 8, 2006
+
+April 5, 2007
+
+¥10,000,000
+
+
+ Lebanon
+
+Deal or No Deal
+
+Michel Sannan
+
+Murr Television
+
+October 20, 2009
+
+June 7, 2010
+
+ل.ل. 200,000,000
+
+
+ Lithuania
+
+Taip arba Ne
+
+Marijonas Mikutavičius
+
+TV3 Lithuania
+
+March 31, 2007
+
+2010
+
+200,000Lt.500,000Lt.
+
+
+ Malaysia
+
+Deal or No Deal Malaysia
+
+Aanont Wathanasin
+
+ntv7
+
+November 3, 2007
+
+2009
+
+RM100,000
+
+
+一擲千金Yi zhi qian jin
+
+Goh Wee PingOwen Yap
+
+March 12, 2007
+
+2008
+
+
+ Malta
+
+Deal or No Deal Malta
+
+Paulo Micallef
+
+TVM
+
+October 1, 2007
+
+2010
+
+€25,000
+
+
+ Mexico
+
+Vas o No Vas
+
+Héctor Sandarti
+
+Televisa
+
+2005
+
+2007
+
+MX$1,000,000MX$5,000,000
+
+
+Yoo si voy
+
+Raul Araiza
+
+September 2009
+
+2010
+
+MX$2,500,000
+
+
+¿Te la juegas?
+
+Luis García
+
+TV Azteca
+
+August 12, 2019
+
+August 16, 2019
+
+MX$1,000,000
+
+
+ Moldova
+
+Da sau Nu
+
+Dan Negru
+
+Prime
+
+20102014
+
+present
+
+250,000 lei
+
+
+ Myanmar
+
+Deal or No Deal Myanmar
+
+Kaung Htet Zaw
+
+MRTV-4
+
+January 5, 2015
+
+2015
+
+2,000,000 Ks
+
+
+ Netherlands
+
+Miljoenenjacht(original version) and season
+
+Linda de Mol
+
+TROS, Tien, RTL4
+
+November 25, 2000
+
+present
+
+€5,000,000
+
+
+Deal or No Deal(direct version) small program
+
+Beau van Erven Dorens
+
+Tien, RTL5
+
+August 27, 2006
+
+May 15, 2009
+
+€250,000
+
+
+ New Zealand
+
+Deal or No Deal
+
+Jeremy Corbett
+
+TV3
+
+June 6, 2007
+
+December 26, 2007
+
+NZ$200,000
+
+
+ Nigeria
+
+Deal or No Deal Nigeria
+
+John Fashanu
+
+M-Net Africa
+
+July 7, 2007
+
+December 29, 2007
+
+US$100,000
+
+
+ North Macedonia
+
+Земи или оставиZemi ili ostavi
+
+Igor Dzambazov
+
+ALFA TV
+
+November 3, 2007
+
+2008
+
+MKD6,000,000
+
+
+Се или нештоSe ili nešto
+
+Lila Stojanovska
+
+Sitel
+
+December 18, 2011
+
+present
+
+MKD1,000,000
+
+
+ Norway
+
+Deal or No Deal
+
+Sturla Berg-Johansen
+
+TV2
+
+September 30, 2006
+
+2007
+
+3,000,000Kr
+
+
+ Panama
+
+El Familión Nestlé
+
+Nelson Bustamante
+
+Telemetro
+
+2006
+
+2007
+
+US$125,000
+
+
+Deal or No Deal
+
+March 29, 2010
+
+2012
+
+US$50,000
+
+
+ Peru
+
+Trato Hecho
+
+Adolfo Aguilar
+
+ATV
+
+August 8, 2005
+
+December 9, 2005
+
+S/.1,000,000
+
+
+Vas o No Vas
+
+Jesús Alzamora
+
+Panamericana
+
+September 12, 2016
+
+December 21, 2016
+
+S/.20,000
+
+
+ Philippines
+
+Kapamilya, Deal or No Deal
+
+Kris Aquino
+
+ABS-CBN
+
+June 5, 2006
+
+March 27, 2009
+
+₱1,000,000₱2,000,000₱3,000,000₱4,000,000
+
+
+Luis Manzano
+
+February 25, 2012
+
+September 28, 2013
+
+
+February 9, 2015
+
+March 4, 2016
+
+₱1,000,000
+
+
+ Poland
+
+Grasz czy nie grasz
+
+Zygmunt Chajzer
+
+Polsat
+
+October 1, 2005
+
+August 31, 2007
+
+1,000,000zł
+
+
+ Portugal
+
+Pegar ou Largar
+
+Rui Unas
+
+SIC
+
+January 28, 2006
+
+2006
+
+€300,000
+
+
+ Romania
+
+Da sau nu
+
+Virgil IanţuMihai Dobrovolschi
+
+Prima TV
+
+September 5, 2005
+
+2006
+
+150,000lei
+
+
+Accepți sau nu
+
+Gabriel Coveşanu
+
+Kanal D
+
+March 1, 2008
+
+2009
+
+100,000lei
+
+
+ Russia
+
+Пан или пропалPan ili Propal
+
+Nikolay Fomenko
+
+Channel One
+
+September 20, 2004
+
+January 5, 2005
+
+3,000,000рyб.
+
+
+СделкаSdelka
+
+Alexei Veselkin
+
+REN TV
+
+April 17, 2006
+
+September 22, 2006
+
+
+ Serbia
+
+Uzmi ili ostavi
+
+Milorad Mandić Manda
+
+B92
+
+May 7, 2007
+
+June 12, 2008
+
+1,500,000din.
+
+
+ Singapore
+
+Deal or No Deal
+
+Adrian Pang
+
+MediaCorp TV Channel 5
+
+May 13, 2007
+
+January 31, 2008
+
+S$250,000
+
+
+ Slovakia
+
+Ruku na to
+
+Peter Šarkan Novák
+
+STV
+
+September 2005
+
+November 7, 2006
+
+5,000,000 Sk
+
+
+Veľký balík
+
+Marcel Forgáč
+
+JOJ
+
+January 5, 2018
+
+December 29, 2018
+
+€250,000
+
+
+ Slovenia
+
+Vzemi ali pusti
+
+Bojan Emeršič
+
+POP TV
+
+2005
+
+2007
+
+15,000,000 SIT
+
+
+2007
+
+2008
+
+€70,000
+
+
+ South Africa
+
+Deal or No Deal
+
+Ed Jordan
+
+M-Net
+
+February 4, 2007
+
+2008
+
+R1,000,000
+
+
+Doen met 'n Miljoen!
+
+Casper de Vries
+
+kykNET
+
+October 19, 2007
+
+January 9, 2009
+
+
+ South Korea
+
+Yes or No
+
+Shin Dong-Yeob
+
+tvN
+
+2006
+
+July 2007
+
+₩100,000,000
+
+
+ Spain
+
+¡Allá tú!
+
+Jesús Vázquez Silvia Jato  Arturo Valls
+
+Telecinco
+
+January 26, 2004
+
+2008
+
+€300,000€600,000€1,000,000
+
+
+Jesús Vázquez
+
+Cuatro
+
+January 10, 2011
+
+November 4, 2011
+
+€300,000
+
+
+ Sri Lanka
+
+Gando Nogando
+
+Mahendra Perera
+
+SirasaTV
+
+December 12, 2008
+
+March 6, 2009
+
+₨2,500,000
+
+
+ Sweden
+
+Deal or No Deal
+
+Martin Timell
+
+TV4
+
+March 25, 2006
+
+December 1, 2007
+
+5,000,000Kr
+
+
+MiljonJakten [2]
+
+Renée Nyberg
+
+TV3
+
+March 4, 2012
+
+January 3, 2014
+
+10,000,000Kr
+
+
+Deal or no Deal med Miljonjakten
+
+TV4
+
+November 18, 2014
+
+December 22, 2014
+
+
+  Switzerland
+
+Deal or No Deal – Das Risiko
+
+Roman Kilchsperger
+
+SF 1
+
+September 1, 2004
+
+September 29, 2010
+
+SFr250,000
+
+
+ Taiwan
+
+齊天大勝 Who's the Winner   Topic: The Deal 孤注一擲 
+
+Jacky Wu
+TTV
+
+July 9, 2005
+
+September 29, 2007
+
+NT$1,500,000
+
+
+平民大富翁Yes or No
+
+Dennis NiehJacky Wu
+CTS
+
+September 12, 2009
+
+December 12, 2009
+
+NT$500,000
+
+
+ Thailand
+
+เอาหรือไม่เอา
+
+Dom Hetrakul
+
+ThaiTV 3
+
+2005
+
+2006
+
+฿1,000,000
+
+
+ Tunisia
+
+دليلك ملكDlilek Mlek
+
+Sami El Fihri
+
+Tunisie 7
+
+2005
+
+2007
+
+300,000 د.ت.500,000 د.ت.1,000,000 د.ت.2,000,000 د.ت.
+
+
+El Hiwar Ettounsi
+
+June 29, 2014
+
+June 25, 2017
+
+
+January 29, 2018
+
+June 2018
+
+
+ Turkey
+
+Trilyon Avı
+
+Zafer Ergin
+
+aTV
+
+December 9, 2003
+
+February 3, 2004
+
+YTL1,000,000
+
+
+Büyük Teklif
+
+Halit Ergenç
+
+Kanal D
+
+June 5, 2006
+
+2006
+
+YTL500,000
+
+
+Var mısın? Yok musun?
+
+Acun Ilıcalı
+
+Show TV
+
+September 10, 2007
+
+September 16, 2010
+
+
+Asuman Krause
+
+Fox
+
+November 8, 2011
+
+March 29, 2012
+
+TL500,000
+
+
+Ahmet Çakar
+
+Show TV
+
+September 11, 2013
+
+2014
+
+
+ Ukraine
+
+Граєш чи не граєш?Hrayesh chy ne hrayesh?
+
+Dmitriy Shepelev
+
+TRK Ukrayina
+
+March 7, 2010
+
+December 19, 2010
+
+₴1,000,000
+
+
+ United Kingdom
+
+Deal or No Deal
+
+Noel Edmonds
+
+Channel 4
+
+October 31, 2005
+
+December 23, 2016
+
+£250,000
+
+
+ United States
+
+Deal or No Deal
+
+Howie Mandel
+
+NBC
+
+December 19, 2005
+
+May 18, 2009
+
+US$1,000,000
+
+
+Syndication
+
+September 8, 2008
+
+May 28, 2010
+
+US$500,000
+
+
+CNBC
+
+December 5, 2018[3]
+
+
+
+US$1,000,000
+
+
+Vas o No Vas
+
+Héctor Sandarti
+
+Telemundo
+
+October 8, 2006
+
+May 26, 2007
+
+US$250,000
+
+
+Heloisa Alves
+
+Univision
+
+2020
+
+Upcoming
+
+US$1,000,000
+
+
+ Uruguay
+
+‘’Trato Hecho’’
+
+Sebastián Abreu
+
+Teledoce
+
+October 28, 2019
+
+present
+
+U$1,000,000
+
+
+ Vietnam
+
+Đi tìm ẩn số
+
+Thanh Bạch
+
+HTV7
+
+June 19, 2005
+
+October 8, 2017
+
+100,000,000Đ
+
+
+Những ẩn số vàng
+
+Chí Trung
+
+H1
+
+September 10, 2006
+
+2008
+
+50,000,000Đ
+
+The first German version "Die Chance deines Lebens" hosted by Kai Pflaume did not have the case game as the final round (they played a trivia game instead), however this was the show the original "Deal or No Deal" version (the Dutch "Miljoenenjacht" hosted by Linda de Mol) was actually based on. Miljoenenjacht started in November 2000 and introduced the case game in December 2002 after a 15-month hiatus of the show.
+Véronique Landry is the only model to appear on more than one version of the show, on both the French and English Canadian versions.[citation needed]  Howie Mandel, Héctor Sandarti, and Linda de Mol each have hosted multiple versions of the show: Mandel, with the American English and Canadian English versions, Sandarti with both the American Spanish and Mexican Spanish versions, and de Mol with both the Netherlands Dutch and German (in 2004) versions of the show. In the UK version Deal Or No Deal helped relaunch Noel Edmonds's career.
+
+Top prize winners[edit]
+All amounts below the prizes are their equivalents in United States dollars at the time of their win.
+
+
+
+
+Country
+Name(s)
+Date
+Amount won
+Previous offer
+Other amount
+Notes
+
+
+ گنجین/Ganjina
+Mohammad Easa Sediqi
+Prior to October 25, 2010
+Af. 1,000,000($23,240)
+Box Swap(declined)
+Af. 2,500($58.10)
+[4][5]First top prize winner in Afghan history
+
+
+(unknown)
+Prior to November 28, 2012
+Af. 1,000,000($19,569)
+Af. 342,000($6,693)
+Af. 10,000($196)
+[6]The banker first offered Af. 311,000, then Af. 342,000, then a chance to swap the boxes. All were declined. Rebroadcast June 5, 2013.
+
+
+(unknown)
+Prior to June 6, 2013
+Af. 1,000,000($18,484)
+Af. 355,500($6,571)
+Af. 30,000($555)
+The banker first offered Af. 263,300, then Af. 355,500. Both were declined. Rebroadcast June 6, 2013.
+
+
+ ادي ولا خلي/Eddi Ouela Kheli
+Mohamed Meziane
+July 7, 2015
+10,000,000 DA($100,450)
+3,200,000 DA($32,144)
+200 DA($2.01)
+
+
+
+Khemisti Mohammed bin Sayeh
+March 15, 2016
+5,000,000 DA + 1,000,000 DA($45,117 + $9,023)
+177,000 DA($1,597)
+10,000 DA($90.23)
+[7]Won 5,000,000 DA from the box along with a 1,000,000 DA bonus.
+
+
+ Deal or No Deal
+
+Abbas Hussein
+
+May 5, 2006
+
+$250,000
+
+$71,000
+
+$25,000
+
+[8]
+
+
+ Deal or No Deal
+
+Dean Cartechini
+June 17, 2004
+A$200,000($137,384)
+A$102,500($70,409)
+A$5($3.43)
+First top prize winner.
+
+
+Anh Do (celebrity)
+September 19, 2007
+A$200,000($167,238)
+A$125,000($104,524)
+A$75,000($62,714)
+Second top prize winner. Money went to home viewer. The second celebrity (since David Graham) and the first to actually win the prize.
+
+
+Leanne Benbow
+June 2, 2010
+A$200,000($166,630)
+A$115,000($95,812)
+A$100,000($83,315)
+The first woman (and the third) to win the top prize. Had the "Dream Finish" - the last 2 cases were the highest 2 in the game.
+
+
+Chris Doyle
+August 23, 2011
+A$200,000($208,014)
+A$130,000($135,209)
+A$100,000($104,007)
+Last winner of the top prize before the series ends in 2013. Also had the "Dream Finish" - the last 2 cases were the highest 2 in the game.
+
+
+ Davam Ya Tamam
+
+Sevda
+
+March 26, 2017
+
+30,000 AZN($17,595)
+
+15,000 AZN($8,798)
+
+1 AZN($0.59)
+
+[9]
+
+
+Rashad
+
+July 9, 2017
+
+30,000 AZN($17,627)
+
+11,030 AZN($6,481)(case swap accepted)
+
+1,500 AZN($881)
+
+[10]
+
+
+ Tek It Or Leave It
+
+Valerie Stevens
+March 3, 2009
+BZ$15,000($7,615)
+(Unknown)
+(Unknown)
+[11]
+
+
+ Topa ou Não Topa
+Paulo
+April 2007
+R$1,000,000($490,000)
+R$444,000($218,000)
+R$100($49)
+
+
+
+ Сделка или не Sdelka ili ne
+Veneta Raykova (Венета Райкова)(celebrity)
+February 2006
+75,000 BGN($46,000)
+(unknown)
+(unknown)
+
+
+
+(unknown)
+December 8, 2006
+100,000 BGN($67,986)
+(unknown)
+5,000 BGN($3,399)
+[12]
+
+
+Niki Kitaetsa (Ники Китаеца)(celebrity)
+September 18, 2007
+100,000 BGN($70,871)
+40,000 BGN($28,348)
+1,000 BGN($709)
+[13]
+
+
+Sevil Saliev(Севил Салиев)
+December 22, 2008
+100,000 BGN($71,179)
+(unknown)
+(unknown)
+[14]
+
+
+Mariela Pepeldzhiyska(Мариела Пепелджийска)
+January 23, 2012
+100,000 BGN($65,862)
+Box Swap(accepted)
+2,500 BGN($1,647)
+[15]
+
+
+Plevenchaninat Iskren(Плевенчанинът Искрен)
+January 24, 2013
+100,000 BGN($67,988)
+25,000 BGN($16,997)
+0.20 BGN($0.14)
+[16]
+
+
+ ព្រម ឬមិនព្រម Prom Rer Min Prom
+(Unknown)
+February 2009
+10,000,000 KHR($2,410)
+(unknown)
+(unknown)
+[17]
+
+
+(Unknown)
+February 2009
+10,000,000 KHR($2,405)
+(unknown)
+750,000 KHR($181)
+
+
+ ¡Allá Tú!
+Mauricio Hermosilla
+May 4, 2007
+CL$10,000,000($19,050)
+CL$6,500,000($12,383)
+CL$5,000,000($9,525)
+
+
+
+Farándula
+August 29, 2007
+CL$10,000,000($19,010)
+Box Swap
+CL$50,000($95.05)
+
+
+
+ لعبة الحياةLebet el Hayat
+Amal Mohammad
+Prior to November 16, 2009
+EGP250,000($45,825)
+(unknown)
+EGP0.50($0.09)
+
+
+
+Sameh
+Prior to April 15, 2010
+EGP250,000($45,323)
+(unknown)
+EGP0.50($0.09)
+
+
+
+Marwa Ali
+Prior to September 3, 2010
+EGP500,000($87,660)
+Box Swap
+EGP250($43.83)
+[18]
+
+
+ ديل أور نو ديل: الإختيارDeal or no deal: El Ikhtiyar
+Sibai Wahba
+September 12, 2012
+EGP250,000($41,037)
+Box Swap(accepted)
+EGP10,000($1,641)
+[19]
+
+
+ À prendre ou à laisser
+Mylène
+March 4, 2004
+€500,000($609,850)
+(unknown)
+(unknown)
+[20]
+
+
+Sabrina
+November 29, 2005
+€500,000($590,030)
+€350,000($413,021)
+€75,000($88,505)
+The banker also offered €200,000 and €300,000; it is rare for a contestant to have more than one offer after a single round
+
+
+Marie-Ange Franceschi
+January 23, 2009
+€500,000($650,280)
+€210,000($273,118)
+€100,000($130,056)
+[21]
+
+
+Sébastien
+November 25, 2014
+€100,000($124,240)
+€31,000($38,514)
+€10($12.42)
+[22]
+
+
+ ვა-ბანკი Va-Bank
+Rezo and Archil Arveladze (celebrities)
+February 3, 2009
+50,000 lari($30,018)
+25,000 lari($15,009)
+50 lari($30.02)
+
+
+
+ Deal
+Georgia Kastrada(Γεωργία Καστράντα)
+November 10, 2006
+€200,000($256,702)
+€80,000($102,681)
+€1,000($1,284)
+[23]Received €100,000, another half was received by a text winner
+
+
+Giorgos Gkantadakis(Γιώργος Γκανταδάκης)
+April 6, 2017
+€60,000($63,858)
+€47,000($50,022)
+€40,000($42,572)
+[24]
+
+
+Argyris(Αργύρης)
+December 11, 2018
+€60,000($62,709)
+€25,000($29,800)
+€100($112)
+[25]Argyris declined to buy Box 23, which would have doubled his winnings to €120,000.
+
+
+ Áll az alku
+Szőke Sándor
+May 23, 2006
+50,000,000 Ft($238,000)
+13,000,000 Ft($61,900)
+6,000,000 Ft($28,600)
+[26]
+
+
+Csorba Árpád
+April 26, 2010
+21,000,000 Ft($106,680)
+15,000,000 Ft($76,200)
+13,000,000 Ft($66,040)
+[27]
+
+
+ Deal or No Deal
+Ayushmann Khurrana (celebrity)
+November 15, 2015
+₹9,000,000($136,445)
+₹7,000,000($106,124)
+₹5,000,000($75,803)
+His briefcase contained the top prize ₹10,000,000 but his winnings were reduced by 10% due to answering the final question wrong.
+
+
+ Affari Tuoi
+Roberto Pepi
+February 4, 2004
+€500,000($627,805)
+€250,000($305,687)
+€15,000($19,223)
+[28]
+
+
+Francesca Madeddu
+December 16, 2004
+€500,000($671,175)
+€300,000($402,705)
+€25,000($33,559)
+[29][30]
+
+
+Clarissa Meneghini
+December 19, 2007
+€500,000($719,525)
+€170,000($244,639)
+€30,000($43,172)
+[31]
+
+
+Danilo Anderlini
+September 17, 2008
+€500,000($714,575)
+€170,000($242,956)
+€30,000($42,875)
+[31][32]
+
+
+Francesca Cataldo
+October 22, 2008
+€500,000($666,895)
+€185,000($230,408)
+€30,000($40,014)
+[33]
+
+
+Roberto Caterina
+November 23, 2008
+€500,000($629,450)
+€375,000($472,088)
+€250,000($314,725)
+[34]
+
+
+Mara Ancelotti
+January 1, 2009
+€500,000($707,045)
+€375,000($530,284)
+€250,000($353,523)
+[35]
+
+
+Stefania Menegazzo
+February 23, 2010
+€500,000($680,020)
+€104,000($141,444)
+Maghetto
+[36]
+
+
+Gabriele Calvello
+March 17, 2012
+€1,000,000($1,317,440)
+€313,000($412,359)
+€0.20($0.26)
+[37]The top prize was originally €500,000 as usual, but was doubled during the game when the player opened Pacco Matto (crazy box) and found Raddoppia (double).
+
+
+Mauro Ghiraldini
+November 21, 2012
+€500,000($640,625)
+€150,000($192,188)
+€30,000($38,438)
+[38]
+
+
+Patrizia Montalbano
+January 25, 2013
+€500,000($668,467)
+€350,000($467,927)
+€250,000($334,234)
+[39]
+
+
+Pierangela Zaccaria
+May 29, 2014
+€500,000($682,054)
+€172,000($234,626)
+€100($136)
+[40]Also won a €1,000 Provaci bonus.
+
+
+Alberto Bindi
+May 17, 2016
+€500,000($564,512)
+€375,000($423,384)
+€250,000($282,256)
+[41]
+
+
+Alessandro Corona
+February 22, 2017
+€500,000($528,650)
+€200,000($211,460)
+€100,000($105,730)
+
+
+
+ Deal or No Deal Malta
+Maria (Doris) Abela
+October 17, 2008
+€25,000($33,601)
+€19,500($26,209)
+€15,000($20,160)
+
+
+
+ Vas o No Vas
+Elena
+June 11, 2005
+Mex$5,000,000($460,050) (Saturday)
+(unknown)
+(unknown)
+
+
+
+Luis
+December 6, 2005
+Mex$1,000,000($95,360) (weekday)
+(unknown)
+(unknown)
+
+
+
+Laura
+March 2, 2006
+Mex$1,000,000($95,580) (weekday)
+Mex$700,000($66,906)
+Mex$400,000($38,232)
+
+
+
+Paty
+June 3, 2006
+Mex$1,000,000($88,130) (weekday)
+Mex$550,000($48,472)
+Mex$100,000($8,813)
+
+
+
+ (in English) Deal or No Deal Malaysia
+Timothy Shim
+March 2, 2008
+RM100,000($31,307)
+RM 50,800($15,904)
+RM 250($78.27)
+
+
+
+  Deal or No Deal
+Min Thu Rein (မင်းသူရိန်)
+March 16, 2015
+2,000,000 Ks($1,930)
+790,000 Ks($762)
+200,000 Ks($193)
+Rebroadcast March 31, 2015.
+
+
+ MiljoenenjachtDeal or No Deal
+Arno Woesthoff
+September 2, 2001
+Fl10,000,000($4,142,220/€4,537,802)
+Format not yet introduced[note 1]
+Woesthoff was the biggest winner in worldwide game show history at the time of the show's airing; he would hold the record for almost 13 years until it was broken by Brad Rutter in 2014.
+
+
+Eelco Schumacher
+April 2, 2009
+€250,000($331,468)
+€170,000($225,398)
+€125,000($165,734)
+
+
+
+ Trato Hecho/Vas o No Vas
+
+Licet
+
+October 14, 2016
+
+S/.20,000($5,877)
+
+Box Swap(accepted)
+
+S/.7,500($2,204)
+
+[42]
+
+
+ Kapamilya, Deal or No Deal
+
+Terry Lim Cua
+December 29, 2006
+P2,000,000 ($40,740)
+P1,400,000($28,518)
+P1,000,000($20,370)
+Cua was the only contestant to win P2,000,000 or more on the Filipino version.
+
+
+Aiko Melendez and Candy Pangilinan (celebrities)
+November 25, 2008
+P1,000,000($20,220)
+P345,001($6,976)
+P10($0.20)
+Christmas Edition (5 P1,000,000 cases)
+
+
+Jhaphet Flordeliza
+December 1, 2008
+P1,000,000($20,400)
+P150,000($3,060)
+P50($1.02)
+
+
+Arnel Pineda (celebrity)
+December 11, 2008
+P1,000,000($20,570)
+P249,999($5,142)
+P200($4.11)
+
+
+Bearwin Meily (celebrity)
+March 23, 2015
+P1,000,000($22,312)
+P614,000($13,700)
+P100,000($2,231)
+
+
+
+Ara Mina (celebrity)
+April 17, 2015
+P1,000,000($22,626)
+P355,000($8,032)
+P100($2.26)
+
+
+
+Joyce E. Bernal and Bela Padilla (celebrities)
+August 14, 2015
+P1,000,000($21,656)
+P699,000($15,138)
+P400,000($8,662)
+
+
+
+Kaye Abad and Nikki Valdez (celebrities)
+September 7, 2015
+P1,000,000($21,281)
+P510,000($10,853)
+P50,000($1,064)
+
+
+
+Janine Tugonon (celebrity)
+January 8, 2016
+P1,000,000($21,164)
+P650,000($13,757)
+P300,000($6,349)
+
+
+
+ Uzmi ili ostavi
+
+Vidoje
+October 19, 2007
+RSD1,500,000($24,475)
+RSD615,000($10,035)
+RSD500,000($8,158)
+
+
+
+ Yes or No
+
+Lee Chang-geun (이창근)
+June 23, 2007
+₩100,000,000($107,750)
+₩45,000,000($48,488)
+₩30,000,000($32,325)
+[43]
+
+
+ ¡Allá tú!
+Gilbert
+June 19, 2007
+€600,000($804,018)
+€240,000($321,607)
+€1,500($2,010)
+Received €300,000; another half was received by an SMS winner.
+
+
+María del Carmen Bonilla
+July 25, 2011
+€300,000($431,622)
+€29,999($43,161)
+€20($28.77)
+[44]
+
+
+ Deal or No Deal – Das Risiko
+
+Peter Meier
+June 9, 2010
+SFr250,000($216,143)
+SFr125,000($108,071)
+SFr10,000($8,646)
+[45]
+
+
+ 齊天大勝 Who's the Winner Topic: The Deal 孤注一擲 
+
+JUNIOR (celebrity)
+April 14, 2007
+NT$1,500,000($45,250)
+NT$330,000($9,955)
+NT$1, NT$100, NT$10,000, NT$20,000 and NT$50,000($0.03, $3.02, $302, $603 and $1,508)
+The host Jacky Wu, who also acted as the banker, decided to give the final offer with 6 out of 16 cases remaining.
+
+
+ دليلك ملك
+
+Mohamed Mabrouk
+March 22, 2006
+TND300,000($221,706)
+(unknown)
+(unknown)
+[46][47][48][49]Each winner shared the prize with an SMS participant.
+
+
+Mohamed Bashir Menchari
+November 13, 2006
+TND500,000($379,765)
+(unknown)
+(unknown)
+
+
+Marbrouk
+September 13, 2007
+TND1,000,000($792,390)
+(unknown)
+TND500,000($396,195)
+
+
+Aichoucha
+June 13, 2017
+TND2,000,000($813,960)
+TND1,100,000($447,678)
+Joke prize
+
+The banker also offered 200.000 dinars ($81,396), which was refused. The winner also shared the prize with an SMS participant.[49]
+
+
+ Var mısın? Yok musun?
+Ülkühan Yılmaz
+October 24, 2009
+500,000TL($339,790)
+128,000TL($86,986)
+20,000TL($13,591)
+
+
+
+ Deal or No Deal
+
+Laura Pearce
+January 7, 2007
+£250,000($482,625)
+£45,000($86,873)
+£3,000($5,792)
+Pearce was the first top prize winner on the UK version.
+
+
+Alice Munday
+March 12, 2009
+£250,000($344,678)
+Banker's Gamble  (box swap declined)
+1p($0.014)
+Munday initially dealt at £17,500 but was offered the Banker's Gamble when the 1p and £250,000 were remaining. She accepted the gamble, which forfeited the offer and brought the game back into live play.
+
+
+Suzanne Mulholland
+May 13, 2011
+£250,000($407,055)
+£165,000($268,656)  (box swap accepted)
+£100,000($162,822)
+Mulholland also won an additional prize of a 2-week holiday in Florida as part of "Banker's Birthday" special.
+
+
+Tegen Roberts
+September 22, 2011
+£250,000($387,735)
+£77,000($119,422)
+£20,000($31,019)
+Tegen had the strongest board ever after round 3 to the end of the show; a staggering £560,250.60 was still in play after 10 boxes had been opened.
+
+
+Nong Nig Ham Nam
+August 5, 2012
+£250,000($390,932)
+£68,000($106,334)
+£5($7.82)
+
+
+
+Patrick "Paddy" Roberts
+August 12, 2013
+£250,000($386,700)
+£140,000($216,622)
+£75,000($116,010)
+Paddy was the first male top prize winner on the UK version.
+
+
+Roop Singh
+February 12, 2014
+£250,000($414,528)
+£46,000($76,273)
+£500($829)
+Singh declined to buy Box 23, which would have doubled his winnings to £500,000.
+
+
+Ann Crawford
+October 15, 2015
+£250,000($387,438)
+£64,000($99,184)
+50p($0.77)
+Crawford declined to buy Box 23, which would have reduced her winnings to £0.
+
+
+Vikki Heenan
+December 23, 2016
+£250,000($306,735)
+£66,666($81,795)
+£750($920)
+The episode that contains Heenan's win was the final episode of the UK version.[50]
+
+
+ Deal or No Deal
+Jessica Robinson
+September 1, 2008
+$1,000,000
+$561,000
+$200,000
+[51]  Robinson was the first top prize winner on the American version.  Million Dollar Mission game (5 $1,000,000 cases)
+
+
+Tomorrow Rodriguez
+October 29, 2008
+$1,000,000
+$677,000
+$300 and 3x $1,000,000
+[52]  The final offer of $677,000 (which Rodriguez declined) was given when there were five cases remaining.  Million Dollar Mission game (9 $1,000,000 cases)
+
+
+ Đi tìm ẩn số
+Lê Bình (celebrity)
+October 9, 2011
+100,000,000Đ($4,808)
+75,411,000Đ($3,626)
+50,000,000Đ($2,404)
+First and only male winner in the Vietnamese version. First celebrity winner.[53]
+
+
+Minh Trang
+July 15, 2012
+100,000,000Đ($4,801)
+40,010,000Đ($1,921)
+25,000Đ($1.20)
+Second top prize winner. First non-celebrity and female winner.[54]
+
+
+Nguyễn Thị Đào
+February 28, 2016
+100,000,000Đ($4,459)
+26,100,000Đ($1,164)
+20,000,000Đ($892)
+Third top prize winner.[55]
+
+
+Giáng Tiên (celebrity)
+September 3, 2017[note 2]
+100,000,000Đ($4,400)
+18,340,000Đ($807)
+75,000Đ($3.30)
+Fourth and the last top prize winner on the Vietnamese version before the series end in 2017. Second celebrity winner.[56]
+
+
+^ Arno Woesthoff was on Miljoenenjacht when the bonus round consisted of seven questions that could add up to 10,000,000 guilders (based on the German game show "Die Chance deines Lebens") instead of the case game, which is why there were no other amounts.
+
+^ Most recent top prize winner in the Deal or No Deal franchise to date.
+
+
+At the other end of the spectrum, in the UK edition broadcast on 7 December 2009, a contestant named Corinne opened her box to reveal (and thus win) 1p, having turned down first an offer of £88,000 and then an offer to swap boxes, which would have given her the top £250,000 prize. A similar event occurred on the U.S. version on August 25, 2008, where contestant Koshka Blackburn won $5,000 which was in her case after turning down the banker's offer of $530,000 and then the option to switch cases, which would've made her the first $1,000,000 winner. Also in the U.S. on September 22, 2006, Michelle Falco kept in $750,000 and $1,000,000 in play all the way to the end, she turned down the biggest offer of $880,000 and refused to switch her case, in her case was $750,000. She also would have been the first $1,000,000 winner had she switched cases. And again, in the U.S. on October 22, 2008, contestant Richie Bell won $1 which was in his case after rejecting the final offer of $416,000 and the option to switch cases, which would've made him the second $1,000,000 winner. Richie also won an additional $10,000 after completing the "Banker's Challenge" minigame, thus making his total winnings $10,001. Had he had switched, he would have won $1,010,000. Many other contestants around the world would have won the top prize if they had swapped their box/case.
+
+Basis and antecedents[edit]
+The game show has attracted attention from mathematicians, statisticians, and economists as a natural decision-making experiment. In 2008 a team of economists analyzed the decisions of people appearing in Dutch, German and U.S. episodes and found, among other things, that contestants are less risk-averse or even risk-seeking when they saw their expected winnings drop.[57]  They went so far as to say that the show, “almost appears to be an economics experiment rather than a TV show.”[58] They found that contestants behave similarly in different versions of the show, despite large differences in the amounts at stake; amounts appear to be evaluated in relative terms, for example in proportion to the initial average, and not in terms of their absolute monetary value.[59]  The research received a great deal of media attention, appearing on the front page of The Wall Street Journal[60] and being featured on National Public Radio.[61] This work was built upon by de Roos and Sarafidis, who analysed the Australian version of the show and determined that the risk-taking behaviour of a number of contestants would be inconsistent within each game (i.e. their aversion to risk would change), depending on the state of play and relative risk aversion of their confidant on the show.[62]
+Australian Deal or No Deal contestants are selected "on the basis of being 'outgoing', but there is no screening of contestants on the basis of their risk preferences".[62] It is thought that other versions may screen contestants for being amicable to risk-taking behaviour.
+Despite its air of originality and huge international success—there are more than 60 versions worldwide—there have been, in fact, numerous antecedents to the current run of shows. The first was the It's in the Bag, a New Zealand radio game show invented by Selwyn Toogood which began in the 1950s and which ran for decades after it was later adapted for television (1970s–90s). The show popularized the catch-phrases, "By hokey," and "What will it be, customers--the money or the bag?" in New Zealand. Similarly, in the 1950s, the UK TV show Take Your Pick offered contestants the choice of taking a money offer or risking opening a box. Later, in the 1980s, The Bong Game, a radio call-in show created by UK's Capital FM, tested contestants by offering them increasing returns in tandem with increasing risk.
+Another long-running game show, Let's Make a Deal, involved contestants deciding whether or not to take offers based on what may or may not be behind a curtain/door or inside a box. Let's Make a Deal ran in the U.S. for nearly three decades from 1963 to 1991, during which time Monty Hall was the program's "Big Dealer," and has recently been revived with Wayne Brady as the Big Dealer. Also in the U.S., in the 1970s and 1980s, was a game show called Treasure Hunt, hosted by Geoff Edwards and produced by Chuck Barris's company, which featured a similar concept to Deal or No Deal. The show featured contestants selecting a treasure chest or box with surprises inside in the hope of winning large prizes or a cash jackpot. Both game shows, however, also featured worthless or nearly-worthless joke prizes, which Let's Make a Deal called "zonks" and which Treasure Hunt called "klunks." Deal or No Deal does not feature such joke prizes. Finally, from 1997 to 2003, Win Ben Stein's Money pitted contestants against an in-house adversary.
+
+Algorithm used by “The Bank”[edit]
+There are several theories concerning the algorithm that “The Bank” uses to determine the appropriate bank offer. This is a secret held by the various publishers around the world, however a number of people have approximated the algorithm with various levels of accuracy.[citation needed] It is a common understanding[who?] that the Bank does not know the contents of the briefcase, and therefore the Monty Hall Problem does not apply to the probability calculations.[citation needed]
+Statistical studies of the US version of the show were undertaken by Daniel Shifflet in 2011, and showed a linear regression of bank offers against expected value.[63] In summary, Shifflet found that the bank would offer a percentage of the expected value (EV) of the remaining cases, and this percentage increased linearly from approximately 37% of EV at the first offer to approximately 84% of EV at the seventh offer. This version of the program also allowed players to ‘hypothetically’ play out the remainder of the game from the point where they accepted the bank's offer, and Shiffler noted that the hypothetical bank offers were significantly higher than real bank offers at equivalent points in the game. Keep in mind, that this is for the syndicated 30-minute version of the show.
+
+Video games[edit]
+Innovative Concepts in Entertainment developed and currently sells an arcade redemption adaptation of the show, replacing prize money with redemption tickets.[64]
+The U.K. version of Deal or No Deal was converted into a mobile game by Gameloft and featured the same rules and format as the TV show. The game was so well-received that versions of it were developed for other countries as well.[65] Its international success landed it on the top-sellers list.[66]
+Almost all major formats of the game were converted into games for various gaming consoles, the PC, Macromedia Flash, and even a dedicated handheld made in China.
+Various online gambling and gaming sites have adapted the Deal or No Deal concept for their games.[67]
+Online Gambling[edit]
+The Deal or No Deal television game show, based on the original Dutch Miljoenenjacht (Hunt for Millions), was introduced to the world by Endemol. The popular format, which requires the contestant to choose from 26 boxes or cases to reveal cash values, grew in popularity and eventually made its way into the online gambling industry as a result of the 2009 partnership between Playtech's Virtue Fusion and Endemol Games.  
+Online Bingo licensees of Virtue Fusion, previously acquired by Playtech, introduced DOND themed 75-ball and 90-ball rooms in addition to a slot game based on the game show, scratch cards and the launch of a new bingo brand named after the game show, Deal or No Deal Bingo.
+Online gamblers experience the show's concept when securing a Full House win in the themed bingo rooms. The winner or winners enter a round of negotiations with the banker where they must make the ultimate decision, Deal or No Deal. The sense of community, often embraced by bingo players, is called upon as they assist the winner in determining the best option by commenting in the room's chat section. The Community Jackpot is divided among the Full House winner (50%) and all game participants (50%).
+In February 2016, Playtech announced the renewal of its licensing agreement with Endemol UK, which will see the availability of DOND licensed online products continue for an additional three years. Under this contract, Playtech is granted exclusive rights to deliver these themed games to the UK market.[68]
+The range of DOND games are available at Virtue Fusion powered bingo brands such as bet365, Gala Bingo, Ladbrokes, Mecca Bingo and William Hill.
+
+See also[edit]
+For articles for each of the national editions of the show, see Deal or No Deal (disambiguation)
+Game Theory Analysis of Deal Or No Deal
+List of television show franchises
+References[edit]
+
+
+^ Formula for offers in the NBC online version of Deal or No Deal from the personal website of a former physics and finance student
+
+^ "Archived copy". Archived from the original on 2013-09-25. Retrieved 2013-09-21.CS1 maint: archived copy as title (link).mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ Littleton, Cynthia (March 13, 2018). "CNBC to Revive Howie Mandel Game Show 'Deal or No Deal'". Variety. Retrieved March 13, 2018.
+
+^ Video on YouTube
+
+^ (in German)"Deal or No Deal": Glücksspiel auf afghanisch ("Deal or No Deal": Gambling in Afghanistan), October 25, 2010
+
+^ Photo from the official Facebook page of Tolo TV, November 28, 2012
+
+^ (in Arabic)خميستي من ورقلة.. أول الفائزين بالجائزة الكبرى لبرنامج "أدي ولا خلي" في موسمه الثاني, March 15, 2016
+
+^ "حسين العباس من السعودية أول من يفوز بجائزة الـ 250,000 دولار على شاشة LBC". جريدة الرياض (in Arabic). Retrieved 2017-01-29.
+
+^ Video on YouTube
+
+^ Video on Youtube
+
+^ Belize’s First Game Show – “Tek It or Leave It” Archived 2015-04-04 at the Wayback Machine, March 3, 2009
+
+^ (in Bulgarian)Video on VBOX7
+
+^ (in Bulgarian)Ники Китаеца спечели 100 000 лева (Niki Kitaetsa has won 100,000 leva), September 19, 2007
+
+^ (in Bulgarian)18-годишен спечели 100 000 лв. в „Сделка или не” (18-year-old won 100,000 leva on Deal or No Deal)
+
+^ (in Bulgarian)24-годишната Мариела Пепелджийска грабна голямата награда в "Сделка или не" (24-year-old Maria Pepeldzhiyska won the grand prize on Deal or No Deal), January 23, 2012
+
+^ (in Bulgarian)27-годишният Искрен печели 100 000 от "Сделка или не" (27-year-old Iskren won 100,000 on Deal or No Deal), January 25, 2013
+
+^ Heng Piseth: Deal or No Deal becomes a famous TV show in Cambodia, March 19, 2009
+
+^ Video on YouTube
+
+^ Video on YouTube
+
+^ (in French) « A prendre ou à laisser » : 500 000 gagnés, March 5, 2004
+
+^ (in French) À prendre ou à laisser : les 15/24 ans adorent les boites de TF1 Archived 2013-06-11 at the Wayback Machine, January 26, 2009
+
+^ (in French) À prendre ou à laisser : un candidat repart avec 100.000 euros, November 25, 2014
+
+^ (in Greek) Το κορίτσι που κέρδισε 200.000 ευρώ στο Deal, δέκα χρόνια μετά (The girl who won 200,000 euro on Deal, ten years later), October 6, 2016
+
+^ Video on YouTube
+
+^ Video on YouTube
+
+^ (in Hungarian) A szentesi vízilabdás rekordnyereménye, May 25, 2006
+
+^ (in Hungarian) Az Áll az alkutól reméli a megváltást, May 25, 2006
+
+^ (in Italian) Striscia la Notizia - I tarocchi di Affari tuoi Archived 2013-09-21 at the Wayback Machine
+
+^ (in Italian) Ho stravinto da Bonolis grazie a mia figlia, December 18, 2004
+
+^ (in Italian) una cagliaritana i 500mila euro di “Affari tuoi”, December 17, 2004
+
+^ a b (in Italian) Affari Tuoi, stasera vincita record di 500 mila euro Archived 2013-10-04 at the Wayback Machine, September 18, 2008
+
+^ (in Italian) Affari Tuoi: Danilo Anderlini torna a Spoleto con 500mila euro, September 17, 2008
+
+^ (in Italian) Una luinese ad "Affari tuoi" si porta a casa il pacco più pesante, October 23, 2008
+
+^ (in Italian) Il Molise torna a sbancare "Affari tuoi" A Montagano 500 mila euro Archived 2013-10-05 at the Wayback Machine, November 23, 2008
+
+^ (in Italian) Inizio anno con il botto per Affari Tuoi: concorrente vince 500mila euro, January 2, 2009
+
+^ (in Italian) Giovane mamma di Campoformido vince 500 mila euro ad “Affari tuoi”, February 23, 2010
+
+^ (in Italian) Rai1: vincita da sogno ad “Affari Tuoi”, 1 mln di euro in Puglia Archived 2012-03-21 at the Wayback Machine, March 18, 2012
+
+^ (in Italian) Affari Tuoi: vinti 500mila euro da Mauro Ghiraldini, geometra 37enne, November 22, 2012
+
+^ (in Italian) «Affari Tuoi», ingegnere vince 500 mila euro Archived 2013-05-27 at the Wayback Machine, January 25, 2013
+
+^ (in Italian) Affari tuoi, Pierangela Zaccaria vince 500mila euro, May 29, 2014
+
+^ (in Italian) Musicista livornese vince mezzo milione di euro ai "pacchi" in tv, May 17, 2016
+
+^ Video on YouTube
+
+^ (in Korean) 머니게임쇼서 ‘1억원 사나이'된 연출가, June 20, 2007
+
+^ (in Spanish) ¡Mari se lleva 300.000 euros!, July 25, 2011
+
+^ "Das Spiel um das grosse Geld - TV". Play SRF (in German). Retrieved 2019-12-08.
+
+^ (in French) Dlilek Mlak : Le gagnant des 300 MD, March 23, 2006
+
+^ (in French) Dlilek Mlak : Un gagnant des 500 000 dinars, November 13, 2006
+
+^ (in French) Dlilek Mlak: Un gagnant de 1 million de dinars !, September 13, 2007
+
+^ a b (in French) La HAICA ouvrira une enquête sur l'épisode aux deux milliards de Dlilek Mlak (The HAICA will open an investigation into the two billion Dlilek Mlak episode), June 14, 2017
+
+^ Vikki from Arbroath becomes the ninth top prize winner in Deal or No Deal history, December 23, 2016
+
+^ Deal or No Deal. Season 4. Episode 2. September 1, 2008. NBC.
+
+^ Deal or No Deal. Season 4. Episode 11. October 29, 2008. NBC.
+
+^ (in Vietnamese)Tám “sao” xông đất “Đi tìm ẩn số” Archived 2011-10-09 at the Wayback Machine, October 9, 2011
+
+^ Video on YouTube
+
+^ Video on YouTube
+
+^ Video on YouTube
+
+^ Post, Van den Assem & Baltussen, Thaler (March 2008). "Deal or No Deal? Decision Making Under Risk in a Large-payoff Game Show". American Economic Review. 98 (1). SSRN 636508.
+
+^ Quoted in William Poundstone,  Priceless, Hill and Wang, 2010, p. 130
+
+^ Baltussen, Post; Van den Assem (December 2007). "Risky Choice and the Relative Size of Stakes". SSRN 989242. Cite journal requires |journal= (help)
+
+^ The Wall Street Journal, January 12, 2006.
+
+^ Economists Learn from Game Show 'Deal or No Deal' from the NPR website. March 3, 2006
+
+^ a b de Roos, Nicolas; Sarafidis, Yianis (Sep–Oct 2010). "Decision making under risk in Deal or No Deal". Journal of Applied Econometrics. 25 (6): 987–1027. CiteSeerX 10.1.1.318.9931. doi:10.1002/jae.1110.
+
+^ Shifflet, Daniel R. (Spring 2011). "Is Deal or No Deal Cheating Its Contestants?". Ohio Journal of School Mathematics (63): 5–10.
+
+^ ICE games  Archived January 6, 2008, at the Wayback Machine
+
+^ "Top 50 Mobile Game Downloads in the UK" Archived 2008-11-12 at the Wayback Machine. 2007-1-27. Mobicritic.com. Retrieved 2008-11-06.
+
+^ "Non-Stop International Success for Gameloft's 'Deal or No Deal'. 2008-4-07 Archived 2008-12-08 at the Wayback Machine. FindLaw.com. Retrieved 2008-11-06.
+
+^ Playing Deal or No Deal Online Archived 2014-02-20 at the Wayback Machine. Deal or No Deal Online. Retrieved January 31, 2014.
+
+^ "Three More Years of Deal or No Deal Bingo". latestbingobonuses.com. 21 February 2016.
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Deal or No Deal.
+
+Deal or No Deal on IMDb
+Officially licensed game of Deal or No Deal (UK Version)
+NBC game
+Official Italian Affari Tuoi (Deal or No Deal) website
+Official United Kingdom Deal Or No Deal website
+Official Quebec Le Banquier (Deal or No Deal) website
+Official German Deal Or No Deal website
+Official U.S. Deal or No Deal version website
+Deal or No Deal global fansite
+vteDeal or No Deal
+Afghanistan
+Albania
+Arab World
+Argentina
+Armenia
+Australia
+Azerbaijan
+Belgium
+original
+Flanders
+Belize
+Brazil
+Bulgaria
+Canada
+English
+French
+Chile
+China
+Costa Rica
+Czech Republic
+Denmark
+El Salvador
+Egypt
+Estonia
+Finland
+France
+Georgia
+Germany
+Greece
+1
+2
+Hong Kong
+Hungary
+India
+Indonesia
+Ireland
+Israel
+Italy
+Japan
+Lebanon
+Lithuania
+Malaysia
+Chinese
+English
+Malta
+Mexico
+Netherlands
+original
+direct
+New Zealand
+Nigeria
+Norway
+Panama
+1
+2
+Persian
+Peru
+Philippines
+Poland
+Portugal
+Romania
+1
+2
+Russia
+1
+2
+Serbia
+Singapore
+Slovakia
+1
+Slovenia
+South Africa
+English
+Afrikaans
+South Korea
+Spain
+Sweden
+Switzerland
+Thailand
+Tunisia
+Turkey
+1
+2
+3
+Ukraine
+United Kingdom
+United States
+English
+Spanish
+Vietnam
+1
+2
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Deal_or_No_Deal&oldid=931200247"
+		
+		Categories: Deal or No DealEndemol Shine Group franchisesTelevision series by Endemol2000 Dutch television series debutsHidden categories: CS1 maint: archived copy as titleArticles with German-language external linksArticles with Arabic-language external linksCS1 Arabic-language sources (ar)Webarchive template wayback linksArticles with Bulgarian-language external linksArticles with French-language external linksArticles with Greek-language external linksArticles with Hungarian-language external linksArticles with Italian-language external linksArticles with Korean-language external linksArticles with Spanish-language external linksCS1 German-language sources (de)Articles with Vietnamese-language external linksCS1 errors: missing periodicalArticles with short descriptionArticles containing potentially dated statements from April 2015All articles containing potentially dated statementsArticles containing Dari-language textArticles containing Albanian-language textArticles containing Algerian Arabic-language textArticles containing Arabic-language textArticles containing Armenian-language textArticles containing Bulgarian-language textArticles containing Khmer-language textAll articles with unsourced statementsArticles with unsourced statements from April 2007Articles with unsourced statements from December 2018All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from December 2018Commons category link from Wikidata
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			In other projects
+			
+								
+					Wikimedia Commons				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					العربيةБългарскиDeutschEspañol한국어Bahasa IndonesiaItalianoLietuviųBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskPolskiPortuguêsRomânăSimple EnglishSuomiSvenskaTürkçeTiếng Việt粵語中文				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 17 December 2019, at 15:57 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.020","walltime":"2.887","ppvisitednodes":{"value":18432,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":124507,"limit":2097152},"templateargumentsize":{"value":18983,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":62186,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 2286.148      1 -total"," 25.59%  585.054      1 Template:Reflist"," 22.63%  517.342     82 Template:Flag"," 13.22%  302.239     16 Template:Unbulleted_list"," 11.25%  257.234      8 Template:Lang","  6.22%  142.134      2 Template:Cite_web","  6.18%  141.286      4 Template:Cite_journal","  5.99%  136.970      3 Template:Citation_needed","  5.88%  134.378      4 Template:Fix","  5.51%  126.036     36 Template:Flagicon"]},"scribunto":{"limitreport-timeusage":{"value":"0.683","limit":"10.000"},"limitreport-memusage":{"value":21503211,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20191217182419","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Deal or No Deal","url":"https:\/\/en.wikipedia.org\/wiki\/Deal_or_No_Deal","sameAs":"http:\/\/www.wikidata.org\/entity\/Q164304","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q164304","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-11-20T01:43:28Z","dateModified":"2019-12-17T15:57:33Z","headline":"TV show format"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":141,"wgHostname":"mw1268"});});
+
+

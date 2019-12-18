@@ -1,0 +1,242 @@
+
+
+Georg Bohlmann - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqtvwpAAEQAABWiX2gAAAAR","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Georg_Bohlmann","wgTitle":"Georg Bohlmann","wgCurRevisionId":814951140,"wgRevisionId":814951140,"wgArticleId":40245486,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","Infobox person using residence","Articles with hCards","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers",
+"Wikipedia articles with MGP identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","20th-century German mathematicians","19th-century German mathematicians","Probability theorists","1869 births","1928 deaths"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Georg_Bohlmann","wgRelevantArticleId":40245486,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
+"wgWikibaseItemId":"Q126240","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons",
+"ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Georg Bohlmann
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Georg BohlmannBorn(1869-04-23)23 April 1869Berlin, PrussiaDied25 April 1928(1928-04-25) (aged 59)Berlin, GermanyResidenceGermanyNationalityGermanAlma materUniversity of Berlin  University of HalleScientific careerFieldsProbability theory  Actuarial mathematicsInstitutionsMeteorological Institute of Berlin  University of Göttingen  New York Mutual Life Insurance CompanyThesisUeber eine gewisse Klasse continuirlicher Gruppen und ihren Zusammenhang mit den Additionstheoremen ("On a certain class of continuous groups and their relation to addition theorems") (1892)Doctoral advisorAlbert Wangerin
+
+Georg Bohlmann (23 April 1869 – 25 April 1928) was a German mathematician who specialized in probability theory and actuarial mathematics.
+
+Contents
+
+1 Life and career
+2 Publications
+3 References
+4 External links
+
+
+
+Life and career[edit]
+Georg Bohlmann went to school in Berlin and Leipzig and took his Abitur at the Wilhelms-Gymnasium in Berlin in 1888. After that, he began studying mathematics at the University of Berlin under Leopold Kronecker, Lazarus Fuchs, and Wilhelm Dilthey. As he advanced in his studies, Lie groups became the focus of his interest. Since this area was poorly represented at Berlin, he moved to the University of Halle, where he obtained his doctorate in 1892 under Albert Wangerin with a dissertation on the topic Ueber eine gewisse Klasse continuierlicher Gruppen und ihren Zusammenhang mit den Additionstheoremen ("On a certain class of continuous groups and their relation to addition theorems").[1] After that, he worked at the Meteorological Institute of Berlin, where presumably his interest in applied mathematics developed.  At the invitation of Felix Klein, he moved to the University of Göttingen, where he habilitated in 1894. In 1895, he was involved in starting a seminar on actuarial science at Göttingen.  However, since he held no permanent position there, he went to Berlin in 1903 to work as the Chief Actuary for the German subsidiary of the New York Mutual Life Insurance Company.
+In 1901, he wrote the entry on life insurance mathematics in the Enzyklopädie der mathematischen Wissenschaften ("Encyclopaedia of Mathematical Sciences") in which he gave axioms for probability theory long before Andrey Kolmogorov did so in 1933. In particular, he was the first to give the modern definition of statistical independence. Compared to the current structure of probability theory, his work only lacked the technical condition of sigma additivity. However, in contrast to Kolmogorov, Bohlmann failed to prove significant theorems within his axiomatic framework. As a result, his fundamental contributions to probability theory gained very little attention. In particular, though Kolmogorov had visited Göttingen several times in the late 1920s, he had no knowledge of Bohlmann's work.
+Bohlmann was an invited speaker in the International Congress of Mathematicians in 1908 at Rome.[2][3]
+
+Publications[edit]
+Lebensversicherungsmathematik (Life Insurance Mathematics), Enzyklopädie der Mathematischen Wissenschaften, 1901
+Continuierliche Gruppen von quadratischen Transformationen der Ebene (Continuous groups of quadratic transformations of the plane), Göttinger Nachrichten, 1896, pp. 44–54
+Ein Ausgleichungsproblem (A stabilization problem), Göttinger Nachrichten, 1899, pp. 260–271
+Die Grundbegriffe der Wahrscheinlichkeitsrechnung in ihrer Anwendung auf die Lebensversicherung (The basic concepts of probability theory and its applications to life insurance), Atti del IV Congresso internazionale dei Matematici III, Rome 1909, pp. 244–278
+Anthropometrie und Lebensversicherung (Anthropometry and life insurance), Zeitschrift für die gesamte Versicherungs-Wissenschaft 14, 1914, pp. 743–786
+References[edit]
+
+^ Bohlmann, Georg (1892). Ueber eine gewisse Klasse continuierlicher Gruppen und ihren Zusammenhang mit den Additionstheoremen..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ Bohlmann, G. "Über die Grundlagen der Wahrscheinlichkeitsrechnung in ihrer Anwendung auf die Lebensversicherung". Atti del IV Congresso internazionale dei matematici (Roma, 6–11 Aprile 1908). vol. 3. pp. 244–278.
+
+^ Über die Grundlagen der Wahrscheinlichkeitsrechnung in ihrer Anwendung auf die Lebensversicherung.  "Mr. Bohlmann forms a system of postulates from which theorems of the calculus of probability can be deduced logically. He examines the criteria of probability concerning the independence of events and demonstrates the sufficiency of the usually criterium. He formulates supplementary postulates necessary to define the survival functions of the mathematics of insurance and gives a relation between the survival functions of groups and those of individuals." p. 28 of: Moore, C. L. E. (October 1908). "The fourth international Congress of Mathematicians: sectional meetings". Bull. Amer. Math. Soc. 15: 8–43. doi:10.1090/S0002-9904-1908-01685-9.
+
+
+Ulrich Krengel, 100 Jahre Versicherungsmathematik an den Universitäten (100 years of actuarial science at universities), Blätter der deutschen Gesellschaft für Versicherungsmathematik 22, 1996, p. 663
+Ulrich Krengel, On the contributions of Bohlmann to probability theory (PDF: 6.4 MB), Electronic Journal for History of Probability and Statistics, 2011
+Peter Koch, Geschichte der Versicherungswissenschaft in Deutschland (History of actuarial science in Germany), Verlag Versicherungswirtschaft, Karlsruhe 1998, ISBN 3-88487-745-3
+External links[edit]
+Geschichte der Stochastik in Göttingen (History of Stochastics in Göttingen), Ulrich Krengel and Axel Munk
+Authority control 
+GND: 116231955
+ISNI: 0000 0001 1833 0444
+LCCN: n86861278
+MGP: 37742
+NTA: 191018244
+VIAF: 294922722
+ WorldCat Identities (via VIAF): 294922722
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Georg_Bohlmann&oldid=814951140"
+		
+		Categories: 20th-century German mathematicians19th-century German mathematiciansProbability theorists1869 births1928 deathsHidden categories: CS1: long volume valueInfobox person using residenceArticles with hCardsWikipedia articles with GND identifiersWikipedia articles with ISNI identifiersWikipedia articles with LCCN identifiersWikipedia articles with MGP identifiersWikipedia articles with NTA identifiersWikipedia articles with VIAF identifiersWikipedia articles with WorldCat-VIAF identifiers
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					العربيةDeutschPiemontèisPortuguês				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 11 December 2017, at 21:27 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.458","ppvisitednodes":{"value":1809,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":23200,"limit":2097152},"templateargumentsize":{"value":3286,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11398,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  420.328      1 -total"," 47.65%  200.281      1 Template:Infobox_scientist"," 45.73%  192.235      1 Template:Infobox_person"," 43.25%  181.787      2 Template:Infobox"," 23.80%  100.022      5 Template:Br_separated_entries"," 21.19%   89.050      2 Template:Cite_book"," 13.19%   55.423      1 Template:Birth_date"," 11.60%   48.750      1 Template:Authority_control","  9.01%   37.886      1 Template:ISBN","  7.59%   31.923      1 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.167","limit":"10.000"},"limitreport-memusage":{"value":4043747,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20191218225248","ttl":86400,"transientcontent":true}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Georg Bohlmann","url":"https:\/\/en.wikipedia.org\/wiki\/Georg_Bohlmann","sameAs":"http:\/\/www.wikidata.org\/entity\/Q126240","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q126240","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-08-15T03:21:35Z","dateModified":"2017-12-11T21:27:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bb\/Bohlmann.jpg","headline":"German mathematician"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":594,"wgHostname":"mw1273"});});
+
+

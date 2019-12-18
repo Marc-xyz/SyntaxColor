@@ -1,0 +1,376 @@
+
+
+420356 Praamzius - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfgtQgpAAEIAAGjx1QsAAADT","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"420356_Praamzius","wgTitle":"420356 Praamzius","wgCurRevisionId":922953275,"wgRevisionId":922953275,"wgArticleId":45279246,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing clarification from December 2018","All articles with unsourced statements","Articles with unsourced statements from September 2017",
+"Articles with unsourced statements from December 2018","JPL Small-Body Database ID not in Wikidata","Use dmy dates from December 2018","Minor planet object articles (numbered)","Cold classical Kuiper belt objects","Discoveries by Kazimieras Černis","Minor planets named from mythology","Named minor planets","Possible dwarf planets","Astronomical objects discovered in 2012"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"420356_Praamzius","wgRelevantArticleId":45279246,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":
+!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q15032902","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips",
+"ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	420356 Praamzius
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		420356 PraamziusDiscovery [1][2]Discovered byK. ČernisR. P. BoyleDiscovery siteVATT (Mount Graham Obs.)Discovery date23 January 2012DesignationsMPC designation(420356) PraamziusNamed afterPraamžius [1](Lithuanian mythology)Alternative designations2012 BX85Minor planet categoryTNO [3] · cubewano [4][5]cold [6] · distant [1]Orbital characteristics [3]Epoch 27 April 2019 (JD 2458600.5)Uncertainty parameter 3Observation arc13.08 yr (4,778 d)Aphelion43.027 AUPerihelion42.147 AUSemi-major axis42.587 AUEccentricity0.0103Orbital period277.93 yr (101,512 d)Mean anomaly185.10°Mean motion0° 0m 12.6s / dayInclination1.1001°Longitude of ascending node314.26°Argument of perihelion358.38°Physical characteristicsMean diameter191 km (est.)[6]321 km (est.)[4]Geometric albedo0.09 (assumed)[4]0.20 (assumed)[6]Apparent magnitude22.09 (visible)[7]Absolute magnitude (H)5.7[1][3]
+
+420356 Praamzius, provisional designation 2012 BX85, is a trans-Neptunian object from the classical Kuiper belt, located in the outermost region of the Solar System, approximately 190–320 kilometers (120–200 miles) in diameter.[4][6] It was discovered on 23 January 2012, by astronomers Kazimieras Černis and Richard Boyle with the Vatican's VATT at Mount Graham Observatory in Arizona, United States. The cold classical Kuiper belt object is a weak dwarf planet candidate and possibly very red in color. It was named after the chief god Praamžius from Lithuanian mythology.[1]
+
+Contents
+
+1 Orbit and classification
+
+1.1 Proximity to orbital resonance
+
+
+2 Discovery
+3 Naming
+4 Physical characteristics
+5 Notes
+6 References
+7 External links
+
+
+
+Orbit and classification[edit]
+
+Eccentricity at different Epochs
+
+
+Epoch
+
+Eccentricity
+
+Refs
+
+
+09 Dec 2014
+0.0018
+[a]
+
+
+31 Jul 2016
+0.0032
+[b]
+
+
+04 Apr 2019
+0.0103
+[3]
+
+
+01 Sep 2021
+0.013
+—
+
+
+Barycentric
+0.0078
+—
+
+Praamzius orbits the Sun at a distance of 42.1–43.0 AU once every 277 years and 11 months (101,512 days; semi-major axis of 42.59 AU). Its orbit has an eccentricity of 0.01 and an inclination of 1° with respect to the ecliptic.[3] It has an excite_mean of 0.053.[5][clarification needed] It is a classical Kuiper belt object located in between the resonant plutino (39.4 AU) and twotino (47.8 AU) populations and has a low-eccentricity orbit. With an inclination significantly less than 4–7°, it belongs to the cold rather than to the "stirred" hot population.
+With an eccentricity of 0.003 in 2016,[b] Praamzius had one of the lowest eccentricities of any trans-Neptunian object, and a more circular orbit than any major planet (including Venus, the least eccentric planet at 0.007). But the object's eccentricity varies over time due to the position of the planets (also see table). A 10 million year simulation of the orbit shows the eccentricity (emax) does not get greater than 0.03.[5]
+
+Proximity to orbital resonance[edit]
+Its orbital radius is near, but not actually on the 3:5 resonance with Neptune, with both period and radius being slightly too large to achieve an exact 3:5 ratio. This could be due to any of several reasons, e.g. their apparent relationship being merely coincidental and Praamzius a typical non-resonant cubewano instead of resonant, or an artefact of librating cycle centred on 3:5 and currently on the longer/wider limb of its oscillation around that, or due to it exhibiting some more exotic resonance such as 7:12, 10:17 or 17:28 which are better fits for its observed track.
+However, it is difficult to yet determine which of these is true, as although Praamzius has a comparatively good observational record (with more than 200 confirmed professional sightings over nearly 14 years), with an otherwise decent orbital uncertainty (U) of 2, or a mere 4.4 to 19.6 arcseconds of drift expected per decade, its great orbital distance and long period mean each of its approximately 28-decade orbits accumulate 0.034 to 0.153 degrees of potential error. Whilst still a very small amount, and unlikely to cause any difficulty with predicting target areas for future imaging or the object's position for probe rendezvous, it is enough to make nearly all of the above scenarios possible (the exception being a non-librating 7:12 resonance; however, it would only require minor, long term libration for 7:12 to become realistic).
+The apparent resonance even depends on what source data and calculation methods are employed - the best fit for the given orbital periods within a 25,000 year cycle time, 44:75, is still imperfect and exhibits a final error of more than 1.5 Earth years for the final conjunction (approx 0.5%, or 2 degrees of arc). If we instead use the two bodies' respective semi-major axes, i.e. their mean orbital radii as the basis for calculation, and purely Keplerian 2-body equations (ignoring interference by all other bodies), the decimal ratio returns 1.699943. This is actually close enough to 1.7 that a 10:17 resonance can be considered a credible possibility, not only with U = 2, but even in the looser reaches of a notional "U=-1" band, 4.4× more accurate than the usual U = 0 gold standard and about 85× more than band 2. However, appearing to be dead centre is no guarantee of accuracy when the uncertainty IS actually that great, so either of the other explanations could still be correct.
+
+Discovery[edit]
+Initial discovery was from images acquired on 23 January 2012 at VATT, on Mount Graham, Arizona using a 1.8 meter reflecting telescope;[2] precovery observations from VATT and the Sloan Digital Sky Survey dating back to 31 December 2002 have been accepted by the Minor Planet Center.[1] The object has been repeatedly tracked through January 2016, mostly by VATT with some supporting observations by Las Campanas Observatory. 420356 Praamzius is one of the most recently discovered minor planets to receive a numeric designation, confirming it as a distinct body with a well determined orbit. This is due to the large number of observations since and indeed before its discovery: about one every 23 to 24 days on average from 2002 to 2016, and as many as one per 10 days in the period between discovery and assignment alone. Precovery images refined the orbit even more.
+
+Naming[edit]
+This minor planet was named after Praamžius (an epithet of Dievas), the Lithuanian mythological god of the sky, peace, and friendship.[1] The official naming citation was published by the Minor Planet Center on 22 February 2016 (M.P.C. 98717).[8]
+
+Physical characteristics[edit]
+According to Johnston's archive, Praamzius measures 321 kilometers in diameter based on an assumed, generic albedo of 0.09.[4] This would qualify the object as a weak dwarf planet candidate based on the 5-class taxonomic system of American astronomer Michael Brown. However, on his website, Brown estimates only a diameter of 191 kilometers due to a much higher (assumed) albedo of 0.20. As a consequence, he no longer considers Praamzius to be a possible dwarf planet.[6]
+As of 2018, neither the body's color indices, nor its rotational lightcurve has been obtained from photometric observations, and its rotation period, pole and shape remain unknown.[3][9]
+Analysis of precovery observations in the visible spectrum between 2002 and 2007 show that it may be amongst the reddest objects in the Solar System, being more than 1.5 magnitudes fainter in the G (green) filtered versus the R (red) filtered images, which may offer some clues about its composition and origin (also see color indices).[citation needed] This is expected from a fairly small "orbitally unexcited" cold Classical Kuiper belt object as they are generally mostly red. The cold populations distance does not vary from the Sun very much so their surfaces are older, more irradiated, and covered in tholins. There is a chance it accreted in basically the same orbit it has today.[citation needed]
+
+Notes[edit]
+
+
+^ Archived JPL SBDB data sheet at epoch 14 December 2014 (solution date 8 January 2015).
+
+^ a b Archived MPC data sheet at epoch 31 July 2016.
+
+ 
+References[edit]
+
+
+^ a b c d e f g "420356 Praamzius (2012 BX85)". Minor Planet Center. Retrieved 3 December 2018..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b "MPEC 2012-B100: 2012 BX85". IAU Minor Planet Center. 30 January 2012. Retrieved 3 December 2018. (K12B85X)
+
+^ a b c d e f "JPL Small-Body Database Browser: 420356 Praamzius (2012 BX85)" (2016-01-30 last obs.). Jet Propulsion Laboratory. Retrieved 3 December 2018.
+
+^ a b c d e Johnston, Wm. Robert (7 October 2018). "List of Known Trans-Neptunian Objects". Johnston's Archive. Retrieved 3 December 2018.
+
+^ a b c Marc W. Buie. "Orbit Fit and Astrometric record for 420356". SwRI (Space Science Department). Retrieved 3 December 2018.
+
+^ a b c d e Brown, Michael E. "How many dwarf planets are there in the outer solar system?". California Institute of Technology. Retrieved 3 December 2018.
+
+^ "(420356) Praamzius". AstDyS-2, Asteroids – Dynamic Site. Retrieved 3 December 2018.
+
+^ "MPC/MPO/MPS Archive". Minor Planet Center. Retrieved 3 December 2018.
+
+^ "LCDB Data for (420356) Praamzius". Asteroid Lightcurve Database (LCDB). Retrieved 3 December 2018.
+
+ 
+External links[edit]
+List of Transneptunian Objects, Minor Planet Center
+Discovery Circumstances: Numbered Minor Planets (420001)-(425000) – Minor Planet Center
+420356 Praamzius at AstDyS-2, Asteroids—Dynamic Site
+Ephemeris · Observation prediction · Orbital info · Proper elements · Observational info
+420356 Praamzius at the JPL Small-Body Database
+Close approach · Discovery · Ephemeris · Orbit diagram · Orbital elements · Physical parameters
+
+
+vteMinor planets navigator
+385571 Otrera 
+420356 Praamzius
+
+vteSmall Solar System bodiesMinor planets
+Designation
+Groups
+List
+Moon
+Meanings of names
+Asteroid
+Aten asteroid
+Asteroid belt
+Family
+Jupiter trojan
+Near-Earth
+Spectral types
+Distant minor planet
+Centaur
+Damocloid
+Neptune trojan
+Trans-Neptunian object
+Detached
+Kuiper belt
+Oort cloud
+Scattered disc
+Comets
+Extinct
+Great
+Halley-type
+Hyperbolic
+Long-period
+Lost
+Main-belt
+Near-parabolic
+Periodic
+Sungrazing
+Other
+Meteoroids
+
+vteTrans-Neptunian objectsTNO classes
+Cubewanos
+Scattered-disc objects
+Detached objects
+Resonant objects
+Neptune trojans
+Plutinos
+Twotinos
+TNO moons
+Dwarf planets (moons)
+Pluto
+Charon
+Styx
+Nix
+Kerberos
+Hydra
+Haumea
+Namaka
+Hiʻiaka
+Makemake
+S/2015 (136472) 1
+Eris
+Dysnomia
+Sednoids
+90377 Sedna
+2012 VP113
+2015 TG387
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=420356_Praamzius&oldid=922953275"
+		
+		Categories: Minor planet object articles (numbered)Cold classical Kuiper belt objectsDiscoveries by Kazimieras ČernisMinor planets named from mythologyNamed minor planetsPossible dwarf planetsAstronomical objects discovered in 2012Hidden categories: Wikipedia articles needing clarification from December 2018All articles with unsourced statementsArticles with unsourced statements from September 2017Articles with unsourced statements from December 2018JPL Small-Body Database ID not in WikidataUse dmy dates from December 2018
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					DeutschFrançaisBahasa IndonesiaItalianoMinangkabauPortuguêsУкраїнська				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 25 October 2019, at 11:05 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.736","walltime":"0.927","ppvisitednodes":{"value":3114,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":76647,"limit":2097152},"templateargumentsize":{"value":9927,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31503,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  818.384      1 -total"," 28.16%  230.470      3 Template:Reflist"," 24.12%  197.395      1 Template:Infobox_planet"," 22.54%  184.458      1 Template:Infobox"," 20.85%  170.602      9 Template:Cite_web"," 11.48%   93.920      2 Template:Citation_needed"," 10.94%   89.560      1 Template:Clarify"," 10.59%   86.633      3 Template:Delink"," 10.49%   85.878      2 Template:Fix","  9.76%   79.892      1 Template:Fix-span"]},"scribunto":{"limitreport-timeusage":{"value":"0.363","limit":"10.000"},"limitreport-memusage":{"value":7059429,"limit":52428800}},"cachereport":{"origin":"mw1242","timestamp":"20191214195716","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"420356 Praamzius","url":"https:\/\/en.wikipedia.org\/wiki\/420356_Praamzius","sameAs":"http:\/\/www.wikidata.org\/entity\/Q15032902","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q15032902","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-02-02T02:07:33Z","dateModified":"2019-10-25T11:05:31Z","headline":"minor planet"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1271"});});
+
+

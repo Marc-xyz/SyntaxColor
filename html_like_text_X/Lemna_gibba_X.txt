@@ -1,0 +1,465 @@
+
+
+Lemna gibba - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfpz2QpAAEMAAGca800AAAFR","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Lemna_gibba","wgTitle":"Lemna gibba","wgCurRevisionId":917664869,"wgRevisionId":917664869,"wgArticleId":20069204,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Commons category link from Wikidata","Taxonbars with 25–29 taxon IDs","Lemnoideae","Freshwater plants","Flora of Europe","Flora of Asia","Flora of Africa",
+"Flora of South America","Flora of North America","Flora of Canada","Flora of the Eastern United States","Flora of the Western United States","Flora of Colorado","Flora of the Sierra Nevada (U.S.)","Flora of the Rocky Mountains","Flora of California","Flora of the California desert regions","Flora of Central Mexico","Flora of Lebanon","Plants described in 1753"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Lemna_gibba","wgRelevantArticleId":20069204,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,
+"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q157897","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons",
+"ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Lemna gibba
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+
+
+Lemna gibba
+
+
+
+
+
+
+
+
+
+
+Scientific classification
+
+
+
+
+
+
+
+
+
+
+
+Kingdom:
+
+Plantae
+
+
+
+
+
+
+
+
+(unranked):
+
+Angiosperms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(unranked):
+
+Monocots
+
+
+
+
+
+
+
+
+
+
+
+
+Order:
+
+Alismatales
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Family:
+
+Araceae
+
+
+
+
+
+
+
+
+
+
+
+
+
+Genus:
+
+Lemna
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Species:
+
+L. gibba
+
+
+
+
+
+
+
+
+
+
+Binomial name
+
+
+Lemna gibbaL.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lemna gibba, the gibbous duckweed,[1] swollen duckweed,[2] or fat duckweed,[3] is a species of Lemna (duckweed).  It has a simple plant body, known as a thallus, which floats on the surface of the water and measures 3 – 5 mm in diameter.[4] A single root hangs down into the water. Found in a wide range of still or slow-flowing water bodies, this common duckweed can also grow on mud or damp rocks.
+
+Distribution[edit]
+Distribution is in temperate areas in Europe, including Britain, to the Himalayas, Africa, South America, and North America. This duckweed is one of Britain's most common small water plants, which forms familiar green mats covering stagnant water bodies.[5] Widespread throughout Great Britain, but is absent from much of Scotland and Shetland. In Ireland, it is found mainly in the north and east.[6] Elsewhere, the species has a very wide global distribution, absent only from polar areas and the tropics.[7]
+Distribution information for this species can be accessed via the Charms of Duckweed (worldwide) and National Biodiversity Network Gateway (Britain only).
+This species spreads mainly through vegetative reproduction,[8] but flowers are occasionally produced in shallow water exposed to full sun. When covering the entire surface of a pond, it can make the water appear solid, and in parts of the north-west of England, children were scared away from such ponds by the myth of Jenny Green-teeth, a pond elf or monster whose presence was indicated by duckweed; she was said to lure children into ponds and drown them.[9]
+
+References[edit]
+
+
+^ Derived from the Latin, gibbus = hump, Merriam-Webster Online Dictionary
+
+^ "Lemna gibba". Natural Resources Conservation Service PLANTS Database. USDA. Retrieved 24 January 2016..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "BSBI List 2007". Botanical Society of Britain and Ireland. Archived from the original (xls) on 2015-01-25. Retrieved 2014-10-17.
+
+^ Parnell, J. and Curtis, T. 2012. Webb's An Irish Flora. Cork University Press. ISBN 978-185918-4783
+
+^ Mabey, R. (1996) Flora Britannica. Sinclair-Stevenson, London.
+
+^ Hackney, P. (Ed)1992. Stewart & Corry's Flora of the North-east of Ireland. Institute of Irish Studies. The Queen's University of Belfast. ISBN 0 85389 446 9 (HB)
+
+^ Clapham, A.R., Tutin, T.G. and Moore, D.M. (1987) Flora of the British Isles. 3rd Edition. Cambridge University Press, Cambridge.
+
+^ Preston, C.D., Pearman, D.A. and Dines, T.D. (2002) The New Atlas of the British and Irish Flora. Oxford University Press, Oxford.
+
+^ Grigson, G. (1996) The Englishman's Flora. Helicon, Oxford.
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Lemna gibba.
+
+
+
+
+Wikispecies has information related to Lemna gibba
+
+Jepson Manual treatment for Lemna gibba
+Plants for a Future
+ARKIVE - images of life on earth
+Plantlife International - The Wild-Plant Conservation Charity
+Botanical Society of Britain and Ireland
+Taxon identifiers
+Wikidata: Q157897
+Wikispecies: Lemna gibba
+APDB: 15696
+APNI: 78649
+ARKive: lemna-gibba
+BioLib: 42792
+Calflora: 4656
+EoL: 1142165
+EPPO: LEMGI
+EUNIS: 186873
+FloraBase: 8318
+FNA: 222000204
+GBIF: 2867569
+GRIN: 400077
+iNaturalist: 63913
+IPNI: 526178-1
+IRMNG: 10238525
+ITIS: 42591
+IUCN: 164103
+NBN: NBNSYS0000002359
+NCBI: 4470
+NZOR: 7d8bee59-b043-45b2-86dd-f3d7965cd78d
+Plant List: kew-109294
+PLANTS: LEGI
+POWO: urn:lsid:ipni.org:names:526178-1
+SANBI: 3874-2
+Tropicos: 18100009
+uBio: 467175
+VASCAN: 6488
+WCSP: 109294
+WoI: 314
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Lemna_gibba&oldid=917664869"
+		
+		Categories: LemnoideaeFreshwater plantsFlora of EuropeFlora of AsiaFlora of AfricaFlora of South AmericaFlora of North AmericaFlora of CanadaFlora of the Eastern United StatesFlora of the Western United StatesFlora of ColoradoFlora of the Sierra Nevada (U.S.)Flora of the Rocky MountainsFlora of CaliforniaFlora of the California desert regionsFlora of Central MexicoFlora of LebanonPlants described in 1753Hidden categories: Articles with 'species' microformatsCommons category link from WikidataTaxonbars with 25–29 taxon IDs
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			In other projects
+			
+								
+					Wikimedia CommonsWikispecies				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					العربيةAsturianuБеларускаяCebuanoČeštinaCymraegDeutschEestiEspañolفارسیFrançaisHornjoserbsceHrvatskiItalianoNederlands日本語PolskiРусскийSuomiSvenskaУкраїнськаTiếng ViệtWinaray				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 24 September 2019, at 21:41 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.672","walltime":"1.145","ppvisitednodes":{"value":4103,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29731,"limit":2097152},"templateargumentsize":{"value":3158,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":28,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12298,"limit":5000000},"entityaccesscount":{"value":29,"limit":400},"timingprofile":["100.00% 1091.220      1 -total"," 56.45%  616.025      1 Template:Taxonbar"," 20.09%  219.206      1 Template:Taxobox"," 19.32%  210.873      1 Template:Taxobox/core"," 15.62%  170.419      1 Template:Reflist"," 10.33%  112.711     14 Template:Taxobox_colour","  9.45%  103.111      1 Template:PLANTS","  9.04%   98.640     14 Template:Delink","  6.56%   71.572      1 Template:Commonscat","  5.43%   59.293      7 Template:Taxonomy"]},"scribunto":{"limitreport-timeusage":{"value":"0.422","limit":"10.000"},"limitreport-memusage":{"value":6587562,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20191122081132","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Lemna gibba","url":"https:\/\/en.wikipedia.org\/wiki\/Lemna_gibba","sameAs":"http:\/\/www.wikidata.org\/entity\/Q157897","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q157897","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-11-04T15:27:29Z","dateModified":"2019-09-24T21:41:18Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/dd\/L_gibba2.jpg","headline":"species of plant"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1272"});});
+
+

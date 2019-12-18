@@ -1,0 +1,308 @@
+
+
+Autoradiopuhelin - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfmoPQpAICIAAGu0GiYAAAAS","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Autoradiopuhelin","wgTitle":"Autoradiopuhelin","wgCurRevisionId":643504089,"wgRevisionId":643504089,"wgArticleId":1419123,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from May 2007","All articles lacking sources","Mobile radio telephone systems"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Autoradiopuhelin",
+"wgRelevantArticleId":1419123,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q385602","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":
+"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Autoradiopuhelin
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Autoradiopuhelin" – news · newspapers · books · scholar · JSTOR  (May 2007) (Learn how and when to remove this template message)
+ARP (Autoradiopuhelin, "car radio phone") was the first commercially operated public mobile phone network in Finland. The technology is zero-generation (0G), since although it had cells, moving between them was not seamless. The network was proposed in 1968 and building began in 1969. It was launched in 1971, and reached 100% geographic coverage in 1978 with 140 base stations. The ARP network was closed at the end of 2000 along with NMT-900.
+ARP was a success and reached great popularity (10,800 users in the year 1977, with a peak of 35,560 in 1986), but the service eventually became too congested and was gradually replaced by the more modern NMT technology.  However, ARP was the only mobile phone network with 100% percent coverage for some time thereafter, and it remained popular in many special user groups.
+ARP operated on 150 MHz frequency (80 channels on 147.9 - 154.875 MHz band). Transmission power ranged from 1 watt to 5 watts. It first used only half-duplex transmission, meaning that receiving and transmitting voice could not happen at the same time. Later, full-duplex car phones were introduced. Being analog, it had no encryption and calls could be listened to with scanners. It started as a manually switched service, but was fully automated in 1990; however, by that time the number of subscribers had dwindled down to 980 users. ARP did not support handover, so calls would disconnect when moving to a new cell area.  The cell size was approximately 30 km.
+The first ARP mobile terminals were extremely large for the time and could only be fitted in cars' trunks, with a handset near the driver's seat. ARP was also expensive. In the 1990s, handhelds were introduced in ARP but they never became popular as more modern equipment was already available in other systems like NMT.
+
+vteCellular network standardsList of mobile phone generations0G radio telephones (1946)
+MTS
+IMTS
+Altai
+OLT
+MTA - MTB - MTC - MTD
+AMTS
+Autotel (PALM)
+ARP
+B-Netz
+AMR
+1G (1979)AMPS family
+AMPS - N-AMPS
+TACS - ETACS
+Other
+NMT
+C-450
+Hicap
+Mobitex
+DataTAC
+2G (1991)GSM/3GPP family
+GSM
+CSD - HSCSD
+3GPP2 family
+cdmaOne (IS-95)
+AMPS family
+D-AMPS (IS-54 and IS-136)
+Other
+CDPD
+iDEN
+PDC
+PHS
+2G transitional(2.5G, 2.75G)GSM/3GPP family
+GPRS
+EDGE/EGPRS - Evolved EDGE
+3GPP2 family
+CDMA2000 1X (TIA/EIA/IS-2000)
+CDMA2000 1X Advanced
+Other
+WiDEN
+DECT
+3G (2001)3GPP family
+UMTS
+UTRA-FDD / W-CDMA
+FOMA
+UTRA-TDD LCR / TD-SCDMA
+UTRA-TDD HCR / TD-CDMA
+3GPP2 family
+CDMA2000 1xEV-DO Release 0 (TIA/IS-856)
+3G transitional(3.5G, 3.75G, 3.9G)3GPP family
+HSPA
+HSDPA
+HSUPA
+HSPA+
+DC-HSDPA
+LTE (E-UTRA)
+3GPP2 family
+CDMA2000 1xEV-DO Revision A (TIA/EIA/IS-856-A)
+EV-DO Revision B (TIA/EIA/IS-856-B)
+EV-DO Revision C
+IEEE family
+Mobile WiMAX
+IEEE 802.16e
+Flash-OFDM
+iBurst (IEEE 802.20)
+WiBro
+ETSI family
+HiperMAN
+4G (2009)IMT Advanced (2013)3GPP family
+LTE Advanced (E-UTRA)
+LTE Advanced Pro (4.5G Pro/pre-5G/4.9G)
+IEEE family
+WiMAX (IEEE 802.16m)
+WiMax 2.1 (LTE-TDD / TD-LTE)
+WiBro
+5G (2019)IMT-2020 (under development)3GPP family
+NR
+NR-IIoT
+LTE-M
+NB-IoT
+Other
+DECT-5G
+Related articles
+Cellular networks
+Mobile telephony
+History
+Comparison of standards
+Channel access methods
+FDMA
+OFDMA
+TDMA
+STDMA
+SSMA
+CDMA
+SDMA
+Spectral efficiency comparison table
+Frequency bands
+GSM
+UMTS
+PCS
+LTE
+5G NR
+Mobile broadband
+NGMN Alliance
+Push-to-talk
+MIMO
+VoLTE
+Wi-Fi calling
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Autoradiopuhelin&oldid=643504089"
+		
+		Categories: Mobile radio telephone systemsHidden categories: Articles lacking sources from May 2007All articles lacking sources
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					ČeštinaEspañolفارسیLatviešuРусскийSuomi				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 21 January 2015, at 11:01 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.164","ppvisitednodes":{"value":375,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":60456,"limit":2097152},"templateargumentsize":{"value":8,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  116.056      1 -total"," 72.01%   83.577      1 Template:Unreferenced"," 58.35%   67.713      1 Template:Ambox"," 33.07%   38.378      8 Template:Navbox"," 27.90%   32.374      1 Template:Mobile_telecommunications_standards"," 24.21%   28.092      1 Template:Find_sources_mainspace"]},"scribunto":{"limitreport-timeusage":{"value":"0.047","limit":"10.000"},"limitreport-memusage":{"value":2275439,"limit":52428800}},"cachereport":{"origin":"mw1254","timestamp":"20191206172533","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Autoradiopuhelin","url":"https:\/\/en.wikipedia.org\/wiki\/Autoradiopuhelin","sameAs":"http:\/\/www.wikidata.org\/entity\/Q385602","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q385602","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-22T02:28:53Z","dateModified":"2015-01-21T11:01:43Z"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1332"});});
+
+

@@ -1,0 +1,462 @@
+
+
+Hadamard's dynamical system - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfmqlQpAICMAADX-8HsAAACM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hadamard's_dynamical_system","wgTitle":"Hadamard's dynamical system","wgCurRevisionId":930233457,"wgRevisionId":930233457,"wgArticleId":5424787,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Chaotic maps","Ergodic theory"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Hadamard's_dynamical_system",
+"wgRelevantArticleId":5424787,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5637574","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Hadamard's dynamical system
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Chaotic dynamical system, a type of "billiards"
+In physics and mathematics, the Hadamard dynamical system (also called Hadamard's billiard or the Hadamard–Gutzwiller model[1]) is a chaotic dynamical system, a type of dynamical billiards. Introduced by Jacques Hadamard in 1898,[2] and studied by Martin Gutzwiller in the 1980s,[3][4] it is the first dynamical system to be proven chaotic.
+The system considers the motion of a free (frictionless) particle on the Bolza surface, i.e, a two-dimensional surface of genus two (a donut with two holes) and constant negative curvature; this is the simplest compact Riemann surface. Hadamard was able to show that every particle trajectory moves away from every other: that all trajectories have a positive Lyapunov exponent.
+Frank Steiner argues that Hadamard's study should be considered to be the first-ever examination of a chaotic dynamical system, and that Hadamard should be considered the first discoverer of chaos.[5] He points out that the study was widely disseminated, and considers the impact of the ideas on the thinking of Albert Einstein and Ernst Mach.
+The system is  particularly important in that in 1963, Yakov Sinai, in studying Sinai's billiards as a model of the classical ensemble of a Boltzmann–Gibbs gas, was able to show that the motion of the atoms in the gas follow the trajectories in the Hadamard dynamical system.
+
+Exposition[edit]
+The motion studied is that of a free particle sliding frictionlessly on the surface, namely, one having the Hamiltonian
+
+
+  
+    
+      
+        H
+        (
+        p
+        ,
+        q
+        )
+        =
+        
+          
+            1
+            
+              2
+              m
+            
+          
+        
+        
+          p
+          
+            i
+          
+        
+        
+          p
+          
+            j
+          
+        
+        
+          g
+          
+            i
+            j
+          
+        
+        (
+        q
+        )
+      
+    
+    {\displaystyle H(p,q)={\frac {1}{2m}}p_{i}p_{j}g^{ij}(q)}
+  
+
+where m is the mass of the particle, 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle q^{i}}
+  
+, 
+  
+    
+      
+        i
+        =
+        1
+        ,
+        2
+      
+    
+    {\displaystyle i=1,2}
+  
+ are the coordinates on the manifold, 
+  
+    
+      
+        
+          p
+          
+            i
+          
+        
+      
+    
+    {\displaystyle p_{i}}
+  
+ are the conjugate momenta:
+
+
+  
+    
+      
+        
+          p
+          
+            i
+          
+        
+        =
+        m
+        
+          g
+          
+            i
+            j
+          
+        
+        
+          
+            
+              d
+              
+                q
+                
+                  j
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle p_{i}=mg_{ij}{\frac {dq^{j}}{dt}}}
+  
+
+and
+
+
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+        =
+        
+          g
+          
+            i
+            j
+          
+        
+        (
+        q
+        )
+        d
+        
+          q
+          
+            i
+          
+        
+        d
+        
+          q
+          
+            j
+          
+        
+        
+      
+    
+    {\displaystyle ds^{2}=g_{ij}(q)dq^{i}dq^{j}\,}
+  
+
+is the metric tensor on the manifold. Because this is the free-particle Hamiltonian, the solution to the Hamilton–Jacobi equations of motion are simply given by the geodesics on the manifold.
+Hadamard was able to show that all geodesics are unstable, in that they all diverge exponentially from one another, as 
+  
+    
+      
+        
+          e
+          
+            λ
+            t
+          
+        
+      
+    
+    {\displaystyle e^{\lambda t}}
+  
+ with positive Lyapunov exponent
+
+
+  
+    
+      
+        λ
+        =
+        
+          
+            
+              
+                2
+                E
+              
+              
+                m
+                
+                  R
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \lambda ={\sqrt {\frac {2E}{mR^{2}}}}}
+  
+
+with E the energy of a trajectory, and 
+  
+    
+      
+        K
+        =
+        −
+        1
+        
+          /
+        
+        
+          R
+          
+            2
+          
+        
+      
+    
+    {\displaystyle K=-1/R^{2}}
+  
+ being the constant negative curvature of the surface.
+
+References[edit]
+
+
+^ Aurich, R.; Sieber, M.; Steiner, F. (1 August 1988). "Quantum Chaos of the Hadamard–Gutzwiller Model" (PDF). Physical Review Letters. 61 (5): 483–487. Bibcode:1988PhRvL..61..483A. doi:10.1103/PhysRevLett.61.483. PMID 10039347..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ Hadamard, J. (1898). "Les surfaces à courbures opposées et leurs lignes géodésiques". J. Math. Pures Appl. 4: 27–73.
+
+^ Gutzwiller, M. C. (21 July 1980). "Classical Quantization of a Hamiltonian with Ergodic Behavior". Physical Review Letters. 45 (3): 150–153. Bibcode:1980PhRvL..45..150G. doi:10.1103/PhysRevLett.45.150.
+
+^ Gutzwiller, M. C. (1985). "The Geometry of Quantum Chaos". Physica Scripta. T9: 184–192. Bibcode:1985PhST....9..184G. doi:10.1088/0031-8949/1985/T9/030.
+
+^ Steiner, Frank (1994). "Quantum Chaos".  In Ansorge, R. (ed.). Schlaglichter der Forschung: Zum 75. Jahrestag der Universität Hamburg 1994. Berlin: Reimer. pp. 542–564. arXiv:chao-dyn/9402001. Bibcode:1994chao.dyn..2001S. ISBN 978-3-496-02540-5.
+
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Hadamard%27s_dynamical_system&oldid=930233457"
+		
+		Categories: Chaotic mapsErgodic theoryHidden categories: Articles with short description
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+									
+				Add links			
+		
+				
+		
+				
+						
+								 This page was last edited on 11 December 2019, at 03:01 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.325","ppvisitednodes":{"value":415,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10596,"limit":2097152},"templateargumentsize":{"value":388,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16375,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  276.558      1 -total"," 73.21%  202.463      1 Template:Reflist"," 54.45%  150.577      4 Template:Cite_journal"," 25.12%   69.470      1 Template:Short_description"," 19.26%   53.266      1 Template:Pagetype"," 13.73%   37.959      1 Template:Cite_book","  1.15%    3.174      2 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.138","limit":"10.000"},"limitreport-memusage":{"value":3198177,"limit":52428800}},"cachereport":{"origin":"mw1276","timestamp":"20191217194330","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Hadamard's dynamical system","url":"https:\/\/en.wikipedia.org\/wiki\/Hadamard%27s_dynamical_system","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5637574","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5637574","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-06-04T21:57:57Z","dateModified":"2019-12-11T03:01:17Z","headline":"chaotic dynamical system, a type of \"billiards\""}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1333"});});
+
+

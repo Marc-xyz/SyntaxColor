@@ -1,0 +1,249 @@
+
+
+National Cyber Security Authority (Israel) - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfjz7ApAICgAAGPljYgAAAAS","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"National_Cyber_Security_Authority_(Israel)","wgTitle":"National Cyber Security Authority (Israel)","wgCurRevisionId":898928874,"wgRevisionId":898928874,"wgArticleId":57068258,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from April 2018","All articles needing additional references",
+"Wikipedia articles needing reorganization from April 2018","All articles with incomplete citations","All pages needing cleanup","Articles with multiple maintenance issues","National cyber security centres","Emergency services in Israel","Organizations based in Tel Aviv"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"National_Cyber_Security_Authority_(Israel)","wgRelevantArticleId":57068258,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
+"wgWikibaseItemId":"Q25491842","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons",
+"ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	National Cyber Security Authority (Israel)
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+      This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "National Cyber Security Authority" Israel – news · newspapers · books · scholar · JSTOR  (April 2018) (Learn how and when to remove this template message)This article may be in need of reorganization to comply with Wikipedia's layout guidelines. Please help by editing the article to make improvements to the overall structure.  (April 2018) (Learn how and when to remove this template message)This article needs more complete citations for verification. Please help improve this article by adding missing citation information so that sources are clearly identifiable. Citations should include title, publication, author, date, and (for paginated material) the page number(s). Several templates  are available to assist in formatting. Improperly sourced material may be challenged and removed.  (April 2018) (Learn how and when to remove this template message)
+    
+ (Learn how and when to remove this template message)
+National Cyber Security Authority (NCSA)Agency overviewFormed2016Dissolved2018HeadquartersTel Aviv, IsraelMinister responsiblePrime Minister of IsraelAgency executiveBuky Carmeli, Director General
+The National Cyber Security Authority (NCSA), located within the Prime Minister's office, was an Israeli security entity responsible for protecting the Israeli civilian cyber space, during 2016-2018. The NCSA provided incident handling services and guidance for all civilian entities as well as all critical infrastructures in the Israeli economy, and works towards increasing the resilience of the civilian cyber space.
+At the end of 2017, the Israeli government decided to unify the NCSA with another unit in the Prime Minister's Office, the Israeli National Cyber Bureau, which served as the Prime Minister's Advisory entity on cyber policy, into one unit - the National Cyber Directorate.
+
+Contents
+
+1 Background
+2 Government Resolutions 2443 and 2444
+3 Establishment of the NCSA
+4 Dissolution of the NCSA and establishment of a new unified body
+
+
+
+Background[edit]
+Israel was one of the first countries to recognize, at the beginning of the millennium, the need to protect the national vital digital systems. Thus, in February 2002 the Israeli government passed a resolution assigning the Israel Security Agency ("Shin Bet") with the responsibility for protecting those systems, a resolution later consolidated in designated legislation.
+A decade later, the Israeli government faced a considerable challenge: although the model designed to protect the CI was proven successful, it was evident that as the country's connectivity and dependency on technology increases, and that this calls for a designated model.
+In November 2010, Israeli Prime-Minister Benyamin Netanyahu nominated a special team for devising a National Cyber Program, also known as the "Cyber Initiative". The team, headed by General (Ret.) Itzchak Ben-Israel, worked for several months, dividing into a number of sub-committees manned by dozens of experts. The team examined all the components vital to the need of the State of Israel to cope successfully in cyberspace, including the analysis of national benefits regarding aspects of economy, academy and National security. The teamwork was concluded in May 2011 and summed-up in a special report dispatched to the Prime Minister.
+The team's main conclusion was that "cyber-attacks should be considered as a substantial potential threat to the functional continuity of the state, its institutions and its citizens", and that "a central gap has been identified in the cyber defense of the civil sector at large".
+At the core of its report, the team recommended that two bodies be established – namely, a "National Cyber Bureau" and an "executive body for the security of the civil sector" by its side. The team also recommended to set-up a national "cyber defence foil", comprising automated computerized systems and manned systems, together defending pre-defined computer systems. It also motioned for the establishment of a national CERT. The team indicated that the civil and security components of cyberspace are interlaced and are, to all intents and purposes, inseparable, and that there is a need for a broad national perspective and for an understanding that the preparedness of the State of Israel to the challenges of cyberspace is a national undertaking of the first order.
+Following that, in August 2011 the Israeli government passed a resolution to establish the Israeli National Cyber Bureau (INCB), designated to assist the prime minister, the government and its committees in forging a National Cyber Policy and fostering the application of its aspects of National Security. Specifically, the INCB was assigned to develop a national cyber security strategy.
+The development of that strategy generated a professional and important discourse on the national level regarding possible ways to establish an operational body responsible for the defence of the civil cyberspace. The need for it has never been in doubt; however, the manner in which this need should be satisfied has been the subject of many discussions and some poignant disputes, and was finally resolved through the government's decision to establish a civil body in the Prime Minister's Office – the NCSA.
+
+Government Resolutions 2443 and 2444[edit]
+In February 2015, the 33rd Government of Israel approved two government resolutions concerning the Israeli cyber defense, centered by Government Resolution 2444, "Promoting National Preparedness for Cyber Defense". In this resolution, the government stipulated that the defense of the proper functioning in cyberspace is a vital, national state goal and a vital national interest of the state of Israel.
+It was accordingly decreed that the aim of the NCSA is to defend cyberspace. Its functions include:
+a.	Managing, operating and carrying out all operational defence efforts in cyberspace on the national level, as needed in order to give a whole and continuous response to cyber-attacks.
+b.	Operating the national CERT for the benefit of the economy as a whole, including the improvement of cyber resilience, and to assist in dealing with cyber threats and coping with cyber incidents.
+c.	Building and enhancing the cyber resilience of the Israeli economy through preparedness, competence and regulation, including the enhancement of sectors and organizations, guidance, regulation of the cyber defence services market, licensing, standardization, exercising and general training, Incentivization, etc.
+d.	Forging, implementation and assimilation of a national Cyber Defence Methodology.
+e.	Performing any other task stipulated by the prime minister, according to the NCSA's aim.
+
+Establishment of the NCSA[edit]
+The NCSA began its activities in early 2016, upon the nomination of its Director General, Buky Carmeli. Carmeli came to the post after serving for over 20 years in Unit 8200 and in the defense establishment. In his last position he served as head of the technological unit of the Malamab, where he led cyber defense in the defense establishment and defense industries, and in the past he was involved in initiatives in the field of protection of sensitive systems. Prior to that position he headed a hedge fund that invests in international technology funds.
+NCSA was established as a body which combines security and operational characteristics with civil ones, to synergistically lead, together with all other State security organizations, the defense efforts against cyber-attacks, aimed at Israel’s civil sector.
+One of the core missions of the NCSA is to assist Israeli organizations and the Israeli public at large in dealing with cyber threats – irrespective of the identity of those responsible for them. This assistance is realized through the NCSA’s CERT (the National CERT). Located in the city of Beer Sheva at the heart of southern Israel, the CERT is a 24/7 center, offering aid to the general public: from the National Critical Infrastructure companies to the man on the street. Beside the CERT, special sectorial centers were established, assisting the government ministries, the Financial Sector and the Energy Sector, and had already proven the value of creating sectorial expertise.
+In many cases, after a professional analysis of the significance of the incident, it was decided to send response teams to assist the organization in containing the attack. For example, in was published in the media that during April 2017, the NCSA had thwarted a largescale cyber attack targeting over 120 organizations in Israel, and that in June, the NCSA dealt with a large cyberattack on Israeli hospitals.
+As a governmental entity facing the public, the NCSA was aware that information being shared is often sensitive or confidential due to matters of privacy, intellectual property, etc. Therefore, its actions are compatible with the specific guidelines determined by the Attorney General and the Department of Justice.
+The NCSA acted not only in removing attacks that had already penetrated organizations, but also helped deal with cyber threats before they reach the organizations. Thus, the BCSA led the national coping with dozens of cyber threats, such as: Wannacry, NotPetya, CCleaner and Bad Rabbit.
+In addition, since its creation, the NCSA has been active in the global cyber security community and has had operational relations with many bodies from various countries across the globe. These relationships generated not only shared insights and orderly work processes, but also real-time operational aid. Because of this connection, dozens of countries have in many cases assisted the NCSA's efforts to curb international attacks on Israeli organizations. Also, it was reported that the NCSA had created a framework for cooperation with the DHS's cyber protection body.
+Another important activity the NCSA has been conducting since its establishment is boosting the economy’s cyber resilience. This activity is conducted in consent, by means of raising organizations awareness to cyber threats, and through guidance, when public interest requires it.
+Since March 2017, the NCSA was responsible by law to guide national CI organizations, such as the Israel Electric Company and Israel Railway, how to cope with cyber risks, which might shut down critical systems under their direct responsibility. Meanwhile, the NCSA began work with the sectorial regulators, in order to apply cyber-defence norms to various defence objectives. Thus, the NCSA and the Israeli government set up dedicated units within the regulatory authorities, and their activities have already begun to bear fruit, in the shape of risk assessment surveys and “cyber annexes” which help guide the relevant organizations under the general authority of each regulator.
+In Addition, in order to assist the economy in preparation for cyber threats, the NCSA published in early 2017 the "Organizational Cyber Defence Methodology". It supplies every organization in Israel, be it large or small, with tools for the management and optimization of its defense against the risks of cyber threats, and assists it with devising a well-ordered work plan. Thousands of Israeli organizations are already working according to this methodology, which is accessible to all as a free service rendered to the Israeli economy (pdf).
+Meanwhile, the NCSA has invested efforts in promoting a professional cyber nationwide work force. This was carried out in several layers: initiating (in conjunction with the Ministry of Education) a strategic plan to educate youngsters in cyber; incentivizing the labor market to shift towards cyber defense jobs; and, finally, setting a professional benchmark for those who work in this field in the government ministries.
+In this context, the NCSA was working to incorporate diverse elements of Israeli society into the industry and the government. Thus, in the course of 2017, vocational courses were opened for the ultra-orthodox community (both men and women), financed by the Ministry of Work and Welfare.
+
+Dissolution of the NCSA and establishment of a new unified body[edit]
+As mentioned above, following the recommendations of the INCB, the government decided in February 2015 to establish the NCSA as the central operational body for cyber Security in Israel, which will work alongside the INCB as part of a "National Cyber Directorate". The decision to operate two independent units within one directorate was made at the time due to the need to build and strengthen separately the two branches – both the policy (which the INCB is responsible for) and the operational (NCSA). Therefore, each of the units was appointed a separate Director General and they were managed as independent entities.
+Towards the end of 2017, following the Prime Minister's directive to concentrate efforts in the field of cyber defense, it was decided to unify the authority with the national cyber headquarters, and in December 2017 the Government of Israel passed the government's resolution to unify them into one unit, the National Cyber Directorate, which will be responsible for all aspects of cyber defense in the civilian sphere, from the formulation of policy through R&D, to the operational defense of cyberspace. Its first Director General was Igal Una, the first to be responsible for both operational defense (which was the responsibility of the NCSA) and for the construction of the state force (which was the responsibility of the INCB).
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=National_Cyber_Security_Authority_(Israel)&oldid=898928874"
+		
+		Categories: National cyber security centresEmergency services in IsraelOrganizations based in Tel AvivHidden categories: Articles needing additional references from April 2018All articles needing additional referencesWikipedia articles needing reorganization from April 2018All articles with incomplete citationsAll pages needing cleanupArticles with multiple maintenance issues
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					עברית				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 26 May 2019, at 20:41 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.266","ppvisitednodes":{"value":1125,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":50982,"limit":2097152},"templateargumentsize":{"value":12844,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  225.886      1 -total"," 81.68%  184.507      4 Template:Ambox"," 64.73%  146.222      1 Template:Multiple_issues"," 35.22%   79.552      1 Template:Infobox_Government_agency"," 29.94%   67.634      1 Template:More_citations_needed"," 29.50%   66.634      1 Template:Infobox"," 17.72%   40.026      1 Template:Find_sources_mainspace","  7.94%   17.935      7 Template:Unbulleted_list","  4.86%   10.974      1 Template:Cleanup_Partial_Cites","  4.30%    9.709      1 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.080","limit":"10.000"},"limitreport-memusage":{"value":3195511,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20191209185512","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"National Cyber Security Authority (Israel)","url":"https:\/\/en.wikipedia.org\/wiki\/National_Cyber_Security_Authority_(Israel)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q25491842","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q25491842","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2018-04-08T16:32:04Z","dateModified":"2019-05-26T20:41:35Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/81\/Emblem_of_Israel_dark_blue_border.svg"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1319"});});
+
+

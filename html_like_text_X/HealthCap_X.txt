@@ -1,0 +1,282 @@
+
+
+HealthCap - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqZmgpAAEIAABLNTqIAAAAY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"HealthCap","wgTitle":"HealthCap","wgCurRevisionId":921506946,"wgRevisionId":921506946,"wgArticleId":37926891,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Venture capital firms of Sweden","Private equity and venture capital investors","Private equity firms of Sweden","Life sciences industry"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName"
+:"HealthCap","wgRelevantArticleId":37926891,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5690359","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":
+"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	HealthCap
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		HealthCap is a specialized provider of venture capital within life sciences. HealthCap invests in innovative companies with focus on therapeutics.[1] As of 2017, HealthCap has invested in over 100 companies since inception and completed initial public offerings of more than 40 companies.[2] HealthCap has offices in Stockholm, Oslo and Lausanne.
+
+TypePrivateIndustryVenture CapitalFounded1996HeadquartersStockholm, Sweden, Oslo, Norway and Lausanne, SwitzerlandTotal assetsEUR 1 billionNumber of employees~23 (2017)Websitewww.healthcap.eu
+Contents
+
+1 History
+2 Investments
+3 References
+4 External links
+
+
+
+History[edit]
+The firm was founded in 1996 by Björn Odlander[3]  and Peder Fredrikson,[4] and the first fund was started the same year. As of 2017, HealthCap has established seven funds and financed 106 companies, where 39 have been taken public on nine different markets. The most recent fund, HealthCap VII, was established in the fall of 2015.
+In 2017, HealthCap had approximately 23 employees out of which ten are partners. The team combines venture capital investing experience with competencies and work experiences from small as well as large companies across the healthcare industry, spanning disciplines of scientific research, drug development, clinical practice, investment banking, and industry management.
+
+
+Investments[edit]
+HealthCap has raised seven main funds. HealthCap IV-VII are Delaware Limited Partnerships with Swiss general partners. Investors in HealthCap funds include, among others, European Investment Fund, Skandia Life Insurance, the 4th and 6th Swedish National Pension Funds, The Kresge Foundation, Mayo Clinic, Northwestern University, University of Michigan, Vanderbilt University and Washington University. HealthCap has committed capital exceeding EUR 1 billion.[5][6]
+HealthCap invests in companies developing disruptive technologies that hold the potential to change clinical practice. Over the years HealthCap has invested in more than 100 companies. The portfolio companies have developed more than 20 pharmaceutical products and over 40 med-tech products to the market.[7] Many of these products, such as Firazyr®, Xofigo®, Tracleer®, are breakthrough therapies addressing life-threatening diseases. Examples of technologies financed by HealthCap are 
+
+ Pulmonary arterial hypertension therapy developed by Actelion. The company was acquired by J&J in 2017.
+ Xofigo® developed by Algeta[8] for treatment of bone metastasis in prostate cancer.
+ A range of drugs in development for rare and ultra-rare genetic diseases by Ultragenyx.
+ Restylane, an injectable filler developed by Q-Med. The company was acquired by Galderma in 2011.
+ Trans-femoral Aortic valve replacement developed by CoreValve[9]  that evades the need for open heart surgery when replacing a malfunctioning heart valve.
+ High-throughput protein screening technologies developed by Five Prime Therapeutics.
+ Injectable synthetic bone substitute, Cerament, to enhance bone remodeling and fracture healing developed by BoneSupport AB.
+ WTX101, an orphan drug currently in development by Wilson Therapeutics for the treatment of Wilson's disease.[10][11]
+References[edit]
+
+^ "Portfolio companies". HealthCap..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "Our Story - HealthCap". HealthCap. Retrieved 2017-07-14.
+
+^ "Björn Odlander". Bloomberg Businessweek.
+
+^ "Peder Fredrikson". Bloomberg Businessweek.
+
+^ "Company Overview of HealthCap". Bloomberg Businessweek.
+
+^ "Nordic HealthCap announces final close of its fourth biotech fund at $322m". The Alternative Assets Network.
+
+^ "HealthCap website". HealthCap.
+
+^ "Algeta ASA Raises Euro 23 Million in Series A Round". CRM.
+
+^ "Medtronic Buying CoreValve for $700 Million+". Thomson Reuters.
+
+^ [1] "Wilson Therapeutics" Life Science Sweden. April 17, 2014.
+
+^ Ala A, Walker AP, Ashkan K, Dooley JS, Schilsky, ML (2007). "Wilson's disease". Lancet 369 (9559): 397-408.
+
+
+External links[edit]
+HealthCap website
+vtePrivate equity and venture capital investment firmsInvestment strategy
+Venture
+Growth
+Mezzanine
+Secondaries
+Leveraged buyout
+History
+History of private equity and venture capital
+Early history of private equity
+Private equity in the 1980s
+Private equity in the 1990s
+Private equity in the 2000s
+Investors
+Angel investor
+Commercial bank
+Corporate venture capital
+Crowdfunding
+Family office
+Endowment
+Fund of funds
+High-net-worth individual
+Institutional investor
+Insurance company
+Investment bank
+Merchant bank
+Pension fund
+Sovereign wealth fund
+
+Private equity firms
+Venture capital firms
+Portfolio companies
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=HealthCap&oldid=921506946"
+		
+		Categories: Venture capital firms of SwedenPrivate equity and venture capital investorsPrivate equity firms of SwedenLife sciences industry
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					DanskNorsk bokmålSvenska				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 16 October 2019, at 03:24 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.320","walltime":"0.416","ppvisitednodes":{"value":1939,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":28638,"limit":2097152},"templateargumentsize":{"value":1392,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":25540,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  360.287      1 -total"," 41.40%  149.175      1 Template:Infobox_company"," 35.96%  129.551      1 Template:Infobox"," 31.82%  114.659      8 Template:Cite_web"," 14.19%   51.109      8 Template:Flag_icon"," 13.81%   49.756     11 Template:Wikidata"," 13.10%   47.192      1 Template:Br_separated_entries","  3.77%   13.581      3 Template:Country_data_USA","  3.49%   12.582      1 Template:Private_equity_firms","  2.72%    9.785      1 Template:Comma_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.150","limit":"10.000"},"limitreport-memusage":{"value":3969401,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20191218174321","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"HealthCap","url":"https:\/\/en.wikipedia.org\/wiki\/HealthCap","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5690359","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5690359","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-12-14T09:13:10Z","dateModified":"2019-10-16T03:24:51Z"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1271"});});
+
+

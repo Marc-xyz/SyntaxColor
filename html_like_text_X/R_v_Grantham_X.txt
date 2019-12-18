@@ -1,0 +1,231 @@
+
+
+R v Grantham - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XflB3ApAIC8AADTJXy8AAAAD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"R_v_Grantham","wgTitle":"R v Grantham","wgCurRevisionId":842411123,"wgRevisionId":842411123,"wgArticleId":19946162,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use British English Oxford spelling from April 2017","Use dmy dates from April 2017","United Kingdom insolvency case law","High Court of Justice cases","1984 in case law","1984 in British law"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"R_v_Grantham","wgRelevantArticleId":19946162,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7278272","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
+"ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	R v Grantham
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+R v GranthamCourtHigh CourtCitation(s)[1984] QB 675Court membershipJudge(s) sittingLord Lane CJ, Boreham J and Stuart-Smith JKeywordsFraudulent trading
+R v Grantham [1984] QB 675 is a UK insolvency law case which decides that an intent to defraud, now under the Insolvency Act 1986 section 213, needs to be established for a conviction for fraudulent trading, and knowing that there was no prospect of being able to pay debt when they fell due, even if there might be a distant prospect in the future, constituted an intent to defraud.
+
+Contents
+
+1 Facts
+2 Judgment
+3 Significance
+4 See also
+5 Notes
+
+
+
+Facts[edit]
+vteFraudulent trading casesRe Sarflax Ltd [1979] Ch 592R v Grantham [1984] QB 675Re Augustus Barnett & Son Ltd [1986] BCLC 170Re a Company (No 001418 of 1988) [1990] BCC 526Morphitis v Bernasconi [2003] EWCA Civ 289Jetivia SA v Bilta (UK) Limited (in liquidation) [2015] UKSC 23see United Kingdom insolvency law
+Mr Grantham was tried for fraudulent trading, contrary to the Companies Act 1948 section 332(3) (now Insolvency Act 1986 section 213). The jury were directed that they could find dishonesty and intent to defraud if they thought Mr Grantham obtained credit when he knew there was no good reason for thinking that his company would be able to repay the debt when it became due.
+Mr Grantham was convicted. He appealed that the jury was given the wrong direction.
+
+Judgment[edit]
+Lord Lane CJ, Boreham J and Stuart-Smith J dismissed Mr Grantham's appeal. They held there was no error in the direction. Applying the House of Lords case Welham v DPP [1961] AC 103, under section 332 (now section 213, Insolvency Act 1986) an intent to defraud was established on proof of intention to dishonestly prejudice creditors in being repaid.
+
+Significance[edit]
+In a previous case from 1960, Re White & Osmond (Parkstone) Ltd[1] Buckley J held that 'there is nothing to say that directors who genuinely believe that the clouds will roll away and the sunshine of prosperity will shine upon them again and disperse the fog of their depression are not entitled to incur credit to help them get over the bad time.' But this approach, allowing directors to keep incurring losses when they knew a company was unable to meet debts was disapproved by R v Grantham. If a director knew there was no short term prospect of repaying debts, it was irrelevant that he thought there may some hypothetical day be "blue skies" ahead.
+
+See also[edit]
+vteUnlawful trading casesIA 1986 s 213 and CA 2006 s 993Morphitis v Bernasconi [2003] EWCA Civ 289Re Gerald Cooper (Chemicals) Ltd [1978] 2 Ch 262R v Grantham  [1984] QB 675Re Augustus Barnett & Son Ltd [1986] BCLC 170Re Sarflax Ltd [1979] Ch 592Re a Company (No 001418 of 1988) [1990] BCC 526IA 1986 s 214Re Produce Marketing Consortium Ltd (No 2) [1989] BCLC 520Re Purpoint Ltd [1991] BCC 121Re Brian D Pierson (Contractors) Ltd [1999] BCC 26Singer v Beckett [2007] 2 BCLC 287Ward v Perks [2007] BCC 937Re Oasis Merchandising Services Ltd [1995] 2 BCLC 493see Unlawful trading and UK insolvency law
+Re Augustus Barnett & Son Ltd [1986] BCLC 170
+Notes[edit]
+
+
+^ [1984] 2 All ER 166
+
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=R_v_Grantham&oldid=842411123"
+		
+		Categories: United Kingdom insolvency case lawHigh Court of Justice cases1984 in case law1984 in British lawHidden categories: Use British English Oxford spelling from April 2017Use dmy dates from April 2017
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+									
+				Add links			
+		
+				
+		
+				
+						
+								 This page was last edited on 22 May 2018, at 08:20 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.172","walltime":"0.251","ppvisitednodes":{"value":1811,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":27391,"limit":2097152},"templateargumentsize":{"value":1301,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":268,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  214.822      1 -total"," 49.15%  105.577      1 Template:Infobox_court_case"," 44.39%   95.363      1 Template:Infobox"," 15.92%   34.208      1 Template:Use_British_(Oxford)_English"," 13.80%   29.641      1 Template:Clist_fraudulent_trading"," 13.72%   29.479      3 Template:If_empty"," 13.12%   28.180      2 Template:Caselist"," 10.31%   22.148      1 Template:Clist_unlawful_trade","  7.97%   17.113      2 Template:DMCA","  6.78%   14.573      2 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.046","limit":"10.000"},"limitreport-memusage":{"value":1924000,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20191215150341","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"R v Grantham","url":"https:\/\/en.wikipedia.org\/wiki\/R_v_Grantham","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7278272","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7278272","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-10-26T17:14:58Z","dateModified":"2018-05-22T08:20:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/98\/Royal_Coat_of_Arms_of_the_United_Kingdom.svg"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1326"});});
+
+

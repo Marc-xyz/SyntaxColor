@@ -1,0 +1,497 @@
+
+
+Glass recycling - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfYJsApAAEUAAFZp6zoAAAAT","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Glass_recycling","wgTitle":"Glass recycling","wgCurRevisionId":930849121,"wgRevisionId":930849121,"wgArticleId":3053725,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from December 2019","Articles containing potentially dated statements from 2006","All articles containing potentially dated statements","Commons category link is on Wikidata","Glass chemistry",
+"Glass engineering and science","Recycling by material","Glass production"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Glass_recycling","wgRelevantArticleId":3053725,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1416361","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":
+"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Glass recycling
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+  Bottles in different colors
+  Mixed color glass cullet
+  Public glass waste collection point for different colors of containers
+Glass recycling is the processing of waste glass into usable products. Glass that is crushed and ready to be remelted is called cullet.[1] There are two types of cullet: internal and external. Internal cullet is composed of defective products detected and rejected by a quality control process during the industrial process of glass manufacturing, transition phases of product changes (such as thickness and colour changes) and production offcuts. External cullet is waste glass that has been collected or reprocessed with the purpose of recycling. External cullet (which can be pre- or post-consumer) is classified as waste. The word "cullet", when used in the context of end-of-waste, will always refer to external cullet.
+To be recycled, glass waste needs to be purified and cleaned of contamination. Then, depending on the end use and local processing capabilities, it might also have to be separated into different colors. Many recyclers collect different colors of glass separately since glass retains its color after recycling. The most common colours used for consumer containers are clear (flint) glass, green glass, and brown (amber) glass. Glass is ideal for recycling since none of the material is degraded by normal use.
+Many collection points have separate bins for clear (flint), green and brown (amber). Glass re-processors intending to make new glass containers require separation by color, because glass tends to retain its color after recycling. If the recycled glass is not going to be made into more glass, or if the glass re-processor uses newer optical sorting equipment, separation by color at the collection point may not be required. Heat-resistant glass, such as Pyrex or borosilicate glass, must not be part of the glass recycling stream, because even a small piece of such material will alter the viscosity of the fluid in the furnace at remelt.
+[2]
+
+Contents
+
+1 Processing of external cullet
+2 Recycling into glass containers
+3 Recycling into other products
+4 By country
+
+4.1 Australia
+4.2 Germany
+4.3 United Kingdom
+4.4 United States of America
+
+
+5 See also
+6 References
+7 External links
+
+
+
+Processing of external cullet[edit]
+To be able to use external cullet in production, any contaminants should be removed as much as possible. Typical contaminations are:
+
+Organics: Paper, plastics, caps, rings, PVB foils for flat glass
+Inorganics: Stones, ceramics, porcelains
+Metals: Ferrous and non-ferrous metals
+Heat resistant and lead glass
+Manpower or machinery can be used in different stages of purification. Since they melt at higher temperatures than glass, separation of inorganics, the removal of heat resistant glass and lead glass is critical. In the modern recycling facilities, dryer systems and optical sorting machines are used. The input material should be sized and cleaned for the highest efficiency in automatic sorting. More than one free fall or conveyor belt sorter can be used, depending on the requirements of the process. Different colors can be sorted by optical sorting machines.
+
+Recycling into glass containers[edit]
+  A variant of the "Tidyman" symbol, intended to encourage people to recycle glass
+Glass bottles and jars are infinitely recyclable.[3] The use of recycled glass in manufacturing conserves raw materials and reduces energy consumption.[4] Because the chemical energy required to melt the raw materials has already been expended, the use of cullet can significantly reduce energy consumption compared with manufacturing new glass from silica (SiO2), soda ash (Na2CO3), and lime (CaCO3). Soda lime glass from virgin raw materials theoretically requires approximately 2.671 GJ/tonne compared to 1.886 GJ/tonne to melt 100% glass cullet.[5] As a general rule, every 10% increase in cullet usage results in an energy savings of 2–3% in the melting process, with a theoretical maximum potential of 30% energy saving.[5] Every metric ton (1,000 kg) of waste glass recycled into new items saves 315 kilograms (694 lb) of carbon dioxide from being released into the atmosphere during the manufacture of new glass.[6]
+
+Recycling into other products[edit]
+The use of the recycled glass as aggregate in concrete has become popular, with large-scale research on that application being carried out at Columbia University in New York. Recycled glass greatly enhances the aesthetic appeal of the concrete. Recent research has shown that concrete made with recycled glass aggregates have better long-term strength and better thermal insulation, due to the thermal properties of the glass aggregates.[7] Glass which is not recycled, but crushed, reduces the volume of waste sent to landfill.[8][2] Waste glass may also be kept out of landfill by using it for roadbed aggregate or landfill cover.[4]
+Glass aggregate, a mix of colors crushed to a small size, is substituted for pea gravel or crushed rock in many construction and utility projects, saving municipalities, such as the City of Tumwater, Washington Public Works, thousands of dollars (depending on the size of the project). Glass aggregate is not sharp to handle. In many cases, the state Department of Transportation has specifications for use, size and percentage of quantity for use.  Common applications are as pipe bedding—placed around sewer, storm water or drinking water pipes, to transfer weight from the surface and protect the pipe.  Another common use is as fill to bring the level of a concrete floor even with a foundation.
+Other uses for recycled glass include:
+
+Fiberglass insulation products
+Ceramic sanitary ware production
+As a flux in brick manufacture
+Astroturf
+Agriculture and landscape applications, such as top dressing, root zone material or golf bunker sand
+Recycled glass countertops
+As water filtration media
+Abrasives
+Mixed waste streams may be collected from materials recovery facilities or mechanical biological treatment systems. Some facilities can sort mixed waste streams into different colours using electro-optical sorting units.
+
+By country[edit]
+Australia[edit]
+In 2019, many Australian cities after decades of poor planning and minimum investment are winding back their glass recycling programmes in favour of plastic usage.[9]
+For many years, there was only one state in Australia with a return deposit scheme on glass containers. Other states had unsuccessfully tried to lobby for glass deposit schemes.[10] More recently this situation has changed dramatically, with the original scheme in South Australia now joined by legislated container deposit schemes in New South Wales,[11] Queensland,[12] Australian Capital Territory,[13] and the Northern Territory, with schemes planned in Western Australia (2020) and Tasmania (2022). Victoria is the only state not yet planning to introduce such a scheme.
+
+Germany[edit]
+In 2004, Germany recycled 2.116 million tons of glass. Reusable glass or plastic (PET) bottles are available for many drinks, especially beer and carbonated water as well as soft drinks (Mehrwegflaschen). The deposit per bottle (Pfand) is €0.08-€0.15, compared to €0.25 for recyclable but not reusable plastic bottles. There is no deposit for glass bottles which do not get refilled.
+
+United Kingdom[edit]
+  Vehicle emptying a glass recycling container in Vienna
+Glass collection points, known as bottle banks are very common near shopping centres, at civic amenity sites and in local neighborhoods in the United Kingdom. The first bottle bank was introduced by Stanley Race CBE, then president of the Glass Manufacturers' Federation and Ron England in Barnsley on 6 June 1977.[14] Development work was done by the DoE at Warren Springs laboratory, Stevenage, (now AERA at Harwell) and Nazeing Glass Works, Broxbourne to prove if a usable glass product could be made from over 90% recycled glass. It was found necessary to use magnets to remove unwanted metal closures in the mixture.
+Bottle banks commonly stand beside collection points for other recyclable waste like paper, metals and plastics. Local, municipal waste collectors usually have one central point for all types of waste in which large glass containers are located. There are now over 50,000 bottle banks in the United Kingdom,[15] and 752,000 tons of glass are now recycled annually.[15]
+The waste recycling industry in the UK cannot consume all of the recycled container glass that will become available over the coming years, mainly due to the colour imbalance between that which is manufactured and that which is consumed. The UK imports much more green glass in the form of wine bottles than it uses, leading to a surplus amount for recycling.
+The resulting surplus of green glass from imported bottles may be exported to producing countries, or used locally in the growing diversity of secondary end uses for recycled glass.[16] As of 2006[update], Cory Environmental were shipping glass cullet from the UK to Portugal.[17]
+
+United States of America[edit]
+Rates of recycling and methods of waste collection vary substantially across the United States because laws are written on the state or local level and large municipalities often have their own unique systems. Many cities do curbside recycling, meaning they collect household recyclable waste on a weekly or bi-weekly basis that residents set out in special containers in front of their homes and transported to a materials recovery facility. This is typically single-stream recycling, which creates an impure product and partly explains why, as of 2019, the US has a recycling rate of around 33% versus 90% in some European countries.[18]
+Apartment dwellers usually use shared containers that may be collected by the city or by private recycling companies which can have their own recycling rules.  In some cases, glass is specifically separated into its own container because broken glass is a hazard to the people who later manually sort the co-mingled recyclables.  Sorted recyclables are later sold to companies to be used in the manufacture of new products.
+In 1971, the state of Oregon passed a law requiring buyers of carbonated beverages (such as beer and soda) to pay five cents per container (increased to ten cents in April 2017) as a deposit which would be refunded to anyone who returned the container for recycling. This law has since been copied in nine other states including New York and California. The abbreviations of states with deposit laws are printed on all qualifying bottles and cans. In states with these container deposit laws, most supermarkets automate the deposit refund process by providing machines which will count containers as they are inserted and then print credit vouchers that can be redeemed at the store for the number of containers returned. Small glass bottles (mostly beer) are broken, one-by-one, inside these deposit refund machines as the bottles are inserted. A large, wheeled hopper (very roughly 1.5 m by 1.5 m by 0.5 m) inside the machine collects the broken glass until it can be emptied by an employee. Nationwide bottle refunds recover 80% of glass containers that require a deposit.[4]
+Major companies in the space include Strategic Materials, which purchases post-consumer glass for 47 facilities across the country.[19] Strategic Materials has worked to correct misconceptions about glass recycling.[20] Glass manufacturers such as Owens-Illinois ultimately include recycled glass in their product. The Glass Recycling Coalition is a group of companies and stakeholders working to improve glass recycling.[21]
+
+See also[edit]
+Baler
+Castlemaine Tooheys Ltd v South Australia;[22]
+Container-deposit legislation
+Glass crusher
+Reuse of bottles
+Waste management
+References[edit]
+
+
+^ "Glass, Common Wastes & Materials". US EPA. Retrieved 22 April 2012..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b "First in glass: 10 homegoods for Recycle Glass Month". MNN – Mother Nature Network.
+
+^ "Glass Recycling Facts | Glass Packaging Institute". www.gpi.org. Retrieved 24 January 2019.
+
+^ a b c http://www.gpi.org/sites/default/files/DoE%20-%20Industrial%20Energy%20Efficiency%20One-Pager.pdf
+
+^ a b team, FPFIS (2 February 2012). "End-of-Waste Criteria for Glass Cullet: Technical Proposals". EU Science Hub – European Commission. p. 61. Retrieved 24 January 2019.
+
+^ "Glass recycling information sheet". wasteonline.org.uk. Archived from the original on 18 November 2006. Retrieved 26 November 2006.
+
+^ K.H. Poutos, A.M. Alani, P.J. Walden, C.M. Sangha. (2008). Relative temperature changes within concrete made with recycled glass aggregate. Construction and Building Materials, Volume 22, Issue 4, Pages 557–565.
+
+^ British Standards Institute (2005) PAS 101, Recovered container glass, Specification for quality and guidance for good practice in collection
+
+^ "Its time to pass on glass recycling". The Courier Ballarat Australia. 27 September 2019.
+
+^ "Why is there rubbish here dad? go ask Coca-Cola Amatil". ABC News Australia. 3 August 2013.
+
+^ mir-rachel. "About Return and Earn". Return and Earn NSW. Retrieved 30 November 2019.
+
+^ "A recycling scheme to keep Queensland beautiful". CoEx – Container Exchange. Retrieved 30 November 2019.
+
+^ "Home". ACT Container Deposit Scheme. Retrieved 30 November 2019.
+
+^ "Bottle bank celebrates birthday". BBC News. 6 June 2007.
+
+^ a b "Big British bottle bank birthday". reuters.com. 6 June 2007.
+
+^ British Standards Institute (2005) PAS 102, Specification for processed glass for selected secondary end markets
+
+^ Cory shipping mixed glass to Portugal direct from Cornwall, www.letsrecycle.com. Retrieved 28 November 2006
+
+^ "Why glass recycling in the US is broken". Chemical & Engineering News. Retrieved 29 August 2019.
+
+^ "Glass recycling giant acquired by investment firm". Resource Recycling News. 24 October 2017. Retrieved 29 August 2019.
+
+^ "Busting myths about glass recycling". Recycling Today. Retrieved 29 August 2019.
+
+^ Breen, Scott (12 October 2018). "How a unique industry collaboration is bottling a new future for U.S. glass recycling". GreenBiz.
+
+^ Castlemaine Tooheys Ltd v South Australia [1990] HCA 1, (1990) 169 CLR 436 (7 February 1990), High Court.
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Glass recycling.
+
+"Plant Chops Old Bottles For New", August 1949, Popular Science article on the basics of glass recycling
+vteRecyclingMaterials
+Aluminium
+Asphalt
+Concrete
+Copper
+Cotton
+Energy
+Glass
+Gypsum
+Paper
+Plastic
+Refrigerant
+Scrap
+Timber
+Vegetable oil
+Water
+Products
+Appliances
+Automotive oil
+Batteries
+Bottles
+PET bottles
+Computers
+Drugs
+Fluorescent lamps
+Lumber
+Mobile phones
+Paint
+Ships
+Textiles
+Tires
+Vehicles
+Apparatus
+Bins
+Blue bags
+Blue boxes
+Codes
+Collection
+Materials recovery facility
+Waste sorting
+Countries
+Rate by country
+Australia
+Brazil
+Canada
+Ireland
+Israel
+Japan
+Malaysia
+The Netherlands
+Switzerland
+Taiwan
+United Kingdom
+Northern Ireland
+United States
+Concepts
+Dematerialization
+Downcycling
+Eco-industrial park
+Ecodesign
+Extended producer responsibility
+Freecycling
+Industrial ecology
+Industrial metabolism
+Land recycling
+Material flow analysis
+Precycling
+Product stewardship
+Recursive recycling
+Recycling (ecological)
+Resource recovery
+Reuse of excreta
+Repurposing
+Reuse
+Upcycling
+Urban lumberjacking
+Waste hierarchy
+Waste minimisation
+Waste picking
+Zero waste
+See also
+Cogeneration
+Composting
+Container deposit legislation
+Dumpster diving
+Ethical consumerism
+Freeganism
+Simple living
+Waste
+Waste-to-energy
+Waste collection
+Waste management law
+Waste management
+Waste management concepts
+
+ Environment portal
+ Category
+by country
+by material
+by product
+organizations
+Index
+ Commons
+
+vteGlass production techniquesCommercial techniques
+Float glass process
+Fritted glass
+Blowing and pressing (containers)
+Extrusion / Drawing (fibers, glasswool)
+Drawing (optical fibers)
+Precision glass moulding
+Overflow downdraw method
+Pressing
+Casting
+Cutting
+Flame polishing
+Chemical polishing
+Diamond turning
+Rolling
+Artistic and historic techniques
+Beadmaking
+Blowing
+Blown plate
+Broad sheet
+Caneworking
+Cased glass
+Crown glass
+Cylinder blown sheet
+Engraving
+Etching
+Enamelled glass
+Flashed glass
+Forest glass
+Fourcault process
+Fusing
+Glass mosaic
+Lampworking
+Machine drawn cylinder sheet
+Millefiori
+Polished plate
+Rippled glass
+Satsuma Kiriko cut glass
+Slumping
+Stained glass production
+Natural processes
+Radiative processes
+Opal formation
+Sea glass
+Shock metamorphic glasses/Impactite
+Vitrified sand
+Volcanic glasses
+See also
+Glossary of glass art terms
+Glass recycling
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Glass_recycling&oldid=930849121"
+		
+		Categories: Glass chemistryGlass engineering and scienceRecycling by materialGlass productionHidden categories: Use dmy dates from December 2019Articles containing potentially dated statements from 2006All articles containing potentially dated statementsCommons category link is on Wikidata
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			In other projects
+			
+								
+					Wikimedia Commons				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					العربيةБеларускаяČeštinaDeutschEspañolEsperantoفارسیBahasa IndonesiaItalianoNederlandsPortuguêsRomânăРусскийSvenskaУкраїнська				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 15 December 2019, at 10:15 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.428","walltime":"0.566","ppvisitednodes":{"value":1540,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":57932,"limit":2097152},"templateargumentsize":{"value":1455,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49249,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  443.165      1 -total"," 41.87%  185.543      1 Template:Reflist"," 28.35%  125.643     12 Template:Cite_web"," 12.53%   55.532      1 Template:Commons_category"," 11.18%   49.529      1 Template:Use_dmy_dates"," 10.60%   46.996      2 Template:Navbox"," 10.36%   45.934      1 Template:Recycling","  9.34%   41.396      1 Template:Convert","  5.48%   24.300      2 Template:DMCA","  4.80%   21.294      1 Template:Glass_forming"]},"scribunto":{"limitreport-timeusage":{"value":"0.181","limit":"10.000"},"limitreport-memusage":{"value":6294817,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20191215101513","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Glass recycling","url":"https:\/\/en.wikipedia.org\/wiki\/Glass_recycling","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1416361","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1416361","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-11-01T12:46:35Z","dateModified":"2019-12-15T10:15:12Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/11\/Beer_bottles_2018_G1.jpg"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw1274"});});
+
+

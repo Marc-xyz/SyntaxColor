@@ -1,0 +1,315 @@
+
+
+Vadstena Castle - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqBjQpAAEMAAJ32S-4AAAAN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Vadstena_Castle","wgTitle":"Vadstena Castle","wgCurRevisionId":885793700,"wgRevisionId":885793700,"wgArticleId":5179066,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Infobox mapframe without OSM relation ID on Wikidata","Articles containing Swedish-language text","Commons category link is on Wikidata","Coordinates on Wikidata","Pages using the Kartographer extension",
+"Listed buildings in Sweden","Östergötland","Castles in Östergötland County","Museums in Östergötland County","Historic house museums in Sweden","Royal residences in Sweden"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Vadstena_Castle","wgRelevantArticleId":5179066,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgKartographerLiveData":{"_c82388123934197f28adac1007566fdc2271456b":[{"type":"ExternalData","service":"geoshape","url":
+"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q1757808","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Vadstena Castle","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q1757808","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Vadstena Castle"}},{"type":"Feature","geometry":{"coordinates":[14.88361111,58.44597222],"type":"Point"},"properties":{"title":"Vadstena Castle","marker-color":"#5E74F3"}}]},"wgCoordinates":{"lat":58.44583333333333,"lon":14.88361111111111},"wgWikibaseItemId":"Q1757808","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Vadstena Castle
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Vadstena CastleFront view of the castleGeneral informationArchitectural styleRenaissanceTown or cityVadstenaCountrySwedenConstruction started1545Completed1620Design and constructionArchitectArendt de Roy, Hans Flemming
+Vadstena Castle (Swedish: Vadstena slott) is a former Royal Castle in Vadstena, the province of Östergötland, Sweden.
+
+Contents
+
+1 History
+2 Today
+3 Notes
+4 See also
+
+
+
+History[edit]
+Vadstena Castle was originally built by King Gustav I in 1545 as a fortress to protect Stockholm from enemies approaching from the south. The fortress consisted of three smaller stone buildings facing Lake Vättern, three 31-meter wide ramparts, a courtyard, a moat and four circular cannon turrets. The original ramparts were torn down in the 19th century and the present ramparts were inaugurated in 1999. The stone buildings later formed the ground floor of the castle.
+On August 22, 1552, King Gustav I married his third wife, Catherine Stenbock, in Vadstena. One of the castle banqueting halls is called The Wedding Hall (Swedish: Bröllopssalen), although its construction wasn't finished in time for the wedding.
+The reconstruction from fortress into a habitable castle began in the 1550s, when prince Magnus became Duke of Östergötland. Duke Magnus suffered from mental illness and was the only son of Gustav I who didn't eventually become king of Sweden. Magnus died in 1595 and is buried in the church of nearby Vadstena Abbey.
+By 1620, when the castle was completed,  all the kings of the House of Vasa had contributed to its construction. Since 1620, the castle has been very well preserved, and is one of Sweden's best examples of Renaissance architecture.
+Vadstena Castle was a royal palace until 1716, when the royal family lost interest in it; after which it became a storage barn for grain.
+
+Today[edit]
+Since 1899, the castle has housed the Provincial Archives and today visitors can also find a Castle Museum with 16th and 17th century furniture, portraits and paintings. The castle is also the seat of the International Vadstena Academy, Sweden's smallest opera house, commissioning new operas and reviving lost operas from archival scores.[1] During summers the courtyard plays host to many concerts; both classical and pop music.
+
+
+
+		
+			
+			
+The chapel is situated in the main tower.
+
+			
+		
+		
+			
+			
+Winter view from north-east.
+
+			
+		
+		
+			
+			
+Summer view from south-west.
+
+			
+		
+		
+			
+			
+Circular turrets by the moat.
+
+			
+		
+		
+			
+			
+The basement with a 17th-century cannon.
+
+			
+		
+		
+			
+			
+Main gate
+
+			
+		
+		
+			
+			
+Bridge leading to the main gate
+
+			
+		
+		
+			
+			
+Tower
+
+			
+		
+		
+			
+			
+Suspension bridge
+
+			
+		
+		
+			
+			
+Gun on the fortress wall
+
+			
+		
+
+
+Notes[edit]
+
+
+^ Vadstena Akademien.
+
+
+See also[edit]
+
+
+
+Wikimedia Commons has media related to Vadstena slott.
+
+Official visitor site (Swedish)
+The castle at the Nationalmuseum website
+Coordinates: 58°26′45″N 14°53′01″E﻿ / ﻿58.44583°N 14.88361°E﻿ / 58.44583; 14.88361
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Vadstena_Castle&oldid=885793700"
+		
+		Categories: Listed buildings in SwedenÖstergötlandCastles in Östergötland CountyMuseums in Östergötland CountyHistoric house museums in SwedenRoyal residences in SwedenHidden categories: Infobox mapframe without OSM relation ID on WikidataArticles containing Swedish-language textCommons category link is on WikidataCoordinates on WikidataPages using the Kartographer extension
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			In other projects
+			
+								
+					Wikimedia Commons				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					БеларускаяБеларуская (тарашкевіца)‎CatalàDanskDeutschEestiEspañolEuskaraFrançaisIdoItalianoქართულიNorsk bokmålPolskiPortuguêsРусскийSuomiSvenskaУкраїнська				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 2 March 2019, at 10:46 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.468","walltime":"0.695","ppvisitednodes":{"value":1451,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":9521,"limit":2097152},"templateargumentsize":{"value":812,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8773,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  667.874      1 -total"," 39.06%  260.863      2 Template:Lang-sv"," 25.81%  172.380      1 Template:Infobox_building"," 19.74%  131.870      1 Template:Infobox"," 12.85%   85.792      1 Template:Commonscat","  9.17%   61.268      1 Template:Coord","  6.25%   41.768      2 Template:Yesno","  6.12%   40.889      1 Template:Commons","  5.53%   36.938      1 Template:Sister_project","  4.60%   30.741      1 Template:Infobox_mapframe"]},"scribunto":{"limitreport-timeusage":{"value":"0.276","limit":"10.000"},"limitreport-memusage":{"value":10945110,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20191213150758","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Vadstena Castle","url":"https:\/\/en.wikipedia.org\/wiki\/Vadstena_Castle","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1757808","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1757808","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-05-17T13:39:50Z","dateModified":"2019-03-02T10:46:19Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bf\/Vadstena.slottet.jpg","headline":"built as the fortress by Gustav Vasa, in the 16th century, to protect Stockholm from enemies approaching from the south. The castle has been very well preserved, and is one best examples of Renaissance architecture of Sweden."}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1272"});});
+
+

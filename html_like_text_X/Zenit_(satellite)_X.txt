@@ -1,0 +1,550 @@
+
+
+Zenit (satellite) - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfqt9ApAICsAAG-fs1QAAACI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Zenit_(satellite)","wgTitle":"Zenit (satellite)","wgCurRevisionId":916416630,"wgRevisionId":916416630,"wgArticleId":1435205,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","Webarchive template wayback links","Use dmy dates from June 2019","Articles containing Russian-language text","Zenit-2 satellites","Reconnaissance satellites of the Soviet Union",
+"Reconnaissance satellites of Russia","Artificial satellites formerly orbiting Earth"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Zenit_(satellite)","wgRelevantArticleId":1435205,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q189576","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Zenit (satellite)
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		For other uses, see Zenit.
+
+
+ZenitZenit re-entry capsule, showing camera portsManufacturerOKB-1Country of originSoviet UnionApplicationsPhoto reconnaissance
+ProductionStatusRetired
+
+Zenit (Russian: Зени́т, IPA: [zʲɪˈnʲit], Zenith) was a series of military photoreconnaissance satellites launched by the Soviet Union between 1961 and 1994. To conceal their nature, all flights were given the public Kosmos designation.
+
+Contents
+
+1 Description
+2 History
+3 Zenit variants
+
+3.1 Zenit 2
+3.2 Zenit 2M
+3.3 Zenit 4
+3.4 Zenit 4 M
+3.5 Zenit 4 MK / Zenit 4 MKM
+3.6 Zenit 4 MT
+3.7 Zenit 6U
+3.8 Zenit 8
+
+
+4 References
+
+
+
+Description[edit]
+The basic design of the Zenit satellites was similar to the Vostok manned spacecraft, sharing the return and service modules.[1] It consisted of a spherical re-entry capsule 2.3 metres (7.5 ft) in diameter with a mass of around 2,400 kilograms (5,300 lb). This capsule contained the camera system, its film, recovery beacons, parachutes and a destruct charge. In orbit, this was attached to a service module that contained batteries, electronic equipment, an orientation system and a liquid fuelled rocket engine that would slow the Zenit for re-entry, before the service module detached. The total length in orbit was around 5 metres (16 ft) and the total mass was between 4,600 and 4,740 kilograms (10,140 and 10,450 lb).[1]
+Unlike the American Corona spacecraft, the return capsule carried both the film and the cameras and kept them in a temperature controlled pressurised environment. This simplified the design and engineering of the camera system but added considerably to the mass of the satellite. An advantage was that cameras could be reused.[1]
+Early Zenits were launched using the Vostok rocket; later versions used the Voskhod and the Soyuz rockets. The first flights were launched from Baikonur Cosmodrome but subsequent launches also took place at Plesetsk Cosmodrome.
+Most Zenits flew in a slightly elliptical orbit with a perigee of around 200 kilometres (120 miles) and an apogee between 250 and 350 kilometres (160 and 220 miles); the missions usually lasted between 8 and 15 days.
+
+History[edit]
+In 1956, the Soviet government issued a secret decree that authorised the development of  'Object D' which led to the program to launch Sputnik 3 (Sputnik 1 was a simplified spin-off of the Object D program.) The text of the decree remains secret, but it apparently authorised another satellite program – ‘Object OD-1’ – which was to be used for photo-reconnaissance from space.
+By 1958, the OKB-1 design bureau was simultaneously working on Object OD-1 and Object OD-2 – an early design for the Vostok manned spacecraft. The development of Object OD-1 was experiencing serious difficulties so the head of OKB-1, Sergei Korolev, initiated work to see if a design based on Object OD-2 could be used for an unmanned photo-reconnaissance satellite. This may have been a political manoeuvre that would enable him to continue the manned space program and avoid diverting more of OKB-1's resources into Object OD-1.[1][2][3][4]
+Despite bitter opposition from the military, the Soviet government endorsed Korolev's approach and issued decrees on 22 and 25 May 1959 that ordered the development of three different spacecraft, all based on the same basic, Object OD-2, design. Spacecraft 1K would be a simplified prototype, 2K was to be a reconnaissance satellite and 3K was to be for manned flights. The name Vostok was also initially used for all three of these craft. But in 1961 the name became publicly known as the name of Yuri Gagarin's spacecraft so the 'Vostok 2' reconnaissance satellite was renamed 'Zenit 2'.[5]
+The first Zenit launch attempt took place on 11 December 1961, but there was a fault in the rocket's third stage and the spacecraft was destroyed using its destruct charge. The second attempt — publicly referred to as Kosmos 4 — was successfully launched on 26 April 1962 and re-entered three days later. However a failure in the orientation system meant few useful pictures were obtained; usable pictures had a resolution of about 5 to 7 meters. Launch #3 on 1 June failed dramatically when the one of the 8A92 booster's strap-ons shut down at liftoff and fell onto the pad, exploding on impact. The rest of the launch vehicle crashed 300 meters away. This accident caused considerable damage to LC-1, delaying the flights of Vostok 3 and Vostok 4 by two months.
+On 28 July, LC-1 was back in service to host the next Zenit flight, which performed successfully. Testing continued over the next year largely without incident, but on 10 July 1963 another launch accident occurred in practically identical fashion to the June 1962 failure. Once again, one of the strap-ons shut down at liftoff, separated from the booster, and exploded on impact with the pad while the rest of the launch vehicle crashed a few hundred feet away.
+Examination of telemetry from the booster indicated that some sort of electrical failure occurred, but subsequent investigation took three months and finally concluded that a switch designed to cut power to the strap-ons at staging had malfunctioned, possibly due to liftoff-induced vibration. The electrical circuit in the 8A92 was redesigned and it never again experienced problems with the strap-ons shutting down at launch.[6]
+Many versions of the satellite were developed for different reconnaissance missions and flights continued until 1994.[7][8]
+
+Zenit variants[edit]
+Zenit 2[edit]
+Zenit 2 was the first version to be launched in 1961 (there was no Zenit 1.)
+The arrangement of cameras varied, but most flights carried four cameras of 1000 mm focal length, and one of 200 mm focal length. The single lower resolution camera was intended to provide low-resolution pictures that would help give a context to the high-resolution pictures.[1]
+Each camera had 1500 frames of film and from 200 kilometres (120 miles), each frame held an image of a 60-by-60-kilometre (37-by-37-mile) square. The ground resolution was stated to be 10 to 15 metres (33 to 49 ft) although some unofficial sources claim it was much better—one source claims the number of cars in a car park could be counted. The cameras were developed at the Krasnogorsk Optical-Mechanical Factory near Moscow. The Krasnogorsk factory, which had been producing a variety of optical equipment for the military since 1942, was also the manufacturer of the popular Zenit SLR cameras.[1]
+Zenit 2s also carried ELINT equipment called Kust-12M (bush) to receive NATO radar signals. The satellites carried a parabolic antenna, around 1 metre (3.3 ft) in diameter, that is associated with this equipment. However, it is unclear if the antenna transmitted recorded signals to the ground or was for intercepting radar signals. In the latter case they would have been recorded on magnetic tape, to be retrieved after the return capsule landed.[1][9]
+There were 81 Zenit 2 launches, 58 were successful and 11 were partially successful. There were 12 failed missions, 5 because of a satellite malfunction and 7 because of a failure in the launch vehicle.
+First flight – Kosmos 4, 1962. Last flight – Kosmos 344, 1970.[10][11]
+
+Zenit 2M[edit]
+Improvements included a new camera system and the addition of solar panels. As the spacecraft mass was increased to 6300 kg, the Vostok rocket was replaced by the Voskhod rocket and Soyuz rockets. In common with Zenit 2 satellites this also had an ELINT payload.[9]
+First flight – Kosmos 208, 1968. Last flight – Kosmos 1044, 1978.[12][13][14]
+
+Zenit 4[edit]
+Unlike Zenit 2, little information on Zenit 4 has been released. The Zenit 4 was intended for high resolution photography and carried one camera of 3000 mm focal length as well as a 200 mm camera. The focal length of the main camera was greater than the diameter of the capsule so the camera made use of a mirror to fold the light path. The ground resolution is not publicly known but it is believed to have been 1–2 m.
+The Zenit 4 had a mass of 6300 kg—around 1500 kg more than the Zenit 2. So, instead of the Vostok rocket, it was launched by the heavier Voskhod rocket. A probable total of 76 Zenit 4's were flown.[1]
+First flight – Kosmos 22, 1963. Last flight – Kosmos 355, 1970.[15][16]
+
+Zenit 4 M[edit]
+An improved version of the Zenit 4, the Zenit 4M carried a new camera, solar panels, and a restartable engine so the satellite's orbit could be altered during the course of its mission. Mission duration was 13 days.
+First flight – Kosmos 251, 1968. Last flight – Kosmos 667, 1974.[17][18]
+
+Zenit 4 MK / Zenit 4 MKM[edit]
+These may have been versions of the Zenit 4 designed specifically to fly in lower orbits to improve image resolution. Some sources claim they were fitted with devices to compensate for aerodynamic drag and to withstand the effects of aerodynamic heating.
+First flight – Kosmos 371, 1970. Last flight – Kosmos 1214, 1980.[19][20][21][22]
+
+Zenit 4 MT[edit]
+A special version of the Zenit 4M intended for topographical photography. It carried a SA-106 topographic camera, a laser altimeter and Doppler apparatus.
+First flight – Kosmos 470, 1971. Last flight – Kosmos 1398, 1982.[23][24]
+
+Zenit 6U[edit]
+A ‘universal’ version of the Zenit, intended for both low-altitude, high-resolution missions and higher-altitude, general observation missions. All flights used the Soyuz launch vehicle. There were 96 launches.
+First flight – Kosmos 867, 1976. Last flight – Kosmos 1685, 1985.[25][26]
+
+Zenit 8[edit]
+This was intended for military cartographic photography. It used a Soyuz launch vehicle and launches took place from both Baikonur and Plesetsk. It had a 15-day orbital life. Similar satellites were referred to using the ‘Resurs’ designation.
+Kosmos 2281, was the last Zenit flight.
+First flight – Kosmos 1571, 1984. Last flight – Kosmos 2281, 1994.[27][28]
+Following the end of the programme, one Zenit-8 satellite was launched on the maiden flight of the Soyuz-2 rocket, as a DemoSat. The satellite was placed on a sub-orbital trajectory, and intentionally impacted the Pacific Ocean shortly after launch.[29]
+
+References[edit]
+
+
+^ a b c d e f g h Gorin, Peter (1997). "Zenit:Corona's Soviet Counterpart".  In Robert A McDonald (ed.). Corona Between the Sun and the Earth: the first NRO reconnaissance eye in space. Bethesda, MD: The American Society for Photogrammetry and Remote Sensing. pp. 84–107..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ Harford, James (1997). Korolev: How One Man Masterminded the Soviet Drive to Beat America to the Moon. John Wiley. ISBN 0-471-32721-2.
+
+^ Gorin, Peter A (1997). "Zenit – The First Soviet Photo-Reconnaissance Satellite". Journal of the British Interplanetary Society. 50: 441.
+
+^ Dwayne Day, ed. (1998). Eye in the Sky: Story of the Corona Spy Satellites. Smithsonian. ISBN 1-56098-773-1.
+
+^ Wade, Mark. "Encyclopedia Astronautica". Archived from the original on 28 September 2011.
+
+^ http://cosmopark.ru/r7/prig8.htm
+
+^ Grahn, Sven. "Soviet/Russian reconnaissance satellites page at Sven's Space Place".
+
+^ Christy, Robert. "Complete Zenit Chronology". Zarya.info. Retrieved 12 May 2013.
+
+^ a b Hendrickx, Bart (2005). "Snooping on Radars: A History of Soviet/Russian Global Signals Intelligence". Journal of the British Interplanetary Society. 58, supplement 2: 97–113.
+
+^ Krebs, Gunter. "Zenit-2 (11F61)". Gunter's Space Page. Retrieved 12 May 2013.
+
+^ Christy, Robert. "Zenit-2 Missions". Zarya.info. Retrieved 12 May 2013.
+
+^ Krebs, Gunter. "Zenit-2M (Gektor, 11F690)". Gunter's Space Page. Retrieved 12 May 2013.
+
+^ Krebs, Gunter. "Zenit-2M/NKh (Gektor-Priroda, 11F690)". Gunter's Space Page. Retrieved 12 May 2013.
+
+^ Christy, Robert. "Zenit-2M Missions". Zarya.info. Retrieved 12 May 2013.
+
+^ Krebs, Gunter. "Zenit-4 (11F69)". Gunter's Space Page. Retrieved 12 May 2013.
+
+^ Christy, Robert. "Zenit-4 Missions". Zarya.info. Retrieved 12 May 2013.
+
+^ Krebs, Gunter. "Zenit-4M (Rotor, 11F691)". Gunter's Space Page. Retrieved 12 May 2013.
+
+^ Christy, Robert. "Zenit-4M Missions". Zarya.info. Retrieved 12 May 2013.
+
+^ Krebs, Gunter. "Zenit-4MKT (Fram, 11F635)". Gunter's Space Page. Retrieved 12 May 2013.
+
+^ Christy, Robert. "Zenit-4MK Missions". Zarya.info. Retrieved 12 May 2013.
+
+^ Christy, Robert. "Zenit-4MKT Missions". Zarya.info. Retrieved 12 May 2013.
+
+^ Christy, Robert. "Zenit-4MKM Missions". Zarya.info. Retrieved 12 May 2013.
+
+^ Krebs, Gunter. "Zenit-4MT (Orion, 11F629)". Gunter's Space Page. Retrieved 12 May 2013.
+
+^ Christy, Robert. "Zenit-4MT Missions". Zarya.info. Retrieved 12 May 2013.
+
+^ Krebs, Gunter. "Zenit-6U (Argon, 11F645)". Gunter's Space Page. Retrieved 12 May 2013.
+
+^ Christy, Robert. "Zenit-6 Missions". Zarya.info. Retrieved 12 May 2013.
+
+^ Krebs, Gunter. "Zenit-8 (Oblik, 17F116)". Gunter's Space Page. Retrieved 12 May 2013.
+
+^ Christy, Robert. "Zenit-8 Missions". Zarya.info. Retrieved 12 May 2013.
+
+^ Soyuz-ST – Encyclopedia Astronautica Archived 7 January 2010 at the Wayback Machine
+
+
+ Russian reconnaissance satellitesIMINTPhotographic
+Yantar
+Zenit
+Orlets
+Almaz
+Electro-optical
+Araks
+Arkon
+Enisei
+Kobalt
+Persona
+SIGINTELINT
+Tselina-2
+Liana
+MASINTSecondary Mission
+Oko
+US-KMO
+EKS
+Kosmos
+vteZenit-2 satellitesZenit-2
+#1
+Kosmos 4
+#3
+Kosmos 7
+Kosmos 9
+Kosmos 10
+Kosmos 12
+Kosmos 13
+Kosmos 15
+Kosmos 16
+Kosmos 18
+#12
+Kosmos 20
+#14
+Kosmos 24
+Kosmos 28
+Kosmos 29
+Kosmos 32
+Kosmos 33
+Kosmos 35
+Kosmos 37
+Kosmos 46
+Kosmos 48
+Kosmos 50
+Kosmos 52
+Kosmos 64
+Kosmos 66
+Kosmos 68
+#28
+Kosmos 78
+Kosmos 98
+Kosmos 99
+Kosmos 104
+Kosmos 105
+Kosmos 107
+Kosmos 112
+Kosmos 115
+Kosmos 117
+Kosmos 120
+Kosmos 124
+#40
+Kosmos 129
+Kosmos 132
+Kosmos 136
+Kosmos 138
+Kosmos 143
+Kosmos 147
+Kosmos 153
+Kosmos 157
+Kosmos 164
+Kosmos 168
+#51
+Kosmos 177
+Kosmos 180
+Kosmos 181
+Kosmos 193
+Kosmos 195
+Kosmos 199
+Kosmos 205
+Kosmos 210
+Kosmos 216
+Kosmos 223
+Kosmos 231
+Kosmos 235
+Kosmos 240
+Kosmos 247
+Kosmos 253
+Kosmos 255
+Kosmos 258
+Kosmos 263
+Kosmos 266
+Kosmos 273
+Kosmos 278
+Kosmos 281
+Kosmos 287
+Kosmos 290
+Kosmos 301
+Kosmos 309
+Kosmos 325
+Kosmos 326
+Kosmos 344
+Zenit-2M(Gektor)
+Kosmos 208
+Kosmos 228
+Kosmos 243
+Kosmos 293
+Kosmos 306
+Kosmos 313
+Kosmos 318
+Kosmos 329
+Kosmos 350
+Kosmos 353
+Kosmos 363
+Kosmos 366
+Kosmos 368
+Kosmos 377
+Kosmos 384
+Kosmos 392
+Unknown
+Kosmos 403
+Kosmos 410
+Kosmos 428
+Kosmos 431
+Kosmos 439
+Kosmos 443
+Unknown
+Kosmos 473
+Kosmos 477
+Kosmos 484
+Kosmos 490
+Kosmos 493
+Kosmos 512
+Kosmos 517
+Kosmos 518
+Kosmos 525
+Kosmos 537
+Kosmos 547
+Kosmos 552
+Kosmos 555
+Kosmos 561
+Kosmos 575
+Kosmos 578
+Kosmos 583
+Kosmos 596
+Kosmos 599
+Kosmos 629
+Kosmos 635
+Kosmos 640
+Kosmos 653
+Kosmos 658
+Kosmos 669
+Unknown
+Kosmos 685
+Kosmos 692
+Kosmos 696
+Kosmos 702
+Kosmos 721
+Kosmos 728
+Kosmos 731
+Kosmos 747
+Kosmos 751
+Kosmos 769
+Kosmos 776
+Kosmos 780
+Kosmos 784
+Kosmos 799
+Kosmos 809
+Kosmos 813
+Kosmos 819
+Kosmos 834
+Kosmos 840
+Kosmos 848
+Kosmos 856
+Kosmos 865
+Kosmos 879
+Kosmos 889
+Kosmos 898
+Kosmos 904
+Kosmos 914
+Kosmos 922
+Kosmos 935
+Kosmos 947
+Kosmos 950
+Kosmos 966
+Kosmos 973
+Kosmos 984
+Kosmos 992
+Kosmos 995
+Kosmos 1002
+Kosmos 1004
+Kosmos 1012
+Kosmos 1032
+Kosmos 1044
+Kosmos 1060
+Kosmos 1061
+Kosmos 1070
+Unknown
+Kosmos 1090
+
+Zenit
+List of Kosmos satellites
+List of R-7 launches
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Zenit_(satellite)&oldid=916416630"
+		
+		Categories: Zenit-2 satellitesReconnaissance satellites of the Soviet UnionReconnaissance satellites of RussiaArtificial satellites formerly orbiting EarthHidden categories: CS1: long volume valueWebarchive template wayback linksUse dmy dates from June 2019Articles containing Russian-language text
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			In other projects
+			
+								
+					Wikimedia Commons				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					AfrikaansБългарскиČeštinaDanskDeutschEspañolFrançaisItalianoLëtzebuergeschMagyar日本語PortuguêsРусскийSuomi				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 18 September 2019, at 20:15 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.840","walltime":"1.141","ppvisitednodes":{"value":2131,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":71191,"limit":2097152},"templateargumentsize":{"value":1544,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":79330,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  970.510      1 -total"," 37.33%  362.277      1 Template:Reflist"," 23.17%  224.860      1 Template:Lang-ru"," 15.07%  146.227     22 Template:Cite_web"," 10.80%  104.818      3 Template:Cite_book"," 10.67%  103.536      3 Template:Infobox","  8.11%   78.747      1 Template:Russian_Reconnaissance_Satellites","  7.64%   74.142      1 Template:Infobox_spacecraft_class","  7.20%   69.869      4 Template:Military_navigation","  6.25%   60.705     10 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.505","limit":"10.000"},"limitreport-memusage":{"value":18111611,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20191214170824","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Zenit (satellite)","url":"https:\/\/en.wikipedia.org\/wiki\/Zenit_(satellite)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q189576","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q189576","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-26T21:56:00Z","dateModified":"2019-09-18T20:15:46Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f3\/Zenit_space_vehicle.jpg","headline":"series of Soviet spy satellites"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1322"});});
+
+

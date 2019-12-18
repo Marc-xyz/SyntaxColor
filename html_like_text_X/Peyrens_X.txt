@@ -1,0 +1,678 @@
+
+
+Peyrens - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfplRwpAMEsAALoZkw4AAABF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Peyrens","wgTitle":"Peyrens","wgCurRevisionId":897288476,"wgRevisionId":897288476,"wgArticleId":15434943,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles to be expanded from December 2008","All articles to be expanded","Geography articles needing translation from French Wikipedia",
+"Infobox mapframe without OSM relation ID on Wikidata","Coordinates on Wikidata","Commons category link from Wikidata","Aude communes articles needing translation from French Wikipedia","All stub articles","Pages using the Kartographer extension","Communes of Aude","Aude geography stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Peyrens","wgRelevantArticleId":15434943,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgKartographerLiveData":{
+"_16673ba872dd931b04bab1f6b0269d38c9ef2aea":[{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q192051","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Peyrens","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q192051","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Peyrens"}},{"type":"Feature","geometry":{"coordinates":[1.9597222222222,43.361666666667],"type":"Point"},"properties":{"title":"Peyrens","marker-color":"#5E74F3"}},{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q192051","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Peyrens","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q192051","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Peyrens"}},{"type":"Feature",
+"geometry":{"coordinates":[1.9597222222222,43.361666666667],"type":"Point"},"properties":{"title":"Peyrens","marker-color":"#5E74F3"}}]},"wgCoordinates":{"lat":43.3625,"lon":1.9606},"wgWikibaseItemId":"Q192051","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.startup",
+"mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Peyrens
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Commune in Occitanie, France
+This article may be expanded with text translated from the corresponding article in French.  (December 2008) Click [show] for important translation instructions.
+View a machine-translated version of the French article.
+Machine translation like DeepL or Google Translate  is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.
+Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.
+You must provide copyright attribution in the edit summary accompanying your translation by providing an interlanguage link to the source of your translation. A model attribution edit summary Content in this edit is translated from the existing French Wikipedia article at [[:fr:Peyrens]]; see its history for attribution.
+You should also add the template {{Translated|fr|Peyrens}} to the talk page.
+For more guidance, see Wikipedia:Translation.
+Commune in Occitanie, FrancePeyrensCommune
+Coat of armsLocation of Peyrens
+PeyrensShow map of FrancePeyrensShow map of OccitanieCoordinates: 43°21′45″N 1°57′38″E﻿ / ﻿43.3625°N 1.9606°E﻿ / 43.3625; 1.9606Coordinates: 43°21′45″N 1°57′38″E﻿ / ﻿43.3625°N 1.9606°E﻿ / 43.3625; 1.9606CountryFranceRegionOccitanieDepartmentAudeArrondissementCarcassonneCantonLe Bassin chaurienIntercommunalityNord-Ouest AudoisGovernment • Mayor .mw-parser-output .nobold{font-weight:normal}(2008–2014) Nicole DanjouArea14.77 km2 (1.84 sq mi)Population (2016-01-01)[1]514 • Density110/km2 (280/sq mi)Time zoneUTC+01:00 (CET) • Summer (DST)UTC+02:00 (CEST)INSEE/Postal code11284 /11400Elevation159–221 m (522–725 ft) (avg. 190 m or 620 ft)1 French Land Register data, which excludes lakes, ponds, glaciers > 1 km2 (0.386 sq mi or 247 acres) and river estuaries.
+Peyrens is a commune in the Aude department in southern France.
+
+Population[edit]
+Historical populationYearPop.±%
+1962218—    
+1968241+10.6%
+1975235−2.5%
+1982267+13.6%
+1990301+12.7%
+1999351+16.6%
+2008409+16.5%
+
+See also[edit]
+Communes of the Aude department
+References[edit]
+INSEE
+
+
+^ "Populations légales 2016". INSEE. Retrieved 25 April 2019..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+
+
+
+
+Wikimedia Commons has media related to Peyrens.
+
+vteCommunes of the Aude department 
+Aigues-Vives
+Airoux
+Ajac
+Alaigne
+Alairac
+Albas
+Albières
+Alet-les-Bains
+Alzonne
+Antugnac
+Aragon
+Argeliers
+Argens-Minervois
+Armissan
+Arques
+Arquettes-en-Val
+Artigues
+Arzens
+Aunat
+Auriac
+Axat
+Azille
+Badens
+Bages
+Bagnoles
+Baraigne
+Barbaira
+Belcaire
+Belcastel-et-Buc
+Belflou
+Belfort-sur-Rebenty
+Bellegarde-du-Razès
+Belpech
+Belvèze-du-Razès
+Belvianes-et-Cavirac
+Belvis
+Berriac
+Bessède-de-Sault
+La Bezole
+Bizanet
+Bize-Minervois
+Blomac
+Bouilhonnac
+Bouisse
+Bouriège
+Bourigeole
+Le Bousquet
+Boutenac
+Bram
+Brézilhac
+Brousses-et-Villaret
+Brugairolles
+Les Brunels
+Bugarach
+Cabrespine
+Cahuzac
+Cailhau
+Cailhavel
+Cailla
+Cambieure
+Campagna-de-Sault
+Campagne-sur-Aude
+Camplong-d'Aude
+Camps-sur-l'Agly
+Camurac
+Canet
+Capendu
+Carcassonne
+Carlipa
+Cascastel-des-Corbières
+La Cassaigne
+Cassaignes
+Les Cassés
+Castans
+Castelnaudary
+Castelnau-d'Aude
+Castelreng
+Caudebronde
+Caunes-Minervois
+Caunettes-en-Val
+Caunette-sur-Lauquet
+Caux-et-Sauzens
+Cavanac
+Caves
+Cazalrenoux
+Cazilhac
+Cenne-Monestiés
+Cépie
+Chalabre
+Citou
+Le Clat
+Clermont-sur-Lauquet
+Comigne
+Comus
+Conilhac-Corbières
+Conques-sur-Orbiel
+Corbières
+Coudons
+Couffoulens
+Couiza
+Counozouls
+Cournanel
+Coursan
+Courtauly
+La Courtète
+Coustaussa
+Coustouge
+Cruscades
+Cubières-sur-Cinoble
+Cucugnan
+Cumiès
+Cuxac-Cabardès
+Cuxac-d'Aude
+Davejean
+Dernacueillette
+La Digne-d'Amont
+La Digne-d'Aval
+Donazac
+Douzens
+Duilhac-sous-Peyrepertuse
+Durban-Corbières
+Embres-et-Castelmaure
+Escales
+Escouloubre
+Escueillens-et-Saint-Just-de-Bélengard
+Espéraza
+Espezel
+Fabrezan
+Fajac-en-Val
+Fajac-la-Relenque
+La Fajolle
+Fanjeaux
+Félines-Termenès
+Fendeille
+Fenouillet-du-Razès
+Ferrals-les-Corbières
+Ferran
+Festes-et-Saint-André
+Feuilla
+Fitou
+Fleury
+Floure
+Fontanès-de-Sault
+Fontcouverte
+Fonters-du-Razès
+Fontiers-Cabardès
+Fontiès-d'Aude
+Fontjoncouse
+La Force
+Fournes-Cabardès
+Fourtou
+Fraisse-Cabardès
+Fraissé-des-Corbières
+Gaja-et-Villedieu
+Gaja-la-Selve
+Galinagues
+Gardie
+Generville
+Gincla
+Ginestas
+Ginoles
+Gourvieille
+Gramazie
+Granès
+Greffeil
+Gruissan
+Homps
+Hounoux
+Les Ilhes
+Issel
+Jonquières
+Joucou
+Labastide-d'Anjou
+Labastide-en-Val
+Labastide-Esparbairenque
+Labécède-Lauragais
+Lacombe
+Ladern-sur-Lauquet
+Lafage
+Lagrasse
+Lairière
+Lanet
+Laprade
+Laroque-de-Fa
+Lasbordes
+Lasserre-de-Prouille
+Lastours
+Laurabuc
+Laurac
+Lauraguel
+Laure-Minervois
+Lavalette
+Lespinassière
+Leuc
+Leucate
+Lézignan-Corbières
+Lignairolles
+Limousis
+Limoux
+Loupia
+La Louvière-Lauragais
+Luc-sur-Aude
+Luc-sur-Orbieu
+Magrie
+Mailhac
+Maisons
+Malras
+Malves-en-Minervois
+Malviès
+Marcorignan
+Marquein
+Marsa
+Marseillette
+Les Martys
+Mas-Cabardès
+Mas-des-Cours
+Massac
+Mas-Saintes-Puelles
+Mayreville
+Mayronnes
+Mazerolles-du-Razès
+Mazuby
+Mérial
+Mézerville
+Miraval-Cabardes
+Mirepeisset
+Mireval-Lauragais
+Missègre
+Molandier
+Molleville
+Montauriol
+Montazels
+Montbrun-des-Corbières
+Montclar
+Montferrand
+Montfort-sur-Boulzane
+Montgaillard
+Montgradail
+Monthaut
+Montirat
+Montjardin
+Montjoi
+Montmaur
+Montolieu
+Montréal
+Montredon-des-Corbières
+Montséret
+Monze
+Moussan
+Moussoulens
+Mouthoumet
+Moux
+Narbonne
+Nébias
+Névian
+Niort-de-Sault
+Ornaisons
+Orsans
+Ouveillan
+Padern
+Palairac
+Palaja
+La Palme
+Paraza
+Pauligne
+Payra-sur-l'Hers
+Paziols
+Pécharic-et-le-Py
+Pech-Luna
+Pennautier
+Pépieux
+Pexiora
+Peyrefitte-du-Razès
+Peyrefitte-sur-l'Hers
+Peyrens
+Peyriac-de-Mer
+Peyriac-Minervois
+Peyrolles
+Pezens
+Pieusse
+Plaigne
+Plavilla
+La Pomarède
+Pomas
+Pomy
+Portel-des-Corbières
+Port-la-Nouvelle
+Pouzols-Minervois
+Pradelles-Cabardès
+Preixan
+Puginier
+Puichéric
+Puilaurens
+Puivert
+Quillan
+Quintillan
+Quirbajou
+Raissac-d'Aude
+Raissac-sur-Lampy
+La Redorte
+Rennes-le-Château
+Rennes-les-Bains
+Ribaute
+Ribouisse
+Ricaud
+Rieux-en-Val
+Rieux-Minervois
+Rivel
+Rodome
+Roquecourbe-Minervois
+Roquefère
+Roquefeuil
+Roquefort-de-Sault
+Roquefort-des-Corbières
+Roquetaillade-et-Conilhac
+Roubia
+Rouffiac-d'Aude
+Rouffiac-des-Corbières
+Roullens
+Routier
+Rustiques
+Saint-Amans
+Saint-André-de-Roquelongue
+Saint-Benoît
+Saint-Couat-d'Aude
+Saint-Couat-du-Razès
+Saint-Denis
+Sainte-Camelle
+Sainte-Colombe-sur-Guette
+Sainte-Colombe-sur-l'Hers
+Sainte-Eulalie
+Sainte-Valière
+Saint-Ferriol
+Saint-Frichoux
+Saint-Gaudéric
+Saint-Hilaire
+Saint-Jean-de-Barrou
+Saint-Jean-de-Paracol
+Saint-Julia-de-Bec
+Saint-Julien-de-Briola
+Saint-Just-et-le-Bézu
+Saint-Laurent-de-la-Cabrerisse
+Saint-Louis-et-Parahou
+Saint-Marcel-sur-Aude
+Saint-Martin-des-Puits
+Saint-Martin-de-Villereglan
+Saint-Martin-Lalande
+Saint-Martin-le-Vieil
+Saint-Martin-Lys
+Saint-Michel-de-Lanès
+Saint-Nazaire-d'Aude
+Saint-Papoul
+Saint-Paulet
+Saint-Pierre-des-Champs
+Saint-Polycarpe
+Saint-Sernin
+Saissac
+Sallèles-Cabardès
+Sallèles-d'Aude
+Salles-d'Aude
+Salles-sur-l'Hers
+Salsigne
+Salvezines
+Salza
+Seignalens
+La Serpent
+Serres
+Serviès-en-Val
+Sigean
+Sonnac-sur-l'Hers
+Sougraigne
+Souilhanels
+Souilhe
+Soulatgé
+Soupex
+Talairan
+Taurize
+Termes
+Terroles
+Thézan-des-Corbières
+La Tourette-Cabardès
+Tournissan
+Tourouzelle
+Tourreilles
+Trassanel
+Trausse
+Trèbes
+Treilles
+Tréville
+Tréziers
+Tuchan
+Val-de-Dagne
+Val-de-Lambronne
+Val-du-Faby
+Valmigère
+Ventenac-Cabardès
+Ventenac-en-Minervois
+Véraza
+Verdun-en-Lauragais
+Verzeille
+Vignevieille
+Villalier
+Villanière
+Villardebelle
+Villardonnel
+Villar-en-Val
+Villar-Saint-Anselme
+Villarzel-Cabardès
+Villarzel-du-Razès
+Villasavary
+Villautou
+Villebazy
+Villedaigne
+Villedubert
+Villefloure
+Villefort
+Villegailhenc
+Villegly
+Villelongue-d'Aude
+Villemagne
+Villemoustaussou
+Villeneuve-la-Comptal
+Villeneuve-les-Corbières
+Villeneuve-lès-Montréal
+Villeneuve-Minervois
+Villepinte
+Villerouge-Termenès
+Villesèque-des-Corbières
+Villesèquelande
+Villesiscle
+Villespy
+Villetritouls
+Vinassan
+
+
+
+This Aude geographical article is a stub. You can help Wikipedia by expanding it.vte
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Peyrens&oldid=897288476"
+		
+		Categories: Communes of AudeAude geography stubsHidden categories: Articles with short descriptionArticles to be expanded from December 2008All articles to be expandedGeography articles needing translation from French WikipediaInfobox mapframe without OSM relation ID on WikidataCoordinates on WikidataCommons category link from WikidataAude communes articles needing translation from French WikipediaAll stub articlesPages using the Kartographer extension
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			In other projects
+			
+								
+					Wikimedia Commons				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					Bân-lâm-gúCatalàCebuanoDeutschEspañolEuskaraFrançaisՀայերենItalianoҚазақшаLatinaLumbaartMagyarMalagasyBahasa MelayuNederlandsНохчийнOccitanPiemontèisPolskiPortuguêsRomânăРусскийSlovenčinaSvenskaУкраїнськаTiếng ViệtVolapükWinaray中文				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 16 May 2019, at 01:45 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.904","walltime":"1.221","ppvisitednodes":{"value":6351,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":118692,"limit":2097152},"templateargumentsize":{"value":22506,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3482,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1109.577      1 -total"," 66.15%  733.939      1 Template:Infobox_French_commune"," 63.42%  703.684      1 Template:Infobox_settlement"," 59.51%  660.255      1 Template:Infobox"," 20.96%  232.546      7 Template:Wikidata"," 20.41%  226.463      3 Template:France_metadata_Wikidata"," 16.83%  186.732      1 Template:Expand_French"," 16.12%  178.824      1 Template:Expand_language"," 14.20%  157.578      1 Template:Ambox"," 13.96%  154.942      2 Template:Hidden"]},"scribunto":{"limitreport-timeusage":{"value":"0.538","limit":"10.000"},"limitreport-memusage":{"value":17692630,"limit":52428800}},"cachereport":{"origin":"mw1302","timestamp":"20191218014743","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Peyrens","url":"https:\/\/en.wikipedia.org\/wiki\/Peyrens","sameAs":"http:\/\/www.wikidata.org\/entity\/Q192051","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q192051","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-01-26T18:42:37Z","dateModified":"2019-05-16T01:45:59Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e9\/France_location_map-Regions_and_departements-2016.svg","headline":"commune in Aude, France"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":155,"wgHostname":"mw1240"});});
+
+

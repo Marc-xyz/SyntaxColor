@@ -1,0 +1,824 @@
+
+
+Procalcitonin - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfU0IQpAICwAADiqfHkAAACU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Procalcitonin","wgTitle":"Procalcitonin","wgCurRevisionId":929554289,"wgRevisionId":929554289,"wgArticleId":700550,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","CS1 French-language sources (fr)","Articles which use infobox templates with no data rows","Peptides","Blood tests","Diagnostic intensive care medicine","Immunologic tests",
+"Precursor proteins"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Procalcitonin","wgRelevantArticleId":700550,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q786600","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":
+"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Procalcitonin
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Figure 1: Immature CalcitoninMedical diagnosticsA 3D cartoon of procalcitonin's parent compound, calcitonin
+Procalcitonin (PCT) is a peptide precursor of the hormone calcitonin, the latter being involved with calcium homeostasis. It arises once preprocalcitonin is cleaved by endopeptidase.[1] It was first identified by Leonard J. Deftos and Bernard A. Roos in the 1970s.[2] It is composed of 116 amino acids and is produced by parafollicular cells (C cells) of the thyroid and by the neuroendocrine cells of the lung and the intestine.
+The level of procalcitonin in the blood stream of healthy individuals is below the limit of detection (0.01 µg/L) of clinical assays.[3] The level of procalcitonin rises in a response to a pro-inflammatory stimulus, especially of bacterial origin. It is therefore often classed as an acute phase reactant.[4] The induction period for procalcitonin ranges from 4–12 hours with a half-life spanning anywhere from 22–35 hours.[5] It does not rise significantly with viral or non-infectious inflammations. With the inflammatory cascade and systemic response that a severe infection brings, the blood levels of procalcitonin may rise multiple orders of magnitude with higher values correlating with more severe disease.[6] Remarkably the high procalcitonin levels produced during infections are not followed by a parallel increase in calcitonin or a decrease in serum calcium levels.
+
+Contents
+
+1 Biochemistry
+2 Diagnostic Advantages
+3 Medical uses
+
+3.1 Sepsis
+3.2 Respiratory illnesses
+3.3 Cardiovascular disease
+3.4 Meningitis
+3.5 Gastrointestinal disease
+3.6 Kidney disease
+3.7 Hepatitis
+3.8 Septic arthritis
+3.9 Cancer
+3.10 Pediatrics
+3.11 Antibiotic stewardship
+
+
+4 Research
+5 References
+6 External links
+
+
+
+Biochemistry[edit]
+  Figure 2: Production pathway of PCT and CT in healthy and infected individuals via the induction of CALC-1 genePCT is a member of the calcitonin (CT) superfamily of peptides. It is a peptide of 116 amino acid with an approximate molecular weight of 14.5 kDa, and its structure can be divided into three sections (see Figure 1):[7] amino terminus (represented by the ball and stick model in Figure 1), immature calcitonin (shown in Figure 1 from PDB as the crystal structure of procalcitonin is not yet available), and calcitonin carboxyl-terminus peptide 1.[7] Under normal physiological conditions, active CT is produced and secreted in the C-cells of the thyroid gland after proteolytic cleavage of PCT, meaning, in a healthy individual, that PCT levels in circulation are very low (<.05 ng/mL).[8] The pathway for production of PCT under normal and inflammatory conditions are shown in Figure 2.[9] During inflammation, LPS, microbial toxin, and inflammatory mediators, such as IL-6 or TNF-α, induce the CALC-1 gene in adipoctyes, but PCT never gets cleaved to produce CT.[9] In a healthy individual, PCT in endocrine cells is produced by CALC-1 by elevated calcium levels, glucocorticoids, CGRP, glucagon, or gastrin, and is cleaved to form CT, which is released to the blood.[9]
+PCT is located on the CALC-1 gene on chromosome 11.[7] Bacterial infections induce a universal increase in the CALC-1 gene expression and a release of PCT (>1 μg/mL).[8] Expression of this hormone occurs in a site specific manner.[7] In healthy and non-infected individuals, transcription of PCT only occurs in neuroendocrine tissue, except for the C cells in the thyroid. The formed PCT then undergoes post-translational modifications, resulting in the production small peptides and mature CT by removal of the C-terminal glycine from the immature CT by peptidylglycine α-amidating monooxygenase (PAM).[10] In a microbial infected individual, non-neuroendocrine tissue also secretes PCT by expression of CALC-1. A microbial infection induces a substantial increase in the expression of CALC-1, leading to the production of PCT in all differentiated cell types.[11] The function of PCT synthesized in nonneuroendocrine tissue due to a microbial infection is currently unknown, but, its detection aids in the differentiation of inflammatory processes.[7]
+
+Diagnostic Advantages[edit]
+Due to PCT’s variance between microbial infections and healthy individuals, it has become a marker to improve identification of bacterial infection and guide antibiotic therapy.[12] Table 1 is a summary from Schuetz, Albrich, and Mueller, summarizing the current data of selected, relevant studies investigating PCT in different types of infections, where ✓ represents moderate evidence in favor of PCT; ✓✓ is good evidence in favor of PCT; ✓✓✓ is strong evidence in favor of PCT; ~ is evidence in favor or against the use of PCT or still undefined.
+Table 1: Diagnostic Summary of Studies Investigating the Therapeutic Advantages of PCT[12]
+
+
+
+Infection Type/Setting
+
+Study Design
+
+PCT Cut-Off (ug/L)
+
+PCT Benefit
+
+Conclusion
+
+References
+
+
+Abdominal Infections
+
+observational
+
+0.25
+
+~
+
+PCT may help  exclude ischemia and necrosis in bowel blockage
+
+,[13][14][15][16]
+
+
+Arthritis
+
+observational
+
+0.1-0.25
+
+✓
+
+PCT differentiates  non-infectious (gout) arthritis from true infection
+
+,[17][18][19]
+
+
+Bacteremic infections
+
+observational
+
+0.25
+
+✓✓
+
+Low PCT levels  help rule out microbial infections
+
+,[20][21][22]
+
+
+Blood stream infection (primary)
+
+observational
+
+0.1
+
+✓✓
+
+PCT  differentiates contamination from true infection
+
+[23]
+
+
+Bronchitis
+
+RCT
+
+0.1-0. 5
+
+✓✓✓
+
+PCT reduces  antibiotic exposure without adverse outcomes in the ED
+
+,[24][25]
+
+
+COPD exacerbation
+
+RCT
+
+0.1-0. 5
+
+✓✓✓
+
+PCT reduces  antibiotic exposure without adverse outcomes in the ED and hospital
+
+,[24][25][26]
+
+
+Endocarditis
+
+observational
+
+2.3
+
+✓
+
+PCT is an  independent predictor with high diagnostic accuracy for acute endocarditis
+
+,[27][28]
+
+
+Meningitis
+
+before-after
+
+0.5
+
+✓
+
+PCT reduces  antibiotic exposure during outbreak of viral meningitis
+
+,[29][30][31]
+
+
+Neutropenia
+
+observational
+
+0.1-0.5
+
+✓
+
+PCT is helpful  at identifying neutropenic patients with systemic bacterial infection
+
+,[32][33][34]
+
+
+Pancreatitis
+
+observational
+
+0.25-0.5
+
+~
+
+PCT correlates  with severity and extent of infected pancreatitis
+
+,[35][36]
+
+
+Pneumonia
+
+RCT
+
+0.1-0. 5;  80-90% ↓
+
+✓✓✓
+
+PCT reduces  antibiotic without adverse outcomes exposure in the hospital
+
+,[24][25][37][38][39][40]
+
+
+Postoperative fever
+
+observational
+
+0.1-0.5
+
+✓
+
+PCT  differentiates non-infectious fever from post-operative infections
+
+[41]
+
+
+Postoperative infections
+
+RCT
+
+0.5-1.0;  75-85% ↓
+
+✓✓
+
+PCT reduces  antibiotic exposure without adverse outcomes in the surgical ICU
+
+,[42][43]
+
+
+Severe sepsis/Shock
+
+RCT
+
+0.25-0.5;  80-90% ↓
+
+✓✓✓
+
+PCT reduces  antibiotic exposure without adverse outcomes in the ICU
+
+,[44][45]
+
+
+Upper respiratory tract infections
+
+RCT
+
+0.1-0.25
+
+✓✓
+
+PCT reduces  antibiotic exposure without adverse outcomes in primary care
+
+[46]
+
+
+Urinary tract infections
+
+observational
+
+0.25
+
+✓
+
+PCT correlates  with severity of urinary tract infections
+
+,[21][47]
+
+
+Ventilator-associated pneumonia
+
+RCT
+
+0.1-0.25
+
+✓✓
+
+PCT reduces  antibiotic exposure without adverse outcomes
+
+,[45][48]
+
+Medical uses[edit]
+Sepsis[edit]
+Measurement of procalcitonin can be used as a marker of severe sepsis caused by bacteria and generally grades well with the degree of sepsis,[49] although levels of procalcitonin in the blood are very low. PCT has the greatest sensitivity (90%) and specificity (91%) for differentiating patients with systemic inflammatory response syndrome (SIRS) from those with sepsis, when compared with IL-2, IL-6, IL-8, CRP and TNF-alpha.[50] Evidence is emerging that procalcitonin levels can reduce unnecessary antibiotic prescribing to people with lower respiratory tract infections.[51] Currently, procalcitonin assays are widely used in the clinical environment.[52]
+A meta-analysis reported a sensitivity of 76% and specificity of 70% for bacteremia.[53]
+A 2018 systematic review comparing PCT and C-reactive protein(CRP) found PCT to have a sensitivity of 80% and a specificity of 77% in identifying septic patients.  In the study, PCT outperformed CRP in diagnostic accuracy of predicting sepsis.[54]
+In a 2018 meta-analysis of randomized trials of over 4400 ICU patients with sepsis, researchers concluded that PCT led therapy resulted in lower mortality and lower antibiotic administration.[55]
+
+Respiratory illnesses[edit]
+Given procalcitonin is a blood marker for bacterial infections, evidence shows that it is a useful tool in guiding the initiation and duration of antibiotics in patients with bacterial pneumonia and other acute respiratory infections.[56] The use of procalcitonin guided antibiotic therapy leads to lower mortality, less antibiotic usage, decreased side effects due to antibiotics and promotes good antibiotic stewardship.[56]  The value in these protocols are evident since a high PCT level correlates with increased mortality in critically ill pneumonia patients especially those with a low CURB-65 pneumonia risk factor score.[57]
+In adult patients with Acute Respiratory infections, a 2017 systematic review found that PCT-guided therapy reduced mortality, reduced antibiotic use(2.4 less days of antibiotics) and led to decreased adverse drug effects across a variety of clinical settings(ED, ICU, primary care clinic).[56]
+Procalcitonin-guided treatment limits antibiotic exposure with no increased mortality in patients with acute exacerbation of chronic obstructive pulmonary disease.[58]
+Using procalcitonin to guide protocol in acute asthma exacerbation led to reduction in prescriptions of antibiotics in primary care clinics, emergency departments and during hospital admission.  This was apparent without an increase in ventilator days or risk of intubation.  Be that acute asthma exacerbation is one condition that leads to overuse of antibiotics worldwide, researchers concluded that PCT could help curb over-prescribing.[59]
+
+Cardiovascular disease[edit]
+PCT serves a marker to help differentiate acute respiratory illness such as infection from an acute cardiovascular concern.  It also has value as a prognostic lab value in patients with atherosclerosis or coronary heart disease as its levels correlate with the severity of the illness.[60]
+The European Society of Cardiology recently released a PCT-guided algorithm for administering antibiotics in patients with dyspnea and suspected acute heart failure. The guidelines use a cut off point of     .2 ng/mL and above as the point at which to give antibiotics.[61]  This coincides with a 2017 review of literature which concluded that PCT can help reduce antibiotic overuse in patients presenting with acute heart failure.[62]  In regards to mortality, a meta analysis of over 5000 patients with heart failure concluded that elevated PCT was reliable in predicting short term mortality.[63]
+
+Meningitis[edit]
+Blood procalcitonin levels can help confirm bacterial meningitis and. if negative, can effectively rule out bacterial meningitis.  This was shown in a review of over 2000 patients in which PCT had a sensitivity of 86% and a specificity of 80% for cerebrospinal fluid PCT.  Blood PCT measurements proved superior to cerebrospinal fluid PCT with a sensitivity of 95% and a specificity of 97% as a marker for bacterial meningitis.[64]
+In acute meningitis, serum PCT is useful as a biomarker for sepsis.  It can also be of use in determining viral meningitis versus bacterial meningitis. These findings are the result of a 2018 literature review.[65]  This followed a 2015 meta analysis that showed that PCT had a sensitivity of 90% and a specificity of 98% in judging viral versus bacterial meningitis.  PCT also outperformed other biomarkers such as C-reactive protein.[66]
+
+Gastrointestinal disease[edit]
+Evidence shows that an elevated PCT above .5 ng/mL could help diagnose infectious complications of inflammatory bowel disease such as abdominal abscesses, bacterial enterocolitis etc.  PCT can be effective in early recognition of infections in IBD patients and decisions on whether to prescribe antibiotics.[67]
+
+Kidney disease[edit]
+Patients with chronic kidney disease and end-stage renal disease are at higher risk for infections, and procalcitonin has been studied in these populations, who often have higher levels. Procalcitonin can be dialyzed, and so levels are dependent upon when patients receive hemodialysis. While there is no formally accepted cutoff value for patients undergoing HD, using a value of greater or equal to 0.5 ng/mL yielded a sensitivity of 97-98% and a specificity of 70-96%.[68]
+
+Hepatitis[edit]
+PCT, possibly together with CRP, is used to corroborate the MELD score.[69][70]
+
+Septic arthritis[edit]
+PCT at a cutoff  value of .5 ng/mL was effective at ruling in septic arthritis in an analysis of over 8000 patients across 10 prospective studies.  PCT had a sensitivity of 54% and specificity of 95%.  The study also concluded that PCT outperforms C-reactive protein in differentiating septic arthritis from non-septic arthritis.[71]
+
+Cancer[edit]
+A 2016 literature review showed that PCT has good value in diagnosing infections in oncologic patients. Moreso, it is especially effective in diagnosing major life threatening episodes in cancer patient such as bacteremia and sepsis.[72]
+Procalcitonin is reliable to monitor recurrence of Medullary Thyroid carcinoma.  In detecting cancer recurrence, PCT had a sensitivity and specificity of 96% and 96% respectively.[73]
+
+Pediatrics[edit]
+In a meta analysis of 17 studies, PCT had a sensitivity of 85% and a specificity of 54% in diagnosing sepsis in neonates and children.  The PCT cut off used was between 2-2.5 ng/mL.[74]
+In children presenting with fever without an apparent source, a PCT level of .5 ng/mL had a sensitivity of 82% and specificity of 86%.  At a 5 ng/mL value, the sensitivity and specificity were 61% and 94%.  PCT can help the clinical decision making while identifying invasive bacterial infection in children with unexplained fever.[75]
+PCT levels correlate with the degree of illness in pediatric patients with sepsis or urinary tract infections making it effective as a prognostic lab value in these patients.[76]
+
+Antibiotic stewardship[edit]
+Procalcitonin guided cessation of antibiotic use reduces duration of antibiotic exposure and lowers mortality in critically ill patients in the Intensive Care Unit.[77]
+In adult emergency department patients with respiratory tract illnesses,  PCT-guided treatment groups had reduced antibiotic use.[78]
+
+Research[edit]
+Excessive overdose on amphetamine or its analogs can induce systemic inflammation; in a case report of amphetamine overdose, sans bacterial infection, significant elevations in procalcitonin were observed.[79]
+
+References[edit]
+
+
+^ "Procalcitonin: Reference Range, Interpretation, Collection and Panels". 2017-03-09. Cite journal requires |journal= (help).mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ Deftos LJ, Roos BA, Parthemore JG (December 1975). "Calcium and skeletal metabolism". The Western Journal of Medicine. 123 (6): 447–58. PMC 1130411. PMID 1105981.
+
+^ Dandona P, Nix D, Wilson MF, Aljada A, Love J, Assicot M, Bohuon C (December 1994). "Procalcitonin increase after endotoxin injection in normal subjects". The Journal of Clinical Endocrinology and Metabolism. 79 (6): 1605–8. doi:10.1210/jc.79.6.1605. PMID 7989463.
+
+^ Long SS, Pickering LK, Prober CG, eds. (2012). "Bacterial infections in the neonate". Principles and Practice of Pediatric Infectious Diseases (4th ed.). Elsevier. ISBN 978-1437727029.
+
+^ Reinhart K, Karzai W, Meisner M (September 2000). "Procalcitonin as a marker of the systemic inflammatory response to infection". Intensive Care Medicine. 26 (9): 1193–200. doi:10.1007/s001340000624. PMID 11089742.
+
+^ Meisner M (2010). Procalcitonin biochemistry and clinical diagnosis (1st ed.). Bremen: UNI-MED-Verl. ISBN 9783837412413. OCLC 697831954.
+
+^ a b c d e Jin M, Khan AI (2010-03-01). "Procalcitonin: Uses in the Clinical Laboratory for the Diagnosis of Sepsis". Laboratory Medicine. 41 (3): 173–177. doi:10.1309/LMQ2GRR4QLFKHCH9. ISSN 0007-5027.
+
+^ a b Hendrickson WA, Ward KB (October 1975). "Atomic models for the polypeptide backbones of myohemerythrin and hemerythrin". Biochemical and Biophysical Research Communications. 66 (4): 1349–56. doi:10.1016/0006-291X(75)90508-2. PMID 5.
+
+^ a b c Vijayan AL, Ravindran S, Saikant R, Lakshmi S, Kartik R (2017-08-03). "Procalcitonin: a promising diagnostic marker for sepsis and antibiotic therapy". Journal of Intensive Care. 5: 51. doi:10.1186/s40560-017-0246-8. PMC 5543591. PMID 28794881.
+
+^ Snider RH, Nylen ES, Becker KL (December 1997). "Procalcitonin and its component peptides in systemic inflammation: immunochemical characterization". Journal of Investigative Medicine. 45 (9): 552–60. PMID 9444882.
+
+^ Linscheid P, Seboek D, Nylen ES, Langer I, Schlatter M, Becker KL,  et al. (December 2003). "In vitro and in vivo calcitonin I gene expression in parenchymal cells: a novel product of human adipose tissue". Endocrinology. 144 (12): 5578–84. doi:10.1210/en.2003-0854. PMID 12960010.
+
+^ a b Schuetz P, Albrich W, Mueller B (September 2011). "Procalcitonin for diagnosis of infection and guide to antibiotic decisions: past, present and future". BMC Medicine. 9: 107. doi:10.1186/1741-7015-9-107. PMC 3186747. PMID 21936959.
+
+^ Kafetzis DA, Velissariou IM, Nikolaides P, Sklavos M, Maktabi M, Spyridis G,  et al. (July 2005). "Procalcitonin as a predictor of severe appendicitis in children". European Journal of Clinical Microbiology & Infectious Diseases. 24 (7): 484–7. doi:10.1007/s10096-005-1360-4. PMID 15995845.
+
+^ Sand M, Trullen XV, Bechara FG, Pala XF, Sand D, Landgrafe G,  et al. (2009). "A prospective bicenter study investigating the diagnostic value of procalcitonin in patients with acute appendicitis". European Surgical Research. Europaische Chirurgische Forschung. Recherches Chirurgicales Europeennes. 43 (3): 291–7. doi:10.1159/000232939. PMC 2790741. PMID 19672084.
+
+^ Anielski R, Kuśnierz-Cabala B, Szafraniec K (November 2010). "An evaluation of the utility of additional tests in the preoperative diagnostics of acute appendicitis". Langenbeck's Archives of Surgery. 395 (8): 1061–8. doi:10.1007/s00423-009-0565-x. PMID 19924436.
+
+^ Markogiannakis H, Memos N, Messaris E, Dardamanis D, Larentzakis A, Papanikolaou D,  et al. (March 2011). "Predictive value of procalcitonin for bowel ischemia and necrosis in bowel obstruction". Surgery. 149 (3): 394–403. doi:10.1016/j.surg.2010.08.007. PMID 20869092.
+
+^ Hügle T, Schuetz P, Mueller B, Laifer G, Tyndall A, Regenass S, Daikeler T (May 2008). "Serum procalcitonin for discrimination between septic and non-septic arthritis". Clinical and Experimental Rheumatology. 26 (3): 453–6. PMID 18578968.
+
+^ Butbul-Aviel Y, Koren A, Halevy R, Sakran W (December 2005). "Procalcitonin as a diagnostic aid in osteomyelitis and septic arthritis". Pediatric Emergency Care. 21 (12): 828–32. doi:10.1097/01.pec.0000190226.12610.24. PMID 16340758.
+
+^ Martinot M, Sordet C, Soubrier M, Puéchal X, Saraux A, Lioté F,  et al. (May 2005). "Diagnostic value of serum and synovial procalcitonin in acute arthritis: a prospective study of 42 patients". Clinical and Experimental Rheumatology. 23 (3): 303–10. PMID 15971417.
+
+^ Seif F, Khayyata S, Hejal R (2010). "Lipoid Pneumonia Presenting as Solitary Pulmonary Nodule". Chest. 138 (4): 121A. doi:10.1378/chest.10954.
+
+^ a b van Nieuwkoop C, Bonten TN, van't Wout JW, Kuijper EJ, Groeneveld GH, Becker MJ,  et al. (2010-11-17). "Procalcitonin reflects bacteremia and bacterial load in urosepsis syndrome: a prospective observational study". Critical Care. 14 (6): R206. doi:10.1186/cc9328. PMC 3220019. PMID 21083886.
+
+^ Riedel S, Melendez JH, An AT, Rosenbaum JE, Zenilman JM (February 2011). "Procalcitonin as a marker for the detection of bacteremia and sepsis in the emergency department". American Journal of Clinical Pathology. 135 (2): 182–9. doi:10.1309/ajcp1mfyinqlecv2. PMID 21228358.
+
+^ Schuetz P, Mueller B, Trampuz A (October 2007). "Serum procalcitonin for discrimination of blood contamination from bloodstream infection due to coagulase-negative staphylococci" (PDF). Infection. 35 (5): 352–5. doi:10.1007/s15010-007-7065-0. PMID 17882355.
+
+^ a b c Christ-Crain M, Jaccard-Stolz D, Bingisser R, Gencay MM, Huber PR, Tamm M, Müller B (February 2004). "Effect of procalcitonin-guided treatment on antibiotic use and outcome in lower respiratory tract infections: cluster-randomised, single-blinded intervention trial". Lancet. 363 (9409): 600–7. doi:10.1016/s0140-6736(04)15591-8. PMID 14987884.
+
+^ a b c Schuetz P, Christ-Crain M, Thomann R, Falconnier C, Wolbers M, Widmer I,  et al. (September 2009). "Effect of procalcitonin-based guidelines vs standard guidelines on antibiotic use in lower respiratory tract infections: the ProHOSP randomized controlled trial". JAMA. 302 (10): 1059–66. doi:10.1001/jama.2009.1297. PMID 19738090.
+
+^ Stolz D, Christ-Crain M, Bingisser R, Leuppi J, Miedinger D, Müller C,  et al. (January 2007). "Antibiotic treatment of exacerbations of COPD: a randomized, controlled trial comparing procalcitonin-guidance with standard therapy". Chest. 131 (1): 9–19. doi:10.1378/chest.06-1500. PMID 17218551.
+
+^ Knudsen JB, Fuursted K, Petersen E, Wierup P, Mølgaard H, Poulsen SH, Egeblad H (December 2010). "Procalcitonin in 759 patients clinically suspected of infective endocarditis". The American Journal of Medicine. 123 (12): 1121–7. doi:10.1016/j.amjmed.2010.07.018. PMID 20870199.
+
+^ Mueller C, Huber P, Laifer G, Mueller B, Perruchoud AP (April 2004). "Procalcitonin and the early diagnosis of infective endocarditis". Circulation. 109 (14): 1707–10. doi:10.1161/01.cir.0000126281.52345.52. PMID 15066945.
+
+^ Gendrel D, Raymond J, Assicot M, Moulin F, Iniguez JL, Lebon P, Bohuon C (June 1997). "Measurement of procalcitonin levels in children with bacterial or viral meningitis". Clinical Infectious Diseases. 24 (6): 1240–2. doi:10.1086/513633. PMID 9195090.
+
+^ Marc E, Menager C, Moulin F, Stos B, Chalumeau M, Guérin S,  et al. (2002). "Procalcitonine et méningites virales : réduction des traitements antibiotiques inutiles par le dosage en routine au cours d'une épidémie". Archives de Pédiatrie. 9 (4): 358–364. doi:10.1016/s0929-693x(01)00793-x. PMID 11998420.
+
+^ Mary R, Veinberg F, Couderc R (2003). "[Acute meningitidis, acute phase proteins and procalcitonin]". Annales de Biologie Clinique (in French). 61 (2): 127–37. PMID 12702467.
+
+^ Stryjewski GR, Nylen ES, Bell MJ, Snider RH, Becker KL, Wu A, Lawlor C, Dalton H (March 2005). "Interleukin-6, interleukin-8, and a rapid and sensitive assay for calcitonin precursors for the determination of bacterial sepsis in febrile neutropenic children". Pediatric Critical Care Medicine. 6 (2): 129–35. doi:10.1097/01.pcc.0000149317.15274.48. PMID 15730597.
+
+^ Sakr Y, Sponholz C, Tuche F, Brunkhorst F, Reinhart K (October 2008). "The role of procalcitonin in febrile neutropenic patients: review of the literature". Infection. 36 (5): 396–407. doi:10.1007/s15010-008-7374-y. PMID 18759057.
+
+^ Koivula I, Hämäläinen S, Jantunen E, Pulkki K, Kuittinen T, Nousiainen T, Juutilainen A (July 2011). "Elevated procalcitonin predicts Gram-negative sepsis in haematological patients with febrile neutropenia". Scandinavian Journal of Infectious Diseases. 43 (6–7): 471–8. doi:10.3109/00365548.2011.554855. PMID 21299364.
+
+^ Gurda-Duda A, Kuśnierz-Cabala B, Nowak W, Naskalski JW, Kulig J (November 2008). "Assessment of the prognostic value of certain acute-phase proteins and procalcitonin in the prognosis of acute pancreatitis". Pancreas. 37 (4): 449–53. doi:10.1097/mpa.0b013e3181706d67. PMID 18953261.
+
+^ Mofidi R, Suttie SA, Patil PV, Ogston S, Parks RW (July 2009). "The value of procalcitonin at predicting the severity of acute pancreatitis and development of infected pancreatic necrosis: systematic review". Surgery. 146 (1): 72–81. doi:10.1016/j.surg.2009.02.013. PMID 19541012.
+
+^ Christ-Crain M, Stolz D, Bingisser R, Müller C, Miedinger D, Huber PR, Zimmerli W, Harbarth S, Tamm M, Müller B (July 2006). "Procalcitonin guidance of antibiotic therapy in community-acquired pneumonia: a randomized trial". American Journal of Respiratory and Critical Care Medicine. 174 (1): 84–93. doi:10.1164/rccm.200512-1922oc. PMID 16603606.
+
+^ Kristoffersen KB, Søgaard OS, Wejse C, Black FT, Greve T, Tarp B,  et al. (May 2009). "Antibiotic treatment interruption of suspected lower respiratory tract infections based on a single procalcitonin measurement at hospital admission--a randomized trial". Clinical Microbiology and Infection. 15 (5): 481–7. doi:10.1111/j.1469-0691.2009.02709.x. PMID 19416298.
+
+^ Long W, Deng XQ, Tang JG, Xie J, Zhang YC, Zhang Y, Gao YY, Lu G (March 2009). "[The value of serum procalcitonin in treatment of community acquired pneumonia in outpatient]". Zhonghua Nei Ke Za Zhi. 48 (3): 216–9. PMID 19576090.
+
+^ Long W, Deng X, Zhang Y, Lu G, Xie J, Tang J (July 2011). "Procalcitonin guidance for reduction of antibiotic use in low-risk outpatients with community-acquired pneumonia". Respirology. 16 (5): 819–24. doi:10.1111/j.1440-1843.2011.01978.x. PMID 21507143.
+
+^ Hunziker S, Hügle T, Schuchardt K, Groeschl I, Schuetz P, Mueller B,  et al. (January 2010). "The value of serum procalcitonin level for differentiation of infectious from noninfectious causes of fever after orthopaedic surgery". The Journal of Bone and Joint Surgery. American Volume. 92 (1): 138–48. doi:10.2106/jbjs.h.01600. PMID 20048106.
+
+^ Hochreiter M, Köhler T, Schweiger AM, Keck FS, Bein B, von Spiegel T, Schroeder S (2009-06-03). "Procalcitonin to guide duration of antibiotic therapy in intensive care patients: a randomized prospective controlled trial". Critical Care. 13 (3): R83. doi:10.1186/cc7903. PMC 2717450. PMID 19493352.
+
+^ Schroeder S, Hochreiter M, Koehler T, Schweiger AM, Bein B, Keck FS,  et al. (March 2009). "Procalcitonin (PCT)-guided algorithm reduces length of antibiotic treatment in surgical intensive care patients with severe sepsis: results of a prospective randomized study". Langenbeck's Archives of Surgery. 394 (2): 221–6. doi:10.1007/s00423-008-0432-1. PMID 19034493.
+
+^ Nobre V, Harbarth S, Graf JD, Rohner P, Pugin J (March 2008). "Use of procalcitonin to shorten antibiotic treatment duration in septic patients: a randomized trial". American Journal of Respiratory and Critical Care Medicine. 177 (5): 498–505. doi:10.1164/rccm.200708-1238OC. PMID 18096708.
+
+^ a b Bouadma L, Luyt CE, Tubach F, Cracco C, Alvarez A, Schwebel C,  et al. (February 2010). "Use of procalcitonin to reduce patients' exposure to antibiotics in intensive care units (PRORATA trial): a multicentre randomised controlled trial". Lancet. 375 (9713): 463–74. doi:10.1016/s0140-6736(09)61879-1. PMID 20097417.
+
+^ Burkhardt O, Ewig S, Haagen U, Giersdorf S, Hartmann O, Wegscheider K, Hummers-Pradier E, Welte T (September 2010). "Procalcitonin guidance and reduction of antibiotic use in acute respiratory tract infection". The European Respiratory Journal. 36 (3): 601–7. doi:10.1183/09031936.00163309. PMID 20185423.
+
+^ Pecile P, Miorin E, Romanello C, Falleti E, Valent F, Giacomuzzi F, Tenore A (August 2004). "Procalcitonin: a marker of severity of acute pyelonephritis among children". Pediatrics. 114 (2): e249–54. doi:10.1542/peds.114.2.e249. PMID 15286264.
+
+^ Stolz D, Smyrnios N, Eggimann P, Pargger H, Thakkar N, Siegemund M, Marsch S, Azzola A, Rakic J, Mueller B, Tamm M (December 2009). "Procalcitonin for reduced antibiotic exposure in ventilator-associated pneumonia: a randomised study". The European Respiratory Journal. 34 (6): 1364–75. doi:10.1183/09031936.00053209. PMID 19797133.
+
+^ Meisner M, Tschaikowsky K, Palmaers T, Schmidt J (1999). "Comparison of procalcitonin (PCT) and C-reactive protein (CRP) plasma concentrations at different SOFA scores during the course of sepsis and MODS". Critical Care. 3 (1): 45–50. doi:10.1186/cc306. PMC 29013. PMID 11056723.
+
+^ BalcI C, Sungurtekin H, Gürses E, Sungurtekin U, Kaptanoglu B (February 2003). "Usefulness of procalcitonin for diagnosis of sepsis in the intensive care unit". Critical Care. 7 (1): 85–90. doi:10.1186/cc1843. PMC 154110. PMID 12617745.
+
+^ Schuetz P, Christ-Crain M, Thomann R, Falconnier C, Wolbers M, Widmer I, Neidert S, Fricker T, Blum C, Schild U, Regez K, Schoenenberger R, Henzen C, Bregenzer T, Hoess C, Krause M, Bucher HC, Zimmerli W, Mueller B (September 2009). "Effect of procalcitonin-based guidelines vs standard guidelines on antibiotic use in lower respiratory tract infections: the ProHOSP randomized controlled trial". JAMA. 302 (10): 1059–66. doi:10.1001/jama.2009.1297. PMID 19738090.
+
+^ Yealy DM, Fine MJ (September 2009). "Measurement of serum procalcitonin: a step closer to tailored care for respiratory infections?". JAMA. 302 (10): 1115–6. doi:10.1001/jama.2009.1318. PMID 19738100.
+
+^ Jones AE, Fiechtl JF, Brown MD, Ballew JJ, Kline JA (July 2007). "Procalcitonin test in the diagnosis of bacteremia: a meta-analysis". Annals of Emergency Medicine. 50 (1): 34–41. doi:10.1016/j.annemergmed.2006.10.020. PMID 17161501.
+
+^ Tan M, Lu Y, Jiang H, Zhang L (November 2018). "The diagnostic accuracy of procalcitonin and C-reactive protein for sepsis: A systematic review and meta-analysis". Journal of Cellular Biochemistry. 120 (4): 5852–5859. doi:10.1002/jcb.27870. PMID 30417415.
+
+^ Wirz Y, Meier MA, Bouadma L, Luyt CE, Wolff M, Chastre J, Tubach F, Schroeder S, Nobre V, Annane D, Reinhart K, Damas P, Nijsten M, Shajiei A, deLange DW, Deliberato RO, Oliveira CF, Shehabi Y, van Oers JA, Beishuizen A, Girbes AR, de Jong E, Mueller B, Schuetz P (August 2018). "Effect of procalcitonin-guided antibiotic treatment on clinical outcomes in intensive care unit patients with infection and sepsis patients: a patient-level meta-analysis of randomized trials". Critical Care. 22 (1): 191. doi:10.1186/s13054-018-2125-7. PMC 6092799. PMID 30111341.
+
+^ a b c Schuetz P, Wirz Y, Sager R, Christ-Crain M, Stolz D, Tamm M, Bouadma L, Luyt CE, Wolff M, Chastre J, Tubach F, Kristoffersen KB, Burkhardt O, Welte T, Schroeder S, Nobre V, Wei L, Bucher HC, Bhatnagar N, Annane D, Reinhart K, Branche A, Damas P, Nijsten M, de Lange DW, Deliberato RO, Lima SS, Maravić-Stojković V, Verduri A, Cao B, Shehabi Y, Beishuizen A, Jensen JS, Corti C, Van Oers JA, Falsey AR, de Jong E, Oliveira CF, Beghe B, Briel M, Mueller B (October 2017). "Procalcitonin to initiate or discontinue antibiotics in acute respiratory tract infections" (PDF). The Cochrane Database of Systematic Reviews. 10: CD007498. doi:10.1002/14651858.CD007498.pub3. PMC 6485408. PMID 29025194.
+
+^ Liu D, Su LX, Guan W, Xiao K, Xie LX (February 2016). "Prognostic value of procalcitonin in pneumonia: A systematic review and meta-analysis". Respirology. 21 (2): 280–8. doi:10.1111/resp.12704. PMC 4738441. PMID 26662169.
+
+^ Lin C, Pang Q (January 2018). "Meta-analysis and systematic review of procalcitonin-guided treatment in acute exacerbation of chronic obstructive pulmonary disease". The Clinical Respiratory Journal. 12 (1): 10–15. doi:10.1111/crj.12519. PMID 27328801.
+
+^ Ibrahim WH, Mushtaq K, Raza T, Kartha A, Saleh AO, Malik RA (December 2017). "Effects of procalcitonin-guided treatment on antibiotic use and need for mechanical ventilation in patients with acute asthma exacerbation: Meta-analysis of randomized controlled trials". International Journal of Infectious Diseases. 65: 75–80. doi:10.1016/j.ijid.2017.10.005. PMID 29038045.
+
+^ Schuetz P, Daniels LB, Kulkarni P, Anker SD, Mueller B (November 2016). "Procalcitonin: A new biomarker for the cardiologist". International Journal of Cardiology. 223: 390–397. doi:10.1016/j.ijcard.2016.08.204. PMID 27543716.
+
+^ Ponikowski P, Voors AA, Anker SD, Bueno H, Cleland JG, Coats AJ, Falk V, González-Juanatey JR, Harjola VP, Jankowska EA, Jessup M, Linde C, Nihoyannopoulos P, Parissis JT, Pieske B, Riley JP, Rosano GM, Ruilope LM, Ruschitzka F, Rutten FH, van der Meer P (July 2016). "2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC)Developed with the special contribution of the Heart Failure Association (HFA) of the ESC". European Heart Journal. 37 (27): 2129–2200. doi:10.1093/eurheartj/ehw128. PMID 27206819.
+
+^ Möckel M, Searle J, Maisel A (August 2017). "The role of procalcitonin in acute heart failure patients". ESC Heart Failure. 4 (3): 203–208. doi:10.1002/ehf2.12189. PMC 5542739. PMID 28772049.
+
+^ Aïssou L, Sorbets E, Lallmahomed E, Goudot FX, Pop N, Es-Sebbani S, Benouda L, Nuel G, Meune C (July 2018). "Prognostic and diagnostic value of elevated serum concentration of procalcitonin in patients with suspected heart failure. A review and meta-analysis". Biomarkers. 23 (5): 407–413. doi:10.1080/1354750X.2018.1443511. PMID 29465002.
+
+^ Wei TT, Hu ZD, Qin BD, Ma N, Tang QQ, Wang LL, Zhou L, Zhong RQ (March 2016). "Diagnostic Accuracy of Procalcitonin in Bacterial Meningitis Versus Nonbacterial Meningitis: A Systematic Review and Meta-Analysis". Medicine. 95 (11): e3079. doi:10.1097/MD.0000000000003079. PMC 4839921. PMID 26986140.
+
+^ Velissaris D, Pintea M, Pantzaris N, Spatha E, Karamouzos V, Pierrakos C, Karanikolas M (June 2018). "The Role of Procalcitonin in the Diagnosis of Meningitis: A Literature Review". Journal of Clinical Medicine. 7 (6): 148. doi:10.3390/jcm7060148. PMC 6025317. PMID 29891780.
+
+^ Vikse J, Henry BM, Roy J, Ramakrishnan PK, Tomaszewski KA, Walocha JA (September 2015). "The role of serum procalcitonin in the diagnosis of bacterial meningitis in adults: a systematic review and meta-analysis". International Journal of Infectious Diseases. 38: 68–76. doi:10.1016/j.ijid.2015.07.011. PMID 26188130.
+
+^ Lippi G, Sanchis-Gomar F (December 2017). "Procalcitonin in inflammatory bowel disease: Drawbacks and opportunities". World Journal of Gastroenterology. 23 (47): 8283–8290. doi:10.3748/wjg.v23.i47.8283. PMC 5743499. PMID 29307988.
+
+^ Grace E, Turner RM (December 2014). "Use of procalcitonin in patients with various degrees of chronic kidney disease including renal replacement therapy". Clinical Infectious Diseases. 59 (12): 1761–7. doi:10.1093/cid/ciu732. PMID 25228701.
+
+^ Zhou Q, Tan D, Yi Z, Zheng Y, Lu M (April 2013). "[Prognostic value of procalcitonin, endotoxin and common inflammatory markers combining MELD score in patients with chronic severe hepatitis]". Zhong Nan da Xue Xue Bao. Yi Xue Ban = Journal of Central South University. Medical Sciences. 38 (4): 388–94. doi:10.3969/j.issn.1672-7347.2013.04.009. PMID 23645239.
+
+^ Chirapongsathorn S, Bunraksa W, Chaiprasert A, Punpanich D, Supasyndh O, Kamath PS (March 2018). "Adding C-reactive protein and procalcitonin to the model of end-stage liver disease score improves mortality prediction in patients with complications of cirrhosis". Journal of Gastroenterology and Hepatology. 33 (3): 726–732. doi:10.1111/jgh.13928. PMID 28840619.
+
+^ Zhao J, Zhang S, Zhang L, Dong X, Li J, Wang Y, Yao Y (August 2017). "Serum procalcitonin levels as a diagnostic marker for septic arthritis: A meta-analysis". The American Journal of Emergency Medicine. 35 (8): 1166–1171. doi:10.1016/j.ajem.2017.06.014. PMID 28623003.
+
+^ Sbrana A, Torchio M, Comolli G, Antonuzzo A, Danova M (July 2016). "Use of procalcitonin in clinical oncology: a literature review". The New Microbiologica. 39 (3): 174–180. PMID 27284982.
+
+^ Trimboli P, Giovanella L (June 2018). "Procalcitonin as Marker of Recurrent Medullary Thyroid Carcinoma: A Systematic Review and Meta-Analysis". Endocrinology and Metabolism. 33 (2): 204–210. doi:10.3803/EnM.2018.33.2.204. PMC 6021302. PMID 29947178.
+
+^ Pontrelli G, De Crescenzo F, Buzzetti R, Jenkner A, Balduzzi S, Calò Carducci F, Amodio D, De Luca M, Chiurchiù S, Davies EH, Copponi G, Simonetti A, Ferretti E, Di Franco V, Rasi V, Della Corte M, Gramatica L, Ciabattini M, Livadiotti S, Rossi P (April 2017). "Accuracy of serum procalcitonin for the diagnosis of sepsis in neonates and children with systemic inflammatory syndrome: a meta-analysis". BMC Infectious Diseases. 17 (1): 302. doi:10.1186/s12879-017-2396-7. PMC 5404674. PMID 28438138.
+
+^ Trippella G, Galli L, De Martino M, Lisi C, Chiappini E (November 2017). "Procalcitonin performance in detecting serious and invasive bacterial infections in children with fever without apparent source: a systematic review and meta-analysis". Expert Review of Anti-Infective Therapy. 15 (11): 1041–1057. doi:10.1080/14787210.2017.1400907. PMID 29103336.
+
+^ Memar MY, Varshochi M, Shokouhi B, Asgharzadeh M, Kafil HS (December 2017). "Procalcitonin: The marker of pediatric bacterial infection". Biomedicine & Pharmacotherapy. 96: 936–943. doi:10.1016/j.biopha.2017.11.149. PMID 29203386.
+
+^ Lam SW, Bauer SR, Fowler R, Duggal A (May 2018). "Systematic Review and Meta-Analysis of Procalcitonin-Guidance Versus Usual Care for Antimicrobial Management in Critically Ill Patients: Focus on Subgroups Based on Antibiotic Initiation, Cessation, or Mixed Strategies". Critical Care Medicine. 46 (5): 684–690. doi:10.1097/CCM.0000000000002953. PMID 29293146.
+
+^ van der Does Y, Rood PP, Haagsma JA, Patka P, van Gorp EC, Limper M (July 2016). "Procalcitonin-guided therapy for the initiation of antibiotics in the ED: a systematic review". The American Journal of Emergency Medicine. 34 (7): 1286–93. doi:10.1016/j.ajem.2016.03.065. PMID 27130585.
+
+^ Lovas A, Agoston Z, Késmárky K, Hankovszky P, Molnár Z (2014). "Extreme Procalcitonin Elevation without Proven Bacterial Infection Related to Amphetamine Abuse". Case Reports in Critical Care. 2014: 1–3. doi:10.1155/2014/179313. PMC 4006559. PMID 24826347.
+
+
+External links[edit]
+Procalcitonin: analyte monograph - The Association for Clinical Biochemistry and Laboratory Medicine
+vteIntensive care medicine
+Health science
+Medicine
+Medical specialities
+Respiratory therapy
+General terms
+Intensive care unit (ICU)
+Neonatal intensive care unit (NICU)
+Pediatric intensive care unit (PICU)
+Coronary care unit (CCU)
+Critical illness insurance
+ConditionsOrgan system failure
+Shock sequence
+SIRS
+Sepsis
+Severe sepsis
+Septic shock
+Multiple organ dysfunction syndrome
+Other shock
+Cardiogenic shock
+Distributive shock
+Anaphylaxis
+Obstructive shock
+Neurogenic shock
+Spinal shock
+Vasodilatory shock
+Organ failure
+Acute renal failure
+Acute respiratory distress syndrome
+Acute liver failure
+Respiratory failure
+Multiple organ dysfunction syndrome
+Neonatal infection
+Polytrauma
+Coma
+Complications
+Critical illness polyneuropathy / myopathy
+Critical illness–related corticosteroid insufficiency
+Decubitus ulcers
+Fungemia
+Stress hyperglycemia
+Stress ulcer
+Iatrogenesis
+Methicillin-resistant Staphylococcus aureus
+Oxygen toxicity
+Refeeding syndrome
+Ventilator-associated lung injury
+Ventilator-associated pneumonia
+Dialytrauma
+Diagnosis
+Arterial blood gas
+Catheter
+Arterial line
+Central venous catheter
+Pulmonary artery catheter
+Blood cultures
+Screening cultures
+Life-supporting treatments
+Airway management
+Chest tube
+Dialysis
+Enteral feeding
+Goal-directed therapy
+Induced coma
+Mechanical ventilation
+Therapeutic hypothermia
+Total parenteral nutrition
+Tracheal intubation
+Drugs
+Analgesics
+Antibiotics
+Antithrombotics
+Inotropes
+Intravenous fluids
+Neuromuscular-blocking drugs
+Recombinant activated protein C
+Sedatives
+Stress ulcer prevention drugs
+Vasopressors
+ICU scoring systems
+APACHE II
+Glasgow Coma Scale
+PIM2
+SAPS II
+SAPS III
+SOFA
+Physiology
+Hemodynamics
+Hypotension
+Level of consciousness
+Acid–base imbalance
+Water-electrolyte imbalance
+Organisations
+Society of Critical Care Medicine
+Surviving Sepsis Campaign
+European Society of Paediatric and Neonatal Intensive Care
+Related specialties
+Anesthesiology
+Cardiology
+Internal medicine
+Neurology
+Pediatrics
+Pulmonology
+Surgery
+Traumatology
+
+vteMedical tests used in immunology and for inflammation (CPT 86000–86849)ImmunologyImmunoprecipitation
+Chromatin immunoprecipitation
+Immunodiffusion
+Ouchterlony double immunodiffusion
+Radial immunodiffusion
+Immunoelectrophoresis
+Counterimmunoelectrophoresis
+Immunoassay
+ELISA
+ELISpot
+Enzyme Multiplied Immunoassay Technique
+RAST test
+Radioimmunoassay
+Radiobinding assay
+Immunofluorescence
+Agglutination
+Hemagglutination/Hemagglutinin
+Coombs test
+Latex fixation test
+Other
+Diagnostic immunology
+Nephelometry
+Complement fixation test
+Immunocytochemistry
+Immunohistochemistry
+Direct fluorescent antibody
+Epitope mapping
+Skin allergy test
+Patch test
+see also...
+Inflammation
+C-reactive protein
+Procalcitonin
+Total complement activity
+MELISA
+Complete blood count
+lymphocyte count
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Procalcitonin&oldid=929554289"
+		
+		Categories: PeptidesBlood testsDiagnostic intensive care medicineImmunologic testsPrecursor proteinsHidden categories: CS1 errors: missing periodicalCS1 French-language sources (fr)Articles which use infobox templates with no data rows
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					العربيةČeštinaDeutschEspañolFrançaisItaliano日本語Polski				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 6 December 2019, at 16:00 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.208","walltime":"1.360","ppvisitednodes":{"value":3796,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":237232,"limit":2097152},"templateargumentsize":{"value":260,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":278938,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1194.134      1 -total"," 88.94% 1062.008      1 Template:Reflist"," 73.07%  872.556     77 Template:Cite_journal","  6.77%   80.814      2 Template:Cite_book","  4.22%   50.433      1 Template:Infobox_diagnostic","  3.77%   44.985      1 Template:Infobox","  2.08%   24.845      4 Template:Navbox","  1.60%   19.146      1 Template:Intensive_care_medicine","  0.76%    9.080      1 Template:Immunologic_techniques_and_tests","  0.32%    3.859      1 Template:Template_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.830","limit":"10.000"},"limitreport-memusage":{"value":5528191,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20191206160124","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Procalcitonin","url":"https:\/\/en.wikipedia.org\/wiki\/Procalcitonin","sameAs":"http:\/\/www.wikidata.org\/entity\/Q786600","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q786600","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-06-03T06:09:08Z","dateModified":"2019-12-06T16:00:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/24\/A_3D_cartoon_of_procalcitonin%27s_parent_compound%2C_calcitonin.png"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":133,"wgHostname":"mw1323"});});
+
+

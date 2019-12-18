@@ -1,0 +1,550 @@
+
+
+Régny - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqtKApAICAAAGgU4XQAAAAQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Régny","wgTitle":"Régny","wgCurRevisionId":918930474,"wgRevisionId":918930474,"wgArticleId":15809819,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Infobox mapframe without OSM relation ID on Wikidata","Coordinates on Wikidata","Commons category link from Wikidata","All stub articles","Pages using the Kartographer extension",
+"Communes of Loire (department)","Loire geography stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Régny","wgRelevantArticleId":15809819,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgKartographerLiveData":{"_676092c28f641c423c83e42c370ddd17f6e9709e":[{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q1107311","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Régny","fill":
+"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q1107311","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Régny"}},{"type":"Feature","geometry":{"coordinates":[4.2147222222222,45.990833333333],"type":"Point"},"properties":{"title":"Régny","marker-color":"#5E74F3"}},{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q1107311","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Régny","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q1107311","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Régny"}},{"type":"Feature","geometry":{"coordinates":[4.2147222222222,45.990833333333],"type":"Point"},"properties":{"title":"Régny","marker-color":"#5E74F3"}}]},"wgCoordinates":{"lat":45.9917,"lon":4.2156},"wgWikibaseItemId":"Q1107311","wgCentralAuthMobileDomain":
+!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Régny
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Commune in Auvergne-Rhône-Alpes, FranceRégnyCommuneRailway station
+Coat of armsLocation of Régny
+RégnyShow map of FranceRégnyShow map of Auvergne-Rhône-AlpesCoordinates: 45°59′30″N 4°12′56″E﻿ / ﻿45.9917°N 4.2156°E﻿ / 45.9917; 4.2156Coordinates: 45°59′30″N 4°12′56″E﻿ / ﻿45.9917°N 4.2156°E﻿ / 45.9917; 4.2156CountryFranceRegionAuvergne-Rhône-AlpesDepartmentLoireArrondissementRoanneCantonCharlieuIntercommunalityPays entre Loire et RhôneGovernment • Mayor .mw-parser-output .nobold{font-weight:normal}(2014–2020) Julien SiméonArea113.8 km2 (5.3 sq mi)Population (2016-01-01)[1]1,560 • Density110/km2 (290/sq mi)Time zoneUTC+01:00 (CET) • Summer (DST)UTC+02:00 (CEST)INSEE/Postal code42181 /42630Elevation305–510 m (1,001–1,673 ft) (avg. 325 m or 1,066 ft)1 French Land Register data, which excludes lakes, ponds, glaciers > 1 km2 (0.386 sq mi or 247 acres) and river estuaries.
+Régny is a commune in the Loire department in central France.
+
+Population[edit]
+Historical populationYearPop.±%1793340—    1806433+27.4%1821400−7.6%1831432+8.0%1841452+4.6%1851496+9.7%1861509+2.6%1872505−0.8%1881395−21.8%1891400+1.3%1901358−10.5%1911333−7.0%1921288−13.5%1931280−2.8%1946249−11.1%1954280+12.4%1962276−1.4%1968256−7.2%1975266+3.9%1982256−3.8%1990234−8.6%1999247+5.6%2008212−14.2%2016201−5.2%
+
+See also[edit]
+Communes of the Loire department
+References[edit]
+
+
+^ "Populations légales 2016". INSEE. Retrieved 25 April 2019..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+
+
+
+
+Wikimedia Commons has media related to Régny.
+
+vteCommunes of the Loire department 
+Aboën
+Ailleux
+Ambierle
+Andrézieux-Bouthéon
+Apinac
+Arcinges
+Arcon
+Arthun
+Aveizieux
+Balbigny
+Bard
+Bellegarde-en-Forez
+Belleroche
+Belmont-de-la-Loire
+La Bénisson-Dieu
+Le Bessat
+Bessey
+Boën-sur-Lignon
+Boisset-lès-Montrond
+Boisset-Saint-Priest
+Bonson
+Bourg-Argental
+Boyer
+Briennon
+Bully
+Burdignes
+Bussières
+Bussy-Albieux
+Çaloire
+Cellieu
+Le Cergne
+Cervières
+Cezay
+Chagnon
+Chalain-d'Uzore
+Chalain-le-Comtal
+Chalmazel-Jeansagnière
+La Chamba
+Chambéon
+Chambles
+Chambœuf
+Le Chambon-Feugerolles
+La Chambonie
+Champdieu
+Champoly
+Chandon
+Changy
+La Chapelle-en-Lafaye
+La Chapelle-Villars
+Charlieu
+Châteauneuf
+Châtelneuf
+Châtelus
+Chausseterre
+Chavanay
+Chazelles-sur-Lavieu
+Chazelles-sur-Lyon
+Chenereilles
+Cherier
+Chevrières
+Chirassimont
+Chuyer
+Civens
+Cleppé
+Colombier
+Combre
+Commelle-Vernay
+Cordelle
+La Côte-en-Couzan
+Le Coteau
+Cottance
+Coutouvre
+Craintilleux
+Cremeaux
+Croizet-sur-Gand
+Le Crozet
+Cuinzier
+Cuzieu
+Dargoire
+Débats-Rivière-d'Orpra
+Doizieux
+Écoche
+Écotay-l'Olme
+Épercieux-Saint-Paul
+Essertines-en-Châtelneuf
+Essertines-en-Donzy
+Estivareilles
+L'Étrat
+Farnay
+Feurs
+Firminy
+Fontanès
+La Fouillouse
+Fourneaux
+Fraisses
+Genilac
+La Gimond
+Graix
+Grammond
+La Grand-Croix
+La Gresle
+Grézieux-le-Fromental
+Grézolles
+Gumières
+L'Hôpital-le-Grand
+L'Hôpital-sous-Rochefort
+L'Horme
+Jarnosse
+Jas
+Jonzieux
+Juré
+Lavieu
+Lay
+Leigneux
+Lentigny
+Lérigneux
+Lézigneux
+Lorette
+Lupé
+Luré
+Luriecq
+Mably
+Machézal
+Maclas
+Magneux-Haute-Rive
+Maizilly
+Malleval
+Marcenod
+Marcilly-le-Châtel
+Marclopt
+Marcoux
+Margerie-Chantagret
+Maringes
+Marlhes
+Marols
+Mars
+Merle-Leignec
+Mizérieux
+Montagny
+Montarcher
+Montbrison
+Montchal
+Montrond-les-Bains
+Montverdun
+Mornand-en-Forez
+Nandax
+Neaux
+Néronde
+Nervieux
+Neulise
+Noailly
+Les Noës
+Noirétable
+Nollieux
+Notre-Dame-de-Boisset
+Ouches
+La Pacaudière
+Palogneux
+Panissières
+Parigny
+Pavezin
+Pélussin
+Périgneux
+Perreux
+Pinay
+Planfoy
+Pommiers
+Poncins
+Pouilly-lès-Feurs
+Pouilly-les-Nonains
+Pouilly-sous-Charlieu
+Pradines
+Pralong
+Précieux
+Régny
+Renaison
+La Ricamarie
+Riorges
+Rivas
+Rive-de-Gier
+Roanne
+Roche
+Roche-la-Molière
+Roisey
+Rozier-Côtes-d'Aurec
+Rozier-en-Donzy
+Sail-les-Bains
+Sail-sous-Couzan
+Saint-Alban-les-Eaux
+Saint-André-d'Apchon
+Saint-André-le-Puy
+Saint-Appolinard
+Saint-Barthélemy-Lestra
+Saint-Bonnet-des-Quarts
+Saint-Bonnet-le-Château
+Saint-Bonnet-le-Courreau
+Saint-Bonnet-les-Oules
+Saint-Chamond
+Saint-Christo-en-Jarez
+Saint-Cyprien
+Saint-Cyr-de-Favières
+Saint-Cyr-de-Valorges
+Saint-Cyr-les-Vignes
+Saint-Denis-de-Cabanne
+Saint-Denis-sur-Coise
+Saint-Didier-sur-Rochefort
+Sainte-Agathe-en-Donzy
+Sainte-Agathe-la-Bouteresse
+Sainte-Colombe-sur-Gand
+Sainte-Croix-en-Jarez
+Sainte-Foy-Saint-Sulpice
+Saint-Étienne
+Saint-Étienne-le-Molard
+Saint-Forgeux-Lespinasse
+Saint-Galmier
+Saint-Genest-Lerpt
+Saint-Genest-Malifaux
+Saint-Georges-de-Baroille
+Saint-Georges-en-Couzan
+Saint-Georges-Haute-Ville
+Saint-Germain-la-Montagne
+Saint-Germain-Laval
+Saint-Germain-Lespinasse
+Saint-Haon-le-Châtel
+Saint-Haon-le-Vieux
+Saint-Héand
+Saint-Hilaire-Cusson-la-Valmitte
+Saint-Hilaire-sous-Charlieu
+Saint-Jean-Bonnefonds
+Saint-Jean-la-Vêtre
+Saint-Jean-Saint-Maurice-sur-Loire
+Saint-Jean-Soleymieux
+Saint-Jodard
+Saint-Joseph
+Saint-Julien-d'Oddes
+Saint-Julien-Molin-Molette
+Saint-Just-en-Bas
+Saint-Just-en-Chevalet
+Saint-Just-la-Pendue
+Saint-Just-Saint-Rambert
+Saint-Laurent-la-Conche
+Saint-Laurent-Rochefort
+Saint-Léger-sur-Roanne
+Saint-Marcel-de-Félines
+Saint-Marcel-d'Urfé
+Saint-Marcellin-en-Forez
+Saint-Martin-d'Estréaux
+Saint-Martin-la-Plaine
+Saint-Martin-la-Sauveté
+Saint-Martin-Lestra
+Saint-Maurice-en-Gourgois
+Saint-Médard-en-Forez
+Saint-Michel-sur-Rhône
+Saint-Nizier-de-Fornas
+Saint-Nizier-sous-Charlieu
+Saint-Paul-d'Uzore
+Saint-Paul-en-Cornillon
+Saint-Paul-en-Jarez
+Saint-Pierre-de-Bœuf
+Saint-Pierre-la-Noaille
+Saint-Polgues
+Saint-Priest-en-Jarez
+Saint-Priest-la-Prugne
+Saint-Priest-la-Roche
+Saint-Priest-la-Vêtre
+Saint-Régis-du-Coin
+Saint-Rirand
+Saint-Romain-d'Urfé
+Saint-Romain-en-Jarez
+Saint-Romain-la-Motte
+Saint-Romain-le-Puy
+Saint-Romain-les-Atheux
+Saint-Sauveur-en-Rue
+Saint-Sixte
+Saint-Symphorien-de-Lay
+Saint-Thomas-la-Garde
+Saint-Victor-sur-Rhins
+Saint-Vincent-de-Boisset
+Les Salles
+Salt-en-Donzy
+Salvizinet
+Sauvain
+Savigneux
+Sevelinges
+Soleymieux
+Sorbiers
+Souternon
+Sury-le-Comtal
+La Talaudière
+Tarentaise
+Tartaras
+La Terrasse-sur-Dorlay
+Thélis-la-Combe
+La Tour-en-Jarez
+La Tourette
+Trelins
+La Tuilière
+Unias
+Unieux
+Urbise
+Usson-en-Forez
+Valeille
+Valfleury
+La Valla-en-Gier
+La Valla-sur-Rochefort
+Veauche
+Veauchette
+Vendranges
+Véranne
+Vérin
+Verrières-en-Forez
+La Versanne
+Vêtre-sur-Anzon
+Vézelin-sur-Loire
+Villars
+Villemontais
+Villerest
+Villers
+Violay
+Viricelles
+Virigneux
+Vivans
+Vougy
+
+This Loire geographical article is a stub. You can help Wikipedia by expanding it.vte
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Régny&oldid=918930474"
+		
+		Categories: Communes of Loire (department)Loire geography stubsHidden categories: Articles with short descriptionInfobox mapframe without OSM relation ID on WikidataCoordinates on WikidataCommons category link from WikidataAll stub articlesPages using the Kartographer extension
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			In other projects
+			
+								
+					Wikimedia Commons				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					ArpetanBân-lâm-gúCatalàCebuanoDeutschEspañolEuskaraFrançaisItalianoLatinaLumbaartMagyarMalagasyBahasa MelayuNederlandsНохчийнOccitanOʻzbekcha/ўзбекчаPiemontèisPolskiPortuguêsRomânăSlovenčinaSvenskaУкраїнськаTiếng ViệtVolapükWinaray中文				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 30 September 2019, at 23:16 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.824","walltime":"1.090","ppvisitednodes":{"value":5860,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":101397,"limit":2097152},"templateargumentsize":{"value":20039,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3466,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  987.289      1 -total"," 83.68%  826.178      1 Template:Infobox_French_commune"," 81.47%  804.362      1 Template:Infobox_settlement"," 68.93%  680.526      1 Template:Infobox"," 22.09%  218.048      7 Template:Wikidata"," 21.47%  212.004      3 Template:France_metadata_Wikidata","  8.56%   84.557      5 Template:Main_other","  5.99%   59.096      2 Template:Infobox_mapframe","  5.50%   54.320      8 Template:Both","  4.86%   48.029      1 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.486","limit":"10.000"},"limitreport-memusage":{"value":9370088,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20191218225017","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"R\u00e9gny","url":"https:\/\/en.wikipedia.org\/wiki\/R%C3%A9gny","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1107311","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1107311","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-02-17T19:55:23Z","dateModified":"2019-09-30T23:16:32Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b3\/Gare_de_R%C3%A9gny.JPG","headline":"commune in Loire, France"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1231,"wgHostname":"mw1330"});});
+
+

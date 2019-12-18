@@ -1,0 +1,274 @@
+
+
+ACAPS - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfn3bgpAICwAAAW80kkAAACI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"ACAPS","wgTitle":"ACAPS","wgCurRevisionId":915517048,"wgRevisionId":915517048,"wgArticleId":56919002,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from June 2018","Use British English Oxford spelling from June 2018","All articles with unsourced statements","Articles with unsourced statements from June 2018","Non-profit organisations based in Norway",
+"Humanitarian aid organizations"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"ACAPS","wgRelevantArticleId":56919002,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q54818535","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
+"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	ACAPS
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+ACAPS is a Norwegian[citation needed] non-profit, non-governmental project that provides international, independent humanitarian analysis. ACAPS was created in 2009. The project is currently funded by 5 donors.
+The analysis is based on evidence and needs and is free of operational agenda. It is freely provided to the NGOs, UN agencies and donors to help them better understand the humanitarian crises, make more informed decisions and respond more effectively to disasters.
+ACAPS established the Syria Needs Analysis Project – SNAP in 2012. For about three years SNAP delivered over 40 products related to the humanitarian impact of the conflict.
+ACAPS provides of independent, multi-sectoral humanitarian analysis. ACAPS is also known for having developed a severity ranking of humanitarian crises. Another ACAPS contribution to the humanitarian system is advocating for the importance of better collecting secondary data (instead of only collecting primary data) and the importance of better analysing fewer data rather than compiling a maximum of information without making sense of it.
+It employs around 30 professionals based in Geneva and in the field.
+
+Contents
+
+1 History
+2 Activities
+
+2.1 Crisis analysis
+2.2 Forecasting
+2.3 Methodology development
+2.4 API/webservices
+
+
+3 Funding
+4 References
+5 External links
+
+
+
+History[edit]
+ACAPS (initially known as "The Assessment Capacities Project”) was established in 2009 to improve the assessment of humanitarian needs in complex emergencies and crises, at a time where there were no single approach, nor consensus on needs assessments and where evidence- and needs-based approaches were not standard. It was created by a consortium of three INGOs: HelpAge International, the Norwegian Refugee Council and Merlin, which then merged with Save the Children.
+Through the development of methodological tools, the delivery of training and operational support (such as Bangladesh in 2012 and Nepal Earthquake in 2015) ACAPS contributed to shape norms and standards around coordinated needs assessment and advocated for more meaningful and evidence-based data.
+ACAPS was a contributor[citation needed] to the MIRA process (Multi-Cluster/Sector Initial Rapid Assessment) which is a joint needs assessment tool that can be used in sudden-onset emergencies.
+Between December 2012 and 30 June 2015 ACAPS and MapAction ran the Strategic Needs Analysis Project — SNAP (initially the Syria Needs Analysis Project). The aim was to support the humanitarian response in Syria and the region with independent analysis and coordinated assessments. For almost three years, SNAP pursued these goals with a combination of independent information products, technical support and capacity building for humanitarian assessments. Its data and products were broadly used by humanitarian workers and also journalists, such as BBC[1] and the New York Times.[2]
+After the SNAP project ACAPS ran several other field projects, such as the Ebola Needs Assessment Project (ENAP) in 2014-2015, the Refugee/Migrant Crisis in 2015-2016 , together with MapAction, the Caribbean response  to the Hurricane Irma and Maria, and more recently the support to the Rohingya crisis.
+In 2014 ACAPS together with the Emergency Capacity Building Project (ECB) launched "Humanitarian Needs Assessment — The Good Enough Guide ”, a tool dedicated to ease field staff carrying out assessment after a humanitarian crisis. This guide received praise for enabling field-based staff and national responders ‘to provide the critical information needed to inform the wider humanitarian community.”[3]
+In 2016 ACAPS, together with six other INGOs, joined the Mixed Migration platform  (MMP),[4] a joint NGO initiative providing quality mixed migration-related information for policy, programming and advocacy work, as well as critical information for people on the move. ACAPS contributes to the MMP with analytical capacity, scenario-building expertise, and online data collection and analysis.
+Over the years, ACAPS centred its core services on humanitarian analysis and the provision of secondary data. Although ACAPS still undertakes and supports field needs assessments (and primary data collection) and produce needs assessment tools, the majority of its work is dedicated to support the humanitarian community by providing up-to-date information on more than 40 key crises around the globe. The ACAPS website, and its related app, CrisisAlert,[5] released in 2017, are the main platforms to present this analysis to the humanitarian community.
+At the recent World Humanitarian Summit in Istanbul, "joint and impartial needs assessments”[6] were promoted as one of the 10 key commitments of the Grand Bargain giving ACAPS new opportunities to play a central role and contribute to change the humanitarian sector.
+
+Activities[edit]
+Crisis analysis[edit]
+ACAPS performs crisis analysis, monitoring and updating current crises on a daily basis. They rank the severity of world humanitarian crises on a weekly basis. Tailored reports, such as the Briefing Notes for the START Fund,[7] are also released. 
+
+Forecasting[edit]
+Since 2015 ACAPS has developed a range of products and services to better anticipate events and humanitarian developments. These services should contribute to inform timely contingency planning and preparedness measures. ACAPS writes risks reports, anticipatory briefing notes and organizes scenario building workshops, such as the one for IFRC, held in April 2017.[8] The result of this exercise is a report with a set of key scenarios including an overview of events that could trigger the scenario, humanitarian consequences and impact, estimated caseload, operational constraints and recommended actions. Every year, in December, ACAPS releases its annual publication, the "Humanitarian Overview”,[9] identifying key crises and corresponding needs to look at in the upcoming year.
+
+Methodology development[edit]
+ACAPS has developed material around humanitarian assessments and analysis, which ranges from decision-making to initial planning of analysis work. The importance of better collecting secondary data (instead of only collecting primary data) and the importance of better analysing fewer data rather than compiling a maximum of information without making sense of it are some of the changes ACAPS made into the humanitarian system. ACAPS is also known for having developed a severity ranking of humanitarian crises. Categories are: severe humanitarian crises, humanitarian crises and situation of concern. This ranking is based on 5 indicators.
+More than 100 methodological tools and guidance have been produced by ACAPS.
+
+API/webservices[edit]
+ACAPS is currently openly sharing its data with various organizations, through an API service. Among them, the Crises App from ReliefWeb[10] uses the ACAPS "Crisis Overview” section for each crisis displayed on its own app.
+
+Funding[edit]
+Since its launch ACAPS has been funded by various institutional donors. The project is currently funded by the Norwegian Ministry of Foreign Affairs, the Swiss Agency for Development and Cooperation (SDC), the Swedish International Development Cooperation Agency (SIDA), the UK Department for International Development (DFID), and The Directorate-General for European Civil Protection and Humanitarian Aid Operations (ECHO).
+
+References[edit]
+
+
+^ "Syria: Mapping the conflict". 10 July 2015. Retrieved 5 June 2018 – via www.bbc.co.uk..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ Stack, Liam; Peçanha, Sergio (12 March 2013). "Map of the Dispute in Syria". Retrieved 5 June 2018 – via NYTimes.com.
+
+^ Jan Egeland Secretary General, Norwegian Refugee Council, Humanitarian Needs Assessment — The Good Enough Guide, Foreword 
+
+^ "About Us — Mixed Migration Platform". Retrieved 5 June 2018.
+
+^ "ACAPS CrisisAlert — Apps on Google Play". play.google.com. Retrieved 5 June 2018.
+
+^ "Grand Bargain (Hosted by the IASC) - IASC". interagencystandingcommittee.org. Retrieved 5 June 2018.
+
+^ "Portal Dashboard — Start Network". startnetwork.org. Retrieved 5 June 2018.
+
+^ "Creating scenarios for better migration response in Europe — IFRC Innovation". 19 April 2017. Retrieved 5 June 2018.
+
+^ Foundation, Thomson Reuters. "Expect more war, hunger, Islamist violence in 2018 -Geneva think-tank". Retrieved 5 June 2018.
+
+^ "ReliefWeb Crises App". labs.reliefweb.int. Archived from the original on 24 March 2018. Retrieved 5 June 2018.
+
+
+External links[edit]
+Official website 
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=ACAPS&oldid=915517048"
+		
+		Categories: Non-profit organisations based in NorwayHumanitarian aid organizationsHidden categories: Use dmy dates from June 2018Use British English Oxford spelling from June 2018All articles with unsourced statementsArticles with unsourced statements from June 2018
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+									
+				Add links			
+		
+				
+		
+				
+						
+								 This page was last edited on 13 September 2019, at 18:40 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.372","walltime":"0.512","ppvisitednodes":{"value":905,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18357,"limit":2097152},"templateargumentsize":{"value":1419,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":26220,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  467.290      1 -total"," 49.85%  232.954      1 Template:Reflist"," 40.97%  191.438      9 Template:Cite_web"," 19.75%   92.271      2 Template:Fix"," 18.72%   87.498      1 Template:Citation_needed"," 12.18%   56.894      1 Template:Use_dmy_dates"," 11.64%   54.394      1 Template:Official_website"," 11.03%   51.546      4 Template:Category_handler","  6.72%   31.421      2 Template:Delink","  5.38%   25.157      2 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.205","limit":"10.000"},"limitreport-memusage":{"value":4133230,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20191214171645","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"ACAPS","url":"https:\/\/en.wikipedia.org\/wiki\/ACAPS","sameAs":"http:\/\/www.wikidata.org\/entity\/Q54818535","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q54818535","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2018-03-23T11:22:32Z","dateModified":"2019-09-13T18:40:21Z","headline":"A Norwegian non-profit, non-governmental project"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1323"});});
+
+

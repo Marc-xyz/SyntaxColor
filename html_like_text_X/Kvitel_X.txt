@@ -1,0 +1,371 @@
+
+
+Kvitel - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfgZMwpAADwAAG5a@CcAAAAR","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Kvitel","wgTitle":"Kvitel","wgCurRevisionId":902009791,"wgRevisionId":902009791,"wgArticleId":25855849,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","Good articles","Articles containing Yiddish-language text","Jewish prayer and ritual texts","Hasidic Judaism","Yiddish words and phrases"],"wgPageContentLanguage":"en","wgPageContentModel":
+"wikitext","wgRelevantPageName":"Kvitel","wgRelevantArticleId":25855849,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6449786","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
+	Kvitel
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+This article refers to the prayer note; for the card game see Kvitlech.
+  The graves of Rabbi Yosef Yitzchok Schneersohn (right) and Rabbi Menachem Mendel Schneerson (left), the sixth and seventh Lubavitcher Rebbes, are piled with kvitelach left by visitors.
+Kvitel (Yiddish: קוויטל‎, "little note"; plural קוויטלך, kvitelach)[1] refers to a practice developed by Hasidic Judaism in which a Hasid (a follower of Hasidic Judaism) writes a note with a petitionary prayer and gives it to a Rebbe (Hasidic Jewish leader) in order to receive the latter's blessing. This prayer may be a general request for health, livelihood, or success,[2] or a specific request such as recovery from illness, the ability to bear children, a wedding match, etc.[3]
+The writing, giving and reading of a kvitel is treated very seriously by Hasid and Rebbe alike, and is executed according to specific protocols. Because of their inherent sanctity, kvitelach may not be thrown away after use; they are either burned or buried.
+The practice of giving kvitelach continues today in all the Hasidic courts.[4] Kvitelach are also placed on the graves of Rebbes and tzadikim (plural of "tzadik," or Jewish holy man) with the hope that the soul of the deceased will intercede for the petitioner in Heaven. 
+It is a centuries-old custom for Jews to place kvitelach containing personal prayers to God between the stones of the Western Wall in Jerusalem.[5] This practice has been also adopted by Christian pilgrims[6] and foreign dignitaries as well. More than a million prayer notes are placed in the Western Wall each year.[7]
+
+Contents
+
+1 Origin
+2 Procedure
+
+2.1 Writing the kvitel
+2.2 Giving the kvitel
+2.3 Reading the kvitel
+
+
+3 At a grave
+4 At the Western Wall
+5 Disposal
+6 Electronic versions
+7 References
+8 External links
+
+
+
+Origin[edit]
+It is unclear when the practice of writing and giving kvitelach began. This practice is not mentioned in the writings of the early kabbalists, nor in the works of the school of Isaac Luria (1534–1572), the father of modern Kabbalah.[8] The first time it is mentioned is during the time of the Baal Shem Tov (1698–1762), founder of Hasidism.[9]
+Some scholars have suggested that the practice is based on Biblical commentator Nahmanides's (1194–1270) interpretation of the scriptural verse "And all those that were numbered of the children of Israel by their fathers' houses, from twenty years old and upward, all that were able to go forth to war in Israel" (Numbers 1:45). In his commentary on the Torah (the Five Books of Moses), Nahmanides contends that Moses asked each Jew to come before him to be counted. This personal appearance of the Jew before Moses, the tzadik (Jewish holy man), foreshadowed the ceremony of the giving of a kvitel by the Hasid to his Rebbe.[10]
+Once the practice of giving kvitelach was established in Hasidic courts, it was treated very seriously. There were cases where Hasidic Jews hired a non-Jew to ride or travel to the Rebbe on Shabbat (the Jewish Sabbath) to deliver a kvitel for a Jew who was ill, a clear violation of the Shabbat laws.[10] Rabbi Sholom Mordechai Schwadron (1835–1911) once responded to a questioner who asked whether a Jew could send a telegram on behalf of a sick person on Shabbat: "In my hometown of Zlatshev, there was a desperately sick person. When the Belzer Rebbe (the Rebbe of the Belz Hasidic dynasty, Rabbi Sholom Rokeach) was in Brod for Shabbat, the local rabbi allowed the Jews to have a gentile write the name of the sick person and his mother's name and send this kvitel to Brod." This action was vehemently protested by Rabbi Shlomo Kluger as well as by the Belzer Rebbe, and the rabbi was removed from his post.[10]
+
+Procedure[edit]
+Writing the kvitel[edit]
+In Hasidic courts, the kvitel is inscribed with the names of the petitioner and his family members, along with their specific requests.[9] The form of the name is the person's full Hebrew name and his mother's Hebrew name (e.g. Shmuel ben Chana, "Shmuel the son of Chana"), even if the Rebbe already knows who he is.[11][12] It is customary to write the kvitel on a blank, unlined piece of paper.[13]
+Customs differ as to who writes the kvitel. In some courts, the Rebbe's attendant writes the kvitel on behalf of the petitioner;[14] in others, a specific person is paid to write the kvitelach.[9] Alternately, the petitioner himself writes the kvitel.[15]
+Various customs arose around the writing of a kvitel. It is considered a bad omen if a kvitel falls on the ground, or if sand is placed on it. (Sand was commonly used as a drying agent for ink on paper.) Care is taken to write the kvitel without any mistakes, as Hasidic Jews believe that kvitelach contain deep secrets.[9]
+
+Giving the kvitel[edit]
+The kvitel is either sent to the Rebbe by messenger or mail, or given personally by the Hasid during his private audience with the Rebbe. The kvitel is usually given together with a sum of money known as a pidyon (redemption), which is used by the Rebbe for the upkeep of his court or for distribution to charity.[2][16] Some Rebbes requested from the Hasid a sum of money equal to twice the numerical value of the Hebrew word Chai (life), which equals 18.[17] Others took an amount of money equal to the numerical value of the letters of the Hebrew names of the Hasid or his wife.[17]
+Women are also welcome to visit a Rebbe and present their kvitelach to him. However, the Rebbe does not look at the woman directly while giving his blessing.[18]
+The giving of the first kvitel cements the status of a newly appointed Hasidic Rebbe. In Belz tradition, the first kvitel to a new Rebbe is proffered by a follower of the Ropshitz Hasidic dynasty. Thus, when Rabbi Yissachar Dov Rokeach assumed the mantle of leadership in 1894 after the death of his father, Rabbi Yehoshua Rokeach, he was given his first kvitel by Rabbi Yissachar Dov of Bisk, a follower of the Ropshitz dynasty. Thirty-three years later, following the funeral of Rabbi Yissachar Dov Rokeach, Rokeach's son and successor, Rabbi Aharon Rokeach, received his first kvitelach from Rabbi Yissachar Dov of Bisk and two other followers of the Ropshitz dynasty.[19]
+The followers of the Ger Hasidic dynasty have in their possession the Kotzer Kvitel, a long note written by an elderly Hasid who had attended the courts of Rabbi Yehudah Aryeh Leib Alter (the Sefas Emes), Rabbi Chanoch Henoch of Alexander, Rabbi Yitzchak Meir Alter (the Chiddushei Harim) and Rabbi Menachem Mendel of Kotzk. This Hasid presented the kvitel, containing his memories of these former Rebbes of the Ger dynasty, to Rabbi Avraham Mordechai Alter (the Imrei Emes) upon the latter's appointment as Rebbe of the Ger dynasty.[20]
+
+Reading the kvitel[edit]
+If the kvitel is delivered by mail or messenger, the Rebbe's attendant reads it to the Rebbe. If the Hasid is present, the Rebbe reads the kvitel during their audience. Afterwards, the Rebbe blesses the petitioner.[9]
+Rebbes traditionally devote their utmost attention to reading kvitelach. It was said of the Bohusher Rebbe, Rabbi Yitzchok Friedman, that when he read a kvitel, he put his whole being into the piece of paper before bestowing his blessing.[21] The Satmar Rebbe, Rabbi Yoel Teitelbaum, was known to scrutinize each kvitel and point out errors in the writing of names of people he had never met.[22] 
+Stories are told about Rebbes who were able to read into a kvitel the situations of those who were named in it. Once a bride-to-be and her mother visited the Bohusher Rebbe, Rabbi Yitzchok Friedman, for a blessing. The Rebbe's attendant wrote the kvitel hastily, noting next to the mother's name that she was about to marry. The Rebbe glanced at the kvitel and said, "She is already married."[21]
+When Rabbi Aharon Rokeach, the Belzer Rebbe, was hiding from the Nazis in the Kraków Ghetto in 1942, he accepted a kvitel from one of the men who was assigned to protect him. As the names of the man's children were read aloud, the Rebbe continually stopped the reader when he reached a certain child's name and asked him to begin reading the kvitel again. This happened several times. Later the man learned that this son had died suddenly during the war, but the rest of his family survived.[23]
+It was said of "great Rebbes" that in their presence, petitioners would be struck with awe and would accidentally hand over a blank piece of paper instead of the kvitel. The Rebbe would read the blank page and understand exactly what the person wanted.[15]
+In the court of Vizhnitz, it was known that if the Rebbe asked for a cigarette to smoke in the middle of reading a kvitel, it was a sign that the petitioner's request had been accepted. Rabbi Eliezer Dovid Friedman, a follower of the fourth Vizhnitzer Rebbe, Rabbi Chaim Meir Hager, witnessed this in 1965 when he delivered a kvitel to the Rebbe on behalf of a Melbourne Jew stricken with cancer and the Rebbe asked for a cigarette while reading the kvitel. The man recovered completely. However, in 1972, immediately after the death of the Rebbe, the Melbourne Jew fell ill with the same disease and succumbed to it.[24]
+
+At a grave[edit]
+  Kvitelach left on the grave of the Baal Shem Tov in Medzhybizh, Ukraine.
+It is a common practice for Hasidic Jews to place kvitelach on the gravesite of a Rebbe or tzadik with the belief that the soul of the deceased will pray for them in Heaven.[16][25] The visitor usually sits beside the grave to write his kvitel and meditate on his request, and then tears the kvitel and throws it on top of the grave. Many graves of Jewish holy men are constructed with special apertures for the insertion of kvitelach.[9]
+
+At the Western Wall[edit]
+Main article: Placing notes in the Western Wall
+  A woman places a prayer note in the Wall.
+The kvitelach placed in the Western Wall differ from the kvitelach given in Hasidic courts, as they contain prayers, requests or messages written directly to God.[5][26][27] These prayer notes are folded and wedged into the cracks and crevices of the Wall.[28] The rationale for this practice has been traced to the Midrashic teaching that the Divine Presence has never moved from the Western Wall,[29] and the Kabbalistic teaching that all prayers ascend to Heaven through the Temple Mount, which the Western Wall abuts.[5][30][31] More than a million prayer notes are placed in the Western Wall each year.[7]
+
+  Kvitelach wedged between the cracks of the Western Wall.
+The practice of placing prayer notes in the Western Wall has also been adopted by Christian pilgrims and people of other faiths.[6] Foreign dignitaries who have publicly placed a kvitel in the Western Wall include Pope John Paul II in 2000,[32] U.S. Senator Hillary Clinton in 2005,[33] Pope Benedict XVI in 2008,[34] U.S. presidential candidate Barack Obama in 2008,[7] and U.S. presidential candidate Mitt Romney and his wife Ann in 2012.[35] Pope Francis inserted a handwritten Spanish language text of the Lord's Prayer in the Wall during his visit in 2014.[36][37][38] On May 22, 2017, Donald Trump became the first sitting U.S. President to visit the Wall; he also inserted a note.[39]
+Based on the 11th century French rabbi Rabbeinu Gershom's ban against reading another person's mail, Jewish law forbids the reading of notes that have been inserted in the Western Wall.[40]
+
+Disposal[edit]
+Kvitelach may not be thrown away; there is a difference of opinion as to whether they should be burned or buried. According to Rabbi Shmuel Rabinovitch, Rabbi of the Western Wall and author of Minhagei HaKotel, a book of laws regarding the Western Wall, burning is a "pure" way to deal with the notes, but burying them is more honorable. Twice a year, Rabbi Rabinovitch and his assistants collect the hundreds of thousands of kvitelach left in the Wall and bury them in the Jewish cemetery on the Mount of Olives.[41]
+Kvitelach left at gravesites are traditionally burned. The gravesite of the sixth and seventh Lubavitcher Rebbes, Rabbi Yosef Yitzchak Schneersohn and Rabbi Menachem Mendel Schneerson, includes a fax machine which receives over 700 faxes a day, and a computer which receives 400 emails daily. These kvitelach are all printed and then taken to the graves, where they are torn into shreds and placed atop the graves. When the pile grows too high, the shredded notes are burned.[42]
+
+Electronic versions[edit]
+In today's electronic age, many online services offer petitioners the chance to send their kvitel to the Western Wall via email, fax, text messaging and Internet; the kvitel is then printed out and inserted in the cracks of the Wall.[43] The "Send a Kvitel Service" of kevarim.com receives kvitelach via Internet and then dispatches them to the gravesites of tzadikim in North America with people who travel to these gravesites.[44] The Nikolsburger Rebbe himself accepts kvitelach and pidyonos via Internet.[45]
+Sending kvitelach to the grave of a Rebbe or tzadik has also become a fund-raising tool. Mosdos Kever Rachel (Kever Rachel Foundation) encourages donors to send messages and prayers which will be read out at Rachel's Tomb.[46] Similarly, the Breslov Research Institute website offers donors the opportunity to send a "digital kvitel" to be read by the grave of Rebbe Nachman of Breslov in Uman, Ukraine.[47]
+
+References[edit]
+
+
+^ Heschel, Susannah (2003). Abraham Joshua Heschel: Man of Spirit, Man of Action. Jewish Publication Society. p. 63. ISBN 0-8276-0758-X..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b Blutal-Prifer, Dr. Hersh (2009). "The Shabos Seminar of Shlomo the Baker". jewishgen.org. Retrieved 9 January 2011.
+
+^ Rabinowicz, Tzvi (1988). Hasidism: The movement and its masters. J. Aronson. p. 323. ISBN 0-87668-998-5.
+
+^ Kolakowski, Rabbi J. "Hasidic Life Today". jewishanswers.org. Retrieved 8 January 2011.
+
+^ a b c Katz, Lisa. "What is the origin, process and reason behind placing notes in the Western Wall?". about.com: The New York Times Company. Retrieved 18 January 2010.
+
+^ a b "Where Do All the Prayer Notes Go?". ABC-Australia news report. 5 September 2007. Retrieved 2010-01-18.
+
+^ a b c McGirk, Tim (25 July 2008). "Obama's Private Prayer 'Leaked'". TIME. Retrieved 2 October 2010.
+
+^ Spiro, Rabbi Ken (10 November 2001). "Crash Course in Jewish History #51: The Kabbalists". aish.com. Retrieved 8 January 2011.
+
+^ a b c d e f Verthaim, Aharon (1992). Law and Custom in Hasidism. Ktav Publishing House. pp. 246–247. ISBN 0-88125-401-0. Retrieved 18 January 2010.
+
+^ a b c Unger, Menashe (March 2001). "The Kvittel (Part VI)". V (24). Wings of Morning: A Torah Review. Retrieved 18 January 2010. Cite journal requires |journal= (help)
+
+^ Welhelm, Zushe. "Mentioning the Patient's Name, and That of His Mother, When Praying For a Sick Person". Chabad-Lubavitch Media Center. Retrieved 18 January 2010.
+
+^ Langer, Jiri (1961). Nine Gates. James Clarke & Co. Ltd. pp. 10–11.
+
+^ "A Practical Guide to Rosh Hashanah" (PDF). Tzaddik Magazine. September 1999. Retrieved 18 January 2010.
+
+^ Gold, Ben-Zion (2007). The Life of Jews in Poland Before the Holocaust: A memoir. University of Nebraska Press. p. 108. ISBN 0-8032-2222-X.
+
+^ a b Tannenbaum, Rabbi Gershon (29 November 2006). "Kvitlech For Sale, Again". The Jewish Press. Retrieved 8 January 2011.
+
+^ a b Jacobs, Louis (1972). Hasidic Prayer. Routledge & Kegan Paul PLC. p. 132. ISBN 0-7100-7362-3. Retrieved 18 January 2010.
+
+^ a b Unger, Menashe (February 2001). "The Kvittel (Part V)". Wings of Morning: A Torah Review. V (22). Retrieved 18 January 2010.
+
+^ Loewenthal, Naftali (2005), "Spiritual Experience for Hasidic Youth and Girls in Pre-Holocaust Europe — A confluence of tradition and modernity", Jewish Spirituality and Divine Law, Yeshiva University Press: 430, ISBN 0-88125-865-2
+
+^ Israel, Yosef (2005). Rescuing the Rebbe of Belz. Mesorah Publications, Ltd. p. 57. ISBN 1-57819-059-2. Retrieved 18 January 2010.
+
+^ "A Man of Truth Becomes a Rebbe". Heichal Hanegina. 11 January 2008. Retrieved 18 January 2010.
+
+^ a b Friedman, Yisroel (1997). The Golden Dynasty. Kest-Lebovits Jewish Heritage and Roots Library. p. 265.
+
+^ Wolpin, Nisson (16 August 2009). "The Last Lion: The Satmar Rov, Rav Yoel Teitelbaum, zt"l, On His 30th Yahrtzeit". matzav.com. Retrieved 18 January 2010.
+
+^ Israel, Yosef (2005), p. 221.
+
+^ Freund, Rabbi Tuvia. The Imrei Chaim of Vizhnitz: Harav Chaim Meir Hager, zy"a. Hamodia Magazine, 24 March 2010, p. 6.
+
+^ David M. Gitlitz & Linda Kay Davidson ‘’Pilgrimage and the Jews’’ (Westport: CT: Praeger, 2006), 107-109.
+
+^ Berman, Rochel U. (2005). Dignity Beyond Death: The Jewish Preparation for Burial. Urim. p. 103. ISBN 965-7108-66-7.
+
+^ Ginsberg, Robert (2004). The Aesthetics of Ruins. Rodopi B. V. p. 138. ISBN 90-420-1672-8.
+
+^ Witty, Abraham; Witty, Rachel Jean (2001). Exploring Jewish Tradition: A transliterated guide to everyday practice and observance. Doubleday. p. 28. ISBN 0-385-49454-8.
+
+^ Exodus Rabbah 2:2.
+
+^ Pirke De-Rabbi Eliezer 35: "Anyone who prays in this place in Jerusalem, it is as if he prayed before the Throne of Glory, for the gate of heaven is there, open to hear all prayers".
+
+^ Simmons, Rabbi Shraga (3 November 2002). "Six Reasons Why The Wall Is Holy". Retrieved 6 October 2010.
+
+^ "Letter Placed by Pope John Paul II at the Western Wall". Ministry of Foreign Affairs (Israel). Retrieved 2008-10-07.
+
+^ Associated Press (15 November 2005). "Hillary Clinton visits Western Wall". Haaretz. Retrieved 5 April 2011.
+
+^ "Pontiff Visits Judaism's Holiest Site, the Western Wall". necn.com. 12 May 2009. Retrieved 2010-01-18.
+
+^ Parker, Ashley; Rudoren, Jodi (29 July 2012). "Romney Visits Western Wall". The New York Times. Retrieved 29 July 2012.
+
+^ Ball, Deborah (26 May 2014). "Pope Visits Holocaust Memorial, Western Wall". The Wall Street Journal. Retrieved 26 May 2014.
+
+^ Sobelman, Batsheva; Chu, Henry (26 May 2014). "Pope Francis balances visits to Jewish, Muslim sites in Jerusalem". Los Angeles Times. Retrieved 27 May 2014.
+
+^ Rudoren, Jodi (26 May 2014). "Pope Lays Wreath at Tomb of Zionism's Founder". The New York Times. Retrieved 27 May 2014.
+
+^ Diamond, Jeremy (22 May 2017). "Trump makes historic visit to Western Wall". CNN. Retrieved 22 May 2017.
+
+^ Shevet HaKehusi 1:315:1, quoted in Lebovits, Rabbi Moishe Dovid, "Reading Another Person's Mail", Hamodia Features, 6 January 2010, p. C3.
+
+^ "Where Do All the Prayer Notes Go?". ABC-Australia news report. 5 September 2007. Retrieved 2010-01-18.
+
+^ Olidort, B. (18 June 2007). "At the Ohel". lubavitch.com. Retrieved 19 January 2010.
+
+^ "Not in Yerushalayim? Send a Kvittel to the Kosel via Twitter". matzav.com. 22 July 2009. Retrieved 18 January 2010.
+
+^ "Send a Kvitel Service". kevarim.com. Retrieved 18 January 2010.
+
+^ "Send a Request/Kvitel to the Rebbe". nikolsburg.org. Retrieved 19 January 2010.
+
+^ "Send a Prayer". Mosdos Kever Rachel. Retrieved 18 January 2010.
+
+^ "Digital Kvittel". Breslov Research Institute. Retrieved 18 January 2010.
+
+
+External links[edit]
+"Ask the Rabbi: Writing on the Wall"
+"Zeidy's Prayer"
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Kvitel&oldid=902009791"
+		
+		Categories: Jewish prayer and ritual textsHasidic JudaismYiddish words and phrasesHidden categories: CS1 errors: missing periodicalGood articlesArticles containing Yiddish-language text
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					עבריתPolski				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 15 June 2019, at 21:33 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.632","walltime":"0.743","ppvisitednodes":{"value":1947,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":67411,"limit":2097152},"templateargumentsize":{"value":341,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":128250,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  645.762      1 -total"," 51.69%  333.783      1 Template:Reflist"," 28.30%  182.719      1 Template:Lang-yi"," 21.92%  141.576     11 Template:Cite_book"," 17.10%  110.429     27 Template:Cite_web","  9.20%   59.415      1 Template:Good_article","  8.62%   55.669      2 Template:Main_other","  8.07%   52.133      1 Template:Top_icon","  6.48%   41.855      1 Template:Category_handler","  2.13%   13.752      2 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.397","limit":"10.000"},"limitreport-memusage":{"value":16782447,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20191130014256","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Kvitel","url":"https:\/\/en.wikipedia.org\/wiki\/Kvitel","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6449786","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6449786","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-01-18T22:12:55Z","dateModified":"2019-06-15T21:33:23Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8b\/%D7%A4%D7%AA%D7%A7%D7%99%D7%9D_%D7%91%D7%AA%D7%95%D7%9A_%D7%90%D7%95%D7%94%D7%9C_%D7%94%D7%A8%D7%91%D7%99_%D7%9E%D7%9C%D7%99%D7%95%D7%91%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9.jpg","headline":"prayer note in Judaism"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":113,"wgHostname":"mw1265"});});
+
+

@@ -1,0 +1,229 @@
+
+
+Cumulative accuracy profile - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfkkOwpAADkAAHwe7jMAAACX","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cumulative_accuracy_profile","wgTitle":"Cumulative accuracy profile","wgCurRevisionId":923490415,"wgRevisionId":923490415,"wgArticleId":54727095,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","Mathematical modeling"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Cumulative_accuracy_profile","wgRelevantArticleId":
+54727095,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q48996700","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":
+"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Cumulative accuracy profile
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		The cumulative accuracy profile (CAP) is used in data science to visualize the discriminative power of a model. The CAP of a model represents the cumulative number of positive outcomes along the y-axis versus the corresponding cumulative number of a classifying parameter along the x-axis. The CAP is distinct from the receiver operating characteristic (ROC), which plots the true-positive rate against the false-positive rate.
+
+Contents
+
+1 Example
+2 Analyzing a CAP
+3 Applications
+4 References
+
+
+
+Example[edit]
+An example is a model that predicts whether a product is bought (positive outcome) by each individual from a group of people (classifying parameter) based on factors such as their gender, age, income etc. If group members would be contacted at random, the cumulative number of products sold would rise linearly toward a maximum value corresponding to the total number of buyers within the group. This distribution is called the "random" CAP. A perfect prediction, on the other hand, determines exactly which group members will buy the product, such that the maximum number of products sold will be reached with a minimum number of calls. This produces a steep line on the CAP curve that stays flat once the maximum is reached (contacting all other group members will not lead to more products sold), which is the "perfect" CAP.
+
+  The CAP profiles for the perfect, good and random model predicting the buying customers from a pool of 100 individuals.
+A successful model predicts the likelihood of individuals purchasing the product and ranks these probabilities to produce a list of potential customers to be contacted first. The resulting cumulative number of sold products will increase rapidly and eventually flatten out to the given maximum as more group members are contacted. This results in a distribution that lies between the random and the perfect CAP curves.
+
+Analyzing a CAP[edit]
+The CAP can be used to evaluate a model by comparing the curve to the perfect CAP in which the maximum number of positive outcomes is achieved directly and to the random CAP in which the positive outcomes are distributed equally. A good model will have a CAP between the perfect CAP and the random CAP with a better model tending to the perfect CAP.
+The accuracy ratio (AR) is defined as the ratio of the area between the model CAP and the random CAP and the area between the perfect CAP and the random CAP.[1] For a successful model the AR has values between zero and one, with a higher value for a stronger model.
+Another indication of the model strength is given by the cumulative number of positive outcomes at 50% of the classifying parameter. For a successful model this value should lie between 50% and 100% of the maximum, with a higher percentage for stronger models.
+
+Applications[edit]
+The CAP and the ROC are both commonly used by banks and regulators to analyze the discriminatory ability of rating systems that evaluate the credit risks [2]
+[3]
+
+References[edit]
+
+
+^ Calabrese, Raffaella (2009), The validation of Credit Rating and Scoring Models (PDF), Swiss Statistics Meeting, Geneva, Switzerland.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ Engelmann, Bernd; Hayden, Evelyn; Tasche, Dirk (2003), "Measuring the Discriminative Power of Rating Systems", Discussion Paper, Series 2: Banking and Financial Supervision (No 01)
+
+^ Sobehart, Jorge; Keenan, Sean; Stein, Roger (2000-05-15), "Validation methodologies for default risk models" (PDF), Moody's Risk Management Services
+
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Cumulative_accuracy_profile&oldid=923490415"
+		
+		Categories: Mathematical modelingHidden categories: CS1: long volume value
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					فارسی				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 28 October 2019, at 21:53 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.163","ppvisitednodes":{"value":213,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":5623,"limit":2097152},"templateargumentsize":{"value":123,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8922,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  139.615      1 Template:Reflist","100.00%  139.615      1 -total"," 85.63%  119.557      3 Template:Citation","  1.97%    2.750      1 Template:Main_other","  1.90%    2.652      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.079","limit":"10.000"},"limitreport-memusage":{"value":1937630,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20191127232442","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Cumulative accuracy profile","url":"https:\/\/en.wikipedia.org\/wiki\/Cumulative_accuracy_profile","sameAs":"http:\/\/www.wikidata.org\/entity\/Q48996700","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q48996700","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2017-08-01T22:30:25Z","dateModified":"2019-10-28T21:53:58Z"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1262"});});
+
+

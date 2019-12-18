@@ -1,0 +1,577 @@
+
+
+Enchanta - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqtYgpAMFEAAJJLR@oAAABE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Enchanta","wgTitle":"Enchanta","wgCurRevisionId":915148027,"wgRevisionId":915148027,"wgArticleId":3536944,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template archiveis links","Webarchive template wayback links","Languages without Glottolog code","Conlangs without ISO 639-3 code","Language articles with speakers set to 'unknown'",
+"Languages with neither ISO nor Glottolog code","Articles needing additional references from December 2016","All articles needing additional references","Encantadia","Fictional languages","Constructed languages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Enchanta","wgRelevantArticleId":3536944,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5375350","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Enchanta
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		EnchantaPronunciationɛnˈtʃɑːntɑːCreated bySuzette DoctoleroDate2005Setting and usageEncantadiaPurposeconstructed languages
+
+artistic languagesfictional languagesEnchantaWriting systemEnchanSourcesa priori language with a vocabulary influenced by Philippine languages (particularly Tagalog) and Romance languages.Official statusRegulated byGMA NetworkLanguage codesISO 639-3None (mis)GlottologNone
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Enchanta" – news · newspapers · books · scholar · JSTOR  (December 2016) (Learn how and when to remove this template message)
+Enchanta /ɛnˈtʃɑːntɑː/ (Enchan /ɛnˈtʃɑːn/ in the 2016 series) is a constructed language spoken by the denizens of Encantadia, known as Encantado(s)/Encantada(s) or Diwata (fairies). It was initially created by Suzette Doctolero for the Philippine fantasy television drama saga Encantadia, which aired on GMA Network in 2005,[1] and was later used in the show's sequels, Etheria: Ang Ikalimang Kaharian ng Encantadia and Encantadia: Pag-ibig Hanggang Wakas. The source material of the language appears to have been derived from Philippine languages (particularly Tagalog) and Romance languages.  It has its own script, Enchan, which appears to be based on Baybayin. Three songs in the language are written by Doctolero, namely "Asshenti (Love song)", "Hade!! (Etheria theme song)", and "Ivo (Lireo national anthem)", which are all sung by Bayang Barrios for the sequel Etheria in 2006.[2]
+
+Contents
+
+1 Overview
+2 List of Examples
+3 Conversational
+4 References
+
+
+
+Overview[edit]
+Enchanta was created by Suzette Doctolero originally for the Philippine fantasy series Encantadia to make the viewers feel that the world  of Encantados be somehow realistic and genuine. Doctolero created its vocabulary from many Indo-European languages with some influences of Philippine languages especially Tagalog. It can be traced from words like "corre", to love (from the root "cor" meaning heart) and "avoya", to travel (voyage). The language is also notable of being spoken as it sounds like its from some kind of European country because of the tone and the phonotactics. Most characters from the Encantadia saga know how to speak Enchanta, but it was Cassiopeia that had spoken the language most in the whole series, from the fact that she is the first diwata (fairy) of Lireo and ancestor of all the royal-blooded diwatas of the Queendom.
+
+List of Examples[edit]
+Below are the examples of Enchanta words and Phrases, with English and Tagalog Translation
+Ada — Mother / Nanay Adarde — Come here / Lumapit ka sa akin  
+Adnes nesa aduwa iva? — What is the meaning of this?! / Ano ang ibig sabihin nito?! 
+Ado — Father / Tatay 
+Agape Avi — Excuse me / Paumanhin 
+Agoddo — Frog / Palaka 
+Aldo — Uncle / Tito 
+Apwe — Sibling / Kapatid 
+Arksha — Baby / Sanggol 
+Ashtadi — Violator! / Pasaway! 
+Ashte Mashte Lesnum (name of a place) — May peace be kept throughout (name of a place). Example: Ashte Mashte lesnum Encantadia — May peace be kept throughout Encantadia. 
+Ashti — Aunt / Tita 
+Asmar ivi ishi sanbay ivi ivo — I am just astounded at what happened to the infant. 
+Asnamon voyanazar — I'm a traveler, Asnamon tree (Encantadia's version of open sesame. The whole command says: when entering - "Asnamon voyanazar, Papasukin mo ako sa mundo ng Encantadia/mga tao." ("Asnamon voyanazar, Get me enter in the world of Encantadia/humans.")
+Asnamon arber — (Encantadia's version of close sesame. Isarado mo ang lagusan." 
+Asshenti — Hear/Listen / Makinig 
+Avira voya uste — Let me pass / Padaanin niyo ako 
+Avisala — Greetings / Pagbati 
+Avisala Eshma — Thank you / Salamat
+Avisala meiste — The opposite of 
+Avisala, goodbye/farewell / Paalam 
+Balaak — Hell / Impyerno 
+Celestia — Angel / Anghel 
+Corra — Heart / Puso 
+Correi/Corre — Love / Pagmamahal 
+Dama — Housekeeper / Katulong 
+Dayo — Foreigner 
+Dese — Happy / Maligaya 
+Detrumvia — Liar / Sinungaling 
+Deu — Who / Sino 
+Devas — Heaven / Langit 
+Deyande — Bobo / Tanga 
+Diwani — Princess / Prinsesa 
+E correi — My love / Mahal ko 
+E correi diu — I love you / Mahal kita 
+E corre masne e live — Love one another till the end of time. 
+Ebi meshne — You will regret this / Pagsisisihan mo ito 
+Ecapala — Enemy / Kalaban 
+Ecsha — Maybe / Yata 
+Ekoshme — Charge! 
+Edepunte runte! - Find them! / Hanapin sila! 
+Edi sanctre - Death/Kamatayan 
+Emre eshne ashte emin? — God, why you forsake my brother? / Bathala bakit Hindi mo inalagaan ang kapatid ko?
+Ena-i – You hurry! / Bilisan mo! 
+Eshma — Thank you / Salamat 
+Estasectu — Get ready. / Maghanda na. 
+Este ivi? — Is this true? / Totoo ba ito?
+Eteka aneya ivi — Have you forgotten? / Nakalimutan mo na ba? 
+Evre ishnu — Leave me. 
+Gajad — Native / Katutubo 
+Ganto — Horse / Kabayo 
+Geshnu — Go away! 
+Geshnu ivre — Leave me alone. 
+Gushna ivne — Leave us. 
+Gushna ivdea — I am blessing you. 
+Gusna — Warning / Babala
+Hadia — Niece / Pamangkin 
+Hade — (verb) To fight 
+Hartu sanctu (something) — Bless (something). 
+Hasna lesnu Maste — And may God help me be the champion of peace 
+Hasna verom gashne vo — If you do not give me that, I will kill you. 
+Hasne duvin (name of person)? — What happened to you, (name of person)? 
+Hasne ivo live — Happy Birthday. 
+Heshne — Get out! / Lumabas ka! 
+I-lo — Grandfather / Lolo
+I-la — Grandmother / Lola 
+I-lamer — Water / Tubig 
+Ilantre ivi e corre? - Nasaan ang pag-ibig 
+Intevte ashelente — Are they living in the palace? / Nakatira ba sila dito? 
+Isne binn voyanazar — He's approaching. / Parating siya. 
+Ivi duo — I know. / Alam ko. 
+Ivi este — I don't know. / Hindi ko alam. 
+Ivi kuntirunte — I am ordering you/Inuutusan kita. 
+Ivi musti paneya — I'm hungry. / Gutom na ako. 
+Ivneshe — Dream / Panaginip 
+Ivo ron, esra... —  I know, but... / Alam ko pero..... 
+Ivro — Return / Ibalik 
+Kanwu — Near / Malapit 
+Mashna/Mancha — General (Military) 
+Masne sera (name of person) — Peaceful night to you, (name of person) / Mapayapang gabi, (name of person) 
+Maste lesnu (name of person) — Peace be with (name of person). Compare with Namaste. 
+Mayale — Pig / Baboy 
+Menantre — Mentor 
+Morfe — Nothing / Wala 
+Nedanus muste — You are so beautiful. / Nakakabighani ang iyong ganda. 
+Neda-veda — He/she is not here. 
+Ne Sshuda — You're wrong. / Mali ka.
+Neshda — Whisper / Bulong 
+Paneya — Bread / Tinapay 
+Pashnea — Showhing angerness / Pagpapahayag ng galit/ Animal!/Hayop!
+Prosunteo (name of person) — (Name of person) is suspicious. 
+Quando — Reason / Dahilan Shedamaste - Go forth
+Sang'gre — Princess
+Ssheda! — Stop!/Halt!/Desist! / Hinto/Tigil 
+Ssheda dini luna — Stop and face me. / Tigil at ako ay harapin. 
+Ssheda lasta! — It won't happen! / Hindi iyan mangyayari. 
+Ssheda musni verom — I will not give this to you. / Hindi ko maibibigay ang iyong nais. 
+Tashi dac — Disrespectful / Lapastangan 
+Uste — You / Ikaw 
+Vashna — Goodness; Kindness / Kabutihan 
+Vashne — Pest / Peste 
+Vedalje — Kalaban / Enemy 
+Verdusa naasva! — Walang hiya ka! 
+Vensa — Loved one; Beloved / Iniibig 
+Ventinasala! — Now vanish! / Ngayo'y maglaho! (could be used as an order to a Sang'gre) 
+Vish'ka - Fist / Kamao
+[3]
+
+Conversational[edit]
+English translations of phrases in Enchanta are written in parentheses below. These phrases are derived from the folk war song Hade!! (Etheria theme song) sung by Bayang Barrios and written by Suzette Doctolero. Based on the lyrics, the song is about the creation of Encantadia, the five kingdoms including Etheria, and warfare. In the end, the author appears to question the unending violence in the land, the lack of love and peace.[4] 
+
+
+
+
+Enchanta
+
+English
+
+
+Ivi esna adelan e...
+
+(This is the promised land...)
+
+
+Hade! Hade! Hade!
+
+(A warcry)
+
+
+Agordo etu garte Emre-a ivo
+
+(By the Power of the Highest God)
+
+
+Nusno celestia endu endo
+
+(to the cherubim cursed here)
+
+
+Diam asolade ivi emustro entria
+
+(Five races they created)
+
+
+Ei Correi Diu
+
+(I love you)
+
+
+Agodo
+
+(Frog)
+
+
+
+Diam asolade ivi luntae esuedria
+
+(Five races they nurtured)
+
+
+Encarte ivi esna...
+
+(But the races fought each other...)
+
+
+Ilantre ivi e corre?
+
+(Where is the love?)
+
+
+Ilantre ivi hasne masne?
+
+(Where is the peace?)
+
+
+Ivi onan esna enchar?
+
+(That is the only desire of the land of mystery?)
+
+
+References[edit]
+
+
+^ A fitting farewell for GMA-7's grandest telefantasya, Encantadia Archived 2012-09-11 at Archive.today. Saturday, April 22, 2006. Sun Star Cebu. Retrieved on January 31, 2010.
+
+^ Soundtracks for Etheria: ang Ikalimang Kaharian ng Encantadia.IMDb. Retrieved on January 30, 2010.
+
+^ Source: https://insidemanila.ph/article/1342/enchanta-words-phrases-every-encantadia-fans-should-know
+Follow Insidemanila: @InsidemanilaPH on Facebook,Twitter and Instagram.
+
+^ Encantadia Enchants Cebuanos Archived 2011-10-07 at the Wayback Machine. August 28, 2005. Philippine Headline News. By Maria Katrina C. Reyna. Retrieved on January 31, 2010.
+
+
+vteEncantadiaCreator
+Suzette Doctolero
+Series
+Encantadia
+Etheria
+Encantadia: Pag-ibig Hanggang Wakas
+Encantadia
+Characters
+Episodes
+Characters
+Pirena
+Alena
+Amihan
+Danaya
+Hagorn
+Avria
+Andora
+Juvila
+Odessa
+Mine-a
+Muros
+Kahlil
+Concepts
+Brilyante
+Enchanta
+Great Encantadian War
+Lirean War
+War of the Four Gems
+Spin-off and related series
+Mulawin (2004)
+Mulawin: The Movie (2005)
+Mulawin vs. Ravena (2017)
+In other media
+Encantadia Blast (2016)
+
+ Category
+
+vteConstructed languagesClassificationPurpose
+Artistic
+Fictional
+Language game
+Auxiliary
+Universal
+Zonal
+Engineered
+Experimental
+Musical
+Philosophical
+Source
+A priori
+A posteriori
+Characteristics
+Oligosynthetic
+Oligoisolating
+Specific languages by groupInternationalauxiliaryA priori/mixed
+Babm
+Blissymbols
+Bolak
+Kotava
+Langue nouvelle
+Nal Bino
+Ro
+Solresol
+Sona
+Spokil
+Volapük
+A posteriori
+Afrihili
+Communicationssprache
+Esperanto
+Esperantido
+Esperanto 1894
+Esperanto II
+Ido
+Mundolinco
+Romániço
+Slovio
+Glosa
+Interglossa
+Guosa
+Idiom Neutral
+Interlingua
+Interlingue
+International Sign
+Latino sine flexione
+Lingua Franca Nova
+Lingwa de planeta
+Mondial
+Neo
+Novial
+Pasilingua
+Sambahsa
+Unish
+Universalglot
+Uropi
+Zonal
+Kitara
+N'Ko language
+Pan-Germanic language
+Folkspraak
+Tutonish
+Pan-Slavic language
+Interslavic / Medžuslovjansky
+Slovio
+Lydnevi
+Pan-Romance language
+Romanid
+Efatese language
+Engineered
+aUI
+Dutton Speedwords
+Ithkuil
+Kalaba-X
+Loglan
+Lojban
+Real Character and Philosophical Language
+Ro
+Toki Pona
+Fictional andother artistic
+Atlantean
+Brithenig
+Dothraki
+Enchanta
+Kēlen
+Klingon
+grammar
+alphabets
+Kobaïan
+Láadan
+Loxian
+Middle-earth languages
+Adûnaic
+Quenya
+Sindarin
+more...
+Na'vi
+Nadsat
+Syldavian
+Teonaht
+Tsolyáni
+Valyrian
+Verdurian
+Wenedyk
+Ritual and other
+Balaibalan
+Damin
+Enochian
+Eskayan
+Lincos
+Lingua Ignota
+Medefaidrin
+Palawa kani
+Yerkish
+Zaum
+Writing systems
+Constructed script
+Esperanto orthography
+Tolkien's writing systems
+Cirth
+Sarati
+Tengwar
+Related
+Conlanging: The Art of Crafting Tongues
+Relexification
+Societate American pro Interlingua
+Zompist.com
+
+Portal
+List of constructed languages
+List of language creators
+
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Enchanta&oldid=915148027"
+		
+		Categories: EncantadiaFictional languagesConstructed languagesHidden categories: Webarchive template archiveis linksWebarchive template wayback linksLanguages without Glottolog codeConlangs without ISO 639-3 codeLanguage articles with speakers set to 'unknown'Languages with neither ISO nor Glottolog codeArticles needing additional references from December 2016All articles needing additional references
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+									
+				Add links			
+		
+				
+		
+				
+						
+								 This page was last edited on 11 September 2019, at 14:08 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.304","walltime":"0.440","ppvisitednodes":{"value":2479,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":73793,"limit":2097152},"templateargumentsize":{"value":1973,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2455,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  313.045      1 -total"," 44.97%  140.774      1 Template:Infobox_language"," 33.91%  106.156      1 Template:Infobox"," 25.70%   80.448      1 Template:Refimprove"," 22.37%   70.038      1 Template:Ambox"," 17.92%   56.101      5 Template:Navbox","  9.68%   30.300      1 Template:Encantadia","  9.44%   29.554      1 Template:Find_sources_mainspace","  7.65%   23.946      2 Template:Main_other","  6.85%   21.441      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.081","limit":"10.000"},"limitreport-memusage":{"value":3054205,"limit":52428800}},"cachereport":{"origin":"mw1239","timestamp":"20191206162748","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Enchanta","url":"https:\/\/en.wikipedia.org\/wiki\/Enchanta","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5375350","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5375350","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-12-27T07:28:07Z","dateModified":"2019-09-11T14:08:53Z","headline":"fictional language"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":128,"wgHostname":"mw1246"});});
+
+

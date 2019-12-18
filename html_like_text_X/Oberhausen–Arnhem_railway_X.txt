@@ -1,0 +1,921 @@
+
+
+Oberhausen–Arnhem railway - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqHqApAADkAAGtgsw0AAABO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Oberhausen–Arnhem_railway","wgTitle":"Oberhausen–Arnhem railway","wgCurRevisionId":926060684,"wgRevisionId":926060684,"wgArticleId":29387209,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles containing Dutch-language text","Railway lines in North Rhine-Westphalia","Railway lines in the Netherlands","Railway lines opened in 1856",
+"1856 establishments in Prussia","Cross-border railway lines in Germany"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Oberhausen–Arnhem_railway","wgRelevantArticleId":29387209,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q750815","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	Oberhausen–Arnhem railway
+	
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Oberhausen–Arnhem railwayOberhausen–Arnhem line in pinkOverviewNative nameHollandstreckeLocaleNorth Rhine-Westphalia, Germany and Gelderland, the NetherlandsLine number2270 (Oberhausen–Emmerich)TechnicalLine length92 km (57 mi)Track gauge1,435 mm (4 ft 8 1⁄2 in) standard gaugeElectrification1.5 kV DC (Arnhem – Emmerich Section)  15 kV/16.7 Hz (Emmerich – Oberhausen)  overhead catenaryOperating speed160 km/h (99 mph) (maximum)Route number420
+Route map
+.mw-parser-output .RMbox{box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12),0 3px 1px -2px rgba(0,0,0,.2)}.mw-parser-output .RMinline{float:none;width:100%;margin:0;border:none}.mw-parser-output table.routemap{padding:0;border:0;border-collapse:collapse;background:transparent;white-space:nowrap;line-height:1.2;margin:auto}.mw-parser-output table.routemap .RMcollapse{margin:0;border-collapse:collapse;vertical-align:middle}.mw-parser-output table.routemap .RMreplace{margin:0;border-collapse:collapse;vertical-align:middle;position:absolute;bottom:0}.mw-parser-output table.routemap .RMsi{display:inline;font-size:90%}.mw-parser-output table.routemap .RMl1{padding:0 3px;text-align:left}.mw-parser-output table.routemap .RMr1{padding:0 3px;text-align:right}.mw-parser-output table.routemap .RMl{text-align:right}.mw-parser-output table.routemap .RMr{text-align:left}.mw-parser-output table.routemap .RMl4{padding:0 3px 0 0;text-align:left}.mw-parser-output table.routemap .RMr4{padding:0 0 0 3px;text-align:right}.mw-parser-output table.routemap>tbody>tr{line-height:1}.mw-parser-output table.routemap>tbody>tr>td,.mw-parser-output table.RMcollapse>tbody>tr>td,.mw-parser-output table.RMreplace>tbody>tr>td{padding:0;width:auto;vertical-align:middle;text-align:center}.mw-parser-output .RMir>div{display:inline-block;vertical-align:middle;padding:0;height:20px;min-height:20px}.mw-parser-output .RMir img{height:initial!important;max-width:initial!important}.mw-parser-output .RMir .RMov{position:relative}.mw-parser-output .RMir .RMov .RMic,.mw-parser-output .RMir .RMov .RMtx{position:absolute;left:0;top:0;padding:0}.mw-parser-output .RMir .RMtx{line-height:20px;height:20px;min-height:20px;vertical-align:middle;text-align:center}.mw-parser-output .RMir .RMsp{height:20px;min-height:20px}.mw-parser-output .RMir .RMtx>abbr,.mw-parser-output .RMir .RMtx>div{line-height:.975;display:inline-block;vertical-align:middle}.mw-parser-output .RMir .RMts{font-size:10px;transform:scaleX(.89)}.mw-parser-output .RMir .RMf_{height:5px;min-height:5px;width:20px;min-width:20px}.mw-parser-output .RMir .RMfm{height:100%;min-height:100%;width:4px;min-width:4px;margin:0 auto}.mw-parser-output .RMir .RMo{width:2.5px;min-width:2.5px}.mw-parser-output .RMir .RMc{width:5px;min-width:5px}.mw-parser-output .RMir .RMoc{width:7.5px;min-width:7.5px}.mw-parser-output .RMir .RMd{width:10px;min-width:10px}.mw-parser-output .RMir .RMod{width:12.5px;min-width:12.5px}.mw-parser-output .RMir .RMcd{width:15px;min-width:15px}.mw-parser-output .RMir .RMocd{width:17.5px;min-width:17.5px}.mw-parser-output .RMir .RM_{width:20px;min-width:20px}.mw-parser-output .RMir .RM_o{width:22.5px;min-width:22.5px}.mw-parser-output .RMir .RM_c{width:25px;min-width:25px}.mw-parser-output .RMir .RM_oc{width:27.5px;min-width:27.5px}.mw-parser-output .RMir .RM_d{width:30px;min-width:30px}.mw-parser-output .RMir .RM_od{width:32.5px;min-width:32.5px}.mw-parser-output .RMir .RM_cd{width:35px;min-width:35px}.mw-parser-output .RMir .RM_ocd{width:37.5px;min-width:37.5px}.mw-parser-output .RMir .RMb{width:40px;min-width:40px}.mw-parser-output .RMir .RMcb{width:45px;min-width:45px}.mw-parser-output .RMir .RMdb{width:50px;min-width:50px}.mw-parser-output .RMir .RMcdb{width:55px;min-width:55px}.mw-parser-output .RMir .RM_b{width:60px;min-width:60px}.mw-parser-output .RMir .RM_cb{width:65px;min-width:65px}.mw-parser-output .RMir .RM_db{width:70px;min-width:70px}.mw-parser-output .RMir .RM_cdb{width:75px;min-width:75px}.mw-parser-output .RMir .RMs{width:80px;min-width:80px}.mw-parser-output .RMir .RMds{width:90px;min-width:90px}.mw-parser-output .RMir .RM_s{width:100px;min-width:100px}.mw-parser-output .RMir .RM_ds{width:110px;min-width:110px}.mw-parser-output .RMir .RMbs{width:120px;min-width:120px}.mw-parser-output .RMir .RMdbs{width:130px;min-width:130px}.mw-parser-output .RMir .RM_bs{width:140px;min-width:140px}.mw-parser-output .RMir .RM_dbs{width:150px;min-width:150px}.mw-parser-output .RMir .RMw{width:160px;min-width:160px}.mw-parser-output .RMir .RM_w{width:180px;min-width:180px}.mw-parser-output .RMir .RMbw{width:200px;min-width:200px}.mw-parser-output .RMir .RM_bw{width:220px;min-width:220px}.mw-parser-output .RMir .RMsw{width:240px;min-width:240px}.mw-parser-output .RMir .RM_sw{width:260px;min-width:260px}.mw-parser-output .RMir .RMbsw{width:280px;min-width:280px}.mw-parser-output .RMir .RM_bsw{width:300px;min-width:300px} 
+
+
+
+
+Legend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to Amsterdam
+
+
+
+
+
+
+
+
+
+
+to Nijmegen
+
+
+
+
+
+
+
+
+92
+
+Arnhem
+
+
+
+
+
+
+
+
+91
+
+Arnhem Velperpoort
+
+
+
+
+
+
+
+
+
+
+to Zwolle
+
+
+
+
+
+
+
+
+
+
+Bridge at Westervoort (IJssel)
+
+
+
+
+
+
+
+
+83
+
+Westervoort
+
+
+
+
+
+
+
+
+82
+
+Duiven
+
+
+
+
+
+
+
+
+78
+
+Zevenaar
+
+
+
+
+
+
+
+
+
+
+to Winterswijk
+
+
+
+
+
+
+
+
+
+
+Betuweroute to Rotterdam
+
+
+
+
+
+
+
+
+72.6
+
+Germany / Netherlands border
+
+
+
+
+
+
+
+
+69.6
+
+Elten (last siding)
+
+
+
+
+
+
+
+
+
+
+to Kleve
+
+
+
+
+
+
+
+
+
+
+former Germany / Netherlands border (1949–1963)
+
+
+
+
+
+
+
+
+60.8
+
+Emmerich
+
+
+
+
+
+
+
+
+54.6
+
+Praest
+
+
+
+
+
+
+
+
+50.4
+
+Millingen (b Rees)
+
+
+
+
+
+
+
+
+48.7
+
+Empel-Rees
+
+
+
+
+
+
+
+
+
+
+to Bocholt
+
+
+
+
+
+
+
+
+44.8
+
+Haldern
+
+
+
+
+
+
+
+
+39.1
+
+Mehrhoog
+
+
+
+
+
+
+
+
+34.4
+
+Diersfordt
+
+
+
+
+
+
+
+
+31.0
+
+Kanonenberge
+
+
+
+
+
+
+
+
+29.3
+
+Wesel-Feldmark
+
+
+
+
+
+
+
+
+
+
+to Bocholt
+
+
+
+
+
+
+
+
+
+
+to Venlo
+
+
+
+
+
+
+
+
+
+
+Wesel port railway
+
+
+
+
+
+
+
+
+26.7
+
+Wesel
+
+
+
+
+
+
+
+
+
+
+RWE siding (formerly to Haltern)
+
+
+
+
+
+
+
+
+
+
+Lippe
+
+
+
+
+
+
+
+
+
+
+to Duisburg-Walsum
+
+
+
+
+
+
+
+
+
+
+Wesel–Datteln Canal
+
+
+
+
+
+
+
+
+23.3
+
+Friedrichsfeld (Niederrhein)
+
+
+
+
+
+
+
+
+19.8
+
+Voerde (Niederrhein) crossover
+
+
+
+
+
+
+
+
+18.8
+
+Voerde (Niederrhein)
+
+
+
+
+
+
+
+
+13.9
+
+Dinslaken
+
+
+
+
+
+
+
+
+7.7
+
+Oberhausen-Holten
+
+
+
+
+
+
+
+
+4.2
+
+Oberhausen-Sterkrade
+
+
+
+
+
+
+
+
+
+
+to Oberhausen-Osterfeld Süd
+
+
+
+
+
+
+
+
+
+
+DU-Ruhrort–OB-Osterfeld Süd
+
+
+
+
+
+
+
+
+
+
+to Oberhausen-Osterfeld Süd
+
+
+
+
+
+
+
+
+
+
+Emscher
+
+
+
+
+
+
+
+
+
+
+Oberhausen Hbf Obn to Wesel
+
+
+
+
+
+
+
+
+
+
+Rhine–Herne Canal
+
+
+
+
+
+
+
+
+
+
+Oberhausen West–OB-Osterfeld Nord
+
+
+
+
+
+
+
+
+
+
+Oberhausen West–Bottrop Süd
+
+
+
+
+
+
+
+
+
+
+Oberhausen West–Essen-Altenessen
+
+
+
+
+
+
+
+
+
+
+to Essen-Altenessen
+
+
+
+
+
+
+
+
+
+
+to Oberhausen West
+
+
+
+
+
+
+
+
+-0.1
+
+Oberhausen Hbf
+
+
+
+
+
+
+
+
+
+
+to Duisburg-Ruhrort
+
+
+
+
+
+
+
+
+
+
+S-Bahn to Mülheim-Styrum
+
+
+
+
+
+
+
+
+
+
+to Duisburg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: German railway atlas[1]
+
+
+The Oberhausen–Arnhem railway (also known in German as the Hollandstrecke, meaning "Holland line") is a two-track, electrified main line railway running close to the lower Rhine from Oberhausen via Wesel, Emmerich and the German–Dutch border to Arnhem and forms part of the line between the Ruhr and Amsterdam. The line was opened by the Cologne-Minden Railway Company in 1856 and is one of the oldest lines in Germany.
+It branches in Oberhausen from the Duisburg–Dortmund line, a section of the Cologne-Minden trunk line and connects in Arnhem with the Rhine Railway to Amsterdam. The line is of high importance for international traffic, both for long-distance passenger services and for freight traffic and is listed as a priority project of the Trans-European Networks.
+
+Contents
+
+1 History
+
+1.1 Wesel junction
+1.2 Reconstruction after the Second World War
+1.3 Electrification of the line
+1.4 Development of long-distance rail services
+1.5 Completion of the new "Betuweroute"
+1.6 Future Investments
+
+
+2 Services
+
+2.1 Usage (2005)
+
+
+3 References
+4 External links
+
+
+
+History[edit]
+  Bridge near Westervoort, Netherlands over the IJssel, 1904
+  All roads lead to Emmerich, 1920s poster
+The first plans to build a railway line on the Lower Rhine emerged in the 1830s. At that time the Amsterdam business community began to think about how they could expand trade with Germany. Plans were developed and the president of the Prussian administration in Cologne, Daniel Heinrich Delius, gave his conditional support for them. The Dutch government subsequently instructed its chief engineer for public works, Bernard Herman Goudriaan to develop a route for the line.[2]
+As a result, it was proposed the new railway would run from Amsterdam via Amersfoort, Isselburg, Hamminkeln, Wesel and Duisburg to Cologne, avoiding large cities such as Utrecht and Arnhem in order to minimise the risk of floods disrupting the line. The city of Emmerich objected to this route, which would have bypassed it. Further difficulties arose with the decision of the Dutch Rhine Railway Company (Dutch: Nederlandsche Rhijnspoorweg-Maatschappij, NRS) to build its line from Amsterdam to Utrecht (opened in 1843) and on to Arnhem (1845) not as standard gauge, but with a broad gauge of 1945 mm.[2]
+During the following years several proposals were submitted and rejected until on 18 July 1851 the two governments signed the "Prussian-Dutch agreement for the construction of the Oberhausen–Wesel–Emmerich–Arnhem railway". On 30 December 1852, the Cologne-Minden Railway Company (Cöln-Mindener Eisenbahn-Gesellschaft, CME) was granted a concession to build the line on condition that construction was completed within three years.[2]
+The final route of the line was eventually approved by the Prussian Minister of Trade, Commerce and Public Works on 4 May 1854. This allowed the CME to commence the construction of the 61 km-long line from its Oberhausen station on its trunk line to Emmerich. Construction could also start on the 12 km section to the border and on to Arnhem, because the NRS had converted its line from Amsterdam to Arnhem to standard gauge in 1855.[2]
+Following a construction period of two years, the Oberhausen-Dinslaken section was opened on 1 July 1856 and the entire double-track line was put into operation on 20 October 1856. On the first day, four passenger trains and a freight train ran on the line. In 1859, 300 passengers, 34 tonnes of freight and 10 head of cattle were carried each day.[2]
+Wesel originally had a basic station suitable for its military role, which was replaced 25 years later by a half-timbered building.[2]
+
+Wesel junction[edit]
+  Ruins of the Wesel Railway Bridge
+By the end of the Second World War, Wesel station had become the major junction of the Lower Rhine. The Holland line had been crossed by the Haltern–Venlo line (part of the CME's Hamburg-Venlo line) since its opening in 1874. Four years later, the Bocholt Railway (also owned by the CME) and the Boxtel Railway also opened to Wesel. In 1912 the line to Oberhausen via Walsum was opened. Trains to Venlo and Boxtel ran over the almost two kilometre-long Wesel Railway Bridge on the Rhine, built between 1872 and 1874.
+
+Reconstruction after the Second World War[edit]
+After the Second World War bridges over the Rhine–Herne Canal, the Emscher river in Oberhausen, the Wesel–Datteln Canal and the Lippe in Wesel that had been destroyed during the war were restored with temporary repairs. As early as 15 November 1945 the tracks between Oberhausen and Arnhem were restored. Operations within the Netherlands were quickly restored. The destroyed Wesel Railway Bridge over the Rhine was not rebuilt, ending operations on the lines to Boxtel and Venlo. The largely destroyed station buildings on the line were rebuilt between 1952 and 1956.[2]
+
+Electrification of the line[edit]
+In 1964/66, the whole two-track main line was electrified. Voltages change between the German 15 kV / 16.7 Hz AC and the Dutch 1.5 kV DC system in Emmerich station. The different electrifical systems, along with the different train protection systems, force electric locomotives to be changed in Emmerich. Electric multiple units that can operate on the systems of both countries were first developed in 2001 and approved for operation in 2007.[2]
+
+Development of long-distance rail services[edit]
+The Amsterdam-Cologne D-trains (D-Zug, that is luxury express trains), then stopping in Emmerich, Empel-Rees, Wesel, Dinslaken and Oberhausen, were replaced in June 1991 by EuroCity trains that operate without stopping between Emmerich and Oberhausen. The EuroCity trains were mostly replaced in November 2000 by Intercity-Express (ICE) services between Amsterdam and Cologne, using modern multi-system electrical multiple units capable of high-speeds, which did not need to stop in Emmerich any more. Since December 2002, the new Cologne–Frankfurt high-speed rail line has provided a direct through connection to Frankfurt am Main. At the same time, the two remaining EuroCity trains were also replaced by electric multiple units. After that the only long-distance train stopping in Emmerich and Wesel was a night train, and since December 2005 it only stops in Emmerich.
+
+Completion of the new "Betuweroute"[edit]
+In the Netherlands the Betuweroute was put into normal operations on 16 June 2007. The new freight route connects the port of Rotterdam with the Ruhr and southern Germany. It joins the existing line in Zevenaar.
+
+Future Investments[edit]
+In July 2013, the German federal government, the state of North-Rhine Westphalia, Deutsche Bahn and other parties signed a €1.5bn funding agreement to upgrade the 73 km Emmerich-Oberhausen segment. Improvements include laying a third track to remove bottlenecks, removal of level crossings, renewal of electrical equipment, installation of ETCS and building of noise attenuating walls.[3]
+
+Services[edit]
+  Class 406 ICE International train
+  City Night Line sleeping car
+The Oberhausen–Arnhem railway is served every two hours each day by long-distance passenger services operated by ICE International trains on the Amsterdam Centraal–Utrecht Centraal–Köln Hbf–Frankfurt (Main) Hbf / Basel SBB route.
+The following services run hourly:
+
+Regional-Express RE 5 (Rhein-Express): Koblenz–Cologne–Duisburg–Wesel,
+Regional-Express RE 19 (Rhein-IJssel-Express): Düsseldorf–Emmerich-Arnhem,
+Monday to Friday, RB 35 (Emscher-Niederrhein-Bahn): Mönchengladbach–Duisburg–Wesel.[4]
+These services each run twice per hour on the Dutch section between Arnhem and Zevenaar:
+
+a local train between Arnhem and Winterswijk, operated by Arriva,
+a local train on weekdays only between Arnhem and Doetinchem, operated by Hermes under the brand name Breng.
+In Wesel services on the Oberhausen-Arnhem line connect with RB 32 (Der Bocholter) services on the Bocholt Railway.
+Regional passenger services on the German section are operated by DB Regio NRW and Abellio Rail NRW. DB Regio NRW operated the whole passenger services on the German side of the railway line until December 2016 and currently is operating the RE 5 line. The following train compositions are used by DB Regio NRW: push-pull trains composed of five double-deck carriages hauled by a DB class 146 electric locomotives at speeds of up to 160 km/h.
+Abellio Rail NRW started its operation in December 2016 and now is operating the services on the RE 19, RB 32 and RB 35 lines. There are 21 trainsets type Stadler FLIRT in the grey Abellio livery which are being used on these lines.[4]
+Passenger services on the Dutch section were operated by Syntus until the end of 2012, after that by Arriva and Breng.
+Cross-border regional passenger services didn't operate between 2006 and 2017. Previously regional services operated between Emmerich and Arnhem (RB 34, Der Arnheimer). From 6 April 2017, Abellio service RE 19 was extended from Emmerich to Arnhem.
+In addition to passenger traffic, the line has a very high volume of freight traffic.
+
+Usage (2005)[edit]
+The utilisation of the line in 2005—following the introduction of a regular interval timetable in 1998, the increase of long-distance and regional passenger services at the end of 2002 and the increase of freight transport—amounted to six to eight trains per hour in each direction. In each working day there 104 units of regional passenger trains, 16 long-distance trains and 60 freight trains, each way.
+
+References[edit]
+
+
+^ Eisenbahnatlas Deutschland (German railway atlas). Schweers + Wall. 2009. pp. 38, 50–1, 136–7. ISBN 978-3-89494-139-0..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b c d e f g h "Die Hollandstrecke am unteren Niederrhein" (in German). PRO BAHN Regionalverband Niederrhein e.V. Archived from the original on 3 July 2009. Retrieved 28 October 2010.
+
+^ "Funding for €1·5bn Emmerich – Oberhausen upgrade signed". Railway Gazette. July 24, 2013. Retrieved August 2, 2013.
+
+^ a b "Abellio übernimmt Fahrten der RB 33 und RB 35 im Vorlaufbetrieb von DB Regio NRW | Abellio Deutschland". www.abellio.de (in German). Retrieved 2017-01-28.
+
+
+External links[edit]
+Description of line 2270 in the NRW railways archive of André Joost
+
+
+
+
+
+		
+		Retrieved from "https://en.wikipedia.org/w/index.php?title=Oberhausen–Arnhem_railway&oldid=926060684"
+		
+		Categories: Railway lines in North Rhine-WestphaliaRailway lines in the NetherlandsRailway lines opened in 18561856 establishments in PrussiaCross-border railway lines in GermanyHidden categories: CS1 German-language sources (de)Articles containing Dutch-language text
+		
+		
+	
+
+
+	
+
+
+
+		
+			Navigation menu
+			
+						
+			Personal tools
+			
+				Not logged inTalkContributionsCreate accountLog in			
+		
+						
+					
+
+	Namespaces
+	
+		ArticleTalk
+	
+
+		
+						
+			
+				Variants
+			
+			
+							
+		
+						
+				
+					
+
+	Views
+	
+		ReadEditView history
+	
+
+		
+			
+			More
+			
+							
+		
+		
+
+	
+		Search
+	
+	
+		
+			
+			
+			
+			
+			
+		
+	
+
+				
+			
+			
+				
+						
+			Navigation
+			
+								
+					Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store				
+							
+		
+			
+			Interaction
+			
+								
+					HelpAbout WikipediaCommunity portalRecent changesContact page				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page				
+							
+		
+			
+			In other projects
+			
+								
+					Wikimedia Commons				
+							
+		
+			
+			Print/export
+			
+								
+					Create a bookDownload as PDFPrintable version				
+							
+		
+			
+			Languages
+			
+								
+					DeutschNederlands				
+				Edit links			
+		
+				
+		
+				
+						
+								 This page was last edited on 14 November 2019, at 00:37 (UTC).
+								Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+							
+						
+								Privacy policy
+								About Wikipedia
+								Disclaimers
+								Contact Wikipedia
+								Developers
+								Statistics
+								Cookie statement
+								Mobile view
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.696","walltime":"0.868","ppvisitednodes":{"value":1299,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":95659,"limit":2097152},"templateargumentsize":{"value":28394,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18028,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  695.428      1 -total"," 48.56%  337.723      1 Template:Infobox_rail_line"," 44.18%  307.249      1 Template:Infobox"," 27.22%  189.272      1 Template:Lang-nl"," 22.64%  157.426      1 Template:Reflist"," 20.11%  139.858      1 Template:Routemap"," 15.50%  107.797      1 Template:Cite_book","  7.26%   50.501      2 Template:Convert","  3.16%   21.985      1 Template:Track_gauge","  2.74%   19.032      2 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.370","limit":"10.000"},"limitreport-memusage":{"value":12195443,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20191215235537","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Oberhausen\u2013Arnhem railway","url":"https:\/\/en.wikipedia.org\/wiki\/Oberhausen%E2%80%93Arnhem_railway","sameAs":"http:\/\/www.wikidata.org\/entity\/Q750815","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q750815","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-10-28T13:49:52Z","dateModified":"2019-11-14T00:37:35Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/28\/Kme2.png","headline":"railway line"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1262"});});
+
+
