@@ -119,3 +119,80 @@ import wikipedia
  except wikipedia.exceptions.DisambiguationError as eD:
 ...
 ```
+
+Al directori ``` ./data_URLS ``` hi ha els primers 10 mil links. Potser hi ha de repetits però no és cap problema ja que després podran ser quantificats. Pujem la xifra a 50k de necessaris.
+
+El codi que fa això és ``` nocalurl.py``` el nom  és en motiu de la pifia.
+
+## 16/12/2019
+
+* Baralla amb dependències i altres coses que no recordo.
+
+## 18/12/2019
+
+* Enllesteixo el codi que fa el _scraping_ del html  i converteix a _like text_
+* Però faig una cutrada, em trobo amb el següent error:
+
+``` bash
+Traceback (most recent call last):
+  File "aguacate.py", line 21, in <module>
+    fEscriure=open("./html_like_text_X/"+str(nom)+"_X.txt",mode = 'w')
+IOError: [Errno 2] No such file or directory: "./html_like_text_X/Ribera_Baja'/'Erribera_Beitia_X.txt"
+
+```
+la solució _cutre_:  
+``` python 
+     ...
+     html=html.split("\n")[0]
+     nom=html.replace("https://en.wikipedia.org/wiki/","")
+     nom=nom.replace("/","\\") 
+     ...
+```
++ Preguntes per Adrià:
+ * Com fico un comptador als ``` scryps ``` de python fàcil ?
+ * Consell per executar en més d'un fil, per accelerar el procés ?
+ * si faig ``` ls ``` , alguns arxius surten amb _' '_, altres amb _" "_ i altres normal:
+ 
+ ``` bash
+ 'Sefer_haYashar_(midrash)_X.txt'
+ Seh_Ran_Bala_X.txt
+ Self-Portrait_as_the_Allegory_of_Painting_X.txt
+ Senad_Jarović_X.txt
+ Sergej_Kozlík_X.txt
+ Seth_Firkins_X.txt
+'Sex,_Life_&_Love_X.txt'
+ Shimamoto_X.txt
+ Shorncliffe_railway_station_X.txt
+ Sierra_Norte_de_Sevilla_X.txt
+'Silver_Lake_(Clinton_County,_New_York)_X.txt'
+ Simhallsbadet,_Malmö_X.txt
+ Sıracevizler,_Amasya_X.txt
+ Situationist_Comedy_X.txt
+ Slavko_Duščak_X.txt
+ Småvatna_Hydroelectric_Power_Station_X.txt
+ Smith_Memorial_Student_Union_X.txt
+ Snow_Time_X.txt
+ Snowy-cheeked_laughingthrush_X.txt
+ Social_fund_X.txt
+ Solar_Settlement_at_Schlierberg_X.txt
+ Solombala_Shipyard_X.txt
+ Someday_Soon_X.txt
+ Sonita_Sutherland_X.txt
+'Soul_Song_(disambiguation)_X.txt'
+ Spatangidae_X.txt
+ Speed_ring_X.txt
+ Spirit_of_Indiana_X.txt
+'Spunk_(play)_X.txt'
+ SS_Tum_Tum_X.txt
+'Stadium_(software)_X.txt'
+'Stan_Wilson_(footballer,_born_1928)_X.txt'
+ Stefan_Czarnowski_X.txt
+ Stella_Kunkat_X.txt
+ Stephen_A._Rudd_X.txt
+'Steve_Marshall_(politician)_X.txt'
+ Stonyx_clelia_X.txt
+'Stowaway_(disambiguation)_X.txt'
+"St_Paul's_Roman_Catholic_Academy_X.txt"
+
+ ```
+I :black_heart: https://linuxhint.com/bash_for_loop/
