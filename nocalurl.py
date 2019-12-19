@@ -1,6 +1,6 @@
 import wikipedia as wiki
 h="https://en.wikipedia.org/wiki/"
-for j in range(21,40):
+for j in range(10,11):
     file=open("url1000_"+str(j)+".dat","w")
     for num in range(1000):
         nam=wiki.random(1)
