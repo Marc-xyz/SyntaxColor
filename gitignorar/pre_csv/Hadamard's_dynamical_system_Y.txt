@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Hadamard's dynamical system - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfmqlQpAICMAADX-8HsAAACM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hadamard's_dynamical_system","wgTitle":"Hadamard's dynamical system","wgCurRevisionId":930233457,"wgRevisionId":930233457,"wgArticleId":5424787,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Chaotic maps","Ergodic theory"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Hadamard's_dynamical_system",
+"wgRelevantArticleId":5424787,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5637574","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hadamard%27s_dynamical_system" rel="alternate"/>
+<link href="/w/index.php?title=Hadamard%27s_dynamical_system&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Hadamard%27s_dynamical_system&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Hadamard%27s_dynamical_system" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hadamard_s_dynamical_system rootpage-Hadamard_s_dynamical_system skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Hadamard's dynamical system</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Chaotic dynamical system, a type of "billiards"</div>
+<p>In <a href="/wiki/Physics" title="Physics">physics</a> and <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, the <b>Hadamard dynamical system</b> (also called <b>Hadamard's billiard</b> or the <b>Hadamard–Gutzwiller model</b><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>) is a <a href="/wiki/Chaos_theory" title="Chaos theory">chaotic</a> <a href="/wiki/Dynamical_system" title="Dynamical system">dynamical system</a>, a type of <a href="/wiki/Dynamical_billiards" title="Dynamical billiards">dynamical billiards</a>. Introduced by <a href="/wiki/Jacques_Hadamard" title="Jacques Hadamard">Jacques Hadamard</a> in 1898,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> and studied by <a href="/wiki/Martin_Gutzwiller" title="Martin Gutzwiller">Martin Gutzwiller</a> in the 1980s,<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> it is the first dynamical system to be proven <a href="/wiki/Chaos_theory" title="Chaos theory">chaotic</a>.
+</p><p>The system considers the motion of a free (<a href="/wiki/Friction" title="Friction">frictionless</a>) <a href="/wiki/Subatomic_particle" title="Subatomic particle">particle</a> on the <a href="/wiki/Bolza_surface" title="Bolza surface">Bolza surface</a>, i.e, a two-dimensional surface of genus two (a donut with two holes) and constant negative <a href="/wiki/Curvature" title="Curvature">curvature</a>; this is the simplest compact <a href="/wiki/Riemann_surface" title="Riemann surface">Riemann surface</a>. Hadamard was able to show that every particle trajectory moves away from every other: that all trajectories have a positive <a href="/wiki/Lyapunov_exponent" title="Lyapunov exponent">Lyapunov exponent</a>.
+</p><p>Frank Steiner argues that Hadamard's study should be considered to be the first-ever examination of a chaotic dynamical system, and that Hadamard should be considered the first discoverer of chaos.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> He points out that the study was widely disseminated, and considers the impact of the ideas on the thinking of <a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a> and <a href="/wiki/Ernst_Mach" title="Ernst Mach">Ernst Mach</a>.
+</p><p>The system is  particularly important in that in 1963, <a href="/wiki/Yakov_Sinai" title="Yakov Sinai">Yakov Sinai</a>, in studying <a class="mw-redirect" href="/wiki/Sinai%27s_billiards" title="Sinai's billiards">Sinai's billiards</a> as a model of the classical ensemble of a Boltzmann–Gibbs gas, was able to show that the motion of the atoms in the gas follow the trajectories in the Hadamard dynamical system.
+</p>
+<h2><span class="mw-headline" id="Exposition">Exposition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard%27s_dynamical_system&amp;action=edit&amp;section=1" title="Edit section: Exposition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The motion studied is that of a free particle sliding frictionlessly on the surface, namely, one having the <a href="/wiki/Hamiltonian_(quantum_mechanics)" title="Hamiltonian (quantum mechanics)">Hamiltonian</a>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle H(p,q)={\frac {1}{2m}}p_{i}p_{j}g^{ij}(q)}" xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>H</mi>
+        <mo stretchy="false">(</mo>
+        <mi>p</mi>
+        <mo>,</mo>
+        <mi>q</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <mn>2</mn>
+              <mi>m</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <msup>
+          <mi>g</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>j</mi>
+          </mrow>
+        </msup>
+        <mo stretchy="false">(</mo>
+        <mi>q</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H(p,q)={\frac {1}{2m}}p_{i}p_{j}g^{ij}(q)}</annotation>
+  </semantics>
+</math></span><img alt="H(p,q)={\frac {1}{2m}}p_{i}p_{j}g^{ij}(q)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/be31a1345d31127e93106d29c124d3860067bbe6" style="vertical-align: -1.838ex; width:23.806ex; height:5.176ex;"/></span></dd></dl>
+<p>where <i>m</i> is the mass of the particle, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle q^{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle q^{i}}</annotation>
+  </semantics>
+</math></span><img alt="q^{i}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac3b6e58595ab90741577c4f9f63875fba9b7c43" style="vertical-align: -0.671ex; width:1.879ex; height:3.009ex;"/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle i=1,2}" xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>,</mo>
+        <mn>2</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i=1,2}</annotation>
+  </semantics>
+</math></span><img alt="i=1,2" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/608b3c5e448c465889913a88a105e38e7316fba7" style="vertical-align: -0.671ex; width:7.26ex; height:2.509ex;"/></span> are the coordinates on the manifold, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{i}}</annotation>
+  </semantics>
+</math></span><img alt="p_{i}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5bab39399bf5424f25d957cdc57c84a0622626d2" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:2.059ex; height:2.009ex;"/></span> are the <a class="mw-redirect" href="/wiki/Conjugate_momenta" title="Conjugate momenta">conjugate momenta</a>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p_{i}=mg_{ij}{\frac {dq^{j}}{dt}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi>m</mi>
+        <msub>
+          <mi>g</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>d</mi>
+              <msup>
+                <mi>q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>j</mi>
+                </mrow>
+              </msup>
+            </mrow>
+            <mrow>
+              <mi>d</mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{i}=mg_{ij}{\frac {dq^{j}}{dt}}}</annotation>
+  </semantics>
+</math></span><img alt="p_{i}=mg_{ij}{\frac {dq^{j}}{dt}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/48ed87c31a9a5e6a67c35ea6af4e375901b6d980" style="vertical-align: -2.005ex; margin-left: -0.089ex; width:13.825ex; height:5.843ex;"/></span></dd></dl>
+<p>and
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ds^{2}=g_{ij}(q)dq^{i}dq^{j}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>d</mi>
+        <msup>
+          <mi>s</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <msub>
+          <mi>g</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>q</mi>
+        <mo stretchy="false">)</mo>
+        <mi>d</mi>
+        <msup>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msup>
+        <mi>d</mi>
+        <msup>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>j</mi>
+          </mrow>
+        </msup>
+        <mspace width="thinmathspace"></mspace>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle ds^{2}=g_{ij}(q)dq^{i}dq^{j}\,}</annotation>
+  </semantics>
+</math></span><img alt="ds^{2}=g_{ij}(q)dq^{i}dq^{j}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9ccca4db89aaed35498977c37bbb733f8523dbeb" style="vertical-align: -1.005ex; width:18.611ex; height:3.343ex;"/></span></dd></dl>
+<p>is the <a href="/wiki/Metric_tensor" title="Metric tensor">metric tensor</a> on the manifold. Because this is the free-particle Hamiltonian, the solution to the <a href="/wiki/Hamilton%E2%80%93Jacobi_equation" title="Hamilton–Jacobi equation">Hamilton–Jacobi equations of motion</a> are simply given by the <a href="/wiki/Geodesic" title="Geodesic">geodesics</a> on the manifold.
+</p><p>Hadamard was able to show that all geodesics are unstable, in that they all diverge exponentially from one another, as <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle e^{\lambda t}}" xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>λ<!-- λ --></mi>
+            <mi>t</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle e^{\lambda t}}</annotation>
+  </semantics>
+</math></span><img alt="e^{\lambda t}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/338d7b693a52f417793916fcda2fdf861cd5b462" style="vertical-align: -0.338ex; width:2.868ex; height:2.676ex;"/></span> with positive <a href="/wiki/Lyapunov_exponent" title="Lyapunov exponent">Lyapunov exponent</a>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \lambda ={\sqrt {\frac {2E}{mR^{2}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>λ<!-- λ --></mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <mfrac>
+              <mrow>
+                <mn>2</mn>
+                <mi>E</mi>
+              </mrow>
+              <mrow>
+                <mi>m</mi>
+                <msup>
+                  <mi>R</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>2</mn>
+                  </mrow>
+                </msup>
+              </mrow>
+            </mfrac>
+          </msqrt>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lambda ={\sqrt {\frac {2E}{mR^{2}}}}}</annotation>
+  </semantics>
+</math></span><img alt="\lambda ={\sqrt {\frac {2E}{mR^{2}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3e6de727ac803ad2e6293fd5ba207930eab463be" style="vertical-align: -2.505ex; width:12.472ex; height:6.343ex;"/></span></dd></dl>
+<p>with <i>E</i> the energy of a trajectory, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K=-1/R^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>K</mi>
+        <mo>=</mo>
+        <mo>−<!-- − --></mo>
+        <mn>1</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <msup>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle K=-1/R^{2}}</annotation>
+  </semantics>
+</math></span><img alt="K=-1/R^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c0a14fc0b0f6727ba3df3b5f427eb1ca3056d451" style="vertical-align: -0.838ex; width:12.116ex; height:3.176ex;"/></span> being the constant negative curvature of the surface.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard%27s_dynamical_system&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Aurich, R.; Sieber, M.; Steiner, F. (1 August 1988). <a class="external text" href="http://bib-pubdb1.desy.de/record/324018/files/PhysRevLett61483.pdf" rel="nofollow">"Quantum Chaos of the Hadamard–Gutzwiller Model"</a> <span class="cs1-format">(PDF)</span>. <i>Physical Review Letters</i>. <b>61</b> (5): 483–487. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="https://ui.adsabs.harvard.edu/abs/1988PhRvL..61..483A" rel="nofollow">1988PhRvL..61..483A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1103%2FPhysRevLett.61.483" rel="nofollow">10.1103/PhysRevLett.61.483</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10039347" rel="nofollow">10039347</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=Quantum+Chaos+of+the+Hadamard%E2%80%93Gutzwiller+Model&amp;rft.volume=61&amp;rft.issue=5&amp;rft.pages=483-487&amp;rft.date=1988-08-01&amp;rft_id=info%3Apmid%2F10039347&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.61.483&amp;rft_id=info%3Abibcode%2F1988PhRvL..61..483A&amp;rft.aulast=Aurich&amp;rft.aufirst=R.&amp;rft.au=Sieber%2C+M.&amp;rft.au=Steiner%2C+F.&amp;rft_id=http%3A%2F%2Fbib-pubdb1.desy.de%2Frecord%2F324018%2Ffiles%2FPhysRevLett61483.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadamard%27s+dynamical+system"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hadamard, J. (1898). "Les surfaces à courbures opposées et leurs lignes géodésiques". <i>J. Math. Pures Appl</i>. <b>4</b>: 27–73.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Math.+Pures+Appl.&amp;rft.atitle=Les+surfaces+%C3%A0+courbures+oppos%C3%A9es+et+leurs+lignes+g%C3%A9od%C3%A9siques&amp;rft.volume=4&amp;rft.pages=27-73&amp;rft.date=1898&amp;rft.aulast=Hadamard&amp;rft.aufirst=J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadamard%27s+dynamical+system"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gutzwiller, M. C. (21 July 1980). "Classical Quantization of a Hamiltonian with Ergodic Behavior". <i>Physical Review Letters</i>. <b>45</b> (3): 150–153. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="https://ui.adsabs.harvard.edu/abs/1980PhRvL..45..150G" rel="nofollow">1980PhRvL..45..150G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1103%2FPhysRevLett.45.150" rel="nofollow">10.1103/PhysRevLett.45.150</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=Classical+Quantization+of+a+Hamiltonian+with+Ergodic+Behavior&amp;rft.volume=45&amp;rft.issue=3&amp;rft.pages=150-153&amp;rft.date=1980-07-21&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.45.150&amp;rft_id=info%3Abibcode%2F1980PhRvL..45..150G&amp;rft.aulast=Gutzwiller&amp;rft.aufirst=M.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadamard%27s+dynamical+system"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gutzwiller, M. C. (1985). "The Geometry of Quantum Chaos". <i>Physica Scripta</i>. <b>T9</b>: 184–192. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="https://ui.adsabs.harvard.edu/abs/1985PhST....9..184G" rel="nofollow">1985PhST....9..184G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1088%2F0031-8949%2F1985%2FT9%2F030" rel="nofollow">10.1088/0031-8949/1985/T9/030</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physica+Scripta&amp;rft.atitle=The+Geometry+of+Quantum+Chaos&amp;rft.volume=T9&amp;rft.pages=184-192&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.1088%2F0031-8949%2F1985%2FT9%2F030&amp;rft_id=info%3Abibcode%2F1985PhST....9..184G&amp;rft.aulast=Gutzwiller&amp;rft.aufirst=M.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadamard%27s+dynamical+system"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Steiner, Frank (1994). "Quantum Chaos".  In Ansorge, R. (ed.). <i>Schlaglichter der Forschung: Zum 75. Jahrestag der Universität Hamburg 1994</i>. Berlin: Reimer. pp. 542–564. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/chao-dyn/9402001" rel="nofollow">chao-dyn/9402001</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="https://ui.adsabs.harvard.edu/abs/1994chao.dyn..2001S" rel="nofollow">1994chao.dyn..2001S</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-496-02540-5" title="Special:BookSources/978-3-496-02540-5"><bdi>978-3-496-02540-5</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Quantum+Chaos&amp;rft.btitle=Schlaglichter+der+Forschung%3A+Zum+75.+Jahrestag+der+Universit%C3%A4t+Hamburg+1994&amp;rft.place=Berlin&amp;rft.pages=542-564&amp;rft.pub=Reimer&amp;rft.date=1994&amp;rft_id=info%3Aarxiv%2Fchao-dyn%2F9402001&amp;rft_id=info%3Abibcode%2F1994chao.dyn..2001S&amp;rft.isbn=978-3-496-02540-5&amp;rft.aulast=Steiner&amp;rft.aufirst=Frank&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadamard%27s+dynamical+system"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1276
+Cached time: 20191217194330
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.220 seconds
+Real time usage: 0.325 seconds
+Preprocessor visited node count: 415/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10596/2097152 bytes
+Template argument size: 388/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16375/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.138/10.000 seconds
+Lua memory usage: 3.05 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  276.558      1 -total
+ 73.21%  202.463      1 Template:Reflist
+ 54.45%  150.577      4 Template:Cite_journal
+ 25.12%   69.470      1 Template:Short_description
+ 19.26%   53.266      1 Template:Pagetype
+ 13.73%   37.959      1 Template:Cite_book
+  1.15%    3.174      2 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5424787-0!canonical!math=5 and timestamp 20191217194330 and revision id 930233457
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hadamard%27s_dynamical_system&amp;oldid=930233457">https://en.wikipedia.org/w/index.php?title=Hadamard%27s_dynamical_system&amp;oldid=930233457</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chaotic_maps" title="Category:Chaotic maps">Chaotic maps</a></li><li><a href="/wiki/Category:Ergodic_theory" title="Category:Ergodic theory">Ergodic theory</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hadamard%27s+dynamical+system" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Hadamard%27s+dynamical+system" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Hadamard%27s_dynamical_system" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Hadamard%27s_dynamical_system" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Hadamard%27s_dynamical_system">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Hadamard%27s_dynamical_system&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Hadamard%27s_dynamical_system&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Hadamard%27s_dynamical_system" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Hadamard%27s_dynamical_system" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hadamard%27s_dynamical_system&amp;oldid=930233457" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hadamard%27s_dynamical_system&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5637574" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hadamard%27s_dynamical_system&amp;id=930233457" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hadamard%27s+dynamical+system">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hadamard%27s+dynamical+system&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Hadamard%27s_dynamical_system&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5637574#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 11 December 2019, at 03:01<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Hadamard%27s_dynamical_system&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.325","ppvisitednodes":{"value":415,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10596,"limit":2097152},"templateargumentsize":{"value":388,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16375,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  276.558      1 -total"," 73.21%  202.463      1 Template:Reflist"," 54.45%  150.577      4 Template:Cite_journal"," 25.12%   69.470      1 Template:Short_description"," 19.26%   53.266      1 Template:Pagetype"," 13.73%   37.959      1 Template:Cite_book","  1.15%    3.174      2 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.138","limit":"10.000"},"limitreport-memusage":{"value":3198177,"limit":52428800}},"cachereport":{"origin":"mw1276","timestamp":"20191217194330","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hadamard's dynamical system","url":"https:\/\/en.wikipedia.org\/wiki\/Hadamard%27s_dynamical_system","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5637574","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5637574","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-06-04T21:57:57Z","dateModified":"2019-12-11T03:01:17Z","headline":"chaotic dynamical system, a type of \"billiards\""}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1333"});});</script>
+
+
+</body></html>

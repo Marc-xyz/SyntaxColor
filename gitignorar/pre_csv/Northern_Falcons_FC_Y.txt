@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Northern Falcons FC - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfrr2ApAMFUAAKrf53wAAAAN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Northern_Falcons_FC","wgTitle":"Northern Falcons FC","wgCurRevisionId":919960873,"wgRevisionId":919960873,"wgArticleId":50752951,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from July 2016","Use Australian English from July 2016","All Wikipedia articles written in Australian English","Football team templates which use short name parameter",
+"Soccer clubs in Melbourne","Soccer clubs in Victoria (Australia)","Association football clubs established in 1986","Italian-Australian culture in Melbourne","Italian-Australian backed sports clubs of Victoria","Victorian State League teams","1986 establishments in Australia"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Northern_Falcons_FC","wgRelevantArticleId":50752951,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q24887553",
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard",
+"ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Northern_Falcons_FC" rel="alternate"/>
+<link href="/w/index.php?title=Northern_Falcons_FC&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Northern_Falcons_FC&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Northern_Falcons_FC" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Northern_Falcons_FC rootpage-Northern_Falcons_FC skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Northern Falcons FC</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Northern Falcons FC</caption><tbody><tr><th scope="row" style="white-space: nowrap; text-align:left">Full name</th><td>Northern Falcons Junior Soccer Club T/A Northern Falcons Football Club<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Nickname(s)</th><td class="nickname">Falcons</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Short name</th><td class="nickname">NFFC</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Founded</th><td>1986 as Flemington Floridia SC</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Ground</th><td class="label">Hayes Park</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Chairman</th><td class="agent">Frank Pizzo</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Head Coach</th><td class="agent">Kaan Kalayci</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">League</th><td><a class="new" href="/w/index.php?title=FV_State_League_4_North&amp;action=edit&amp;redlink=1" title="FV State League 4 North (page does not exist)">FV State League 4 North</a></td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left"><a href="/wiki/2018_Football_Federation_Victoria_season" title="2018 Football Federation Victoria season">2018</a></th><td>4th</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Website</th><td><span class="url"><a class="external text" href="http://www.northernfalconsfc.com" rel="nofollow">Club website</a></span></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><td class="toccolours" colspan="2" style="padding: 0; background: #ffffff; text-align: center;">
+<table style="width:100%; text-align:center;">
+<tbody><tr>
+<td><div style="width: 100px; margin: 0 auto; padding: 0;">
+<div style="position: relative; left: 0px; top: 0px; width: 100px; height: 135px; margin: 0 auto; padding: 0;">
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px; background-color: #009150;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/f/f8/Kit_left_arm_blackshoulders.png" style="vertical-align: top" title="Team colours" width="31"/></div>
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/47px-Kit_left_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/62px-Kit_left_arm.svg.png 2x" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px; background-color: #009150;"><img alt="" data-file-height="59" data-file-width="38" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/5/5c/Kit_body_thinblacksides.png" style="vertical-align: top" width="38"/></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px;"><img alt="" data-file-height="59" data-file-width="38" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/57px-Kit_body.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/76px-Kit_body.svg.png 2x" style="vertical-align: top" width="38"/></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px; background-color: #009150;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/1/14/Kit_right_arm_blackshoulders.png" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/31px-Kit_right_arm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/47px-Kit_right_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/62px-Kit_right_arm.svg.png 2x" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px; background-color: #000000"></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px;"><img alt="" data-file-height="36" data-file-width="100" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/150px-Kit_shorts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/200px-Kit_shorts.svg.png 2x" style="vertical-align: top" width="100"/></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px; background-color: #009150"><img alt="" data-file-height="25" data-file-width="100" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/7/72/Kit_socks_band_black.png" style="vertical-align: top" width="100"/></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px;"><img alt="" data-file-height="40" data-file-width="100" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/150px-Kit_socks_long.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/200px-Kit_socks_long.svg.png 2x" style="vertical-align: top" width="100"/></div>
+</div>
+<div style="padding-top: 0.6em; text-align: center;"><b><a href="/wiki/Kit_(association_football)" title="Kit (association football)">Home colours</a></b></div>
+</div></td><td><div style="width: 100px; margin: 0 auto; padding: 0;">
+<div style="position: relative; left: 0px; top: 0px; width: 100px; height: 135px; margin: 0 auto; padding: 0;">
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px; background-color: #FFFFFF;"></div>
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/47px-Kit_left_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/62px-Kit_left_arm.svg.png 2x" style="vertical-align: top" title="Team colours" width="31"/></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px; background-color: #FFFFFF;"><img alt="" data-file-height="59" data-file-width="38" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/b/b3/Kit_body_bluecollar.png" style="vertical-align: top" width="38"/></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px;"><img alt="" data-file-height="59" data-file-width="38" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/57px-Kit_body.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/76px-Kit_body.svg.png 2x" style="vertical-align: top" width="38"/></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px; background-color: #FFFFFF;"></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/31px-Kit_right_arm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/47px-Kit_right_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/62px-Kit_right_arm.svg.png 2x" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px; background-color: #000000"></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px;"><img alt="" data-file-height="36" data-file-width="100" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/150px-Kit_shorts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/200px-Kit_shorts.svg.png 2x" style="vertical-align: top" width="100"/></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px; background-color: #000000"></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px;"><img alt="" data-file-height="40" data-file-width="100" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/150px-Kit_socks_long.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/200px-Kit_socks_long.svg.png 2x" style="vertical-align: top" width="100"/></div>
+</div>
+<div style="padding-top: 0.6em; text-align: center;"><b><a href="/wiki/Away_colours" title="Away colours">Away colours</a></b></div>
+</div></td></tr>
+</tbody></table></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><td class="noprint" colspan="2" style="text-align:center"><img alt="" data-file-height="60" data-file-width="60" decoding="async" height="33" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Soccerball_current_event.svg/33px-Soccerball_current_event.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Soccerball_current_event.svg/50px-Soccerball_current_event.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Soccerball_current_event.svg/66px-Soccerball_current_event.svg.png 2x" width="33"/> <i><a href="/wiki/2019_Football_Victoria_season" title="2019 Football Victoria season">Current season</a></i></td></tr></tbody></table>
+<p><b>Northern Falcons Football Club</b> is a semi-professional <a href="/wiki/Association_football" title="Association football">association football (soccer)</a> club that is based in the northern <a href="/wiki/Melbourne" title="Melbourne">Melbourne</a> suburb of <a href="/wiki/Thornbury,_Victoria" title="Thornbury, Victoria">Thornbury</a>. Founded in 1986 by the <a href="/wiki/Italian_community_of_Melbourne" title="Italian community of Melbourne">Italian community of Melbourne</a>, the Falcons currently compete in the northern sector of the <a href="/wiki/Victorian_State_League_Division_4" title="Victorian State League Division 4">Victorian State League Division 4</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Name_timeline"><span class="tocnumber">1.1</span> <span class="toctext">Name timeline</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Staff"><span class="tocnumber">2</span> <span class="toctext">Staff</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Football_department"><span class="tocnumber">2.1</span> <span class="toctext">Football department</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Executive"><span class="tocnumber">2.2</span> <span class="toctext">Executive</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Northern_Falcons_FC&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The football club was established under the name of <i>Flemington Floridia Soccer Club</i> in October 1986 as the sporting arm of the Floridia Social Club. The club's inaugural home venue was the parkland at the foot of the <a href="/wiki/Flemington,_Victoria" title="Flemington, Victoria">Flemington</a> commission housing on <a href="/wiki/Flemington_Road,_Melbourne" title="Flemington Road, Melbourne">Flemington Road</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p><p>The club is led by president Frank Pizzo<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> who has earned recognition for the club from <a class="mw-redirect" href="/wiki/Football_Federation_Victoria" title="Football Federation Victoria">Football Federation Victoria</a> for numerous workings. In 2008, Frank Pizzo with support from the Darebin Council established the club's 'All Abilities' program for players with disabilities in weekly competitive competitions.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> In 2013, Football Federation Victoria awarded Pizzo with the federations’s annual volunteer of the year award for his &amp; the club's efforts in the 'all abilities' program.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Name_timeline">Name timeline</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Northern_Falcons_FC&amp;action=edit&amp;section=2" title="Edit section: Name timeline">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Name
+</th>
+<th>Period
+</th></tr>
+<tr>
+<td>Flemington Floridia</td>
+<td>1986–1994
+</td></tr>
+<tr>
+<td>Flemington Falcons</td>
+<td>1994–2004
+</td></tr>
+<tr>
+<td>Northern Falcons</td>
+<td>2004–present
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Staff">Staff</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Northern_Falcons_FC&amp;action=edit&amp;section=3" title="Edit section: Staff">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As of 14th May 2019<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Football_department">Football department</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Northern_Falcons_FC&amp;action=edit&amp;section=4" title="Edit section: Football department">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Name
+</th>
+<th>Role
+</th></tr>
+<tr>
+<td>Head Coach
+</td>
+<td>Kaan Kalayci
+</td></tr>
+<tr>
+<td>Assistant Coach
+</td>
+<td>Hasan Ibrahim &amp; George Jolevski
+</td></tr>
+<tr>
+<td>Reserves' Coach
+</td>
+<td>Jim Hristoforidis
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Executive">Executive</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Northern_Falcons_FC&amp;action=edit&amp;section=5" title="Edit section: Executive">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Name
+</th>
+<th>Role
+</th></tr>
+<tr>
+<td>Frank Pizzo</td>
+<td>President
+</td></tr>
+<tr>
+<td>John Giordano</td>
+<td>Junior Vice President
+</td></tr>
+<tr>
+<td>Joe Pizzo</td>
+<td>Treasurer
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Northern_Falcons_FC&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external free" href="https://abr.business.gov.au/ABN/View?abn=39836153702" rel="nofollow">https://abr.business.gov.au/ABN/View?abn=39836153702</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.foxsportspulse.com/team_info.cgi?id=16773997&amp;client=1-8746-124372-0-0&amp;compID=394756" rel="nofollow">"Team Home for Northern Falcons SC – FOX SPORTS PULSE"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 June</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Team+Home+for+Northern+Falcons+SC+%E2%80%93+FOX+SPORTS+PULSE&amp;rft_id=http%3A%2F%2Fwww.foxsportspulse.com%2Fteam_info.cgi%3Fid%3D16773997%26client%3D1-8746-124372-0-0%26compID%3D394756&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANorthern+Falcons+FC"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.heraldsun.com.au/leader/north/sport/northern-falcons-keep-state-league-4-north-frontrunners-in-their-sights-with-a-goal-to-contend-for-title/news-story/4c5543f1fe84cea9ff7f0041f9c27480" rel="nofollow">http://www.heraldsun.com.au/leader/north/sport/northern-falcons-keep-state-league-4-north-frontrunners-in-their-sights-with-a-goal-to-contend-for-title/news-story/4c5543f1fe84cea9ff7f0041f9c27480</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.firesense.com.au/index.php/news/?page=4" rel="nofollow">http://www.firesense.com.au/index.php/news/?page=4</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.northernfalconsfc.com/#!untitled/c1nhz" rel="nofollow">"Northern Falcons Football Club"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 June</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Northern+Falcons+Football+Club&amp;rft_id=http%3A%2F%2Fwww.northernfalconsfc.com%2F%23%21untitled%2Fc1nhz&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANorthern+Falcons+FC"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.heraldsun.com.au/leader/north/darebin-council-considers-subsidy-for-sports-clubs-demonstrating-social-inclusion/news-story/03f36b07f560eebd7396904e3293498f" rel="nofollow">http://www.heraldsun.com.au/leader/north/darebin-council-considers-subsidy-for-sports-clubs-demonstrating-social-inclusion/news-story/03f36b07f560eebd7396904e3293498f</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.footballfedvic.com.au/northern-falcons-all-abilities-success/" rel="nofollow">http://www.footballfedvic.com.au/northern-falcons-all-abilities-success/</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.heraldsun.com.au/leader/north/northern-falcons-president-rallies-support-for-new-inclusive-league-in-melbournes-north/story-fnglenug-1226822708744" rel="nofollow">http://www.heraldsun.com.au/leader/north/northern-falcons-president-rallies-support-for-new-inclusive-league-in-melbournes-north/story-fnglenug-1226822708744</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.northernfalconsfc.com/#!contact/c1lmq" rel="nofollow">"Northern Falcons Football Club, Contact Us"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 June</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Northern+Falcons+Football+Club%2C+Contact+Us&amp;rft_id=http%3A%2F%2Fwww.northernfalconsfc.com%2F%23%21contact%2Fc1lmq&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANorthern+Falcons+FC"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Northern_Falcons_FC&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.northernfalconsfc.com" rel="nofollow">Official Site</a></li>
+<li><a class="external text" href="http://www.ozfootball.net/ark/Clubs/N/NorthernFalconsDH.html" rel="nofollow">OzFootball Database Site</a></li></ul>
+<div aria-labelledby="Football_Victoria" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Football_Federation_Victoria" title="Template:Football Federation Victoria"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Football_Federation_Victoria" title="Template talk:Football Federation Victoria"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Football_Federation_Victoria&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Football_Victoria" style="font-size:114%;margin:0 4em"><a href="/wiki/Football_Victoria" title="Football Victoria">Football Victoria</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/A-League" title="A-League">A-League</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Melbourne_City_FC" title="Melbourne City FC">Melbourne City</a></li>
+<li><a href="/wiki/Melbourne_Victory_FC" title="Melbourne Victory FC">Melbourne Victory</a></li>
+<li><a href="/wiki/Western_United_FC" title="Western United FC">Western United</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/National_Premier_Leagues_Victoria" title="National Premier Leagues Victoria">NPL</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avondale_FC" title="Avondale FC">Avondale</a></li>
+<li><a href="/wiki/Bentleigh_Greens_SC" title="Bentleigh Greens SC">Bentleigh Greens</a></li>
+<li><a href="/wiki/FC_Bulleen_Lions" title="FC Bulleen Lions">Bulleen Lions</a></li>
+<li><a href="/wiki/Green_Gully_SC" title="Green Gully SC">Green Gully</a></li>
+<li><a href="/wiki/Heidelberg_United_FC" title="Heidelberg United FC">Heidelberg United</a></li>
+<li><a href="/wiki/Hume_City_FC" title="Hume City FC">Hume City</a></li>
+<li><a href="/wiki/Kingston_City_FC" title="Kingston City FC">Kingston City</a></li>
+<li><a href="/wiki/Melbourne_Knights_FC" title="Melbourne Knights FC">Melbourne Knights</a></li>
+<li><a href="/wiki/North_Geelong_Warriors_FC" title="North Geelong Warriors FC">North Geelong Warriors</a></li>
+<li><a href="/wiki/St_Albans_Saints_SC" title="St Albans Saints SC">St Albans Saints</a></li>
+<li><a href="/wiki/Oakleigh_Cannons_FC" title="Oakleigh Cannons FC">Oakleigh Cannons</a></li>
+<li><a class="mw-redirect" href="/wiki/Pascoe_Vale_SC" title="Pascoe Vale SC">Pascoe Vale</a></li>
+<li><a href="/wiki/Port_Melbourne_SC" title="Port Melbourne SC">Port Melbourne</a></li>
+<li><a href="/wiki/South_Melbourne_FC" title="South Melbourne FC">South Melbourne</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/National_Premier_Leagues_Victoria_2" title="National Premier Leagues Victoria 2">NPL 2</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">East</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Box_Hill_United_SC" title="Box Hill United SC">Box Hill United</a></li>
+<li><a href="/wiki/Dandenong_City_SC" title="Dandenong City SC">Dandenong City</a></li>
+<li><a href="/wiki/Dandenong_Thunder_SC" title="Dandenong Thunder SC">Dandenong Thunder</a></li>
+<li><a href="/wiki/Eastern_Lions_SC" title="Eastern Lions SC">Eastern Lions</a></li>
+<li><a href="/wiki/Goulburn_Valley_Suns_FC" title="Goulburn Valley Suns FC">Goulburn Valley Suns</a></li>
+<li><a class="mw-redirect" href="/wiki/Melbourne_City_FC_Youth_and_Under-23s" title="Melbourne City FC Youth and Under-23s">Melbourne City Youth</a></li>
+<li><a href="/wiki/Murray_United_FC" title="Murray United FC">Murray United</a></li>
+<li><a href="/wiki/Nunawading_City_FC" title="Nunawading City FC">Nunawading City</a></li>
+<li><a href="/wiki/Richmond_SC" title="Richmond SC">Richmond</a></li>
+<li><a href="/wiki/Springvale_White_Eagles_FC" title="Springvale White Eagles FC">Springvale White Eagles</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">West</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ballarat_City_FC" title="Ballarat City FC">Ballarat City</a></li>
+<li><a href="/wiki/Bendigo_City_FC" title="Bendigo City FC">Bendigo City</a></li>
+<li><a href="/wiki/Brunswick_City_SC" title="Brunswick City SC">Brunswick City</a></li>
+<li><a class="mw-redirect" href="/wiki/Melbourne_Victory_FC_Youth_and_Under-23s" title="Melbourne Victory FC Youth and Under-23s">Melbourne Victory Youth</a></li>
+<li><a href="/wiki/Moreland_City_FC" title="Moreland City FC">Moreland City</a></li>
+<li><a href="/wiki/Moreland_Zebras_FC" title="Moreland Zebras FC">Moreland Zebras</a></li>
+<li><a href="/wiki/Northcote_City_FC" title="Northcote City FC">Northcote City</a></li>
+<li><a class="mw-redirect" href="/wiki/Sunshine_George_Cross_FC" title="Sunshine George Cross FC">Sunshine George Cross</a></li>
+<li><a href="/wiki/Werribee_City_FC" title="Werribee City FC">Werribee City</a></li>
+<li><a href="/wiki/Whittlesea_Ranges_FC" title="Whittlesea Ranges FC">Whittlesea Ranges</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Victorian_State_League_Division_1" title="Victorian State League Division 1">State League 1</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">North-West</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Altona_East_Phoenix_SC" title="Altona East Phoenix SC">Altona East Phoenix</a></li>
+<li><a href="/wiki/Altona_Magic_SC" title="Altona Magic SC">Altona Magic</a></li>
+<li><a href="/wiki/Banyule_City_SC" title="Banyule City SC">Banyule City</a></li>
+<li><a href="/wiki/Essendon_Royals_SC" title="Essendon Royals SC">Essendon Royals</a></li>
+<li><a href="/wiki/Geelong_SC" title="Geelong SC">Geelong</a></li>
+<li><a href="/wiki/Keilor_Park_SC" title="Keilor Park SC">Keilor Park</a></li>
+<li><a href="/wiki/North_Sunshine_Eagles_FC" title="North Sunshine Eagles FC">North Sunshine Eagles</a></li>
+<li><a href="/wiki/Preston_Lions_FC" title="Preston Lions FC">Preston Lions</a></li>
+<li>Sydenham Park</li>
+<li><a href="/wiki/Western_Suburbs_SC" title="Western Suburbs SC">Western Suburbs</a></li>
+<li><a href="/wiki/Westgate_FC" title="Westgate FC">Westgate</a></li>
+<li>Yarraville Glory</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">South-East</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Casey Comets</li>
+<li>Caulfield United Cobras</li>
+<li><a href="/wiki/FC_Clifton_Hill" title="FC Clifton Hill">Clifton Hill</a></li>
+<li><a href="/wiki/Langwarrin_SC" title="Langwarrin SC">Langwarrin</a></li>
+<li><a href="/wiki/Malvern_City_FC" title="Malvern City FC">Malvern City</a></li>
+<li><a href="/wiki/Manningham_United_FC" title="Manningham United FC">Manningham United Blues</a></li>
+<li><a class="mw-redirect" href="/wiki/Mooroolbark_SC" title="Mooroolbark SC">Mooroolbark</a></li>
+<li>Mornington</li>
+<li>Morwell Pegasus</li>
+<li><a href="/wiki/South_Springvale_SC" title="South Springvale SC">South Springvale</a></li>
+<li>St Kilda</li>
+<li>Warragul United</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Victorian_State_League_Division_2" title="Victorian State League Division 2">State League 2</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">North-West</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Altona_City_SC" title="Altona City SC">Altona City</a></li>
+<li><a class="mw-redirect" href="/wiki/Cairnlea_FC" title="Cairnlea FC">Cairnlea</a></li>
+<li>Corio</li>
+<li><a href="/wiki/Diamond_Valley_United_SC" title="Diamond Valley United SC">Diamond Valley United</a></li>
+<li>Essendon United</li>
+<li><a href="/wiki/Fitzroy_City_SC" title="Fitzroy City SC">Fitzroy City</a></li>
+<li><a class="mw-redirect" href="/wiki/Geelong_Rangers" title="Geelong Rangers">Geelong Rangers</a></li>
+<li>Hoppers Crossing</li>
+<li>Hume United</li>
+<li>Moreland United</li>
+<li>Sporting Whittlesea</li>
+<li>Westvale</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">South-East</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Beaumaris</li>
+<li>Berwick City</li>
+<li><a class="mw-redirect" href="/wiki/Doncaster_Rovers_S.C." title="Doncaster Rovers S.C.">Doncaster Rovers</a></li>
+<li>Doveton</li>
+<li>Eltham Redbacks</li>
+<li><a href="/wiki/Frankston_Pines_FC" title="Frankston Pines FC">Frankston Pines</a></li>
+<li>Heatherton United</li>
+<li>Mazenod United</li>
+<li>North Caulfield</li>
+<li><a href="/wiki/Scotch_College,_Melbourne" title="Scotch College, Melbourne">Old Scotch</a></li>
+<li>Peninsula Strikers</li>
+<li>Seaford United</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Victorian_State_League_Division_3" title="Victorian State League Division 3">State League 3</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">North-West</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brimbank_Stallions_FC" title="Brimbank Stallions FC">Brimbank Stallions</a></li>
+<li>Epping City</li>
+<li><a href="/wiki/Fawkner_SC" title="Fawkner SC">Fawkner</a></li>
+<li>Heidelberg Stars</li>
+<li><a href="/wiki/La_Trobe_University" title="La Trobe University">La Trobe University</a></li>
+<li><a href="/wiki/Footscray_JUST" title="Footscray JUST">Melbourne City</a></li>
+<li><a class="new" href="/w/index.php?title=University_of_Melbourne_SC&amp;action=edit&amp;redlink=1" title="University of Melbourne SC (page does not exist)">Melbourne University</a></li>
+<li>Strathmore</li>
+<li>Sunbury United</li>
+<li>Upfield</li>
+<li>Whittlesea United</li>
+<li>Williamstown</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">South-East</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Brandon Park</li>
+<li>Brighton</li>
+<li>Collingwood City</li>
+<li><a href="/wiki/Dingley_Stars_FC" title="Dingley Stars FC">Dingley Stars</a></li>
+<li><a href="/wiki/Knox_City_FC" title="Knox City FC">Knox City</a></li>
+<li>Middle Park</li>
+<li>Monbulk Rangers</li>
+<li>Noble Park United</li>
+<li>Riversdale</li>
+<li>Sandringham</li>
+<li>Skye United</li>
+<li>South Yarra</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Victorian_State_League_Division_4" title="Victorian State League Division 4">State League 4</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">North</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Brunswick_Zebras" title="Brunswick Zebras">Brunswick Zebras</a></li>
+<li>Boroondara-Carey Eagles</li>
+<li><a class="mw-redirect" href="/wiki/Darebin_United" title="Darebin United">Darebin United</a></li>
+<li>Lalor United</li>
+<li>Greenvale United</li>
+<li><a href="/wiki/Marcellin_College,_Bulleen" title="Marcellin College, Bulleen">Marcellin Old Collegians</a></li>
+<li>Mill Park</li>
+<li>North City Wolves</li>
+<li><a class="mw-selflink selflink">Northern Falcons</a></li>
+<li><a class="mw-redirect" href="/wiki/RMIT_FC" title="RMIT FC">RMIT</a></li>
+<li>Watsonia Heights</li>
+<li>West Preston</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">West</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Altona North</li>
+<li>Balmoral</li>
+<li>Bell Park</li>
+<li>Golden Plains</li>
+<li>Melton Phoenix</li>
+<li>Newmarket Phoenix</li>
+<li>North Melbourne Athletic</li>
+<li><a href="/wiki/Point_Cook_SC" title="Point Cook SC">Point Cook</a></li>
+<li>Sebastopol Vikings</li>
+<li><a href="/wiki/Surf_Coast_FC" title="Surf Coast FC">Surf Coast</a></li>
+<li>Truganina Hornets</li>
+<li><a href="/wiki/Western_Eagles_FC" title="Western Eagles FC">Western Eagles</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">South</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Baxter</li>
+<li>Bayside Argonauts</li>
+<li>Dandenong South</li>
+<li>Endeavour Hills Fire</li>
+<li>Endeavour United</li>
+<li>Hampton Park United Sparrows</li>
+<li>Harrisfield Hurricanes</li>
+<li>Keysborough</li>
+<li><a class="mw-redirect" href="/wiki/Monash_University_SC" title="Monash University SC">Monash University</a></li>
+<li>Noble Park</li>
+<li>Rosebud Heart</li>
+<li>Springvale City</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">East</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Ashburton United</li>
+<li><a class="mw-redirect" href="/wiki/Croydon_City_Arrows" title="Croydon City Arrows">Croydon City Arrows</a></li>
+<li>Elwood City</li>
+<li>Healesville</li>
+<li>Kings Domain</li>
+<li><a href="/wiki/Camberwell_Grammar_School" title="Camberwell Grammar School">Old Camberwell Grammarians</a></li>
+<li><a href="/wiki/Xavier_College" title="Xavier College">Old Xaverians</a></li>
+<li><a href="/wiki/Ringwood_City_SC" title="Ringwood City SC">Ringwood City</a></li>
+<li><a class="mw-redirect" href="/wiki/St_Kevins_Old_Boys_SC" title="St Kevins Old Boys SC">St Kevin's Old Boys</a></li>
+<li>Whitehorse United</li>
+<li>Yarra Jets</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Victorian_State_League_Division_5" title="Victorian State League Division 5">State League 5</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">North</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Bundoora United</li>
+<li>Campbellfield Lions</li>
+<li>Craigieburn City</li>
+<li><a class="new" href="/w/index.php?title=Heidelberg_Eagles_SC&amp;action=edit&amp;redlink=1" title="Heidelberg Eagles SC (page does not exist)">Heidelberg Eagles</a></li>
+<li>Keon Park</li>
+<li>Meadow Park</li>
+<li>Mitchell Rangers</li>
+<li><a class="mw-redirect" href="/wiki/Plenty_Valley_Lions_FC" title="Plenty Valley Lions FC">Plenty Valley Lions</a></li>
+<li>Reservoir Yeti</li>
+<li><a href="/wiki/Thornbury_Athletic_FC" title="Thornbury Athletic FC">Thornbury Athletic</a></li>
+<li>Uni Hill Eagles</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">West</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Deakin_University" title="Deakin University">Deakin University</a></li>
+<li>Gisborne</li>
+<li>Keilor Wolves</li>
+<li>Kyneton District</li>
+<li>Lara United</li>
+<li><a class="mw-redirect" href="/wiki/Laverton_Park_SC" title="Laverton Park SC">Laverton Park</a></li>
+<li>Maidstone United</li>
+<li>Maribyrnong Greens</li>
+<li>Melbourne Lions</li>
+<li><a class="mw-redirect" href="/wiki/Melbourne_University_SC" title="Melbourne University SC">Melbourne University</a></li>
+<li>Moonee Valley Knights</li>
+<li>Spring Hills</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">South</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Bunyip District</li>
+<li>Casey Panthers</li>
+<li>Chelsea</li>
+<li>Dandenong Warriors</li>
+<li>Drouin Dragons</li>
+<li>Lyndale United</li>
+<li><a class="mw-redirect" href="/wiki/Mentone_Grammar" title="Mentone Grammar">Old Mentonians</a></li>
+<li>Pakenham United</li>
+<li>Rowville Eagles</li>
+<li>Sandown Lions</li>
+<li>Somerville Eagles</li>
+<li>White Star Dandenong</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">East</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Albert Park</li>
+<li>Chisholm United</li>
+<li>East Bentleigh Strikers</li>
+<li>East Brighton United</li>
+<li>Glen Waverley</li>
+<li><a href="/wiki/Monash_City_FC" title="Monash City FC">Monash City</a></li>
+<li><a class="mw-redirect" href="/wiki/Mt_Lilydale_Old_Collegians_SC" title="Mt Lilydale Old Collegians SC">Mt Lilydale Old Collegians</a></li>
+<li><a class="mw-redirect" href="/wiki/Old_Ivanhoe_Grammarians_SC" title="Old Ivanhoe Grammarians SC">Old Ivanhoe Grammarians</a></li>
+<li><a class="mw-redirect" href="/wiki/Old_Trinity_Grammarians_SC" title="Old Trinity Grammarians SC">Old Trinity Grammarians</a></li>
+<li><a class="mw-redirect" href="/wiki/Swinburne_University_FC" title="Swinburne University FC">Swinburne</a></li>
+<li>Waverley Wanderers</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Victorian_Regional_Leagues" title="Victorian Regional Leagues">Regional Leagues<br/>&amp; Associations</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albury_Wodonga_Football_Association" title="Albury Wodonga Football Association">Albury Wodonga Football Association</a></li>
+<li><a class="new" href="/w/index.php?title=Ballarat_%26_District_Soccer_Association&amp;action=edit&amp;redlink=1" title="Ballarat &amp; District Soccer Association (page does not exist)">Ballarat &amp; District Soccer Association</a></li>
+<li><a class="new" href="/w/index.php?title=Bayside_Football_Association&amp;action=edit&amp;redlink=1" title="Bayside Football Association (page does not exist)">Bayside Football Association</a></li>
+<li><a class="new" href="/w/index.php?title=Bendigo_Amateur_Soccer_League&amp;action=edit&amp;redlink=1" title="Bendigo Amateur Soccer League (page does not exist)">Bendigo Amateur Soccer League</a></li>
+<li><a class="new" href="/w/index.php?title=Cobram_Junior_Soccer_Association&amp;action=edit&amp;redlink=1" title="Cobram Junior Soccer Association (page does not exist)">Cobram Junior Soccer Association</a></li>
+<li><a class="mw-redirect" href="/wiki/GRFA" title="GRFA">Football Victoria Geelong Region</a></li>
+<li><a class="new" href="/w/index.php?title=Gippsland_Soccer_League&amp;action=edit&amp;redlink=1" title="Gippsland Soccer League (page does not exist)">Gippsland Soccer League</a></li>
+<li><a href="/wiki/North_Eastern_Soccer_League" title="North Eastern Soccer League">Goulburn North East Football Association</a></li>
+<li><a class="new" href="/w/index.php?title=Moama-Echuca_Soccer_Association&amp;action=edit&amp;redlink=1" title="Moama-Echuca Soccer Association (page does not exist)">Moama-Echuca Soccer Association</a></li>
+<li><a class="new" href="/w/index.php?title=Shepparton_Junior_Soccer_Association&amp;action=edit&amp;redlink=1" title="Shepparton Junior Soccer Association (page does not exist)">Shepparton Junior Soccer Association</a></li>
+<li><a class="new" href="/w/index.php?title=Football_Victoria_Sunraysia&amp;action=edit&amp;redlink=1" title="Football Victoria Sunraysia (page does not exist)">Football Victoria Sunraysia</a></li>
+<li><a class="new" href="/w/index.php?title=Swan_Hill_Soccer_League&amp;action=edit&amp;redlink=1" title="Swan Hill Soccer League (page does not exist)">Swan Hill Soccer League</a></li>
+<li><a class="new" href="/w/index.php?title=Warrnambool_%26_District_Soccer_League&amp;action=edit&amp;redlink=1" title="Warrnambool &amp; District Soccer League (page does not exist)">Warrnambool &amp; District Soccer League</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">League Seasons</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2014_Football_Federation_Victoria_season" title="2014 Football Federation Victoria season">2014</a></li>
+<li><a href="/wiki/2015_Football_Federation_Victoria_season" title="2015 Football Federation Victoria season">2015</a></li>
+<li><a href="/wiki/2016_Football_Federation_Victoria_season" title="2016 Football Federation Victoria season">2016</a></li>
+<li><a href="/wiki/2017_Football_Federation_Victoria_season" title="2017 Football Federation Victoria season">2017</a></li>
+<li><a href="/wiki/2018_Football_Federation_Victoria_season" title="2018 Football Federation Victoria season">2018</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Dockerty_Cup" title="Dockerty Cup">Dockerty Cup</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2014_Dockerty_Cup" title="2014 Dockerty Cup">2014</a></li>
+<li><a href="/wiki/2015_Dockerty_Cup" title="2015 Dockerty Cup">2015</a></li>
+<li><a href="/wiki/2016_Dockerty_Cup" title="2016 Dockerty Cup">2016</a></li>
+<li><a href="/wiki/2017_Dockerty_Cup" title="2017 Dockerty Cup">2017</a></li>
+<li><a href="/wiki/2018_Dockerty_Cup" title="2018 Dockerty Cup">2018</a></li>
+<li><a href="/wiki/2019_Dockerty_Cup" title="2019 Dockerty Cup">2019</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1327
+Cached time: 20191214165655
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.296 seconds
+Real time usage: 0.381 seconds
+Preprocessor visited node count: 1357/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 99411/2097152 bytes
+Template argument size: 1991/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11394/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.121/10.000 seconds
+Lua memory usage: 2.95 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  301.448      1 -total
+ 41.13%  123.994      1 Template:Reflist
+ 33.78%  101.841      3 Template:Cite_web
+ 26.89%   81.073      1 Template:Infobox_football_club
+ 24.19%   72.923      1 Template:Infobox
+ 17.01%   51.286      7 Template:Navbox
+ 14.19%   42.772      1 Template:Use_dmy_dates
+ 13.00%   39.201      1 Template:Football_Federation_Victoria
+  6.33%   19.078      2 Template:DMCA
+  5.48%   16.513      2 Template:Football_kit
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:50752951-0!canonical and timestamp 20191214165654 and revision id 919960873
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Northern_Falcons_FC&amp;oldid=919960873">https://en.wikipedia.org/w/index.php?title=Northern_Falcons_FC&amp;oldid=919960873</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Soccer_clubs_in_Melbourne" title="Category:Soccer clubs in Melbourne">Soccer clubs in Melbourne</a></li><li><a href="/wiki/Category:Soccer_clubs_in_Victoria_(Australia)" title="Category:Soccer clubs in Victoria (Australia)">Soccer clubs in Victoria (Australia)</a></li><li><a href="/wiki/Category:Association_football_clubs_established_in_1986" title="Category:Association football clubs established in 1986">Association football clubs established in 1986</a></li><li><a href="/wiki/Category:Italian-Australian_culture_in_Melbourne" title="Category:Italian-Australian culture in Melbourne">Italian-Australian culture in Melbourne</a></li><li><a href="/wiki/Category:Italian-Australian_backed_sports_clubs_of_Victoria" title="Category:Italian-Australian backed sports clubs of Victoria">Italian-Australian backed sports clubs of Victoria</a></li><li><a href="/wiki/Category:Victorian_State_League_teams" title="Category:Victorian State League teams">Victorian State League teams</a></li><li><a href="/wiki/Category:1986_establishments_in_Australia" title="Category:1986 establishments in Australia">1986 establishments in Australia</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_July_2016" title="Category:Use dmy dates from July 2016">Use dmy dates from July 2016</a></li><li><a href="/wiki/Category:Use_Australian_English_from_July_2016" title="Category:Use Australian English from July 2016">Use Australian English from July 2016</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_Australian_English" title="Category:All Wikipedia articles written in Australian English">All Wikipedia articles written in Australian English</a></li><li><a href="/wiki/Category:Football_team_templates_which_use_short_name_parameter" title="Category:Football team templates which use short name parameter">Football team templates which use short name parameter</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Northern+Falcons+FC" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Northern+Falcons+FC" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Northern_Falcons_FC" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Northern_Falcons_FC" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Northern_Falcons_FC">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Northern_Falcons_FC&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Northern_Falcons_FC&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Northern_Falcons_FC" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Northern_Falcons_FC" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Northern_Falcons_FC&amp;oldid=919960873" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Northern_Falcons_FC&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q24887553" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Northern_Falcons_FC&amp;id=919960873" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Northern+Falcons+FC">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Northern+Falcons+FC&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Northern_Falcons_FC&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q24887553#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 October 2019, at 22:08<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Northern_Falcons_FC&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.296","walltime":"0.381","ppvisitednodes":{"value":1357,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":99411,"limit":2097152},"templateargumentsize":{"value":1991,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11394,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  301.448      1 -total"," 41.13%  123.994      1 Template:Reflist"," 33.78%  101.841      3 Template:Cite_web"," 26.89%   81.073      1 Template:Infobox_football_club"," 24.19%   72.923      1 Template:Infobox"," 17.01%   51.286      7 Template:Navbox"," 14.19%   42.772      1 Template:Use_dmy_dates"," 13.00%   39.201      1 Template:Football_Federation_Victoria","  6.33%   19.078      2 Template:DMCA","  5.48%   16.513      2 Template:Football_kit"]},"scribunto":{"limitreport-timeusage":{"value":"0.121","limit":"10.000"},"limitreport-memusage":{"value":3093468,"limit":52428800}},"cachereport":{"origin":"mw1327","timestamp":"20191214165655","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Northern Falcons FC","url":"https:\/\/en.wikipedia.org\/wiki\/Northern_Falcons_FC","sameAs":"http:\/\/www.wikidata.org\/entity\/Q24887553","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q24887553","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-06-08T06:09:14Z","dateModified":"2019-10-06T22:08:16Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1250"});});</script>
+
+
+</body></html>

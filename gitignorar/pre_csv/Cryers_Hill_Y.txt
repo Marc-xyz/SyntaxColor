@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Cryers Hill - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfp4DgpAAEQAAJfPgbwAAADF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cryers_Hill","wgTitle":"Cryers Hill","wgCurRevisionId":922458701,"wgRevisionId":922458701,"wgArticleId":6887725,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from October 2019","Articles with OS grid coordinates","Coordinates on Wikidata","All stub articles","Hamlets in Buckinghamshire","Buckinghamshire geography stubs"],"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Cryers_Hill","wgRelevantArticleId":6887725,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":51.664052,"lon":-0.735455},"wgWikibaseItemId":"Q5190452","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":
+"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Buckinghamshire_UK_location_map.svg/1200px-Buckinghamshire_UK_location_map.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cryers_Hill" rel="alternate"/>
+<link href="/w/index.php?title=Cryers_Hill&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Cryers_Hill&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Cryers_Hill" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cryers_Hill rootpage-Cryers_Hill skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Cryers Hill</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">Cryers Hill</th></tr><tr><td colspan="2" style="text-align:center"><div class="center"><div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:240px;padding:0"><div style="position:relative;width:240px"><a class="image" href="/wiki/File:Buckinghamshire_UK_location_map.svg" title="Cryers Hill is located in Buckinghamshire"><img alt="Cryers Hill is located in Buckinghamshire" data-file-height="1266" data-file-width="1070" decoding="async" height="284" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Buckinghamshire_UK_location_map.svg/240px-Buckinghamshire_UK_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Buckinghamshire_UK_location_map.svg/360px-Buckinghamshire_UK_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Buckinghamshire_UK_location_map.svg/480px-Buckinghamshire_UK_location_map.svg.png 2x" width="240"/></a><div style="position:absolute;top:73.777%;left:59.455%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Cryers Hill" data-file-height="64" data-file-width="64" decoding="async" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" title="Cryers Hill" width="6"/></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Cryers Hill</div></div></div></div><div>Location within <a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a></div></div></div></div></td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/Ordnance_Survey_National_Grid" title="Ordnance Survey National Grid">OS grid reference</a></th><td><span class="plainlinks nourlexpansion"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/51.664093163356;-0.73773364978392_region:GB_scale:25000?pagename=Cryers_Hill">SU874969</a></span></span></td></tr><tr><th scope="row" style="width: 40%"><a class="mw-redirect" href="/wiki/Civil_parishes_in_England" title="Civil parishes in England">Civil parish</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Hughenden_Valley" title="Hughenden Valley">Hughenden</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Districts_of_England" title="Districts of England">District</a></th><td><div class="plainlist"><ul><li><a class="mw-redirect" href="/wiki/Chiltern_(district)" title="Chiltern (district)">Chiltern</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">Shire county</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Regions_of_England" title="Regions of England">Region</a></th><td><div class="plainlist"><ul><li><a href="/wiki/South_East_England" title="South East England">South East</a></li></ul></div></td></tr><tr class="mergedrow adr"><th scope="row" style="width: 40%"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Country</a></th><td><span class="country-name"><a href="/wiki/England" title="England">England</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign state</a></th><td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/Post_town" title="Post town">Post town</a></th><td><span style="font-size:80%;"><style data-mw-deduplicate="TemplateStyles:r920968872">.mw-parser-output span.allcaps{text-transform:uppercase}</style><span class="allcaps"><a href="/wiki/High_Wycombe" title="High Wycombe">High Wycombe</a></span></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Postcodes_in_the_United_Kingdom" title="Postcodes in the United Kingdom">Postcode district</a></th><td><span style="font-size:100%;"><a href="/wiki/HP_postcode_area" title="HP postcode area">HP15</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Telephone_numbers_in_the_United_Kingdom" title="Telephone numbers in the United Kingdom">Dialling code</a></th><td><span style="font-size:100%;">01494</span></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><a class="mw-redirect" href="/wiki/List_of_law_enforcement_agencies_in_the_United_Kingdom" title="List of law enforcement agencies in the United Kingdom">Police</a></th><td><a href="/wiki/Thames_Valley_Police" title="Thames Valley Police">Thames Valley</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Fire_services_in_the_United_Kingdom" title="Fire services in the United Kingdom">Fire</a></th><td><a href="/wiki/Buckinghamshire_Fire_and_Rescue_Service" title="Buckinghamshire Fire and Rescue Service">Buckinghamshire</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Emergency_medical_services_in_the_United_Kingdom" title="Emergency medical services in the United Kingdom">Ambulance</a></th><td><a href="/wiki/South_Central_Ambulance_Service" title="South Central Ambulance Service">South Central</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_members_of_the_European_Parliament_for_the_United_Kingdom,_2019%E2%80%9324" title="List of members of the European Parliament for the United Kingdom, 2019–24">EU Parliament</a></th><td><a href="/wiki/South_East_England_(European_Parliament_constituency)" title="South East England (European Parliament constituency)">South East England</a></td></tr><tr><td class="hlist noprint nowrap" colspan="2" style="text-align:center;border-top: 1px solid #aaa; padding-top: 3px; font-size:85%;">
+<dl><dt><span style="font-weight:normal;">List of places</span></dt>
+<dd><a href="/wiki/List_of_United_Kingdom_locations" title="List of United Kingdom locations">UK</a></dd>
+<dd><a href="/wiki/List_of_places_in_England" title="List of places in England">England</a></dd>
+<dd><a href="/wiki/List_of_places_in_Buckinghamshire" title="List of places in Buckinghamshire">Buckinghamshire</a></dd></dl>
+<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Cryers_Hill&amp;params=51.664052_N_0.735455_W_region:GB_type:city"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°39′51″N</span> <span class="longitude">0°44′08″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.664052°N 0.735455°W</span><span style="display:none">﻿ / <span class="geo">51.664052; -0.735455</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Cryers_Hill&amp;params=51.664052_N_0.735455_W_region:GB_type:city"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°39′51″N</span> <span class="longitude">0°44′08″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.664052°N 0.735455°W</span><span style="display:none">﻿ / <span class="geo">51.664052; -0.735455</span></span></span></a></span></span></span></td></tr></tbody></table>
+<p><b>Cryers Hill</b> is a <a href="/wiki/Hamlet_(place)" title="Hamlet (place)">hamlet</a> in the <a href="/wiki/Parish" title="Parish">parish</a> of <a href="/wiki/Hughenden_Valley" title="Hughenden Valley">Hughenden</a> and in <a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a>, England.<sup class="reference" id="cite_ref-Hughenden_Parish_Council_-_History_of_the_Parish_1-0"><a href="#cite_note-Hughenden_Parish_Council_-_History_of_the_Parish-1">[1]</a></sup> It was formerly known as Ravensmere (sometimes 'Ravening').
+</p><p>The hamlet is sandwiched between <a href="/wiki/Great_Kingshill" title="Great Kingshill">Great Kingshill</a>, <a href="/wiki/Hughenden_Valley" title="Hughenden Valley">Hughenden Valley</a> and <a href="/wiki/Widmer_End" title="Widmer End">Widmer End</a>.  Curiously, its primary school is called Great Kingshill school<sup class="reference" id="cite_ref-Great_Kingshill_CofE_Combined_2-0"><a href="#cite_note-Great_Kingshill_CofE_Combined-2">[2]</a></sup>  and the crematorium at Cryers Hill is called Hughenden Crematorium. This is located in Four Ashes Lane.<sup class="reference" id="cite_ref-Cryers_Hill,_Four_Ashes_Road_3-0"><a href="#cite_note-Cryers_Hill,_Four_Ashes_Road-3">[3]</a></sup>
+</p><p>The only pub within Cryers Hill is The White Lion, serving traditional ales and food.<sup class="reference" id="cite_ref-White_Lion_Cryers_Hill_4-0"><a href="#cite_note-White_Lion_Cryers_Hill-4">[4]</a></sup><sup class="reference" id="cite_ref-White_Lion_5-0"><a href="#cite_note-White_Lion-5">[5]</a></sup>
+</p><p>The hamlet and surrounding area provided the setting for <a href="/wiki/Kitty_Aldridge" title="Kitty Aldridge">Kitty Aldridge</a>'s 2007 novel called "Cryers Hill". The book partly documents the significant expansion of housing in the area during the 1960s.<sup class="reference" id="cite_ref-Tele2007_6-0"><a href="#cite_note-Tele2007-6">[6]</a></sup>
+</p><p>In <a href="/wiki/Four_Ashes,_Buckinghamshire" title="Four Ashes, Buckinghamshire">Four Ashes</a> Road, there is a large country house with a Georgian facade called 'Uplands' which is set in 18 acres (73,000 m<sup>2</sup>) of gardens. It is now a 74-room De Vere Venues hotel and conference centre.<sup class="reference" id="cite_ref-De_Vere_Venues:_Uplands_House_7-0"><a href="#cite_note-De_Vere_Venues:_Uplands_House-7">[7]</a></sup>
+</p><p>In recent years, an apparition of the <a href="/wiki/Green_Man" title="Green Man">Green Man</a> is alleged to have been sighted on at least two occasions at Cryers Hill.<sup class="reference" id="cite_ref-The_Green_Man_of_Hughenden_8-0"><a href="#cite_note-The_Green_Man_of_Hughenden-8">[8]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cryers_Hill&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Hughenden_Parish_Council_-_History_of_the_Parish-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hughenden_Parish_Council_-_History_of_the_Parish_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.hughendenparishcouncil.org.uk/council-information/history-of-the-parish/" rel="nofollow">"Hughenden Parish Council - History of the Parish"</a>. hughendenparishcouncil.org.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hughenden+Parish+Council+-+History+of+the+Parish&amp;rft.pub=hughendenparishcouncil.org.uk&amp;rft_id=http%3A%2F%2Fwww.hughendenparishcouncil.org.uk%2Fcouncil-information%2Fhistory-of-the-parish%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACryers+Hill"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Great_Kingshill_CofE_Combined-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Great_Kingshill_CofE_Combined_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.greatkingshill.bucks.sch.uk/" rel="nofollow">"Great Kingshill CofE Combined"</a>. greatkingshill.bucks.sch.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Great+Kingshill+CofE+Combined&amp;rft.pub=greatkingshill.bucks.sch.uk&amp;rft_id=http%3A%2F%2Fwww.greatkingshill.bucks.sch.uk%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACryers+Hill"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Cryers_Hill,_Four_Ashes_Road-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cryers_Hill,_Four_Ashes_Road_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20080828132110/http://www.lutonparanormal.com/buckinghamshire/popups/cryers_hill.html" rel="nofollow">"Cryers Hill, Four Ashes Lane"</a>. lutonparanormal.com. Archived from <a class="external text" href="http://www.lutonparanormal.com/buckinghamshire/popups/cryers_hill.html" rel="nofollow">the original</a> on 28 August 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cryers+Hill%2C+Four+Ashes+Lane&amp;rft.pub=lutonparanormal.com&amp;rft_id=http%3A%2F%2Fwww.lutonparanormal.com%2Fbuckinghamshire%2Fpopups%2Fcryers_hill.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACryers+Hill"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-White_Lion_Cryers_Hill-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-White_Lion_Cryers_Hill_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20130221033039/http://www.whitelioncryershill.co.uk/" rel="nofollow">"White Lion Cryers Hill"</a>. whitelioncryershill.co.uk. Archived from <a class="external text" href="http://www.whitelioncryershill.co.uk/" rel="nofollow">the original</a> on 21 February 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=White+Lion+Cryers+Hill&amp;rft.pub=whitelioncryershill.co.uk&amp;rft_id=http%3A%2F%2Fwww.whitelioncryershill.co.uk%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACryers+Hill"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-White_Lion-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-White_Lion_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://thegoodpubguide.co.uk/pub/view/White-Lion-HP15-6JP" rel="nofollow">"White Lion"</a>. thegoodpubguide.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=White+Lion&amp;rft_id=http%3A%2F%2Fthegoodpubguide.co.uk%2Fpub%2Fview%2FWhite-Lion-HP15-6JP&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACryers+Hill"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Tele2007-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tele2007_6-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Duffy, Carol Ann (1 April 2007). <a class="external text" href="https://www.telegraph.co.uk/culture/books/3664149/Twinkling-like-Woolworths.html" rel="nofollow">"Twinkling Like Woolworths"</a>. <i>The Telegraph</i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Telegraph&amp;rft.atitle=Twinkling+Like+Woolworths&amp;rft.date=2007-04-01&amp;rft.aulast=Duffy&amp;rft.aufirst=Carol+Ann&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fculture%2Fbooks%2F3664149%2FTwinkling-like-Woolworths.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACryers+Hill"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-De_Vere_Venues:_Uplands_House-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-De_Vere_Venues:_Uplands_House_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.devere.co.uk/locations/uplands-house.html" rel="nofollow">"De Vere Venues: Uplands House"</a>. devere.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=De+Vere+Venues%3A+Uplands+House&amp;rft.pub=devere.co.uk&amp;rft_id=http%3A%2F%2Fwww.devere.co.uk%2Flocations%2Fuplands-house.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACryers+Hill"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-The_Green_Man_of_Hughenden-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Green_Man_of_Hughenden_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.strangebritain.co.uk/ghosts/greenhugh.html" rel="nofollow">"The Green Man of Hughenden"</a>. strangebritain.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Green+Man+of+Hughenden&amp;rft.pub=strangebritain.co.uk&amp;rft_id=http%3A%2F%2Fwww.strangebritain.co.uk%2Fghosts%2Fgreenhugh.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACryers+Hill"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cryers_Hill&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.strangebritain.co.uk/ghosts/greenhugh.html" rel="nofollow">The Green Man at Cryers Hill</a></li>
+<li><a class="external text" href="https://www.theguardian.com/books/2007/jun/16/featuresreviews.guardianreview22" rel="nofollow">Guardian Review of "Cryers Hill" by Kitty Aldridge</a></li></ul>
+<div aria-labelledby="Wycombe_District" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Wycombe" title="Template:Wycombe"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Wycombe" title="Template talk:Wycombe"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Wycombe&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Wycombe_District" style="font-size:114%;margin:0 4em"><a href="/wiki/Wycombe_District" title="Wycombe District">Wycombe District</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="*_Buckinghamshire&amp;#10;*_County_Council_elections&amp;#10;*_District_Council_elections&amp;#10;&amp;#10;*_Aylesbury_Constituency&amp;#10;*_Beaconsfield_Constituency&amp;#10;*_Buckingham_Constituency&amp;#10;*_Wycombe_Constituency">
+<ul><li><a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a></li>
+<li><a href="/wiki/Buckinghamshire_County_Council_elections" title="Buckinghamshire County Council elections">County Council elections</a></li>
+<li><a class="mw-redirect" href="/wiki/Wycombe_local_elections" title="Wycombe local elections">District Council elections</a></li></ul>
+<ul><li><a href="/wiki/Aylesbury_(UK_Parliament_constituency)" title="Aylesbury (UK Parliament constituency)">Aylesbury Constituency</a></li>
+<li><a href="/wiki/Beaconsfield_(UK_Parliament_constituency)" title="Beaconsfield (UK Parliament constituency)">Beaconsfield Constituency</a></li>
+<li><a href="/wiki/Buckingham_(UK_Parliament_constituency)" title="Buckingham (UK Parliament constituency)">Buckingham Constituency</a></li>
+<li><a href="/wiki/Wycombe_(UK_Parliament_constituency)" title="Wycombe (UK Parliament constituency)">Wycombe Constituency</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Towns<br/><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">(component areas<br/>and hamlets)</span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/High_Wycombe" title="High Wycombe">High Wycombe</a></b>
+<ul><li><a href="/wiki/High_Wycombe" title="High Wycombe">Cressex</a></li>
+<li><a href="/wiki/Micklefield,_High_Wycombe" title="Micklefield, High Wycombe">Micklefield</a></li>
+<li><a href="/wiki/High_Wycombe" title="High Wycombe">Sands</a></li>
+<li><a class="mw-redirect" href="/wiki/Terriers,_Buckinghamshire" title="Terriers, Buckinghamshire">Terriers</a></li>
+<li><a href="/wiki/High_Wycombe" title="High Wycombe">Totteridge</a></li>
+<li><a href="/wiki/Wycombe_Marsh" title="Wycombe Marsh">Wycombe Marsh</a></li></ul></li>
+<li><b><a href="/wiki/Marlow,_Buckinghamshire" title="Marlow, Buckinghamshire">Marlow</a></b>
+<ul><li><a href="/wiki/Forty_Green,_Marlow" title="Forty Green, Marlow">Forty Green</a></li></ul></li>
+<li><b><a href="/wiki/Princes_Risborough" title="Princes Risborough">Princes Risborough</a></b>
+<ul><li><a href="/wiki/Alscot" title="Alscot">Alscot</a></li>
+<li><a href="/wiki/Askett" title="Askett">Askett</a></li>
+<li><a href="/wiki/Cadsden" title="Cadsden">Cadsden</a></li>
+<li><a href="/wiki/Princes_Risborough" title="Princes Risborough">Flowers Bottom</a></li>
+<li><a href="/wiki/Loosley_Row" title="Loosley Row">Loosley Row</a></li>
+<li><a href="/wiki/Princes_Risborough" title="Princes Risborough">Lower North Dean</a></li>
+<li><a href="/wiki/Monks_Risborough" title="Monks Risborough">Monks Risborough</a></li>
+<li><a href="/wiki/Princes_Risborough" title="Princes Risborough">North Dean</a></li>
+<li><a href="/wiki/Princes_Risborough" title="Princes Risborough">Redland End</a></li>
+<li><a href="/wiki/Speen,_Buckinghamshire" title="Speen, Buckinghamshire">Speen</a></li>
+<li><a href="/wiki/Princes_Risborough" title="Princes Risborough">Upper North Dean</a></li>
+<li><a href="/wiki/Whiteleaf,_Buckinghamshire" title="Whiteleaf, Buckinghamshire">Whiteleaf</a></li></ul></li></ul>
+</div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:BuckinghamshireWycombe.png"><img alt="BuckinghamshireWycombe.png" data-file-height="282" data-file-width="200" decoding="async" height="106" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BuckinghamshireWycombe.png/75px-BuckinghamshireWycombe.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BuckinghamshireWycombe.png/113px-BuckinghamshireWycombe.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BuckinghamshireWycombe.png/150px-BuckinghamshireWycombe.png 2x" width="75"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other civil parishes<br/><link href="mw-data:TemplateStyles:r886047488" rel="mw-deduplicated-inline-style"/><span class="nobold">(component villages<br/>and hamlets)</span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Bledlow-cum-Saunderton" title="Bledlow-cum-Saunderton">Bledlow-cum-Saunderton</a></b>
+<ul><li><a href="/wiki/Bledlow" title="Bledlow">Bledlow</a></li>
+<li><a href="/wiki/Bledlow_Ridge" title="Bledlow Ridge">Bledlow Ridge</a></li>
+<li><a href="/wiki/Bledlow-cum-Saunderton" title="Bledlow-cum-Saunderton">Crownfield</a></li>
+<li><a href="/wiki/Bledlow" title="Bledlow">Forty Green</a></li>
+<li><a href="/wiki/Bledlow-cum-Saunderton" title="Bledlow-cum-Saunderton">Holly Green</a></li>
+<li><a href="/wiki/Bledlow-cum-Saunderton" title="Bledlow-cum-Saunderton">Pitch Green</a></li>
+<li><a href="/wiki/Bledlow-cum-Saunderton" title="Bledlow-cum-Saunderton">Rout's Green</a></li>
+<li><a href="/wiki/Saunderton" title="Saunderton">Saunderton</a></li>
+<li><a href="/wiki/Bledlow-cum-Saunderton" title="Bledlow-cum-Saunderton">Saunderton Lee</a></li>
+<li><a href="/wiki/Skittle_Green" title="Skittle Green">Skittle Green</a></li></ul></li>
+<li><b><a href="/wiki/Bradenham,_Buckinghamshire" title="Bradenham, Buckinghamshire">Bradenham</a></b>
+<ul><li><a href="/wiki/Bradenham,_Buckinghamshire" title="Bradenham, Buckinghamshire">Bradenham</a></li>
+<li><a href="/wiki/Walters_Ash" title="Walters Ash">Walters Ash</a></li></ul></li>
+<li><b><a href="/wiki/Chepping_Wycombe" title="Chepping Wycombe">Chepping Wycombe</a></b>
+<ul><li><a href="/wiki/Flackwell_Heath" title="Flackwell Heath">Flackwell Heath</a></li>
+<li><a href="/wiki/Loudwater,_Buckinghamshire" title="Loudwater, Buckinghamshire">Loudwater</a></li>
+<li><a href="/wiki/Tylers_Green" title="Tylers Green">Tylers Green</a></li></ul></li>
+<li><b><a href="/wiki/Downley" title="Downley">Downley</a></b></li>
+<li><b><a href="/wiki/Ellesborough" title="Ellesborough">Ellesborough</a></b>
+<ul><li><a href="/wiki/Butlers_Cross" title="Butlers Cross">Butlers Cross</a></li>
+<li><a href="/wiki/Chalkshire" title="Chalkshire">Chalkshire</a></li>
+<li><a href="/wiki/Coombe,_Buckinghamshire" title="Coombe, Buckinghamshire">Coombe</a></li>
+<li><a href="/wiki/Dunsmore,_Buckinghamshire" title="Dunsmore, Buckinghamshire">Dunsmore</a></li>
+<li><a href="/wiki/Ellesborough" title="Ellesborough">Ellesborough</a></li>
+<li><a href="/wiki/Nash_Lee" title="Nash Lee">Nash Lee</a></li>
+<li><a href="/wiki/North_Lee" title="North Lee">North Lee</a></li>
+<li><a href="/wiki/Terrick" title="Terrick">Terrick</a></li></ul></li>
+<li><b><a href="/wiki/Fawley,_Buckinghamshire" title="Fawley, Buckinghamshire">Fawley</a></b>
+<ul><li><a href="/wiki/Fawley,_Buckinghamshire" title="Fawley, Buckinghamshire">Fawley</a></li>
+<li><a href="/wiki/Fawley_Bottom" title="Fawley Bottom">Fawley Bottom</a></li></ul></li>
+<li><b><a href="/wiki/Great_and_Little_Hampden" title="Great and Little Hampden">Great and Little Hampden</a></b>
+<ul><li><a href="/wiki/Great_and_Little_Hampden" title="Great and Little Hampden">Great Hampden</a></li>
+<li><a href="/wiki/Green_Hailey" title="Green Hailey">Green Hailey</a></li>
+<li><a href="/wiki/Hampden_Row" title="Hampden Row">Hampden Row</a></li>
+<li><a href="/wiki/Great_and_Little_Hampden" title="Great and Little Hampden">Little Hampden</a></li></ul></li>
+<li><b><a href="/wiki/Great_and_Little_Kimble_cum_Marsh" title="Great and Little Kimble cum Marsh">Great and Little Kimble cum Marsh</a></b>
+<ul><li><a href="/wiki/Great_and_Little_Kimble_cum_Marsh" title="Great and Little Kimble cum Marsh">Great Kimble</a></li>
+<li><a href="/wiki/Great_and_Little_Kimble_cum_Marsh" title="Great and Little Kimble cum Marsh">Kimble Wick</a></li>
+<li><a href="/wiki/Great_and_Little_Kimble_cum_Marsh" title="Great and Little Kimble cum Marsh">Little Kimble</a></li>
+<li><a href="/wiki/Marsh,_Buckinghamshire" title="Marsh, Buckinghamshire">Marsh</a></li>
+<li><a href="/wiki/Great_and_Little_Kimble_cum_Marsh" title="Great and Little Kimble cum Marsh">Smoky Row</a></li></ul></li>
+<li><b><a href="/wiki/Great_Marlow" title="Great Marlow">Great Marlow</a></b>
+<ul><li><a href="/wiki/Bovingdon_Green,_Buckinghamshire" title="Bovingdon Green, Buckinghamshire">Bovingdon Green</a></li>
+<li><a href="/wiki/Great_Marlow" title="Great Marlow">Burroughs Grove</a></li>
+<li><a href="/wiki/Great_Marlow" title="Great Marlow">Chisbridge Cross</a></li>
+<li><a href="/wiki/Great_Marlow" title="Great Marlow">Danesfield</a></li>
+<li><a href="/wiki/Great_Marlow" title="Great Marlow">Marlow Common</a></li></ul></li>
+<li><b><a href="/wiki/Hambleden" title="Hambleden">Hambleden</a></b>
+<ul><li><a class="mw-redirect" href="/wiki/Colstrope" title="Colstrope">Colstrope</a></li>
+<li><a href="/wiki/Fingest" title="Fingest">Fingest</a></li>
+<li><a href="/wiki/Frieth" title="Frieth">Frieth</a></li>
+<li><a href="/wiki/Hambleden" title="Hambleden">Hambleden</a></li>
+<li><a class="mw-redirect" href="/wiki/Mill_End,_Buckinghamshire" title="Mill End, Buckinghamshire">Mill End</a></li>
+<li><a href="/wiki/Parmoor" title="Parmoor">Parmoor</a></li>
+<li><a class="mw-redirect" href="/wiki/Pheasant%27s_Hill" title="Pheasant's Hill">Pheasant's Hill</a></li>
+<li><a href="/wiki/Skirmett" title="Skirmett">Skirmett</a></li></ul></li>
+<li><b><a href="/wiki/Hazlemere" title="Hazlemere">Hazlemere</a></b></li>
+<li><b><a href="/wiki/Hedsor" title="Hedsor">Hedsor</a></b>
+<ul><li><a href="/wiki/Hedsor" title="Hedsor">Hedsor</a></li>
+<li><a href="/wiki/Widmoor" title="Widmoor">Widmoor</a></li></ul></li>
+<li><b><a href="/wiki/Hughenden_Valley" title="Hughenden Valley">Hughenden</a></b>
+<ul><li><a class="mw-selflink selflink">Cryers Hill</a></li>
+<li><a href="/wiki/Four_Ashes,_Buckinghamshire" title="Four Ashes, Buckinghamshire">Four Ashes</a></li>
+<li><a href="/wiki/Great_Kingshill" title="Great Kingshill">Great Kingshill</a></li>
+<li><a href="/wiki/Hughenden_Valley" title="Hughenden Valley">Hughenden Valley</a></li>
+<li><a href="/wiki/Naphill#Hamlets" title="Naphill">Hunt's Hill</a></li>
+<li><a href="/wiki/Naphill" title="Naphill">Naphill</a></li>
+<li><a href="/wiki/Naphill_Common" title="Naphill Common">Naphill Common</a></li>
+<li><a href="/wiki/Widmer_End" title="Widmer End">Widmer End</a></li></ul></li>
+<li><b><a href="/wiki/Ibstone" title="Ibstone">Ibstone</a></b></li>
+<li><b><a href="/wiki/Lacey_Green" title="Lacey Green">Lacey Green</a></b>
+<ul><li><a href="/wiki/Lacey_Green" title="Lacey Green">Lacey Green</a></li>
+<li><a href="/wiki/Lacey_Green" title="Lacey Green">Parslow's Hillock</a></li>
+<li><a href="/wiki/Lacey_Green" title="Lacey Green">Wardrobes</a></li></ul></li>
+<li><b><a href="/wiki/Lane_End,_Buckinghamshire" title="Lane End, Buckinghamshire">Lane End</a></b>
+<ul><li><a href="/wiki/Cadmore" title="Cadmore">Cadmore</a></li>
+<li><a href="/wiki/Lane_End,_Buckinghamshire" title="Lane End, Buckinghamshire">Ditchfield</a></li>
+<li><a href="/wiki/Lane_End,_Buckinghamshire" title="Lane End, Buckinghamshire">Lane End</a></li>
+<li><a href="/wiki/Lane_End,_Buckinghamshire" title="Lane End, Buckinghamshire">Moor Common</a></li>
+<li><a class="mw-redirect" href="/wiki/Moor_End,_Buckinghamshire" title="Moor End, Buckinghamshire">Moor End</a></li></ul></li>
+<li><b><a href="/wiki/Little_Marlow" title="Little Marlow">Little Marlow</a></b>
+<ul><li><a href="/wiki/Coldmoorholme" title="Coldmoorholme">Coldmoorholme</a></li>
+<li><a href="/wiki/Fern,_Buckinghamshire" title="Fern, Buckinghamshire">Fern</a></li>
+<li><a href="/wiki/Handy_Cross" title="Handy Cross">Handy Cross</a></li>
+<li><a href="/wiki/Little_Marlow" title="Little Marlow">Little Marlow</a></li>
+<li><a href="/wiki/Sheepridge" title="Sheepridge">Sheepridge</a></li>
+<li><a href="/wiki/Well_End,_Buckinghamshire" title="Well End, Buckinghamshire">Well End</a></li>
+<li><a href="/wiki/Winchbottom" title="Winchbottom">Winchbottom</a></li></ul></li>
+<li><b><a href="/wiki/Longwick" title="Longwick">Longwick-cum-Ilmer</a></b>
+<ul><li><a href="/wiki/Horsenden" title="Horsenden">Horsenden</a></li>
+<li><a href="/wiki/Ilmer" title="Ilmer">Ilmer</a></li>
+<li><a href="/wiki/Little_Meadle" title="Little Meadle">Little Meadle</a></li>
+<li><a href="/wiki/Longwick" title="Longwick">Longwick</a></li>
+<li><a href="/wiki/Meadle" title="Meadle">Meadle</a></li>
+<li><a href="/wiki/Owlswick" title="Owlswick">Owlswick</a></li></ul></li>
+<li><b><a href="/wiki/Marlow_Bottom" title="Marlow Bottom">Marlow Bottom</a></b></li>
+<li><b><a href="/wiki/Medmenham" title="Medmenham">Medmenham</a></b>
+<ul><li><a href="/wiki/Bockmer_End" title="Bockmer End">Bockmer End</a></li>
+<li><a class="mw-redirect" href="/wiki/Lower_Woodend,_Buckinghamshire" title="Lower Woodend, Buckinghamshire">Lower Woodend</a></li>
+<li><a href="/wiki/Medmenham" title="Medmenham">Medmenham</a></li>
+<li><a class="mw-redirect" href="/wiki/Rockwell_End" title="Rockwell End">Rockwell End</a></li></ul></li>
+<li><b><a href="/wiki/Piddington_and_Wheeler_End" title="Piddington and Wheeler End">Piddington and Wheeler End</a></b>
+<ul><li><a href="/wiki/Piddington,_Buckinghamshire" title="Piddington, Buckinghamshire">Piddington</a></li>
+<li><a href="/wiki/Wheeler_End" title="Wheeler End">Wheeler End</a></li></ul></li>
+<li><b><a href="/wiki/Radnage" title="Radnage">Radnage</a></b>
+<ul><li><a href="/wiki/Bennett_End" title="Bennett End">Bennett End</a></li>
+<li><a href="/wiki/Radnage" title="Radnage">Radnage</a></li>
+<li><a href="/wiki/Radnage" title="Radnage">The City</a></li></ul></li>
+<li><b><a href="/wiki/Stokenchurch" title="Stokenchurch">Stokenchurch</a></b>
+<ul><li><a href="/wiki/Beacon%27s_Bottom" title="Beacon's Bottom">Beacon's Bottom</a></li>
+<li><a href="/wiki/Bolter_End" title="Bolter End">Bolter End</a></li>
+<li><a href="/wiki/Horsleys_Green" title="Horsleys Green">Horsleys Green</a></li>
+<li><a href="/wiki/Stokenchurch" title="Stokenchurch">Stokenchurch</a></li>
+<li><a href="/wiki/Studley_Green" title="Studley Green">Studley Green</a></li>
+<li><a href="/wiki/Waterend,_Buckinghamshire" title="Waterend, Buckinghamshire">Waterend</a></li></ul></li>
+<li><b><a href="/wiki/Turville" title="Turville">Turville</a></b>
+<ul><li><a href="/wiki/Northend,_Buckinghamshire" title="Northend, Buckinghamshire">Northend</a></li>
+<li><a href="/wiki/Southend,_Buckinghamshire" title="Southend, Buckinghamshire">Southend</a></li>
+<li><a href="/wiki/Turville" title="Turville">Turville</a></li>
+<li><a href="/wiki/Turville" title="Turville">Turville Heath</a></li></ul></li>
+<li><b><a href="/wiki/West_Wycombe" title="West Wycombe">West Wycombe</a></b>
+<ul><li><a href="/wiki/Booker,_Buckinghamshire" title="Booker, Buckinghamshire">Booker</a></li>
+<li><a href="/wiki/West_Wycombe" title="West Wycombe">West Wycombe</a></li></ul></li>
+<li><b><a href="/wiki/Wooburn_and_Bourne_End" title="Wooburn and Bourne End">Wooburn</a></b>
+<ul><li><a href="/wiki/Berghers_Hill" title="Berghers Hill">Berghers Hill</a></li>
+<li><a href="/wiki/Bourne_End,_Buckinghamshire" title="Bourne End, Buckinghamshire">Bourne End</a></li>
+<li><a href="/wiki/Cores_End" title="Cores End">Cores End</a></li>
+<li><a href="/wiki/Wooburn_and_Bourne_End" title="Wooburn and Bourne End">Hawks Hill</a></li>
+<li><a href="/wiki/Widmoor" title="Widmoor">Widmoor</a></li>
+<li><a href="/wiki/Wooburn" title="Wooburn">Wooburn</a></li>
+<li><a href="/wiki/Wooburn_Green" title="Wooburn Green">Wooburn Green</a></li>
+<li><a href="/wiki/Wooburn_and_Bourne_End" title="Wooburn and Bourne End">Wooburn Moor</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Former districts<br/>and boroughs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Marlow_Urban_District" title="Marlow Urban District">Marlow Urban District</a></li>
+<li><a href="/wiki/Wycombe_Rural_District" title="Wycombe Rural District">Wycombe Rural District</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Former<br/>constituencies</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Buckinghamshire_(UK_Parliament_constituency)" title="Buckinghamshire (UK Parliament constituency)">Buckinghamshire County Constituency</a></li>
+<li><a href="/wiki/Great_Marlow_(UK_Parliament_constituency)" title="Great Marlow (UK Parliament constituency)">Great Marlow Constituency</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><a href="/wiki/List_of_Parliamentary_constituencies_in_Buckinghamshire" title="List of Parliamentary constituencies in Buckinghamshire">Parliamentary constituencies in Buckinghamshire</a></li>
+<li><a href="/wiki/List_of_places_in_Buckinghamshire" title="List of places in Buckinghamshire">Places in Buckinghamshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Buckinghamshire" title="List of civil parishes in Buckinghamshire">Civil parishes in Buckinghamshire</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br/>
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a class="image" href="/wiki/File:Buckinghamshire_UK_locator_map_2010.svg"><img alt="Stub icon" data-file-height="1345" data-file-width="1108" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Buckinghamshire_UK_locator_map_2010.svg/30px-Buckinghamshire_UK_locator_map_2010.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Buckinghamshire_UK_locator_map_2010.svg/45px-Buckinghamshire_UK_locator_map_2010.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Buckinghamshire_UK_locator_map_2010.svg/60px-Buckinghamshire_UK_locator_map_2010.svg.png 2x" width="30"/></a></td><td><i>This <a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a> location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Cryers_Hill&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Buckinghamshire-geo-stub" title="Template:Buckinghamshire-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Buckinghamshire-geo-stub" title="Template talk:Buckinghamshire-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Buckinghamshire-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw1348
+Cached time: 20191214175507
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.420 seconds
+Real time usage: 0.592 seconds
+Preprocessor visited node count: 2483/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 72473/2097152 bytes
+Template argument size: 8950/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 24053/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.177/10.000 seconds
+Lua memory usage: 5.92 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  522.813      1 -total
+ 47.70%  249.399      1 Template:Infobox_UK_place
+ 46.66%  243.964      2 Template:Infobox
+ 22.46%  117.399      1 Template:Reflist
+ 17.29%   90.417      6 Template:Cite_web
+ 12.40%   64.844     26 Template:Ubl
+ 12.19%   63.721      1 Template:Use_dmy_dates
+  8.80%   45.984      1 Template:Convert
+  7.01%   36.624      1 Template:Coord
+  4.60%   24.036      1 Template:Location_map
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6887725-0!canonical and timestamp 20191214175506 and revision id 922458701
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cryers_Hill&amp;oldid=922458701">https://en.wikipedia.org/w/index.php?title=Cryers_Hill&amp;oldid=922458701</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hamlets_in_Buckinghamshire" title="Category:Hamlets in Buckinghamshire">Hamlets in Buckinghamshire</a></li><li><a href="/wiki/Category:Buckinghamshire_geography_stubs" title="Category:Buckinghamshire geography stubs">Buckinghamshire geography stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_October_2019" title="Category:Use dmy dates from October 2019">Use dmy dates from October 2019</a></li><li><a href="/wiki/Category:Articles_with_OS_grid_coordinates" title="Category:Articles with OS grid coordinates">Articles with OS grid coordinates</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cryers+Hill" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Cryers+Hill" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Cryers_Hill" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Cryers_Hill" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Cryers_Hill">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Cryers_Hill&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Cryers_Hill&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Cryers_Hill" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Cryers_Hill" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cryers_Hill&amp;oldid=922458701" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cryers_Hill&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5190452" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cryers_Hill&amp;id=922458701" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cryers+Hill">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cryers+Hill&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Cryers_Hill&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5190452#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 October 2019, at 07:41<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Cryers_Hill&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.420","walltime":"0.592","ppvisitednodes":{"value":2483,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":72473,"limit":2097152},"templateargumentsize":{"value":8950,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":24053,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  522.813      1 -total"," 47.70%  249.399      1 Template:Infobox_UK_place"," 46.66%  243.964      2 Template:Infobox"," 22.46%  117.399      1 Template:Reflist"," 17.29%   90.417      6 Template:Cite_web"," 12.40%   64.844     26 Template:Ubl"," 12.19%   63.721      1 Template:Use_dmy_dates","  8.80%   45.984      1 Template:Convert","  7.01%   36.624      1 Template:Coord","  4.60%   24.036      1 Template:Location_map"]},"scribunto":{"limitreport-timeusage":{"value":"0.177","limit":"10.000"},"limitreport-memusage":{"value":6208159,"limit":52428800}},"cachereport":{"origin":"mw1348","timestamp":"20191214175507","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cryers Hill","url":"https:\/\/en.wikipedia.org\/wiki\/Cryers_Hill","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5190452","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5190452","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-09-07T19:48:23Z","dateModified":"2019-10-22T07:41:11Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6f\/Buckinghamshire_UK_location_map.svg","headline":"human settlement in United Kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":154,"wgHostname":"mw1273"});});</script>
+
+
+</body></html>

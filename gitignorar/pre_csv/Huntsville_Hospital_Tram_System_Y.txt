@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Huntsville Hospital Tram System - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfo-vQpAICMAAFLIojgAAAAR","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Huntsville_Hospital_Tram_System","wgTitle":"Huntsville Hospital Tram System","wgCurRevisionId":918608075,"wgRevisionId":918608075,"wgArticleId":25697021,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing potentially dated statements from January 2010","All articles containing potentially dated statements","Commons category link from Wikidata",
+"Transportation in Huntsville, Alabama","Hospital people mover systems","Hovair people movers","People mover systems in the United States"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Huntsville_Hospital_Tram_System","wgRelevantArticleId":25697021,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5945873","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/a/ac/Huntsville_Hospital_Tram_System.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Huntsville_Hospital_Tram_System" rel="alternate"/>
+<link href="/w/index.php?title=Huntsville_Hospital_Tram_System&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Huntsville_Hospital_Tram_System&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Huntsville_Hospital_Tram_System" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Huntsville_Hospital_Tram_System rootpage-Huntsville_Hospital_Tram_System skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Huntsville Hospital Tram System</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox" style="width:22em"><caption>Huntsville Hospital Tram System</caption><tbody><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Huntsville_Hospital_Tram_System.jpg"><img alt="Huntsville Hospital Tram System.jpg" data-file-height="768" data-file-width="1024" decoding="async" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Huntsville_Hospital_Tram_System.jpg/250px-Huntsville_Hospital_Tram_System.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Huntsville_Hospital_Tram_System.jpg/375px-Huntsville_Hospital_Tram_System.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Huntsville_Hospital_Tram_System.jpg/500px-Huntsville_Hospital_Tram_System.jpg 2x" width="250"/></a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef;">Overview</th></tr><tr><th scope="row">Area served</th><td>Huntsville Hospital campus</td></tr><tr><th scope="row">Locale</th><td><a href="/wiki/Huntsville,_Alabama" title="Huntsville, Alabama">Huntsville, Alabama</a>, US</td></tr><tr><th scope="row">Transit type</th><td><a href="/wiki/People_mover" title="People mover">People mover</a></td></tr><tr><th scope="row">Number of stations</th><td>4</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef;">Operation</th></tr><tr><th scope="row">Began operation</th><td>19 June 2002<sup class="reference" id="cite_ref-June_20,_2002_1-0"><a href="#cite_note-June_20,_2002-1">[1]</a></sup></td></tr><tr><th scope="row">Operator(s)</th><td><a href="/wiki/Huntsville_Hospital_System" title="Huntsville Hospital System">Huntsville Hospital System</a></td></tr><tr><th scope="row">Character</th><td>Elevated</td></tr><tr><th scope="row">Number of vehicles</th><td>2</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef;">Technical</th></tr><tr><th scope="row">System length</th><td>1,890 feet (580 m)<sup class="reference" id="cite_ref-October_2,_2000_2-0"><a href="#cite_note-October_2,_2000-2">[2]</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Track_gauge" title="Track gauge">Track gauge</a></th><td>Concrete <a class="mw-redirect" href="/wiki/Guideway" title="Guideway">guideway</a></td></tr><tr><td colspan="2" style="text-align:center;vertical-align: middle; padding: 0px;"><table class="collapsible" style="width:100%; margin:0; border:none;">
+<tbody><tr style="background-color: #efefef;"><th style="text-align: center;">System map</th></tr><tr><td style="text-align:center">
+<p><style data-mw-deduplicate="TemplateStyles:r910949775">.mw-parser-output .RMbox{box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12),0 3px 1px -2px rgba(0,0,0,.2)}.mw-parser-output .RMinline{float:none;width:100%;margin:0;border:none}.mw-parser-output table.routemap{padding:0;border:0;border-collapse:collapse;background:transparent;white-space:nowrap;line-height:1.2;margin:auto}.mw-parser-output table.routemap .RMcollapse{margin:0;border-collapse:collapse;vertical-align:middle}.mw-parser-output table.routemap .RMreplace{margin:0;border-collapse:collapse;vertical-align:middle;position:absolute;bottom:0}.mw-parser-output table.routemap .RMsi{display:inline;font-size:90%}.mw-parser-output table.routemap .RMl1{padding:0 3px;text-align:left}.mw-parser-output table.routemap .RMr1{padding:0 3px;text-align:right}.mw-parser-output table.routemap .RMl{text-align:right}.mw-parser-output table.routemap .RMr{text-align:left}.mw-parser-output table.routemap .RMl4{padding:0 3px 0 0;text-align:left}.mw-parser-output table.routemap .RMr4{padding:0 0 0 3px;text-align:right}.mw-parser-output table.routemap>tbody>tr{line-height:1}.mw-parser-output table.routemap>tbody>tr>td,.mw-parser-output table.RMcollapse>tbody>tr>td,.mw-parser-output table.RMreplace>tbody>tr>td{padding:0;width:auto;vertical-align:middle;text-align:center}.mw-parser-output .RMir>div{display:inline-block;vertical-align:middle;padding:0;height:20px;min-height:20px}.mw-parser-output .RMir img{height:initial!important;max-width:initial!important}.mw-parser-output .RMir .RMov{position:relative}.mw-parser-output .RMir .RMov .RMic,.mw-parser-output .RMir .RMov .RMtx{position:absolute;left:0;top:0;padding:0}.mw-parser-output .RMir .RMtx{line-height:20px;height:20px;min-height:20px;vertical-align:middle;text-align:center}.mw-parser-output .RMir .RMsp{height:20px;min-height:20px}.mw-parser-output .RMir .RMtx>abbr,.mw-parser-output .RMir .RMtx>div{line-height:.975;display:inline-block;vertical-align:middle}.mw-parser-output .RMir .RMts{font-size:10px;transform:scaleX(.89)}.mw-parser-output .RMir .RMf_{height:5px;min-height:5px;width:20px;min-width:20px}.mw-parser-output .RMir .RMfm{height:100%;min-height:100%;width:4px;min-width:4px;margin:0 auto}.mw-parser-output .RMir .RMo{width:2.5px;min-width:2.5px}.mw-parser-output .RMir .RMc{width:5px;min-width:5px}.mw-parser-output .RMir .RMoc{width:7.5px;min-width:7.5px}.mw-parser-output .RMir .RMd{width:10px;min-width:10px}.mw-parser-output .RMir .RMod{width:12.5px;min-width:12.5px}.mw-parser-output .RMir .RMcd{width:15px;min-width:15px}.mw-parser-output .RMir .RMocd{width:17.5px;min-width:17.5px}.mw-parser-output .RMir .RM_{width:20px;min-width:20px}.mw-parser-output .RMir .RM_o{width:22.5px;min-width:22.5px}.mw-parser-output .RMir .RM_c{width:25px;min-width:25px}.mw-parser-output .RMir .RM_oc{width:27.5px;min-width:27.5px}.mw-parser-output .RMir .RM_d{width:30px;min-width:30px}.mw-parser-output .RMir .RM_od{width:32.5px;min-width:32.5px}.mw-parser-output .RMir .RM_cd{width:35px;min-width:35px}.mw-parser-output .RMir .RM_ocd{width:37.5px;min-width:37.5px}.mw-parser-output .RMir .RMb{width:40px;min-width:40px}.mw-parser-output .RMir .RMcb{width:45px;min-width:45px}.mw-parser-output .RMir .RMdb{width:50px;min-width:50px}.mw-parser-output .RMir .RMcdb{width:55px;min-width:55px}.mw-parser-output .RMir .RM_b{width:60px;min-width:60px}.mw-parser-output .RMir .RM_cb{width:65px;min-width:65px}.mw-parser-output .RMir .RM_db{width:70px;min-width:70px}.mw-parser-output .RMir .RM_cdb{width:75px;min-width:75px}.mw-parser-output .RMir .RMs{width:80px;min-width:80px}.mw-parser-output .RMir .RMds{width:90px;min-width:90px}.mw-parser-output .RMir .RM_s{width:100px;min-width:100px}.mw-parser-output .RMir .RM_ds{width:110px;min-width:110px}.mw-parser-output .RMir .RMbs{width:120px;min-width:120px}.mw-parser-output .RMir .RMdbs{width:130px;min-width:130px}.mw-parser-output .RMir .RM_bs{width:140px;min-width:140px}.mw-parser-output .RMir .RM_dbs{width:150px;min-width:150px}.mw-parser-output .RMir .RMw{width:160px;min-width:160px}.mw-parser-output .RMir .RM_w{width:180px;min-width:180px}.mw-parser-output .RMir .RMbw{width:200px;min-width:200px}.mw-parser-output .RMir .RM_bw{width:220px;min-width:220px}.mw-parser-output .RMir .RMsw{width:240px;min-width:240px}.mw-parser-output .RMir .RM_sw{width:260px;min-width:260px}.mw-parser-output .RMir .RMbsw{width:280px;min-width:280px}.mw-parser-output .RMir .RM_bsw{width:300px;min-width:300px}</style> 
+</p>
+<table cellpadding="0" cellspacing="0" class="RMinline" style="float:right;clear:right;margin-top:0;margin-bottom:1em;margin-left:1em;empty-cells:show;border-collapse:collapse;font-size:100%;background:#F9F9F9;">
+
+<tbody><tr>
+<td style="line-height:normal;padding:4px 5px"><div class="selfreference noprint" style="text-align:right;font-size:97%"><a href="/wiki/Template:Railway_line_legend" title="Template:Railway line legend">Legend</a></div>
+</td></tr>
+<tr>
+<td style="padding:0px">
+<table class="nogrid routemap" style="font-size:107.95454545455%">
+
+
+<tbody><tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div><img alt="" data-file-height="500" data-file-width="500" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/BSicon_uKHSTa.svg/20px-BSicon_uKHSTa.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/BSicon_uKHSTa.svg/30px-BSicon_uKHSTa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/BSicon_uKHSTa.svg/40px-BSicon_uKHSTa.svg.png 2x" title="uKHSTa" width="20"/></div><div><img alt="" data-file-height="500" data-file-width="500" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" title="STR" width="20"/></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><a class="new" href="/w/index.php?title=Huntsville_Hospital_station&amp;action=edit&amp;redlink=1" title="Huntsville Hospital station (page does not exist)">Huntsville Hospital</a>
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" data-file-height="500" data-file-width="500" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/BSicon_uHST.svg/20px-BSicon_uHST.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/BSicon_uHST.svg/30px-BSicon_uHST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/BSicon_uHST.svg/40px-BSicon_uHST.svg.png 2x" title="uHST" width="20"/></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><a class="new" href="/w/index.php?title=Plaza_Resource_Center_station&amp;action=edit&amp;redlink=1" title="Plaza Resource Center station (page does not exist)">Plaza Resource Center</a>
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" data-file-height="500" data-file-width="500" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/BSicon_uHST.svg/20px-BSicon_uHST.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/BSicon_uHST.svg/30px-BSicon_uHST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/BSicon_uHST.svg/40px-BSicon_uHST.svg.png 2x" title="uHST" width="20"/></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><a class="new" href="/w/index.php?title=Franklin_Medical_Tower_station&amp;action=edit&amp;redlink=1" title="Franklin Medical Tower station (page does not exist)">Franklin Medical Tower</a>
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" data-file-height="500" data-file-width="500" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/BSicon_uHST.svg/20px-BSicon_uHST.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/BSicon_uHST.svg/30px-BSicon_uHST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/BSicon_uHST.svg/40px-BSicon_uHST.svg.png 2x" title="uHST" width="20"/></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><a class="new" href="/w/index.php?title=Huntsville_Hospital_for_Women_%26_Children_station&amp;action=edit&amp;redlink=1" title="Huntsville Hospital for Women &amp; Children station (page does not exist)">Huntsville Hospital for Women &amp; Children</a>
+</td></tr>
+<tr>
+<td style="padding:0 3px 0 0;">
+</td>
+<td>
+</td>
+<td class="RMl1">
+</td>
+<td>
+</td>
+<td class="RMr1">
+</td>
+<td>
+</td>
+<td style="padding:0 0 0 3px;">
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td style="line-height:normal;padding:6px 5px 3px;text-align:center"><div class="plainlinks hlist navbar"><span style="word-spacing:0">This diagram: </span><ul><li class="nv-view"><a href="/wiki/Template:Huntsville_Hospital_Tram" title="Template:Huntsville Hospital Tram"><span title="View this template">view</span></a></li><li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:Huntsville_Hospital_Tram&amp;action=edit&amp;redlink=1" title="Template talk:Huntsville Hospital Tram (page does not exist)"><span title="Discuss this template">talk</span></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Huntsville_Hospital_Tram&amp;action=edit"><span title="Edit this template">edit</span></a></li></ul></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+<p>The <b>Huntsville Hospital Tram System</b> is an <a class="mw-redirect" href="/wiki/Automated_people_mover" title="Automated people mover">automated people mover</a> system located as part of the <a href="/wiki/Huntsville_Hospital_System" title="Huntsville Hospital System">Huntsville Hospital System</a> complex in <a href="/wiki/Huntsville,_Alabama" title="Huntsville, Alabama">Huntsville, Alabama</a>, United States. Operating on a 1,890-foot (580 m) concrete <a class="mw-redirect" href="/wiki/Guideway" title="Guideway">guideway</a>, the trams serve to connect the Huntsville Hospital with the Huntsville Hospital for Women &amp; Children.<sup class="reference" id="cite_ref-hhti_3-0"><a href="#cite_note-hhti-3">[3]</a></sup> At the time of completion, this was the second hospital people mover system in the United States after the <a href="/wiki/Duke_University_Medical_Center_Patient_Rapid_Transit" title="Duke University Medical Center Patient Rapid Transit">Duke University Medical Center Patient Rapid Transit</a>.<sup class="reference" id="cite_ref-December_2,_2001_4-0"><a href="#cite_note-December_2,_2001-4">[4]</a></sup> As of January 2010<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Huntsville_Hospital_Tram_System&amp;action=edit">[update]</a></sup>, this is the only automated people mover system completed in the state of Alabama.<sup class="reference" id="cite_ref-hhti_3-1"><a href="#cite_note-hhti-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huntsville_Hospital_Tram_System&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Developed by Poma-Otis Transportation Systems, a joint venture of <a href="/wiki/Poma" title="Poma">Poma</a> and the <a href="/wiki/Otis_Elevator_Company" title="Otis Elevator Company">Otis Elevator Company</a>, and constructed by <a href="/wiki/Brasfield_%26_Gorrie" title="Brasfield &amp; Gorrie">Brasfield &amp; Gorrie</a>, the cable-driven steel-on-steel<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> system was completed at a final cost of $10.9 million.<sup class="reference" id="cite_ref-June_20,_2002_1-1"><a href="#cite_note-June_20,_2002-1">[1]</a></sup><sup class="reference" id="cite_ref-December_2,_1999_6-0"><a href="#cite_note-December_2,_1999-6">[6]</a></sup> The two 1,890-foot (580 m) <a href="/wiki/Automated_guideway_transit" title="Automated guideway transit">concrete guideways</a> are elevated 30 feet (9.1 m) above the surface.<sup class="reference" id="cite_ref-B&amp;G_7-0"><a href="#cite_note-B&amp;G-7">[7]</a></sup> Costing $280,000 annually to operate, the Huntsville Hospital Tram System handles approximately 2,200 passengers per day.<sup class="reference" id="cite_ref-PPT_8-0"><a href="#cite_note-PPT-8">[8]</a></sup>
+</p><p>The vehicles were designed by the Gangloff company of Switzerland.<sup class="reference" id="cite_ref-December_2,_2001_4-1"><a href="#cite_note-December_2,_2001-4">[4]</a></sup> Each car can handle three seated and 38 standing passengers. Additionally, each car was designed to accommodate the largest bed in use by the hospital for the transport of patients.<sup class="reference" id="cite_ref-December_2,_2001_4-2"><a href="#cite_note-December_2,_2001-4">[4]</a></sup>
+</p><p>The system runs in an east-west direction between the main Huntsville Hospital building and the Huntsville Hospital for Women &amp; Children with intermediate stops at the Plaza Resource Center and the Franklin Medical Tower.<sup class="reference" id="cite_ref-hhti_3-2"><a href="#cite_note-hhti-3">[3]</a></sup> The system offers two separate modes for reaching the various stations, a <i>Local Mode</i> and an <i>Express Mode</i>. The <i>Local Mode</i> makes all four stops, primarily traveling along the northern track. The <i>Express Mode</i> only travels between the two termini, primarily along the southern track.<sup class="reference" id="cite_ref-hhti_3-3"><a href="#cite_note-hhti-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huntsville_Hospital_Tram_System&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The idea of developing a tram system for Huntsville Hospital was initially proposed in mid-1997.<sup class="reference" id="cite_ref-July_23,_1997_9-0"><a href="#cite_note-July_23,_1997-9">[9]</a></sup> The tram was proposed as a solution to both parking issues and to allow for easier connectivity between the separate buildings of the sprawling hospital campus.<sup class="reference" id="cite_ref-July_23,_1997_9-1"><a href="#cite_note-July_23,_1997-9">[9]</a></sup> Additionally, the consolidation and transformation of the former Humana Hospital with Huntsville Hospital in 1994 made the development of the tram necessary in an effort to eliminate duplicate services and provide for easy transport of patients and doctors from each facility.<sup class="reference" id="cite_ref-October_2,_2000_2-1"><a href="#cite_note-October_2,_2000-2">[2]</a></sup>
+</p><p>By December 1998, plans for the system moved forward after gaining approval of several property <a href="/wiki/Variance_(land_use)" title="Variance (land use)">variances</a> from the Huntsville Board of Zoning Adjustment to allow for its construction.<sup class="reference" id="cite_ref-December_16,_1998_10-0"><a href="#cite_note-December_16,_1998-10">[10]</a></sup> By early 2000 construction of the system would commence, with an initial opening slated for summer 2001.<sup class="reference" id="cite_ref-October_2,_2000_2-2"><a href="#cite_note-October_2,_2000-2">[2]</a></sup> However, due to delays and the need for enhanced security along the system in the wake of the <a href="/wiki/September_11_attacks" title="September 11 attacks">September 11 attacks</a>, the system would not open until June 19, 2002.<sup class="reference" id="cite_ref-June_20,_2002_1-2"><a href="#cite_note-June_20,_2002-1">[1]</a></sup><sup class="reference" id="cite_ref-December_2,_2001_4-3"><a href="#cite_note-December_2,_2001-4">[4]</a></sup>
+</p><p>By 2004, use of the tram resulted in the elimination of approximately 4,500 annual ambulance trips and the use of two full-time shuttle vans between the two main facilities.<sup class="reference" id="cite_ref-September_19,_2004_11-0"><a href="#cite_note-September_19,_2004-11">[11]</a></sup> Due to this reduction in the number of vehicle trips made, Huntsville Hospital was awarded a 2004 Industrial Air Pollution Control Achievement Award from the city of Huntsville Air Pollution Control Board.<sup class="reference" id="cite_ref-September_19,_2004_11-1"><a href="#cite_note-September_19,_2004-11">[11]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huntsville_Hospital_Tram_System&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-June_20,_2002-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-June_20,_2002_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-June_20,_2002_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-June_20,_2002_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Staff Reporters (June 20, 2002). "Huntsville Hospital says, 'All aboard<span class="cs1-kern-right">'</span>". <i>The Huntsville Times</i>. p. B1.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Huntsville+Times&amp;rft.atitle=Huntsville+Hospital+says%2C+%27All+aboard%27&amp;rft.pages=B1&amp;rft.date=2002-06-20&amp;rft.au=Staff+Reporters&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuntsville+Hospital+Tram+System"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-October_2,_2000-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-October_2,_2000_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-October_2,_2000_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-October_2,_2000_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Faulk, Kent (October 2, 2000). "Expanding Huntsville Hospital adds on in effort to be regional center". <i>The Birmingham News</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Birmingham+News&amp;rft.atitle=Expanding+Huntsville+Hospital+adds+on+in+effort+to+be+regional+center&amp;rft.date=2000-10-02&amp;rft.aulast=Faulk&amp;rft.aufirst=Kent&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuntsville+Hospital+Tram+System"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-hhti-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-hhti_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hhti_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hhti_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-hhti_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation" id="CITEREFHuntsville_Hospital_System">Huntsville Hospital System, <a class="external text" href="https://web.archive.org/web/20130627142943/http://www.huntsvillehospital.org/about/tram/" rel="nofollow"><i>Huntsville Hospital - Tram Information</i></a>, archived from <a class="external text" href="http://www.huntsvillehospital.org/about/tram/" rel="nofollow">the original</a> on June 27, 2013<span class="reference-accessdate">, retrieved <span class="nowrap">January 4,</span> 2010</span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Huntsville+Hospital+-+Tram+Information&amp;rft.au=Huntsville+Hospital+System&amp;rft_id=http%3A%2F%2Fwww.huntsvillehospital.org%2Fabout%2Ftram%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuntsville+Hospital+Tram+System"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-December_2,_2001-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-December_2,_2001_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-December_2,_2001_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-December_2,_2001_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-December_2,_2001_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Kesner, Kenneth (December 2, 2001). "Hospital's transportation system back on track". <i>The Huntsville Times</i>. p. A15.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Huntsville+Times&amp;rft.atitle=Hospital%27s+transportation+system+back+on+track&amp;rft.pages=A15&amp;rft.date=2001-12-02&amp;rft.aulast=Kesner&amp;rft.aufirst=Kenneth&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuntsville+Hospital+Tram+System"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFtkefan29_(YouTube)2019">tkefan29 (YouTube) (2019-03-08), <a class="external text" href="https://www.youtube.com/watch?v=reULUIZuXrw&amp;feature=youtu.be" rel="nofollow"><i>The Huntsville Hospital Tram - Local Mode</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">2019-03-09</span></span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Huntsville+Hospital+Tram+-+Local+Mode&amp;rft.date=2019-03-08&amp;rft.au=tkefan29+%28YouTube%29&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DreULUIZuXrw%26feature%3Dyoutu.be&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuntsville+Hospital+Tram+System"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-December_2,_1999-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-December_2,_1999_6-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Broder, Matthew (December 2, 1999). "Poma-Otis to install people movers in Alabama and Minnesota". <i>PR Newswire</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PR+Newswire&amp;rft.atitle=Poma-Otis+to+install+people+movers+in+Alabama+and+Minnesota&amp;rft.date=1999-12-02&amp;rft.aulast=Broder&amp;rft.aufirst=Matthew&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuntsville+Hospital+Tram+System"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-B&amp;G-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-B&amp;G_7-0">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFBrasfield_&amp;_Gorrie">Brasfield &amp; Gorrie, <a class="external text" href="https://web.archive.org/web/20061110171744/http://www.brasfieldgorrie.com/portfolio/project-detail.aspx?type=20&amp;subtype=5&amp;id=25" rel="nofollow"><i>Huntsville Hospital People Mover</i></a>, archived from <a class="external text" href="http://www.brasfieldgorrie.com/portfolio/project-detail.aspx?type=20&amp;subtype=5&amp;id=25" rel="nofollow">the original</a> on 2006-11-10<span class="reference-accessdate">, retrieved <span class="nowrap">January 5,</span> 2010</span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Huntsville+Hospital+People+Mover&amp;rft.au=Brasfield+%26+Gorrie&amp;rft_id=http%3A%2F%2Fwww.brasfieldgorrie.com%2Fportfolio%2Fproject-detail.aspx%3Ftype%3D20%26subtype%3D5%26id%3D25&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuntsville+Hospital+Tram+System"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-PPT-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-PPT_8-0">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFVenter">Venter, Michael S., <i>Integrating Complexes Horizontally: The Huntsville Hospital APM</i></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Integrating+Complexes+Horizontally%3A+The+Huntsville+Hospital+APM&amp;rft.aulast=Venter&amp;rft.aufirst=Michael+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuntsville+Hospital+Tram+System"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-July_23,_1997-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-July_23,_1997_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-July_23,_1997_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Windsor, Shawn (July 23, 1997). "Elevated tram may link two hospitals". <i>The Huntsville Times</i>. p. A1.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Huntsville+Times&amp;rft.atitle=Elevated+tram+may+link+two+hospitals&amp;rft.pages=A1&amp;rft.date=1997-07-23&amp;rft.aulast=Windsor&amp;rft.aufirst=Shawn&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuntsville+Hospital+Tram+System"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-December_16,_1998-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-December_16,_1998_10-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Nunley, Deana (December 16, 1998). "Plans under way for hospital 'people mover<span class="cs1-kern-right">'</span>". <i>The Huntsville Times</i>. p. B2.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Huntsville+Times&amp;rft.atitle=Plans+under+way+for+hospital+%27people+mover%27&amp;rft.pages=B2&amp;rft.date=1998-12-16&amp;rft.aulast=Nunley&amp;rft.aufirst=Deana&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuntsville+Hospital+Tram+System"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-September_19,_2004-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-September_19,_2004_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-September_19,_2004_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Staff Reporters (September 19, 2004). "Companies recognized for control of pollution". <i>The Huntsville Times</i>. p. 2D.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Huntsville+Times&amp;rft.atitle=Companies+recognized+for+control+of+pollution&amp;rft.pages=2D&amp;rft.date=2004-09-19&amp;rft.au=Staff+Reporters&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuntsville+Hospital+Tram+System"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Huntsville_Hospital_Tram_System" title="commons:Category:Huntsville Hospital Tram System"><span style="">Huntsville Hospital Tram System</span></a></b></i>.</td></tr>
+</tbody></table>
+<div aria-labelledby="People_mover_and_monorail_systems_in_the_United_States" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:US_non-airport_people_movers" title="Template:US non-airport people movers"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:US_non-airport_people_movers" title="Template talk:US non-airport people movers"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:US_non-airport_people_movers&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="People_mover_and_monorail_systems_in_the_United_States" style="font-size:114%;margin:0 4em"><a href="/wiki/People_mover" title="People mover">People mover</a> and <a href="/wiki/Monorail" title="Monorail">monorail</a> systems in the United States</div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="Excludes_airport_systems"><i>Excludes airport systems</i></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Transit</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Detroit_People_Mover" title="Detroit People Mover">Detroit People Mover</a></li>
+<li><a class="mw-selflink selflink">Huntsville Hospital Tram System</a></li>
+<li><a href="/wiki/Jacksonville_Skyway" title="Jacksonville Skyway">Jacksonville Skyway</a></li>
+<li><a href="/wiki/Las_Colinas_APT_System" title="Las Colinas APT System">Las Colinas APT</a></li>
+<li><a href="/wiki/Las_Vegas_Monorail" title="Las Vegas Monorail">Las Vegas Monorail</a></li>
+<li><a href="/wiki/Memphis_Suspension_Railway" title="Memphis Suspension Railway">Memphis Suspension Railway</a></li>
+<li><a href="/wiki/Metromover" title="Metromover">Miami Metromover</a></li>
+<li><a href="/wiki/Morgantown_Personal_Rapid_Transit" title="Morgantown Personal Rapid Transit">Morgantown PRT</a></li>
+<li><a href="/wiki/Seattle_Center_Monorail" title="Seattle Center Monorail">Seattle Center Monorail</a></li>
+<li><a href="/wiki/United_States_Capitol_subway_system" title="United States Capitol subway system">US Capitol subway system</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Tourist</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/CityCenter#Aria_Express" title="CityCenter">Aria Express</a></li>
+<li><a class="mw-redirect" href="/wiki/Cal_Expo" title="Cal Expo">Cal Expo</a></li>
+<li><a href="/wiki/Circus_Circus_Reno" title="Circus Circus Reno">Circus Circus Reno</a></li>
+<li><a href="/wiki/Disneyland_Monorail_System" title="Disneyland Monorail System">Disneyland Monorail</a></li>
+<li><a class="mw-redirect" href="/wiki/Getty_Center_Monorail" title="Getty Center Monorail">Getty Center Monorail</a></li>
+<li><a href="/wiki/Hogwarts_Express_(Universal_Orlando_Resort)" title="Hogwarts Express (Universal Orlando Resort)">Hogwarts Express</a></li>
+<li><a href="/wiki/Mandalay_Bay_Tram" title="Mandalay Bay Tram">Mandalay Bay Tram</a></li>
+<li><a href="/wiki/Tomorrowland_Transit_Authority_PeopleMover" title="Tomorrowland Transit Authority PeopleMover">Tomorrowland Transit Authority PeopleMover</a></li>
+<li><a href="/wiki/Walt_Disney_World_Monorail_System" title="Walt Disney World Monorail System">Walt Disney World Monorail</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Closed</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carowinds_Monorail" title="Carowinds Monorail">Carowinds Monorail</a></li>
+<li><a href="/wiki/Duke_University_Medical_Center_Patient_Rapid_Transit" title="Duke University Medical Center Patient Rapid Transit">Duke University Medical Center</a></li>
+<li><a href="/wiki/Harbour_Island_People_Mover" title="Harbour Island People Mover">Harbour Island People Mover</a></li>
+<li><a href="/wiki/Indiana_University_Health_People_Mover" title="Indiana University Health People Mover">Indiana University Health People Mover</a></li>
+<li><a href="/wiki/PeopleMover" title="PeopleMover">WEDWay PeopleMover</a></li>
+<li><a href="/wiki/Trailblazer_(monorail)" title="Trailblazer (monorail)">Trailblazer</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><div class="hlist" style="font-size:88%;">
+<div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Transit in the United States:</div>
+<ul><li><a href="/wiki/Template:USSubway" title="Template:USSubway">Rapid transit</a></li>
+<li><a href="/wiki/Template:USLightRail" title="Template:USLightRail">Light rail/Streetcar</a></li>
+<li><a href="/wiki/Template:US_non-airport_people_movers" title="Template:US non-airport people movers">People mover &amp; monorail</a></li>
+<li><a href="/wiki/Template:UStrolleybus" title="Template:UStrolleybus">Trolleybus</a></li>
+<li><a href="/wiki/Template:USCommRail" title="Template:USCommRail">Commuter rail</a></li></ul>
+</div></div></td></tr></tbody></table></div>
+<p><br/>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1341
+Cached time: 20191212060014
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.380 seconds
+Real time usage: 0.509 seconds
+Preprocessor visited node count: 1634/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 51068/2097152 bytes
+Template argument size: 6109/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 37858/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.150/10.000 seconds
+Lua memory usage: 5.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  457.434      1 -total
+ 48.13%  220.165      1 Template:Infobox_Public_transit
+ 44.37%  202.976      1 Template:Infobox
+ 26.11%  119.456      1 Template:Reflist
+ 25.29%  115.681      1 Template:Huntsville_Hospital_Tram
+ 24.45%  111.858      1 Template:Routemap
+ 17.86%   81.714      7 Template:Cite_news
+ 12.45%   56.968      1 Template:Commons_category
+ 10.11%   46.224      1 Template:Commons
+  9.55%   43.671      1 Template:Sister_project
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25697021-0!canonical and timestamp 20191212060013 and revision id 918608075
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Huntsville_Hospital_Tram_System&amp;oldid=918608075">https://en.wikipedia.org/w/index.php?title=Huntsville_Hospital_Tram_System&amp;oldid=918608075</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Transportation_in_Huntsville,_Alabama" title="Category:Transportation in Huntsville, Alabama">Transportation in Huntsville, Alabama</a></li><li><a href="/wiki/Category:Hospital_people_mover_systems" title="Category:Hospital people mover systems">Hospital people mover systems</a></li><li><a href="/wiki/Category:Hovair_people_movers" title="Category:Hovair people movers">Hovair people movers</a></li><li><a href="/wiki/Category:People_mover_systems_in_the_United_States" title="Category:People mover systems in the United States">People mover systems in the United States</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_January_2010" title="Category:Articles containing potentially dated statements from January 2010">Articles containing potentially dated statements from January 2010</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Huntsville+Hospital+Tram+System" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Huntsville+Hospital+Tram+System" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Huntsville_Hospital_Tram_System" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Huntsville_Hospital_Tram_System" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Huntsville_Hospital_Tram_System">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Huntsville_Hospital_Tram_System&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Huntsville_Hospital_Tram_System&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Huntsville_Hospital_Tram_System" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Huntsville_Hospital_Tram_System" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Huntsville_Hospital_Tram_System&amp;oldid=918608075" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Huntsville_Hospital_Tram_System&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5945873" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Huntsville_Hospital_Tram_System&amp;id=918608075" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Huntsville_Hospital_Tram_System" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Huntsville+Hospital+Tram+System">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Huntsville+Hospital+Tram+System&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Huntsville_Hospital_Tram_System&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%84%E3%83%93%E3%83%AB%E7%97%85%E9%99%A2%E3%83%88%E3%83%A9%E3%83%A0%E3%83%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0" hreflang="ja" lang="ja" title="ハンツビル病院トラム・システム – Japanese">日本語</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5945873#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 September 2019, at 14:40<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Huntsville_Hospital_Tram_System&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.380","walltime":"0.509","ppvisitednodes":{"value":1634,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":51068,"limit":2097152},"templateargumentsize":{"value":6109,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":37858,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  457.434      1 -total"," 48.13%  220.165      1 Template:Infobox_Public_transit"," 44.37%  202.976      1 Template:Infobox"," 26.11%  119.456      1 Template:Reflist"," 25.29%  115.681      1 Template:Huntsville_Hospital_Tram"," 24.45%  111.858      1 Template:Routemap"," 17.86%   81.714      7 Template:Cite_news"," 12.45%   56.968      1 Template:Commons_category"," 10.11%   46.224      1 Template:Commons","  9.55%   43.671      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.150","limit":"10.000"},"limitreport-memusage":{"value":6159893,"limit":52428800}},"cachereport":{"origin":"mw1341","timestamp":"20191212060014","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Huntsville Hospital Tram System","url":"https:\/\/en.wikipedia.org\/wiki\/Huntsville_Hospital_Tram_System","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5945873","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5945873","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-01-06T02:52:10Z","dateModified":"2019-09-29T14:40:06Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ac\/Huntsville_Hospital_Tram_System.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1333"});});</script>
+
+
+</body></html>

@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Honor 4X - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xft-cQpAMFcAAChfex0AAAEC","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Honor_4X","wgTitle":"Honor 4X","wgCurRevisionId":929005410,"wgRevisionId":929005410,"wgArticleId":48564927,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Android (operating system) devices","Mobile phones introduced in 2014","Huawei Honor"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Honor_4X","wgRelevantArticleId":48564927,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q22909026","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":
+"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/4/47/Huawei_Honor_4X.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Honor_4X" rel="alternate"/>
+<link href="/w/index.php?title=Honor_4X&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Honor_4X&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Honor_4X" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Honor_4X rootpage-Honor_4X skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Honor 4X</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox hproduct" style="width:22em"><caption class="fn">Huawei Honor 4X</caption><tbody><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Huawei_Honor_Logo.svg"><img alt="Huawei Honor Logo.svg" data-file-height="102" data-file-width="536" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Huawei_Honor_Logo.svg/250px-Huawei_Honor_Logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Huawei_Honor_Logo.svg/375px-Huawei_Honor_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Huawei_Honor_Logo.svg/500px-Huawei_Honor_Logo.svg.png 2x" width="250"/></a></td></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Huawei_Honor_4X.jpg"><img alt="Huawei Honor 4X.jpg" data-file-height="640" data-file-width="640" decoding="async" height="250" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Huawei_Honor_4X.jpg/250px-Huawei_Honor_4X.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Huawei_Honor_4X.jpg/375px-Huawei_Honor_4X.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Huawei_Honor_4X.jpg/500px-Huawei_Honor_4X.jpg 2x" width="250"/></a><div>back of Honor 4X</div></td></tr><tr><th scope="row"><a href="/wiki/Brand" title="Brand">Brand</a></th><td class="brand">Honor</td></tr><tr><th scope="row"><a class="mw-redirect" href="/wiki/List_of_mobile_phone_makers_by_country" title="List of mobile phone makers by country">Manufacturer</a></th><td class="brand"><a href="/wiki/Huawei" title="Huawei">Huawei</a></td></tr><tr><th scope="row"><a href="/wiki/Slogan" title="Slogan">Slogan</a></th><td>Discover 4 Senses</td></tr><tr><th scope="row">Model</th><td>Che2-UL00</td></tr><tr><th scope="row"><a href="/wiki/Comparison_of_mobile_phone_standards" title="Comparison of mobile phone standards">Compatible networks</a></th><td><a class="mw-redirect" href="/wiki/2.5G" title="2.5G">2.5G</a> <a href="/wiki/GSM" title="GSM">GSM</a>/<a href="/wiki/General_Packet_Radio_Service" title="General Packet Radio Service">GPRS</a>/<a href="/wiki/Enhanced_Data_Rates_for_GSM_Evolution" title="Enhanced Data Rates for GSM Evolution">EDGE</a> – 850, 900, 1800, 1900 MHz<br/>
+<a href="/wiki/4G" title="4G">4G</a> <a href="/wiki/LTE_(telecommunication)" title="LTE (telecommunication)">LTE</a> Rel. 8 (<a href="/wiki/E-UTRA#User_Equipment_.28UE.29_categories" title="E-UTRA">UE Cat 4</a>) - 1800, 2100, 2600, 800 MHz European</td></tr><tr><th scope="row">First released</th><td>October 2014</td></tr><tr><th scope="row">Predecessor</th><td><a class="mw-redirect" href="/wiki/Huawei_Honor_3X" title="Huawei Honor 3X">Huawei Honor 3X</a></td></tr><tr><th scope="row">Successor</th><td><a class="mw-redirect" href="/wiki/Huawei_Honor_5X" title="Huawei Honor 5X">Huawei Honor 5X</a></td></tr><tr><th scope="row">Type</th><td><a class="mw-redirect" href="/wiki/Slate_phone" title="Slate phone">Touchscreen</a> <a href="/wiki/Smartphone" title="Smartphone">smartphone</a></td></tr><tr><th scope="row"><a href="/wiki/Form_factor_(mobile_phones)" title="Form factor (mobile phones)">Form factor</a></th><td><a href="/wiki/Touchscreen" title="Touchscreen">Touchscreen</a></td></tr><tr><th scope="row">Dimensions</th><td>150.9 mm (5.94 in) H<br/>75.2 mm (2.96 in) W<br/>8.7 mm (0.34 in) D</td></tr><tr><th scope="row">Mass</th><td>150 g (5.3 oz)</td></tr><tr><th scope="row"><a href="/wiki/Mobile_operating_system" title="Mobile operating system">Operating system</a></th><td><a href="/wiki/Android_KitKat" title="Android KitKat">Android 4.4.2 KitKat</a> upgradeable to <a href="/wiki/Android_Marshmallow" title="Android Marshmallow">Android 6.0 Marshmallow</a></td></tr><tr><th scope="row"><a href="/wiki/Central_processing_unit" title="Central processing unit">CPU</a></th><td>Hisilicon Kirin 620 CPU Octa-core (Cortex-A53  1.2GHz)</td></tr><tr><th scope="row"><a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">GPU</a></th><td>Mali-450 MP4</td></tr><tr><th scope="row">Memory</th><td>2<a href="/wiki/Gigabyte" title="Gigabyte">GB</a> RAM</td></tr><tr><th scope="row">Storage</th><td>8<a href="/wiki/Gigabyte" title="Gigabyte">GB</a></td></tr><tr><th scope="row"><a href="/wiki/Removable_media" title="Removable media">Removable storage</a></th><td>microSD, up to 32<a href="/wiki/Gigabyte" title="Gigabyte">GB</a> / 128 GB on Android 6.0</td></tr><tr><th scope="row"><a class="mw-redirect" href="/wiki/Battery_(electricity)" title="Battery (electricity)">Battery</a></th><td>Non-removable 3000 <a class="mw-redirect" href="/wiki/Ampere-hour" title="Ampere-hour">mAh</a> battery (11.5 Wh)</td></tr><tr><th scope="row">Display</th><td>5.5 in (140 mm) <a href="/wiki/IPS_panel" title="IPS panel">IPS</a>- LCD capacitive touchscreen, 16M colors, 245 <a href="/wiki/Pixel_density" title="Pixel density">ppi</a> (1280x720)</td></tr><tr><th scope="row">Rear <a href="/wiki/Camera_phone" title="Camera phone">camera</a></th><td>13 megapixels <a href="/wiki/1080p" title="1080p">1080p</a> 4160 x 3120 pixels, pixels, Fast Focus, phase detection autofocus, single-LED flash, video 1080p@30fps, HDR</td></tr><tr><th scope="row"><a href="/wiki/Front-facing_camera" title="Front-facing camera">Front camera</a></th><td>5 megapixels, front-faced soft light, panorama</td></tr><tr><th scope="row">Connectivity</th><td><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left;">List</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><a href="/wiki/Wi-Fi" title="Wi-Fi">Wi-Fi</a> :<a href="/wiki/IEEE_802.11" title="IEEE 802.11">802.11</a> <a href="/wiki/IEEE_802.11b-1999" title="IEEE 802.11b-1999">b</a>/<a href="/wiki/IEEE_802.11g-2003" title="IEEE 802.11g-2003">g</a>/<a href="/wiki/IEEE_802.11n-2009" title="IEEE 802.11n-2009">n</a>/<a href="/wiki/IEEE_802.11ac" title="IEEE 802.11ac">ac</a> 
+</li><li style="line-height: inherit; margin: 0"><a class="mw-redirect" href="/wiki/GPS" title="GPS">GPS</a> </li><li style="line-height: inherit; margin: 0"><a class="new" href="/w/index.php?title=Dual_Sim_DSDA&amp;action=edit&amp;redlink=1" title="Dual Sim DSDA (page does not exist)">Dual Sim DSDA</a></li><li style="line-height: inherit; margin: 0"> (market dependent) 
+</li><li style="line-height: inherit; margin: 0"><a href="/wiki/Bluetooth" title="Bluetooth">Bluetooth</a> <a href="/wiki/Bluetooth#Bluetooth_v4.1" title="Bluetooth">4.1</a>
+</li><li style="line-height: inherit; margin: 0"><a class="mw-redirect" href="/wiki/Universal_Serial_Bus" title="Universal Serial Bus">USBmicro</a>USB v2.0, USB Host
+</li></ul>
+</div></td></tr><tr><th scope="row">Other</th><td><a href="/wiki/Accelerometer" title="Accelerometer">Accelerometer</a>, <a href="/wiki/Gyroscope" title="Gyroscope">Gyroscope</a>, <a href="/wiki/Magnetometer" title="Magnetometer">Magnetometer</a>, <a href="/wiki/Proximity_sensor" title="Proximity sensor">Proximity sensor</a> <a href="/wiki/Compass" title="Compass">Compass</a></td></tr><tr><th scope="row">Website</th><td><a class="external free" href="https://www.hihonor.com/global/products/smartphone/honor4x/" rel="nofollow">https://www.hihonor.com/global/products/smartphone/honor4x/</a></td></tr></tbody></table>
+<p>The <b>Huawei Honor 4X</b> is a mid-range <a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a> <a href="/wiki/Smartphone" title="Smartphone">smartphone</a> manufactured by <a href="/wiki/Huawei" title="Huawei">Huawei</a> as part of the <a href="/wiki/Huawei_Honor_X_series" title="Huawei Honor X series">Huawei Honor X series</a>. It was released in October 2014,<sup class="reference" id="cite_ref-gsmarena_1-0"><a href="#cite_note-gsmarena-1">[1]</a></sup> and received generally positive reviews.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Features"><span class="tocnumber">1</span> <span class="toctext">Features</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Hardware"><span class="tocnumber">1.1</span> <span class="toctext">Hardware</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Software"><span class="tocnumber">1.2</span> <span class="toctext">Software</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Reception"><span class="tocnumber">2</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Features">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honor_4X&amp;action=edit&amp;section=1" title="Edit section: Features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hardware">Hardware</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honor_4X&amp;action=edit&amp;section=2" title="Edit section: Hardware">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Huawei Honor 4X supports <a href="/wiki/GSM" title="GSM">GSM</a>, <a href="/wiki/High_Speed_Packet_Access" title="High Speed Packet Access">HSPA</a> and <a href="/wiki/LTE_(telecommunication)" title="LTE (telecommunication)">LTE</a> networking. It uses a 5.5-inch <a class="mw-redirect" href="/wiki/In-plane_switching" title="In-plane switching">IPS</a> display with 720p resolution. It uses either the <a href="/wiki/HiSilicon" title="HiSilicon">HiSilicon</a> Kirin 620 octa-core 1.2 GHz <a class="mw-redirect" href="/wiki/Cortex-A53" title="Cortex-A53">Cortex-A53</a> CPU with <a class="mw-redirect" href="/wiki/Mali-450" title="Mali-450">Mali-450</a> graphics, or the <a href="/wiki/Qualcomm_Snapdragon" title="Qualcomm Snapdragon">Qualcomm Snapdragon</a> 410 quad-core 1.2 GHz Cortex-A53 CPU with <a href="/wiki/Adreno" title="Adreno">Adreno</a> 306 graphics. It contains 2GB of <a class="mw-redirect" href="/wiki/RAM_memory" title="RAM memory">RAM memory</a> and 8GB storage, expandable with an SD card up to 32GB. It features a 13 <a class="mw-redirect" href="/wiki/Megapixel" title="Megapixel">MP</a> rear camera with autofocus and <a class="mw-redirect" href="/wiki/LED_flash" title="LED flash">LED flash</a> that supports 1080p video recording, and a 5 MP front camera that supports 720p video recording. It uses a <a href="/wiki/Lithium_polymer_battery" title="Lithium polymer battery">lithium polymer</a> 3000 mAh battery that supports up to 200 hours of 3G standby time and 15 hours of 3G talk time.<sup class="reference" id="cite_ref-gsmarena_1-1"><a href="#cite_note-gsmarena-1">[1]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Software">Software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honor_4X&amp;action=edit&amp;section=3" title="Edit section: Software">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Honor 4X comes preinstalled with <a class="mw-redirect" href="/wiki/Android_4.4.2_KitKat" title="Android 4.4.2 KitKat">Android 4.4.2 KitKat</a> with Huawei's custom Emotion UI. The launcher does not include an app drawer, with apps spread across multiple home screens, thus the interface resembles iOS more than Android. Huawei plans an upgrade to <a href="/wiki/Android_Lollipop" title="Android Lollipop">Android Lollipop</a> and marshmallow.<sup class="reference" id="cite_ref-techradar_2-0"><a href="#cite_note-techradar-2">[2]</a></sup> A simple home screen style is also available.<sup class="reference" id="cite_ref-toi_3-0"><a href="#cite_note-toi-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honor_4X&amp;action=edit&amp;section=4" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Huawei Honor 4X received generally positive reviews.
+</p><p>Tomos Ellis of <a href="/wiki/TechRadar" title="TechRadar">TechRadar</a> reviewed the version with the octa-core processor, and gave the Honor 4X a 4 out of 5. The review praised the performance of the 64-bit octa-core processor and 2 GB of RAM, long battery life provided with the 3000 mAh battery, dual-sim functionality, good build quality and camera quality, and opined that the online-only availability was likely to reduce costs, but criticized the lack of an app drawer in the custom Emotion UI Android skin, noting that separating apps across multiple homescreens was "too cluttered" and that the icons were "garish, cartoon-like". The review also noted that while competitors like the <a href="/wiki/Moto_G_(2nd_generation)" title="Moto G (2nd generation)">2014 Moto G</a> and <a href="/wiki/Sony_Xperia_M2" title="Sony Xperia M2">Sony Xperia M2</a> Aqua exist in a similar price range, none of them were <a href="/wiki/Phablet" title="Phablet">phablet</a>-sized like the Honor 4X.<sup class="reference" id="cite_ref-techradar_2-1"><a href="#cite_note-techradar-2">[2]</a></sup>
+</p><p>Katharine Byrne of Expert Reviews reviewed the version with the octa-core processor, and also gave the Honor 4X a 4 out of 5, comparing the device favorably against the 2014 Moto G. The review appreciated the camera, saying that the outdoor photo quality was "much brighter and more vivid" than photos taken with the Moto G, and that the Honor 4X also has longer battery life and higher benchmark, web browsing, and graphics performance. The review noted that the display had high brightness and contrast, but criticized the colour accuracy, noting low sRGB colour gamut coverage.<sup class="reference" id="cite_ref-expert_4-0"><a href="#cite_note-expert-4">[4]</a></sup>
+</p><p>Komal Mohan of <i><a href="/wiki/The_Times_of_India" title="The Times of India">The Times of India</a></i> reviewed the version with the slower quad-core processor, and gave the Honor 4X a 3.5 out of 5. The review noted that the lack of backlighting for the capacitive front keys are an inconvenience, and said that the device "is on the chunky side" with its thickness of 8.7 mm. The sunlight legibility and touch sensitivity of the display were praised, but the viewing angles were disappointing. The review pointed out that the device's 3000 mAh battery was "one of its biggest strengths", but said that the Adreno 306 GPU of the quad-core Snapdragon 410 processor created noticeable lag when playing resource-intensive games.<sup class="reference" id="cite_ref-toi_3-1"><a href="#cite_note-toi-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honor_4X&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-gsmarena-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-gsmarena_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gsmarena_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.gsmarena.com/huawei_honor_4x-6754.php" rel="nofollow">"Huawei Honor 4X – Full phone specifications"</a>. <i>GSMArena</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 November</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GSMArena&amp;rft.atitle=Huawei+Honor+4X+%E2%80%93+Full+phone+specifications&amp;rft_id=http%3A%2F%2Fwww.gsmarena.com%2Fhuawei_honor_4x-6754.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonor+4X"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-techradar-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-techradar_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-techradar_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.techradar.com/reviews/phones/mobile-phones/honor-4x-1287220/review" rel="nofollow">"Honor 4X review"</a>. <i>TechRadar</i>. Future plc. 4 June 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">16 November</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TechRadar&amp;rft.atitle=Honor+4X+review&amp;rft.date=2015-06-04&amp;rft_id=http%3A%2F%2Fwww.techradar.com%2Freviews%2Fphones%2Fmobile-phones%2Fhonor-4x-1287220%2Freview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonor+4X"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-toi-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-toi_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-toi_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://timesofindia.indiatimes.com/tech/reviews/Huawei-Honor-4X-review/articleshow/46754060.cms" rel="nofollow">"Huawei Honor 4X review"</a>. <i><a href="/wiki/The_Times_of_India" title="The Times of India">The Times of India</a></i>. 31 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">16 November</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Times+of+India&amp;rft.atitle=Huawei+Honor+4X+review&amp;rft.date=2015-03-31&amp;rft_id=http%3A%2F%2Ftimesofindia.indiatimes.com%2Ftech%2Freviews%2FHuawei-Honor-4X-review%2Farticleshow%2F46754060.cms&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonor+4X"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-expert-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-expert_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.expertreviews.co.uk/mobile-phones/1403297/honor-4x-review" rel="nofollow">"Honor 4X review"</a>. <i>Expert Reviews</i>. 14 June 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">16 November</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Expert+Reviews&amp;rft.atitle=Honor+4X+review&amp;rft.date=2015-06-14&amp;rft_id=http%3A%2F%2Fwww.expertreviews.co.uk%2Fmobile-phones%2F1403297%2Fhonor-4x-review&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonor+4X"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<div aria-labelledby="Huawei" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Huawei" title="Template:Huawei"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Huawei" title="Template talk:Huawei"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Huawei&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Huawei" style="font-size:114%;margin:0 4em"><a href="/wiki/Huawei" title="Huawei">Huawei</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Products</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Phones" scope="row" style="width:1%"><a href="/wiki/List_of_Huawei_phones" title="List of Huawei phones">Phones</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Huawei_Ascend" title="Huawei Ascend">Ascend</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Huawei_Ascend_(phone)" title="Huawei Ascend (phone)">Huawei Ascend</a></li>
+<li><a href="/wiki/Huawei_Ascend_G300" title="Huawei Ascend G300">Huawei Ascend G300</a></li>
+<li><a href="/wiki/Huawei_Ascend_G600" title="Huawei Ascend G600">Huawei Ascend G600</a></li>
+<li><a href="/wiki/Huawei_Ascend_P1" title="Huawei Ascend P1">Huawei Ascend P1</a></li>
+<li><a href="/wiki/Huawei_Ascend_P2" title="Huawei Ascend P2">Huawei Ascend P2</a></li>
+<li><a href="/wiki/Huawei_Ascend_P6" title="Huawei Ascend P6">Huawei Ascend P6</a></li>
+<li><a href="/wiki/Huawei_Ascend_P7" title="Huawei Ascend P7">Huawei Ascend P7</a></li>
+<li>Huawei Ascend D1</li>
+<li>Huawei Ascend D2</li>
+<li><a href="/wiki/Huawei_Ascend_Mate" title="Huawei Ascend Mate">Huawei Ascend Mate</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Ascend_Mate2_4G" title="Huawei Ascend Mate2 4G">Huawei Ascend Mate2 4G</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Ascend_Mate7" title="Huawei Ascend Mate7">Huawei Ascend Mate7</a></li>
+<li><a href="/wiki/Huawei_Ascend_W1" title="Huawei Ascend W1">Huawei Ascend W1</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Huawei_Honor" title="Huawei Honor">Honor</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Huawei_Honor_X1" title="Huawei Honor X1">Huawei Honor X1</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_X2" title="Huawei Honor X2">Huawei Honor X2</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_3C" title="Huawei Honor 3C">Huawei Honor 3C</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_3X" title="Huawei Honor 3X">Huawei Honor 3X</a></li>
+<li><a class="new" href="/w/index.php?title=Huawei_Honor_4&amp;action=edit&amp;redlink=1" title="Huawei Honor 4 (page does not exist)">Huawei Honor 4</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_4C" title="Huawei Honor 4C">Huawei Honor 4C</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_4X" title="Huawei Honor 4X">Huawei Honor 4X</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_5X" title="Huawei Honor 5X">Huawei Honor 5X</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_6" title="Huawei Honor 6">Huawei Honor 6</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_6_Plus" title="Huawei Honor 6 Plus">Huawei Honor 6 Plus</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_6X" title="Huawei Honor 6X">Huawei Honor 6X</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_7" title="Huawei Honor 7">Huawei Honor 7</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_7i" title="Huawei Honor 7i">Huawei Honor 7i</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_7X" title="Huawei Honor 7X">Huawei Honor 7X</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_8" title="Huawei Honor 8">Huawei Honor 8</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_8_Pro" title="Huawei Honor 8 Pro">Huawei Honor 8 Pro</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_8X" title="Huawei Honor 8X">Huawei Honor 8X</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_9" title="Huawei Honor 9">Huawei Honor 9</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_10" title="Huawei Honor 10">Huawei Honor 10</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_Honor_20" title="Huawei Honor 20">Huawei Honor 20</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Huawei_P_series" title="Huawei P series">P series</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Huawei_P8" title="Huawei P8">Huawei P8</a>
+<ul><li><a class="mw-redirect" href="/wiki/Huawei_P8_Max" title="Huawei P8 Max">Huawei P8 Max</a></li></ul></li>
+<li><a href="/wiki/Huawei_P9" title="Huawei P9">Huawei P9</a></li>
+<li><a href="/wiki/Huawei_P10" title="Huawei P10">Huawei P10</a></li>
+<li><a href="/wiki/Huawei_P20" title="Huawei P20">Huawei P20</a></li>
+<li><a href="/wiki/Huawei_P30" title="Huawei P30">Huawei P30</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Huawei_Mate_series" title="Huawei Mate series">Mate series</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Huawei_Mate_S" title="Huawei Mate S">Huawei Mate S</a></li>
+<li><a href="/wiki/Huawei_Mate_8" title="Huawei Mate 8">Huawei Mate 8</a></li>
+<li><a href="/wiki/Huawei_Mate_9" title="Huawei Mate 9">Huawei Mate 9</a></li>
+<li><a href="/wiki/Huawei_Mate_10" title="Huawei Mate 10">Huawei Mate 10</a></li>
+<li><a href="/wiki/Huawei_Mate_20" title="Huawei Mate 20">Huawei Mate 20</a></li>
+<li><a href="/wiki/Huawei_Mate_30" title="Huawei Mate 30">Huawei Mate 30</a></li>
+<li><a href="/wiki/Huawei_Mate_X" title="Huawei Mate X">Huawei Mate X</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Huawei_M835" title="Huawei M835">Huawei M835</a></li>
+<li><a href="/wiki/Huawei_Sonic" title="Huawei Sonic">Huawei Sonic</a></li>
+<li><a href="/wiki/Huawei_U120" title="Huawei U120">Huawei U120</a></li>
+<li><a href="/wiki/Huawei_U121" title="Huawei U121">Huawei U121</a></li>
+<li><a href="/wiki/Huawei_U1000" title="Huawei U1000">Huawei U1000</a></li>
+<li><a href="/wiki/Huawei_U1100" title="Huawei U1100">Huawei U1100</a></li>
+<li><a href="/wiki/Huawei_U1270" title="Huawei U1270">Huawei U1270</a></li>
+<li><a href="/wiki/Huawei_U1250" title="Huawei U1250">Huawei U1250</a></li>
+<li><a class="new" href="/w/index.php?title=Huawei_U1310&amp;action=edit&amp;redlink=1" title="Huawei U1310 (page does not exist)">Huawei U1310</a></li>
+<li><a href="/wiki/Huawei_U2801" title="Huawei U2801">Huawei U2801</a></li>
+<li><a href="/wiki/Huawei_U3300" title="Huawei U3300">Huawei U3300</a></li>
+<li><a href="/wiki/Huawei_U7310" title="Huawei U7310">Huawei U7310</a></li>
+<li><a href="/wiki/Huawei_U7510" title="Huawei U7510">Huawei U7510</a></li>
+<li><a href="/wiki/T-Mobile_Tap" title="T-Mobile Tap">Huawei U7519</a></li>
+<li><a href="/wiki/Huawei_U8100" title="Huawei U8100">Huawei U8100</a></li>
+<li><a href="/wiki/Huawei_U8110" title="Huawei U8110">Huawei U8110</a></li>
+<li><a class="mw-redirect" href="/wiki/Huawei_IDEOS_U8150" title="Huawei IDEOS U8150">Huawei IDEOS U8150</a></li>
+<li><a href="/wiki/T-Mobile_Pulse" title="T-Mobile Pulse">Huawei U8220</a></li>
+<li><a href="/wiki/Huawei_U8230" title="Huawei U8230">Huawei U8230</a></li>
+<li><a href="/wiki/Huawei_U8800" title="Huawei U8800">Huawei U8800</a></li>
+<li><a href="/wiki/Huawei_U9130_Compass" title="Huawei U9130 Compass">Huawei U9130 Compass</a></li>
+<li><a href="/wiki/Huawei_U9150" title="Huawei U9150">Huawei U9150</a></li>
+<li><a href="/wiki/Nexus_6P" title="Nexus 6P">Nexus 6P</a></li>
+<li><a class="new" href="/w/index.php?title=Huawei_G7&amp;action=edit&amp;redlink=1" title="Huawei G7 (page does not exist)">Huawei G7</a></li>
+<li><a href="/wiki/Huawei_G8" title="Huawei G8">Huawei G8</a></li>
+<li><a class="new" href="/w/index.php?title=Huawei_G9&amp;action=edit&amp;redlink=1" title="Huawei G9 (page does not exist)">Huawei G9</a></li>
+<li><a href="/wiki/Huawei_Nova" title="Huawei Nova">Huawei Nova</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Huawei_E5" title="Huawei E5">Huawei E5</a></li>
+<li><a href="/wiki/Huawei_E220" title="Huawei E220">Huawei E220</a></li>
+<li><a href="/wiki/Huawei_Ideos_Tablet_S7" title="Huawei Ideos Tablet S7">Huawei Ideos Tablet S7</a></li>
+<li><a href="/wiki/Huawei_SingleRAN" title="Huawei SingleRAN">Huawei SingleRAN</a></li>
+<li><a href="/wiki/Huawei_4G_eLTE" title="Huawei 4G eLTE">Huawei 4G eLTE</a></li>
+<li><a href="/wiki/Huawei_Mediapad_M5" title="Huawei Mediapad M5">Huawei Mediapad M5</a></li>
+<li><a href="/wiki/Huawei_Watch" title="Huawei Watch">Huawei Watch</a></li>
+<li><a href="/wiki/Huawei_MateBook" title="Huawei MateBook">Huawei MateBook</a></li>
+<li><a href="/wiki/Huawei_MateBook_X_Pro" title="Huawei MateBook X Pro">Huawei MateBook X Pro</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">People</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ren_Zhengfei" title="Ren Zhengfei">Ren Zhengfei</a> (CEO)</li>
+<li><a href="/wiki/Sun_Yafang" title="Sun Yafang">Sun Yafang</a> (former chairwoman)</li>
+<li><a href="/wiki/Meng_Wanzhou" title="Meng Wanzhou">Meng Wanzhou</a> (deputy chair &amp; CFO)</li>
+<li><a href="/wiki/Xu_Zhijun" title="Xu Zhijun">Xu Zhijun</a> (deputy chair)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/EulerOS" title="EulerOS">EulerOS</a></li>
+<li><a class="mw-redirect" href="/wiki/HarmonyOS" title="HarmonyOS">HarmonyOS</a></li>
+<li><a href="/wiki/Huawei_EMUI" title="Huawei EMUI">Huawei EMUI</a></li>
+<li><a href="/wiki/EROFS" title="EROFS">EROFS</a></li>
+<li><a href="/wiki/Huawei_Symantec" title="Huawei Symantec">Huawei Symantec</a></li>
+<li><a href="/wiki/HiSilicon" title="HiSilicon">HiSilicon</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <b><a href="/wiki/Category:Huawei" title="Category:Huawei">Category</a></b></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Huawei" title="commons:Category:Huawei">Commons</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20191203015137
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.288 seconds
+Real time usage: 0.369 seconds
+Preprocessor visited node count: 857/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 52644/2097152 bytes
+Template argument size: 2400/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11997/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 4.69 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  298.835      1 -total
+ 45.75%  136.723      1 Template:Reflist
+ 37.43%  111.842      4 Template:Cite_web
+ 36.96%  110.435      1 Template:Infobox_mobile_phone
+ 34.97%  104.504      1 Template:Infobox
+ 17.66%   52.765      3 Template:Navbox
+ 16.19%   48.370      5 Template:Convert
+ 14.93%   44.605      1 Template:Huawei
+  5.06%   15.113      2 Template:Icon
+  2.00%    5.985      1 Template:Collapsible_list
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:48564927-0!canonical and timestamp 20191203015136 and revision id 929005410
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Honor_4X&amp;oldid=929005410">https://en.wikipedia.org/w/index.php?title=Honor_4X&amp;oldid=929005410</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Android_(operating_system)_devices" title="Category:Android (operating system) devices">Android (operating system) devices</a></li><li><a href="/wiki/Category:Mobile_phones_introduced_in_2014" title="Category:Mobile phones introduced in 2014">Mobile phones introduced in 2014</a></li><li><a href="/wiki/Category:Huawei_Honor" title="Category:Huawei Honor">Huawei Honor</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Honor+4X" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Honor+4X" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Honor_4X" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Honor_4X" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Honor_4X">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Honor_4X&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Honor_4X&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Honor_4X" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Honor_4X" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Honor_4X&amp;oldid=929005410" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Honor_4X&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q22909026" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Honor_4X&amp;id=929005410" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Honor+4X">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Honor+4X&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Honor_4X&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%87%D9%88%D8%A7%D9%88%D9%8A_%D8%A3%D9%88%D9%86%D9%88%D8%B1_4_%D8%A5%D9%83%D8%B3" hreflang="ar" lang="ar" title="هواوي أونور 4 إكس – Arabic">العربية</a></li><li class="interlanguage-link interwiki-azb"><a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D9%87%D9%88%D8%A7%D9%88%DB%8C_%D8%A7%D9%88%D9%86%D9%88%D8%B1_%DB%B4_%D8%A7%DA%A9%D8%B3" hreflang="azb" lang="azb" title="هواوی اونور ۴ اکس – South Azerbaijani">تۆرکجه</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Honor_4X" hreflang="fi" lang="fi" title="Honor 4X – Finnish">Suomi</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q22909026#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 3 December 2019, at 01:51<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Honor_4X&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.369","ppvisitednodes":{"value":857,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":52644,"limit":2097152},"templateargumentsize":{"value":2400,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11997,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  298.835      1 -total"," 45.75%  136.723      1 Template:Reflist"," 37.43%  111.842      4 Template:Cite_web"," 36.96%  110.435      1 Template:Infobox_mobile_phone"," 34.97%  104.504      1 Template:Infobox"," 17.66%   52.765      3 Template:Navbox"," 16.19%   48.370      5 Template:Convert"," 14.93%   44.605      1 Template:Huawei","  5.06%   15.113      2 Template:Icon","  2.00%    5.985      1 Template:Collapsible_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":4918246,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20191203015137","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Honor 4X","url":"https:\/\/en.wikipedia.org\/wiki\/Honor_4X","sameAs":"http:\/\/www.wikidata.org\/entity\/Q22909026","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q22909026","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-11-16T07:46:26Z","dateModified":"2019-12-03T01:51:32Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/47\/Huawei_Honor_4X.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":162,"wgHostname":"mw1252"});});</script>
+
+
+</body></html>

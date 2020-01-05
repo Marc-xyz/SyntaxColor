@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>National Hispanic Institute - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfpsJwpAAEEAAGeGqmMAAAAJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"National_Hispanic_Institute","wgTitle":"National Hispanic Institute","wgCurRevisionId":929096499,"wgRevisionId":929096499,"wgArticleId":3213542,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","Pages using infobox organization with unknown parameters","All articles with vague or ambiguous time",
+"Vague or ambiguous time from July 2019","Wikipedia articles needing clarification from July 2019","Hispanic and Latino organizations","International organizations based in the Americas","Non-profit organizations based in Texas","Think tanks based in the United States","Student societies in the United States","Youth organizations based in Texas","1979 establishments in the United States","Educational organizations based in the United States","Organizations established in 1979"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"National_Hispanic_Institute","wgRelevantArticleId":3213542,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},
+"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6973363","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest",
+"ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/National_Hispanic_Institute_logo.svg/1200px-National_Hispanic_Institute_logo.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/National_Hispanic_Institute" rel="alternate"/>
+<link href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/National_Hispanic_Institute" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-National_Hispanic_Institute rootpage-National_Hispanic_Institute skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">National Hispanic Institute</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:National_Hispanic_Institute_logo.svg"><img alt="National Hispanic Institute logo.svg" data-file-height="84" data-file-width="233" decoding="async" height="90" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fe/National_Hispanic_Institute_logo.svg/250px-National_Hispanic_Institute_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fe/National_Hispanic_Institute_logo.svg/375px-National_Hispanic_Institute_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fe/National_Hispanic_Institute_logo.svg/500px-National_Hispanic_Institute_logo.svg.png 2x" width="250"/></a></td></tr><tr><th scope="row" style="padding-right:0.6em;">Founded</th><td class="note">1979</td></tr><tr><th scope="row" style="padding-right:0.6em;">Founder</th><td><a href="/wiki/Ernesto_Nieto" title="Ernesto Nieto">Ernesto Nieto</a></td></tr><tr><th scope="row" style="padding-right:0.6em;">Type</th><td>Non-profit education organization</td></tr><tr><th scope="row" style="padding-right:0.6em;">Focus</th><td>Leadership and education</td></tr><tr><th scope="row" style="padding-right:0.6em;">Location</th><td class="label"><div class="plainlist"><ul><li><a href="/wiki/Maxwell,_Texas" title="Maxwell, Texas">Maxwell, Texas</a></li></ul></div></td></tr><tr><th scope="row" style="padding-right:0.6em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served </div></th><td><a href="/wiki/United_States" title="United States">United States</a>, <a href="/wiki/Mexico" title="Mexico">Mexico</a>, <a href="/wiki/Panama" title="Panama">Panama</a>, <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a>, <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a></td></tr><tr><th scope="row" style="padding-right:0.6em;"><div style="padding:0.1em 0;line-height:1.2em;">Members  </div></th><td>0 <br/> NHI is not a membership organization.  It has no members.</td></tr><tr><th scope="row" style="padding-right:0.6em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td>Ernesto Nieto<br/>Founder and President<br/><a class="mw-redirect" href="/wiki/Gloria_De_Leon" title="Gloria De Leon">Gloria De Leon</a><br/>Co-founder and Senior Executive Vice President<br/><a class="new" href="/w/index.php?title=Nicole_Nieto&amp;action=edit&amp;redlink=1" title="Nicole Nieto (page does not exist)">Nicole Nieto</a><br/>Senior Vice President<br/><a class="new" href="/w/index.php?title=Julio_Cotto&amp;action=edit&amp;redlink=1" title="Julio Cotto (page does not exist)">Julio Cotto</a><br/>Senior Vice President<br/><a class="new" href="/w/index.php?title=Chris_Nieto&amp;action=edit&amp;redlink=1" title="Chris Nieto (page does not exist)">Chris Nieto</a><br/><a class="new" href="/w/index.php?title=Efrain_Cordova&amp;action=edit&amp;redlink=1" title="Efrain Cordova (page does not exist)">Efrain Cordova</a><br/>Director of Business<br/><a class="new" href="/w/index.php?title=Evelyn_Gomez&amp;action=edit&amp;redlink=1" title="Evelyn Gomez (page does not exist)">Evelyn Gomez</a><br/>Associate Enrollment Director<br/></td></tr><tr><th scope="row" style="padding-right:0.6em;"><div style="padding:0.1em 0;line-height:1.2em;">Revenue <style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">(2014)</span> </div></th><td>$1,829,689<sup class="reference" id="cite_ref-Ratings_1-0"><a href="#cite_note-Ratings-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right:0.6em;">Expenses <link href="mw-data:TemplateStyles:r886047488" rel="mw-deduplicated-inline-style"/><span class="nobold">(2014)</span></th><td>$1,676,079<sup class="reference" id="cite_ref-Ratings_1-1"><a href="#cite_note-Ratings-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right:0.6em;"><div style="padding:0.1em 0;line-height:1.2em;">Employees  </div></th><td>4</td></tr><tr><th scope="row" style="padding-right:0.6em;"><div style="padding:0.1em 0;line-height:1.2em;">Volunteers  </div></th><td><br/>(alumni volunteers)</td></tr><tr><th scope="row" style="padding-right:0.6em;">Website</th><td><a class="external free" href="https://www.nationalhispanicinstitute.org/" rel="nofollow">https://www.nationalhispanicinstitute.org/</a></td></tr></tbody></table>
+<p>The <b>National Hispanic Institute</b> (<b>NHI</b>) is an international <a class="mw-redirect" href="/wiki/Nonprofit" title="Nonprofit">nonprofit</a> organization dedicated to serving the future leadership needs of the global <a class="mw-redirect" href="/wiki/Hispanic_and_Latino_Americans" title="Hispanic and Latino Americans">Hispanic</a> community.  Founded in 1979 in the State of Texas with the mission of serving the future leadership needs of the <a href="/wiki/United_States" title="United States">United States</a> via the Hispanic/Latino community, NHI became the largest Latino youth organization in the United States.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-nhi-net.org_3-0"><a href="#cite_note-nhi-net.org-3">[3]</a></sup>  NHI is now an international organization with over 85,000 alumni worldwide and a well-known consortium of notable colleges and universities.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p><p>To carry out its mission, NHI annually conducts independent research focused on leadership and educational development, collaborates with K-12 schools, colleges, and universities, and annually works with over 3,000 high-achieving youth and their families.  According to its website, NHI has distinguished itself from other organizations by not focusing on civil rights, not pointing to existing social problems as the rally-call to civic involvement, or depicting Hispanics and Latinos as a community in urgent need in order to influence giving.<sup class="reference" id="cite_ref-nhi-net.org_3-1"><a href="#cite_note-nhi-net.org-3">[3]</a></sup>  NHI instead recognizes the talent of Hispanic and Latino youth, the potential they represent to the future of the Hispanic/Latino community and extended sectors of the American and global society. Based on this philosophy, NHI develops and conducts experiences through which students may become intellectually, culturally, and socially engaged in the life of their communities.<sup class="reference" id="cite_ref-nhi-net.org_3-2"><a href="#cite_note-nhi-net.org-3">[3]</a></sup>
+</p><p>NHI utilizes a combination community-based revenue generating strategies to fund its work.  It relies neither on government nor private charity to support its efforts.<sup class="reference" id="cite_ref-nhi-net.org_3-3"><a href="#cite_note-nhi-net.org-3">[3]</a></sup>  NHI is headquartered in <a href="/wiki/Maxwell,_Texas" title="Maxwell, Texas">Maxwell, Texas</a> (approx. 30 minutes southeast of <a href="/wiki/Austin,_Texas" title="Austin, Texas">Austin, Texas</a>) and maintains its Leadership Service Center on the campus of <a href="/wiki/Villanova_University" title="Villanova University">Villanova University</a> in <a href="/wiki/Villanova,_Pennsylvania" title="Villanova, Pennsylvania">Villanova, Pennsylvania</a> (approx. 20 minutes west of <a class="mw-redirect" href="/wiki/Philadelphia,_Pennsylvania" title="Philadelphia, Pennsylvania">Philadelphia, Pennsylvania</a>),<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> and its partnership with the Center for Hispanic Studies on the campus of <a href="/wiki/Southwestern_University" title="Southwestern University">Southwestern University</a> in <a href="/wiki/Georgetown,_Texas" title="Georgetown, Texas">Georgetown, Texas</a>.<sup class="reference" id="cite_ref-bizjournals.com_8-0"><a href="#cite_note-bizjournals.com-8">[8]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Work"><span class="tocnumber">1</span> <span class="toctext">Work</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Leadership_and_academic_programs"><span class="tocnumber">1.1</span> <span class="toctext">Leadership and academic programs</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#The_Great_Debate"><span class="tocnumber">1.1.1</span> <span class="toctext">The Great Debate</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Lorenzo_de_Zavala_Youth_Legislative_Session_(LDZ)"><span class="tocnumber">1.1.2</span> <span class="toctext">Lorenzo de Zavala Youth Legislative Session (LDZ)</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Collegiate_World_Series_(CWS)"><span class="tocnumber">1.1.3</span> <span class="toctext">Collegiate World Series (CWS)</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Celebración"><span class="tocnumber">1.1.4</span> <span class="toctext">Celebración</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#John_F._Lopez_Fellowship_(JFL)"><span class="tocnumber">1.1.5</span> <span class="toctext">John F. Lopez Fellowship (JFL)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Leadership_and_education_research"><span class="tocnumber">1.2</span> <span class="toctext">Leadership and education research</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Collaborative_Research_Center"><span class="tocnumber">1.2.1</span> <span class="toctext">Collaborative Research Center</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Leadership_Service_Center_(LSC)_at_Villanova_University"><span class="tocnumber">1.2.2</span> <span class="toctext">Leadership Service Center (LSC) at Villanova University</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Partnership_with_Center_for_Hispanic_Studies_at_Southwestern_University"><span class="tocnumber">1.2.3</span> <span class="toctext">Partnership with Center for Hispanic Studies at Southwestern University</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#College_Register"><span class="tocnumber">1.3</span> <span class="toctext">College Register</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#Member_institutions"><span class="tocnumber">1.3.1</span> <span class="toctext">Member institutions</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Achievements"><span class="tocnumber">2</span> <span class="toctext">Achievements</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Founders"><span class="tocnumber">4</span> <span class="toctext">Founders</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Work">Work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=1" title="Edit section: Work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th class="navbox-title" style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a class="mw-redirect" href="/wiki/Hispanic_and_Latino_Americans" title="Hispanic and Latino Americans">Hispanic and<br/>Latino Americans</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">National origin groups</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="plainlist">
+<ul><li><a href="/wiki/Argentine_Americans" title="Argentine Americans">Argentine Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Bolivian_American" title="Bolivian American">Bolivian Americans</a></li>
+<li><a href="/wiki/Brazilian_Americans" title="Brazilian Americans">Brazilian Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Chilean_American" title="Chilean American">Chilean Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Colombian_American" title="Colombian American">Colombian Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Costa_Rican_American" title="Costa Rican American">Costa Rican Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Cuban_American" title="Cuban American">Cuban Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Dominican_American" title="Dominican American">Dominican Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Ecuadorian_American" title="Ecuadorian American">Ecuadorian Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Guatemalan_American" title="Guatemalan American">Guatemalan Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Honduran_American" title="Honduran American">Honduran Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Mexican_American" title="Mexican American">Mexican Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Nicaraguan_American" title="Nicaraguan American">Nicaraguan Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Panamanian_American" title="Panamanian American">Panamanian Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Paraguayan_American" title="Paraguayan American">Paraguayan Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Peruvian_American" title="Peruvian American">Peruvian Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Puerto_Ricans_in_the_United_States" title="Puerto Ricans in the United States">Puerto Ricans (stateside)</a></li>
+<li><a class="mw-redirect" href="/wiki/Salvadoran_American" title="Salvadoran American">Salvadoran Americans</a></li>
+<li><a href="/wiki/Spanish_Americans" title="Spanish Americans">Spanish Americanss</a></li>
+<li><a class="mw-redirect" href="/wiki/Uruguayan_American" title="Uruguayan American">Uruguayan Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Venezuelan_American" title="Venezuelan American">Venezuelan Americans</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">History</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="plainlist">
+<ul><li><a class="mw-redirect" href="/wiki/History_of_Hispanic_and_Latino_Americans" title="History of Hispanic and Latino Americans">History of Hispanic and Latino Americans</a></li>
+<li><a href="/wiki/History_of_Mexican_Americans" title="History of Mexican Americans">History of Mexican Americans</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Colonial <a href="/wiki/Casta" title="Casta">casta</a> system</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/Castizo" title="Castizo">castizo</a></li>
+<li><a href="/wiki/Cholo" title="Cholo">cholo</a></li>
+<li><a href="/wiki/Criollo_people" title="Criollo people">criollo</a></li>
+<li><a href="/wiki/Mestizo" title="Mestizo">mestizo</a></li>
+<li><a href="/wiki/Mulatto" title="Mulatto">mulato</a></li>
+<li><a href="/wiki/Pardo" title="Pardo">pardo</a>/moreno</li>
+<li><a href="/wiki/Zambo" title="Zambo">zambo</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Political movements</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="plainlist">
+<ul><li><a href="/wiki/Chicano_Movement" title="Chicano Movement">Chicano Movement</a></li>
+<li><a class="mw-redirect" href="/wiki/Hispanic_and_Latino_American_politics" title="Hispanic and Latino American politics">Hispanic and Latino American politics</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Organizations</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/Association_of_Hispanic_Arts" title="Association of Hispanic Arts">Association of Hispanic Arts</a></li>
+<li><a href="/wiki/Congressional_Hispanic_Caucus" title="Congressional Hispanic Caucus">Congressional Hispanic Caucus</a></li>
+<li><a href="/wiki/Congressional_Hispanic_Conference" title="Congressional Hispanic Conference">Congressional Hispanic Conference</a></li>
+<li><a href="/wiki/League_of_United_Latin_American_Citizens" title="League of United Latin American Citizens">LULAC</a></li>
+<li><a href="/wiki/Mexican_American_Legal_Defense_and_Educational_Fund" title="Mexican American Legal Defense and Educational Fund">MALDEF</a></li>
+<li><a href="/wiki/MEChA" title="MEChA">MEChA</a></li>
+<li><a href="/wiki/National_Association_of_Latino_Elected_and_Appointed_Officials" title="National Association of Latino Elected and Appointed Officials">NALEO</a></li>
+<li><a href="/wiki/National_Association_of_Latino_Fraternal_Organizations" title="National Association of Latino Fraternal Organizations">NALFO</a></li>
+<li><a class="mw-redirect" href="/wiki/National_Council_of_La_Raza" title="National Council of La Raza">National Council of La Raza</a></li>
+<li><a class="mw-selflink selflink">National Hispanic Institute</a></li>
+<li><a href="/wiki/Republican_National_Hispanic_Assembly" title="Republican National Hispanic Assembly">RNHA</a></li>
+<li><a href="/wiki/Society_of_Hispanic_Professional_Engineers" title="Society of Hispanic Professional Engineers">SHPE</a></li>
+<li><a href="/wiki/United_Farm_Workers" title="United Farm Workers">UFW</a></li>
+<li><a class="mw-redirect" href="/wiki/USHCC" title="USHCC">USHCC</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Culture</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/Category:Hispanic_and_Latino_American_writers" title="Category:Hispanic and Latino American writers">Literature</a></li>
+<li><a href="/wiki/Latin_American_music_in_the_United_States" title="Latin American music in the United States">Music</a></li>
+<li><a class="mw-redirect" href="/wiki/Hispanic_and_Latino_Americans#Religion" title="Hispanic and Latino Americans">Religion</a></li>
+<li><a href="/wiki/Latino_studies" title="Latino studies">Studies</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Related national groups</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="plainlist">
+<ul><li><a class="mw-redirect" href="/wiki/Belizean_American" title="Belizean American">Belizean Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Brazilian_American" title="Brazilian American">Brazilian Americans</a></li>
+<li><a href="/wiki/Filipino_Americans" title="Filipino Americans">Filipino Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Guyanese_American" title="Guyanese American">Guyanese Americans</a></li>
+<li><a href="/wiki/Haitian_Americans" title="Haitian Americans">Haitian Americans</a></li>
+<li><a href="/wiki/Portuguese_Americans" title="Portuguese Americans">Portuguese Americans</a></li>
+<li><a href="/wiki/Spanish_Americans" title="Spanish Americans">Spanish Americans</a></li>
+<li><a class="mw-redirect" href="/wiki/Surinamese_American" title="Surinamese American">Surinamese Americans</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Languages</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/American_English" title="American English">English</a></li>
+<li><a href="/wiki/Spanglish" title="Spanglish">Spanglish</a></li>
+<li><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a></li>
+<li><a href="/wiki/Cuban_Spanish" title="Cuban Spanish">Cuban Spanish</a>
+<ul><li><a href="/wiki/Spanish_language_in_the_United_States" title="Spanish language in the United States">United States</a>
+<ul><li><a href="/wiki/New_Mexican_Spanish" title="New Mexican Spanish">New Mexican</a></li>
+<li><a href="/wiki/Puerto_Rican_Spanish" title="Puerto Rican Spanish">Puerto Rican</a></li></ul></li></ul></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Ethnic groups</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/Californio" title="Californio">Californio</a></li>
+<li><a href="/wiki/Chicano" title="Chicano">Chicano</a></li>
+<li><a href="/wiki/Hispanos" title="Hispanos">Hispano</a></li>
+<li><a href="/wiki/Canarian_Americans" title="Canarian Americans">Isleño</a></li>
+<li><a class="mw-redirect" href="/wiki/Nuevomexicano" title="Nuevomexicano">Nuevomexicano</a></li>
+<li><a href="/wiki/Nuyorican" title="Nuyorican">Nuyorican</a></li>
+<li><a href="/wiki/Tejano" title="Tejano">Tejano</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Lists</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="plainlist">
+<ul><li><a class="mw-redirect" href="/wiki/List_of_U.S._communities_with_Hispanic_majority_populations_in_the_2010_census" title="List of U.S. communities with Hispanic majority populations in the 2010 census">Communities with Hispanic majority</a></li>
+<li><a href="/wiki/List_of_Hispanic_and_Latino_Americans" title="List of Hispanic and Latino Americans">Hispanic and Latino Americans</a></li>
+<li><a href="/wiki/Outline_of_Puerto_Rico" title="Outline of Puerto Rico">Puerto Rico</a></li>
+<li><a href="/wiki/Category:Hispanic_and_Latino_American_people" title="Category:Hispanic and Latino American people">Related topics</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Hispanic_and_Latino_Americans" title="Template:Hispanic and Latino Americans"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Hispanic_and_Latino_Americans" title="Template talk:Hispanic and Latino Americans"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Hispanic_and_Latino_Americans&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<h3><span class="mw-headline" id="Leadership_and_academic_programs">Leadership and academic programs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=2" title="Edit section: Leadership and academic programs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since its first program in 1981, the National Hispanic Institute has identified and selected high-ability youth to participate in its leadership and academic development experiences.  These selected students are intellectually challenged to alter old, strident views that have historically framed their understanding of Hispanics and Latinos.<sup class="reference" id="cite_ref-nhi-net.org_3-4"><a href="#cite_note-nhi-net.org-3">[3]</a></sup>  According to its website, NHI's leadership programs pursue four key outcomes:
+</p>
+<ul><li>Instead of continuing the popularly held social notions of a people at the bottom of the human scale, students are presented with a new view, one of an energetic, dynamic, and powerful intertwined culture of global dimensions and potential.</li>
+<li>Instead of perceiving their educational development as being driven by the need to champion the cause of downtrodden communities, students develop an appreciation for the roles that intellectually, socially, and culturally play a role in guiding and advancing the equity, wealth, and skill-building trajectory of the future their community.</li>
+<li>Instead of viewing themselves as a collection of individuals from different nationalities, countries and backgrounds, students embrace the concept of a world-wide culture of Latinos tied together by a commonality of historical events, experiences, and language.</li>
+<li>Instead of being guided by an urgency to avoid causing potential harm to the American and global quality of life, students’ calling to leadership is invigorated by the excitement of supplying new strength, vigor, and promise to the American and global experience.<sup class="reference" id="cite_ref-nhi-net.org_3-5"><a href="#cite_note-nhi-net.org-3">[3]</a></sup></li></ul>
+<p>NHI leadership programs are hosted on the campuses of notable universities that are members of the organization's consortium known as the NHI College Register (NHI CR).  The leadership programs have historically been hosted on campuses in Texas, Arizona, Colorado, Illinois, Indiana, New Mexico, New York, Pennsylvania, and Washington State in the continental United States. They have also been hosted in Argentina, Mexico, Panama, Puerto Rico, and Spain.<sup class="reference" id="cite_ref-nhi-net.org_3-6"><a href="#cite_note-nhi-net.org-3">[3]</a></sup>
+</p>
+<h4><span class="mw-headline" id="The_Great_Debate">The Great Debate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=3" title="Edit section: The Great Debate">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><b>(for students between 9th and 10th grade)</b>
+</p><p>Each Great Debate conference hosts between 150-300 students and discusses complex themes that are important to the growth and leadership supply of the Latino community. NHI’s goal is for youth to increase their capacity to express thought, respond to intellectual challenge, work in organized endeavors and compete against their top peers. Beyond learning about important community issues, you gain a support network of NHI alumni, including education directors, mentors and coaches. These volunteers are former participants of the Great Debate and other NHI leadership programs like the Lorenzo de Zavala Youth Legislative Session and Collegiate World Series. They dedicate hundreds of hours of their time to advance your leadership readiness. In addition, our university hosts/partners invest in supplying their campuses and facilities to support your leadership development. As a Great Debate student, receive other opportunities as well – like participation as a volunteer mentor, opportunities to win invitations to Celebración, future programs and access to the NHI College Register network.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p>
+<h4><span id="Lorenzo_de_Zavala_Youth_Legislative_Session_.28LDZ.29"></span><span class="mw-headline" id="Lorenzo_de_Zavala_Youth_Legislative_Session_(LDZ)">Lorenzo de Zavala Youth Legislative Session (LDZ)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=4" title="Edit section: Lorenzo de Zavala Youth Legislative Session (LDZ)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><b>(for students between 10th and 11th grade, or between 11th and 12th grade)</b>
+</p><p>This experience is an opportunity for young people to learn how to navigate, manage and create large organizations by taking charge of their own youth government and proposing future community policies and projects. Since the first project in Austin, Texas, in 1982, students from over 25 states and four Latin American nations have convened at one of six host sites to play this leadership game of vision, influence and construction of communities of the future. Each host site serves between 150-200 students from throughout the United States and parts of Latin America. 
+</p><p>Programs are staffed and supervised by fully certified NHI undergraduate Senior Counselors, graduate volunteers, and adult professionals who do an annual “Week of NHI Service” as Education Directors.
+</p><p><br/>
+</p>
+<h4><span id="Collegiate_World_Series_.28CWS.29"></span><span class="mw-headline" id="Collegiate_World_Series_(CWS)">Collegiate World Series (CWS)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=5" title="Edit section: Collegiate World Series (CWS)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><b>(for students between 11th and 12th grade)</b>
+</p><p>NHI is familiar with the fact that from one day to the next, high school seniors are expected to make the transition to independent adult life. The CWS prepares students for the emotional ups and downs of adapting to life away from their parents, making large financial investments, managing time effectively, understanding various cultures and lifestyles different from their own, and making critical decisions that eventually chart the course of their life journey. 
+</p><p>For five days, the CWS shepherds students into the transition of going into independent mode – adulthood – and the responsibilities that come with it. Inquiry Based Learning (IBL) is the core methodology of this program, which engages students in an investigative and question-driven approach to mapping out the next 12 to 60 months of their lives.
+</p><p>Of NHI’s three high school leadership programs, the CWS represents the most serious and thought-provoking experience. It is also the program that tests students’ ability to transform challenges into workable solutions.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> 
+</p>
+<h4><span id="Celebraci.C3.B3n"></span><span class="mw-headline" id="Celebración">Celebración</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=6" title="Edit section: Celebración">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Celebración is The National Hispanic Institute’s showcase event that annually invites its high school age and undergraduate students to participate in a four-day experience that introduces them to community social entrepreneurship as part of their continued involvement in leadership training.
+</p><p>Nearly 450 high school students and 100 undergraduate students attend this event, not to mention an additional 100 alumni who also convene to discuss ways of furthering the work and mission of the organization. Other features of Celebración include a private college fair, an alumni awards banquet, student entertainment, awards recognition and opportunities for all participants to broaden their social networks and contacts among individuals who actively work to help change the lives of others.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p>
+<h4><span id="John_F._Lopez_Fellowship_.28JFL.29"></span><span class="mw-headline" id="John_F._Lopez_Fellowship_(JFL)">John F. Lopez Fellowship (JFL)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=7" title="Edit section: John F. Lopez Fellowship (JFL)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><b>(for college students)</b>
+</p><p>The JFL Fellowship gives high-achieving college students the opportunity to develop their ability to mobilize communities and operate at executive levels and provides these students with a means to share their developing knowledge and expertise with others. As counselors, research specialists, trainers and planners, fellows gain direct interactive experiences that enable them to critically examine the needs and capacities required for future leadership.  Named in honor of NHI alumnus and Board member, John F. Lopez, Jr., the JFL Fellowship is designed to elicit qualities of spirit, creativity, and talent.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Leadership_and_education_research">Leadership and education research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=8" title="Edit section: Leadership and education research">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>NHI annually conducts independent research focused on leadership and educational development via its Collaborative Research Center (CRC), its Leadership Service Center (LSC) at Villanova University, and its newly formed partnership with the Center for Hispanic Studies at Southwestern University.
+</p>
+<h4><span class="mw-headline" id="Collaborative_Research_Center">Collaborative Research Center</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=9" title="Edit section: Collaborative Research Center">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The Collaborative Research Center (CRC) allows NHI to carry out research in collaboration with diverse community partners.  The research across several youth populations includes the study of Latinos from upwardly mobile families, urban inner city settings, rural communities, and immigrant backgrounds. This research allows NHI to remain current regarding the thinking and trends of these different population groups from the perspective of their educational aspirations, career interests, income levels, parent backgrounds and perceptions, youth attitudes towards the Latino community, levels of community involvement, and a host of other activity areas that include political participation, generational dynamics, purchasing trends, etc.<sup class="reference" id="cite_ref-nhi-net.org_3-7"><a href="#cite_note-nhi-net.org-3">[3]</a></sup>
+</p><p>CRC research is used primarily for internal use and study, however, more recently<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (July 2019)">when?</span></a></i>]</sup> NHI research has been requested for various uses. NHI's CRC studies are currently being aimed to assist institutions of higher learning in their outreach and recruitment efforts, as well as to improve their undergraduate retention rates.  Additionally, the CRC is compiling and analyzing data regarding both the U.S. and global Latino community's long-term capacities to maintain organizational effectiveness in an era of extreme population growth.<sup class="reference" id="cite_ref-nhi-net.org_3-8"><a href="#cite_note-nhi-net.org-3">[3]</a></sup>
+</p>
+<h4><span id="Leadership_Service_Center_.28LSC.29_at_Villanova_University"></span><span class="mw-headline" id="Leadership_Service_Center_(LSC)_at_Villanova_University">Leadership Service Center (LSC) at Villanova University</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=10" title="Edit section: Leadership Service Center (LSC) at Villanova University">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In October 2004, Villanova University and NHI announced a national partnership to jointly launch the Leadership Service Center (LSC) on the campus of Villanova University. The LSC was established to jointly investigate how institutions of higher learning such as Villanova University could advance and develop the Latino college campus community and better develop innovative community outreach that could effectively strengthen both partner's name recognition in northeastern United States Hispanic/Latino communities <sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p><p>Via this national partnership, Villanova and NHI have mutually cultivated community relationships, organized a successful community-based infrastructure, and have effectively engaged key sectors of the high-ability Hispanic/Latino youth community in the northeastern United States.  Having inaugurated the LSC at Villanova University in 2004, this joint effort has already begun to prepare young bright Latino men and women for leadership roles in their communities.<sup class="reference" id="cite_ref-publications.villanova.edu_14-0"><a href="#cite_note-publications.villanova.edu-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Partnership_with_Center_for_Hispanic_Studies_at_Southwestern_University">Partnership with Center for Hispanic Studies at Southwestern University</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=11" title="Edit section: Partnership with Center for Hispanic Studies at Southwestern University">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In February 2008, Southwestern University and NHI announced they would jointly be launching a partnership with the Center for Hispanic Studies on the campus of Southwestern University.  The partnership's intent is to research and evaluate college-readiness programs for Hispanic youth. Specifically, the center's intent is to open doors to conducting much-needed research on the impact of community intervention strategies via leadership and education such as those offered by NHI.  The partnership is expected to augment the capacity of NHI's ongoing research via its CRC.<sup class="reference" id="cite_ref-nhi-net.org_3-9"><a href="#cite_note-nhi-net.org-3">[3]</a></sup><sup class="reference" id="cite_ref-bizjournals.com_8-1"><a href="#cite_note-bizjournals.com-8">[8]</a></sup>
+</p>
+<h3><span class="mw-headline" id="College_Register">College Register</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=12" title="Edit section: College Register">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>NHI's College Register was founded and launched in 1989, as a consortium of select and notable post-secondary, four-year institutions that work closely with NHI to develop a new reservoir of Hispanic and Latino leaders that will make an impact on the global Latino community.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</p><p>The College Register is committed to increasing the numbers of Latino students at notable 4-year institutions and towards the advancement and development of the Hispanic/Latino college campus community. Since its inception, the College Register and NHI have developed programs that have created new market techniques for conducting outreach to Latino families, name-branded member institutions among the college bound Hispanic/Latino youth community, and cultivated strong and effective leadership among Hispanic/Latino campus leaders.<sup class="reference" id="cite_ref-nhicr.org_17-0"><a href="#cite_note-nhicr.org-17">[17]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Member_institutions">Member institutions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=13" title="Edit section: Member institutions">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>According to the NHI College Register directory, the following institutions are active members of NHI's consortium of notable colleges and universities:<sup class="reference" id="cite_ref-nhicr.org_17-1"><a href="#cite_note-nhicr.org-17">[17]</a></sup>
+</p>
+<ul><li><a href="/wiki/American_University" title="American University">American University</a>, <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a></li>
+<li><a href="/wiki/Amherst_College" title="Amherst College">Amherst College</a>, <a href="/wiki/Amherst,_Massachusetts" title="Amherst, Massachusetts">Amherst, Massachusetts</a></li>
+<li><a href="/wiki/Augustana_College_(Illinois)" title="Augustana College (Illinois)">Augustana College</a>, <a href="/wiki/Rock_Island,_Illinois" title="Rock Island, Illinois">Rock Island, Illinois</a></li>
+<li><a href="/wiki/Austin_College" title="Austin College">Austin College</a>, <a href="/wiki/Sherman,_Texas" title="Sherman, Texas">Sherman, Texas</a></li>
+<li><a href="/wiki/Baylor_University" title="Baylor University">Baylor University</a>, <a href="/wiki/Waco,_Texas" title="Waco, Texas">Waco, Texas</a></li>
+<li><a href="/wiki/Beloit_College" title="Beloit College">Beloit College</a>, <a href="/wiki/Beloit,_Wisconsin" title="Beloit, Wisconsin">Beloit, Wisconsin</a></li>
+<li><a href="/wiki/Boston_University" title="Boston University">Boston University</a>, <a class="mw-redirect" href="/wiki/Boston,_Massachusetts" title="Boston, Massachusetts">Boston, Massachusetts</a></li>
+<li><a href="/wiki/Brown_University" title="Brown University">Brown University</a>, <a href="/wiki/Providence,_Rhode_Island" title="Providence, Rhode Island">Providence, Rhode Island</a></li>
+<li><a href="/wiki/Buena_Vista_University" title="Buena Vista University">Buena Vista University</a>, <a href="/wiki/Storm_Lake,_Iowa" title="Storm Lake, Iowa">Storm Lake, Iowa</a></li>
+<li><a href="/wiki/Butler_University" title="Butler University">Butler University</a>, <a class="mw-redirect" href="/wiki/Indianapolis,_Indiana" title="Indianapolis, Indiana">Indianapolis, Indiana</a></li>
+<li><a href="/wiki/Carleton_College" title="Carleton College">Carleton College</a>, <a href="/wiki/Northfield,_Minnesota" title="Northfield, Minnesota">Northfield, Minnesota</a></li>
+<li><a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a>, <a class="mw-redirect" href="/wiki/Pittsburgh,_Pennsylvania" title="Pittsburgh, Pennsylvania">Pittsburgh, Pennsylvania</a></li>
+<li><a href="/wiki/Colgate_University" title="Colgate University">Colgate University</a>, <a href="/wiki/Hamilton_(village),_New_York" title="Hamilton (village), New York">Hamilton, New York</a></li>
+<li><a href="/wiki/Colorado_State_University" title="Colorado State University">Colorado State University</a>, <a href="/wiki/Fort_Collins,_Colorado" title="Fort Collins, Colorado">Fort Collins, Colorado</a></li>
+<li><a href="/wiki/Colorado_College" title="Colorado College">Colorado College</a>, <a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs, Colorado</a></li>
+<li><a href="/wiki/DePaul_University" title="DePaul University">DePaul University</a>, <a class="mw-redirect" href="/wiki/Chicago,_Illinois" title="Chicago, Illinois">Chicago, Illinois</a></li>
+<li><a href="/wiki/DePauw_University" title="DePauw University">DePauw University</a>, <a href="/wiki/Greencastle,_Indiana" title="Greencastle, Indiana">Greencastle, Indiana</a></li>
+<li><a href="/wiki/Earlham_College" title="Earlham College">Earlham College</a>, <a href="/wiki/Richmond,_Indiana" title="Richmond, Indiana">Richmond, Indiana</a></li>
+<li><a class="mw-redirect" href="/wiki/Instituto_Tecnol%C3%B3gico_y_de_Estudios_Superiores_de_Monterrey" title="Instituto Tecnológico y de Estudios Superiores de Monterrey">Instituto Tecnológico y de Estudios Superiores de Monterrey</a>, <a class="mw-redirect" href="/wiki/Monterrey,_Nuevo_Le%C3%B3n,_Mexico" title="Monterrey, Nuevo León, Mexico">Monterrey, Nuevo León, Mexico</a></li>
+<li><a href="/wiki/Emerson_College" title="Emerson College">Emerson College</a>, <a class="mw-redirect" href="/wiki/Boston,_Massachusetts" title="Boston, Massachusetts">Boston, Massachusetts</a></li>
+<li><a href="/wiki/George_Washington_University" title="George Washington University">George Washington University</a>, <a class="mw-redirect" href="/wiki/Washington,_DC" title="Washington, DC">Washington, DC</a></li>
+<li><a href="/wiki/Howard_Payne_University" title="Howard Payne University">Howard Payne University</a>, <a href="/wiki/Brownwood,_Texas" title="Brownwood, Texas">Brownwood, Texas</a></li>
+<li><a href="/wiki/Illinois_Wesleyan_University" title="Illinois Wesleyan University">Illinois Wesleyan University</a>, <a href="/wiki/Bloomington,_Illinois" title="Bloomington, Illinois">Bloomington, Illinois</a></li>
+<li><a href="/wiki/Indiana_University" title="Indiana University">Indiana University</a>, <a href="/wiki/Bloomington,_Indiana" title="Bloomington, Indiana">Bloomington, Indiana</a></li>
+<li><a href="/wiki/Iowa_State_University" title="Iowa State University">Iowa State University</a>, <a href="/wiki/Ames,_Iowa" title="Ames, Iowa">Ames, Iowa</a></li>
+<li><a href="/wiki/Lafayette_College" title="Lafayette College">Lafayette College</a>, <a href="/wiki/Easton,_Pennsylvania" title="Easton, Pennsylvania">Easton, Pennsylvania</a></li>
+<li><a href="/wiki/Loyola_University_Chicago" title="Loyola University Chicago">Loyola University Chicago</a>, <a class="mw-redirect" href="/wiki/Chicago,_Illinois" title="Chicago, Illinois">Chicago, Illinois</a></li>
+<li><a href="/wiki/Macalester_College" title="Macalester College">Macalester College</a>, <a class="mw-redirect" href="/wiki/St._Paul,_Minnesota" title="St. Paul, Minnesota">St. Paul, Minnesota</a></li>
+<li><a class="mw-redirect" href="/wiki/Massachusetts_College_of_Pharmacy_and_Health_Sciences" title="Massachusetts College of Pharmacy and Health Sciences">Massachusetts College of Pharmacy and Health Sciences</a>, <a class="mw-redirect" href="/wiki/Boston,_Massachusetts" title="Boston, Massachusetts">Boston, Massachusetts</a></li>
+<li><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a>, <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a></li>
+<li><a href="/wiki/New_College_of_Florida" title="New College of Florida">New College of Florida</a>, <a href="/wiki/Sarasota,_Florida" title="Sarasota, Florida">Sarasota, Florida</a></li>
+<li><a href="/wiki/New_York_University" title="New York University">New York University</a>, <a class="mw-redirect" href="/wiki/New_York,_New_York" title="New York, New York">New York, New York</a></li>
+<li><a href="/wiki/Northwestern_University" title="Northwestern University">Northwestern University</a>, <a href="/wiki/Evanston,_Illinois" title="Evanston, Illinois">Evanston, Illinois</a></li>
+<li><a href="/wiki/Ohio_State_University" title="Ohio State University">Ohio State University</a>, <a href="/wiki/Columbus,_Ohio" title="Columbus, Ohio">Columbus, Ohio</a></li>
+<li><a href="/wiki/Rice_University" title="Rice University">Rice University</a>, <a class="mw-redirect" href="/wiki/Houston,_Texas" title="Houston, Texas">Houston, Texas</a></li>
+<li><a href="/wiki/Rochester_Institute_of_Technology" title="Rochester Institute of Technology">Rochester Institute of Technology</a>, <a href="/wiki/Rochester,_New_York" title="Rochester, New York">Rochester, New York</a></li>
+<li><a href="/wiki/St._Edward%27s_University" title="St. Edward's University">St. Edward's University</a>, <a href="/wiki/Austin,_Texas" title="Austin, Texas">Austin, Texas</a></li>
+<li><a href="/wiki/Saint_Mary%27s_College_(Indiana)" title="Saint Mary's College (Indiana)">Saint Mary's College</a>, <a href="/wiki/Notre_Dame,_Indiana" title="Notre Dame, Indiana">Notre Dame, Indiana</a></li>
+<li><a class="mw-redirect" href="/wiki/Simmons_College_(Massachusetts)" title="Simmons College (Massachusetts)">Simmons College</a>, <a class="mw-redirect" href="/wiki/Boston,_Massachusetts" title="Boston, Massachusetts">Boston, Massachusetts</a></li>
+<li><a href="/wiki/Smith_College" title="Smith College">Smith College</a>, <a href="/wiki/Northampton,_Massachusetts" title="Northampton, Massachusetts">Northampton, Massachusetts</a></li>
+<li><a href="/wiki/Southern_Methodist_University" title="Southern Methodist University">Southern Methodist University</a>, <a class="mw-redirect" href="/wiki/Dallas,_Texas" title="Dallas, Texas">Dallas, Texas</a></li>
+<li><a href="/wiki/Southwestern_University" title="Southwestern University">Southwestern University</a>, <a href="/wiki/Georgetown,_Texas" title="Georgetown, Texas">Georgetown, Texas</a></li>
+<li><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>, <a href="/wiki/Stanford,_California" title="Stanford, California">Stanford, California</a></li>
+<li><a href="/wiki/Sul_Ross_State_University" title="Sul Ross State University">Sul Ross State University</a>, <a href="/wiki/Alpine,_Texas" title="Alpine, Texas">Alpine, Texas</a></li>
+<li><a href="/wiki/Texas_A%26M_University" title="Texas A&amp;M University">Texas A&amp;M University</a>, <a href="/wiki/College_Station,_Texas" title="College Station, Texas">College Station, Texas</a></li>
+<li><a href="/wiki/Texas_Christian_University" title="Texas Christian University">Texas Christian University</a>, <a href="/wiki/Fort_Worth,_Texas" title="Fort Worth, Texas">Fort Worth, Texas</a></li>
+<li><a href="/wiki/Texas_State_University" title="Texas State University">Texas State University</a>, <a href="/wiki/San_Marcos,_Texas" title="San Marcos, Texas">San Marcos, Texas</a></li>
+<li><a href="/wiki/Texas_Tech_University" title="Texas Tech University">Texas Tech University</a>, <a href="/wiki/Lubbock,_Texas" title="Lubbock, Texas">Lubbock, Texas</a></li>
+<li><a href="/wiki/Trinity_College_(Connecticut)" title="Trinity College (Connecticut)">Trinity College</a>, <a href="/wiki/Hartford,_Connecticut" title="Hartford, Connecticut">Hartford, Connecticut</a></li>
+<li><a href="/wiki/Trinity_University_(Texas)" title="Trinity University (Texas)">Trinity University</a>, <a class="mw-redirect" href="/wiki/San_Antonio,_Texas" title="San Antonio, Texas">San Antonio, Texas</a></li>
+<li><a href="/wiki/Tufts_University" title="Tufts University">Tufts University</a>, <a href="/wiki/Medford,_Massachusetts" title="Medford, Massachusetts">Medford, Massachusetts</a></li>
+<li><a href="/wiki/Tulane_University" title="Tulane University">Tulane University</a>, <a class="mw-redirect" href="/wiki/New_Orleans,_Louisiana" title="New Orleans, Louisiana">New Orleans, Louisiana</a></li>
+<li><a href="/wiki/University_of_Arizona" title="University of Arizona">University of Arizona</a>, <a href="/wiki/Tucson,_Arizona" title="Tucson, Arizona">Tucson, Arizona</a></li>
+<li><a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a>, <a class="mw-redirect" href="/wiki/Chicago,_Illinois" title="Chicago, Illinois">Chicago, Illinois</a></li>
+<li><a href="/wiki/University_of_New_Mexico" title="University of New Mexico">University of New Mexico</a>, <a href="/wiki/Albuquerque,_New_Mexico" title="Albuquerque, New Mexico">Albuquerque, New Mexico</a></li>
+<li><a href="/wiki/University_of_Rochester" title="University of Rochester">University of Rochester</a>, <a href="/wiki/Rochester,_New_York" title="Rochester, New York">Rochester, New York</a></li>
+<li><a href="/wiki/University_of_Texas_at_Austin" title="University of Texas at Austin">University of Texas at Austin</a>, <a href="/wiki/Austin,_Texas" title="Austin, Texas">Austin, Texas</a></li>
+<li><a href="/wiki/University_of_Tulsa" title="University of Tulsa">University of Tulsa</a>, <a href="/wiki/Tulsa,_Oklahoma" title="Tulsa, Oklahoma">Tulsa, Oklahoma</a></li>
+<li><a href="/wiki/Valparaiso_University" title="Valparaiso University">Valparaiso University</a>, <a href="/wiki/Valparaiso,_Indiana" title="Valparaiso, Indiana">Valparaiso, Indiana</a></li>
+<li><a href="/wiki/Villanova_University" title="Villanova University">Villanova University</a>, <a href="/wiki/Villanova,_Pennsylvania" title="Villanova, Pennsylvania">Villanova, Pennsylvania</a></li>
+<li><a href="/wiki/Washington_State_University" title="Washington State University">Washington State University</a>, <a href="/wiki/Pullman,_Washington" title="Pullman, Washington">Pullman, Washington</a></li>
+<li><a class="mw-redirect" href="/wiki/Washington_University" title="Washington University">Washington University</a>, <a class="mw-redirect" href="/wiki/St._Louis,_Missouri" title="St. Louis, Missouri">St. Louis, Missouri</a></li>
+<li><a href="/wiki/Wellesley_College" title="Wellesley College">Wellesley College</a>, <a href="/wiki/Wellesley,_Massachusetts" title="Wellesley, Massachusetts">Wellesley, Massachusetts</a></li>
+<li><a href="/wiki/Wheaton_College_(Illinois)" title="Wheaton College (Illinois)">Wheaton College</a>, <a href="/wiki/Wheaton,_Illinois" title="Wheaton, Illinois">Wheaton, Illinois</a></li>
+<li><a href="/wiki/Whitman_College" title="Whitman College">Whitman College</a>, <a href="/wiki/Walla_Walla,_Washington" title="Walla Walla, Washington">Walla Walla, Washington</a></li>
+<li><a href="/wiki/William_Jewell_College" title="William Jewell College">William Jewell College</a>, <a href="/wiki/Liberty,_Missouri" title="Liberty, Missouri">Liberty, Missouri</a></li>
+<li><a href="/wiki/Yale_University" title="Yale University">Yale University</a>, <a href="/wiki/New_Haven,_Connecticut" title="New Haven, Connecticut">New Haven, Connecticut</a></li></ul>
+<h2><span class="mw-headline" id="Achievements">Achievements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=14" title="Edit section: Achievements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd><dl><dd>- NHI students gain admission to 9 out of 10 schools.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (July 2019)">clarification needed</span></a></i>]</sup><sup class="reference" id="cite_ref-nhicr.org_17-2"><a href="#cite_note-nhicr.org-17">[17]</a></sup></dd>
+<dd>- 98% of NHI students attend a four year university.<sup class="reference" id="cite_ref-nhicr.org_17-3"><a href="#cite_note-nhicr.org-17">[17]</a></sup><sup class="reference" id="cite_ref-kiiitv.com_18-0"><a href="#cite_note-kiiitv.com-18">[18]</a></sup></dd>
+<dd>- 90% of NHI students graduate in 4 to 5 years.<sup class="reference" id="cite_ref-nhicr.org_17-4"><a href="#cite_note-nhicr.org-17">[17]</a></sup><sup class="reference" id="cite_ref-kiiitv.com_18-1"><a href="#cite_note-kiiitv.com-18">[18]</a></sup></dd>
+<dd>- over 70% receive financial scholarships<sup class="reference" id="cite_ref-kiiitv.com_18-2"><a href="#cite_note-kiiitv.com-18">[18]</a></sup></dd></dl></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:National_Hispanic_Institute_(logo).jpg"><img alt="" class="thumbimage" data-file-height="61" data-file-width="259" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/en/thumb/1/14/National_Hispanic_Institute_%28logo%29.jpg/250px-National_Hispanic_Institute_%28logo%29.jpg" srcset="//upload.wikimedia.org/wikipedia/en/1/14/National_Hispanic_Institute_%28logo%29.jpg 1.5x" width="250"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:National_Hispanic_Institute_(logo).jpg" title="Enlarge"></a></div>NHI original logo</div></div></div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=15" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>NHI was founded in 1979 by Ernesto Nieto and Gloria de Leon in Austin, Texas.<sup class="reference" id="cite_ref-Nieto,_Ernesto_2001_19-0"><a href="#cite_note-Nieto,_Ernesto_2001-19">[19]</a></sup></li></ul>
+<ul><li>The organization's main office was first located at <a href="/wiki/Concordia_University_Texas" title="Concordia University Texas">Concordia University Texas</a>.<sup class="reference" id="cite_ref-Nieto,_Ernesto_2001_19-1"><a href="#cite_note-Nieto,_Ernesto_2001-19">[19]</a></sup></li></ul>
+<ul><li>NHI created Young Leaders Conference (YLC) in 1981 at the <a href="/wiki/Lyndon_B._Johnson_School_of_Public_Affairs" title="Lyndon B. Johnson School of Public Affairs">Lyndon B. Johnson School of Public Affairs</a>.<sup class="reference" id="cite_ref-youtube.com_20-0"><a href="#cite_note-youtube.com-20">[20]</a></sup></li></ul>
+<ul><li>NHI created Lorenzo de Zavala Youth Legislative Session (LDZ) in 1983 at <a href="/wiki/Concordia_University_Texas" title="Concordia University Texas">Concordia University Texas</a>.<sup class="reference" id="cite_ref-youtube.com_20-1"><a href="#cite_note-youtube.com-20">[20]</a></sup></li></ul>
+<ul><li>NHI's headquarters and administrative offices were moved to <a href="/wiki/Maxwell,_Texas" title="Maxwell, Texas">Maxwell, Texas</a>, outside of Austin, in 1985.<sup class="reference" id="cite_ref-Nieto,_Ernesto_2001_19-2"><a href="#cite_note-Nieto,_Ernesto_2001-19">[19]</a></sup></li></ul>
+<p>- Nieto published his book <i>Third Reality: Crafting a 21st Century Hispanic/Latino Agenda</i>, in 2001.<sup class="reference" id="cite_ref-southwestern.edu_21-0"><a href="#cite_note-southwestern.edu-21">[21]</a></sup>
+</p>
+<ul><li>NHI celebrated its 25th anniversary in July 2001.</li></ul>
+<ul><li>NHI opened its Leadership Service Center and East Coast Outreach Office at Villanova University in October 2004.<sup class="reference" id="cite_ref-publications.villanova.edu_14-1"><a href="#cite_note-publications.villanova.edu-14">[14]</a></sup></li></ul>
+<ul><li>NHI announced its Center for Hispanic Studies at Southwestern University in February 2008.<sup class="reference" id="cite_ref-bizjournals.com_8-2"><a href="#cite_note-bizjournals.com-8">[8]</a></sup></li></ul>
+<ul><li><a href="/wiki/Alexandria_Ocasio-Cortez" title="Alexandria Ocasio-Cortez">Alexandria Ocasio-Cortez</a> held the position of Educational Director at NHI, according to her 2018 financial disclosures.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup></li></ul>
+<h2><span class="mw-headline" id="Founders">Founders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=16" title="Edit section: Founders">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Ernesto_Nieto" title="Ernesto Nieto">Ernesto Nieto</a> and Gloria de Leon are the co-founders of the National Hispanic Institute. Nieto has served as President since the organization's inception in 1979. He served in various management positions in both the state and federal government. In 1979, he decided to leave his work in government to pursue his vision of creating a leadership institute for Hispanic/Latino youth.<sup class="reference" id="cite_ref-southwestern.edu_21-1"><a href="#cite_note-southwestern.edu-21">[21]</a></sup>
+</p><p>Nieto has received the Eagle Leadership Award by the <a href="/wiki/El_Paso,_Texas" title="El Paso, Texas">El Paso, Texas</a> City Council, the Meritorious Service Award by Southwestern University, and honorary Doctor of Humane Letters degree from Texas Wesleyan University in Fort Worth, Texas. He also has been honored as a "Distinguished Alumnus" of both Southwestern University and Jefferson Davis High School. Other awards include the Southwestern University's Citation of Merit Award for Community Service and the Human Relations Award from the National Association for College Admissions Counseling.<sup class="reference" id="cite_ref-southwestern.edu_21-2"><a href="#cite_note-southwestern.edu-21">[21]</a></sup>
+</p><p>Nieto has recently<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (July 2019)">when?</span></a></i>]</sup> come under fire as young women in the organization have called to issue his coverup of inappropriate staff conduct with young adults and volunteers.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Ratings-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ratings_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ratings_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://990s.foundationcenter.org/990_pdf_archive/742/742055923/742055923_201508_990.pdf" rel="nofollow">"National Hispanic Institute Inc"</a> <span class="cs1-format">(PDF)</span>. <i>Foundation Center</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Foundation+Center&amp;rft.atitle=National+Hispanic+Institute+Inc.&amp;rft_id=http%3A%2F%2F990s.foundationcenter.org%2F990_pdf_archive%2F742%2F742055923%2F742055923_201508_990.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Hispanic+Institute"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.prweb.com/releases/2008/02/prweb729744.htm" rel="nofollow">http://www.prweb.com/releases/2008/02/prweb729744.htm</a></span>
+</li>
+<li id="cite_note-nhi-net.org-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-nhi-net.org_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nhi-net.org_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nhi-net.org_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-nhi-net.org_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-nhi-net.org_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-nhi-net.org_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-nhi-net.org_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-nhi-net.org_3-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-nhi-net.org_3-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-nhi-net.org_3-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text"><a class="external free" href="http://nhi-net.org/AboutNHI/Mission/tabid/59/Default.aspx" rel="nofollow">http://nhi-net.org/AboutNHI/Mission/tabid/59/Default.aspx</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.nhi-net.org/Events/NHISummerProgramsDates/tabid/190/Default.aspx" rel="nofollow">http://www.nhi-net.org/Events/NHISummerProgramsDates/tabid/190/Default.aspx</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.brownsvilleherald.com/articles/nhi-78640-students-coello.html" rel="nofollow">"Leadership Development"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leadership+Development&amp;rft_id=http%3A%2F%2Fwww.brownsvilleherald.com%2Farticles%2Fnhi-78640-students-coello.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Hispanic+Institute"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Register, NHI College. <a class="external text" href="http://www.nhicr.org/MemberDirectory/tabid/56/Default.aspx" rel="nofollow">"2016 Member Directory"</a>. <i>www.nhicr.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.nhicr.org&amp;rft.atitle=2016+Member+Directory&amp;rft.aulast=Register&amp;rft.aufirst=NHI+College&amp;rft_id=http%3A%2F%2Fwww.nhicr.org%2FMemberDirectory%2Ftabid%2F56%2FDefault.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Hispanic+Institute"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.zwire.com/site/news.cfm?BRD=1677&amp;dept_id=82748&amp;newsid=12843962&amp;PAG=461&amp;rfi=9" rel="nofollow">http://www.zwire.com/site/news.cfm?BRD=1677&amp;dept_id=82748&amp;newsid=12843962&amp;PAG=461&amp;rfi=9</a></span>
+</li>
+<li id="cite_note-bizjournals.com-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-bizjournals.com_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bizjournals.com_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bizjournals.com_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a class="external free" href="http://www.bizjournals.com/austin/stories/2008/02/04/daily20.html" rel="nofollow">http://www.bizjournals.com/austin/stories/2008/02/04/daily20.html</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.nationalhispanicinstitute.org/great-debate/" rel="nofollow">"The Great Debate - The National Hispanic Institute"</a>. <i>www.nationalhispanicinstitute.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.nationalhispanicinstitute.org&amp;rft.atitle=The+Great+Debate+-+The+National+Hispanic+Institute&amp;rft_id=https%3A%2F%2Fwww.nationalhispanicinstitute.org%2Fgreat-debate%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Hispanic+Institute"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.nationalhispanicinstitute.org/cws/" rel="nofollow">"Collegiate World Series - The National Hispanic Institute"</a>. <i>www.nationalhispanicinstitute.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.nationalhispanicinstitute.org&amp;rft.atitle=Collegiate+World+Series+-+The+National+Hispanic+Institute&amp;rft_id=https%3A%2F%2Fwww.nationalhispanicinstitute.org%2Fcws%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Hispanic+Institute"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.nationalhispanicinstitute.org/celebracion/" rel="nofollow">"About Celebración - The National Hispanic Institute"</a>. <i>www.nationalhispanicinstitute.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.nationalhispanicinstitute.org&amp;rft.atitle=About+Celebraci%C3%B3n+-+The+National+Hispanic+Institute&amp;rft_id=https%3A%2F%2Fwww.nationalhispanicinstitute.org%2Fcelebracion%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Hispanic+Institute"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"> <a class="external text" href="http://www.nhi-net.org/Programs/CollegePrograms/JohnFLopezSummerInternship/tabid/69/Default.aspx" rel="nofollow">http://www.nhi-net.org/Programs/CollegePrograms/JohnFLopezSummerInternship/tabid/69/Default.aspx</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 November</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nhi-net.org%2FPrograms%2FCollegePrograms%2FJohnFLopezSummerInternship%2Ftabid%2F69%2FDefault.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Hispanic+Institute"></span> <span class="cs1-visible-error error citation-comment">Missing or empty <code class="cs1-code">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.publications.villanova.edu/blueprints/september2004/vupartnership.htm" rel="nofollow">http://www.publications.villanova.edu/blueprints/september2004/vupartnership.htm</a></span>
+</li>
+<li id="cite_note-publications.villanova.edu-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-publications.villanova.edu_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-publications.villanova.edu_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external free" href="http://www.publications.villanova.edu/blueprints/october2004/vnhi.htm" rel="nofollow">http://www.publications.villanova.edu/blueprints/october2004/vnhi.htm</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.publications.villanova.edu/blueprints/December2004/lawschool.htm" rel="nofollow">http://www.publications.villanova.edu/blueprints/December2004/lawschool.htm</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Register, NHI College. <a class="external text" href="http://www.nhicr.org/Home/tabid/36/Default.aspx" rel="nofollow">"NHI College Register"</a>. <i>www.nhicr.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.nhicr.org&amp;rft.atitle=NHI+College+Register&amp;rft.aulast=Register&amp;rft.aufirst=NHI+College&amp;rft_id=http%3A%2F%2Fwww.nhicr.org%2FHome%2Ftabid%2F36%2FDefault.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Hispanic+Institute"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-nhicr.org-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-nhicr.org_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nhicr.org_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nhicr.org_17-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-nhicr.org_17-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-nhicr.org_17-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Register, NHI College. <a class="external text" href="http://www.nhicr.org/AboutUs/AboutTheCollegeRegister/tabid/58/Default.aspx" rel="nofollow">"About The College Register"</a>. <i>www.nhicr.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.nhicr.org&amp;rft.atitle=About+The+College+Register&amp;rft.aulast=Register&amp;rft.aufirst=NHI+College&amp;rft_id=http%3A%2F%2Fwww.nhicr.org%2FAboutUs%2FAboutTheCollegeRegister%2Ftabid%2F58%2FDefault.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Hispanic+Institute"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-kiiitv.com-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-kiiitv.com_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-kiiitv.com_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-kiiitv.com_18-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a class="external free" href="http://www.kiiitv.com/home/12201881.html" rel="nofollow">http://www.kiiitv.com/home/12201881.html</a></span>
+</li>
+<li id="cite_note-Nieto,_Ernesto_2001-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Nieto,_Ernesto_2001_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Nieto,_Ernesto_2001_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Nieto,_Ernesto_2001_19-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Nieto, Ernesto. Third Reality: Crafting a 21st Century Hispanic/Latino Agenda. Third Reality Publications 2001.</span>
+</li>
+<li id="cite_note-youtube.com-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-youtube.com_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-youtube.com_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">NHITV (25 April 2008). <a class="external text" href="https://www.youtube.com/watch?v=mwTbaw0PVdk" rel="nofollow">"LDZ 25th Anniversary Documentary ('07)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2018</span> – via YouTube.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=LDZ+25th+Anniversary+Documentary+%28%2707%29&amp;rft.date=2008-04-25&amp;rft.au=NHITV&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmwTbaw0PVdk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Hispanic+Institute"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-southwestern.edu-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-southwestern.edu_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-southwestern.edu_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-southwestern.edu_21-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.southwestern.edu/newsroom/story.php?id=1031" rel="nofollow">"News at Southwestern"</a>. <i>www.southwestern.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.southwestern.edu&amp;rft.atitle=News+at+Southwestern&amp;rft_id=http%3A%2F%2Fwww.southwestern.edu%2Fnewsroom%2Fstory.php%3Fid%3D1031&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Hispanic+Institute"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://clerk.house.gov/public_disc/financial-pdfs/2018/10021221.pdf" rel="nofollow">"2018 Financial Disclosure for Alexandria Ocasio Cortez"</a> <span class="cs1-format">(PDF)</span>. <i>Clerk.House.Gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Clerk.House.Gov&amp;rft.atitle=2018+Financial+Disclosure+for+Alexandria+Ocasio+Cortez&amp;rft_id=http%3A%2F%2Fclerk.house.gov%2Fpublic_disc%2Ffinancial-pdfs%2F2018%2F10021221.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Hispanic+Institute"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a class="external text" href="http://www.nhi-net.org/" rel="nofollow">Official website</a></span></span></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20191209182618
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.600 seconds
+Real time usage: 0.781 seconds
+Preprocessor visited node count: 2472/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 58904/2097152 bytes
+Template argument size: 7910/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 43798/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.257/10.000 seconds
+Lua memory usage: 5.19 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  662.144      1 -total
+ 33.56%  222.189      1 Template:Reflist
+ 26.30%  174.127     12 Template:Cite_web
+ 25.67%  170.002      1 Template:Infobox_organization
+ 22.76%  150.708      1 Template:Infobox
+ 14.75%   97.665      2 Template:When
+ 12.32%   81.581      2 Template:Fix
+  9.59%   63.508      6 Template:Category_handler
+  8.66%   57.323      1 Template:Official_website
+  6.46%   42.749      2 Template:Unbulleted_list
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3213542-0!canonical and timestamp 20191209182617 and revision id 929096499
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=National_Hispanic_Institute&amp;oldid=929096499">https://en.wikipedia.org/w/index.php?title=National_Hispanic_Institute&amp;oldid=929096499</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hispanic_and_Latino_organizations" title="Category:Hispanic and Latino organizations">Hispanic and Latino organizations</a></li><li><a href="/wiki/Category:International_organizations_based_in_the_Americas" title="Category:International organizations based in the Americas">International organizations based in the Americas</a></li><li><a href="/wiki/Category:Non-profit_organizations_based_in_Texas" title="Category:Non-profit organizations based in Texas">Non-profit organizations based in Texas</a></li><li><a href="/wiki/Category:Think_tanks_based_in_the_United_States" title="Category:Think tanks based in the United States">Think tanks based in the United States</a></li><li><a href="/wiki/Category:Student_societies_in_the_United_States" title="Category:Student societies in the United States">Student societies in the United States</a></li><li><a href="/wiki/Category:Youth_organizations_based_in_Texas" title="Category:Youth organizations based in Texas">Youth organizations based in Texas</a></li><li><a href="/wiki/Category:1979_establishments_in_the_United_States" title="Category:1979 establishments in the United States">1979 establishments in the United States</a></li><li><a href="/wiki/Category:Educational_organizations_based_in_the_United_States" title="Category:Educational organizations based in the United States">Educational organizations based in the United States</a></li><li><a href="/wiki/Category:Organizations_established_in_1979" title="Category:Organizations established in 1979">Organizations established in 1979</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li><li><a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">Pages with citations having bare URLs</a></li><li><a href="/wiki/Category:Pages_using_infobox_organization_with_unknown_parameters" title="Category:Pages using infobox organization with unknown parameters">Pages using infobox organization with unknown parameters</a></li><li><a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">All articles with vague or ambiguous time</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_July_2019" title="Category:Vague or ambiguous time from July 2019">Vague or ambiguous time from July 2019</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_July_2019" title="Category:Wikipedia articles needing clarification from July 2019">Wikipedia articles needing clarification from July 2019</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=National+Hispanic+Institute" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=National+Hispanic+Institute" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/National_Hispanic_Institute" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:National_Hispanic_Institute" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/National_Hispanic_Institute">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=National_Hispanic_Institute&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=National_Hispanic_Institute&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/National_Hispanic_Institute" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/National_Hispanic_Institute" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=National_Hispanic_Institute&amp;oldid=929096499" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=National_Hispanic_Institute&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6973363" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=National_Hispanic_Institute&amp;id=929096499" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=National+Hispanic+Institute">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=National+Hispanic+Institute&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=National_Hispanic_Institute&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6973363#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 3 December 2019, at 17:08<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=National_Hispanic_Institute&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.600","walltime":"0.781","ppvisitednodes":{"value":2472,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":58904,"limit":2097152},"templateargumentsize":{"value":7910,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":43798,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  662.144      1 -total"," 33.56%  222.189      1 Template:Reflist"," 26.30%  174.127     12 Template:Cite_web"," 25.67%  170.002      1 Template:Infobox_organization"," 22.76%  150.708      1 Template:Infobox"," 14.75%   97.665      2 Template:When"," 12.32%   81.581      2 Template:Fix","  9.59%   63.508      6 Template:Category_handler","  8.66%   57.323      1 Template:Official_website","  6.46%   42.749      2 Template:Unbulleted_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.257","limit":"10.000"},"limitreport-memusage":{"value":5444680,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20191209182618","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"National Hispanic Institute","url":"https:\/\/en.wikipedia.org\/wiki\/National_Hispanic_Institute","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6973363","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6973363","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-11-21T18:55:12Z","dateModified":"2019-12-03T17:08:58Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/fe\/National_Hispanic_Institute_logo.svg","headline":"international nonprofit organization dedicated to serving the future leadership needs of the global Hispanic community"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":129,"wgHostname":"mw1270"});});</script>
+
+
+</body></html>

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Racing de Casablanca - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfr55QpAIC8AAIzgdEYAAAEM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Racing_de_Casablanca","wgTitle":"Racing de Casablanca","wgCurRevisionId":880394030,"wgRevisionId":880394030,"wgArticleId":11244010,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from October 2012","All articles lacking sources","Articles containing Arabic-language text","Commons category link from Wikidata","All stub articles",
+"Football clubs in Morocco","Football clubs in Casablanca","1917 establishments in Morocco","Sports clubs in Morocco","Association football clubs established in 1917","Moroccan sport stubs","North African football club stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Racing_de_Casablanca","wgRelevantArticleId":11244010,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1906329","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/7/75/RacingAthl%C3%A9ticClubCasablanca.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Racing_de_Casablanca" rel="alternate"/>
+<link href="/w/index.php?title=Racing_de_Casablanca&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Racing_de_Casablanca&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Racing_de_Casablanca" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Racing_de_Casablanca rootpage-Racing_de_Casablanca skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Racing de Casablanca</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="box-Unreferenced plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" decoding="async" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Racing_de_Casablanca&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.<br/><small><span class="plainlinks"><i>Find sources:</i> <a class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Racing+de+Casablanca%22" rel="nofollow">"Racing de Casablanca"</a> – <a class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Racing+de+Casablanca%22+-wikipedia" rel="nofollow">news</a> <b>·</b> <a class="external text" href="//www.google.com/search?&amp;q=%22Racing+de+Casablanca%22+site:news.google.com/newspapers&amp;source=newspapers" rel="nofollow">newspapers</a> <b>·</b> <a class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Racing+de+Casablanca%22+-wikipedia" rel="nofollow">books</a> <b>·</b> <a class="external text" href="//scholar.google.com/scholar?q=%22Racing+de+Casablanca%22" rel="nofollow">scholar</a> <b>·</b> <a class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Racing+de+Casablanca%22&amp;acc=on&amp;wc=on" rel="nofollow">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">October 2012</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Racing AC</caption><tbody><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:RacingAthl%C3%A9ticClubCasablanca.png"><img alt="RacingAthléticClubCasablanca.png" data-file-height="317" data-file-width="305" decoding="async" height="229" src="//upload.wikimedia.org/wikipedia/en/thumb/7/75/RacingAthl%C3%A9ticClubCasablanca.png/220px-RacingAthl%C3%A9ticClubCasablanca.png" srcset="//upload.wikimedia.org/wikipedia/en/7/75/RacingAthl%C3%A9ticClubCasablanca.png 1.5x" width="220"/></a></td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Full name</th><td>Racing Athletic Club</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Founded</th><td>1917</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Ground</th><td class="label"><a class="mw-redirect" href="/wiki/Stade_P%C3%A8re-J%C3%A9go" title="Stade Père-Jégo">Stade Père-Jégo</a></td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Capacity</th><td>10,000</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">League</th><td><a href="/wiki/Botola" title="Botola">Botola</a></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><td class="toccolours" colspan="2" style="padding: 0; background: #ffffff; text-align: center;">
+<table style="width:100%; text-align:center;">
+<tbody><tr>
+<td><div style="width: 100px; margin: 0 auto; padding: 0;">
+<div style="position: relative; left: 0px; top: 0px; width: 100px; height: 135px; margin: 0 auto; padding: 0;">
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px; background-color: #ffffff;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/e/ed/Kit_left_arm_fct1.png" style="vertical-align: top" title="Team colours" width="31"/></div>
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/47px-Kit_left_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/62px-Kit_left_arm.svg.png 2x" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px; background-color: #ffffff;"><img alt="" data-file-height="59" data-file-width="38" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/1/13/Kit_body_rac1.png" style="vertical-align: top" width="38"/></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px;"><img alt="" data-file-height="59" data-file-width="38" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/57px-Kit_body.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/76px-Kit_body.svg.png 2x" style="vertical-align: top" width="38"/></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px; background-color: #ffffff;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/4/45/Kit_right_arm_fct1.png" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/31px-Kit_right_arm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/47px-Kit_right_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/62px-Kit_right_arm.svg.png 2x" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px; background-color: #000000"><img alt="" data-file-height="36" data-file-width="100" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/a/a5/Kit_shorts_rac1.png" style="vertical-align: top" width="100"/></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px;"><img alt="" data-file-height="36" data-file-width="100" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/150px-Kit_shorts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/200px-Kit_shorts.svg.png 2x" style="vertical-align: top" width="100"/></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px; background-color: #000000"></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px;"><img alt="" data-file-height="40" data-file-width="100" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/150px-Kit_socks_long.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/200px-Kit_socks_long.svg.png 2x" style="vertical-align: top" width="100"/></div>
+</div>
+<div style="padding-top: 0.6em; text-align: center;"><b><a href="/wiki/Kit_(association_football)" title="Kit (association football)">Home colours</a></b></div>
+</div></td><td><div style="width: 100px; margin: 0 auto; padding: 0;">
+<div style="position: relative; left: 0px; top: 0px; width: 100px; height: 135px; margin: 0 auto; padding: 0;">
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px; background-color: #007700;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/b/bf/Kit_left_arm_whiteborder.png" style="vertical-align: top" title="Team colours" width="31"/></div>
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/47px-Kit_left_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/62px-Kit_left_arm.svg.png 2x" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px; background-color: #007700;"><img alt="" data-file-height="59" data-file-width="38" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/9/93/Kit_body_rac2.png" style="vertical-align: top" width="38"/></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px;"><img alt="" data-file-height="59" data-file-width="38" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/57px-Kit_body.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/76px-Kit_body.svg.png 2x" style="vertical-align: top" width="38"/></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px; background-color: #007700;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/4/4c/Kit_right_arm_whiteborder.png" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/31px-Kit_right_arm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/47px-Kit_right_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/62px-Kit_right_arm.svg.png 2x" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px; background-color: #007700"><img alt="" data-file-height="36" data-file-width="100" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/e/e8/Kit_shorts_rac2.png" style="vertical-align: top" width="100"/></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px;"><img alt="" data-file-height="36" data-file-width="100" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/150px-Kit_shorts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/200px-Kit_shorts.svg.png 2x" style="vertical-align: top" width="100"/></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px; background-color: #007700"></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px;"><img alt="" data-file-height="40" data-file-width="100" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/150px-Kit_socks_long.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/200px-Kit_socks_long.svg.png 2x" style="vertical-align: top" width="100"/></div>
+</div>
+<div style="padding-top: 0.6em; text-align: center;"><b><a href="/wiki/Away_colours" title="Away colours">Away colours</a></b></div>
+</div></td><td><div style="width: 100px; margin: 0 auto; padding: 0;">
+<div style="position: relative; left: 0px; top: 0px; width: 100px; height: 135px; margin: 0 auto; padding: 0;">
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px; background-color: #ffffff;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/f/fc/Kit_left_arm_greenborder.png" style="vertical-align: top" title="Team colours" width="31"/></div>
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/47px-Kit_left_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/62px-Kit_left_arm.svg.png 2x" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px; background-color: #ffffff;"><img alt="" data-file-height="59" data-file-width="38" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/0/0c/Kit_body_rac3.png" style="vertical-align: top" width="38"/></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px;"><img alt="" data-file-height="59" data-file-width="38" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/57px-Kit_body.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/76px-Kit_body.svg.png 2x" style="vertical-align: top" width="38"/></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px; background-color: #ffffff;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/5/59/Kit_right_arm_greenborder.png" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/31px-Kit_right_arm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/47px-Kit_right_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/62px-Kit_right_arm.svg.png 2x" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px; background-color: #ffffff"><img alt="" data-file-height="36" data-file-width="100" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/4/44/Kit_shorts_rac3.png" style="vertical-align: top" width="100"/></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px;"><img alt="" data-file-height="36" data-file-width="100" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/150px-Kit_shorts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/200px-Kit_shorts.svg.png 2x" style="vertical-align: top" width="100"/></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px; background-color: #ffffff"></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px;"><img alt="" data-file-height="40" data-file-width="100" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/150px-Kit_socks_long.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/200px-Kit_socks_long.svg.png 2x" style="vertical-align: top" width="100"/></div>
+</div>
+<div style="padding-top: 0.6em; text-align: center;"><b><a href="/wiki/Third_jersey" title="Third jersey">Third colours</a></b></div>
+</div></td></tr>
+</tbody></table></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><b>Racing Athletic Club Casablanca</b> (<a class="mw-redirect" href="/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span dir="rtl" lang="ar">نادي الرسينغ الرياضي</span>‎) is a <a href="/wiki/Morocco" title="Morocco">Moroccan</a> <a class="mw-redirect" href="/wiki/Football_(soccer)" title="Football (soccer)">football</a> club currently playing in the <a href="/wiki/Botola" title="Botola">Botola</a>. The club was founded in 1917 under the name of Racing Athlétic de Casablanca, but in 1969 the name was changed to Association des Douanes Marocains (ADM). In the 1980s the name was changed back to its original format.
+</p>
+<h2><span class="mw-headline" id="Honours">Honours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Racing_de_Casablanca&amp;action=edit&amp;section=1" title="Edit section: Honours">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a class="new" href="/w/index.php?title=Ligue_du_Maroc_de_Football_Association&amp;action=edit&amp;redlink=1" title="Ligue du Maroc de Football Association (page does not exist)">Ligue du Maroc de Football Association</a>: 2</b></li></ul>
+<dl><dd><dl><dd>1945, 1954</dd></dl></dd></dl>
+<ul><li><b><a class="mw-redirect" href="/wiki/GNF_1" title="GNF 1">Moroccan League First Division</a>: 1</b></li></ul>
+<dl><dd><dl><dd>1972</dd>
+<dd>Second Place : 1962, 1965</dd></dl></dd></dl>
+<ul><li><b><a class="mw-redirect" href="/wiki/Moroccan_Cup" title="Moroccan Cup">Coupe du Trône</a>: 1</b></li></ul>
+<dl><dd><dl><dd>1968</dd></dl></dd></dl>
+<ul><li><b><a class="mw-redirect" href="/wiki/GNF_2" title="GNF 2">Moroccan League Second Division</a>: 1</b></li></ul>
+<dl><dd><dl><dd>2000</dd></dl></dd></dl>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Racing_de_Casablanca&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Racing_de_Casablanca&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="image" href="/wiki/File:Commons-logo.svg"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" width="12"/></a> Media related to <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Racing_de_Casablanca" title="commons:Category:Racing de Casablanca">Racing de Casablanca</a> at Wikimedia Commons</li></ul>
+<div aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Morocco&amp;#124;link=Morocco_Football_in_Morocco" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Football_in_Morocco" title="Template:Football in Morocco"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Football_in_Morocco" title="Template talk:Football in Morocco"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Football_in_Morocco&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=Morocco&amp;#124;link=Morocco_Football_in_Morocco" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Morocco" title="Morocco"><img alt="Morocco" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" width="23"/></a></span> <a href="/wiki/Football_in_Morocco" title="Football in Morocco">Football in Morocco</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_National_Association&amp;#10;*_GNF&amp;#10;*_Coupe_Msabih_Talaa">
+<ul><li><a href="/wiki/Royal_Moroccan_Football_Federation" title="Royal Moroccan Football Federation">National Association</a></li>
+<li><a class="new" href="/w/index.php?title=Groupement_National_de_Football&amp;action=edit&amp;redlink=1" title="Groupement National de Football (page does not exist)">GNF</a></li>
+<li><a class="new" href="/w/index.php?title=Coupe_Msabih_Talaa&amp;action=edit&amp;redlink=1" title="Coupe Msabih Talaa (page does not exist)">Coupe Msabih Talaa</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">National teams</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Morocco_national_football_team" title="Morocco national football team">National team</a></li>
+<li><a href="/wiki/Morocco_A%27_national_football_team" title="Morocco A' national football team">Local team</a></li>
+<li><a href="/wiki/Morocco_national_under-23_football_team" title="Morocco national under-23 football team">Olympic (U-23)</a></li>
+<li><a href="/wiki/Morocco_national_under-20_football_team" title="Morocco national under-20 football team">U-20</a></li>
+<li><a href="/wiki/Morocco_national_under-17_football_team" title="Morocco national under-17 football team">U-17</a></li>
+<li><a href="/wiki/Morocco_women%27s_national_football_team" title="Morocco women's national football team">Women</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Moroccan_football_league_system" title="Moroccan football league system">League system</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Botola" title="Botola">Botola</a></li>
+<li><a href="/wiki/Botola_2" title="Botola 2">Botola 2</a></li>
+<li><a class="mw-redirect" href="/wiki/Moroccan_National_Amateur_Championship" title="Moroccan National Amateur Championship">National</a></li>
+<li><a class="new" href="/w/index.php?title=Amateurs_I&amp;action=edit&amp;redlink=1" title="Amateurs I (page does not exist)">Amateurs I</a> (2 groups)</li>
+<li><a class="new" href="/w/index.php?title=Amateurs_II&amp;action=edit&amp;redlink=1" title="Amateurs II (page does not exist)">Amateurs II</a> (4 groups)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Domestic cups</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Moroccan_Throne_Cup" title="Moroccan Throne Cup">Throne Cup</a></li>
+<li><a href="/wiki/Moroccan_Super_Cup" title="Moroccan Super Cup">Moroccan Super Cup</a></li>
+<li><a class="new" href="/w/index.php?title=Women_Throne_Cup&amp;action=edit&amp;redlink=1" title="Women Throne Cup (page does not exist)">Women Throne Cup</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Awards</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=Moroccan_Footballer_of_the_Year&amp;action=edit&amp;redlink=1" title="Moroccan Footballer of the Year (page does not exist)">Footballer of the Year</a></li>
+<li><a class="new" href="/w/index.php?title=List_of_Moroccan_league_top_scorers&amp;action=edit&amp;redlink=1" title="List of Moroccan league top scorers (page does not exist)">Top scorers</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Lists</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=All-time_Botola_table&amp;action=edit&amp;redlink=1" title="All-time Botola table (page does not exist)">All-time Table</a></li>
+<li><a class="new" href="/w/index.php?title=List_of_Moroccan_football_champions&amp;action=edit&amp;redlink=1" title="List of Moroccan football champions (page does not exist)">Champions</a></li>
+<li><a href="/wiki/List_of_football_clubs_in_Morocco" title="List of football clubs in Morocco">Clubs</a></li>
+<li><a class="new" href="/w/index.php?title=List_of_Moroccan_international_footballers&amp;action=edit&amp;redlink=1" title="List of Moroccan international footballers (page does not exist)">International footballers</a></li>
+<li><a class="new" href="/w/index.php?title=List_of_foreign_Botola_players&amp;action=edit&amp;redlink=1" title="List of foreign Botola players (page does not exist)">Foreign players</a></li>
+<li><a href="/wiki/List_of_football_stadiums_in_Morocco" title="List of football stadiums in Morocco">Venues</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Football_clubs_in_Morocco" title="Category:Football clubs in Morocco">Men's clubs</a></li>
+<li><a class="new" href="/w/index.php?title=Category:Moroccan_women%27s_football_clubs&amp;action=edit&amp;redlink=1" title="Category:Moroccan women's football clubs (page does not exist)">Women's clubs</a></li>
+<li><a href="/wiki/Category:Moroccan_footballers" title="Category:Moroccan footballers">Men's players</a></li>
+<li><a class="new" href="/w/index.php?title=Category:Moroccan_female_footballers&amp;action=edit&amp;redlink=1" title="Category:Moroccan female footballers (page does not exist)">Women's players</a></li>
+<li><a href="/wiki/Category:Expatriate_footballers_in_Morocco" title="Category:Expatriate footballers in Morocco">Expatriate players</a></li>
+<li><a href="/wiki/Category:Football_managers_in_Morocco" title="Category:Football managers in Morocco">Managers</a></li>
+<li><a href="/wiki/Category:Moroccan_football_referees" title="Category:Moroccan football referees">Referees</a></li>
+<li><a href="/wiki/Category:Football_venues_in_Morocco" title="Category:Football venues in Morocco">Venues</a></li>
+<li><a href="/wiki/Category:Seasons_in_Moroccan_football" title="Category:Seasons in Moroccan football">Seasons</a></li>
+<li><a class="new" href="/w/index.php?title=Football_records_in_Morocco&amp;action=edit&amp;redlink=1" title="Football records in Morocco (page does not exist)">Records</a></li>
+<li><a class="new" href="/w/index.php?title=List_of_Moroccan_football_players_in_foreign_leagues&amp;action=edit&amp;redlink=1" title="List of Moroccan football players in foreign leagues (page does not exist)">Moroccan foreign players</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Botola_2_-_2018-19" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:GNF_2" title="Template:GNF 2"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:GNF_2" title="Template talk:GNF 2"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:GNF_2&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Botola_2_-_2018-19" style="font-size:114%;margin:0 4em"><a href="/wiki/Botola_2" title="Botola 2">Botola 2</a> - 2018-19</div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Association_Sal%C3%A9" title="Association Salé">Association Salé</a></li>
+<li><a href="/wiki/Chabab_Atlas_Kh%C3%A9nifra" title="Chabab Atlas Khénifra">Chabab Atlas Khénifra</a></li>
+<li><a class="mw-redirect" href="/wiki/Chabab_Ben_Guerir" title="Chabab Ben Guerir">Chabab Ben Guerir</a></li>
+<li><a class="new" href="/w/index.php?title=Chabab_Riadi_Salmi&amp;action=edit&amp;redlink=1" title="Chabab Riadi Salmi (page does not exist)">Chabab Riadi Salmi</a></li>
+<li><a href="/wiki/Ittihad_Khemisset" title="Ittihad Khemisset">Ittihad Khemisset</a></li>
+<li><a href="/wiki/JS_de_Kasbah_Tadla" title="JS de Kasbah Tadla">JS de Kasbah Tadla</a></li>
+<li><a href="/wiki/JS_Massira" title="JS Massira">JS Massira</a></li>
+<li><a href="/wiki/KAC_K%C3%A9nitra" title="KAC Kénitra">KAC Kénitra</a></li>
+<li><a href="/wiki/MAS_Fez" title="MAS Fez">MAS Fez</a></li>
+<li><a href="/wiki/Olympique_Dcheira" title="Olympique Dcheira">Olympique Dcheira</a></li>
+<li><a href="/wiki/Raja_Beni_Mellal" title="Raja Beni Mellal">Raja Beni Mellal</a></li>
+<li><a href="/wiki/Union_Sidi_Kacem" title="Union Sidi Kacem">Union Sidi Kacem</a></li>
+<li><a class="mw-selflink selflink">Racing de Casablanca</a></li>
+<li><a href="/wiki/Wydad_de_F%C3%A8s" title="Wydad de Fès">Wydad de Fès</a></li>
+<li><a class="new" href="/w/index.php?title=Renaissance_Ezzmamra&amp;action=edit&amp;redlink=1" title="Renaissance Ezzmamra (page does not exist)">Renaissance Ezzmamra</a></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><span style="vertical-align: middle; background:transparent"><a class="image" href="/wiki/File:Flag_of_Morocco.svg"><img alt="Flag of Morocco" data-file-height="600" data-file-width="900" decoding="async" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/40px-Flag_of_Morocco.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/60px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/80px-Flag_of_Morocco.svg.png 2x" width="40"/></a><span style="margin-left:-40px;"><a class="image" href="/wiki/File:Soccerball_mask.svg"><img alt="Soccer icon" data-file-height="512" data-file-width="512" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4e/Soccerball_mask.svg/40px-Soccerball_mask.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4e/Soccerball_mask.svg/60px-Soccerball_mask.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4e/Soccerball_mask.svg/80px-Soccerball_mask.svg.png 2x" width="40"/></a></span></span></td><td><i>This article about a <a href="/wiki/Morocco" title="Morocco">Moroccan</a> <a href="/wiki/Association_football" title="Association football">football</a> club is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Racing_de_Casablanca&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Morocco-footyclub-stub" title="Template:Morocco-footyclub-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Morocco-footyclub-stub" title="Template talk:Morocco-footyclub-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Morocco-footyclub-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20191206175456
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.452 seconds
+Real time usage: 0.653 seconds
+Preprocessor visited node count: 1310/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 70120/2097152 bytes
+Template argument size: 1774/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 13/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.260/10.000 seconds
+Lua memory usage: 10.34 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  542.939      1 -total
+ 38.37%  208.302      1 Template:Lang-ar
+ 19.01%  103.198      1 Template:Unreferenced
+ 16.43%   89.219      1 Template:Infobox_football_club
+ 14.85%   80.638      1 Template:Ambox
+ 13.60%   73.831      1 Template:Infobox
+  8.58%   46.583      1 Template:Commonscat-inline
+  8.04%   43.663      1 Template:Moroccan_football
+  7.44%   40.389      2 Template:Navbox
+  6.42%   34.845      3 Template:Football_kit
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11244010-0!canonical and timestamp 20191206175455 and revision id 880394030
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Racing_de_Casablanca&amp;oldid=880394030">https://en.wikipedia.org/w/index.php?title=Racing_de_Casablanca&amp;oldid=880394030</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Football_clubs_in_Morocco" title="Category:Football clubs in Morocco">Football clubs in Morocco</a></li><li><a href="/wiki/Category:Football_clubs_in_Casablanca" title="Category:Football clubs in Casablanca">Football clubs in Casablanca</a></li><li><a href="/wiki/Category:1917_establishments_in_Morocco" title="Category:1917 establishments in Morocco">1917 establishments in Morocco</a></li><li><a href="/wiki/Category:Sports_clubs_in_Morocco" title="Category:Sports clubs in Morocco">Sports clubs in Morocco</a></li><li><a href="/wiki/Category:Association_football_clubs_established_in_1917" title="Category:Association football clubs established in 1917">Association football clubs established in 1917</a></li><li><a href="/wiki/Category:Moroccan_sport_stubs" title="Category:Moroccan sport stubs">Moroccan sport stubs</a></li><li><a href="/wiki/Category:North_African_football_club_stubs" title="Category:North African football club stubs">North African football club stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_sources_from_October_2012" title="Category:Articles lacking sources from October 2012">Articles lacking sources from October 2012</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li><li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Racing+de+Casablanca" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Racing+de+Casablanca" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Racing_de_Casablanca" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Racing_de_Casablanca" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Racing_de_Casablanca">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Racing_de_Casablanca&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Racing_de_Casablanca&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Racing_de_Casablanca" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Racing_de_Casablanca" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Racing_de_Casablanca&amp;oldid=880394030" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Racing_de_Casablanca&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1906329" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Racing_de_Casablanca&amp;id=880394030" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Racing_de_Casablanca" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Racing+de+Casablanca">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Racing+de+Casablanca&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Racing_de_Casablanca&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D8%A7%D8%B3%D9%8A%D9%86%D8%BA_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A" hreflang="ar" lang="ar" title="الراسينغ الرياضي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Racing_Athl%C3%A9tic_Club_de_Casablanca" hreflang="ca" lang="ca" title="Racing Athlétic Club de Casablanca – Catalan">Català</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Racing_de_Casablanca" hreflang="es" lang="es" title="Racing de Casablanca – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Racing_Athletic_Club" hreflang="fr" lang="fr" title="Racing Athletic Club – French">Français</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Racing_de_Casablanca" hreflang="nl" lang="nl" title="Racing de Casablanca – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Racing_Athletic_Club_Casablanca" hreflang="pt" lang="pt" title="Racing Athletic Club Casablanca – Portuguese">Português</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1906329#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 January 2019, at 05:15<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Racing_de_Casablanca&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.452","walltime":"0.653","ppvisitednodes":{"value":1310,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":70120,"limit":2097152},"templateargumentsize":{"value":1774,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  542.939      1 -total"," 38.37%  208.302      1 Template:Lang-ar"," 19.01%  103.198      1 Template:Unreferenced"," 16.43%   89.219      1 Template:Infobox_football_club"," 14.85%   80.638      1 Template:Ambox"," 13.60%   73.831      1 Template:Infobox","  8.58%   46.583      1 Template:Commonscat-inline","  8.04%   43.663      1 Template:Moroccan_football","  7.44%   40.389      2 Template:Navbox","  6.42%   34.845      3 Template:Football_kit"]},"scribunto":{"limitreport-timeusage":{"value":"0.260","limit":"10.000"},"limitreport-memusage":{"value":10842703,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20191206175456","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Racing de Casablanca","url":"https:\/\/en.wikipedia.org\/wiki\/Racing_de_Casablanca","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1906329","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1906329","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-05-15T20:50:21Z","dateModified":"2019-01-27T05:15:01Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/75\/RacingAthl%C3%A9ticClubCasablanca.png"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1326"});});</script>
+
+
+</body></html>

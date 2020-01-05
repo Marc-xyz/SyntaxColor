@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Don't Give Me Names - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xft-YQpAMFQAAJqDdBAAAADW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Don't_Give_Me_Names","wgTitle":"Don't Give Me Names","wgCurRevisionId":910512555,"wgRevisionId":910512555,"wgArticleId":2518477,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles with short description","Articles with hAudio microformats","Track listings that use the collapsed parameter","2000 albums","Guano Apes albums",
+"GUN Records albums"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Don't_Give_Me_Names","wgRelevantArticleId":2518477,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q166918","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
+"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/4/4a/Dgmn_cover.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Don%27t_Give_Me_Names" rel="alternate"/>
+<link href="/w/index.php?title=Don%27t_Give_Me_Names&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Don%27t_Give_Me_Names&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Don%27t_Give_Me_Names" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Don_t_Give_Me_Names rootpage-Don_t_Give_Me_Names skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en"><i>Don't Give Me Names</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">2000 studio album by Guano Apes</div><table class="infobox vevent haudio" style="width:22em"><tbody><tr><th class="summary album" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue">Don't Give Me Names</th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Dgmn_cover.jpg"><img alt="Dgmn cover.jpg" data-file-height="200" data-file-width="200" decoding="async" height="200" src="//upload.wikimedia.org/wikipedia/en/4/4a/Dgmn_cover.jpg" width="200"/></a></td></tr><tr><th class="description" colspan="2" style="text-align:center;background-color: lightsteelblue"><a href="/wiki/Album" title="Album">Studio album</a> by <div class="contributor" style="display:inline"><a href="/wiki/Guano_Apes" title="Guano Apes">Guano Apes</a></div></th></tr><tr><th scope="row">Released</th><td class="published">2 May 2000</td></tr><tr><th scope="row">Recorded</th><td class="plainlist">1999-2000<br/>at Vox-Klangstudio, <a href="/wiki/Bendestorf" title="Bendestorf">Bendestorf</a>, Germany, Horus-Sound-Studio in <a class="mw-redirect" href="/wiki/Hannover" title="Hannover">Hannover</a>, Germany and Galaxy Studios in <a href="/wiki/Mol,_Belgium" title="Mol, Belgium">Mol</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a></td></tr><tr><th scope="row"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th><td class="category hlist"><a href="/wiki/Funk_metal" title="Funk metal">Funk metal</a>, <a href="/wiki/Nu_metal" title="Nu metal">nu metal</a>, <a href="/wiki/Post-grunge" title="Post-grunge">post-grunge</a>, <a href="/wiki/Alternative_metal" title="Alternative metal">alternative metal</a>, <a href="/wiki/Alternative_rock" title="Alternative rock">alternative rock</a></td></tr><tr><th scope="row">Length</th><td><span class="duration"><span class="min">45</span>:<span class="s">03</span></span> (standard edition)<br/>57:21 (digipak version)</td></tr><tr><th scope="row"><a href="/wiki/Record_label" title="Record label">Label</a></th><td class="hlist"><a href="/wiki/Bertelsmann_Music_Group" title="Bertelsmann Music Group">BMG</a>/<a href="/wiki/GUN_Records" title="GUN Records">GUN/Supersonic Records</a></td></tr><tr><th scope="row"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th><td class="hlist"><a class="new" href="/w/index.php?title=Wolfgang_Stach&amp;action=edit&amp;redlink=1" title="Wolfgang Stach (page does not exist)">Wolfgang Stach</a>, <a class="new" href="/w/index.php?title=Fabio_Trentini&amp;action=edit&amp;redlink=1" title="Fabio Trentini (page does not exist)">Fabio Trentini</a>, Guano Apes</td></tr><tr><th class="description" colspan="2" style="text-align:center;background-color: lightsteelblue"><a href="/wiki/Guano_Apes" title="Guano Apes">Guano Apes</a> chronology</th></tr><tr><td colspan="2" style="text-align:center">
+<table style="background: transparent; width: 100%; min-width: 100%; border-collapse: collapse">
+
+<tbody><tr style="line-height: 1.4em;">
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0"><i><a href="/wiki/Proud_Like_a_God" title="Proud Like a God">Proud Like a God</a></i><br/>(1997)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em"><i><b>Don't Give Me Names</b></i><br/>(2000)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em"><i><a href="/wiki/Walking_on_a_Thin_Line" title="Walking on a Thin Line">Walking on a Thin Line</a></i><br/>(2003)
+</td></tr></tbody></table></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background: lightsteelblue"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Don't Give Me Names</i></th></tr><tr><td colspan="2" style="text-align:center"><div style="text-align:left">
+<ol><li><span class="item"><span class="fn">"<a href="/wiki/Big_in_Japan_(Alphaville_song)#Guano_Apes_version" title="Big in Japan (Alphaville song)">Big in Japan</a>"</span><br/>Released: April 12, 2000</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/No_Speech" title="No Speech">No Speech</a>"</span><br/>Released: July 24, 2000</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Living_in_a_Lie" title="Living in a Lie">Living in a Lie</a>"</span><br/>Released: October 10, 2000</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/D%C3%B6del_Up" title="Dödel Up">Dödel Up</a>"</span><br/>Released: January 29, 2001</span></li></ol>
+</div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<table class="wikitable floatright" style="float:right;clear:right;width:24.2em;font-size:80%;text-align:center;margin:0.5em 0 0.5em 1em;padding:0;border-spacing:0"><tbody><tr><th colspan="2" scope="col" style="font-size:120%">Professional ratings</th></tr><tr><th colspan="2" scope="col" style="text-align:center;background:#d1dbdf;font-size:120%">Review scores</th></tr><tr><th scope="col">Source</th><th scope="col">Rating</th></tr><tr><td style="text-align:center;vertical-align:middle"><i><a href="/wiki/Rock_Hard_(magazine)" title="Rock Hard (magazine)">Rock Hard</a></i> (de)</td><td style="text-align:center;vertical-align:middle">9/10<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><td style="text-align:center;vertical-align:middle">Blabbermouth</td><td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="9/10 stars"><img alt="9/10 stars" data-file-height="110" data-file-width="108" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" title="9/10 stars" width="7"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" width="7"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" width="7"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" width="7"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" width="7"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" width="7"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" width="7"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" width="7"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/7px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/14px-Star_full.svg.png 2x" width="7"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/7px-Star_empty.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/14px-Star_empty.svg.png 2x" width="7"/></span><sup class="reference" id="cite_ref-Blabbermouth_2-0"><a href="#cite_note-Blabbermouth-2">[2]</a></sup></td></tr></tbody></table>
+<p><i><b>Don't Give Me Names</b></i> is the second album by the German band <a href="/wiki/Guano_Apes" title="Guano Apes">Guano Apes</a>, released in 2000. It includes the hit <a href="/wiki/Single_(music)" title="Single (music)">single</a> "<a href="/wiki/Big_in_Japan_(Alphaville_song)#Guano_Apes_version" title="Big in Japan (Alphaville song)">Big in Japan</a>" (a <a href="/wiki/Cover_version" title="Cover version">cover</a> of the <a href="/wiki/Alphaville_(band)" title="Alphaville (band)">Alphaville</a> song), which peaked at #9 on the German charts and remains one of Guano Apes' most popular songs.
+</p><p>The album was certified <a class="mw-redirect" href="/wiki/Gold_album" title="Gold album">gold</a> in Germany<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> and in Switzerland.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Track_listing"><span class="tocnumber">2</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personnel"><span class="tocnumber">3</span> <span class="toctext">Personnel</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Additional_musicians"><span class="tocnumber">3.1</span> <span class="toctext">Additional musicians</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Other_staff"><span class="tocnumber">3.2</span> <span class="toctext">Other staff</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Don%27t_Give_Me_Names&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After the success of their debut album <i><a href="/wiki/Proud_Like_a_God" title="Proud Like a God">Proud Like a God</a></i>, the members of Guano Apes felt pressed to come up with a new album that could hold its own against its predecessor, and spent a lot of time on writing and demoing new songs. According to Dennis Poschwatta in the documentary <i><a href="/wiki/Planet_of_the_Apes:_The_Documentary" title="Planet of the Apes: The Documentary">Planet of the Apes</a></i>, “the way we worked […] was not tot let anybody trick us. The album had to be awesome. It had to be out of sight.”
+</p><p>Recording for <i>Don’t Give Me Names</i> began in October 1999 and was done at three different studios: Horus Studio in <a class="mw-redirect" href="/wiki/Hannover" title="Hannover">Hannover</a>, Vox Klangstudio in <a href="/wiki/Bendestorf" title="Bendestorf">Bendestorf</a>, and Galaxy Studios in <a href="/wiki/Mol,_Belgium" title="Mol, Belgium">Mol</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a>. Wanting to achieve maximum result, the band tried to handle as much tasks as possible themselves, with the working process soon becoming chaotic, costly and time-consuming. Henning Rümenapp related how, eventually, producers Fabio Trentini and Wolfgang Stach were instrumental in “[getting] us all into the groove, bringing four oddballs together and focusing our ideas.”
+</p><p>A number of songs featured on <i>Don't Give Me Names</i>, including “Innocent Greed”, “I Want It” and “Dödel Up”, had already been performed live by the band by the time they were recorded, with a few of them dating back to the period before the release of <i>Proud Like a God</i>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> "<a href="/wiki/Big_in_Japan_(Alphaville_song)#Guano_Apes_version" title="Big in Japan (Alphaville song)">Big in Japan</a>", the first single, was initially recorded for a compilation album called <i>Pop 2000</i>, released to celebrate 50 years of German pop and rock music. The band originally intended to include “<a href="/wiki/Don%27t_You_Turn_Your_Back_on_Me" title="Don't You Turn Your Back on Me">Don't You Turn Your Back on Me</a>” (released as a standalone single in March 1999) on the album as well, but eventually decided against it due to the song's low chart ratings and overall fan feedback.
+</p><p>Four tracks from <i>Don’t Give Me Names</i> were released as singles: “Big in Japan”, ”<a href="/wiki/No_Speech" title="No Speech">No Speech</a>", "<a href="/wiki/Living_in_a_Lie" title="Living in a Lie">Living in a Lie</a>" and "<a href="/wiki/D%C3%B6del_Up" title="Dödel Up">Dödel Up</a>".
+</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Don%27t_Give_Me_Names&amp;action=edit&amp;section=2" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>All songs written by Guano Apes, except "<a href="/wiki/Big_in_Japan_(Alphaville_song)" title="Big in Japan (Alphaville song)">Big in Japan</a>", written by <a href="/wiki/Marian_Gold" title="Marian Gold">Marian Gold</a>, <a href="/wiki/Bernhard_Lloyd" title="Bernhard Lloyd">Bernhard Lloyd</a> and <a href="/wiki/Frank_Mertens" title="Frank Mertens">Frank Mertens</a>
+</p>
+<table class="tracklist" style="display:block;border-spacing:0px;border-collapse:collapse;padding:4px"><tbody><tr><th class="tlheader" scope="col" style="width:2em;padding-left:10px;padding-right:10px;text-align:right;background-color:#eee"><abbr title="Number">No.</abbr></th><th class="tlheader" scope="col" style="width:100%;text-align:left;background-color:#eee">Title</th><th class="tlheader" scope="col" style="width:4em;padding-right:10px;text-align:right;background-color:#eee">Length</th></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">1.</td><td style="vertical-align:top">"Innocent Greed"</td><td style="padding-right:10px;text-align:right;vertical-align:top">3:52</td></tr><tr style="background-color:#f7f7f7"><td style="padding-right:10px;text-align:right;vertical-align:top">2.</td><td style="vertical-align:top">"<a href="/wiki/No_Speech" title="No Speech">No Speech</a>"</td><td style="padding-right:10px;text-align:right;vertical-align:top">3:30</td></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">3.</td><td style="vertical-align:top">"<a href="/wiki/Big_in_Japan_(Alphaville_song)#Guano_Apes_version" title="Big in Japan (Alphaville song)">Big in Japan</a>"" <span style="font-size:85%">(<a href="/wiki/Alphaville_(band)" title="Alphaville (band)">Alphaville</a> cover)</span></td><td style="padding-right:10px;text-align:right;vertical-align:top">2:49</td></tr><tr style="background-color:#f7f7f7"><td style="padding-right:10px;text-align:right;vertical-align:top">4.</td><td style="vertical-align:top">"Money &amp; Milk"</td><td style="padding-right:10px;text-align:right;vertical-align:top">2:39</td></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">5.</td><td style="vertical-align:top">"<a href="/wiki/Living_in_a_Lie" title="Living in a Lie">Living in a Lie</a>"</td><td style="padding-right:10px;text-align:right;vertical-align:top">4:33</td></tr><tr style="background-color:#f7f7f7"><td style="padding-right:10px;text-align:right;vertical-align:top">6.</td><td style="vertical-align:top">"<a href="/wiki/D%C3%B6del_Up" title="Dödel Up">Dödel Up</a>"</td><td style="padding-right:10px;text-align:right;vertical-align:top">3:38</td></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">7.</td><td style="vertical-align:top">"I Want It"</td><td style="padding-right:10px;text-align:right;vertical-align:top">3:19</td></tr><tr style="background-color:#f7f7f7"><td style="padding-right:10px;text-align:right;vertical-align:top">8.</td><td style="vertical-align:top">"Heaven"</td><td style="padding-right:10px;text-align:right;vertical-align:top">4:59</td></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">9.</td><td style="vertical-align:top">"Mine All Mine"</td><td style="padding-right:10px;text-align:right;vertical-align:top">3:49</td></tr><tr style="background-color:#f7f7f7"><td style="padding-right:10px;text-align:right;vertical-align:top">10.</td><td style="vertical-align:top">"Too Close to Leave"</td><td style="padding-right:10px;text-align:right;vertical-align:top">3:33</td></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">11.</td><td style="vertical-align:top">"Gogan"</td><td style="padding-right:10px;text-align:right;vertical-align:top">2:48</td></tr><tr style="background-color:#f7f7f7"><td style="padding-right:10px;text-align:right;vertical-align:top">12.</td><td style="vertical-align:top">"Anne Claire"</td><td style="padding-right:10px;text-align:right;vertical-align:top">5:42</td></tr></tbody></table>
+<table class="tracklist collapsible collapsed" style="display:block;border-spacing:0px;border-collapse:collapse;border:#aaa 1px solid;padding:3px"><tbody><tr><th class="tlheader mbox-text" colspan="3" style="text-align:left;background-color:#fff"><i>Bonus tracks on digipak version</i></th></tr><tr><th class="tlheader" scope="col" style="width:2em;padding-left:10px;padding-right:10px;text-align:right;background-color:#eee"><abbr title="Number">No.</abbr></th><th class="tlheader" scope="col" style="width:100%;text-align:left;background-color:#eee">Title</th><th class="tlheader" scope="col" style="width:4em;padding-right:10px;text-align:right;background-color:#eee">Length</th></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">13.</td><td style="vertical-align:top">"Ain't Got Time"</td><td style="padding-right:10px;text-align:right;vertical-align:top">2:43</td></tr><tr style="background-color:#f7f7f7"><td style="padding-right:10px;text-align:right;vertical-align:top">14.</td><td style="vertical-align:top">"Living in a Lie" <span style="font-size:85%">(unplugged)</span></td><td style="padding-right:10px;text-align:right;vertical-align:top">4:27</td></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">15.</td><td style="vertical-align:top">"Anne Claire" <span style="font-size:85%">(unplugged)</span></td><td style="padding-right:10px;text-align:right;vertical-align:top">5:09</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Don%27t_Give_Me_Names&amp;action=edit&amp;section=3" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Sandra_Nasi%C4%87" title="Sandra Nasić">Sandra Nasić</a> – vocals</li>
+<li>Henning Rümenapp – guitars</li>
+<li>Stefan Ude – bass</li>
+<li>Dennis Poschwatta – drums, vocals</li></ul>
+<h3><span class="mw-headline" id="Additional_musicians">Additional musicians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Don%27t_Give_Me_Names&amp;action=edit&amp;section=4" title="Edit section: Additional musicians">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Marc Steylaerts - violin</li>
+<li>Veronique Gilis - violin</li>
+<li>Marc Tooten - viola</li>
+<li>Hans Vandaele - cello</li>
+<li>Alberto Manzanedo Alvarez - flamenco guitar, palmas (on "Mine All Mine")</li>
+<li>Michael Wolpers - percussion</li>
+<li>Dra Diarra - percussion (on "Dodel Up")</li>
+<li>Dirk Riegner - samples, programming</li>
+<li>Christian Wolff - string arrangements</li>
+<li>Markus Stollenwerk - string conductor</li></ul>
+<h3><span class="mw-headline" id="Other_staff">Other staff</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Don%27t_Give_Me_Names&amp;action=edit&amp;section=5" title="Edit section: Other staff">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Gert Jacobs – Engineer, Mixing, Mixing Assistant</li>
+<li>Bob Ludwig – Mastering</li>
+<li>Clemens Matznick – Engineer</li>
+<li>Friedel Muders – Artwork, Mastering, Design Coordinator</li>
+<li>Ronald Prent – Mixing</li>
+<li>Dirk Riegner – Programming, Sampling</li>
+<li>Dirk Schelpmeier – Photography</li>
+<li>Wolfgang Stach – Producer, Engineer</li>
+<li>Fabio Trentini – Producer</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Don%27t_Give_Me_Names&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.rockhard.de/megazine/reviewarchiv/review-anzeigen.html?tx_rxsearch_pi1%5Breview%5D=4191" rel="nofollow">http://www.rockhard.de/megazine/reviewarchiv/review-anzeigen.html?tx_rxsearch_pi1%5Breview%5D=4191</a></span>
+</li>
+<li id="cite_note-Blabbermouth-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Blabbermouth_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Borivoj Krgin. <a class="external text" href="https://www.blabbermouth.net/cdreviews/don-t-give-me-names/" rel="nofollow">"Don't Give Me Names Review"</a>. Blabbermouth<span class="reference-accessdate">. Retrieved <span class="nowrap">12 August</span> 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Don%27t+Give+Me+Names+Review&amp;rft.pub=Blabbermouth&amp;rft.au=Borivoj+Krgin&amp;rft_id=https%3A%2F%2Fwww.blabbermouth.net%2Fcdreviews%2Fdon-t-give-me-names%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADon%27t+Give+Me+Names"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.musikindustrie.de/markt-bestseller/gold-/platin-und-diamond-auszeichnung/datenbank/?action=suche&amp;strTitel=Don%27t+Give+Me+Names&amp;strInterpret=Guano+Apes&amp;strTtArt=alle&amp;strAwards=checked" rel="nofollow">"Gold-/Platin-Datenbank (Guano Apes; 'Don't Give Me Names')"</a> (in German). <a href="/wiki/Bundesverband_Musikindustrie" title="Bundesverband Musikindustrie">Bundesverband Musikindustrie</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gold-%2FPlatin-Datenbank+%28Guano+Apes%3B+%27Don%27t+Give+Me+Names%27%29&amp;rft.pub=Bundesverband+Musikindustrie&amp;rft_id=http%3A%2F%2Fwww.musikindustrie.de%2Fmarkt-bestseller%2Fgold-%2Fplatin-und-diamond-auszeichnung%2Fdatenbank%2F%3Faction%3Dsuche%26strTitel%3DDon%2527t%2BGive%2BMe%2BNames%26strInterpret%3DGuano%2BApes%26strTtArt%3Dalle%26strAwards%3Dchecked&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADon%27t+Give+Me+Names"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.swisscharts.com/search_certifications.asp?search=Guano+Apes+Don%27t+Give+Me+Names" rel="nofollow">"The Official Swiss Charts and Music Community: Awards (Guano Apes; 'Don't Give Me Names')"</a>. IFPI Switzerland. Hung Medien<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Official+Swiss+Charts+and+Music+Community%3A+Awards+%28Guano+Apes%3B+%27Don%27t+Give+Me+Names%27%29&amp;rft.pub=IFPI+Switzerland.+Hung+Medien&amp;rft_id=http%3A%2F%2Fwww.swisscharts.com%2Fsearch_certifications.asp%3Fsearch%3DGuano%2BApes%2BDon%2527t%2BGive%2BMe%2BNames&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADon%27t+Give+Me+Names"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.youtube.com/watch?v=EEfzRwVwVKc" rel="nofollow">"Guano Apes - Live at Rockpalast 1997"</a>. YouTube. 2015-03-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-05-24</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Guano+Apes+-+Live+at+Rockpalast+1997&amp;rft.pub=YouTube&amp;rft.date=2015-03-27&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEEfzRwVwVKc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADon%27t+Give+Me+Names"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.youtube.com/playlist?list=PLEF52AE3937A9D718" rel="nofollow">"Guano Apes @ Bizarre Festival 1998"</a>. YouTube. 2012-06-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-05-24</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Guano+Apes+%40+Bizarre+Festival+1998&amp;rft.pub=YouTube&amp;rft.date=2012-06-29&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLEF52AE3937A9D718&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADon%27t+Give+Me+Names"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Don%27t_Give_Me_Names&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation web"><a class="external text" href="http://www.discogs.com/Guano-Apes-Dont-Give-Me-Names/release/547345" rel="nofollow">"Guano Apes – Don't Give Me Names (CD, Album) at Discogs"</a>. www.discogs.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Guano+Apes+%E2%80%93+Don%27t+Give+Me+Names+%28CD%2C+Album%29+at+Discogs&amp;rft.pub=www.discogs.com&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2FGuano-Apes-Dont-Give-Me-Names%2Frelease%2F547345&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADon%27t+Give+Me+Names"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation web"><a class="external text" href="https://www.allmusic.com/album/r507948" rel="nofollow">"allmusic ((( Don't Give Me Names &gt; Overview )))"</a>. www.allmusic.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=allmusic+%28%28%28+Don%27t+Give+Me+Names+%3E+Overview+%29%29%29&amp;rft.pub=www.allmusic.com&amp;rft_id=https%3A%2F%2Fwww.allmusic.com%2Falbum%2Fr507948&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADon%27t+Give+Me+Names"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li></ul>
+<div aria-labelledby="Guano_Apes" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background: #b0c4de;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Guano_Apes" title="Template:Guano Apes"><abbr style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Guano_Apes" title="Template talk:Guano Apes"><abbr style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Guano_Apes&amp;action=edit"><abbr style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div class="fn org" id="Guano_Apes" style="font-size:114%;margin:0 4em"><a href="/wiki/Guano_Apes" title="Guano Apes">Guano Apes</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="*_Sandra_Nasić&amp;#10;*_Henning_Rümenapp&amp;#10;*_Stefan_Ude&amp;#10;*_Dennis_Poschwatta">
+<ul><li><b><a href="/wiki/Sandra_Nasi%C4%87" title="Sandra Nasić">Sandra Nasić</a></b></li>
+<li><b>Henning Rümenapp</b></li>
+<li><b>Stefan Ude</b></li>
+<li><b>Dennis Poschwatta</b></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Proud_Like_a_God" title="Proud Like a God">Proud Like a God</a></i></li>
+<li><i><a class="mw-selflink selflink">Don't Give Me Names</a></i></li>
+<li><i><a href="/wiki/Walking_on_a_Thin_Line" title="Walking on a Thin Line">Walking on a Thin Line</a></i></li>
+<li><i><a href="/wiki/Bel_Air_(album)" title="Bel Air (album)">Bel Air</a></i></li>
+<li><i><a href="/wiki/Offline_(album)" title="Offline (album)">Offline</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Live albums</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a class="mw-redirect" href="/wiki/Guano_Apes_%E2%80%93_Live" title="Guano Apes – Live">Live</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Compilation albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a class="mw-redirect" href="/wiki/Planet_of_the_Apes_(Guano_Apes_album)" title="Planet of the Apes (Guano Apes album)">Planet of the Apes</a></i></li>
+<li><i><a href="/wiki/Lost_(T)apes" title="Lost (T)apes">Lost (T)apes</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Video albums</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a class="mw-redirect" href="/wiki/Guano_Apes_%E2%80%93_Live" title="Guano Apes – Live">Live</a></i></li>
+<li><i><a href="/wiki/Planet_of_the_Apes:_The_Documentary" title="Planet of the Apes: The Documentary">Planet of the Apes: The Documentary</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Open_Your_Eyes_(Guano_Apes_song)" title="Open Your Eyes (Guano Apes song)">Open Your Eyes</a>"</li>
+<li>"<a href="/wiki/Rain_(Guano_Apes_song)" title="Rain (Guano Apes song)">Rain</a>"</li>
+<li>"<a href="/wiki/Lords_of_the_Boards" title="Lords of the Boards">Lords of the Boards</a>"</li>
+<li>"<a href="/wiki/Big_in_Japan_(Alphaville_song)#Guano_Apes_version" title="Big in Japan (Alphaville song)">Big in Japan</a>"</li>
+<li>"<a href="/wiki/No_Speech" title="No Speech">No Speech</a>"</li>
+<li>"<a href="/wiki/Living_in_a_Lie" title="Living in a Lie">Living in a Lie</a>"</li>
+<li>"<a href="/wiki/D%C3%B6del_Up" title="Dödel Up">Dödel Up</a>"</li>
+<li>"<a href="/wiki/You_Can%27t_Stop_Me" title="You Can't Stop Me">You Can't Stop Me</a>"</li>
+<li>"<a href="/wiki/Pretty_in_Scarlet" title="Pretty in Scarlet">Pretty in Scarlet</a>"</li>
+<li>"<a href="/wiki/Quietly_(song)" title="Quietly (song)">Quietly</a>"</li>
+<li>"<a href="/wiki/Break_the_Line" title="Break the Line">Break the Line</a>"</li>
+<li>"<a href="/wiki/Oh_What_a_Night_(Guano_Apes_song)" title="Oh What a Night (Guano Apes song)">Oh, What a Night</a>"</li>
+<li>"<a href="/wiki/Don%27t_You_Turn_Your_Back_on_Me" title="Don't You Turn Your Back on Me">Don't You Turn Your Back on Me</a>"</li>
+<li>"<a href="/wiki/Kumba_Yo!" title="Kumba Yo!">Kumba Yo!</a>"</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Guano_Apes_discography" title="Guano Apes discography">Discography</a></li>
+<li><a class="mw-redirect" href="/wiki/IO_(band)" title="IO (band)">IO</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20191217183326
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.360 seconds
+Real time usage: 0.501 seconds
+Preprocessor visited node count: 2104/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 67607/2097152 bytes
+Template argument size: 4801/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18916/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.153/10.000 seconds
+Lua memory usage: 4.5 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  436.554      1 -total
+ 48.50%  211.714      1 Template:Infobox_album
+ 29.76%  129.932      1 Template:Reflist
+ 29.68%  129.590      2 Template:Infobox
+ 26.84%  117.158      7 Template:Cite_web
+ 10.34%   45.133      1 Template:Short_description
+  7.86%   34.331      2 Template:Certification_Cite
+  7.22%   31.504      1 Template:Singles
+  7.08%   30.903      1 Template:Album_ratings
+  6.90%   30.122      1 Template:Guano_Apes
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2518477-0!canonical and timestamp 20191217183326 and revision id 910512555
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Don%27t_Give_Me_Names&amp;oldid=910512555">https://en.wikipedia.org/w/index.php?title=Don%27t_Give_Me_Names&amp;oldid=910512555</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2000_albums" title="Category:2000 albums">2000 albums</a></li><li><a href="/wiki/Category:Guano_Apes_albums" title="Category:Guano Apes albums">Guano Apes albums</a></li><li><a href="/wiki/Category:GUN_Records_albums" title="Category:GUN Records albums">GUN Records albums</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Track_listings_that_use_the_collapsed_parameter" title="Category:Track listings that use the collapsed parameter">Track listings that use the collapsed parameter</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Don%27t+Give+Me+Names" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Don%27t+Give+Me+Names" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Don%27t_Give_Me_Names" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Don%27t_Give_Me_Names" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Don%27t_Give_Me_Names">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Don%27t_Give_Me_Names&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Don%27t_Give_Me_Names&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Don%27t_Give_Me_Names" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Don%27t_Give_Me_Names" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Don%27t_Give_Me_Names&amp;oldid=910512555" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Don%27t_Give_Me_Names&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q166918" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Don%27t_Give_Me_Names&amp;id=910512555" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Don%27t+Give+Me+Names">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Don%27t+Give+Me+Names&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Don%27t_Give_Me_Names&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Don%27t_Give_Me_Names" hreflang="cs" lang="cs" title="Don't Give Me Names – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Don%E2%80%99t_Give_Me_Names" hreflang="de" lang="de" title="Don’t Give Me Names – German">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Don%27t_Give_Me_Names" hreflang="fr" lang="fr" title="Don't Give Me Names – French">Français</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Don%27t_Give_Me_Names" hreflang="hr" lang="hr" title="Don't Give Me Names – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Don%27t_Give_Me_Names" hreflang="it" lang="it" title="Don't Give Me Names – Italian">Italiano</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Don%27t_Give_Me_Names" hreflang="pl" lang="pl" title="Don't Give Me Names – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Don%27t_Give_Me_Names" hreflang="pt" lang="pt" title="Don't Give Me Names – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/Don%E2%80%99t_Give_Me_Names" hreflang="ru" lang="ru" title="Don’t Give Me Names – Russian">Русский</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/Don%27t_Give_Me_Names" hreflang="uk" lang="uk" title="Don't Give Me Names – Ukrainian">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q166918#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 August 2019, at 16:06<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Don%27t_Give_Me_Names&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.360","walltime":"0.501","ppvisitednodes":{"value":2104,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":67607,"limit":2097152},"templateargumentsize":{"value":4801,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18916,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  436.554      1 -total"," 48.50%  211.714      1 Template:Infobox_album"," 29.76%  129.932      1 Template:Reflist"," 29.68%  129.590      2 Template:Infobox"," 26.84%  117.158      7 Template:Cite_web"," 10.34%   45.133      1 Template:Short_description","  7.86%   34.331      2 Template:Certification_Cite","  7.22%   31.504      1 Template:Singles","  7.08%   30.903      1 Template:Album_ratings","  6.90%   30.122      1 Template:Guano_Apes"]},"scribunto":{"limitreport-timeusage":{"value":"0.153","limit":"10.000"},"limitreport-memusage":{"value":4713821,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20191217183326","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Don't Give Me Names","url":"https:\/\/en.wikipedia.org\/wiki\/Don%27t_Give_Me_Names","sameAs":"http:\/\/www.wikidata.org\/entity\/Q166918","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q166918","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-08-23T07:46:54Z","dateModified":"2019-08-12T16:06:43Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/4\/4a\/Dgmn_cover.jpg","headline":"album"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":125,"wgHostname":"mw1249"});});</script>
+
+
+</body></html>

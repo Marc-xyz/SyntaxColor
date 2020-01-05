@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Project Starfighter - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XflzDQpAAEQAADgQqxUAAAAD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Project_Starfighter","wgTitle":"Project Starfighter","wgCurRevisionId":828407399,"wgRevisionId":828407399,"wgArticleId":6680361,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles using Infobox video game using locally defined parameters","Articles using Wikidata infoboxes with locally defined images","All articles with unsourced statements",
+"Articles with unsourced statements from June 2015","Articles with unsourced statements from February 2010","Restricted titles","Linux games","2001 video games","AmigaOS 4 games","MacOS games","MorphOS games","Shoot 'em ups","Open-source video games","PlayStation Portable games","Novels based on video games","Libre art","Creative Commons-licensed video games","Video games developed in the United Kingdom","Windows games","Xbox games"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Project_Starfighter","wgRelevantArticleId":6680361,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":
+!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7249334","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips",
+"ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/1/1b/ProjectStarfighter.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Project_Starfighter" rel="alternate"/>
+<link href="/w/index.php?title=Project_Starfighter&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Project_Starfighter&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Project_Starfighter" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Project_Starfighter rootpage-Project_Starfighter skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en"><i>Project Starfighter</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note"><div class="plainlinks selfreference noprint" style="display:inline;">The correct title of this article is <b>Project: Starfighter</b>. The substitution or omission of the <a href="/wiki/Colon_(punctuation)" title="Colon (punctuation)">colon</a> is due to <a href="/wiki/Wikipedia:Naming_conventions_(technical_restrictions)" title="Wikipedia:Naming conventions (technical restrictions)">technical restrictions</a>.</div></div>
+<table class="infobox hproduct" style="width:22em;float: right; width: 22em; font-size: 90%; text-align: left; border-spacing: 3px;"><tbody><tr><th class="fn" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:110%;font-style:italic;">Project: Starfighter</th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:ProjectStarfighter.jpg"><img alt="ProjectStarfighter.jpg" data-file-height="626" data-file-width="808" decoding="async" height="170" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ProjectStarfighter.jpg/220px-ProjectStarfighter.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ProjectStarfighter.jpg/330px-ProjectStarfighter.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ProjectStarfighter.jpg/440px-ProjectStarfighter.jpg 2x" width="220"/></a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><a href="/wiki/Video_game_developer" title="Video game developer">Developer(s)</a></th><td style="line-height:1.3em;">Parallel Realities</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><a href="/wiki/Video_game_publisher" title="Video game publisher">Publisher(s)</a></th><td style="line-height:1.3em;">Parallel Realities</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><a class="mw-redirect" href="/wiki/Video_game_designer" title="Video game designer">Designer(s)</a></th><td style="line-height:1.3em;">Stephen J Sweeney<br/>Richard Sweeney</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><a href="/wiki/Computing_platform" title="Computing platform">Platform(s)</a></th><td style="line-height:1.3em;"><a class="mw-redirect" href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Release</th><td style="line-height:1.3em;">December <a href="/wiki/2001_in_video_gaming" title="2001 in video gaming">2001</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><a href="/wiki/Video_game_genre" title="Video game genre">Genre(s)</a></th><td style="line-height:1.3em;"><a href="/wiki/Shoot_%27em_up" title="Shoot 'em up">Shoot 'em up</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Mode(s)</th><td style="line-height:1.3em;"><a class="mw-redirect" href="/wiki/Single_player" title="Single player">Single player</a></td></tr></tbody></table>
+<p><i><b>Project: Starfighter</b></i> is a 2D <a href="/wiki/Shoot_%27em_up" title="Shoot 'em up">shoot 'em up</a> written by Parallel Realities (Stephen J Sweeney). It is a mission and objective based game also featuring an intricate plot. The game was later released by Sweeney as Freeware and the <a href="/wiki/Game_engine" title="Game engine">engine</a>'s <a href="/wiki/Source_code" title="Source code">source code</a> was opened to the public. The game is now maintained and updated by the game's community as <a href="/wiki/Free_and_open-source_software" title="Free and open-source software">Free and open-source software</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Gameplay"><span class="tocnumber">1</span> <span class="toctext">Gameplay</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Plot"><span class="tocnumber">2</span> <span class="toctext">Plot</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Development_history"><span class="tocnumber">3</span> <span class="toctext">Development history</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Novelization"><span class="tocnumber">4</span> <span class="toctext">Novelization</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Gameplay">Gameplay</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Project_Starfighter&amp;action=edit&amp;section=1" title="Edit section: Gameplay">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The game is non linear allowing the player to choose the order of the missions they will undertake in the system. The player's craft can also be upgraded with a choice of secondary weapons and ability to powerup the main plasma cannons.
+</p><p>It also features computer controlled wingmates who assist players in battle.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>  If the wingmate's craft is destroyed the wingmate will eject and be available in the next mission. Some missions however stipulate that the wingmate must not be allowed to be killed.
+</p>
+<h2><span class="mw-headline" id="Plot">Plot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Project_Starfighter&amp;action=edit&amp;section=2" title="Edit section: Plot">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the future, a weapons corporation known as WEAPCO has dominated the known galaxy with their AI driven starfighters. Under the rule of WEAPCO people begin to suffer and perish. A young rebel pilot called Chris Bainfield makes it his duty to free his home star system, known as Spirit, of WEAPCO's control. He hires a mercenary known as Krass Tyler to steal a Firefly starfighter for him. Along with his close friend, Sid Wilson, Chris begins his mission to fight in to <i>Sol</i> and take down the WEAPCO empire. After preventing a WEAPCO frigate from causing Spirit to supernova he begins the liberation of a number of slaves, including Phoebe Lexx who joins him in his quest. Shortly thereafter the pair are lured into a trap set by Kline Kethlan, the commander of WEAPCO's forces. Bainfield dog fights Kethlan who escapes just before Bainfield can destroy his starfighter.
+</p><p>Resuming their journey towards Sol, the three allies rescue Phoebe's twin sister, Ursula, before they are attacked by Krass Tyler. The mercenary informs them that it is nothing personal and that he has been paid off by WEAPCO to eliminate the team. Eventually the group arrive at Earth where they battle for control of the planet.
+</p><p>With WEAPCO overthrown Bainfield chases Kethlan to Venus where he begs the commander to surrender, so that he does not have to kill him. Kethlan refuses and informs Bainfield that he would prefer to die a warrior's death. The two dog fight for one last time, with Bainfield emerging as the victor.
+</p>
+<h2><span class="mw-headline" id="Development_history">Development history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Project_Starfighter&amp;action=edit&amp;section=3" title="Edit section: Development history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Project: Starfighter</i> was originally developed for the <a href="/wiki/Amiga" title="Amiga">Amiga</a>, and the <a href="/wiki/Source_code" title="Source code">source code</a> was available as <a href="/wiki/Freeware" title="Freeware">freeware</a> (allowing only non-commercial usage) in the early 2000s.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> On 7 March 2002 the game was released for Linux too, and the <a href="/wiki/Source_code" title="Source code">source code</a> was released under non-commercial terms.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> On 18 April 2004 the game become available for <a href="/wiki/Debian" title="Debian">Debian</a> and the <a class="mw-redirect" href="/wiki/GPL_license" title="GPL license">GPL license</a> was linked for the complete Parallel Realities website.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p><i>Project: Starfighter</i> has been <a href="/wiki/Porting" title="Porting">ported</a> later to many platforms, including <a href="/wiki/Linux" title="Linux">Linux</a>, <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a>,<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> <a class="mw-redirect" href="/wiki/Mac_OS_X" title="Mac OS X">Mac OS X</a>,<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a>,<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> <a class="mw-redirect" href="/wiki/Sony_PSP" title="Sony PSP">Sony PSP</a>, <a class="mw-redirect" href="/wiki/Amiga_OS4" title="Amiga OS4">Amiga OS4</a>,<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> <a href="/wiki/QNX" title="QNX">QNX</a> and <a href="/wiki/Xbox_(console)" title="Xbox (console)">Xbox</a>.
+</p><p>A <a class="mw-redirect" href="/wiki/Fork_(software)" title="Fork (software)">continuation</a> of Project Starfighter exists, where the original Freeware game assets were replaced by various <a href="/wiki/Open_content" title="Open content">Open content</a> artwork (mostly <a class="mw-redirect" href="/wiki/CC_BY" title="CC BY">CC BY</a> and <a class="mw-redirect" href="/wiki/CC_BY-SA" title="CC BY-SA">CC BY-SA</a> licensed) in 2012 and 2015.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> The project moved in 2015 from <a class="mw-redirect" href="/wiki/Sourceforge" title="Sourceforge">Sourceforge</a> to <a href="/wiki/GNU_Savannah" title="GNU Savannah">GNU Savannah</a> as source code repository.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> The project keeps on being updated under the <a class="mw-redirect" href="/wiki/GPLv3" title="GPLv3">GPLv3</a>, with latest release March 2017.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Novelization">Novelization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Project_Starfighter&amp;action=edit&amp;section=4" title="Edit section: Novelization">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In June 2014, some 14 years after the game was initially released, Sweeney published a novelization of the story of Project: Starfighter,<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> making it the first time a commercial novel has been based on a GPL video game.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2015)">citation needed</span></a></i>]</sup> The story retains much of the plot of the original game, while also expanding on a number of aspects of the universe. Key characters from the game - Chris Bainfield, Sid Wilson, Kline Kethlan, Krass Tyler, and Phoebe and Ursula Lexx - are all given prominent roles, while WEAPCO is presented as the "Wade Ellen Asset Protection Corporation" (by way of a <a href="/wiki/Backronym" title="Backronym">backronym</a>). The most substantial change was that the starfighter itself that Chris flew during the game is now sentient in the book. The fighter goes by the name of Athena. Athena plays a large role in the story, and helps Chris in his fight back against WEAPCO. While piloting the Firefly, Athena is able to merge her mind with Chris', allowing him to increase his perception of the world and react much faster than an ordinary human pilot. The speed at which he learns to master flight and combat in the Firefly also increases significantly, with Chris becoming a legendary pilot in a matter of only a few days.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Project_Starfighter&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="249" data-file-width="249" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e0/WPVG_icon_2016.svg/28px-WPVG_icon_2016.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e0/WPVG_icon_2016.svg/42px-WPVG_icon_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e0/WPVG_icon_2016.svg/56px-WPVG_icon_2016.svg.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Video_games" title="Portal:Video games">Video games portal</a></span></li></ul></div>
+<ul><li><a class="mw-redirect" href="/wiki/Blob_Wars:_Metal_Blob_Solid" title="Blob Wars: Metal Blob Solid">Blob Wars: Metal Blob Solid</a></li>
+<li><a class="mw-redirect" href="/wiki/Blob_Wars:_Blob_And_Conquer" title="Blob Wars: Blob And Conquer">Blob Wars: Blob And Conquer</a></li>
+<li><a href="/wiki/The_Honour_of_the_Knights" title="The Honour of the Knights">The Honour of the Knights</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Project_Starfighter&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.maximumpc.com/article/features/1004_freeware_gaming_roundup_back_basics" rel="nofollow">Freeware Gaming Roundup: Back to the Basics!</a> - <a href="/wiki/Maximum_PC" title="Maximum PC">Maximum PC</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20011111025723/http://www.parallelrealities.co.uk/starfighter.html" rel="nofollow">www.parallelrealities.co.uk/starfighter.html</a> webarchive version 2001 <i>Can I use it as a basis for a commercial product? No! This code is freeware. If you make anything out of it you should make the product freeware. You may not use this code to construct a shareware product either.</i></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20021006201617/http://www.parallelrealities.co.uk/fighters.html" rel="nofollow">www.parallelrealities.co.uk/fighters.html</a> webarchive version 2002 <i>License: This code may be used as the user wishes, with the exception of any commercial (including shareware) package. Since you are receiving this code for free, the program you make it a part of should also be free (hey, that's only fair, right?). You can credit Parallel Realities if you wish, although it is not necessary.</i></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/*/http://parallelrealities.co.uk/LICENSE" rel="nofollow">parallelrealities.co.uk/LICENSE</a> webarchive versions</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.freshports.org/games/starfighter/" rel="nofollow">freshports.org/games/starfighter/</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.reloaded.org/download/Project-Starfighter/65/" rel="nofollow">Abandonia Reloaded @ Project: Starfighter</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.netzwelt.de/download/11576-project-starfighter.html" rel="nofollow">Project: Starfighter - netzwelt</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.os4depot.net/index.php?function=showfile&amp;file=game/shmup/starfighter.lha" rel="nofollow">Project Starfighter - OS4Depot</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://starfighter.nongnu.org/" rel="nofollow">"Project: Starfighter"</a>. <q>this version of the game replaces those art assets with <a href="/wiki/Open_content" title="Open content">libre art</a> assets</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Project%3A+Starfighter&amp;rft_id=http%3A%2F%2Fstarfighter.nongnu.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProject+Starfighter"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a class="external text" href="https://savannah.nongnu.org/projects/starfighter" rel="nofollow">starfighter</a> on savannah.nongnu.org</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a class="external text" href="http://download.savannah.gnu.org/releases/starfighter/" rel="nofollow">starfigher releases</a> on savannah.nongnu.org</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.stephenjsweeney.com/books/ps/" rel="nofollow">Project Starfighter</a> on stephenjsweeney.com</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a class="external text" href="http://boingboing.net/2014/06/16/sf-novel-based-on-freeopen-ga.html" rel="nofollow">SF novel based on free/open game "Project: Starfighter"</a> by <a href="/wiki/Cory_Doctorow" title="Cory Doctorow">Cory Doctorow</a> Jun 16, 2014</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Project_Starfighter&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Magnus "MdaG" Olsson, <a class="external text" href="http://www.reloaded.org/download/Project-Starfighter/65/" rel="nofollow">Project Starfighter</a> review, reloaded.org</li>
+<li>JuegaLinEx: más de 140 juegos compatibles con GNU-Linux, Chapter 31, Page 90</li>
+<li><a href="/wiki/Linux_Format" title="Linux Format">Linux Format</a>, March 2003, Hot Pick<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2010)">citation needed</span></a></i>]</sup></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Project_Starfighter&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://starfighter.nongnu.org" rel="nofollow"><i>Project: Starfighter</i> homepage</a> on the nongnu.org</li>
+<li><a class="external text" href="http://sourceforge.net/projects/pr-starfighter/" rel="nofollow"><i>Project: Starfighter</i></a> on <a class="mw-redirect" href="/wiki/Sourceforge" title="Sourceforge">Sourceforge</a></li>
+<li><a class="external text" href="http://www.parallelrealities.co.uk/" rel="nofollow">Parallel Realities Homepage</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1345
+Cached time: 20191211113959
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.272 seconds
+Real time usage: 0.370 seconds
+Preprocessor visited node count: 1350/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 14232/2097152 bytes
+Template argument size: 1805/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7891/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.137/10.000 seconds
+Lua memory usage: 3.66 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  336.733      1 -total
+ 31.45%  105.893      1 Template:Infobox_video_game
+ 27.05%   91.075      1 Template:Reflist
+ 25.63%   86.318      1 Template:Infobox
+ 22.54%   75.900      1 Template:Cite_web
+ 21.43%   72.148      1 Template:Correct_title
+ 14.21%   47.849      2 Template:Citation_needed
+ 12.13%   40.854      2 Template:Fix
+ 11.67%   39.308      1 Template:Selfref
+ 10.66%   35.909      1 Template:Hatnote
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6680361-0!canonical and timestamp 20191211113959 and revision id 828407399
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Project_Starfighter&amp;oldid=828407399">https://en.wikipedia.org/w/index.php?title=Project_Starfighter&amp;oldid=828407399</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Restricted_titles" title="Category:Restricted titles">Restricted titles</a></li><li><a href="/wiki/Category:Linux_games" title="Category:Linux games">Linux games</a></li><li><a href="/wiki/Category:2001_video_games" title="Category:2001 video games">2001 video games</a></li><li><a href="/wiki/Category:AmigaOS_4_games" title="Category:AmigaOS 4 games">AmigaOS 4 games</a></li><li><a href="/wiki/Category:MacOS_games" title="Category:MacOS games">MacOS games</a></li><li><a href="/wiki/Category:MorphOS_games" title="Category:MorphOS games">MorphOS games</a></li><li><a href="/wiki/Category:Shoot_%27em_ups" title="Category:Shoot 'em ups">Shoot 'em ups</a></li><li><a href="/wiki/Category:Open-source_video_games" title="Category:Open-source video games">Open-source video games</a></li><li><a href="/wiki/Category:PlayStation_Portable_games" title="Category:PlayStation Portable games">PlayStation Portable games</a></li><li><a href="/wiki/Category:Novels_based_on_video_games" title="Category:Novels based on video games">Novels based on video games</a></li><li><a href="/wiki/Category:Libre_art" title="Category:Libre art">Libre art</a></li><li><a href="/wiki/Category:Creative_Commons-licensed_video_games" title="Category:Creative Commons-licensed video games">Creative Commons-licensed video games</a></li><li><a href="/wiki/Category:Video_games_developed_in_the_United_Kingdom" title="Category:Video games developed in the United Kingdom">Video games developed in the United Kingdom</a></li><li><a href="/wiki/Category:Windows_games" title="Category:Windows games">Windows games</a></li><li><a href="/wiki/Category:Xbox_games" title="Category:Xbox games">Xbox games</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_using_Infobox_video_game_using_locally_defined_parameters" title="Category:Articles using Infobox video game using locally defined parameters">Articles using Infobox video game using locally defined parameters</a></li><li><a href="/wiki/Category:Articles_using_Wikidata_infoboxes_with_locally_defined_images" title="Category:Articles using Wikidata infoboxes with locally defined images">Articles using Wikidata infoboxes with locally defined images</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2015" title="Category:Articles with unsourced statements from June 2015">Articles with unsourced statements from June 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2010" title="Category:Articles with unsourced statements from February 2010">Articles with unsourced statements from February 2010</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Project+Starfighter" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Project+Starfighter" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Project_Starfighter" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Project_Starfighter" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Project_Starfighter">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Project_Starfighter&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Project_Starfighter&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Project_Starfighter" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Project_Starfighter" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Project_Starfighter&amp;oldid=828407399" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Project_Starfighter&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7249334" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Project_Starfighter&amp;id=828407399" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Project+Starfighter">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Project+Starfighter&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Project_Starfighter&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Project_Starfighter" hreflang="sv" lang="sv" title="Project Starfighter – Swedish">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7249334#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 March 2018, at 10:34<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Project_Starfighter&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.272","walltime":"0.370","ppvisitednodes":{"value":1350,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":14232,"limit":2097152},"templateargumentsize":{"value":1805,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7891,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  336.733      1 -total"," 31.45%  105.893      1 Template:Infobox_video_game"," 27.05%   91.075      1 Template:Reflist"," 25.63%   86.318      1 Template:Infobox"," 22.54%   75.900      1 Template:Cite_web"," 21.43%   72.148      1 Template:Correct_title"," 14.21%   47.849      2 Template:Citation_needed"," 12.13%   40.854      2 Template:Fix"," 11.67%   39.308      1 Template:Selfref"," 10.66%   35.909      1 Template:Hatnote"]},"scribunto":{"limitreport-timeusage":{"value":"0.137","limit":"10.000"},"limitreport-memusage":{"value":3842636,"limit":52428800}},"cachereport":{"origin":"mw1345","timestamp":"20191211113959","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Project Starfighter","url":"https:\/\/en.wikipedia.org\/wiki\/Project_Starfighter","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7249334","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7249334","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-08-25T08:56:00Z","dateModified":"2018-03-02T10:34:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1b\/ProjectStarfighter.jpg","headline":"2001 video game"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135,"wgHostname":"mw1273"});});</script>
+
+
+</body></html>

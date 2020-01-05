@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Enchanta - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqtYgpAMFEAAJJLR@oAAABE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Enchanta","wgTitle":"Enchanta","wgCurRevisionId":915148027,"wgRevisionId":915148027,"wgArticleId":3536944,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template archiveis links","Webarchive template wayback links","Languages without Glottolog code","Conlangs without ISO 639-3 code","Language articles with speakers set to 'unknown'",
+"Languages with neither ISO nor Glottolog code","Articles needing additional references from December 2016","All articles needing additional references","Encantadia","Fictional languages","Constructed languages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Enchanta","wgRelevantArticleId":3536944,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5375350","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Enchanta" rel="alternate"/>
+<link href="/w/index.php?title=Enchanta&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Enchanta&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Enchanta" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Enchanta rootpage-Enchanta skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Enchanta</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox vevent" style="width:22em"><tbody><tr><th class="above" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%; color: white; background-color: black;">Enchanta</th></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Pronunciation</th><td style="line-height:1.3em;"><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">ɛnˈtʃɑːntɑː</span></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Created by</th><td style="line-height:1.3em;"><a href="/wiki/Suzette_Doctolero" title="Suzette Doctolero">Suzette Doctolero</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Date</th><td style="line-height:1.3em;">2005</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Setting and usage</th><td style="line-height:1.3em;"><i><a class="mw-redirect" href="/wiki/Encantadia_(TV_Series)" title="Encantadia (TV Series)">Encantadia</a></i></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Purpose</th><td style="line-height:1.3em;"><div style="text-align:left;"><a href="/wiki/Constructed_language" title="Constructed language">constructed languages</a>
+<ul style="line-height:100%; margin-left:1.35em;padding-left:0"><li>
+<a href="/wiki/Artistic_language" title="Artistic language">artistic languages</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Fictional_language" title="Fictional language">fictional languages</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><b>Enchanta</b></li></ul></li></ul></li></ul></div></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><div style="padding:0.1em 0;line-height:1.2em;"><span class="wrap"><a href="/wiki/Writing_system" title="Writing system">Writing system</a></span></div></th><td style="line-height:1.3em;"><a href="/wiki/Baybayin" title="Baybayin">Enchan</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Sources</th><td style="line-height:1.3em;"><a class="mw-redirect" href="/wiki/A_priori_(languages)" title="A priori (languages)">a priori language</a> with a vocabulary influenced by <a href="/wiki/Philippine_languages" title="Philippine languages">Philippine languages</a> (particularly <a href="/wiki/Tagalog_language" title="Tagalog language">Tagalog</a>) and <a href="/wiki/Romance_languages" title="Romance languages">Romance languages</a>.</td></tr><tr><th colspan="2" style="text-align:center;color: white; background-color: black;">Official status</th></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><a href="/wiki/List_of_language_regulators" title="List of language regulators">Regulated by</a></th><td style="line-height:1.3em;"><a href="/wiki/GMA_Network" title="GMA Network">GMA Network</a></td></tr><tr><th colspan="2" style="text-align:center;color: white; background-color: black;">Language codes</th></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td style="line-height:1.3em;"><i>None</i> (<code>mis</code>)</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></th><td style="line-height:1.3em;"><i>None</i></td></tr></tbody></table>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" decoding="async" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Enchanta&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br/><small><span class="plainlinks"><i>Find sources:</i> <a class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Enchanta%22" rel="nofollow">"Enchanta"</a> – <a class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Enchanta%22+-wikipedia" rel="nofollow">news</a> <b>·</b> <a class="external text" href="//www.google.com/search?&amp;q=%22Enchanta%22+site:news.google.com/newspapers&amp;source=newspapers" rel="nofollow">newspapers</a> <b>·</b> <a class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Enchanta%22+-wikipedia" rel="nofollow">books</a> <b>·</b> <a class="external text" href="//scholar.google.com/scholar?q=%22Enchanta%22" rel="nofollow">scholar</a> <b>·</b> <a class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Enchanta%22&amp;acc=on&amp;wc=on" rel="nofollow">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">December 2016</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><b>Enchanta</b> <span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ɛ/: 'e' in 'dress'">ɛ</span><span title="'n' in 'nigh'">n</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="/tʃ/: 'ch' in 'China'">tʃ</span><span title="/ɑː/: 'a' in 'father'">ɑː</span><span title="'n' in 'nigh'">n</span><span title="'t' in 'tie'">t</span><span title="/ɑː/: 'a' in 'father'">ɑː</span></span>/</a></span></span> (<i>Enchan</i> <span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ɛ/: 'e' in 'dress'">ɛ</span><span title="'n' in 'nigh'">n</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="/tʃ/: 'ch' in 'China'">tʃ</span><span title="/ɑː/: 'a' in 'father'">ɑː</span><span title="'n' in 'nigh'">n</span></span>/</a></span></span> in the 2016 series) is a <a href="/wiki/Constructed_language" title="Constructed language">constructed language</a> spoken by the denizens of <a href="/wiki/Encantadia" title="Encantadia">Encantadia</a>, known as Encantado(s)/Encantada(s) or <a href="/wiki/Diwata" title="Diwata">Diwata</a> (<a class="mw-redirect" href="/wiki/Fairies" title="Fairies">fairies</a>). It was initially created by <a href="/wiki/Suzette_Doctolero" title="Suzette Doctolero">Suzette Doctolero</a> for the <a href="/wiki/Philippines" title="Philippines">Philippine</a> <a class="mw-redirect" href="/wiki/Fantaserye" title="Fantaserye">fantasy</a> <a class="mw-redirect" href="/wiki/Television_drama" title="Television drama">television drama</a> <a href="/wiki/Saga" title="Saga">saga</a> <i><a class="mw-redirect" href="/wiki/Encantadia_Saga" title="Encantadia Saga">Encantadia</a></i>, which aired on <a href="/wiki/GMA_Network" title="GMA Network">GMA Network</a> in 2005,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> and was later used in the show's sequels, <i><a href="/wiki/Etheria" title="Etheria">Etheria: Ang Ikalimang Kaharian ng Encantadia</a></i> and <i><a href="/wiki/Encantadia:_Pag-ibig_Hanggang_Wakas" title="Encantadia: Pag-ibig Hanggang Wakas">Encantadia: Pag-ibig Hanggang Wakas</a></i>. The source material of the language appears to have been derived from <a href="/wiki/Philippine_languages" title="Philippine languages">Philippine languages</a> (particularly <a href="/wiki/Tagalog_language" title="Tagalog language">Tagalog</a>) and <a href="/wiki/Romance_languages" title="Romance languages">Romance languages</a>.  It has its own script, <a class="mw-redirect" href="/wiki/Enchan" title="Enchan">Enchan</a>, which appears to be based on <a href="/wiki/Baybayin" title="Baybayin">Baybayin</a>. Three songs in the language are written by Doctolero, namely "Asshenti (Love song)", "Hade!! (Etheria theme song)", and "Ivo (<a class="mw-redirect" href="/wiki/Lireo" title="Lireo">Lireo</a> <a href="/wiki/National_anthem" title="National anthem">national anthem</a>)", which are all sung by <a href="/wiki/Bayang_Barrios" title="Bayang Barrios">Bayang Barrios</a> for the sequel <i><a href="/wiki/Etheria" title="Etheria">Etheria</a></i> in 2006.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#List_of_Examples"><span class="tocnumber">2</span> <span class="toctext">List of Examples</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Conversational"><span class="tocnumber">3</span> <span class="toctext">Conversational</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enchanta&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Enchanta was created by Suzette Doctolero originally for the Philippine fantasy series Encantadia to make the viewers feel that the world  of Encantados be somehow realistic and genuine. Doctolero created its vocabulary from many Indo-European languages with some influences of Philippine languages especially Tagalog. It can be traced from words like "corre", to love (from the root "cor" meaning heart) and "avoya", to travel (voyage). The language is also notable of being spoken as it sounds like its from some kind of European country because of the tone and the phonotactics. Most characters from the Encantadia saga know how to speak Enchanta, but it was Cassiopeia that had spoken the language most in the whole series, from the fact that she is the first <i>diwata</i> (fairy) of Lireo and ancestor of all the royal-blooded <i>diwatas</i> of the Queendom.
+</p>
+<h2><span class="mw-headline" id="List_of_Examples">List of Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enchanta&amp;action=edit&amp;section=2" title="Edit section: List of Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Below are the examples of Enchanta words and Phrases, with English and Tagalog Translation
+</p><p><b>Ada</b> — Mother / Nanay Adarde — Come here / Lumapit ka sa akin <br/> 
+<b>Adnes nesa aduwa iva?</b> — What is the meaning of this?! / Ano ang ibig sabihin nito?! <br/>
+<b>Ado</b> — Father / Tatay <br/>
+<b>Agape Avi</b> — Excuse me / Paumanhin <br/>
+<b>Agoddo</b> — Frog / Palaka <br/>
+<b>Aldo</b> — Uncle / Tito <br/>
+<b>Apwe</b> — Sibling / Kapatid <br/>
+<b>Arksha</b> — Baby / Sanggol <br/>
+<b>Ashtadi</b> — Violator! / Pasaway! <br/>
+<b>Ashte Mashte Lesnum (name of a place)</b> — May peace be kept throughout (name of a place). <i>Example: <b>Ashte Mashte lesnum Encantadia</b> — May peace be kept throughout Encantadia.</i> <br/>
+<b>Ashti</b> — Aunt / Tita <br/>
+<b>Asmar ivi ishi sanbay ivi ivo</b> — I am just astounded at what happened to the infant. <br/>
+<b>Asnamon voyanazar</b> — I'm a traveler, Asnamon tree (Encantadia's version of open sesame. The whole command says: when entering - "Asnamon voyanazar, Papasukin mo ako sa mundo ng Encantadia/mga tao." ("Asnamon voyanazar, Get me enter in the world of Encantadia/humans.")<br/>
+<b>Asnamon arber</b> — (Encantadia's version of close sesame. Isarado mo ang lagusan." <br/>
+<b>Asshenti</b> — Hear/Listen / Makinig <br/>
+<b>Avira voya uste</b> — Let me pass / Padaanin niyo ako <br/>
+<b>Avisala</b> — Greetings / Pagbati <br/>
+<b>Avisala Eshma</b> — Thank you / Salamat
+<b>Avisala meiste</b> — The opposite of <br/>
+<b>Avisala</b>, goodbye/farewell / Paalam <br/>
+<b>Balaak</b> — Hell / Impyerno <br/>
+<b>Celestia</b> — Angel / Anghel <br/>
+<b>Corra</b> — Heart / Puso <br/>
+<b>Correi/Corre</b> — Love / Pagmamahal <br/>
+<b>Dama</b> — Housekeeper / Katulong <br/>
+<b>Dayo</b> — Foreigner <br/>
+<b>Dese</b> — Happy / Maligaya <br/>
+<b>Detrumvia</b> — Liar / Sinungaling <br/>
+<b>Deu</b> — Who / Sino <br/>
+<b>Devas</b> — Heaven / Langit <br/>
+<b>Deyande</b> — Bobo / Tanga <br/>
+<b>Diwani</b> — Princess / Prinsesa <br/>
+<b>E correi</b> — My love / Mahal ko <br/>
+<b>E correi diu</b> — I love you / Mahal kita <br/>
+<b>E corre masne e live</b> — Love one another till the end of time. <br/>
+<b>Ebi meshne</b> — You will regret this / Pagsisisihan mo ito <br/>
+<b>Ecapala</b> — Enemy / Kalaban <br/>
+<b>Ecsha</b> — Maybe / Yata <br/>
+<b>Ekoshme</b> — Charge! <br/>
+<b>Edepunte runte!</b> - Find them! / Hanapin sila! <br/>
+<b>Edi sanctre</b> - Death/Kamatayan <br/>
+<b>Emre eshne ashte emin?</b> — God, why you forsake my brother? / Bathala bakit Hindi mo inalagaan ang kapatid ko?<br/>
+<b>Ena-i</b> – You hurry! / Bilisan mo! <br/>
+<b>Eshma</b> — Thank you / Salamat <br/>
+<b>Estasectu</b> — Get ready. / Maghanda na. <br/>
+<b>Este ivi?</b> — Is this true? / Totoo ba ito?<br/>
+<b>Eteka aneya ivi</b> — Have you forgotten? / Nakalimutan mo na ba? <br/>
+<b>Evre ishnu</b> — Leave me. <br/>
+<b>Gajad</b> — Native / Katutubo <br/>
+<b>Ganto</b> — Horse / Kabayo <br/>
+<b>Geshnu</b> — Go away! <br/>
+<b>Geshnu ivre</b> — Leave me alone. <br/>
+<b>Gushna ivne</b> — Leave us. <br/>
+<b>Gushna ivdea</b> — I am blessing you. <br/>
+<b>Gusna</b> — Warning / Babala<br/>
+<b>Hadia</b> — Niece / Pamangkin <br/>
+<b>Hade</b> — (verb) To fight <br/>
+<b>Hartu sanctu (something)</b> — Bless (something). <br/>
+<b>Hasna lesnu Maste</b> — And may God help me be the champion of peace <br/>
+<b>Hasna verom gashne vo</b> — If you do not give me that, I will kill you. <br/>
+<b>Hasne duvin (name of person)?</b> — What happened to you, (name of person)? <br/>
+<b>Hasne ivo live</b> — Happy Birthday. <br/>
+<b>Heshne</b> — Get out! / Lumabas ka! <br/>
+<b>I-lo</b> — Grandfather / Lolo<br/>
+<b>I-la</b> — Grandmother / Lola <br/>
+<b>I-lamer</b> — Water / Tubig <br/>
+<b>Ilantre ivi e corre?</b> - Nasaan ang pag-ibig <br/>
+<b>Intevte ashelente</b> — Are they living in the palace? / Nakatira ba sila dito? <br/>
+<b>Isne binn voyanazar</b> — He's approaching. / Parating siya. <br/>
+<b>Ivi duo</b> — I know. / Alam ko. <br/>
+<b>Ivi este</b> — I don't know. / Hindi ko alam. <br/>
+<b>Ivi kuntirunte</b> — I am ordering you/Inuutusan kita. <br/>
+<b>Ivi musti paneya</b> — I'm hungry. / Gutom na ako. <br/>
+<b>Ivneshe</b> — Dream / Panaginip <br/>
+<b>Ivo ron, esra...</b> —  I know, but... / Alam ko pero..... <br/>
+<b>Ivro</b> — Return / Ibalik <br/>
+<b>Kanwu</b> — Near / Malapit <br/>
+<b>Mashna/Mancha</b> — General (Military) <br/>
+<b>Masne sera (name of person)</b> — Peaceful night to you, (name of person) / Mapayapang gabi, (name of person) <br/>
+<b>Maste lesnu (name of person)</b> — Peace be with (name of person). Compare with Namaste. <br/>
+<b>Mayale</b> — Pig / Baboy <br/>
+<b>Menantre</b> — Mentor <br/>
+<b>Morfe</b> — Nothing / Wala <br/>
+<b>Nedanus muste</b> — You are so beautiful. / Nakakabighani ang iyong ganda. <br/>
+<b>Neda-veda</b> — He/she is not here. <br/>
+<b>Ne Sshuda</b> — You're wrong. / Mali ka.<br/>
+<b>Neshda</b> — Whisper / Bulong <br/>
+<b>Paneya</b> — Bread / Tinapay <br/>
+<b>Pashnea</b> — Showhing angerness / Pagpapahayag ng galit/ Animal!/Hayop!<br/>
+<b>Prosunteo (name of person)</b> — (Name of person) is suspicious. <br/>
+<b>Quando</b> — Reason / Dahilan Shedamaste - Go forth<br/>
+<b>Sang'gre</b> — Princess<br/>
+<b>Ssheda!</b> — Stop!/Halt!/Desist! / Hinto/Tigil <br/>
+<b>Ssheda dini luna</b> — Stop and face me. / Tigil at ako ay harapin. <br/>
+<b>Ssheda lasta!</b> — It won't happen! / Hindi iyan mangyayari. <br/>
+<b>Ssheda musni verom</b> — I will not give this to you. / Hindi ko maibibigay ang iyong nais. <br/>
+<b>Tashi dac</b> — Disrespectful / Lapastangan <br/>
+<b>Uste</b> — You / Ikaw <br/>
+<b>Vashna</b> — Goodness; Kindness / Kabutihan <br/>
+<b>Vashne</b> — Pest / Peste <br/>
+<b>Vedalje</b> — Kalaban / Enemy <br/>
+<b>Verdusa naasva!</b> — Walang hiya ka! <br/>
+<b>Vensa</b> — Loved one; Beloved / Iniibig <br/>
+<b>Ventinasala!</b> — Now vanish! / Ngayo'y maglaho! (could be used as an order to a Sang'gre) <br/>
+<b>Vish'ka</b> - Fist / Kamao
+</p><p><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Conversational">Conversational</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enchanta&amp;action=edit&amp;section=3" title="Edit section: Conversational">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/English_language" title="English language">English</a> translations of phrases in Enchanta are written in parentheses below. These phrases are derived from the <a href="/wiki/Folk_music" title="Folk music">folk</a> <a href="/wiki/War_song" title="War song">war song</a> <i>Hade!! (<a href="/wiki/Etheria" title="Etheria">Etheria</a> theme song)</i> sung by <a href="/wiki/Bayang_Barrios" title="Bayang Barrios">Bayang Barrios</a> and written by <a href="/wiki/Suzette_Doctolero" title="Suzette Doctolero">Suzette Doctolero</a>. Based on the lyrics, the song is about the creation of <a href="/wiki/Encantadia" title="Encantadia">Encantadia</a>, the five kingdoms including <a href="/wiki/Etheria" title="Etheria">Etheria</a>, and <a class="mw-redirect" href="/wiki/Warfare" title="Warfare">warfare</a>. In the end, the author appears to question the unending violence in the land, the lack of <a href="/wiki/Love" title="Love">love</a> and <a href="/wiki/Peace" title="Peace">peace</a>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> 
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Enchanta
+</th>
+<th>English
+</th></tr>
+<tr>
+<td><i><b>Ivi esna adelan e...</b></i>
+</td>
+<td>(This is the promised land...)
+</td></tr>
+<tr>
+<td><i><b>Hade! Hade! Hade!</b></i>
+</td>
+<td>(A <a href="/wiki/Battle_cry" title="Battle cry">warcry</a>)
+</td></tr>
+<tr>
+<td><i><b>Agordo etu garte Emre-a ivo</b></i>
+</td>
+<td>(By the Power of the Highest God)
+</td></tr>
+<tr>
+<td><i><b>Nusno celestia endu endo</b></i>
+</td>
+<td>(to the <a class="mw-redirect" href="/wiki/Cherubim" title="Cherubim">cherubim</a> cursed here)
+</td></tr>
+<tr>
+<td><i><b>Diam asolade ivi emustro entria</b></i>
+</td>
+<td>(Five races they created)
+</td></tr>
+<tr>
+<td><i><b>Ei Correi Diu</b></i>
+</td>
+<td>(I love you)
+</td></tr>
+<tr>
+<td><i><b>Agodo</b></i>
+</td>
+<td>(Frog)
+</td></tr>
+
+<tr>
+<td><i><b>Diam asolade ivi luntae esuedria</b></i>
+</td>
+<td>(Five races they nurtured)
+</td></tr>
+<tr>
+<td><i><b>Encarte ivi esna...</b></i>
+</td>
+<td>(But the races fought each other...)
+</td></tr>
+<tr>
+<td><i><b>Ilantre ivi e corre?</b></i>
+</td>
+<td>(Where is the love?)
+</td></tr>
+<tr>
+<td><i><b>Ilantre ivi hasne masne?</b></i>
+</td>
+<td>(Where is the peace?)<i></i>
+</td></tr>
+<tr>
+<td><i><b>Ivi onan esna enchar?</b></i>
+</td>
+<td>(That is the only desire of the land of mystery?)
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enchanta&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.sunstar.com.ph/static/ceb/2006/04/22/life/a.fitting.farewell.for.gma.7.s.grandest.telefantasya.encantadia.html" rel="nofollow">A fitting farewell for GMA-7's grandest telefantasya, Encantadia</a> <a class="external text" href="https://archive.is/20120911005055/http://www.sunstar.com.ph/static/ceb/2006/04/22/life/a.fitting.farewell.for.gma.7.s.grandest.telefantasya.encantadia.html" rel="nofollow">Archived</a> 2012-09-11 at <a href="/wiki/Archive.today" title="Archive.today">Archive.today</a>. Saturday, April 22, 2006. <a class="mw-redirect" href="/wiki/Sun_Star_Cebu" title="Sun Star Cebu">Sun Star Cebu</a>. Retrieved on January 31, 2010.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.imdb.com/title/tt0494597/soundtrack" rel="nofollow">Soundtracks for Etheria: ang Ikalimang Kaharian ng Encantadia</a>.<a href="/wiki/IMDb" title="IMDb">IMDb</a>. Retrieved on January 30, 2010.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Source: <a class="external free" href="https://insidemanila.ph/article/1342/enchanta-words-phrases-every-encantadia-fans-should-know" rel="nofollow">https://insidemanila.ph/article/1342/enchanta-words-phrases-every-encantadia-fans-should-know</a>
+Follow Insidemanila: @InsidemanilaPH on Facebook,Twitter and Instagram.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.newsflash.org/2004/02/sb/sb003691.htm" rel="nofollow">Encantadia Enchants Cebuanos</a> <a class="external text" href="https://web.archive.org/web/20111007003501/http://www.newsflash.org/2004/02/sb/sb003691.htm" rel="nofollow">Archived</a> 2011-10-07 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. August 28, 2005. Philippine Headline News. By Maria Katrina C. Reyna. Retrieved on January 31, 2010.</span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Encantadia" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Encantadia" title="Template:Encantadia"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Encantadia" title="Template talk:Encantadia"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Encantadia&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Encantadia" style="font-size:114%;margin:0 4em"><i><a href="/wiki/Encantadia" title="Encantadia">Encantadia</a></i></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Creator</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Suzette_Doctolero" title="Suzette Doctolero">Suzette Doctolero</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Series</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Encantadia_(2005_TV_series)" title="Encantadia (2005 TV series)">Encantadia</a></i></li>
+<li><i><a href="/wiki/Etheria" title="Etheria">Etheria</a></i></li>
+<li><i><a href="/wiki/Encantadia:_Pag-ibig_Hanggang_Wakas" title="Encantadia: Pag-ibig Hanggang Wakas">Encantadia: Pag-ibig Hanggang Wakas</a></i></li>
+<li><i><a href="/wiki/Encantadia_(2016_TV_series)" title="Encantadia (2016 TV series)">Encantadia</a></i>
+<ul><li><a href="/wiki/List_of_Encantadia_(2016_TV_series)_characters" title="List of Encantadia (2016 TV series) characters">Characters</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_Encantadia_(2016_TV_series)_episodes" title="List of Encantadia (2016 TV series) episodes">Episodes</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Characters</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pirena" title="Pirena">Pirena</a></li>
+<li><a href="/wiki/Alena_(Encantadia)" title="Alena (Encantadia)">Alena</a></li>
+<li><a href="/wiki/Amihan_(Encantadia)" title="Amihan (Encantadia)">Amihan</a></li>
+<li><a href="/wiki/Danaya" title="Danaya">Danaya</a></li>
+<li><a href="/wiki/Hagorn" title="Hagorn">Hagorn</a></li>
+<li><a class="mw-redirect" href="/wiki/Avria" title="Avria">Avria</a></li>
+<li><a href="/wiki/Andora" title="Andora">Andora</a></li>
+<li><a href="/wiki/Juvila" title="Juvila">Juvila</a></li>
+<li><a class="mw-redirect" href="/wiki/Odessa_(Encantadia)" title="Odessa (Encantadia)">Odessa</a></li>
+<li><a href="/wiki/Mine-a" title="Mine-a">Mine-a</a></li>
+<li><a class="mw-redirect" href="/wiki/Muros_(Encantadia)" title="Muros (Encantadia)">Muros</a></li>
+<li><a class="new" href="/w/index.php?title=Kahlil_(Encantadia)&amp;action=edit&amp;redlink=1" title="Kahlil (Encantadia) (page does not exist)">Kahlil</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Concepts</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brilyante" title="Brilyante">Brilyante</a></li>
+<li><a class="mw-selflink selflink">Enchanta</a></li>
+<li><a class="mw-redirect" href="/wiki/Great_Encantadian_War" title="Great Encantadian War">Great Encantadian War</a></li>
+<li><a class="mw-redirect" href="/wiki/Lirean_war" title="Lirean war">Lirean War</a></li>
+<li><a class="mw-redirect" href="/wiki/War_of_the_four_Gems" title="War of the four Gems">War of the Four Gems</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Spin-off and related series</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Mulawin" title="Mulawin">Mulawin</a></i> <small>(2004)</small></li>
+<li><i><a href="/wiki/Mulawin:_The_Movie" title="Mulawin: The Movie">Mulawin: The Movie</a></i> <small>(2005)</small></li>
+<li><i><a href="/wiki/Mulawin_vs._Ravena" title="Mulawin vs. Ravena">Mulawin vs. Ravena</a></i> <small>(2017)</small></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">In other media</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a class="mw-redirect" href="/wiki/Encantadia_Blast" title="Encantadia Blast">Encantadia Blast</a></i> <small>(2016)</small></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Encantadia" title="Category:Encantadia">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Constructed_languages" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Constructed_languages" title="Template:Constructed languages"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Constructed_languages" title="Template talk:Constructed languages"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Constructed_languages&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Constructed_languages" style="font-size:114%;margin:0 4em"><a href="/wiki/Constructed_language" title="Constructed language">Constructed languages</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Classification</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Purpose</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Artistic_language" title="Artistic language">Artistic</a>
+<ul><li><a href="/wiki/Fictional_language" title="Fictional language">Fictional</a></li>
+<li><a href="/wiki/Language_game" title="Language game">Language game</a></li></ul></li>
+<li><a href="/wiki/International_auxiliary_language" title="International auxiliary language">Auxiliary</a>
+<ul><li><a href="/wiki/Universal_language" title="Universal language">Universal</a></li>
+<li><a href="/wiki/Zonal_constructed_language" title="Zonal constructed language">Zonal</a></li></ul></li>
+<li><a href="/wiki/Engineered_language" title="Engineered language">Engineered</a>
+<ul><li><a href="/wiki/Experimental_language" title="Experimental language">Experimental</a></li>
+<li><a href="/wiki/Musical_language" title="Musical language">Musical</a></li>
+<li><a href="/wiki/Philosophical_language" title="Philosophical language">Philosophical</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Source</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/A_priori_(languages)" title="A priori (languages)"><i>A priori</i></a></li>
+<li><a class="mw-redirect" href="/wiki/A_posteriori_(languages)" title="A posteriori (languages)"><i>A posteriori</i></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Characteristics</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oligosynthetic_language" title="Oligosynthetic language">Oligosynthetic</a></li>
+<li><a href="/wiki/Oligoisolating_language" title="Oligoisolating language">Oligoisolating</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Specific <br/>languages<br/> by group</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/International_auxiliary_language" title="International auxiliary language">International<br/>auxiliary</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/A_priori_(languages)" title="A priori (languages)">A priori/mixed</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Babm" title="Babm">Babm</a></li>
+<li><a href="/wiki/Blissymbols" title="Blissymbols">Blissymbols</a></li>
+<li><a href="/wiki/Bolak_language" title="Bolak language">Bolak</a></li>
+<li><a href="/wiki/Kotava" title="Kotava">Kotava</a></li>
+<li><a href="/wiki/Langue_nouvelle" title="Langue nouvelle">Langue nouvelle</a></li>
+<li><a href="/wiki/Nal_Bino" title="Nal Bino">Nal Bino</a></li>
+<li><a class="mw-redirect" href="/wiki/Ro_(language)" title="Ro (language)">Ro</a></li>
+<li><a href="/wiki/Solresol" title="Solresol">Solresol</a></li>
+<li><a href="/wiki/Sona_language_(artificial)" title="Sona language (artificial)">Sona</a></li>
+<li><a href="/wiki/Spokil" title="Spokil">Spokil</a></li>
+<li><a href="/wiki/Volap%C3%BCk" title="Volapük">Volapük</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/A_posteriori_(languages)" title="A posteriori (languages)">A posteriori</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Afrihili" title="Afrihili">Afrihili</a></li>
+<li><a href="/wiki/Communicationssprache" title="Communicationssprache">Communicationssprache</a></li>
+<li><a href="/wiki/Esperanto" title="Esperanto">Esperanto</a>
+<ul><li><a href="/wiki/Esperantido" title="Esperantido">Esperantido</a></li>
+<li><a href="/wiki/Reformed_Esperanto" title="Reformed Esperanto">Esperanto 1894</a></li>
+<li><a href="/wiki/Esperanto_II" title="Esperanto II">Esperanto II</a></li>
+<li><a href="/wiki/Ido_language" title="Ido language">Ido</a></li>
+<li><a href="/wiki/Mundolinco" title="Mundolinco">Mundolinco</a></li>
+<li><a href="/wiki/Rom%C3%A1ni%C3%A7o" title="Romániço">Romániço</a></li>
+<li><a href="/wiki/Slovio" title="Slovio">Slovio</a></li></ul></li>
+<li><a href="/wiki/Glosa" title="Glosa">Glosa</a>
+<ul><li><a href="/wiki/Interglossa" title="Interglossa">Interglossa</a></li></ul></li>
+<li><a href="/wiki/Guosa" title="Guosa">Guosa</a></li>
+<li><a href="/wiki/Idiom_Neutral" title="Idiom Neutral">Idiom Neutral</a></li>
+<li><a href="/wiki/Interlingua" title="Interlingua">Interlingua</a></li>
+<li><a href="/wiki/Interlingue" title="Interlingue">Interlingue</a></li>
+<li><a href="/wiki/International_Sign" title="International Sign">International Sign</a></li>
+<li><a href="/wiki/Latino_sine_flexione" title="Latino sine flexione">Latino sine flexione</a></li>
+<li><a href="/wiki/Lingua_Franca_Nova" title="Lingua Franca Nova">Lingua Franca Nova</a></li>
+<li><a href="/wiki/Lingwa_de_planeta" title="Lingwa de planeta">Lingwa de planeta</a></li>
+<li><a href="/wiki/Mondial_language" title="Mondial language">Mondial</a></li>
+<li><a href="/wiki/Neo_(constructed_language)" title="Neo (constructed language)">Neo</a></li>
+<li><a href="/wiki/Novial" title="Novial">Novial</a></li>
+<li><a href="/wiki/Pasilingua" title="Pasilingua">Pasilingua</a></li>
+<li><a href="/wiki/Sambahsa" title="Sambahsa">Sambahsa</a></li>
+<li><a href="/wiki/Unish" title="Unish">Unish</a></li>
+<li><a href="/wiki/Universalglot" title="Universalglot">Universalglot</a></li>
+<li><a href="/wiki/Uropi" title="Uropi">Uropi</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Zonal_constructed_language" title="Zonal constructed language">Zonal</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kitara_language" title="Kitara language">Kitara</a></li>
+<li><a href="/wiki/N%27Ko_language" title="N'Ko language">N'Ko language</a></li>
+<li><a href="/wiki/Pan-Germanic_language" title="Pan-Germanic language">Pan-Germanic language</a>
+<ul><li><a href="/wiki/Folkspraak" title="Folkspraak">Folkspraak</a></li>
+<li><a href="/wiki/Tutonish" title="Tutonish">Tutonish</a></li></ul></li>
+<li><a href="/wiki/Pan-Slavic_language" title="Pan-Slavic language">Pan-Slavic language</a>
+<ul><li><a href="/wiki/Interslavic_language" title="Interslavic language">Interslavic / Medžuslovjansky</a></li>
+<li><a href="/wiki/Slovio" title="Slovio">Slovio</a></li>
+<li><a href="/wiki/Lydnevi" title="Lydnevi">Lydnevi</a></li></ul></li>
+<li><a href="/wiki/Pan-Romance_language" title="Pan-Romance language">Pan-Romance language</a></li>
+<li><a href="/wiki/Romanid" title="Romanid">Romanid</a></li>
+<li><a href="/wiki/Efatese_language" title="Efatese language">Efatese language</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Engineered_language" title="Engineered language">Engineered</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AUI_(constructed_language)" title="AUI (constructed language)">aUI</a></li>
+<li><a href="/wiki/Dutton_Speedwords" title="Dutton Speedwords">Dutton Speedwords</a></li>
+<li><a href="/wiki/Ithkuil" title="Ithkuil">Ithkuil</a></li>
+<li><a href="/wiki/Kalaba-X" title="Kalaba-X">Kalaba-X</a></li>
+<li><a href="/wiki/Loglan" title="Loglan">Loglan</a></li>
+<li><a href="/wiki/Lojban" title="Lojban">Lojban</a></li>
+<li><a class="mw-redirect" href="/wiki/An_Essay_towards_a_Real_Character,_and_a_Philosophical_Language" title="An Essay towards a Real Character, and a Philosophical Language">Real Character and Philosophical Language</a></li>
+<li><a href="/wiki/Ro_(artificial_language)" title="Ro (artificial language)">Ro</a></li>
+<li><a href="/wiki/Toki_Pona" title="Toki Pona">Toki Pona</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Fictional_language" title="Fictional language">Fictional</a> and<br/>other <a href="/wiki/Artistic_language" title="Artistic language">artistic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Atlantean_language" title="Atlantean language">Atlantean</a></li>
+<li><a href="/wiki/Brithenig" title="Brithenig">Brithenig</a></li>
+<li><a href="/wiki/Dothraki_language" title="Dothraki language">Dothraki</a></li>
+<li><a class="mw-selflink selflink">Enchanta</a></li>
+<li><a href="/wiki/K%C4%93len" title="Kēlen">Kēlen</a></li>
+<li><a href="/wiki/Klingon_language" title="Klingon language">Klingon</a>
+<ul><li><a href="/wiki/Klingon_grammar" title="Klingon grammar">grammar</a></li>
+<li><a class="mw-redirect" href="/wiki/Klingon_alphabets" title="Klingon alphabets">alphabets</a></li></ul></li>
+<li><a href="/wiki/Koba%C3%AFan" title="Kobaïan">Kobaïan</a></li>
+<li><a href="/wiki/L%C3%A1adan" title="Láadan">Láadan</a></li>
+<li><a href="/wiki/Loxian" title="Loxian">Loxian</a></li>
+<li><a href="/wiki/Languages_constructed_by_J._R._R._Tolkien" title="Languages constructed by J. R. R. Tolkien">Middle-earth languages</a>
+<ul><li><a href="/wiki/Ad%C3%BBnaic" title="Adûnaic">Adûnaic</a></li>
+<li><a href="/wiki/Quenya" title="Quenya">Quenya</a></li>
+<li><a href="/wiki/Sindarin" title="Sindarin">Sindarin</a></li>
+<li><a href="/wiki/Category:Middle-earth_languages" title="Category:Middle-earth languages">more...</a></li></ul></li>
+<li><a href="/wiki/Na%27vi_language" title="Na'vi language">Na'vi</a></li>
+<li><a href="/wiki/Nadsat" title="Nadsat">Nadsat</a></li>
+<li><a href="/wiki/Syldavian" title="Syldavian">Syldavian</a></li>
+<li><a href="/wiki/Teonaht" title="Teonaht">Teonaht</a></li>
+<li><a href="/wiki/Tsoly%C3%A1ni_language" title="Tsolyáni language">Tsolyáni</a></li>
+<li><a href="/wiki/Valyrian_languages" title="Valyrian languages">Valyrian</a></li>
+<li><a href="/wiki/Verdurian_language" title="Verdurian language">Verdurian</a></li>
+<li><a href="/wiki/Wenedyk" title="Wenedyk">Wenedyk</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ritual and other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Balaibalan" title="Balaibalan">Balaibalan</a></li>
+<li><a href="/wiki/Damin" title="Damin">Damin</a></li>
+<li><a href="/wiki/Enochian" title="Enochian">Enochian</a></li>
+<li><a href="/wiki/Eskayan_language" title="Eskayan language">Eskayan</a></li>
+<li><a href="/wiki/Lincos_(artificial_language)" title="Lincos (artificial language)">Lincos</a></li>
+<li><a href="/wiki/Lingua_Ignota" title="Lingua Ignota">Lingua Ignota</a></li>
+<li><a href="/wiki/Medefaidrin" title="Medefaidrin">Medefaidrin</a></li>
+<li><a href="/wiki/Palawa_kani" title="Palawa kani">Palawa kani</a></li>
+<li><a href="/wiki/Yerkish" title="Yerkish">Yerkish</a></li>
+<li><a href="/wiki/Zaum" title="Zaum">Zaum</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Writing systems</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Constructed_script" title="Constructed script">Constructed script</a></li>
+<li><a href="/wiki/Esperanto_orthography" title="Esperanto orthography">Esperanto orthography</a></li>
+<li>Tolkien's writing systems
+<ul><li><a href="/wiki/Cirth" title="Cirth">Cirth</a></li>
+<li><a href="/wiki/Sarati" title="Sarati">Sarati</a></li>
+<li><a href="/wiki/Tengwar" title="Tengwar">Tengwar</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Conlanging:_The_Art_of_Crafting_Tongues" title="Conlanging: The Art of Crafting Tongues">Conlanging: The Art of Crafting Tongues</a></i></li>
+<li><a href="/wiki/Relexification" title="Relexification">Relexification</a></li>
+<li><a href="/wiki/Societate_American_pro_Interlingua" title="Societate American pro Interlingua">Societate American pro Interlingua</a></li>
+<li><a href="/wiki/Zompist.com" title="Zompist.com">Zompist.com</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Portal:Constructed_languages" title="Portal:Constructed languages">Portal</a></li>
+<li><a href="/wiki/List_of_constructed_languages" title="List of constructed languages">List of constructed languages</a></li>
+<li><a href="/wiki/List_of_language_creators" title="List of language creators">List of language creators</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1239
+Cached time: 20191206162748
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.304 seconds
+Real time usage: 0.440 seconds
+Preprocessor visited node count: 2479/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 73793/2097152 bytes
+Template argument size: 1973/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2455/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 2.91 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  313.045      1 -total
+ 44.97%  140.774      1 Template:Infobox_language
+ 33.91%  106.156      1 Template:Infobox
+ 25.70%   80.448      1 Template:Refimprove
+ 22.37%   70.038      1 Template:Ambox
+ 17.92%   56.101      5 Template:Navbox
+  9.68%   30.300      1 Template:Encantadia
+  9.44%   29.554      1 Template:Find_sources_mainspace
+  7.65%   23.946      2 Template:Main_other
+  6.85%   21.441      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3536944-0!canonical and timestamp 20191206162748 and revision id 915148027
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Enchanta&amp;oldid=915148027">https://en.wikipedia.org/w/index.php?title=Enchanta&amp;oldid=915148027</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Encantadia" title="Category:Encantadia">Encantadia</a></li><li><a href="/wiki/Category:Fictional_languages" title="Category:Fictional languages">Fictional languages</a></li><li><a href="/wiki/Category:Constructed_languages" title="Category:Constructed languages">Constructed languages</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_archiveis_links" title="Category:Webarchive template archiveis links">Webarchive template archiveis links</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Languages_without_Glottolog_code" title="Category:Languages without Glottolog code">Languages without Glottolog code</a></li><li><a href="/wiki/Category:Conlangs_without_ISO_639-3_code" title="Category:Conlangs without ISO 639-3 code">Conlangs without ISO 639-3 code</a></li><li><a href="/wiki/Category:Language_articles_with_speakers_set_to_%27unknown%27" title="Category:Language articles with speakers set to 'unknown'">Language articles with speakers set to 'unknown'</a></li><li><a href="/wiki/Category:Languages_with_neither_ISO_nor_Glottolog_code" title="Category:Languages with neither ISO nor Glottolog code">Languages with neither ISO nor Glottolog code</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2016" title="Category:Articles needing additional references from December 2016">Articles needing additional references from December 2016</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Enchanta" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Enchanta" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Enchanta" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Enchanta" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Enchanta">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Enchanta&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Enchanta&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Enchanta" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Enchanta" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Enchanta&amp;oldid=915148027" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Enchanta&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5375350" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Enchanta&amp;id=915148027" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Enchanta">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Enchanta&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Enchanta&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5375350#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 11 September 2019, at 14:08<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Enchanta&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.304","walltime":"0.440","ppvisitednodes":{"value":2479,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":73793,"limit":2097152},"templateargumentsize":{"value":1973,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2455,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  313.045      1 -total"," 44.97%  140.774      1 Template:Infobox_language"," 33.91%  106.156      1 Template:Infobox"," 25.70%   80.448      1 Template:Refimprove"," 22.37%   70.038      1 Template:Ambox"," 17.92%   56.101      5 Template:Navbox","  9.68%   30.300      1 Template:Encantadia","  9.44%   29.554      1 Template:Find_sources_mainspace","  7.65%   23.946      2 Template:Main_other","  6.85%   21.441      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.081","limit":"10.000"},"limitreport-memusage":{"value":3054205,"limit":52428800}},"cachereport":{"origin":"mw1239","timestamp":"20191206162748","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Enchanta","url":"https:\/\/en.wikipedia.org\/wiki\/Enchanta","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5375350","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5375350","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-12-27T07:28:07Z","dateModified":"2019-09-11T14:08:53Z","headline":"fictional language"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":128,"wgHostname":"mw1246"});});</script>
+
+
+</body></html>

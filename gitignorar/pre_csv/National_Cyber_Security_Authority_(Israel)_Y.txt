@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>National Cyber Security Authority (Israel) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfmFEwpAMFAAAFTvJscAAACM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"National_Cyber_Security_Authority_(Israel)","wgTitle":"National Cyber Security Authority (Israel)","wgCurRevisionId":898928874,"wgRevisionId":898928874,"wgArticleId":57068258,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from April 2018","All articles needing additional references",
+"Wikipedia articles needing reorganization from April 2018","All articles with incomplete citations","All pages needing cleanup","Articles with multiple maintenance issues","National cyber security centres","Emergency services in Israel","Organizations based in Tel Aviv"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"National_Cyber_Security_Authority_(Israel)","wgRelevantArticleId":57068258,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
+"wgWikibaseItemId":"Q25491842","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons",
+"ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_Israel_dark_blue_border.svg/1200px-Emblem_of_Israel_dark_blue_border.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/National_Cyber_Security_Authority_(Israel)" rel="alternate"/>
+<link href="/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/National_Cyber_Security_Authority_(Israel)" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-National_Cyber_Security_Authority_Israel rootpage-National_Cyber_Security_Authority_Israel skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">National Cyber Security Authority (Israel)</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:National_Cyber_Security_Authority_(Israel)" title="Talk:National Cyber Security Authority (Israel)">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" decoding="async" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br/><small><span class="plainlinks"><i>Find sources:</i> <a class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22National+Cyber+Security+Authority%22+Israel" rel="nofollow">"National Cyber Security Authority" Israel</a> – <a class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22National+Cyber+Security+Authority%22+Israel+-wikipedia" rel="nofollow">news</a> <b>·</b> <a class="external text" href="//www.google.com/search?&amp;q=%22National+Cyber+Security+Authority%22+Israel+site:news.google.com/newspapers&amp;source=newspapers" rel="nofollow">newspapers</a> <b>·</b> <a class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22National+Cyber+Security+Authority%22+Israel+-wikipedia" rel="nofollow">books</a> <b>·</b> <a class="external text" href="//scholar.google.com/scholar?q=%22National+Cyber+Security+Authority%22+Israel" rel="nofollow">scholar</a> <b>·</b> <a class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22National+Cyber+Security+Authority%22+Israel&amp;acc=on&amp;wc=on" rel="nofollow">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">April 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><table class="box-Cleanup_reorganize plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Ambox rewrite.svg" data-file-height="620" data-file-width="620" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ambox_rewrite.svg/40px-Ambox_rewrite.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ambox_rewrite.svg/60px-Ambox_rewrite.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ambox_rewrite.svg/80px-Ambox_rewrite.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>may be in need of reorganization to comply with Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style/Layout" title="Wikipedia:Manual of Style/Layout">layout guidelines</a></b>.<span class="hide-when-compact"> Please help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;action=edit">editing the article</a> to make improvements to the overall structure.</span>  <small class="date-container"><i>(<span class="date">April 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><table class="box-Ref_expand plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs more complete <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding missing citation information</a> so that sources are clearly identifiable. Citations should include title, publication, author, date, and (for paginated material) the page number(s). <a href="/wiki/Wikipedia:Template_messages/Sources_of_articles#Examples" title="Wikipedia:Template messages/Sources of articles">Several templates</a>  are available to assist in formatting. Improperly sourced material may be challenged and removed.</span>  <small class="date-container"><i>(<span class="date">April 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox" style="width:22em"><caption>National Cyber Security Authority (NCSA)</caption><tbody><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Emblem_of_Israel_dark_blue_border.svg"><img alt="Emblem of Israel dark blue border.svg" data-file-height="741" data-file-width="600" decoding="async" height="272" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_Israel_dark_blue_border.svg/220px-Emblem_of_Israel_dark_blue_border.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_Israel_dark_blue_border.svg/330px-Emblem_of_Israel_dark_blue_border.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_Israel_dark_blue_border.svg/440px-Emblem_of_Israel_dark_blue_border.svg.png 2x" width="220"/></a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Agency overview</th></tr><tr><th scope="row">Formed</th><td>2016</td></tr><tr><th scope="row">Dissolved</th><td>2018</td></tr><tr><th scope="row">Headquarters</th><td><a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a>, Israel</td></tr><tr><th scope="row">Minister responsible</th><td><div class="plainlist"><ul><li style="text-indent: -1em; padding-left: 1em;"><a href="/wiki/Prime_Minister_of_Israel" title="Prime Minister of Israel">Prime Minister of Israel</a></li></ul></div></td></tr><tr><th scope="row">Agency executive</th><td><div class="plainlist"><ul><li>Buky Carmeli, Director General</li></ul></div></td></tr></tbody></table>
+<p>The <b>National Cyber Security Authority</b> (NCSA), located within the Prime Minister's office, was an Israeli security entity responsible for protecting the Israeli civilian cyber space, during 2016-2018. The NCSA provided incident handling services and guidance for all civilian entities as well as all critical infrastructures in the Israeli economy, and works towards increasing the resilience of the civilian cyber space.
+</p><p>At the end of 2017, the Israeli government decided to unify the NCSA with another unit in the Prime Minister's Office, the Israeli National Cyber Bureau, which served as the Prime Minister's Advisory entity on cyber policy, into one unit - the National Cyber Directorate.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Government_Resolutions_2443_and_2444"><span class="tocnumber">2</span> <span class="toctext">Government Resolutions 2443 and 2444</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Establishment_of_the_NCSA"><span class="tocnumber">3</span> <span class="toctext">Establishment of the NCSA</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Dissolution_of_the_NCSA_and_establishment_of_a_new_unified_body"><span class="tocnumber">4</span> <span class="toctext">Dissolution of the NCSA and establishment of a new unified body</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Israel was one of the first countries to recognize, at the beginning of the millennium, the need to protect the national vital digital systems. Thus, in February 2002 the Israeli government passed a resolution assigning the Israel Security Agency ("Shin Bet") with the responsibility for protecting those systems, a resolution later consolidated in designated legislation.
+</p><p>A decade later, the Israeli government faced a considerable challenge: although the model designed to protect the CI was proven successful, it was evident that as the country's connectivity and dependency on technology increases, and that this calls for a designated model.
+</p><p>In November 2010, Israeli Prime-Minister Benyamin Netanyahu nominated a special team for devising a National Cyber Program, also known as the "Cyber Initiative". The team, headed by General (Ret.) Itzchak Ben-Israel, worked for several months, dividing into a number of sub-committees manned by dozens of experts. The team examined all the components vital to the need of the State of Israel to cope successfully in cyberspace, including the analysis of national benefits regarding aspects of economy, academy and National security. The teamwork was concluded in May 2011 and summed-up in a special report dispatched to the Prime Minister.
+</p><p>The team's main conclusion was that "cyber-attacks should be considered as a substantial potential threat to the functional continuity of the state, its institutions and its citizens", and that "a central gap has been identified in the cyber defense of the civil sector at large".
+</p><p>At the core of its report, the team recommended that two bodies be established – namely, a "National Cyber Bureau" and an "executive body for the security of the civil sector" by its side. The team also recommended to set-up a national "cyber defence foil", comprising automated computerized systems and manned systems, together defending pre-defined computer systems. It also motioned for the establishment of a national CERT. The team indicated that the civil and security components of cyberspace are interlaced and are, to all intents and purposes, inseparable, and that there is a need for a broad national perspective and for an understanding that the preparedness of the State of Israel to the challenges of cyberspace is a national undertaking of the first order.
+</p><p>Following that, in August 2011 the Israeli government passed a resolution to establish the <a class="new" href="/w/index.php?title=Israeli_National_Cyber_Bureau&amp;action=edit&amp;redlink=1" title="Israeli National Cyber Bureau (page does not exist)">Israeli National Cyber Bureau</a> (INCB), designated to assist the prime minister, the government and its committees in forging a National Cyber Policy and fostering the application of its aspects of National Security. Specifically, the INCB was assigned to develop a national cyber security strategy.
+</p><p>The development of that strategy generated a professional and important discourse on the national level regarding possible ways to establish an operational body responsible for the defence of the civil cyberspace. The need for it has never been in doubt; however, the manner in which this need should be satisfied has been the subject of many discussions and some <a class="external text" href="https://www.haaretz.com/shin-bet-loses-authority-over-civilian-cyberspace-1.5304267" rel="nofollow">poignant disputes</a>, and was finally resolved through the government's decision to establish a civil body in the Prime Minister's Office – the NCSA.
+</p>
+<h2><span class="mw-headline" id="Government_Resolutions_2443_and_2444">Government Resolutions 2443 and 2444</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;action=edit&amp;section=2" title="Edit section: Government Resolutions 2443 and 2444">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In February 2015, the 33rd Government of Israel approved two government resolutions concerning the Israeli cyber defense, centered by Government Resolution 2444, "Promoting National Preparedness for Cyber Defense". In this resolution, the government stipulated that the defense of the proper functioning in cyberspace is a vital, national state goal and a vital national interest of the state of Israel.
+</p><p>It was accordingly decreed that the aim of the NCSA is to defend cyberspace. Its functions include:
+</p><p>a.	Managing, operating and carrying out all operational defence efforts in cyberspace on the national level, as needed in order to give a whole and continuous response to cyber-attacks.
+b.	Operating the national CERT for the benefit of the economy as a whole, including the improvement of cyber resilience, and to assist in dealing with cyber threats and coping with cyber incidents.
+c.	Building and enhancing the cyber resilience of the Israeli economy through preparedness, competence and regulation, including the enhancement of sectors and organizations, guidance, regulation of the cyber defence services market, licensing, standardization, exercising and general training, Incentivization, etc.
+d.	Forging, implementation and assimilation of a national Cyber Defence Methodology.
+e.	Performing any other task stipulated by the prime minister, according to the NCSA's aim.
+</p>
+<h2><span class="mw-headline" id="Establishment_of_the_NCSA">Establishment of the NCSA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;action=edit&amp;section=3" title="Edit section: Establishment of the NCSA">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The NCSA began its activities in early 2016, upon the nomination of its Director General, Buky Carmeli. Carmeli came to the post after serving for over 20 years in Unit 8200 and in the defense establishment. In his last position he served as head of the technological unit of the Malamab, where he led cyber defense in the defense establishment and defense industries, and in the past he was involved in initiatives in the field of protection of sensitive systems. Prior to that position he headed a hedge fund that invests in international technology funds.
+</p><p>NCSA was established as a body which combines security and operational characteristics with civil ones, to synergistically lead, together with all other State security organizations, the defense efforts against cyber-attacks, aimed at Israel’s civil sector.
+</p><p>One of the core missions of the NCSA is to assist Israeli organizations and the Israeli public at large in dealing with cyber threats – irrespective of the identity of those responsible for them. This assistance is realized through the NCSA’s CERT (the National CERT). Located in the city of Beer Sheva at the heart of southern Israel, the CERT is a 24/7 center, offering aid to the general public: from the National Critical Infrastructure companies to the man on the street. Beside the CERT, special sectorial centers were established, assisting the government ministries, the Financial Sector and the Energy Sector, and had already proven the value of creating sectorial expertise.
+</p><p>In many cases, after a professional analysis of the significance of the incident, it was decided to send response teams to assist the organization in containing the attack. For example, in was published in the media that during April 2017, the NCSA <a class="external text" href="http://www.jpost.com/Israel-News/Israel-thwarts-cyber-attacks-aimed-at-over-120-targets-489010" rel="nofollow">had thwarted a largescale cyber attack targeting over 120 organizations in Israel</a>, and that in June, the NCSA <a class="external text" href="https://www.timesofisrael.com/large-cyberattack-on-israeli-hospitals-foiled/" rel="nofollow">dealt with a large cyberattack on Israeli hospitals</a>.
+</p><p>As a governmental entity facing the public, the NCSA was aware that information being shared is often sensitive or confidential due to matters of privacy, intellectual property, etc. Therefore, its actions are compatible with the specific guidelines determined by the Attorney General and the Department of Justice.
+</p><p>The NCSA acted not only in removing attacks that had already penetrated organizations, but also helped deal with cyber threats before they reach the organizations. Thus, the BCSA led the national coping with dozens of cyber threats, such as: Wannacry, NotPetya, CCleaner and Bad Rabbit.
+In addition, since its creation, the NCSA has been active in the global cyber security community and has had operational relations with many bodies from various countries across the globe. These relationships generated not only shared insights and orderly work processes, but also real-time operational aid. Because of this connection, dozens of countries have in many cases assisted the NCSA's efforts to curb international attacks on Israeli organizations. Also, it was reported that the NCSA had created a <a class="external text" href="http://mfa.gov.il/MFA/PressRoom/2016/Pages/Israel-and-the-US-sign-operative-cyber-defense-cooperation-agreement-21-June-2016.aspx" rel="nofollow">framework for cooperation</a> with the DHS's cyber protection body.
+</p><p>Another important activity the NCSA has been conducting since its establishment is boosting the economy’s cyber resilience. This activity is conducted in consent, by means of raising organizations awareness to cyber threats, and through guidance, when public interest requires it.
+</p><p>Since March 2017, the NCSA was responsible by law to guide national CI organizations, such as the Israel Electric Company and Israel Railway, how to cope with cyber risks, which might shut down critical systems under their direct responsibility. Meanwhile, the NCSA began work with the sectorial regulators, in order to apply cyber-defence norms to various defence objectives. Thus, the NCSA and the Israeli government set up dedicated units within the regulatory authorities, and their activities have already begun to bear fruit, in the shape of risk assessment surveys and “cyber annexes” which help guide the relevant organizations under the general authority of each regulator.
+</p><p>In Addition, in order to assist the economy in preparation for cyber threats, the NCSA published in early 2017 the "Organizational Cyber Defence Methodology". It supplies every organization in Israel, be it large or small, with tools for the management and optimization of its defense against the risks of cyber threats, and assists it with devising a well-ordered work plan. Thousands of Israeli organizations are already working according to this methodology, which is accessible to all as a free service rendered to the Israeli economy (<a class="external text" href="https://www.gov.il/BlobFolder/policy/cyber_security_methodology_for_organizations/he/Cyber1.0_english_617_A4_0.pdf" rel="nofollow">pdf</a>).
+</p><p>Meanwhile, the NCSA has invested efforts in promoting a professional cyber nationwide work force. This was carried out in several layers: initiating (in conjunction with the Ministry of Education) a strategic plan to educate youngsters in cyber; incentivizing the labor market to shift towards cyber defense jobs; and, finally, setting a professional benchmark for those who work in this field in the government ministries.
+</p><p>In this context, the NCSA was working to incorporate diverse elements of Israeli society into the industry and the government. Thus, in the course of 2017, vocational courses were opened for the ultra-orthodox community (both men and women), financed by the Ministry of Work and Welfare.
+</p>
+<h2><span class="mw-headline" id="Dissolution_of_the_NCSA_and_establishment_of_a_new_unified_body">Dissolution of the NCSA and establishment of a new unified body</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;action=edit&amp;section=4" title="Edit section: Dissolution of the NCSA and establishment of a new unified body">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As mentioned above, following the recommendations of the INCB, the government decided in February 2015 to establish the NCSA as the central operational body for cyber Security in Israel, which will work alongside the INCB as part of a "National Cyber Directorate". The decision to operate two independent units within one directorate was made at the time due to the need to build and strengthen separately the two branches – both the policy (which the INCB is responsible for) and the operational (NCSA). Therefore, each of the units was appointed a separate Director General and they were managed as independent entities.
+Towards the end of 2017, following the Prime Minister's directive to concentrate efforts in the field of cyber defense, it was decided to unify the authority with the national cyber headquarters, and in December 2017 the Government of Israel passed the government's resolution to unify them into one unit, the National Cyber Directorate, which will be responsible for all aspects of cyber defense in the civilian sphere, from the formulation of policy through R&amp;D, to the operational defense of cyberspace. Its first Director General was Igal Una, the first to be responsible for both operational defense (which was the responsibility of the NCSA) and for the construction of the state force (which was the responsibility of the INCB).
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20191209185512
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.184 seconds
+Real time usage: 0.266 seconds
+Preprocessor visited node count: 1125/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 50982/2097152 bytes
+Template argument size: 12844/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.080/10.000 seconds
+Lua memory usage: 3.05 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  225.886      1 -total
+ 81.68%  184.507      4 Template:Ambox
+ 64.73%  146.222      1 Template:Multiple_issues
+ 35.22%   79.552      1 Template:Infobox_Government_agency
+ 29.94%   67.634      1 Template:More_citations_needed
+ 29.50%   66.634      1 Template:Infobox
+ 17.72%   40.026      1 Template:Find_sources_mainspace
+  7.94%   17.935      7 Template:Unbulleted_list
+  4.86%   10.974      1 Template:Cleanup_Partial_Cites
+  4.30%    9.709      1 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:57068258-0!canonical and timestamp 20191209185512 and revision id 898928874
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;oldid=898928874">https://en.wikipedia.org/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;oldid=898928874</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:National_cyber_security_centres" title="Category:National cyber security centres">National cyber security centres</a></li><li><a href="/wiki/Category:Emergency_services_in_Israel" title="Category:Emergency services in Israel">Emergency services in Israel</a></li><li><a href="/wiki/Category:Organizations_based_in_Tel_Aviv" title="Category:Organizations based in Tel Aviv">Organizations based in Tel Aviv</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2018" title="Category:Articles needing additional references from April 2018">Articles needing additional references from April 2018</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_reorganization_from_April_2018" title="Category:Wikipedia articles needing reorganization from April 2018">Wikipedia articles needing reorganization from April 2018</a></li><li><a href="/wiki/Category:All_articles_with_incomplete_citations" title="Category:All articles with incomplete citations">All articles with incomplete citations</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=National+Cyber+Security+Authority+%28Israel%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=National+Cyber+Security+Authority+%28Israel%29" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/National_Cyber_Security_Authority_(Israel)" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:National_Cyber_Security_Authority_(Israel)" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/National_Cyber_Security_Authority_(Israel)">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/National_Cyber_Security_Authority_(Israel)" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/National_Cyber_Security_Authority_(Israel)" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;oldid=898928874" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q25491842" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=National_Cyber_Security_Authority_%28Israel%29&amp;id=898928874" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=National+Cyber+Security+Authority+%28Israel%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=National+Cyber+Security+Authority+%28Israel%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%94%D7%A8%D7%A9%D7%95%D7%AA_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA_%D7%9C%D7%94%D7%92%D7%A0%D7%AA_%D7%94%D7%A1%D7%99%D7%99%D7%91%D7%A8" hreflang="he" lang="he" title="הרשות הלאומית להגנת הסייבר – Hebrew">עברית</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q25491842#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 May 2019, at 20:41<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=National_Cyber_Security_Authority_(Israel)&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.266","ppvisitednodes":{"value":1125,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":50982,"limit":2097152},"templateargumentsize":{"value":12844,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  225.886      1 -total"," 81.68%  184.507      4 Template:Ambox"," 64.73%  146.222      1 Template:Multiple_issues"," 35.22%   79.552      1 Template:Infobox_Government_agency"," 29.94%   67.634      1 Template:More_citations_needed"," 29.50%   66.634      1 Template:Infobox"," 17.72%   40.026      1 Template:Find_sources_mainspace","  7.94%   17.935      7 Template:Unbulleted_list","  4.86%   10.974      1 Template:Cleanup_Partial_Cites","  4.30%    9.709      1 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.080","limit":"10.000"},"limitreport-memusage":{"value":3195511,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20191209185512","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"National Cyber Security Authority (Israel)","url":"https:\/\/en.wikipedia.org\/wiki\/National_Cyber_Security_Authority_(Israel)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q25491842","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q25491842","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2018-04-08T16:32:04Z","dateModified":"2019-05-26T20:41:35Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/81\/Emblem_of_Israel_dark_blue_border.svg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw1245"});});</script>
+
+
+</body></html>

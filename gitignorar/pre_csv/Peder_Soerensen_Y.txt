@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Peder Soerensen - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XffIiQpAIC4AABCch58AAACY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Peder_Soerensen","wgTitle":"Peder Soerensen","wgCurRevisionId":929080942,"wgRevisionId":929080942,"wgArticleId":9876405,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with BIBSYS identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers",
+"Wikipedia articles with NTA identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1542 births","1602 deaths","16th-century Danish physicians","Paracelsians"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Peder_Soerensen","wgRelevantArticleId":9876405,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":
+"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q430754","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Peder_Soerensen" rel="alternate"/>
+<link href="/w/index.php?title=Peder_Soerensen&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Peder_Soerensen&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Peder_Soerensen" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Peder_Soerensen rootpage-Peder_Soerensen skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Peder Soerensen</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Peder Sørensen</b>, widely known by his <a class="mw-redirect" href="/wiki/Latinized_name" title="Latinized name">Latinized name</a>, <i>Petrus Severinus</i><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> (1542–1602), was a <a href="/wiki/Denmark" title="Denmark">Danish</a> physician, and one of the most significant followers of <a href="/wiki/Paracelsus" title="Paracelsus">Paracelsus</a>. His works include the major treatise <i>Idea medicinae philosophicae</i> (Ideal of Philosophical Medicine) (1571), which asserted the superiority of the ideas of Paracelsus to those of <a href="/wiki/Galen" title="Galen">Galen</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Severinus was a member of Denmark's intellectual elite.  His education was supported by the Danish crown and his eventual appointment as royal physician conferred status and authority to his work and opinions.  He was a contemporary and intellectual and personal associate of <a href="/wiki/Tycho_Brahe" title="Tycho Brahe">Tycho Brahe</a> who likewise is associated with the evolution of chemistry during the seventeenth century.  <a href="/wiki/Daniel_Sennert" title="Daniel Sennert">Daniel Sennert</a>, a professor at Wittenberg wrote in 1619 that most chemical physicians followed the lead of Severinus and even referred to a “Severinian School” of medical theory, which was based on the philosophy of Paracelsus.<sup class="reference" id="cite_ref-path_3-0"><a href="#cite_note-path-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>14</span></sup> Scholars including Jole Shackelford and Hiro Hirai (<i>Le concept de semences dans les théories de la matière à la Renaissance</i>, 2005) have claimed that Severinus was an important predecessor of both <a class="mw-redirect" href="/wiki/Johann_Baptista_von_Helmont" title="Johann Baptista von Helmont">Johann Baptista von Helmont</a> and <a href="/wiki/Pierre_Gassendi" title="Pierre Gassendi">Pierre Gassendi</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Academic_Life"><span class="tocnumber">2</span> <span class="toctext">Academic Life</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Severinus_and_Paracelsianism"><span class="tocnumber">3</span> <span class="toctext">Severinus and Paracelsianism</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#The_Idea_medicinæ_philosophicæ_of_Severinus"><span class="tocnumber">4</span> <span class="toctext">The <i>Idea medicinæ philosophicæ</i> of Severinus</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Severinus’_Legacy"><span class="tocnumber">5</span> <span class="toctext">Severinus’ Legacy</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peder_Soerensen&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Peder Sørensen, later known by his Latinized name Petrus Severinus, was born in the Danish town of <a href="/wiki/Ribe" title="Ribe">Ribe</a> on the west coast of <a href="/wiki/Jutland" title="Jutland">Jutland</a> in either 1542 or 1540.  Both years are cited in seventeenth century texts.  Ribe was a flourishing town on a major trade route between the farmers of Jutland and their markets to the south.  It was also a harbor town that supported regular trade with Holland, England, and other port towns of the Frisian coast.  Ribe was also an administrative center with the cathedral at Ribe governed by one of the most important sees in sixteenth century Denmark.<sup class="reference" id="cite_ref-path_3-1"><a href="#cite_note-path-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>23</span></sup>
+</p><p>Severinus’ parents were probably prosperous and well-positioned and like other sons of the well to do, Severinus probably enrolled in Ribe’s Latin or cathedral school before moving on to universities abroad or the university at Copenhagen.  After the Reformation, the Catholic hierarchy was replaced with Lutheran masters and administrators, but the curriculum is unlikely to have changed much.  The cathedral at Ribe was administered by some of the greatest humanist reformers in the sixteenth and seventeenth centuries, including <a href="/wiki/Hans_Tausen" title="Hans Tausen">Hans Tausen</a>, Peder Hegelund, and Jens Dinesen Jersin providing Severinus with the best education available in Denmark at the time.<sup class="reference" id="cite_ref-path_3-2"><a href="#cite_note-path-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>24–25</span></sup>
+</p>
+<h2><span class="mw-headline" id="Academic_Life">Academic Life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peder_Soerensen&amp;action=edit&amp;section=2" title="Edit section: Academic Life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some time around the late 1550s, Severinus entered the <a href="/wiki/University_of_Copenhagen" title="University of Copenhagen">University of Copenhagen</a>.  While enrolled he probably followed the standard European undergraduate curriculum, which prescribed texts based on the writings and commentaries of <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>.  Copenhagen as a reformed university allowed for the study of natural philosophy or “Phillippist” humanism named after <a class="mw-redirect" href="/wiki/Philipp_Melanchthon" title="Philipp Melanchthon">Philipp Melanchthon</a>.  Philosophy at the University of Copenhagen comprised three branches:  logic (grammar, dialectic, and rhetoric), physics (mathematics, physiology, and metaphysics), and ethics.  Severinus’ first exposure to basic academic medicine probably came during his physiology and metaphysics classes, which were largely Aristotelian-based.<sup class="reference" id="cite_ref-path_3-3"><a href="#cite_note-path-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>27</span></sup>
+</p><p>In 1562, Severinus left Copenhagen and headed to France to begin medical studies, but returned a year later due to a lack of funding.  In 1563 King <a href="/wiki/Frederick_II_of_Denmark" title="Frederick II of Denmark">Frederick II</a> offered Severinus a canonry position as a doctor in Viborg, which was probably used to fund a stipend for three years of medical studies.  When and where Severinus ultimately earned his medical degree remains unclear.  Severinus was promoted to the level of master in 1564 under the direction of Nicolaus Laurentius Scavenius, who held the chair in mathematics and later physics at the University of Copenhagen.  These subjects covered the philosophical groundwork for medicine, including generation and corruption—themes Severinus would return to again and again throughout his life.  It was in fact his theories on these subjects that earned him international acclaim.<sup class="reference" id="cite_ref-path_3-4"><a href="#cite_note-path-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>29</span></sup>   In 1571 Severinus was officially named the physician to King Frederick II until his death in 1588.  He then attended to <a class="mw-redirect" href="/wiki/Christian_IV" title="Christian IV">Christian IV</a> who at the time was a minor.  When Christian became fully vested as king in 1592, he hired additional physicians while still employing Severinus who retained his title and income.  For the last ten years of his life, Severinus enjoyed relative freedom from official duties, yet failed to produce any additional writings since his influential work, <i>Idea medicinæ philosophicæ</i> in 1571.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Severinus_and_Paracelsianism">Severinus and Paracelsianism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peder_Soerensen&amp;action=edit&amp;section=3" title="Edit section: Severinus and Paracelsianism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Severinus very early in his career was drawn to the teachings and writing of the German medical reformer Theophrastus Paracelsus (1493-1541).  Severinus’ <i>Idea medicinæ philosophicae</i> (1571) is his most important written work, which interprets the teachings of Paracelsus. <a class="external text" href="http://nbn-resolving.de/urn:nbn:de:hbz:061:2-30406" rel="nofollow">Digital edition</a> by the <a href="/wiki/University_and_State_Library_D%C3%BCsseldorf" title="University and State Library Düsseldorf">University and State Library Düsseldorf</a> Although Paracelsus’ writings are difficult to discern, his primary contribution to the study of medicine rests on his assertions that medicine could only be learned and improved through a study of nature grounded in Christian principles.  Paracelsus also stressed a reliance on chemistry to prepare certain formularies for the treatment of disorders.
+</p><p>While a medical student, Severinus began to hear of the success of certain Paracelsian medicines and began to read Paracelsus’ writings.  While these writings were rather obscure, Severinus persisted in understanding the concepts through his own empirical experiments and by applying the teachings of ancient Greeks in matters of theory and observation.<sup class="reference" id="cite_ref-path_3-5"><a href="#cite_note-path-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>29</span></sup>   Severinus increasingly found traditional Aristotelian and Galenic medical methods unsatisfactory and likewise began to embrace chemistry and the teachings of Paracelsus to create efficacious drugs.  The compounds most often relied on were those with “strong manifest qualities” such as smell, which were believed to be an indication of their effectiveness.  The toxicity of certain compounds would be addressed by applying chemical principles to negate the toxic qualities.  The controversy with such a method, however, was that it was not always known whether a compound was toxic until it was ingested.
+</p>
+<h2><span id="The_Idea_medicin.C3.A6_philosophic.C3.A6_of_Severinus"></span><span class="mw-headline" id="The_Idea_medicinæ_philosophicæ_of_Severinus">The <i>Idea medicinæ philosophicæ</i> of Severinus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peder_Soerensen&amp;action=edit&amp;section=4" title="Edit section: The Idea medicinæ philosophicæ of Severinus">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Severinus' best known writing is <i>Idea medicinæ</i>, published in Basel in 1571.  The volume provides Severinus’ interpretation of the metaphysical and physical foundations of medicine and natural change.  It is believed this is Severinus’ only work that fully illustrates his acceptance of Paracelsian writings.  But it was deemed sufficiently important in the seventeenth century to produce two more editions and three extensive commentaries.<sup class="reference" id="cite_ref-path_3-6"><a href="#cite_note-path-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>143</span></sup> <i>Idea medicinæ</i> focuses not only on medicine, but also ideological questions that impacted moral philosophy and religion.  The book is essentially a philosophical discussion of the fundamental causes of change in natural bodies and calls into question the standard medical practices of the day which were based on <a href="/wiki/Learned_medicine" title="Learned medicine">Galenic medicine</a> and the four <a href="/wiki/Humorism" title="Humorism">humors</a> of the body.
+</p><p>Severinus believed that diseases had an organic cause.  He theorized that seeds of disease (semina morborum) are foreign matter in a healthy body and take root, grow, and disrupt the normally orderly process of bodily functions.  These seeds manifest themselves in various places in the body and produce particular symptoms that identify the disease.  In order to restore health, chemically derived remedies could be produced and administered in order to restore bodily harmony.<sup class="reference" id="cite_ref-path_3-7"><a href="#cite_note-path-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>467</span></sup>
+</p>
+<h2><span id="Severinus.E2.80.99_Legacy"></span><span class="mw-headline" id="Severinus’_Legacy">Severinus’ Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peder_Soerensen&amp;action=edit&amp;section=5" title="Edit section: Severinus’ Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Readers of Severinus’ <i>Idæ medicinæ</i> were introduced to a new world of chemical philosophy.  Although deeply rooted in Paracelsianism, Severinus’ deciphering of Paracelsus essentially shed light on writings that arguably may have remained enigmatic.  Incorporating chemical ideas into therapeutic practice received wide attention, especially in Denmark where <a href="/wiki/Tycho_Brahe" title="Tycho Brahe">Tycho Brahe</a> was also engaged in the chemical arts and whose royal favor and patronage further advanced the emerging science of chemistry.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>  <a href="/wiki/Thomas_Erastus" title="Thomas Erastus">Thomas Erastus</a>, <a href="/wiki/Andreas_Libavius" title="Andreas Libavius">Andreas Libavius</a> and other anti-Paracelsianists however served to minimize Severinus’ legacy.  Libavious in particular attacked the occult sciences of any variety but crusaded especially against Paracelsus and any writings that supported him, including Severinus.  On the other hand, <i>Idæ medicinæ</i>’s impact on English natural philosophers can be discerned in the writings of Thomas Moffett (1553-1604), and <a href="/wiki/Francis_Bacon" title="Francis Bacon">Francis Bacon</a> (1561-1626) who on the one hand vilified Paracelsus but admired the important synthesis contributed by Petrus Severinus.<sup class="reference" id="cite_ref-path_3-8"><a href="#cite_note-path-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>253</span></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peder_Soerensen&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Jole Shackelford (2004), <i>A Philosophical Path for Paracelsian Medicine: The Ideas, Intellectual Context, and Influence of Petrus Severinus (1540–1602)</i></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peder_Soerensen&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 32em; -webkit-column-width: 32em; column-width: 32em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Peder Soerenssen, Petrus Severinus, Peter Severinus.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.nlm.nih.gov/exhibition/paracelsus/paracelsus_4.html" rel="nofollow">PARACELSUS: The Medical Chemistry of the Paracelsians</a></span>
+</li>
+<li id="cite_note-path-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-path_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-path_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-path_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-path_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-path_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-path_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-path_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-path_3-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-path_3-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text">Jole Shackelford, A Philosophical Path for Paracelsian Medicine: The Ideas, Intellectual Context, and Influence of Petrus Severinus (1540/2-1602) (Copenhagen: Museum Tusculanum Press, 2004).</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Jole Shackelford, “Early Reception of Paracelsian Theory: Severinus and Erastus,” The Sixteenth Century Journal 26, no. 1 (April 1, 1995): 134.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Jole Shackelford, “Paracelsianism and the Orthodox Lutheran Rejection of Vital Philosophy in Early Seventeenth-Century Denmark,” Early Science and Medicine 8, no. 3 (2003): 212.</span>
+</li>
+</ol></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q430754&amp;#124;Edit_this_at_Wikidata" class="navbox authority-control" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q430754&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q430754" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Bibsys" title="Bibsys">BIBSYS</a>: <span class="uid"><a class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90277296" rel="nofollow">90277296</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/128402091" rel="nofollow">128402091</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a class="external text" href="http://isni.org/isni/0000000079727958" rel="nofollow">0000 0000 7972 7958</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a class="external text" href="https://id.loc.gov/authorities/names/n80022696" rel="nofollow">n80022696</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Royal_Library_of_the_Netherlands" title="Royal Library of the Netherlands">NTA</a>: <span class="uid"><a class="external text" href="http://data.bibliotheken.nl/id/thes/p075259974" rel="nofollow">075259974</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a>: <span class="uid"><a class="external text" href="https://libris.kb.se/auth/321936" rel="nofollow">321936</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SNAC" title="SNAC">SNAC</a>: <span class="uid"><a class="external text" href="https://snaccooperative.org/ark:/99166/w6rc6x8g" rel="nofollow">w6rc6x8g</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a class="external text" href="https://www.idref.fr/097485373" rel="nofollow">097485373</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a class="external text" href="https://viaf.org/viaf/30587646" rel="nofollow">30587646</a></span></span></li>
+<li><span class="nowrap"> <a class="mw-redirect" href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a class="external text" href="https://www.worldcat.org/identities/containsVIAFID/30587646" rel="nofollow">30587646</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1254
+Cached time: 20191213083803
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.112 seconds
+Real time usage: 0.188 seconds
+Preprocessor visited node count: 501/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10296/2097152 bytes
+Template argument size: 137/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3160/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.051/10.000 seconds
+Lua memory usage: 1.26 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  157.381      1 -total
+ 73.95%  116.386      1 Template:Authority_control
+ 18.08%   28.460      1 Template:Reflist
+  3.77%    5.938      9 Template:Rp
+  2.00%    3.153      1 Template:Main_other
+  1.51%    2.374      1 Template:Column-width
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9876405-0!canonical and timestamp 20191213083802 and revision id 929080942
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Peder_Soerensen&amp;oldid=929080942">https://en.wikipedia.org/w/index.php?title=Peder_Soerensen&amp;oldid=929080942</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1542_births" title="Category:1542 births">1542 births</a></li><li><a href="/wiki/Category:1602_deaths" title="Category:1602 deaths">1602 deaths</a></li><li><a href="/wiki/Category:16th-century_Danish_physicians" title="Category:16th-century Danish physicians">16th-century Danish physicians</a></li><li><a href="/wiki/Category:Paracelsians" title="Category:Paracelsians">Paracelsians</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SELIBR_identifiers" title="Category:Wikipedia articles with SELIBR identifiers">Wikipedia articles with SELIBR identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SNAC-ID_identifiers" title="Category:Wikipedia articles with SNAC-ID identifiers">Wikipedia articles with SNAC-ID identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Peder+Soerensen" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Peder+Soerensen" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Peder_Soerensen" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Peder_Soerensen" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Peder_Soerensen">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Peder_Soerensen&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Peder_Soerensen&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Peder_Soerensen" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Peder_Soerensen" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Peder_Soerensen&amp;oldid=929080942" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Peder_Soerensen&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q430754" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Peder_Soerensen&amp;id=929080942" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Peder+Soerensen">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Peder+Soerensen&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Peder_Soerensen&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Peder_S%C3%B8rensen_(l%C3%A6ge)" hreflang="da" lang="da" title="Peder Sørensen (læge) – Danish">Dansk</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Peder_Soerensen" hreflang="es" lang="es" title="Peder Soerensen – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Peder_S%C3%B8rensen" hreflang="fr" lang="fr" title="Peder Sørensen – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Peder_S%C3%B8rensen" hreflang="gl" lang="gl" title="Peder Sørensen – Galician">Galego</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q430754#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 3 December 2019, at 15:10<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Peder_Soerensen&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.188","ppvisitednodes":{"value":501,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10296,"limit":2097152},"templateargumentsize":{"value":137,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3160,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  157.381      1 -total"," 73.95%  116.386      1 Template:Authority_control"," 18.08%   28.460      1 Template:Reflist","  3.77%    5.938      9 Template:Rp","  2.00%    3.153      1 Template:Main_other","  1.51%    2.374      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.051","limit":"10.000"},"limitreport-memusage":{"value":1324495,"limit":52428800}},"cachereport":{"origin":"mw1254","timestamp":"20191213083803","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Peder Soerensen","url":"https:\/\/en.wikipedia.org\/wiki\/Peder_Soerensen","sameAs":"http:\/\/www.wikidata.org\/entity\/Q430754","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q430754","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-03-05T16:45:58Z","dateModified":"2019-12-03T15:10:36Z","headline":"Danish physician"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":233,"wgHostname":"mw1325"});});</script>
+
+
+</body></html>

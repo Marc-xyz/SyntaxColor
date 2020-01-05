@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>SS Empire Carpenter - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xft-WwpAADkAAHmNesEAAAAB","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"SS_Empire_Carpenter","wgTitle":"SS Empire Carpenter","wgCurRevisionId":924970563,"wgRevisionId":924970563,"wgArticleId":26514287,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: unfit url","Use dmy dates from January 2017","Use British English from January 2017","Ship infoboxes without an image","1943 ships","Ships built on the River Clyde",
+"Ministry of War Transport ships","Empire ships","Steamships of the United Kingdom","World War II merchant ships of the Soviet Union","Steamships of the Soviet Union","Merchant ships of the United Kingdom","Steamships of Panama","Merchant ships of Panama","Steamships of Liberia","Merchant ships of Liberia"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"SS_Empire_Carpenter","wgRelevantArticleId":26514287,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
+"wgWikibaseItemId":"Q7393594","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/SS_Empire_Carpenter" rel="alternate"/>
+<link href="/w/index.php?title=SS_Empire_Carpenter&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=SS_Empire_Carpenter&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/SS_Empire_Carpenter" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-SS_Empire_Carpenter rootpage-SS_Empire_Carpenter skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">SS <i>Empire Carpenter</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox" style="width:25.5em;border-spacing:2px;">
+
+<tbody><tr>
+<td colspan="2" style="text-align:center;line-height:1.5em;">
+</td></tr><tr>
+<th colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">History</th></tr><tr class="mw-empty-elt">
+</tr>
+<tr style="vertical-align:top;"><td>Name:</td><td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .4em; text-indent: -.4em;"><i>Empire Carpenter</i> (1942-44)</li>
+<li style="padding-left: .4em; text-indent: -.4em;"><i>Dickson</i> (1944-46)</li>
+<li style="padding-left: .4em; text-indent: -.4em;"><i>Empire Carpenter</i> (1946-47 )</li>
+<li style="padding-left: .4em; text-indent: -.4em;"><i>Petfrano</i> (1947-55)</li>
+<li style="padding-left: .4em; text-indent: -.4em;"><i>Amipa</i> (1955-58)</li>
+<li style="padding-left: .4em; text-indent: -.4em;"><i>Apex</i> (1958-68)</li>
+<li style="padding-left: .4em; text-indent: -.4em;"><i>Afros</i> (1968-71)</li>
+</ul></td></tr><tr style="vertical-align:top;"><td>Owner:</td><td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .4em; text-indent: -.4em;">Ministry of War Transport (1942-45)</li>
+<li style="padding-left: .4em; text-indent: -.4em;">Ministry of Transport (1945-47)</li>
+<li style="padding-left: .4em; text-indent: -.4em;">Petrinovic Steamship Co Ltd (1947-55)</li>
+<li style="padding-left: .4em; text-indent: -.4em;">Compagnia di Navigazione Amipa SA (1955-58)</li>
+<li style="padding-left: .4em; text-indent: -.4em;">Compagnia Maritime Apex SA (1958-70)</li>
+<li style="padding-left: .4em; text-indent: -.4em;">Campos Shipping Co (1970-71)</li>
+</ul></td></tr><tr style="vertical-align:top;"><td>Operator:</td><td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .4em; text-indent: -.4em;">Hain Steamship Co Ltd (1943-44)</li>
+<li style="padding-left: .4em; text-indent: -.4em;">Soviet Union (1944-46)</li>
+<li style="padding-left: .4em; text-indent: -.4em;">Petrinovic Steamship Co Ltd (1946-55)</li>
+<li style="padding-left: .4em; text-indent: -.4em;">Compagnia di Navigazione Amipa SA (1955-58)</li>
+<li style="padding-left: .4em; text-indent: -.4em;">Compagnia Maritime Apex SA (1958-70)</li>
+<li style="padding-left: .4em; text-indent: -.4em;">Campos Shipping Co (1970-71)</li>
+</ul></td></tr><tr style="vertical-align:top;"><td>Port of registry:</td><td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .4em; text-indent: -.4em;"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" class="thumbborder" data-file-height="600" data-file-width="1200" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Civil_Ensign_of_the_United_Kingdom.svg/23px-Civil_Ensign_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Civil_Ensign_of_the_United_Kingdom.svg/35px-Civil_Ensign_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Civil_Ensign_of_the_United_Kingdom.svg/46px-Civil_Ensign_of_the_United_Kingdom.svg.png 2x" width="23"/></a></span> London (1943-44)</li>
+<li style="padding-left: .4em; text-indent: -.4em;"><span class="flagicon"><a href="/wiki/Soviet_Union" title="Soviet Union"><img alt="Soviet Union" class="thumbborder" data-file-height="300" data-file-width="600" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Soviet_Union_%281924%E2%80%931955%29.svg/23px-Flag_of_the_Soviet_Union_%281924%E2%80%931955%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Soviet_Union_%281924%E2%80%931955%29.svg/35px-Flag_of_the_Soviet_Union_%281924%E2%80%931955%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Soviet_Union_%281924%E2%80%931955%29.svg/46px-Flag_of_the_Soviet_Union_%281924%E2%80%931955%29.svg.png 2x" width="23"/></a></span> Soviet Union (1944-46)</li>
+<li style="padding-left: .4em; text-indent: -.4em;"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" class="thumbborder" data-file-height="600" data-file-width="1200" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Civil_Ensign_of_the_United_Kingdom.svg/23px-Civil_Ensign_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Civil_Ensign_of_the_United_Kingdom.svg/35px-Civil_Ensign_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Civil_Ensign_of_the_United_Kingdom.svg/46px-Civil_Ensign_of_the_United_Kingdom.svg.png 2x" width="23"/></a></span> London (1946-55)</li>
+<li style="padding-left: .4em; text-indent: -.4em;"><span class="flagicon"><a href="/wiki/Panama" title="Panama"><img alt="Panama" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/23px-Flag_of_Panama.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/35px-Flag_of_Panama.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/45px-Flag_of_Panama.svg.png 2x" width="23"/></a></span> Panama City (1955-70)</li>
+<li style="padding-left: .4em; text-indent: -.4em;"><span class="flagicon"><a href="/wiki/Liberia" title="Liberia"><img alt="Liberia" class="thumbborder" data-file-height="600" data-file-width="1140" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/23px-Flag_of_Liberia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/35px-Flag_of_Liberia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/46px-Flag_of_Liberia.svg.png 2x" width="23"/></a></span> Monrovia (1970-71)</li>
+</ul></td></tr><tr style="vertical-align:top;"><td>Builder:</td><td>
+C Connell &amp; Co Ltd</td></tr><tr style="vertical-align:top;"><td>Yard number:</td><td>
+440</td></tr><tr style="vertical-align:top;"><td>Launched:</td><td>
+21 November 1942</td></tr><tr style="vertical-align:top;"><td>Completed:</td><td>
+January 1943</td></tr><tr style="vertical-align:top;"><td>Identification:</td><td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .4em; text-indent: -.4em;">Code Letters BFLJ (1943-44)</li>
+<li style="padding-left: .4em; text-indent: -.4em;"><span class="flagicon" style="padding-right:0.3em;"><a class="image" href="/wiki/File:ICS_Bravo.svg"><img alt="ICS Bravo.svg" class="thumbborder" data-file-height="600" data-file-width="600" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ICS_Bravo.svg/15px-ICS_Bravo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ICS_Bravo.svg/23px-ICS_Bravo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ICS_Bravo.svg/30px-ICS_Bravo.svg.png 2x" width="15"/></a></span><span class="flagicon" style="padding-right:0.3em;"><a class="image" href="/wiki/File:ICS_Foxtrot.svg"><img alt="ICS Foxtrot.svg" class="thumbborder" data-file-height="600" data-file-width="600" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ICS_Foxtrot.svg/15px-ICS_Foxtrot.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ICS_Foxtrot.svg/23px-ICS_Foxtrot.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ICS_Foxtrot.svg/30px-ICS_Foxtrot.svg.png 2x" width="15"/></a></span><span class="flagicon" style="padding-right:0.3em;"><a class="image" href="/wiki/File:ICS_Lima.svg"><img alt="ICS Lima.svg" class="thumbborder" data-file-height="600" data-file-width="600" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/ICS_Lima.svg/15px-ICS_Lima.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/ICS_Lima.svg/23px-ICS_Lima.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/ICS_Lima.svg/30px-ICS_Lima.svg.png 2x" width="15"/></a></span><span class="flagicon" style="padding-right:0.3em;"><a class="image" href="/wiki/File:ICS_Alpha.svg"><img alt="ICS Alpha.svg" class="thumbborder" data-file-height="600" data-file-width="600" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/ICS_Alpha.svg/15px-ICS_Alpha.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/ICS_Alpha.svg/23px-ICS_Alpha.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/ICS_Alpha.svg/30px-ICS_Alpha.svg.png 2x" width="15"/></a></span></li>
+<li style="padding-left: .4em; text-indent: -.4em;">Official Number 168745 (1942-44, 1946-55)</li>
+</ul></td></tr><tr style="vertical-align:top;"><td>Fate:</td><td>
+Scrapped 1971.</td></tr>
+<tr>
+<th colspan="2" height="30" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">General characteristics </th></tr><tr style="vertical-align:top;"><td>Tonnage:</td><td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .4em; text-indent: -.4em;">7,025 <a href="/wiki/Gross_register_tonnage" title="Gross register tonnage">GRT</a></li>
+<li style="padding-left: .4em; text-indent: -.4em;">4,857 <a href="/wiki/Net_register_tonnage" title="Net register tonnage">NRT</a></li>
+<li style="padding-left: .4em; text-indent: -.4em;">10,318<a href="/wiki/Deadweight_tonnage" title="Deadweight tonnage">DWT</a></li>
+</ul></td></tr><tr style="vertical-align:top;"><td>Length:</td><td>
+431 ft 3 in (131.45 m)</td></tr><tr style="vertical-align:top;"><td>Beam:</td><td>
+56 ft 2 in (17.12 m)</td></tr><tr style="vertical-align:top;"><td>Draught:</td><td>
+27 ft 3 in (8.31 m)</td></tr><tr style="vertical-align:top;"><td>Depth:</td><td>
+33 ft 6 in (10.21 m)</td></tr><tr style="vertical-align:top;"><td>Installed power:</td><td>
+Triple expansion steam engine</td></tr><tr style="vertical-align:top;"><td>Propulsion:</td><td>
+Screw propellor</td></tr>
+</tbody></table>
+<p><i><b>Empire Carpenter</b></i> was a 7,025 GRT <a href="/wiki/Cargo_ship" title="Cargo ship">cargo ship</a> which was built in 1942 for the <a href="/wiki/Ministry_of_War_Transport" title="Ministry of War Transport">Ministry of War Transport</a> (MoWT). In 1944 she was <a class="mw-redirect" href="/wiki/Lend-lease" title="Lend-lease">leased</a> to the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a> and renamed <i><b>Dickson</b></i>. In 1946, she was returned to the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> and regained her former name of <i>Empire Carpenter</i>. She was sold in 1947 and renamed <i><b>Petfrano</b></i>. In 1955, she was sold to <a href="/wiki/Panama" title="Panama">Panama</a> owners and renamed <i><b>Amipa</b></i>, further sales saw her renamed <i><b>Apex</b></i>. In 1968, she was sold to <a href="/wiki/Cyprus" title="Cyprus">Cypriot</a> owners and renamed <i><b>Afros</b></i>, serving until scrapped in 1971.
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SS_Empire_Carpenter&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The ship was built by C Connell &amp; Co Ltd, <a href="/wiki/Scotstoun" title="Scotstoun">Scotstoun</a>,<sup class="reference" id="cite_ref-Ships_1-0"><a href="#cite_note-Ships-1">[1]</a></sup> as yard number 440.<sup class="reference" id="cite_ref-Clyde_2-0"><a href="#cite_note-Clyde-2">[2]</a></sup> She was launched on 21 November 1942, and completed in January 1943.<sup class="reference" id="cite_ref-Ships_1-1"><a href="#cite_note-Ships-1">[1]</a></sup>
+</p><p>The ship was 431 feet 3 inches (131.45 m) long, with a beam of 56 feet 2 inches (17.12 m), a depth of 33 feet 6 inches (10.21 m),<sup class="reference" id="cite_ref-Carpenter42_3-0"><a href="#cite_note-Carpenter42-3">[3]</a></sup> and a draught of  27 feet 3 inches (8.31 m).<sup class="reference" id="cite_ref-Clyde_2-1"><a href="#cite_note-Clyde-2">[2]</a></sup> Her GRT was 7,025, with a NRT of 4,857.<sup class="reference" id="cite_ref-Carpenter42_3-1"><a href="#cite_note-Carpenter42-3">[3]</a></sup> Her DWT was 10,318.<sup class="reference" id="cite_ref-Clyde_2-2"><a href="#cite_note-Clyde-2">[2]</a></sup>
+</p><p>She was propelled by a <a class="mw-redirect" href="/wiki/Triple_expansion_steam_engine" title="Triple expansion steam engine">triple expansion steam engine</a>, which had cylinders of <span class="frac nowrap">24<span class="visualhide"> </span><sup>1</sup>⁄<sub>2</sub></span> inches (62 cm), 39 inches (99 cm) and 70 inches (180 cm) diameter and 48 inches (120 cm) stroke. The engine was built by D Rowan &amp; Co Ltd, <a href="/wiki/Glasgow" title="Glasgow">Glasgow</a>.<sup class="reference" id="cite_ref-Carpenter42_3-2"><a href="#cite_note-Carpenter42-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SS_Empire_Carpenter&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Empire Carpenter</i> was built for the MoWT.<sup class="reference" id="cite_ref-Ships_1-2"><a href="#cite_note-Ships-1">[1]</a></sup> The United Kingdom Official Number 168745 and the <a class="mw-redirect" href="/wiki/Code_Letters" title="Code Letters">Code Letters</a> BFLJ were allocated. She was placed under the management of the Hain Steamship Co Ltd.<sup class="reference" id="cite_ref-Carpenter42_3-3"><a href="#cite_note-Carpenter42-3">[3]</a></sup>
+</p><p><i>Empire Carpenter</i> was a member of a number of convoys during the <a class="mw-redirect" href="/wiki/Second_World_War" title="Second World War">Second World War</a>.
+</p>
+<dl><dt>NKS9</dt></dl>
+<p>Convoy MKS departed <a class="mw-redirect" href="/wiki/B%C3%B4ne" title="Bône">Bône</a>, <a href="/wiki/Algeria" title="Algeria">Algeria</a> on 4 March 1943 and arrived at <a href="/wiki/Liverpool" title="Liverpool">Liverpool</a> on 18 March. <i>Empire Caribou</i> was carrying a cargo of <a href="/wiki/Steel" title="Steel">steel</a> bound for <a href="/wiki/London" title="London">London</a>.<sup class="reference" id="cite_ref-MKS9_4-0"><a href="#cite_note-MKS9-4">[4]</a></sup>
+</p>
+<dl><dt>JW 54A</dt></dl>
+<p>Convoy JW 54A departed <a href="/wiki/Loch_Ewe" title="Loch Ewe">Loch Ewe</a> on 15 November 1943 and arrived at the <a href="/wiki/Kola_Peninsula" title="Kola Peninsula">Kola Inlet</a> on 24 November. <i>Empire Carpenter</i> was carrying the <a href="/wiki/Convoy_commodore" title="Convoy commodore">Vice Commodore</a> of the convoy.<sup class="reference" id="cite_ref-JW54A_5-0"><a href="#cite_note-JW54A-5">[5]</a></sup>
+</p>
+<dl><dt>JW 57</dt></dl>
+<p>Convoy JW 57 departed Liverpool on 20 February 1944 and arrived at the Kola Inlet on 28 February.<sup class="reference" id="cite_ref-JW57_6-0"><a href="#cite_note-JW57-6">[6]</a></sup>
+</p>
+<dl><dt>RA 55A</dt></dl>
+<p>Convoy RA 55A departed the Kola Inlet on 23 December 1943 and arrived at Loch Ewe on 1 January 1944.<sup class="reference" id="cite_ref-RA55A_7-0"><a href="#cite_note-RA55A-7">[7]</a></sup>
+</p><p>In 1944, <i>Empire Carpenter</i> was transferred to the Soviet Union under Lend-Lease and was renamed <i>Dickson</i>. She was returned to the United Kingdom in 1946 and regained her former name of <i>Empire Carpenter</i>. She was placed under the management of the Petrinovic Steamship Co Ltd.<sup class="reference" id="cite_ref-Clyde_2-3"><a href="#cite_note-Clyde-2">[2]</a></sup>
+</p><p>In 1947, <i>Empire Carpenter</i> was sold to the Petrinovic Steamship Co Ltd and was renamed <i>Petfrano</i>. She served until 1955 when she was sold to Compagnia di Navigazione Amipa SA, <a href="/wiki/Panama" title="Panama">Panama</a> and was renamed <i>Amipa</i>. In 1958, she was sold to Compagnia Maritime Apex SA and renamed <i>Apex</i>. In 1968, she was renamed <i>Afros</i>.<sup class="reference" id="cite_ref-Ships_1-3"><a href="#cite_note-Ships-1">[1]</a></sup> In 1970, she was sold to Campos Shipping Co, <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>. She was <a href="/wiki/Flag_of_convenience" title="Flag of convenience">reflagged</a> to <a href="/wiki/Liberia" title="Liberia">Liberia</a>, with her port of registry being <a href="/wiki/Monrovia" title="Monrovia">Monrovia</a>. She served until 1971, arriving for scrapping on 17 March at <a href="/wiki/Shanghai" title="Shanghai">Shanghai</a>, <a href="/wiki/China" title="China">China</a>.<sup class="reference" id="cite_ref-Clyde_2-4"><a href="#cite_note-Clyde-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SS_Empire_Carpenter&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ships-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ships_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ships_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Ships_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Ships_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Mitchell, W H, and Sawyer, L A (1995). <i>The Empire Ships</i>. London, New York, Hamburg, Hong Kong: Lloyd's of London Press Ltd. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-85044-275-4" title="Special:BookSources/1-85044-275-4"><bdi>1-85044-275-4</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Empire+Ships&amp;rft.place=London%2C+New+York%2C+Hamburg%2C+Hong+Kong&amp;rft.pub=Lloyd%27s+of+London+Press+Ltd&amp;rft.date=1995&amp;rft.isbn=1-85044-275-4&amp;rft.aulast=Mitchell%2C+W+H&amp;rft.aufirst=and+Sawyer%2C+L+A&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASS+Empire+Carpenter"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Clyde-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Clyde_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Clyde_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Clyde_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Clyde_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Clyde_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20050118092450/http://www.clydesite.co.uk/clydebuilt/viewship.asp?id=5061" rel="nofollow">"Launched 1942: ss EMPIRE CARPENTER"</a>. Clydesite. Archived from the original on 18 January 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Launched+1942%3A+ss+EMPIRE+CARPENTER&amp;rft.pub=Clydesite&amp;rft_id=http%3A%2F%2Fwww.clydesite.co.uk%2Fclydebuilt%2Fviewship.asp%3Fid%3D5061&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASS+Empire+Carpenter"></span><span class="cs1-maint citation-comment">CS1 maint: unfit url (<a href="/wiki/Category:CS1_maint:_unfit_url" title="Category:CS1 maint: unfit url">link</a>)</span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Carpenter42-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Carpenter42_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Carpenter42_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Carpenter42_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Carpenter42_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.plimsollshipdata.org/pdffile.php?name=42b1005.pdf" rel="nofollow">"LLOYD'S REGISTER, STEAMERS &amp; MOTORSHIPS"</a> <span class="cs1-format">(PDF)</span>. Plimsoll Ship Data<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=LLOYD%27S+REGISTER%2C+STEAMERS+%26+MOTORSHIPS&amp;rft.pub=Plimsoll+Ship+Data&amp;rft_id=http%3A%2F%2Fwww.plimsollshipdata.org%2Fpdffile.php%3Fname%3D42b1005.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASS+Empire+Carpenter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-MKS9-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-MKS9_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.warsailors.com/convoys/mks9.html" rel="nofollow">"CONVOY MKS 9"</a>. Warsailors<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CONVOY+MKS+9&amp;rft.pub=Warsailors&amp;rft_id=http%3A%2F%2Fwww.warsailors.com%2Fconvoys%2Fmks9.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASS+Empire+Carpenter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-JW54A-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-JW54A_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.warsailors.com/convoys/jw54a.html" rel="nofollow">"CONVOY JW 54A"</a>. Warsailors<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CONVOY+JW+54A&amp;rft.pub=Warsailors&amp;rft_id=http%3A%2F%2Fwww.warsailors.com%2Fconvoys%2Fjw54a.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASS+Empire+Carpenter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-JW57-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-JW57_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20100729005553/http://hmsmahratta.50megs.com/custom4_3.html" rel="nofollow">"Navy and Merchant ships on Convoy JW-57"</a>. HMS Mahratta Association. Archived from <a class="external text" href="http://hmsmahratta.50megs.com/custom4_3.html" rel="nofollow">the original</a> on 29 July 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Navy+and+Merchant+ships+on+Convoy+JW-57&amp;rft.pub=HMS+Mahratta+Association&amp;rft_id=http%3A%2F%2Fhmsmahratta.50megs.com%2Fcustom4_3.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASS+Empire+Carpenter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-RA55A-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-RA55A_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.convoyweb.org.uk/ra/index.html?ra.php?convoy=55a!~ramain" rel="nofollow">"Convoy RA.55A"</a>. Convoyweb<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Convoy+RA.55A&amp;rft.pub=Convoyweb&amp;rft_id=http%3A%2F%2Fwww.convoyweb.org.uk%2Fra%2Findex.html%3Fra.php%3Fconvoy%3D55a%21~ramain&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASS+Empire+Carpenter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Empire_ships_beginning_with_Empire_Ca_to_Empire_Cl,_Empire_Co_to_Empire_Cy" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Empire_C_ships" title="Template:Empire C ships"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Empire_C_ships" title="Template talk:Empire C ships"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Empire_C_ships&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Empire_ships_beginning_with_Empire_Ca_to_Empire_Cl,_Empire_Co_to_Empire_Cy" style="font-size:114%;margin:0 4em"><a href="/wiki/Empire_ship" title="Empire ship">Empire ships</a> beginning with <a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)" title="List of Empire ships (Ca–Cl)"><i>Empire Ca to Empire Cl</i></a>, <a href="/wiki/List_of_Empire_ships_(Co%E2%80%93Cy)" title="List of Empire ships (Co–Cy)"><i>Empire Co to Empire Cy</i></a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Cargo_ship" title="Cargo ship">Cargo ships</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/SS_Empire_Cabot" title="SS Empire Cabot"><i>Empire Cabot</i></a></li>
+<li><a href="/wiki/SS_Empire_Caicos" title="SS Empire Caicos"><i>Empire Caicos</i></a></li>
+<li><a href="/wiki/SS_Stettin_(1923)" title="SS Stettin (1923)"><i>Empire Calder</i></a></li>
+<li><a href="/wiki/SS_Ing%C3%A9nieur_G%C3%A9n%C3%A9ral_Haarbleicher" title="SS Ingénieur Général Haarbleicher"><i>Empire Call</i></a></li>
+<li><a href="/wiki/MV_Argobeam" title="MV Argobeam"><i>Empire Calshot</i></a></li>
+<li><a href="/wiki/SS_Ceuta_(1929)" title="SS Ceuta (1929)"><i>Empire Camel</i></a></li>
+<li><a href="/wiki/SS_Empire_Cameron" title="SS Empire Cameron"><i>Empire Cameron</i></a></li>
+<li><a href="/wiki/SS_Yelkenci" title="SS Yelkenci"><i>Empire Camp</i></a><span style="padding-left:0.12em;"><sup>1</sup></span></li>
+<li><a href="/wiki/SS_Empire_Candida" title="SS Empire Candida"><i>Empire Candida</i></a></li>
+<li><a href="/wiki/MV_Willesden_(1944)" title="MV Willesden (1944)"><i>Empire Canning</i></a></li>
+<li><a href="/wiki/SS_Belocean" title="SS Belocean"><i>Empire Canute</i></a> <span style="padding-left:0.12em;"><sup>2</sup></span></li>
+<li><a href="/wiki/SS_Holmbury_(1943)" title="SS Holmbury (1943)"><i>Empire Canyon</i></a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)#Empire_Cape" title="List of Empire ships (Ca–Cl)"><i>Empire Cape</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Empire_Capulet" title="SS Empire Capulet"><i>Empire Capulet</i></a></li>
+<li><a href="/wiki/SS_Ragnhild_(1941)" title="SS Ragnhild (1941)"><i>Empire Carey</i></a></li>
+<li><a href="/wiki/SS_Empire_Caribou" title="SS Empire Caribou"><i>Empire Caribou</i></a></li>
+<li><a class="mw-selflink selflink"><i>Empire Carpenter</i></a></li>
+<li><a href="/wiki/SS_Claus_Rickmers" title="SS Claus Rickmers"><i>Empire Carron</i></a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)#Empire_Catcher" title="List of Empire ships (Ca–Cl)"><i>Empire Catcher</i></a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)#Empire_Catcher_II" title="List of Empire ships (Ca–Cl)"><i>Empire Catcher II</i></a></li>
+<li><a href="/wiki/SS_Clan_Mackenzie_(1942)" title="SS Clan Mackenzie (1942)"><i>Empire Cato</i></a></li>
+<li><a href="/wiki/SS_Letchworth_(1942)" title="SS Letchworth (1942)"><i>Empire Caxton</i></a></li>
+<li><a href="/wiki/SS_Empire_Celia" title="SS Empire Celia"><i>Empire Celia</i></a></li>
+<li><a href="/wiki/SS_Belgian_Captain" title="SS Belgian Captain"><i>Empire Centaur</i></a></li>
+<li><a href="/wiki/SS_Empire_Chamois" title="SS Empire Chamois"><i>Empire Chamois</i></a></li>
+<li><a href="/wiki/MV_Empire_Charmian" title="MV Empire Charmian"><i>Empire Charmian</i></a><span style="padding-left:0.12em;"><sup>2</sup></span></li>
+<li><a href="/wiki/SS_Empire_Chaucer" title="SS Empire Chaucer"><i>Empire Chaucer</i></a></li>
+<li><a href="/wiki/MV_Empire_Cheer" title="MV Empire Cheer"><i>Empire Cheer</i></a></li>
+<li><a href="/wiki/USS_West_Lianga_(ID-2758)" title="USS West Lianga (ID-2758)"><i>Empire Cheetah</i></a></li>
+<li><a href="/wiki/SS_Cap_Tafelneh" title="SS Cap Tafelneh"><i>Empire Chelmer</i></a></li>
+<li><a href="/wiki/SS_Dumbo" title="SS Dumbo"><i>Empire Chelsea</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Messina" title="SS Messina"><i>Empire Cherwell</i></a></li>
+<li><a href="/wiki/SS_Saltfleet" title="SS Saltfleet"><i>Empire Cheyne</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Inkosi_(1937)" title="SS Inkosi (1937)"><i>Empire Chivalry</i></a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)#Empire_Chuzzlewit" title="List of Empire ships (Ca–Cl)"><i>Empire Chuzzlewit</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Queenworth" title="SS Queenworth"><i>Empire Citizen</i> (II)</a></li>
+<li><a href="/wiki/MV_Empire_City" title="MV Empire City"><i>Empire City</i></a></li>
+<li><a href="/wiki/SS_Clan_Matheson_(1919)" title="SS Clan Matheson (1919)"><i>Empire Claire</i></a></li>
+<li><a href="/wiki/SS_Empire_Clansman" title="SS Empire Clansman"><i>Empire Clansman</i></a><span style="padding-left:0.12em;"><sup>4</sup></span></li>
+<li><a href="/wiki/SS_Empire_Clarion" title="SS Empire Clarion"><i>Empire Clarion</i></a></li>
+<li><a href="/wiki/SS_Belgian_Crew" title="SS Belgian Crew"><i>Empire Claymore</i></a></li>
+<li><a href="/wiki/MV_Ricardo_Manuel" title="MV Ricardo Manuel"><i>Empire Cliff</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Empire_Clive" title="SS Empire Clive"><i>Empire Clive</i></a></li>
+<li><a href="/wiki/SS_Empire_Cloud" title="SS Empire Cloud"><i>Empire Cloud</i></a></li>
+<li><a href="/wiki/SS_Empire_Clough" title="SS Empire Clough"><i>Empire Clough</i></a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Co%E2%80%93Cy)#Empire_Coast" title="List of Empire ships (Co–Cy)"><i>Empire Coast</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Katong" title="SS Katong"><i>Empire Colne</i></a></li>
+<li><a href="/wiki/MV_Empire_Comet" title="MV Empire Comet"><i>Empire Comet</i></a></li>
+<li><a href="/wiki/SS_Empire_Comfort" title="SS Empire Comfort"><i>Empire Comfort</i></a></li>
+<li><a href="/wiki/SS_Goodleigh_(1928)" title="SS Goodleigh (1928)"><i>Empire Commerce</i> (I)</a></li>
+<li><a href="/wiki/MV_Empire_Commerce" title="MV Empire Commerce"><i>Empire Commerce</i> (II)</a></li>
+<li><a class="mw-redirect" href="/wiki/SS_Minna_(1922)" title="SS Minna (1922)"><i>Empire Conavon</i></a></li>
+<li><a href="/wiki/MV_Mironave" title="MV Mironave"><i>Empire Concave</i></a></li>
+<li><a href="/wiki/SS_Lasknes" title="SS Lasknes"><i>Empire Concern</i></a></li>
+<li><a href="/wiki/SS_Corona" title="SS Corona"><i>Empire Concerto</i></a></li>
+<li><a href="/wiki/SS_Ernst_Brockelmann" title="SS Ernst Brockelmann"><i>Empire Concession</i></a></li>
+<li><a href="/wiki/SS_Klio_(1924)" title="SS Klio (1924)"><i>Empire Conclyde</i></a></li>
+<li><a href="/wiki/SS_Azov_(1944)" title="SS Azov (1944)"><i>Empire Concord</i></a></li>
+<li><a href="/wiki/SS_Walter_L_M_Russ" title="SS Walter L M Russ"><i>Empire Concourse</i></a></li>
+<li><a href="/wiki/SS_Theresia_L_M_Russ" title="SS Theresia L M Russ"><i>Empire Concrete</i></a></li>
+<li><a href="/wiki/MV_Seashell" title="MV Seashell"><i>Empire Condart</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/MV_Clary_(1939)" title="MV Clary (1939)"><i>Empire Condee</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Lina_Fisser" title="SS Lina Fisser"><i>Empire Conderton</i></a></li>
+<li><i>Empire Confidence</i></li>
+<li><a href="/wiki/SS_Pickhuben_(1923)" title="SS Pickhuben (1923)"><i>Empire Condicote</i></a></li>
+<li><a href="/wiki/SS_Almeria_Lykes_(1940)" title="SS Almeria Lykes (1940)"><i>Empire Condor</i> (I)</a></li>
+<li><a href="/wiki/SS_Quersee" title="SS Quersee"><i>Empire Condor</i> (II)</a><span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_G%C3%BCnther_Russ" title="SS Günther Russ"><i>Empire Condorrat</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_I_P_Suhr" title="SS I P Suhr"><i>Empire Condover</i></a></li>
+<li><a href="/wiki/SS_Badenia_(1912)" title="SS Badenia (1912)"><i>Empire Conexe</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Borussia_(1912)" title="SS Borussia (1912)"><i>Empire Confal</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Elbe_(1921)" title="SS Elbe (1921)"><i>Empire Confederation</i></a></li>
+<li><a href="/wiki/SS_Narva" title="SS Narva"><i>Empire Conference</i></a></li>
+<li><a href="/wiki/SS_Erna" title="SS Erna"><i>Empire Conforth</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Nordmark" title="SS Nordmark"><i>Empire Congerstone</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_S%C3%B6derhamn" title="SS Söderhamn"><i>Empire Congham</i></a></li>
+<li><a href="/wiki/SS_Saar" title="SS Saar"><i>Empire Congleton</i></a></li>
+<li><a href="/wiki/SS_Deneb" title="SS Deneb"><i>Empire Congo</i></a></li>
+<li><a href="/wiki/SS_Francisco_Morazan_(1922)" title="SS Francisco Morazan (1922)"><i>Empire Congress</i></a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Co%E2%80%93Cy)#Empire_Congreve" title="List of Empire ships (Co–Cy)"><i>Empire Congreve</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/MV_Nyora" title="MV Nyora"><i>Empire Conifer</i></a></li>
+<li><a href="/wiki/MV_Wickenburgh" title="MV Wickenburgh"><i>Empire Coningsby</i></a> <span style="padding-left:0.12em;"><sup>5</sup></span></li>
+<li><a href="/wiki/SS_Orlanda" title="SS Orlanda"><i>Empire Conington</i></a></li>
+<li><a href="/wiki/SS_Marie_Fisser" title="SS Marie Fisser"><i>Empire Conisborough</i></a></li>
+<li><a href="/wiki/MV_Bessel" title="MV Bessel"><i>Empire Coniston</i></a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Co%E2%80%93Cy)#Empire_Conlea" title="List of Empire ships (Co–Cy)"><i>Empire Conlea</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Ambria" title="SS Ambria"><i>Empire Conleith</i></a></li>
+<li><a href="/wiki/SS_Edenhurst" title="SS Edenhurst"><i>Empire Conleven</i></a></li>
+<li><a href="/wiki/SS_Charlotte_Cords" title="SS Charlotte Cords"><i>Empire Connah</i></a></li>
+<li><a href="/wiki/SS_Johannes_C_Russ" title="SS Johannes C Russ"><i>Empire Connaught</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Brita_(1908)" title="SS Brita (1908)"><i>Empire Connell</i></a></li>
+<li><a href="/wiki/SS_Heinrich_Arp" title="SS Heinrich Arp"><i>Empire Connemara</i></a></li>
+<li><a href="/wiki/SS_Justinian" title="SS Justinian"><i>Empire Conningbeg</i></a></li>
+<li><a href="/wiki/SS_Ilse_L_M_Russ" title="SS Ilse L M Russ"><i>Empire Conqueror</i></a></li>
+<li><a href="/wiki/SS_Ljusne%C3%A4lf" title="SS Ljusneälf"><i>Empire Conquest</i></a></li>
+<li><a href="/wiki/SS_Empire_Conrad" title="SS Empire Conrad"><i>Empire Conrad</i></a></li>
+<li><a href="/wiki/SS_Runa" title="SS Runa"><i>Empire Consent</i></a></li>
+<li><a href="/wiki/SS_Friedrich_Bischoff" title="SS Friedrich Bischoff"><i>Empire Consequence</i></a></li>
+<li><a href="/wiki/MV_Akademik_Karpinsky" title="MV Akademik Karpinsky"><i>Empire Consett</i></a></li>
+<li><a href="/wiki/SS_Ganter" title="SS Ganter"><i>Empire Consistence</i></a></li>
+<li><a href="/wiki/SS_Gisela_L_M_Russ" title="SS Gisela L M Russ"><i>Empire Consort</i></a></li>
+<li><a href="/wiki/SS_Dimitry_Laptev" title="SS Dimitry Laptev"><i>Empire Constable</i></a></li>
+<li><a href="/wiki/SS_Dollart" title="SS Dollart"><i>Empire Constancy</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Memel" title="SS Memel"><i>Empire Constellation</i></a></li>
+<li><a href="/wiki/SS_Selnes" title="SS Selnes"><i>Empire Constitution</i></a></li>
+<li><a href="/wiki/SS_Pinnau" title="SS Pinnau"><i>Empire Constructor</i></a></li>
+<li><a href="/wiki/SS_Haga_(1938)" title="SS Haga (1938)"><i>Empire Consumer</i></a></li>
+<li><a href="/wiki/SS_Malm%C3%B6_(1918)" title="SS Malmö (1918)"><i>Empire Contay</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/ORP_Gryf_(1957)" title="ORP Gryf (1957)"><i>Empire Contees</i></a></li>
+<li><a href="/wiki/SS_Barlind" title="SS Barlind"><i>Empire Content</i></a></li>
+<li><a href="/wiki/SS_Alk" title="SS Alk"><i>Empire Contest</i></a></li>
+<li><a href="/wiki/SS_Laura_(1908)" title="SS Laura (1908)"><i>Empire Continent</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Jean_Marie_(1922)" title="SS Jean Marie (1922)"><i>Empire Contour</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Manganese" title="SS Manganese"><i>Empire Contract</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Aenos_(1944)" title="SS Aenos (1944)"><i>Empire Contyne</i></a></li>
+<li><a href="/wiki/SS_Heidberg" title="SS Heidberg"><i>Empire Convention</i></a></li>
+<li><a href="/wiki/SS_Empire_Conveyor" title="SS Empire Conveyor"><i>Empire Conveyor</i></a></li>
+<li><a href="/wiki/SS_Frontier_(1922)" title="SS Frontier (1922)"><i>Empire Convoy</i></a></li>
+<li><a href="/wiki/SS_Anakriya" title="SS Anakriya"><i>Empire Conway</i></a></li>
+<li><a href="/wiki/SS_Kolno" title="SS Kolno"><i>Empire Conwear</i></a></li>
+<li><a href="/wiki/SS_Wilhelm_Russ" title="SS Wilhelm Russ"><i>Empire Cony</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Empire_Conyngham" title="SS Empire Conyngham"><i>Empire Conyngham</i></a></li>
+<li><a href="/wiki/SS_Empire_Copperfield" title="SS Empire Copperfield"><i>Empire Copperfield</i></a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Co%E2%80%93Cy)#Empire_Coppice" title="List of Empire ships (Co–Cy)"><i>Empire Coppice</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Western_Maid" title="SS Western Maid"><i>Empire Cormorant</i></a></li>
+<li><a href="/wiki/SS_West_Saginaw" title="SS West Saginaw"><i>Empire Cougar</i></a></li>
+<li><a href="/wiki/MV_Philips_Wouwerman" title="MV Philips Wouwerman"><i>Empire Courage</i></a></li>
+<li><a href="/wiki/SS_Baxtergate" title="SS Baxtergate"><i>Empire Cowdray</i></a></li>
+<li><a href="/wiki/SS_Empire_Cowper" title="SS Empire Cowper"><i>Empire Cowper</i></a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Co%E2%80%93Cy)#Empire_Crag" title="List of Empire ships (Co–Cy)"><i>Empire Crag</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Arietta" title="SS Arietta"><i>Empire Cranmer</i></a></li>
+<li><a href="/wiki/MV_Ulysses_(1941)" title="MV Ulysses (1941)"><i>Empire Creek</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/List_of_Empire_ships_(Co%E2%80%93Cy)#Empire_Cricketer" title="List of Empire ships (Co–Cy)"><i>Empire Cricketer</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/MV_Scantic" title="MV Scantic"><i>Empire Crocus</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Inchmay_(1943)" title="SS Inchmay (1943)"><i>Empire Cromer</i></a></li>
+<li><a href="/wiki/SS_Empire_Cromwell" title="SS Empire Cromwell"><i>Empire Cromwell</i></a></li>
+<li><a href="/wiki/SS_Empire_Crossbill" title="SS Empire Crossbill"><i>Empire Crossbill</i></a></li>
+<li><a href="/wiki/SS_Maudie" title="SS Maudie"><i>Empire Crouch</i></a></li>
+<li><a href="/wiki/SS_Mparmpa_Petros" title="SS Mparmpa Petros"><i>Empire Crown</i></a></li>
+<li><a href="/wiki/SS_Leander_(1925)" title="SS Leander (1925)"><i>Empire Crusader</i></a></li>
+<li><a href="/wiki/SS_Santa_Kyriaki" title="SS Santa Kyriaki"><i>Empire Crusoe</i></a></li>
+<li><a href="/wiki/SS_Robin_Doncaster" title="SS Robin Doncaster"><i>Empire Curlew</i> (I)</a></li>
+<li><a href="/wiki/SS_Empire_Curzon" title="SS Empire Curzon"><i>Empire Curzon</i></a></li>
+<li><a href="/wiki/SS_North_Britain_(1945)" title="SS North Britain (1945)"><i>Empire Cyprus</i></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Dredging" title="Dredging">Dredgers</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)#Empire_Champion" title="List of Empire ships (Ca–Cl)"><i>Empire Champion</i></a></li>
+<li><a href="/wiki/SS_Tuxpam" title="SS Tuxpam"><i>Empire Clydesdale</i></a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Co%E2%80%93Cy)#Empire_Conjuror" title="List of Empire ships (Co–Cy)"><i>Empire Conjuror</i></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ferry" title="Ferry">Ferries</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)#Empire_Chub" title="List of Empire ships (Ca–Cl)"><i>Empire Chub</i></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Amphibious_warfare_ship" title="Amphibious warfare ship">Landing ships</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/SS_Empire_Cedric" title="SS Empire Cedric"><i>Empire Cedric</i></a></li>
+<li><a href="/wiki/SS_Empire_Celtic" title="SS Empire Celtic"><i>Empire Celtic</i></a></li>
+<li><a href="/wiki/HMS_Sainfoin_(F183)" title="HMS Sainfoin (F183)"><i>Empire Crossbow</i></a></li>
+<li><a href="/wiki/SS_Empire_Curlew_(1945)" title="SS Empire Curlew (1945)"><i>Empire Curlew</i> (II)</a></li>
+<li><a href="/wiki/HMS_Sansovino_(F162)" title="HMS Sansovino (F162)"><i>Empire Cutlass</i></a></li>
+<li><a href="/wiki/SS_Empire_Cymric" title="SS Empire Cymric"><i>Empire Cymric</i></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Ocean_liners" title="Ocean liners">Ocean liners</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/SS_Beaverburn_(1944)" title="SS Beaverburn (1944)"><i>Empire Captain</i></a> <span style="padding-left:0.12em;"><sup>1, 5</sup></span></li>
+<li><a href="/wiki/MV_Nelson_Star_(1942)" title="MV Nelson Star (1942)"><i>Empire Castle</i></a><span style="padding-left:0.12em;"><sup>1, 5</sup></span></li>
+<li><a href="/wiki/SS_Loch_Ryan" title="SS Loch Ryan"><i>Empire Chieftain</i></a> <span style="padding-left:0.12em;"><sup>5</sup></span></li>
+<li><a href="/wiki/SS_Wahehe_(1922)" title="SS Wahehe (1922)"><i>Empire Citizen</i> (I)</a><span style="padding-left:0.12em;"><sup>1, 5</sup></span></li>
+<li><a href="/wiki/MV_California_Star_(1945)" title="MV California Star (1945)"><i>Empire Clarendon</i></a> <span style="padding-left:0.12em;"><sup>5</sup></span></li>
+<li><a href="/wiki/RFA_Maine_(1924)" title="RFA Maine (1924)"><i>Empire Clyde</i> (I)</a></li>
+<li><a class="mw-redirect" href="/wiki/HMT_Cameronia" title="HMT Cameronia"><i>Empire Clyde</i> (II)</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Schooner" title="Schooner">Schooners</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dorothea_Weber" title="Dorothea Weber"><i>Empire Cononley</i></a></li>
+<li><a href="/wiki/MV_Tyrronall" title="MV Tyrronall"><i>Empire Contamar</i></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Tank_ship" title="Tank ship">Tankers</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)#Empire_Cadet" title="List of Empire ships (Ca–Cl)"><i>Empire Cadet</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/MV_Anonity" title="MV Anonity"><i>Empire Campden</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/MV_British_Cavalier" title="MV British Cavalier"><i>Empire Cavalier</i></a></li>
+<li><a href="/wiki/SS_Empire_Celt" title="SS Empire Celt"><i>Empire Celt</i></a></li>
+<li><a href="/wiki/MV_Empire_Chancellor" title="MV Empire Chancellor"><i>Empire Chancellor</i></a></li>
+<li><a href="/wiki/MV_Empire_Chapman" title="MV Empire Chapman"><i>Empire Chapman</i></a></li>
+<li><a href="/wiki/SS_Polar_Chief" title="SS Polar Chief"><i>Empire Chief</i></a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)#Empire_Chlorine" title="List of Empire ships (Ca–Cl)"><i>Empire Chlorine</i></a> <span style="padding-left:0.12em;"><sup>3</sup></span></li>
+<li><a href="/wiki/SS_Empire_Cobbett" title="SS Empire Cobbett"><i>Empire Cobbett</i></a></li>
+<li><a href="/wiki/SS_Empire_Coleridge" title="SS Empire Coleridge"><i>Empire Coleridge</i></a></li>
+<li><a href="/wiki/SS_Empire_Collins" title="SS Empire Collins"><i>Empire Collins</i></a></li>
+<li><a href="/wiki/MV_Wotan" title="MV Wotan"><i>Empire Control</i></a></li>
+<li><a href="/wiki/SS_Derwentfield" title="SS Derwentfield"><i>Empire Coral</i></a></li>
+<li><a href="/wiki/SS_British_Corporal" title="SS British Corporal"><i>Empire Corporal</i></a></li>
+<li><a href="/wiki/SS_Bursa" title="SS Bursa"><i>Empire Crest</i></a></li>
+<li><a href="/wiki/SS_Empire_Cross" title="SS Empire Cross"><i>Empire Cross</i></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Tugboat" title="Tugboat">Tugs</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)#Empire_Cedar" title="List of Empire ships (Ca–Cl)"><i>Empire Cedar</i></a><span style="padding-left:0.12em;"><sup>6</sup></span></li>
+<li><a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)#Empire_Charles" title="List of Empire ships (Ca–Cl)"><i>Empire Charles</i></a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)#Empire_Cherub" title="List of Empire ships (Ca–Cl)"><i>Empire Cherub</i></a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)#Empire_Christopher" title="List of Empire ships (Ca–Cl)"><i>Empire Christopher</i></a><span style="padding-left:0.12em;"><sup>7</sup></span></li>
+<li><a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)#Empire_Clara" title="List of Empire ships (Ca–Cl)"><i>Empire Clara</i></a></li>
+<li><a href="/wiki/ST_Mies" title="ST Mies"><i>Empire Connie</i></a><span style="padding-left:0.12em;"><sup>7</sup></span></li>
+<li><a href="/wiki/List_of_Empire_ships_(Co%E2%80%93Cy)#Empire_Cupid" title="List of Empire ships (Co–Cy)"><i>Empire Cupid</i></a><span style="padding-left:0.12em;"><sup>7</sup></span></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px;background:#ddddff;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Empire_ships_(A)" title="List of Empire ships (A)">A</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(B)" title="List of Empire ships (B)">B</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Ca%E2%80%93Cl)" title="List of Empire ships (Ca–Cl)">Ca–Cl</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Co%E2%80%93Cy)" title="List of Empire ships (Co–Cy)">Co–Cy</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(D)" title="List of Empire ships (D)">D</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(E)" title="List of Empire ships (E)">E</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(F)" title="List of Empire ships (F)">F</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(G)" title="List of Empire ships (G)">G</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(H)" title="List of Empire ships (H)">H</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(I%E2%80%93J)" title="List of Empire ships (I–J)">I–J</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(K)" title="List of Empire ships (K)">K</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(L)" title="List of Empire ships (L)">L</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(M)" title="List of Empire ships (M)">M</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(N)" title="List of Empire ships (N)">N</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(O)" title="List of Empire ships (O)">O</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(P)" title="List of Empire ships (P)">P</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(R)" title="List of Empire ships (R)">R</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Sa%E2%80%93Sh)" title="List of Empire ships (Sa–Sh)">Sa–Sh</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Si%E2%80%93Sy)" title="List of Empire ships (Si–Sy)">Si–Sy</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Ta%E2%80%93Te)" title="List of Empire ships (Ta–Te)">Ta–Te</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(Th%E2%80%93Ty)" title="List of Empire ships (Th–Ty)">Th–Ty</a></li>
+<li><a href="/wiki/List_of_Empire_ships_(U%E2%80%93Z)" title="List of Empire ships (U–Z)">U–Z</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><small>1 <a href="/wiki/Reefer_ship" title="Reefer ship">Refrigerated Cargo Ship</a></small></li>
+<li><small>2 <a class="mw-redirect" href="/wiki/Heavy_lift_ship" title="Heavy lift ship">Heavy lift ship</a></small></li>
+<li><small>3 <a href="/wiki/Coastal_trading_vessel" title="Coastal trading vessel">Coaster</a></small></li>
+<li><small>4 <a class="mw-redirect" href="/wiki/Collier_(ship_type)" title="Collier (ship type)">Collier</a></small></li>
+<li><small>5 <a href="/wiki/Cargo_liner" title="Cargo liner">Cargo liner</a></small></li>
+<li><small>6 <a href="/wiki/Tugboat" title="Tugboat">Estuary tug</a></small></li>
+<li><small>7 Coastal tug</small></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20191214165924
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.716 seconds
+Real time usage: 1.063 seconds
+Preprocessor visited node count: 8601/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 99819/2097152 bytes
+Template argument size: 12782/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21737/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.229/10.000 seconds
+Lua memory usage: 6.2 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  902.384      1 -total
+ 32.12%  289.889      1 Template:Empire_C_ships
+ 31.16%  281.186      1 Template:Navbox
+ 23.43%  211.399     38 Template:Ship
+ 22.90%  206.648      1 Template:Reflist
+ 22.04%  198.903     32 Template:SS
+ 14.61%  131.832      1 Template:Infobox_ship_career
+ 13.82%  124.714      1 Template:Cite_book
+ 10.77%   97.164      1 Template:Infobox_ship_characteristics
+ 10.44%   94.243      1 Template:Use_dmy_dates
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:26514287-0!canonical and timestamp 20191214165923 and revision id 924970563
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=SS_Empire_Carpenter&amp;oldid=924970563">https://en.wikipedia.org/w/index.php?title=SS_Empire_Carpenter&amp;oldid=924970563</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1943_ships" title="Category:1943 ships">1943 ships</a></li><li><a href="/wiki/Category:Ships_built_on_the_River_Clyde" title="Category:Ships built on the River Clyde">Ships built on the River Clyde</a></li><li><a href="/wiki/Category:Ministry_of_War_Transport_ships" title="Category:Ministry of War Transport ships">Ministry of War Transport ships</a></li><li><a href="/wiki/Category:Empire_ships" title="Category:Empire ships">Empire ships</a></li><li><a href="/wiki/Category:Steamships_of_the_United_Kingdom" title="Category:Steamships of the United Kingdom">Steamships of the United Kingdom</a></li><li><a href="/wiki/Category:World_War_II_merchant_ships_of_the_Soviet_Union" title="Category:World War II merchant ships of the Soviet Union">World War II merchant ships of the Soviet Union</a></li><li><a href="/wiki/Category:Steamships_of_the_Soviet_Union" title="Category:Steamships of the Soviet Union">Steamships of the Soviet Union</a></li><li><a href="/wiki/Category:Merchant_ships_of_the_United_Kingdom" title="Category:Merchant ships of the United Kingdom">Merchant ships of the United Kingdom</a></li><li><a href="/wiki/Category:Steamships_of_Panama" title="Category:Steamships of Panama">Steamships of Panama</a></li><li><a href="/wiki/Category:Merchant_ships_of_Panama" title="Category:Merchant ships of Panama">Merchant ships of Panama</a></li><li><a href="/wiki/Category:Steamships_of_Liberia" title="Category:Steamships of Liberia">Steamships of Liberia</a></li><li><a href="/wiki/Category:Merchant_ships_of_Liberia" title="Category:Merchant ships of Liberia">Merchant ships of Liberia</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_unfit_url" title="Category:CS1 maint: unfit url">CS1 maint: unfit url</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2017" title="Category:Use dmy dates from January 2017">Use dmy dates from January 2017</a></li><li><a href="/wiki/Category:Use_British_English_from_January_2017" title="Category:Use British English from January 2017">Use British English from January 2017</a></li><li><a href="/wiki/Category:Ship_infoboxes_without_an_image" title="Category:Ship infoboxes without an image">Ship infoboxes without an image</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=SS+Empire+Carpenter" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=SS+Empire+Carpenter" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/SS_Empire_Carpenter" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:SS_Empire_Carpenter" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/SS_Empire_Carpenter">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=SS_Empire_Carpenter&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=SS_Empire_Carpenter&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/SS_Empire_Carpenter" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/SS_Empire_Carpenter" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=SS_Empire_Carpenter&amp;oldid=924970563" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=SS_Empire_Carpenter&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7393594" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=SS_Empire_Carpenter&amp;id=924970563" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=SS+Empire+Carpenter">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=SS+Empire+Carpenter&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=SS_Empire_Carpenter&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7393594#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 7 November 2019, at 01:09<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=SS_Empire_Carpenter&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.716","walltime":"1.063","ppvisitednodes":{"value":8601,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":99819,"limit":2097152},"templateargumentsize":{"value":12782,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21737,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  902.384      1 -total"," 32.12%  289.889      1 Template:Empire_C_ships"," 31.16%  281.186      1 Template:Navbox"," 23.43%  211.399     38 Template:Ship"," 22.90%  206.648      1 Template:Reflist"," 22.04%  198.903     32 Template:SS"," 14.61%  131.832      1 Template:Infobox_ship_career"," 13.82%  124.714      1 Template:Cite_book"," 10.77%   97.164      1 Template:Infobox_ship_characteristics"," 10.44%   94.243      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.229","limit":"10.000"},"limitreport-memusage":{"value":6500698,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20191214165924","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"SS Empire Carpenter","url":"https:\/\/en.wikipedia.org\/wiki\/SS_Empire_Carpenter","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7393594","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7393594","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-03-11T14:08:32Z","dateModified":"2019-11-07T01:09:55Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1262"});});</script>
+
+
+</body></html>

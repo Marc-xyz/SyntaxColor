@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Magnirostris - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqslgpAICAAAHduuYsAAABJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Magnirostris","wgTitle":"Magnirostris","wgCurRevisionId":931440555,"wgRevisionId":931440555,"wgArticleId":5198756,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","All stub articles","Coronosaurs","Late Cretaceous dinosaurs of Asia","Taxa named by Dong Zhiming","Fossil taxa described in 2003","Ornithischian stubs"],"wgPageContentLanguage"
+:"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Magnirostris","wgRelevantArticleId":5198756,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q134395","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magnirostris-Paleozoological_Museum_of_China.jpg/1200px-Magnirostris-Paleozoological_Museum_of_China.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Magnirostris" rel="alternate"/>
+<link href="/w/index.php?title=Magnirostris&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Magnirostris&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Magnirostris" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Magnirostris rootpage-Magnirostris skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en"><i>Magnirostris</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><i>Magnirostris</i><br/><div style="font-size: 85%;">Temporal range: <a href="/wiki/Campanian" title="Campanian">Campanian</a> <span style="display:inline-block;"></span><span style="display:inline-block;">84–72 <a class="mw-redirect" href="/wiki/Megaannum" title="Megaannum">Ma</a></span> <span style="display:inline-block;"></span><div id="Timeline-row" style="margin: 4px auto 0; clear:both; width:220px; padding:0px; height:18px; overflow:visible; border:1px #666; border-style:solid none; position:relative; z-index:0; font-size:13px;">
+<div style="position:absolute; height:100%; left:0px; width:208.07692307692px; padding-left:5px; text-align:left; background-color:rgb(254,214,123); background-image: -moz-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: -o-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: -webkit-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: linear-gradient(to right, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1));"><a href="/wiki/Precambrian" title="Precambrian">PreЄ</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(129,170,114); left:36.892307692308px; width:18.818461538462px;"><a href="/wiki/Cambrian" title="Cambrian">Є</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(0,169,138); left:55.710769230769px; width:14.08px;"><a href="/wiki/Ordovician" title="Ordovician">O</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(166,223,197); left:69.790769230769px; width:8.3261538461539px;"><a href="/wiki/Silurian" title="Silurian">S</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(221,150,81); left:78.116923076923px; width:20.409230769231px;"><a href="/wiki/Devonian" title="Devonian">D</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(63,174,173); left:98.526153846154px; width:20.307692307692px;"><a href="/wiki/Carboniferous" title="Carboniferous">C</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(247,88,60); left:118.83384615385px; width:15.907015384615px;"><a href="/wiki/Permian" title="Permian">P</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(153,78,150); left:134.74086153846px; width:17.126830769231px;"><a href="/wiki/Triassic" title="Triassic">T</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(0,187,231); left:151.86769230769px; width:19.055384615385px;"><a href="/wiki/Jurassic" title="Jurassic">J</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(111,200,107); left:170.92307692308px; width:26.738461538462px;"><a href="/wiki/Cretaceous" title="Cretaceous">K</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(254,161,99); left:197.66153846154px; width:14.543692307692px;"><a href="/wiki/Paleogene" title="Paleogene"><small>Pg</small></a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(254,221,45); left:212.20523076923px; width:6.9215384615385px;"><a href="/wiki/Neogene" title="Neogene"><small>N</small></a></div>
+<div id="end-border" style="position:absolute; height:100%; background-color:#666; width:1px; left:219px"></div><div style="margin:0 auto; line-height:0; clear:both; width:220px; padding:0px; height:8px; overflow:visible; background-color:transparent; position:relative; top:-4px; z-index:100;"><div style="position:absolute; height:8px; left:191.56923076923px; width:4.0615384615385px; background-color:#360; opacity:0.42;"></div>
+<div style="position:absolute; height:8px; left:191.56923076923px; width:4.0615384615385px; background-color:#360; opacity:1;"></div>
+<div style="position:absolute; height:6px; top:1px; left:192.56923076923px; width:2.0615384615385px; background-color:#6c3;"></div>
+</div>
+</div></div>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><a class="image" href="/wiki/File:Magnirostris-Paleozoological_Museum_of_China.jpg"><img alt="Magnirostris-Paleozoological Museum of China.jpg" data-file-height="1446" data-file-width="2217" decoding="async" height="143" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magnirostris-Paleozoological_Museum_of_China.jpg/220px-Magnirostris-Paleozoological_Museum_of_China.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magnirostris-Paleozoological_Museum_of_China.jpg/330px-Magnirostris-Paleozoological_Museum_of_China.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magnirostris-Paleozoological_Museum_of_China.jpg/440px-Magnirostris-Paleozoological_Museum_of_China.jpg 2x" width="220"/></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Skull of <i>Magnirostris dodsoni</i>, on display at the <a href="/wiki/Paleozoological_Museum_of_China" title="Paleozoological Museum of China">Paleozoological Museum of China</a>
+</td></tr>
+
+
+
+
+
+<tr>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Magnirostris" title="e"><img alt="e" data-file-height="16" data-file-width="16" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" width="16"/></a></span>
+</th></tr>
+<tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
+<tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
+<tr>
+<td><i>Clade</i>:
+</td>
+<td><a href="/wiki/Dinosaur" title="Dinosaur">Dinosauria</a>
+</td></tr>
+<tr>
+<td>Order:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a href="/wiki/Ornithischia" title="Ornithischia">Ornithischia</a>
+</td></tr>
+<tr>
+<td>Infraorder:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a class="mw-redirect" href="/wiki/Neoceratopsia" title="Neoceratopsia">Neoceratopsia</a>
+</td></tr>
+<tr>
+<td>Parvorder:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a class="mw-redirect" href="/wiki/Coronosauria" title="Coronosauria">Coronosauria</a>
+</td></tr>
+<tr>
+<td>Family:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a href="/wiki/Protoceratopsidae" title="Protoceratopsidae">Protoceratopsidae</a>
+</td></tr>
+<tr>
+<td>Genus:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a class="mw-selflink selflink"><i>Magnirostris</i></a><br/><small>You and <a href="/wiki/Dong_Zhiming" title="Dong Zhiming">Dong</a>, 2003</small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Species
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul><li><i>M. dodsoni</i> <small>You and Dong, 2003 (<a class="mw-redirect" href="/wiki/Type_(zoology)" title="Type (zoology)">type</a>)</small></li></ul>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<p><i><b>Magnirostris</b></i>, from the Latin <i>magnus</i> "large" and <i>rostrum</i> "beak", is the name given to a <a href="/wiki/Genus" title="Genus">genus</a> of <a href="/wiki/Dinosaur" title="Dinosaur">dinosaur</a> from the upper <a href="/wiki/Campanian" title="Campanian">Campanian</a> stage in the Upper <a href="/wiki/Cretaceous" title="Cretaceous">Cretaceous</a>. It was a <a class="mw-redirect" href="/wiki/Ceratopsian" title="Ceratopsian">ceratopsian</a> which lived in Inner Mongolia in <a href="/wiki/China" title="China">China</a>. It is distinguished from other <a href="/wiki/Protoceratopsidae" title="Protoceratopsidae">protoceratopsids</a> by its large beak (hence the name) and incipient orbital horn cores.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Discovery_and_species"><span class="tocnumber">1</span> <span class="toctext">Discovery and species</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Paleoecology"><span class="tocnumber">2</span> <span class="toctext">Paleoecology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Discovery_and_species">Discovery and species</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnirostris&amp;action=edit&amp;section=1" title="Edit section: Discovery and species">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Magnirostris dodsoni</i> was described by You and <a href="/wiki/Dong_Zhiming" title="Dong Zhiming">Dong Zhiming</a> in 2003, from a near-complete skull collected from the Bayan Mandahu area in <a href="/wiki/Inner_Mongolia" title="Inner Mongolia">Inner Mongolia</a>, <a href="/wiki/China" title="China">China</a> by the Sino-Canadian Dinosaur Project. It was named after <a href="/wiki/Peter_Dodson" title="Peter Dodson">Peter Dodson</a>, a palaeontologist.
+</p><p>It may be only a variant of <i><a href="/wiki/Bagaceratops" title="Bagaceratops">Bagaceratops</a></i>, and the incipient horn cores may be an artifact of preservation.<sup class="reference" id="cite_ref-MN06_1-0"><a href="#cite_note-MN06-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Paleoecology">Paleoecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnirostris&amp;action=edit&amp;section=2" title="Edit section: Paleoecology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Magnirostris</i> lived in deserts with dunes. Other dinosaurs discovered in the Bayan Mandahu include <i><a href="/wiki/Protoceratops" title="Protoceratops">Protoceratops</a> helleninkorhinus</i>, another primitive ceratopsian, and possibly <i><a href="/wiki/Velociraptor" title="Velociraptor">Velociraptor</a> osmolskae</i>, a small predatory <a class="mw-redirect" href="/wiki/Theropod" title="Theropod">theropod</a>.<sup class="reference" id="cite_ref-Paul2016_2-0"><a href="#cite_note-Paul2016-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnirostris&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="3058" data-file-width="4095" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tyrannoskull.jpg/32px-Tyrannoskull.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tyrannoskull.jpg/48px-Tyrannoskull.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tyrannoskull.jpg/64px-Tyrannoskull.jpg 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Dinosaurs" title="Portal:Dinosaurs">Dinosaurs portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Timeline_of_ceratopsian_research" title="Timeline of ceratopsian research">Timeline of ceratopsian research</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnirostris&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-MN06-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-MN06_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Makovicky, Peter J.; Norell, Mark A. (2006). <a class="external text" href="http://digitallibrary.amnh.org/dspace/bitstream/2246/5808/1/N3530.pdf" rel="nofollow">"<i>Yamaceratops dorngobiensis</i>, a new primitive ceratopsian (Dinosauria: Ornithischia) from the Cretaceous of Mongolia"</a> <span class="cs1-format">(pdf)</span>. <i>American Museum Novitates</i>. <b>3530</b>: 1–42. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1206%2F0003-0082%282006%293530%5B1%3AYDANPC%5D2.0.CO%3B2" rel="nofollow">10.1206/0003-0082(2006)3530[1:YDANPC]2.0.CO;2</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0003-0082" rel="nofollow">0003-0082</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Museum+Novitates&amp;rft.atitle=Yamaceratops+dorngobiensis%2C+a+new+primitive+ceratopsian+%28Dinosauria%3A+Ornithischia%29+from+the+Cretaceous+of+Mongolia&amp;rft.volume=3530&amp;rft.pages=1-42&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1206%2F0003-0082%282006%293530%5B1%3AYDANPC%5D2.0.CO%3B2&amp;rft.issn=0003-0082&amp;rft.aulast=Makovicky&amp;rft.aufirst=Peter+J.&amp;rft.au=Norell%2C+Mark+A.&amp;rft_id=http%3A%2F%2Fdigitallibrary.amnh.org%2Fdspace%2Fbitstream%2F2246%2F5808%2F1%2FN3530.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagnirostris"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Paul2016-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Paul2016_2-0">^</a></b></span> <span class="reference-text">Paul, Gregory S. <i>The Princeton Field Guide to Dinosaurs</i>. 2nd ed. Princeton, NJ: Princeton UP, 2016. Print.</span>
+</li>
+</ol></div></div>
+<ul><li><cite class="citation journal">You H.-L. &amp; Dong Zhiming (2003). "A new protoceratopsid (Dinosauria: Neoceratopsia) from the Late Cretaceous of Inner Mongolia, China". <i>Acta Geologica Sinica (English edition)</i>. <b>77</b> (3): 299–303. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1111%2Fj.1755-6724.2003.tb00745.x" rel="nofollow">10.1111/j.1755-6724.2003.tb00745.x</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acta+Geologica+Sinica+%28English+edition%29&amp;rft.atitle=A+new+protoceratopsid+%28Dinosauria%3A+Neoceratopsia%29+from+the+Late+Cretaceous+of+Inner+Mongolia%2C+China&amp;rft.volume=77&amp;rft.issue=3&amp;rft.pages=299-303&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1755-6724.2003.tb00745.x&amp;rft.au=You+H.-L.+%26+Dong+Zhiming&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagnirostris"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li></ul>
+<div aria-labelledby="Marginocephalia_(Pachycephalosauria_and_Ceratopsia)" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Marginocephalia" title="Template:Marginocephalia"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Marginocephalia" title="Template talk:Marginocephalia"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Marginocephalia&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Marginocephalia_(Pachycephalosauria_and_Ceratopsia)" style="font-size:114%;margin:0 4em"><a href="/wiki/Marginocephalia" title="Marginocephalia">Marginocephalia</a> (<a href="/wiki/Pachycephalosauria" title="Pachycephalosauria">Pachycephalosauria</a> and <a href="/wiki/Ceratopsia" title="Ceratopsia">Ceratopsia</a>)</div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Kingdom:_Animalia&amp;#10;*_Phylum:_Chordata&amp;#10;*_Clade:_Dinosauria&amp;#10;*_Order:_Ornithischia">
+<ul><li>Kingdom: <a href="/wiki/Animal" title="Animal">Animalia</a></li>
+<li>Phylum: <a href="/wiki/Chordate" title="Chordate">Chordata</a></li>
+<li><i>Clade</i>: <a class="mw-redirect" href="/wiki/Dinosauria" title="Dinosauria">Dinosauria</a></li>
+<li>Order: <a href="/wiki/Ornithischia" title="Ornithischia">Ornithischia</a></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div id="Pachycephalosauria" style="font-size:114%;margin:0 4em"><a href="/wiki/Pachycephalosauria" title="Pachycephalosauria">Pachycephalosauria</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pachycephalosauria" title="Pachycephalosauria">Basal pachycephalosaurs</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Ferganocephale" title="Ferganocephale">Ferganocephale</a></i>?</li>
+<li><i><a href="/wiki/Wannanosaurus" title="Wannanosaurus">Wannanosaurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Pachycephalosauridae" title="Pachycephalosauridae">Pachycephalosauridae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><small><i>Stegoceras</i>-line</small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Colepiocephale" title="Colepiocephale">Colepiocephale</a></i></li>
+<li><i><a href="/wiki/Gravitholus" title="Gravitholus">Gravitholus</a></i></li>
+<li><i><a href="/wiki/Hanssuesia" title="Hanssuesia">Hanssuesia</a></i></li>
+<li><i><a href="/wiki/Stegoceras" title="Stegoceras">Stegoceras</a></i></li>
+<li><i><a href="/wiki/Texacephale" title="Texacephale">Texacephale</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><small><i>Pachycephalosaurus</i>-line</small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Acrotholus" title="Acrotholus">Acrotholus</a></i></li>
+<li><i><a href="/wiki/Amtocephale" title="Amtocephale">Amtocephale</a></i></li>
+<li><i><a href="/wiki/Foraminacephale" title="Foraminacephale">Foraminacephale</a></i></li>
+<li><i><a href="/wiki/Goyocephale" title="Goyocephale">Goyocephale</a></i></li>
+<li><i><a href="/wiki/Homalocephale" title="Homalocephale">Homalocephale</a></i></li>
+<li><i><a href="/wiki/Prenocephale" title="Prenocephale">Prenocephale</a></i></li>
+<li><i><a href="/wiki/Sphaerotholus" title="Sphaerotholus">Sphaerotholus</a></i></li>
+<li><i><a href="/wiki/Tylocephale" title="Tylocephale">Tylocephale</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Pachycephalosaurini" title="Pachycephalosaurini">Pachycephalosaurini</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Alaskacephale" title="Alaskacephale">Alaskacephale</a></i></li>
+<li><i><a href="/wiki/Dracorex" title="Dracorex">Dracorex</a></i>?</li>
+<li><i><a href="/wiki/Pachycephalosaurus" title="Pachycephalosaurus">Pachycephalosaurus</a></i></li>
+<li><i><a href="/wiki/Stygimoloch" title="Stygimoloch">Stygimoloch</a></i>?</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Stegoceras_validum.jpg" title="Stegoceras validum"><img alt="Stegoceras validum" data-file-height="1695" data-file-width="3656" decoding="async" height="65" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Stegoceras_validum.jpg/140px-Stegoceras_validum.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Stegoceras_validum.jpg/210px-Stegoceras_validum.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Stegoceras_validum.jpg/280px-Stegoceras_validum.jpg 2x" width="140"/></a></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible uncollapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div id="Ceratopsia" style="font-size:114%;margin:0 4em"><a href="/wiki/Ceratopsia" title="Ceratopsia">Ceratopsia</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ceratopsia" title="Ceratopsia">Basal ceratopsians</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Albalophosaurus" title="Albalophosaurus">Albalophosaurus</a></i></li>
+<li><i><a href="/wiki/Micropachycephalosaurus" title="Micropachycephalosaurus">Micropachycephalosaurus</a></i></li>
+<li><i><a href="/wiki/Stenopelix" title="Stenopelix">Stenopelix</a></i></li>
+<li><i><a href="/wiki/Yinlong" title="Yinlong">Yinlong</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Chaoyangsauridae" title="Chaoyangsauridae">Chaoyangsauridae</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Chaoyangsaurus" title="Chaoyangsaurus">Chaoyangsaurus</a></i></li>
+<li><i><a href="/wiki/Hualianceratops" title="Hualianceratops">Hualianceratops</a></i></li>
+<li><i><a href="/wiki/Xuanhuaceratops" title="Xuanhuaceratops">Xuanhuaceratops</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Psittacosaurus" title="Psittacosaurus">Psittacosauridae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Psittacosaurus" title="Psittacosaurus">Psittacosaurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Neoceratopsia" title="Neoceratopsia">Neoceratopsia</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Aquilops" title="Aquilops">Aquilops</a></i></li>
+<li><i><a href="/wiki/Auroraceratops" title="Auroraceratops">Auroraceratops</a></i></li>
+<li><i><a href="/wiki/Koreaceratops" title="Koreaceratops">Koreaceratops</a></i></li>
+<li><i><a href="/wiki/Kulceratops" title="Kulceratops">Kulceratops</a></i></li>
+<li><i><a href="/wiki/Liaoceratops" title="Liaoceratops">Liaoceratops</a></i></li>
+<li><i><a href="/wiki/Microceratus" title="Microceratus">Microceratus</a></i></li>
+<li><i><a href="/wiki/Mosaiceratops" title="Mosaiceratops">Mosaiceratops</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Archaeoceratopsidae" title="Archaeoceratopsidae">Archaeoceratopsidae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Archaeoceratops" title="Archaeoceratops">Archaeoceratops</a></i></li>
+<li><i><a href="/wiki/Helioceratops" title="Helioceratops">Helioceratops</a></i></li>
+<li><i><a href="/wiki/Yamaceratops" title="Yamaceratops">Yamaceratops</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Coronosauria" title="Coronosauria">Coronosauria</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Graciliceratops" title="Graciliceratops">Graciliceratops</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Leptoceratopsidae" title="Leptoceratopsidae">Leptoceratopsidae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Asiaceratops" title="Asiaceratops">Asiaceratops</a></i></li>
+<li><i><a href="/wiki/Bainoceratops" title="Bainoceratops">Bainoceratops</a></i></li>
+<li><i><a href="/wiki/Cerasinops" title="Cerasinops">Cerasinops</a></i></li>
+<li><i><a href="/wiki/Ferrisaurus" title="Ferrisaurus">Ferrisaurus</a></i></li>
+<li><i><a href="/wiki/Gryphoceratops" title="Gryphoceratops">Gryphoceratops</a></i></li>
+<li><i><a href="/wiki/Ischioceratops" title="Ischioceratops">Ischioceratops</a></i></li>
+<li><i><a href="/wiki/Leptoceratops" title="Leptoceratops">Leptoceratops</a></i></li>
+<li><i><a href="/wiki/Montanoceratops" title="Montanoceratops">Montanoceratops</a></i></li>
+<li><i><a href="/wiki/Prenoceratops" title="Prenoceratops">Prenoceratops</a></i></li>
+<li><i><a href="/wiki/Udanoceratops" title="Udanoceratops">Udanoceratops</a></i></li>
+<li><i><a href="/wiki/Unescoceratops" title="Unescoceratops">Unescoceratops</a></i></li>
+<li><i><a href="/wiki/Zhuchengceratops" title="Zhuchengceratops">Zhuchengceratops</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Bagaceratopidae" title="Bagaceratopidae">Bagaceratopidae</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Ajkaceratops" title="Ajkaceratops">Ajkaceratops</a></i></li>
+<li><i><a href="/wiki/Bagaceratops" title="Bagaceratops">Bagaceratops</a></i></li>
+<li><i><a href="/wiki/Breviceratops" title="Breviceratops">Breviceratops</a></i></li>
+<li><i><a href="/wiki/Gobiceratops" title="Gobiceratops">Gobiceratops</a></i></li>
+<li><i><a href="/wiki/Platyceratops" title="Platyceratops">Platyceratops</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Protoceratopsidae" title="Protoceratopsidae">Protoceratopsidae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Lamaceratops" title="Lamaceratops">Lamaceratops</a></i></li>
+<li><i><a class="mw-selflink selflink">Magnirostris</a></i></li>
+<li><i><a href="/wiki/Protoceratops" title="Protoceratops">Protoceratops</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Ceratopsoidea" title="Ceratopsoidea">Ceratopsoidea</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Turanoceratops" title="Turanoceratops">Turanoceratops</a></i></li>
+<li><i><a href="/wiki/Zuniceratops" title="Zuniceratops">Zuniceratops</a></i></li>
+<li><b><a href="/wiki/Ceratopsidae" title="Ceratopsidae">Ceratopsidae</a></b>
+<ul><li>see below</li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Protoceratops_reconstruction.png" title="Protoceratops andrewsi"><img alt="Protoceratops andrewsi" data-file-height="565" data-file-width="1146" decoding="async" height="69" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Protoceratops_reconstruction.png/140px-Protoceratops_reconstruction.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Protoceratops_reconstruction.png/210px-Protoceratops_reconstruction.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Protoceratops_reconstruction.png/280px-Protoceratops_reconstruction.png 2x" width="140"/></a></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div id="Ceratopsidae" style="font-size:114%;margin:0 4em"><a href="/wiki/Ceratopsidae" title="Ceratopsidae">Ceratopsidae</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Centrosaurinae" title="Centrosaurinae">Centrosaurinae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Albertaceratops" title="Albertaceratops">Albertaceratops</a></i></li>
+<li><i><a href="/wiki/Diabloceratops" title="Diabloceratops">Diabloceratops</a></i></li>
+<li><i><a href="/wiki/Machairoceratops" title="Machairoceratops">Machairoceratops</a></i></li>
+<li><i><a href="/wiki/Medusaceratops" title="Medusaceratops">Medusaceratops</a></i></li>
+<li><i><a href="/wiki/Sinoceratops" title="Sinoceratops">Sinoceratops</a></i></li>
+<li><i><a href="/wiki/Wendiceratops" title="Wendiceratops">Wendiceratops</a></i></li>
+<li><i><a href="/wiki/Xenoceratops" title="Xenoceratops">Xenoceratops</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Centrosaurinae" title="Centrosaurinae">Nasutoceratopsini</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Avaceratops" title="Avaceratops">Avaceratops</a></i></li>
+<li><i><a href="/wiki/Crittendenceratops" title="Crittendenceratops">Crittendenceratops</a></i></li>
+<li><i><a href="/wiki/Nasutoceratops" title="Nasutoceratops">Nasutoceratops</a></i></li>
+<li><i><a href="/wiki/Yehuecauhceratops" title="Yehuecauhceratops">Yehuecauhceratops</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Centrosaurinae" title="Centrosaurinae">Eucentrosaura</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Centrosaurinae" title="Centrosaurinae">Centrosaurini</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Centrosaurus" title="Centrosaurus">Centrosaurus</a></i></li>
+<li><i><a href="/wiki/Coronosaurus" title="Coronosaurus">Coronosaurus</a></i></li>
+<li><i><a href="/wiki/Rubeosaurus" title="Rubeosaurus">Rubeosaurus</a></i></li>
+<li><i><a href="/wiki/Spinops" title="Spinops">Spinops</a></i></li>
+<li><i><a href="/wiki/Styracosaurus" title="Styracosaurus">Styracosaurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pachyrhinosaurini" title="Pachyrhinosaurini">Pachyrhinosaurini</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Achelousaurus" title="Achelousaurus">Achelousaurus</a></i></li>
+<li><i><a href="/wiki/Einiosaurus" title="Einiosaurus">Einiosaurus</a></i></li>
+<li><i><a href="/wiki/Pachyrhinosaurus" title="Pachyrhinosaurus">Pachyrhinosaurus</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Chasmosaurinae" title="Chasmosaurinae">Chasmosaurinae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Agujaceratops" title="Agujaceratops">Agujaceratops</a></i></li>
+<li><i><a href="/wiki/Anchiceratops" title="Anchiceratops">Anchiceratops</a></i></li>
+<li><i><a href="/wiki/Arrhinoceratops" title="Arrhinoceratops">Arrhinoceratops</a></i></li>
+<li><i><a href="/wiki/Bravoceratops" title="Bravoceratops">Bravoceratops</a></i></li>
+<li><i><a href="/wiki/Chasmosaurus" title="Chasmosaurus">Chasmosaurus</a></i></li>
+<li><i><a href="/wiki/Coahuilaceratops" title="Coahuilaceratops">Coahuilaceratops</a></i></li>
+<li><i><a href="/wiki/Judiceratops" title="Judiceratops">Judiceratops</a></i></li>
+<li><i><a href="/wiki/Kosmoceratops" title="Kosmoceratops">Kosmoceratops</a></i></li>
+<li><i><a href="/wiki/Mercuriceratops" title="Mercuriceratops">Mercuriceratops</a></i></li>
+<li><i><a href="/wiki/Mojoceratops" title="Mojoceratops">Mojoceratops</a></i></li>
+<li><i><a href="/wiki/Pentaceratops" title="Pentaceratops">Pentaceratops</a></i></li>
+<li><i><a href="/wiki/Spiclypeus" title="Spiclypeus">Spiclypeus</a></i></li>
+<li><i><a href="/wiki/Utahceratops" title="Utahceratops">Utahceratops</a></i></li>
+<li><i><a href="/wiki/Vagaceratops" title="Vagaceratops">Vagaceratops</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Triceratopsini" title="Triceratopsini">Triceratopsini</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Eotriceratops" title="Eotriceratops">Eotriceratops</a></i></li>
+<li><i><a href="/wiki/Nedoceratops" title="Nedoceratops">Nedoceratops</a></i></li>
+<li><i><a href="/wiki/Ojoceratops" title="Ojoceratops">Ojoceratops</a></i></li>
+<li><i><a href="/wiki/Regaliceratops" title="Regaliceratops">Regaliceratops</a></i></li>
+<li><i><a href="/wiki/Tatankaceratops" title="Tatankaceratops">Tatankaceratops</a></i>?</li>
+<li><i><a href="/wiki/Titanoceratops" title="Titanoceratops">Titanoceratops</a></i></li>
+<li><i><a href="/wiki/Torosaurus" title="Torosaurus">Torosaurus</a></i></li>
+<li><i><a href="/wiki/Triceratops" title="Triceratops">Triceratops</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><div class="floatleft"><a class="image" href="/wiki/File:Centrosaurus.png"><img alt="Centrosaurus.png" data-file-height="2707" data-file-width="3750" decoding="async" height="126" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Centrosaurus.png/175px-Centrosaurus.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Centrosaurus.png/263px-Centrosaurus.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Centrosaurus.png/350px-Centrosaurus.png 2x" width="175"/></a></div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Nomina_dubia" style="font-size:114%;margin:0 4em"><i><a class="mw-redirect" href="/wiki/Nomina_dubia" title="Nomina dubia">Nomina dubia</a></i></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Agathaumas" title="Agathaumas">Agathaumas</a></i></li>
+<li><i><a href="/wiki/Brachyceratops" title="Brachyceratops">Brachyceratops</a></i></li>
+<li><i><a href="/wiki/Ceratops" title="Ceratops">Ceratops</a></i></li>
+<li><i><a href="/wiki/Dysganus" title="Dysganus">Dysganus</a></i></li>
+<li><i><a href="/wiki/Eoceratops" title="Eoceratops">Eoceratops</a></i></li>
+<li><i><a href="/wiki/Monoclonius" title="Monoclonius">Monoclonius</a></i></li>
+<li><i><a href="/wiki/Polyonax" title="Polyonax">Polyonax</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li>Related categories: <a href="/wiki/Category:Ornithischians" title="Category:Ornithischians">Ornithischians</a></li>
+<li><a href="/wiki/Category:Ceratopsians" title="Category:Ceratopsians">Ceratopsians</a></li>
+<li><a href="/wiki/Category:Pachycephalosaurs" title="Category:Pachycephalosaurs">Pachycephalosaurs</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Taxon_identifiers" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Taxon_identifiers" scope="row" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a class="extiw" href="https://www.wikidata.org/wiki/Q134395" title="wikidata:Q134395">Q134395</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a class="extiw" href="https://species.wikimedia.org/wiki/Magnirostris" title="wikispecies:Magnirostris">Magnirostris</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>: <span class="uid"><a class="external text" href="https://eol.org/pages/10579597" rel="nofollow">10579597</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a class="external text" href="http://fossilworks.org/bridge.pl?a=taxonInfo&amp;taxon_no=84663" rel="nofollow">84663</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a class="external text" href="https://www.gbif.org/species/4965775" rel="nofollow">4965775</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a class="external text" href="http://www.irmng.org/aphia.php?p=taxdetails&amp;id=1474784" rel="nofollow">1474784</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br/>
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a class="image" href="/wiki/File:Triceratops_by_Tom_Patker.png"><img alt="Stub icon" data-file-height="1004" data-file-width="2452" decoding="async" height="33" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Triceratops_by_Tom_Patker.png/80px-Triceratops_by_Tom_Patker.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Triceratops_by_Tom_Patker.png/120px-Triceratops_by_Tom_Patker.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Triceratops_by_Tom_Patker.png/160px-Triceratops_by_Tom_Patker.png 2x" width="80"/></a></td><td><i>This article related to <a class="mw-redirect" href="/wiki/Ceratopsian" title="Ceratopsian">ceratopsian</a> dinosaurs is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Magnirostris&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Ceratopsian-stub" title="Template:Ceratopsian-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ceratopsian-stub" title="Template talk:Ceratopsian-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Ceratopsian-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1222
+Cached time: 20191218224557
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.064 seconds
+Real time usage: 1.424 seconds
+Preprocessor visited node count: 16719/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 163840/2097152 bytes
+Template argument size: 25134/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5913/5000000 bytes
+Number of Wikibase entities loaded: 7/400
+Lua time usage: 0.724/10.000 seconds
+Lua memory usage: 4.81 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1321.015      1 -total
+ 69.26%  914.998      1 Template:Automatic_taxobox
+ 18.62%  245.912      1 Template:Fossil_range
+ 17.53%  231.626      1 Template:Phanerozoic_220px
+ 14.67%  193.833     11 Template:Fossil_range/bar
+ 13.78%  182.076     34 Template:Period_start
+ 13.44%  177.526      1 Template:Reflist
+ 13.08%  172.771      2 Template:Cite_journal
+ 10.48%  138.468     35 Template:Period_id
+  9.53%  125.877      1 Template:Taxonbar
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5198756-0!canonical and timestamp 20191218224556 and revision id 931440555
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Magnirostris&amp;oldid=931440555">https://en.wikipedia.org/w/index.php?title=Magnirostris&amp;oldid=931440555</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Coronosaurs" title="Category:Coronosaurs">Coronosaurs</a></li><li><a href="/wiki/Category:Late_Cretaceous_dinosaurs_of_Asia" title="Category:Late Cretaceous dinosaurs of Asia">Late Cretaceous dinosaurs of Asia</a></li><li><a href="/wiki/Category:Taxa_named_by_Dong_Zhiming" title="Category:Taxa named by Dong Zhiming">Taxa named by Dong Zhiming</a></li><li><a href="/wiki/Category:Fossil_taxa_described_in_2003" title="Category:Fossil taxa described in 2003">Fossil taxa described in 2003</a></li><li><a href="/wiki/Category:Ornithischian_stubs" title="Category:Ornithischian stubs">Ornithischian stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Magnirostris" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Magnirostris" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Magnirostris" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Magnirostris" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Magnirostris">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Magnirostris&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Magnirostris&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Magnirostris" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Magnirostris" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Magnirostris&amp;oldid=931440555" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Magnirostris&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q134395" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Magnirostris&amp;id=931440555" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Magnirostris" hreflang="en">Wikispecies</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Magnirostris">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Magnirostris&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Magnirostris&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Magnirostris" hreflang="ca" lang="ca" title="Magnirostris – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Magnirostris" hreflang="cs" lang="cs" title="Magnirostris – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Magnirostris" hreflang="de" lang="de" title="Magnirostris – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Magnirostris_dodsoni" hreflang="es" lang="es" title="Magnirostris dodsoni – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Magnirostris" hreflang="fr" lang="fr" title="Magnirostris – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%A7%88%EA%B7%B8%EB%8B%88%EB%A1%9C%EC%8A%A4%ED%8A%B8%EB%A6%AC%EC%8A%A4" hreflang="ko" lang="ko" title="마그니로스트리스 – Korean">한국어</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B4%BE%E0%B4%97%E0%B5%8D%E0%B4%A8%E0%B4%BF%E0%B4%B1%E0%B5%8B%E0%B4%B8%E0%B5%8D%E0%B4%9F%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B4%B8%E0%B5%8D" hreflang="ml" lang="ml" title="മാഗ്നിറോസ്ട്രിസ് – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Magnirostris" hreflang="nl" lang="nl" title="Magnirostris – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B0%E3%83%8B%E3%83%AD%E3%82%B9%E3%83%88%E3%83%AA%E3%82%B9" hreflang="ja" lang="ja" title="マグニロストリス – Japanese">日本語</a></li><li class="interlanguage-link interwiki-or"><a class="interlanguage-link-target" href="https://or.wikipedia.org/wiki/Magnirostris" hreflang="or" lang="or" title="Magnirostris – Odia">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Magnirostris" hreflang="pl" lang="pl" title="Magnirostris – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Magnirostris" hreflang="pt" lang="pt" title="Magnirostris – Portuguese">Português</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Magnirostris" hreflang="sk" lang="sk" title="Magnirostris – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Magnirostris" hreflang="vi" lang="vi" title="Magnirostris – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%B7%A8%E5%98%B4%E9%BE%8D%E5%B1%AC" hreflang="zh" lang="zh" title="巨嘴龍屬 – Chinese">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q134395#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 18 December 2019, at 22:45<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Magnirostris&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.064","walltime":"1.424","ppvisitednodes":{"value":16719,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":163840,"limit":2097152},"templateargumentsize":{"value":25134,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5913,"limit":5000000},"entityaccesscount":{"value":7,"limit":400},"timingprofile":["100.00% 1321.015      1 -total"," 69.26%  914.998      1 Template:Automatic_taxobox"," 18.62%  245.912      1 Template:Fossil_range"," 17.53%  231.626      1 Template:Phanerozoic_220px"," 14.67%  193.833     11 Template:Fossil_range/bar"," 13.78%  182.076     34 Template:Period_start"," 13.44%  177.526      1 Template:Reflist"," 13.08%  172.771      2 Template:Cite_journal"," 10.48%  138.468     35 Template:Period_id","  9.53%  125.877      1 Template:Taxonbar"]},"scribunto":{"limitreport-timeusage":{"value":"0.724","limit":"10.000"},"limitreport-memusage":{"value":5042192,"limit":52428800}},"cachereport":{"origin":"mw1222","timestamp":"20191218224557","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Magnirostris","url":"https:\/\/en.wikipedia.org\/wiki\/Magnirostris","sameAs":"http:\/\/www.wikidata.org\/entity\/Q134395","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q134395","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-05-18T22:13:29Z","dateModified":"2019-12-18T22:45:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/99\/Magnirostris-Paleozoological_Museum_of_China.jpg","headline":"genus of reptiles (fossil)"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1330"});});</script>
+
+
+</body></html>

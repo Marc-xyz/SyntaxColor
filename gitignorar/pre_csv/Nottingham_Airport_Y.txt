@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Nottingham Airport - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfoiVQpAADkAAJAzaaEAAACV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Nottingham_Airport","wgTitle":"Nottingham Airport","wgCurRevisionId":918461196,"wgRevisionId":918461196,"wgArticleId":1940085,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from May 2013","Use British English from May 2013","Coordinates on Wikidata","Airports in England","Transport in Nottinghamshire","Nottingham","Transport in Nottingham",
+"Airports in the East Midlands"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Nottingham_Airport","wgRelevantArticleId":1940085,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":52.919999999999995,"lon":-1.0791666666666666},"wgWikibaseItemId":"Q3914573","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":
+"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/5/51/Truman_Aviation%2C_Nottingham_Airport_-_geograph.org.uk_-_940041.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nottingham_Airport" rel="alternate"/>
+<link href="/w/index.php?title=Nottingham_Airport&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Nottingham_Airport&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Nottingham_Airport" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Nottingham_Airport rootpage-Nottingham_Airport skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Nottingham Airport</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<div class="hatnote navigation-not-searchable" role="note">Not to be confused with <a href="/wiki/East_Midlands_Airport" title="East Midlands Airport">East Midlands Airport</a>, formerly known as Nottingham East Midlands Airport</div>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #DDDDFF; color: black; font-size: 125%"><div class="fn org" style="display:inline;">Nottingham Airport</div></th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Truman_Aviation,_Nottingham_Airport_-_geograph.org.uk_-_940041.jpg"><img alt="Truman Aviation, Nottingham Airport - geograph.org.uk - 940041.jpg" data-file-height="480" data-file-width="640" decoding="async" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Truman_Aviation%2C_Nottingham_Airport_-_geograph.org.uk_-_940041.jpg/220px-Truman_Aviation%2C_Nottingham_Airport_-_geograph.org.uk_-_940041.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Truman_Aviation%2C_Nottingham_Airport_-_geograph.org.uk_-_940041.jpg/330px-Truman_Aviation%2C_Nottingham_Airport_-_geograph.org.uk_-_940041.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Truman_Aviation%2C_Nottingham_Airport_-_geograph.org.uk_-_940041.jpg/440px-Truman_Aviation%2C_Nottingham_Airport_-_geograph.org.uk_-_940041.jpg 2x" width="220"/></a></td></tr><tr style="font-weight:bold;"><td colspan="2" style="text-align:center"><div class="hlist hlist-separated"><ul><li><span class="nowrap"><a class="mw-redirect" href="/wiki/International_Air_Transport_Association_airport_code" title="International Air Transport Association airport code">IATA</a>: <span class="nickname">NQT</span></span></li><li><span class="nowrap"><a class="mw-redirect" href="/wiki/International_Civil_Aviation_Organization_airport_code" title="International Civil Aviation Organization airport code">ICAO</a>: <span class="nickname">EGBN</span></span></li></ul></div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #DDDDFF; color: black">Summary</th></tr><tr><th scope="row">Airport type</th><td class="category">Private</td></tr><tr class="note"><th scope="row">Operator</th><td>Truman Aviation Ltd.</td></tr><tr><th scope="row">Location</th><td class="label">Edwalton, Nottinghamshire</td></tr><tr><th scope="row">Elevation <a class="mw-redirect" href="/wiki/Above_mean_sea_level" title="Above mean sea level">AMSL</a></th><td>138 ft / 42 m</td></tr><tr><th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Nottingham_Airport&amp;params=52_55_12_N_001_04_45_W_type:airport_region:GB"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°55′12″N</span> <span class="longitude">001°04′45″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.92000°N 1.07917°W</span><span style="display:none">﻿ / <span class="geo">52.92000; -1.07917</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Nottingham_Airport&amp;params=52_55_12_N_001_04_45_W_type:airport_region:GB"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°55′12″N</span> <span class="longitude">001°04′45″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.92000°N 1.07917°W</span><span style="display:none">﻿ / <span class="geo">52.92000; -1.07917</span></span></span></a></span></span></span></td></tr><tr><th scope="row">Website</th><td class="plainlinksneverexpand"><a class="external text" href="http://www.nottinghamairport.co.uk" rel="nofollow">nottinghamairport.co.uk</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #DDDDFF; color: black">Map</th></tr><tr><td colspan="2" style="text-align:center"><div class="center"><div style="width:220px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:220px;padding:0"><div style="position:relative;width:220px"><a class="image" href="/wiki/File:Nottinghamshire_UK_location_map.svg" title="EGBN is located in Nottinghamshire"><img alt="EGBN is located in Nottinghamshire" data-file-height="1305" data-file-width="1030" decoding="async" height="279" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Nottinghamshire_UK_location_map.svg/220px-Nottinghamshire_UK_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Nottinghamshire_UK_location_map.svg/330px-Nottinghamshire_UK_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Nottinghamshire_UK_location_map.svg/440px-Nottinghamshire_UK_location_map.svg.png 2x" width="220"/></a><div style="position:absolute;top:80.822%;left:30.614%"><div style="position:absolute;left:-5px;top:-5px;line-height:0"><img alt="EGBN" data-file-height="400" data-file-width="400" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Airplane_silhouette.svg/10px-Airplane_silhouette.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Airplane_silhouette.svg/15px-Airplane_silhouette.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Airplane_silhouette.svg/20px-Airplane_silhouette.svg.png 2x" title="EGBN" width="10"/></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:6px;text-align:left"><div style="display:inline;padding:1px;float:left">EGBN</div></div></div></div><div>Location in Nottinghamshire</div></div></div></div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #DDDDFF; color: black"><a href="/wiki/Runway" title="Runway"><span style="background-color: #DDDDFF; color:black;">Runways</span></a>
+</th></tr><tr><td colspan="2" style="text-align:center">
+<table style="width:100%; margin:-2px -1px -1px -1px; border-spacing:0;">
+
+<tbody><tr style="background-color: #e6e6ff">
+<th rowspan="2" style="width: 15%; border:solid 1px #fafafa; border-width:0 1px 0 0; text-align: center;"><a href="/wiki/Runway#Naming" title="Runway">Direction</a>
+</th>
+<th colspan="2" style="width: 50%; border:solid 1px #fafafa; border-width:0 1px 1px 1px; text-align: center;">Length
+</th>
+<th rowspan="2" style="width: 35%; border:solid 1px #fafafa; border-width:0 0 0 1px; text-align: center;">Surface
+</th></tr>
+<tr style="background-color: #e6e6ff">
+<th style="width: 20%; border:solid 1px #fafafa; border-width:1px 1px 0 1px; text-align: center;">m
+</th>
+<th style="width: 20%; border:solid 1px #fafafa; border-width:1px 1px 0 1px; text-align: center;">ft
+</th></tr>
+<tr>
+<td style="text-align: center;">09/27
+</td>
+<td style="text-align: center;">1,050
+</td>
+<td style="text-align: center;">3,445
+</td>
+<td style="text-align: center;"><a href="/wiki/Asphalt" title="Asphalt">Asphalt</a>/<a href="/wiki/Concrete" title="Concrete">Concrete</a>
+</td></tr>
+<tr>
+<td style="text-align: center;">03/21
+</td>
+<td style="text-align: center;">821
+</td>
+<td style="text-align: center;">2,694
+</td>
+<td style="text-align: center;">Asphalt
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table></td></tr><tr style="background-color: #eee"><td colspan="2" style="text-align:center"><div style="text-align: left;">Sources: UK <a href="/wiki/Aeronautical_Information_Publication" title="Aeronautical Information Publication">AIP</a> at <a class="mw-redirect" href="/wiki/National_Air_Traffic_Services" title="National Air Traffic Services">NATS</a><sup class="reference" id="cite_ref-aip_1-0"><a href="#cite_note-aip-1">[1]</a></sup></div></td></tr></tbody></table>
+<p><b>Nottingham Airport</b> (<a href="/wiki/IATA_airport_code" title="IATA airport code">IATA</a>: <b>NQT</b>, <a href="/wiki/ICAO_airport_code" title="ICAO airport code">ICAO</a>: <b>EGBN</b>), also known as <b>Nottingham City Airport</b>,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> is located in <a href="/wiki/Tollerton,_Nottinghamshire" title="Tollerton, Nottinghamshire">Tollerton</a>, <a href="/wiki/Nottinghamshire" title="Nottinghamshire">Nottinghamshire</a>, <a href="/wiki/England" title="England">England</a>. It is situated 3 <a href="/wiki/Nautical_mile" title="Nautical mile">nautical miles</a> (5.6 km; 3.5 mi) south east<sup class="reference" id="cite_ref-aip_1-1"><a href="#cite_note-aip-1">[1]</a></sup> of <a class="mw-redirect" href="/wiki/Nottingham_City_Centre" title="Nottingham City Centre">Nottingham City Centre</a>, and signposted on the <a href="/wiki/A52_road" title="A52 road">A52</a> at <a href="/wiki/Trent_Bridge_(bridge)" title="Trent Bridge (bridge)">Trent Bridge</a> and on the <a href="/wiki/A606_road" title="A606 road">A606</a>—this makes it one of the closest airports to a city centre in the UK. The <a href="/wiki/Aerodrome" title="Aerodrome">aerodrome</a> is equipped for <a href="/wiki/Private_aviation" title="Private aviation">private aviation</a>, business aviation and flight instruction. 
+</p><p>The airport primarily serves <a href="/wiki/General_aviation" title="General aviation">general aviation</a> and has two <a href="/wiki/Runway" title="Runway">runways</a>: 09/27 and 03/21 which are 1,050 m × 30 m (3,445 ft × 98 ft) and 821 m × 23 m (2,694 ft × 75 ft) respectively. The longer runway is equipped with lighting for night flying, which operates during the winter flying season.
+</p><p>Nottingham City Aerodrome has a <a class="mw-redirect" href="/wiki/United_Kingdom_Civil_Aviation_Authority" title="United Kingdom Civil Aviation Authority">CAA</a> Ordinary Licence (Number P491) that allows flights for the public transport of passengers or for flying instruction as authorised by the licensee (Truman Aviation Limited).<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Truman_Aviation"><span class="tocnumber">2</span> <span class="toctext">Truman Aviation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Sherwood_Flying_Club"><span class="tocnumber">3</span> <span class="toctext">Sherwood Flying Club</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#2425_(Nottingham_Airport_Squadron)_Air_Training_Corps"><span class="tocnumber">4</span> <span class="toctext">2425 (Nottingham Airport Squadron) Air Training Corps</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Sources_and_further_reading"><span class="tocnumber">6</span> <span class="toctext">Sources and further reading</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nottingham_Airport&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Nottingham (Tollerton) Airport was opened in 1930 for civilian aviation. During the <a class="mw-redirect" href="/wiki/Second_World_War" title="Second World War">Second World War</a>, the airport was known as <b>RAF Tollerton</b> and acted as a relief landing ground for the Polish Training School based at <a href="/wiki/RAF_Newton" title="RAF Newton">RAF Newton</a> for the <a href="/wiki/Polish_Air_Force" title="Polish Air Force">Polish Air Force</a>, and was host to Field Aircraft Services, which repaired battle damaged heavy aircraft and later dismantled them. 
+</p><p>After the war the airfield returned to civilian use including a short lived period as a commercial airport, with Blue Line Airways operating from there until 1949, when its aircraft passed on to <a href="/wiki/British_Eagle" title="British Eagle">British Eagle</a> Since that time, Tollerton has serviced small private aircraft only, this has included hosting airshows and three <a class="mw-redirect" href="/wiki/King%27s_Cup_Air_Race" title="King's Cup Air Race">King's Cup Air Races</a> 1967, 1968, and 1970.
+</p><p>The 227-acre (0.92 km<sup>2</sup>) airport was purchased in December 2006 from Nottingham City Council, by a consortium called Nottingham City Airport plc., and a programme of improvement was promised.
+</p><p>A comprehensive history of the airfield titled 'Tollerton - An Airfield For Nottingham 1929-2007' was published by the Keyworth and District Local History Society in 2008.
+</p>
+<h2><span class="mw-headline" id="Truman_Aviation">Truman Aviation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nottingham_Airport&amp;action=edit&amp;section=2" title="Edit section: Truman Aviation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Truman Aviation is the airport operator, as well as a <a href="/wiki/Flight_training" title="Flight training">flight training</a> organisation. It incorporates its own maintenance organization, flight training school and <a href="/wiki/Flying_club" title="Flying club">flying club</a>; it is also responsible for providing Air Traffic Services, Fire and Rescue Services and handling on the aerodrome. Truman Aviation operates a fleet of ten aircraft, including the <a href="/wiki/Piper_PA-38_Tomahawk" title="Piper PA-38 Tomahawk">Piper PA-38 Tomahawk</a>, <a class="mw-redirect" href="/wiki/Piper_Cherokee#PA-28-180_Archer" title="Piper Cherokee">Piper PA-28 Archer</a>, <a class="mw-redirect" href="/wiki/Piper_Cherokee#PA-28R-200_Arrow" title="Piper Cherokee">Piper PA-28 Arrow</a>, <a href="/wiki/Piper_PA-34_Seneca" title="Piper PA-34 Seneca">Piper PA-34 Seneca</a>, <a href="/wiki/Cessna_172" title="Cessna 172">Cessna 172</a> and a <a href="/wiki/De_Havilland_Tiger_Moth" title="De Havilland Tiger Moth">Tiger Moth</a>.
+</p>
+<h2><span class="mw-headline" id="Sherwood_Flying_Club">Sherwood Flying Club</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nottingham_Airport&amp;action=edit&amp;section=3" title="Edit section: Sherwood Flying Club">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sherwood Flying Club is a members only flying club, based at Nottingham Airport. It was founded in 1957 and presently uses two Piper PA-28 Cherokees and two Grob G-115s for hire and training.
+</p>
+<h2><span id="2425_.28Nottingham_Airport_Squadron.29_Air_Training_Corps"></span><span class="mw-headline" id="2425_(Nottingham_Airport_Squadron)_Air_Training_Corps">2425 (Nottingham Airport Squadron) Air Training Corps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nottingham_Airport&amp;action=edit&amp;section=4" title="Edit section: 2425 (Nottingham Airport Squadron) Air Training Corps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>2425 Squadron has been based at the airport since the early 1980s. This thriving Squadron is one of around 1,000 Squadrons that form the <a href="/wiki/Air_Training_Corps" title="Air Training Corps">Air Training Corps</a> or RAF Air Cadets. Cadets are from <a href="/wiki/Tollerton,_Nottinghamshire" title="Tollerton, Nottinghamshire">Tollerton</a> and the surrounding suburbs and villages within a 10-mile radius approximately.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nottingham_Airport&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-aip-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-aip_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-aip_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.nats-uk.ead-it.com/public/index.php%3Foption=com_content&amp;task=blogcategory&amp;id=110&amp;Itemid=159.html" rel="nofollow">Nottingham - EGBN</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.nottinghamairport.co.uk/" rel="nofollow">Nottingham City Airport</a> website</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.caa.co.uk/docs/375/srg_asd_ordinarylicences.pdf" rel="nofollow">Civil Aviation Authority Aerodrome Ordinary Licences</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Sources_and_further_reading">Sources and further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nottingham_Airport&amp;action=edit&amp;section=6" title="Edit section: Sources and further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Howard Fisher, Bob Hammond and Nigel Morley (2008) 'Tollerton - An Airfield For Nottingham 1929-2007' (Keyworth and District Local History Society, Keyworth, Nottingham)
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nottingham_Airport&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Special:Search/Nottingham_Airport" title="commons:Special:Search/Nottingham Airport">Nottingham Airport</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a class="external text" href="http://www.nottinghamairport.co.uk/" rel="nofollow">Nottingham City Airport (official site)</a></li>
+<li><a class="external text" href="http://www.sherwoodflyingclub.co.uk.?loaded" rel="nofollow">Sherwood Flying Club</a> — Official site</li>
+<li><a class="external text" href="http://www.2425atc.org.uk/" rel="nofollow">2425 Squadron RAF Air Cadets</a></li></ul>
+<div aria-labelledby="Airports_in_the_United_Kingdom,_the_British_Crown_Dependencies_and_British_Overseas_Territories" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Airports_in_the_United_Kingdom,_the_British_Crown_Dependencies_and_British_Overseas_Territories" title="Template:Airports in the United Kingdom, the British Crown Dependencies and British Overseas Territories"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Airports_in_the_United_Kingdom,_the_British_Crown_Dependencies_and_British_Overseas_Territories" title="Template talk:Airports in the United Kingdom, the British Crown Dependencies and British Overseas Territories"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Airports_in_the_United_Kingdom,_the_British_Crown_Dependencies_and_British_Overseas_Territories&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Airports_in_the_United_Kingdom,_the_British_Crown_Dependencies_and_British_Overseas_Territories" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_airports_in_the_United_Kingdom_and_the_British_Crown_Dependencies" title="List of airports in the United Kingdom and the British Crown Dependencies">Airports</a> in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, the <a href="/wiki/Crown_dependencies" title="Crown dependencies">British Crown Dependencies</a> and <a href="/wiki/British_Overseas_Territories" title="British Overseas Territories">British Overseas Territories</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Airports_in_England" title="Category:Airports in England">England</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birmingham_Airport" title="Birmingham Airport">Birmingham</a></li>
+<li><a href="/wiki/Bournemouth_Airport" title="Bournemouth Airport">Bournemouth</a></li>
+<li><a href="/wiki/Bristol_Airport" title="Bristol Airport">Bristol</a></li>
+<li><a href="/wiki/Doncaster_Sheffield_Airport" title="Doncaster Sheffield Airport">Doncaster/Sheffield</a></li>
+<li><a href="/wiki/Teesside_International_Airport" title="Teesside International Airport">Durham/Teesside</a></li>
+<li><a href="/wiki/East_Midlands_Airport" title="East Midlands Airport">East Midlands</a></li>
+<li><a href="/wiki/Exeter_Airport" title="Exeter Airport">Exeter</a></li>
+<li><a href="/wiki/Humberside_Airport" title="Humberside Airport">Humberside</a></li>
+<li><a href="/wiki/Leeds_Bradford_Airport" title="Leeds Bradford Airport">Leeds/Bradford</a></li>
+<li><a href="/wiki/Liverpool_John_Lennon_Airport" title="Liverpool John Lennon Airport">Liverpool</a></li>
+<li><a href="/wiki/London_City_Airport" title="London City Airport">London–City</a></li>
+<li><a href="/wiki/Gatwick_Airport" title="Gatwick Airport">London–Gatwick</a></li>
+<li><a href="/wiki/Heathrow_Airport" title="Heathrow Airport">London–Heathrow</a></li>
+<li><a href="/wiki/Luton_Airport" title="Luton Airport">London–Luton</a></li>
+<li><a href="/wiki/London_Southend_Airport" title="London Southend Airport">London–Southend</a></li>
+<li><a href="/wiki/London_Stansted_Airport" title="London Stansted Airport">London–Stansted</a></li>
+<li><a href="/wiki/Manchester_Airport" title="Manchester Airport">Manchester</a></li>
+<li><a href="/wiki/Newcastle_International_Airport" title="Newcastle International Airport">Newcastle</a></li>
+<li><a href="/wiki/Newquay_Airport" title="Newquay Airport">Newquay</a></li>
+<li><a href="/wiki/Norwich_Airport" title="Norwich Airport">Norwich</a></li>
+<li><a href="/wiki/Southampton_Airport" title="Southampton Airport">Southampton</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Smaller</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blackpool_Airport" title="Blackpool Airport">Blackpool</a></li>
+<li><a href="/wiki/Brighton_City_Airport" title="Brighton City Airport">Brighton City</a></li>
+<li><a href="/wiki/Cambridge_City_Airport" title="Cambridge City Airport">Cambridge</a></li>
+<li><a href="/wiki/Carlisle_Lake_District_Airport" title="Carlisle Lake District Airport">Carlisle</a></li>
+<li><a href="/wiki/Cotswold_Airport" title="Cotswold Airport">Cotswold</a></li>
+<li><a href="/wiki/Coventry_Airport" title="Coventry Airport">Coventry</a></li>
+<li><a href="/wiki/Cranfield_Airport" title="Cranfield Airport">Cranfield</a></li>
+<li><a href="/wiki/Gloucestershire_Airport" title="Gloucestershire Airport">Gloucestershire</a></li>
+<li><a href="/wiki/Land%27s_End_Airport" title="Land's End Airport">Land's End</a></li>
+<li><a href="/wiki/Leicester_Airport" title="Leicester Airport">Leicester</a></li>
+<li><a href="/wiki/London_Biggin_Hill_Airport" title="London Biggin Hill Airport">London–Biggin Hill</a></li>
+<li><a href="/wiki/Lydd_Airport" title="Lydd Airport">Lydd</a></li>
+<li><a class="mw-selflink selflink">Nottingham</a></li>
+<li><a href="/wiki/Oxford_Airport" title="Oxford Airport">Oxford</a></li>
+<li><a href="/wiki/St_Mary%27s_Airport,_Isles_of_Scilly" title="St Mary's Airport, Isles of Scilly">St Mary's</a></li>
+<li><a href="/wiki/Wolverhampton_Airport" title="Wolverhampton Airport">Wolverhampton</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Airports_in_Scotland" title="Category:Airports in Scotland">Scotland</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aberdeen_Airport" title="Aberdeen Airport">Aberdeen</a></li>
+<li><a href="/wiki/Edinburgh_Airport" title="Edinburgh Airport">Edinburgh</a></li>
+<li><a href="/wiki/Glasgow_Airport" title="Glasgow Airport">Glasgow</a></li>
+<li><a href="/wiki/Glasgow_Prestwick_Airport" title="Glasgow Prestwick Airport">Glasgow-Prestwick</a></li>
+<li><a href="/wiki/Inverness_Airport" title="Inverness Airport">Inverness</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Smaller</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barra_Airport" title="Barra Airport">Barra</a></li>
+<li><a href="/wiki/Benbecula_Airport" title="Benbecula Airport">Benbecula</a></li>
+<li><a href="/wiki/Campbeltown_Airport" title="Campbeltown Airport">Campbeltown</a></li>
+<li><a href="/wiki/Coll_Airport" title="Coll Airport">Coll</a></li>
+<li><a href="/wiki/Colonsay_Airport" title="Colonsay Airport">Colonsay</a></li>
+<li><a href="/wiki/Dundee_Airport" title="Dundee Airport">Dundee</a></li>
+<li><a href="/wiki/Eday_Airport" title="Eday Airport">Eday</a></li>
+<li><a href="/wiki/Fair_Isle_Airport" title="Fair Isle Airport">Fair Isle</a></li>
+<li><a href="/wiki/Islay_Airport" title="Islay Airport">Islay</a></li>
+<li><a href="/wiki/Kirkwall_Airport" title="Kirkwall Airport">Kirkwall</a></li>
+<li><a href="/wiki/Tingwall_Airport" title="Tingwall Airport">Lerwick</a></li>
+<li><a href="/wiki/North_Ronaldsay_Airport" title="North Ronaldsay Airport">North Ronaldsay</a></li>
+<li><a href="/wiki/Oban_Airport" title="Oban Airport">Oban</a></li>
+<li><a href="/wiki/Papa_Stour_Airstrip" title="Papa Stour Airstrip">Papa Stour</a></li>
+<li><a href="/wiki/Papa_Westray_Airport" title="Papa Westray Airport">Papa Westray</a></li>
+<li><a href="/wiki/Sanday_Airport" title="Sanday Airport">Sanday</a></li>
+<li><a href="/wiki/Scatsta_Airport" title="Scatsta Airport">Scatsta</a></li>
+<li><a href="/wiki/Stornoway_Airport" title="Stornoway Airport">Stornoway</a></li>
+<li><a href="/wiki/Stronsay_Airport" title="Stronsay Airport">Stronsay</a></li>
+<li><a href="/wiki/Sumburgh_Airport" title="Sumburgh Airport">Sumburgh</a></li>
+<li><a href="/wiki/Tingwall_Airport" title="Tingwall Airport">Tingwall</a></li>
+<li><a href="/wiki/Tiree_Airport" title="Tiree Airport">Tiree</a></li>
+<li><a href="/wiki/Westray_Airport" title="Westray Airport">Westray</a></li>
+<li><a href="/wiki/Wick_Airport" title="Wick Airport">Wick</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Airports_in_Wales" title="Category:Airports in Wales">Wales</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cardiff_Airport" title="Cardiff Airport">Cardiff</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Smaller</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aberporth_Airport" title="Aberporth Airport">Aberporth</a></li>
+<li><a href="/wiki/Anglesey_Airport" title="Anglesey Airport">Anglesey</a></li>
+<li><a href="/wiki/Caernarfon_Airport" title="Caernarfon Airport">Caernarfon</a></li>
+<li><a href="/wiki/Haverfordwest_Airport" title="Haverfordwest Airport">Haverfordwest</a></li>
+<li><a href="/wiki/Hawarden_Airport" title="Hawarden Airport">Hawarden</a></li>
+<li><a href="/wiki/Llanbedr_Airport" title="Llanbedr Airport">Llanbedr</a></li>
+<li><a href="/wiki/Pembrey_Airport" title="Pembrey Airport">Pembrey</a></li>
+<li><a href="/wiki/Swansea_Airport" title="Swansea Airport">Swansea</a></li>
+<li><a href="/wiki/Welshpool_Airport" title="Welshpool Airport">Welshpool</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Airports_in_Northern_Ireland" title="Category:Airports in Northern Ireland">Northern Ireland</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/George_Best_Belfast_City_Airport" title="George Best Belfast City Airport">Belfast City</a></li>
+<li><a href="/wiki/Belfast_International_Airport" title="Belfast International Airport">Belfast International</a></li>
+<li><a href="/wiki/City_of_Derry_Airport" title="City of Derry Airport">Derry</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Smaller</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Enniskillen/St_Angelo_Airport" title="Enniskillen/St Angelo Airport">Enniskillen/St Angelo</a></li>
+<li><a href="/wiki/Newtownards_Airport" title="Newtownards Airport">Newtownards</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Airports_in_British_Overseas_Territories_and_Crown_Dependencies" title="Category:Airports in British Overseas Territories and Crown Dependencies">Crown Dependencies</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Guernsey_Airport" title="Guernsey Airport">Guernsey</a></li>
+<li><a href="/wiki/Isle_of_Man_Airport" title="Isle of Man Airport">Isle of Man</a></li>
+<li><a href="/wiki/Jersey_Airport" title="Jersey Airport">Jersey</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Smaller</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alderney_Airport" title="Alderney Airport">Alderney</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Airports_in_British_Overseas_Territories_and_Crown_Dependencies" title="Category:Airports in British Overseas Territories and Crown Dependencies">Overseas Territories</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clayton_J._Lloyd_International_Airport" title="Clayton J. Lloyd International Airport">Anguilla</a></li>
+<li><a href="/wiki/RAF_Ascension_Island" title="RAF Ascension Island">RAF Ascension</a></li>
+<li><a href="/wiki/L.F._Wade_International_Airport" title="L.F. Wade International Airport">Bermuda</a></li>
+<li><a href="/wiki/Auguste_George_Airport" title="Auguste George Airport">Anegada</a></li>
+<li><a href="/wiki/Terrance_B._Lettsome_International_Airport" title="Terrance B. Lettsome International Airport">Beef Island</a></li>
+<li><a href="/wiki/Virgin_Gorda_Airport" title="Virgin Gorda Airport">Virgin Gorda</a></li>
+<li><a href="/wiki/Edward_Bodden_Airfield" title="Edward Bodden Airfield">Little Cayman</a></li>
+<li><a href="/wiki/Charles_Kirkconnell_International_Airport" title="Charles Kirkconnell International Airport">Cayman Brac</a></li>
+<li><a href="/wiki/Owen_Roberts_International_Airport" title="Owen Roberts International Airport">Grand Cayman</a></li>
+<li><a href="/wiki/RAF_Mount_Pleasant" title="RAF Mount Pleasant">Mount Pleasant</a></li>
+<li><a href="/wiki/Port_Stanley_Airport" title="Port Stanley Airport">Port Stanley</a></li>
+<li><a href="/wiki/Gibraltar_International_Airport" title="Gibraltar International Airport">Gibraltar</a></li>
+<li><a href="/wiki/John_A._Osborne_Airport" title="John A. Osborne Airport">Montserrat</a></li>
+<li><a href="/wiki/Saint_Helena_Airport" title="Saint Helena Airport">Saint Helena</a></li>
+<li><a class="mw-redirect" href="/wiki/Harold_Charles_International_Airport" title="Harold Charles International Airport">Ambergris Cays</a></li>
+<li><a href="/wiki/JAGS_McCartney_International_Airport" title="JAGS McCartney International Airport">Grand Turk</a></li>
+<li><a href="/wiki/Middle_Caicos_Airport" title="Middle Caicos Airport">Middle Caicos</a></li>
+<li><a href="/wiki/North_Caicos_Airport" title="North Caicos Airport">North Caicos</a></li>
+<li><a class="mw-redirect" href="/wiki/Pine_Cay_Airport" title="Pine Cay Airport">Pine Cay</a></li>
+<li><a href="/wiki/Providenciales_International_Airport" title="Providenciales International Airport">Providenciales</a></li>
+<li><a href="/wiki/Rothera_Research_Station#Airport" title="Rothera Research Station">Rothera</a></li>
+<li><a href="/wiki/Salt_Cay_Airport" title="Salt Cay Airport">Salt Cay</a></li>
+<li><a href="/wiki/South_Caicos_Airport" title="South Caicos Airport">South Caicos</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Smaller airports handle domestic, charter or private services only</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20191214172603
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.292 seconds
+Real time usage: 0.397 seconds
+Preprocessor visited node count: 1808/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 74513/2097152 bytes
+Template argument size: 6047/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1388/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.108/10.000 seconds
+Lua memory usage: 4.32 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  323.810      1 -total
+ 60.57%  196.126      1 Template:Infobox_airport
+ 57.81%  187.180      1 Template:Infobox
+ 13.59%   44.021      1 Template:Coord
+ 13.36%   43.249      1 Template:Use_dmy_dates
+ 13.14%   42.542      7 Template:Convert
+  8.68%   28.123      6 Template:Navbox
+  7.77%   25.159      1 Template:Airports_in_the_United_Kingdom
+  5.99%   19.395      2 Template:DMCA
+  5.74%   18.602      1 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1940085-0!canonical and timestamp 20191214172602 and revision id 918461196
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nottingham_Airport&amp;oldid=918461196">https://en.wikipedia.org/w/index.php?title=Nottingham_Airport&amp;oldid=918461196</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Airports_in_England" title="Category:Airports in England">Airports in England</a></li><li><a href="/wiki/Category:Transport_in_Nottinghamshire" title="Category:Transport in Nottinghamshire">Transport in Nottinghamshire</a></li><li><a href="/wiki/Category:Nottingham" title="Category:Nottingham">Nottingham</a></li><li><a href="/wiki/Category:Transport_in_Nottingham" title="Category:Transport in Nottingham">Transport in Nottingham</a></li><li><a href="/wiki/Category:Airports_in_the_East_Midlands" title="Category:Airports in the East Midlands">Airports in the East Midlands</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_May_2013" title="Category:Use dmy dates from May 2013">Use dmy dates from May 2013</a></li><li><a href="/wiki/Category:Use_British_English_from_May_2013" title="Category:Use British English from May 2013">Use British English from May 2013</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nottingham+Airport" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Nottingham+Airport" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Nottingham_Airport" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Nottingham_Airport" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Nottingham_Airport">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Nottingham_Airport&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Nottingham_Airport&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Nottingham_Airport" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Nottingham_Airport" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nottingham_Airport&amp;oldid=918461196" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nottingham_Airport&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3914573" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nottingham_Airport&amp;id=918461196" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Nottingham_Airport" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nottingham+Airport">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nottingham+Airport&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Nottingham_Airport&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Nottingham_Airport" hreflang="ceb" lang="ceb" title="Nottingham Airport – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D9%86%D8%A7%D8%AA%DB%8C%D9%86%DA%AF%D9%87%D8%A7%D9%85" hreflang="fa" lang="fa" title="فرودگاه ناتینگهام – Persian">فارسی</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Lapangan_Terbang_Nottingham" hreflang="ms" lang="ms" title="Lapangan Terbang Nottingham – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-pms"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Nottingham_Airport" hreflang="pms" lang="pms" title="Nottingham Airport – Piedmontese">Piemontèis</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Nottingham_Airport" hreflang="sv" lang="sv" title="Nottingham Airport – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tg"><a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%9D%D0%BE%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%D0%BC" hreflang="tg" lang="tg" title="Фурудгоҳи Нотингем – Tajik">Тоҷикӣ</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3914573#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 28 September 2019, at 19:46<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Nottingham_Airport&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.397","ppvisitednodes":{"value":1808,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":74513,"limit":2097152},"templateargumentsize":{"value":6047,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1388,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  323.810      1 -total"," 60.57%  196.126      1 Template:Infobox_airport"," 57.81%  187.180      1 Template:Infobox"," 13.59%   44.021      1 Template:Coord"," 13.36%   43.249      1 Template:Use_dmy_dates"," 13.14%   42.542      7 Template:Convert","  8.68%   28.123      6 Template:Navbox","  7.77%   25.159      1 Template:Airports_in_the_United_Kingdom","  5.99%   19.395      2 Template:DMCA","  5.74%   18.602      1 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.108","limit":"10.000"},"limitreport-memusage":{"value":4524862,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20191214172603","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Nottingham Airport","url":"https:\/\/en.wikipedia.org\/wiki\/Nottingham_Airport","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3914573","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3914573","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-25T17:51:03Z","dateModified":"2019-09-28T19:46:05Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/51\/Truman_Aviation%2C_Nottingham_Airport_-_geograph.org.uk_-_940041.jpg","headline":"airport serving the city of Nottingham, located in Tollerton"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1262"});});</script>
+
+
+</body></html>

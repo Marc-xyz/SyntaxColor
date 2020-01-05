@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Llanelly and District Electric Tramways - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfuBiwpAMFYAAH@0wUUAAAAJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Llanelly_and_District_Electric_Tramways","wgTitle":"Llanelly and District Electric Tramways","wgCurRevisionId":918472728,"wgRevisionId":918472728,"wgArticleId":35276351,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from January 2017","Use British English from January 2017","All articles with unsourced statements",
+"Articles with unsourced statements from June 2019","Tram transport in Wales","Trolleybus transport in the United Kingdom"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Llanelly_and_District_Electric_Tramways","wgRelevantArticleId":35276351,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6661306","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":
+"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Llanelly_and_District_Electric_Tramways" rel="alternate"/>
+<link href="/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Llanelly_and_District_Electric_Tramways" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Llanelly_and_District_Electric_Tramways rootpage-Llanelly_and_District_Electric_Tramways skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Llanelly and District Electric Tramways</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Llanelly Tramways</th></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Operation</th></tr><tr><th scope="row">Locale</th><td><a href="/wiki/Llanelly" title="Llanelly">Llanelly</a></td></tr><tr><th scope="row">Open</th><td>28 September 1882</td></tr><tr><th scope="row">Close</th><td>April 1908</td></tr><tr><th scope="row">Status</th><td>Closed</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Infrastructure</th></tr><tr><th scope="row"><a href="/wiki/Track_gauge" title="Track gauge">Track gauge</a></th><td><span class="nowrap">3 ft</span> (<span class="nowrap">914 mm</span>)</td></tr><tr><th scope="row">Propulsion system(s)</th><td>Horse</td></tr><tr><th scope="row">Depot(s)</th><td>Robinson Street</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Statistics</th></tr><tr><th scope="row"><a href="/wiki/Network_length_(transport)#Route_length" title="Network length (transport)">Route length</a></th><td>0.97 miles (1.56 km)</td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Llanelly and District Electric Tramways</th></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Operation</th></tr><tr><th scope="row">Locale</th><td><a href="/wiki/Llanelli" title="Llanelli">Llanelli</a></td></tr><tr><th scope="row">Open</th><td>April 1908</td></tr><tr><th scope="row">Close</th><td>6 February 1933</td></tr><tr><th scope="row">Status</th><td>Closed</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Infrastructure</th></tr><tr><th scope="row"><a href="/wiki/Track_gauge" title="Track gauge">Track gauge</a></th><td><span class="nowrap">1,435 mm</span> (<span class="nowrap">4 ft <span class="frac">8<span class="visualhide"> </span><sup>1</sup>⁄<sub>2</sub></span> in</span>)</td></tr><tr><th scope="row">Propulsion system(s)</th><td>Electric</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Statistics</th></tr><tr><th scope="row"><a href="/wiki/Network_length_(transport)#Route_length" title="Network length (transport)">Route length</a></th><td>6.23 miles (10.03 km)</td></tr></tbody></table>
+<p><b>Llanelly and District Electric Tramways</b> operated a standard gauge tramway service in <a href="/wiki/Llanelli" title="Llanelli">Llanelli</a>, Wales, between 1908 and 1933.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> It was the successor to a <span class="nowrap">3 ft</span> (<span class="nowrap">914 mm</span>) gauge horse tramway, which ran from 1882 until 1908. A complex series of negotiations took place in the early 1900s, resulting in the horse tramway being converted to an electric tramway. Standard gauge horse trams were run initially, until the company completed North Dock power station, which supplied electricity to the tramway. Two of the employees who worked on the construction went on to found <a href="/wiki/Balfour_Beatty" title="Balfour Beatty">Balfour Beatty</a>.
+</p><p>In 1929 the company announced that the trams would be replaced by trolleybuses, and the changeover was completed by 1933. The trolleybus routes were extended a little from the tramway routes. Because the owning company also owned the power station, the system was nationalised in 1947 as a result of the <a href="/wiki/Electricity_Act_1947" title="Electricity Act 1947">Electricity Act 1947</a>, becoming the responsibility of the <a class="mw-redirect" href="/wiki/South_Wales_Electricity_Board" title="South Wales Electricity Board">South Wales Electricity Board</a>. This period corresponded with a downturn in profitability, and the system was sold to the South Wales Transport Company, with a view to closing it down. The sale took place in March 1952, and the system was closed in November 1952.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Trolleybuses"><span class="tocnumber">1.1</span> <span class="toctext">Trolleybuses</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Fleet"><span class="tocnumber">2</span> <span class="toctext">Fleet</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Bibliography"><span class="tocnumber">3</span> <span class="toctext">Bibliography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#References"><span class="tocnumber">3.1</span> <span class="toctext">References</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first public tramway in Llanelli was a modest horse tramway, opened on 28 September 1882 by the Llanelly Tramways Company. It ran from a terminus at Woodend, along Stepney Street, Cowell Street, Murray Street, where there was a depot for the tramcars, and Station Road to reach the <a href="/wiki/Great_Western_Railway" title="Great Western Railway">Great Western Railway</a> <a href="/wiki/Llanelli_railway_station" title="Llanelli railway station">station</a>. The total length was 0.97 miles (1.56 km) and it used a gauge of <span class="nowrap">3 ft</span> (<span class="nowrap">914 mm</span>), which was unusual for tramways in Britain. The choice of gauge may have been made in an attempt to prevent horse buses running along the tops of the rails, but a local horse bus operator called James Andrews did just that, using an Andrews Patent Omnibus. The company took legal action to prevent him from doing so in 1883, but lost the case. Few details of the trams survive, but three single deck saloons were built for the opening of the tramway, although the manufacturer is unknown, and two more were acquired later.<sup class="reference" id="cite_ref-FOOTNOTETurner1996176-177_2-0"><a href="#cite_note-FOOTNOTETurner1996176-177-2">[2]</a></sup>
+</p><p>In 1900, the Llanelly &amp; District Electric Lighting and Traction Company was formed, with a view to building an electric tramway in the town. Little progress was made initially, but 
+1905 saw the start of a complex set of negotiations, which resulted in the transformation of the tramway. The British Power Company, which had formerly been known as the South Wales Electrical Power Distribution Company, bought the Llanelly Tramway for £6,000. It also bought the Traction Company, although it was virtually defunct by this time. In November 1905, British Power applied for a Light Railway Order, under the terms of the <a href="/wiki/Light_Railways_Act_1896" title="Light Railways Act 1896">Light Railways Act 1896</a>, which they eventually obtained in 1907. They employed the contractors J G White &amp; Company in early 1908, to start extending and converting the tramway. The horse trams are known to have run in March 1908, but the service was steadily reduced as the rails were lifted and laid to a wider gauge.<sup class="reference" id="cite_ref-FOOTNOTETurner1996177_3-0"><a href="#cite_note-FOOTNOTETurner1996177-3">[3]</a></sup>
+</p><p>During the contract to upgrade the tramway, two of White's employees were <a href="/wiki/George_Balfour_(Conservative_politician)" title="George Balfour (Conservative politician)">George Balfour</a> and Andrew Beatty. They both became directors of the Llanelly Tramway in January 1908, and a year later founded the construction company <a href="/wiki/Balfour_Beatty" title="Balfour Beatty">Balfour Beatty</a>. Balfour Beatty gave support to the Llanelly &amp; District Electric Lighting and Traction Company financially, who then became the operator of the new tramway. Because the rails had been widened to the standard gauge of <span class="nowrap">4 ft <span class="frac">8<span class="visualhide"> </span><sup>1</sup>⁄<sub>2</sub></span> in</span> (<span class="nowrap">1,435 mm</span>), the horse trams could not work on the new system, and as the new power station to supply the tramway had not been completed, the company bought three double deck horse trams from <a href="/wiki/London_County_Council_Tramways" title="London County Council Tramways">London County Council Tramways</a>, to allow them to run an interim service along the horse tramway route.<sup class="reference" id="cite_ref-FOOTNOTETurner1996177_3-1"><a href="#cite_note-FOOTNOTETurner1996177-3">[3]</a></sup>
+</p><p>Power for the system was supplied by the coal-fired North Dock Power Station, construction of which was completed in 1910,<sup class="reference" id="cite_ref-northdock_4-0"><a href="#cite_note-northdock-4">[4]</a></sup> and this and the tramway system was estimated to cost about £68,000.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2019)">citation needed</span></a></i>]</sup> The horse tram terminus at Woodend was re-aligned, and three extra routes fanned out from it. They ran along Sandy Road and Pwll Road to Pwll in the west; along Felinfoel Road to Felinfoel in the north; and along Park Street and Swansea Road to Bynea in the east. This increased the route milage to 6.23 miles (10.03 km), all of it single track with passsing loops. To convey the passengers, ten open-top double deck trams were ordered from the <a href="/wiki/United_Electric_Car_Company" title="United Electric Car Company">United Electric Car Company</a> of Preston. They began operating on 12 June 1911 on three of the four routes, with services on the line from Woodend to Pwll commencing on 16 July 1911. Although this final part of the system was not completed at the time, an opening ceremony was held on 16 July. There was sufficient demand for the service that four more trams were purchased from the United Electric Car Company in 1912.<sup class="reference" id="cite_ref-FOOTNOTETurner1996177_3-2"><a href="#cite_note-FOOTNOTETurner1996177-3">[3]</a></sup>
+</p><p>During the First World War, the company borrowed two tramcars from <a class="mw-redirect" href="/wiki/Mansfield_%26_District_Light_Railways" title="Mansfield &amp; District Light Railways">Mansfield &amp; District Light Railways</a>, which was another tramway system owned by Balfour Beatty. In order to replace these, two new open top double deck trams were bought from Preston in 1920. The United Electric Car Company had been taken over and were part of <a href="/wiki/English_Electric" title="English Electric">English Electric</a> at the time. In 1924 the Llanelly &amp; District Electric Lighting and Traction Company changed its name, becoming the Llanelly &amp; District Electric Supply Company, and within a few years, plans had been formulated to replace the trams with trolleybuses. The powers to enable this to happen were the subject of the Llanelly &amp; District Traction Act 1930. The Bynea route was the first to see trolleybuses, when they took over from the trams on 26 December 1932, and the rest of the tramway system had been converted by 16 February 1933.<sup class="reference" id="cite_ref-FOOTNOTETurner1996177_3-3"><a href="#cite_note-FOOTNOTETurner1996177-3">[3]</a></sup>
+</p><p>The tramcars were sold to Messrs Zammit, who removed the wheels and loaded the bodies onto lorries, to convey them to their yard. They were subsequently sold off or scrapped. The rails remained in the roads, but were a hazzard to pedestrians and cyclists. This was highlighted by the plight of George Brown, a 14-year-old cyclist from Park Crescent. The wheels of his bike became trapped in the gutter of the redundant tram rails, and he was thrown into the path of a trolleybus and killed.<sup class="reference" id="cite_ref-FOOTNOTEJohn2019_5-0"><a href="#cite_note-FOOTNOTEJohn2019-5">[5]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Trolleybuses">Trolleybuses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;action=edit&amp;section=2" title="Edit section: Trolleybuses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Following a public announcement in November 1929, a bill to sanction the replacement of the trams with trolleybuses was put before the <a href="/wiki/House_of_Lords" title="House of Lords">House of Lords</a> in January 1930, and Royal Assent for the Llanelly &amp; District Traction Act 1930 was received on 10 July. Additional powers contained in the Act included several extensions of the network, and a time limit of five years in which to complete the project. There was a delay in carrying out the work, due to an economic downturn, but by 26 December 1932 seven of the initial batch of 14 Leyland trolleybuses had arrived at the depot, and were put to work on the same day, inaugurating trolleybus services on the route to Bynea. There were more delays in getting the system completed, but a final inspection took place on 13 February 1933, and trolleybuses began running to Pwll and Felinfoel four days later. In view of the piecemeal way in which the system had been brought into operation, plans for a formal opening ceremony were shelved.<sup class="reference" id="cite_ref-FOOTNOTEJoyceKingNewman198683_6-0"><a href="#cite_note-FOOTNOTEJoyceKingNewman198683-6">[6]</a></sup>
+</p><p>The fleet was supplemented by three Guy BTX three-axle double deck vehicles in 1935, two of which had previously worked on various systems as demonstrators. The company returned to Guys in 1937, when they purchased three twin-axle trolleybuses. The route milage was 8.38 miles (13.49 km), as the route to Felinfoel had been extended a little past the original tram terminus, and the Bynea route had been extended to Loughor Bridge, where a turning cirlce had been installed, rather than a reverser, as at Felinfoel and Pwll. In 1942, a turning circle was added at Felinfoel, when a new motor factory opened, and at some point, a turning circle was constructed at the station and in the town centre. Short workings were made possible by constructing reversers at Pemberton and Bynea on the Loughor Bridge route, though the one at Pemberton was subsequently turned into a turning circle, and another was added at Llwyn Hendre for the Trostre steelworks traffic.<sup class="reference" id="cite_ref-FOOTNOTEJoyceKingNewman198683_6-1"><a href="#cite_note-FOOTNOTEJoyceKingNewman198683-6">[6]</a></sup>
+</p><p>Plans were drawn up for extensions to the system, and the Llanelly District Traction Act 1936 gave the company powers to extend the Pwll line to <a href="/wiki/Burry_Port" title="Burry Port">Burry Port</a> and <a href="/wiki/Pembrey" title="Pembrey">Pembrey</a>, but the powers were never used. Changes occurred in 1947 when the <a href="/wiki/Electricity_Act_1947" title="Electricity Act 1947">Electricity Act 1947</a> was passed, which nationalised the electricity supply industry in England, Scotland and Wales on 1 April 1948. The Llanelly trolleybus system was unusual, in that it was one of the few privately owned systems, as it was part of the Llanelli % District Electric Supply Company, who also owned the North Dock power station. The trolleyvbuses therefore became the responsibility of the fledgling <a class="mw-redirect" href="/wiki/South_Wales_Electricity_Board" title="South Wales Electricity Board">South Wales Electricity Board</a>. At around that time, they ceased to be profitable, and the South Wales Electricity Board looked to dispose of their newly-acquired asset in 1951. The Ministry of Transport agreed that they could sell the system to the South Wales Transport Company, who intended to close the system down, and the Llanelly District Transport Act 1952 authorised the agreement. The sale became effective on 20 March 1952, and the final trolleybus ran on 8 November 1952. One of the factors affecting the decision had been a large rise in the cost of electricity on 1 July 1950.<sup class="reference" id="cite_ref-FOOTNOTEJoyceKingNewman198683-84_7-0"><a href="#cite_note-FOOTNOTEJoyceKingNewman198683-84-7">[7]</a></sup> The vehicles were bought by J P Zammit, and the twelve Karriers were sold on for further use elsewhere.<sup class="reference" id="cite_ref-FOOTNOTEJohn2019_5-1"><a href="#cite_note-FOOTNOTEJohn2019-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Fleet">Fleet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;action=edit&amp;section=3" title="Edit section: Fleet">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Horse trams</dt></dl>
+<p>There were five <span class="nowrap">3 ft</span> (<span class="nowrap">914 mm</span>) gauge horse trams used on the Llanelly Tramway, bought in two batches.<sup class="reference" id="cite_ref-FOOTNOTETurner1996176_8-0"><a href="#cite_note-FOOTNOTETurner1996176-8">[8]</a></sup>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>Car numbers</td>
+<td>Type</td>
+<td>Year built</td>
+<td>Builder
+</td></tr>
+<tr>
+<td>1-3</td>
+<td>single deck saloon</td>
+<td>1882</td>
+<td>unknown
+</td></tr>
+<tr>
+<td>4-5</td>
+<td>single deck saloon</td>
+<td>unknown</td>
+<td>unknown
+</td></tr></tbody></table>
+<p>The company also ran three second-hand standard gauge <span class="nowrap">4 ft <span class="frac">8<span class="visualhide"> </span><sup>1</sup>⁄<sub>2</sub></span> in</span> (<span class="nowrap">1,435 mm</span>) horse trams, purchased from <a href="/wiki/London_County_Council_Tramways" title="London County Council Tramways">London County Council Tramways</a> before the new electric trams were available.<sup class="reference" id="cite_ref-FOOTNOTETurner1996177_3-4"><a href="#cite_note-FOOTNOTETurner1996177-3">[3]</a></sup>
+</p>
+<dl><dt>Electric trams</dt></dl>
+<p>Llanelly owned a total of 16 electric tramcars, bought in three batches, although they also ran two borrowed from <a class="mw-redirect" href="/wiki/Mansfield_%26_District_Light_Railways" title="Mansfield &amp; District Light Railways">Mansfield &amp; District Light Railways</a>.<sup class="reference" id="cite_ref-FOOTNOTETurner1996177_3-5"><a href="#cite_note-FOOTNOTETurner1996177-3">[3]</a></sup>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>Car numbers</td>
+<td>Type</td>
+<td>Year built</td>
+<td>Builder
+</td></tr>
+<tr>
+<td>1-10</td>
+<td>open top</td>
+<td>1911</td>
+<td><a href="/wiki/United_Electric_Car_Company" title="United Electric Car Company">United Electric Car Company</a>, Preston
+</td></tr>
+<tr>
+<td>11-14</td>
+<td>open top</td>
+<td>1912</td>
+<td>United Electric Car Company, Preston
+</td></tr>
+<tr>
+<td>15-16</td>
+<td>open top</td>
+<td>1920</td>
+<td><a href="/wiki/English_Electric" title="English Electric">English Electric</a>, Preston
+</td></tr></tbody></table>
+<dl><dt>Trolleybuses</dt></dl>
+<p>A total of 33 trolleybuses ran on the system, and about 27 of them were part of the sale to the South Wales Transport Company in 1952. <a href="/wiki/Guy_Motors" title="Guy Motors">Guy</a> number 16 had previously worked as a demonstator on the <a href="/wiki/Trolleybuses_in_Birmingham" title="Trolleybuses in Birmingham">Birmingham system</a>, where it was number 19, and Guy number 17 had a similar history, carrying the number 18 in Birmingham.<sup class="reference" id="cite_ref-FOOTNOTEJoyceKingNewman198683_6-2"><a href="#cite_note-FOOTNOTEJoyceKingNewman198683-6">[6]</a></sup> Guy number 36 was a speculative venture by the manufacturer, which was built in 1937 for the Commercial Motor Show, where it appeared with lettering for Llanelly and District. It was bought by Llanelly in 1940<sup class="reference" id="cite_ref-FOOTNOTELockwood2017142_9-0"><a href="#cite_note-FOOTNOTELockwood2017142-9">[9]</a></sup> or possibly 1939. After closure of the system, two of the <a href="/wiki/Karrier" title="Karrier">Karriers</a>, numbers 39 and 40, were sold for further use on the <a href="/wiki/Trolleybuses_in_Maidstone" title="Trolleybuses in Maidstone">Maidstone system</a>, while the chassis of the remaining ten Karriers saw further use in <a href="/wiki/Trolleybuses_in_Bradford" title="Trolleybuses in Bradford">Bradford</a>,<sup class="reference" id="cite_ref-FOOTNOTEJoyce196395_10-0"><a href="#cite_note-FOOTNOTEJoyce196395-10">[10]</a></sup><sup class="reference" id="cite_ref-FOOTNOTEJoyceKingNewman198683_6-3"><a href="#cite_note-FOOTNOTEJoyceKingNewman198683-6">[6]</a></sup> where they were fitted with new bodies by <a href="/wiki/East_Lancashire_Coachbuilders" title="East Lancashire Coachbuilders">East Lancashire Coachbuilders</a> of Blackburn in 1956.<sup class="reference" id="cite_ref-FOOTNOTEJohn2019_5-2"><a href="#cite_note-FOOTNOTEJohn2019-5">[5]</a></sup>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>Car numbers</td>
+<td>Type</td>
+<td>In service</td>
+<td>Withdrawn</td>
+<td>Chassis</td>
+<td>Electrical equipment</td>
+<td>Bodywork
+</td></tr>
+<tr>
+<td>1-12, 14-15</td>
+<td>2-axle</td>
+<td>1932/33</td>
+<td>1952</td>
+<td><a href="/wiki/Leyland_Motors" title="Leyland Motors">Leyland</a> TBD2</td>
+<td><a href="/wiki/General_Electric_Company" title="General Electric Company">GEC</a></td>
+<td>Leyland H26/24R
+</td></tr>
+<tr>
+<td>16-18</td>
+<td>3-axle</td>
+<td>1935</td>
+<td>1945</td>
+<td>Guy BTX</td>
+<td>Ross-Stevens</td>
+<td>Guy H32/28R
+</td></tr>
+<tr>
+<td>33-35</td>
+<td>2-axle</td>
+<td>1937</td>
+<td>by 1952</td>
+<td>Guy BT</td>
+<td>Elec Con Co</td>
+<td><a href="/wiki/Metro_Cammell_Weymann" title="Metro Cammell Weymann">Weymann</a> H30/26R
+</td></tr>
+<tr>
+<td>36</td>
+<td>2-axle</td>
+<td>1939</td>
+<td>by 1952</td>
+<td>Guy BT</td>
+<td>Elec Con Co</td>
+<td>Weymann H30/26R
+</td></tr>
+<tr>
+<td>37-40</td>
+<td></td>
+<td>1945</td>
+<td>1952</td>
+<td>Karrier W</td>
+<td><a href="/wiki/British_Thomson-Houston" title="British Thomson-Houston">BTH</a></td>
+<td><a href="/wiki/Charles_H._Roe" title="Charles H. Roe">Roe</a> UH30/26R
+</td></tr>
+<tr>
+<td>41-42</td>
+<td></td>
+<td>1945</td>
+<td>1952</td>
+<td>Karrier W</td>
+<td>BTH</td>
+<td><a href="/wiki/Brush_Traction" title="Brush Traction">Brush</a> UH30/26R
+</td></tr>
+<tr>
+<td>43-48</td>
+<td></td>
+<td>1945</td>
+<td>1952</td>
+<td>Karrier W</td>
+<td>BTH</td>
+<td><a href="/wiki/Park_Royal_Vehicles" title="Park Royal Vehicles">Park Royal</a> UH30/26R
+</td></tr></tbody></table>
+<table class="wikitable">
+
+<tbody><tr>
+<td colspan="4"><b>Standard bus bodywork designations</b>
+</td></tr>
+<tr>
+<td colspan="2">Prefixes</td>
+<td>Numbers</td>
+<td>Suffixes
+</td></tr>
+<tr>
+<td>U: Wartime utility bodywork</td>
+<td>H: Highbridge body, central upper gangway</td>
+<td>32: single deck or total seating</td>
+<td>F: Front entrance
+</td></tr>
+<tr>
+<td>B: Bus body single deck</td>
+<td>L: Lowbridge body, offset sunken upper gangway</td>
+<td>30/26: upper (30) and lower (26) deck seating</td>
+<td>C: Centre entrance
+</td></tr>
+<tr>
+<td>C: Coach body single deck</td>
+<td></td>
+<td></td>
+<td>R: Rear entrance
+</td></tr>
+<tr>
+<td>D: Dual purpose single deck</td>
+<td></td>
+<td></td>
+<td>D: Dual entrance
+</td></tr></tbody></table>
+<p><br/>
+</p>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;action=edit&amp;section=4" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin reflist" style="">
+<ul><li><cite class="citation book" id="CITEREFJoyce1963">Joyce, J (1963). <i>Trolleybus Trails</i>. <a href="/wiki/Ian_Allan_(publisher)" title="Ian Allan (publisher)">Ian Allan</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Trolleybus+Trails&amp;rft.pub=Ian+Allan&amp;rft.date=1963&amp;rft.aulast=Joyce&amp;rft.aufirst=J&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALlanelly+and+District+Electric+Tramways"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li>
+<li><cite class="citation book" id="CITEREFJoyceKingNewman1986">Joyce, J; King, J S; Newman, G (1986). <i>British Trolleybus Systems</i>. Ian Allan. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7110-1647-7" title="Special:BookSources/978-0-7110-1647-7"><bdi>978-0-7110-1647-7</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=British+Trolleybus+Systems&amp;rft.pub=Ian+Allan&amp;rft.date=1986&amp;rft.isbn=978-0-7110-1647-7&amp;rft.aulast=Joyce&amp;rft.aufirst=J&amp;rft.au=King%2C+J+S&amp;rft.au=Newman%2C+G&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALlanelly+and+District+Electric+Tramways"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation web" id="CITEREFJohn2019">John, Lyn (2019). <a class="external text" href="https://www.llanellich.org.uk/files/206-the-last-trolley-buses-of-llanelli" rel="nofollow">"The Last Trolley Buses of Llanelli"</a>. Llanelli Community Heritage. <a class="external text" href="https://web.archive.org/web/20190502194225/https://www.llanellich.org.uk/files/206-the-last-trolley-buses-of-llanelli" rel="nofollow">Archived</a> from the original on 2 May 2019.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Last+Trolley+Buses+of+Llanelli&amp;rft.pub=Llanelli+Community+Heritage&amp;rft.date=2019&amp;rft.aulast=John&amp;rft.aufirst=Lyn&amp;rft_id=https%3A%2F%2Fwww.llanellich.org.uk%2Ffiles%2F206-the-last-trolley-buses-of-llanelli&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALlanelly+and+District+Electric+Tramways"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book" id="CITEREFKlapper1974">Klapper, Charles (1974). <i>The Golden Age of Tramways</i>. <a class="mw-redirect" href="/wiki/David_%26_Charles" title="David &amp; Charles">David &amp; Charles</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7153-6458-1" title="Special:BookSources/978-0-7153-6458-1"><bdi>978-0-7153-6458-1</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Golden+Age+of+Tramways&amp;rft.pub=David+%26+Charles&amp;rft.date=1974&amp;rft.isbn=978-0-7153-6458-1&amp;rft.aulast=Klapper&amp;rft.aufirst=Charles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALlanelly+and+District+Electric+Tramways"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book" id="CITEREFLockwood2017">Lockwood, Stephen (2017). <a class="external text" href="https://books.google.co.uk/books?id=pULKDgAAQBAJ&amp;pg=PT142&amp;lpg=PT142#v=onepage&amp;q&amp;f=false" rel="nofollow"><i>A-Z of British Trolleybuses</i></a>. Crowood Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-78500-289-2" title="Special:BookSources/978-1-78500-289-2"><bdi>978-1-78500-289-2</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A-Z+of+British+Trolleybuses&amp;rft.pub=Crowood+Press&amp;rft.date=2017&amp;rft.isbn=978-1-78500-289-2&amp;rft.aulast=Lockwood&amp;rft.aufirst=Stephen&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3DpULKDgAAQBAJ%26pg%3DPT142%26lpg%3DPT142%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALlanelly+and+District+Electric+Tramways"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book" id="CITEREFTurner1996">Turner, Keith (1996). <i>The Directory of British Tramways</i>. Patrick Stephens. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-85260-549-0" title="Special:BookSources/978-1-85260-549-0"><bdi>978-1-85260-549-0</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Directory+of+British+Tramways&amp;rft.pub=Patrick+Stephens&amp;rft.date=1996&amp;rft.isbn=978-1-85260-549-0&amp;rft.aulast=Turner&amp;rft.aufirst=Keith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALlanelly+and+District+Electric+Tramways"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li></ul>
+</div>
+<h3><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">The Golden Age of Tramways. Published by Taylor and Francis.</span>
+</li>
+<li id="cite_note-FOOTNOTETurner1996176-177-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETurner1996176-177_2-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTurner1996">Turner 1996</a>, pp. 176-177.</span>
+</li>
+<li id="cite_note-FOOTNOTETurner1996177-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTETurner1996177_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTETurner1996177_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTETurner1996177_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTETurner1996177_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FOOTNOTETurner1996177_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-FOOTNOTETurner1996177_3-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFTurner1996">Turner 1996</a>, p. 177.</span>
+</li>
+<li id="cite_note-northdock-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-northdock_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://coflein.gov.uk/en/site/33735/details/north-dock-power-stationllanelli-power-stationgegb-power-station-llanelli" rel="nofollow">"North Dock Power Station"</a>. Coflein<span class="reference-accessdate">. Retrieved <span class="nowrap">17 June</span> 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=North+Dock+Power+Station&amp;rft.pub=Coflein&amp;rft_id=https%3A%2F%2Fcoflein.gov.uk%2Fen%2Fsite%2F33735%2Fdetails%2Fnorth-dock-power-stationllanelli-power-stationgegb-power-station-llanelli&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALlanelly+and+District+Electric+Tramways"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-FOOTNOTEJohn2019-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEJohn2019_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEJohn2019_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEJohn2019_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFJohn2019">John 2019</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTEJoyceKingNewman198683-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEJoyceKingNewman198683_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEJoyceKingNewman198683_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEJoyceKingNewman198683_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEJoyceKingNewman198683_6-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFJoyceKingNewman1986">Joyce, King &amp; Newman 1986</a>, p. 83.</span>
+</li>
+<li id="cite_note-FOOTNOTEJoyceKingNewman198683-84-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEJoyceKingNewman198683-84_7-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFJoyceKingNewman1986">Joyce, King &amp; Newman 1986</a>, pp. 83-84.</span>
+</li>
+<li id="cite_note-FOOTNOTETurner1996176-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETurner1996176_8-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTurner1996">Turner 1996</a>, p. 176.</span>
+</li>
+<li id="cite_note-FOOTNOTELockwood2017142-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTELockwood2017142_9-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFLockwood2017">Lockwood 2017</a>, p. 142.</span>
+</li>
+<li id="cite_note-FOOTNOTEJoyce196395-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEJoyce196395_10-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFJoyce1963">Joyce 1963</a>, p. 95.</span>
+</li>
+</ol></div>
+<div aria-labelledby="Historic_town_tramway_systems_in_the_United_Kingdom_and_the_Isle_of_Man" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Historic_UK_Trams" title="Template:Historic UK Trams"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Historic_UK_Trams" title="Template talk:Historic UK Trams"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Historic_UK_Trams&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Historic_town_tramway_systems_in_the_United_Kingdom_and_the_Isle_of_Man" style="font-size:114%;margin:0 4em">Historic town tramway systems in the United Kingdom and the Isle of Man</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_town_tramway_systems_in_the_United_Kingdom#England,_by_region" title="List of town tramway systems in the United Kingdom">England</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">East</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cambridge_Street_Tramways" title="Cambridge Street Tramways">Cambridge</a></li>
+<li><a href="/wiki/Colchester_Corporation_Tramways" title="Colchester Corporation Tramways">Colchester</a></li>
+<li><a href="/wiki/Great_Yarmouth_Corporation_Tramways" title="Great Yarmouth Corporation Tramways">Great Yarmouth</a></li>
+<li><a href="/wiki/Ipswich_Corporation_Tramways" title="Ipswich Corporation Tramways">Ipswich Corporation</a></li>
+<li><a href="/wiki/Ipswich_Tramway" title="Ipswich Tramway">Ipswich </a></li>
+<li><a href="/wiki/Lowestoft_Corporation_Tramways" title="Lowestoft Corporation Tramways">Lowestoft</a></li>
+<li><a href="/wiki/Luton_Corporation_Tramways" title="Luton Corporation Tramways">Luton</a></li>
+<li><a href="/wiki/Norwich_Electric_Tramways" title="Norwich Electric Tramways">Norwich</a></li>
+<li><a href="/wiki/Peterborough_Tramways" title="Peterborough Tramways">Peterborough</a></li>
+<li><a href="/wiki/Southend-on-Sea_Corporation_Tramways" title="Southend-on-Sea Corporation Tramways">Southend</a></li>
+<li><a href="/wiki/Wisbech_and_Upwell_Tramway" title="Wisbech and Upwell Tramway">Wisbech &amp; Upwell</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">East Midlands</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alford_and_Sutton_Tramway" title="Alford and Sutton Tramway">Alford &amp; Sutton</a></li>
+<li><a href="/wiki/Chesterfield_tramway" title="Chesterfield tramway">Chesterfield</a></li>
+<li><a href="/wiki/Derby_Corporation_Tramways" title="Derby Corporation Tramways">Derby Corporation</a></li>
+<li><a href="/wiki/Derby_Tramways_Company" title="Derby Tramways Company">Derby Company</a></li>
+<li><a href="/wiki/Ilkeston_Corporation_Tramways" title="Ilkeston Corporation Tramways">Ilkeston</a></li>
+<li><a href="/wiki/Lincoln_Tramways_Company" title="Lincoln Tramways Company">Lincoln Company</a></li>
+<li><a href="/wiki/Lincoln_Corporation_Tramways" title="Lincoln Corporation Tramways">Lincoln Corporation</a></li>
+<li><a href="/wiki/Leicester_Corporation_Tramways" title="Leicester Corporation Tramways">Leicester</a></li>
+<li><a href="/wiki/Mansfield_and_District_Light_Railways" title="Mansfield and District Light Railways">Mansfield &amp; District</a></li>
+<li><a href="/wiki/Matlock_Cable_Tramway" title="Matlock Cable Tramway">Matlock</a></li>
+<li><a href="/wiki/Northampton_Corporation_Tramways" title="Northampton Corporation Tramways">Northampton Corporation</a></li>
+<li><a href="/wiki/Northampton_Street_Tramways" title="Northampton Street Tramways">Northampton Street</a></li>
+<li><a href="/wiki/Nottingham_Corporation_Tramways" title="Nottingham Corporation Tramways">Nottingham Corporation</a></li>
+<li><a href="/wiki/Nottingham_and_District_Tramways_Company_Limited" title="Nottingham and District Tramways Company Limited">Nottingham &amp; District</a></li>
+<li><a href="/wiki/Nottinghamshire_and_Derbyshire_Tramways_Company" title="Nottinghamshire and Derbyshire Tramways Company">Nottinghamshire &amp; Derbyshire</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">London</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barking_Town_Urban_District_Council_Light_Railways" title="Barking Town Urban District Council Light Railways">Barking</a></li>
+<li><a href="/wiki/Croydon_Corporation_Tramways" title="Croydon Corporation Tramways">Croydon</a></li>
+<li><a href="/wiki/Kingsway_tramway_subway" title="Kingsway tramway subway">Kingsway</a>
+<ul><li><a href="/wiki/Trams_in_London" title="Trams in London">London</a></li></ul></li>
+<li><a href="/wiki/East_Ham_Corporation_Tramways" title="East Ham Corporation Tramways">East Ham</a></li>
+<li><a href="/wiki/Erith_Urban_District_Council_Tramways" title="Erith Urban District Council Tramways">Erith</a></li>
+<li><a href="/wiki/Ilford_Urban_District_Council_Tramways" title="Ilford Urban District Council Tramways">Ilford</a></li>
+<li><a href="/wiki/Leyton_Urban_District_Council_Tramways" title="Leyton Urban District Council Tramways">Leyton</a></li>
+<li><a href="/wiki/London_County_Council_Tramways" title="London County Council Tramways">London County Council</a></li>
+<li><a href="/wiki/London_United_Tramways" title="London United Tramways">London United</a></li>
+<li><a href="/wiki/Walthamstow_Urban_District_Council_Light_Railways" title="Walthamstow Urban District Council Light Railways">Walthamstow</a></li>
+<li><a href="/wiki/West_Ham_Corporation_Tramways" title="West Ham Corporation Tramways">West Ham</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">North East</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Darlington_Corporation_Light_Railways" title="Darlington Corporation Light Railways">Darlington Corporation</a></li>
+<li><a href="/wiki/Darlington_Street_Railroad_Company" title="Darlington Street Railroad Company">Darlington Street</a></li>
+<li><a href="/wiki/Gateshead_and_District_Tramways_Company" title="Gateshead and District Tramways Company">Gateshead</a></li>
+<li><a href="/wiki/Hartlepool_Electric_Tramways" title="Hartlepool Electric Tramways">Hartlepool Electric</a></li>
+<li><a href="/wiki/Hartlepools_Steam_Tramways_Company" title="Hartlepools Steam Tramways Company">Hartlepools Steam</a></li>
+<li><a href="/wiki/Jarrow_and_District_Electric_Tramway" title="Jarrow and District Electric Tramway">Jarrow</a></li>
+<li><a class="mw-redirect" href="/wiki/Leeds_Tramway" title="Leeds Tramway">Leeds</a></li>
+<li><a href="/wiki/Middlesbrough_and_Stockton_Tramways_Company" title="Middlesbrough and Stockton Tramways Company">Middlesbrough &amp; Stockton</a></li>
+<li><a href="/wiki/Middlesbrough_Corporation_Tramways" title="Middlesbrough Corporation Tramways">Middlesbrough Corporation</a></li>
+<li><a href="/wiki/Middlesbrough,_Stockton_and_Thornaby_Electric_Tramways_Company" title="Middlesbrough, Stockton and Thornaby Electric Tramways Company">Middlesbrough, Stockton &amp; Thornaby</a></li>
+<li><a href="/wiki/Newcastle_Corporation_Tramways" title="Newcastle Corporation Tramways">Newcastle</a></li>
+<li><a href="/wiki/South_Shields_Corporation_Tramways" title="South Shields Corporation Tramways">South Shields Corporation</a></li>
+<li><a href="/wiki/South_Shields_Tramways" title="South Shields Tramways">South Shields</a></li>
+<li><a href="/wiki/Stockton_and_Darlington_Steam_Tramway_Company" title="Stockton and Darlington Steam Tramway Company">Stockton &amp; Darlington Steam</a></li>
+<li><a href="/wiki/Stockton_and_District_Tramways_Company" title="Stockton and District Tramways Company">Stockton &amp; District</a></li>
+<li><a href="/wiki/Sunderland_Tramways_Company" title="Sunderland Tramways Company">Sunderland Company</a></li>
+<li><a href="/wiki/Sunderland_Corporation_Tramways" title="Sunderland Corporation Tramways">Sunderland Corporation</a></li>
+<li><a href="/wiki/Sunderland_District_Electric_Tramways" title="Sunderland District Electric Tramways">Sunderland District Electric</a></li>
+<li><a href="/wiki/Tynemouth_and_District_Tramways" title="Tynemouth and District Tramways">Tynemouth &amp; District</a></li>
+<li><a href="/wiki/Tynemouth_and_District_Electric_Traction_Company" title="Tynemouth and District Electric Traction Company">Tynemouth &amp; District Electric</a></li>
+<li><a href="/wiki/Tyneside_Tramways_and_Tramroads_Company" title="Tyneside Tramways and Tramroads Company">Tyneside</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">North West</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Accrington_Corporation_Tramways" title="Accrington Corporation Tramways">Accrington</a></li>
+<li><a href="/wiki/Accrington_Corporation_Steam_Tramways_Company" title="Accrington Corporation Steam Tramways Company">Accrington Steam</a></li>
+<li><a href="/wiki/Barrow-in-Furness_Tramways_Company" title="Barrow-in-Furness Tramways Company">Barrow-in-Furness</a></li>
+<li><a href="/wiki/Birkenhead_Corporation_Tramways" title="Birkenhead Corporation Tramways">Birkenhead</a></li>
+<li><a href="/wiki/Blackburn_and_Over_Darwen_Tramways_Company" title="Blackburn and Over Darwen Tramways Company">Blackburn &amp; Over Darwen</a></li>
+<li><a href="/wiki/Blackburn_Corporation_Tramways" title="Blackburn Corporation Tramways">Blackburn Corporation</a></li>
+<li><a href="/wiki/Blackpool_and_Fleetwood_Tramroad" title="Blackpool and Fleetwood Tramroad">Blackpool &amp; Fleetwood</a></li>
+<li><a href="/wiki/Blackpool_Electric_Tramway_Company" title="Blackpool Electric Tramway Company">Blackpool Electric</a></li>
+<li><a class="mw-redirect" href="/wiki/Blackpool_tramway" title="Blackpool tramway">Blackpool Corporation</a></li>
+<li><a href="/wiki/Bolton_Corporation_Tramways" title="Bolton Corporation Tramways">Bolton</a></li>
+<li><a href="/wiki/Burnley_Corporation_Tramways" title="Burnley Corporation Tramways">Burnley</a></li>
+<li><a href="/wiki/Bury_Corporation_Tramways" title="Bury Corporation Tramways">Bury</a></li>
+<li><a href="/wiki/City_of_Carlisle_Electric_Tramways" title="City of Carlisle Electric Tramways">Carlisle</a></li>
+<li><a href="/wiki/Chester_Corporation_Tramways" title="Chester Corporation Tramways">Chester Corporation</a></li>
+<li><a href="/wiki/Chester_Tramways_Company" title="Chester Tramways Company">Chester Company</a></li>
+<li><a href="/wiki/Colne_and_Trawden_Light_Railway_Company" title="Colne and Trawden Light Railway Company">Colne &amp; Trawden</a></li>
+<li><a href="/wiki/Darwen_Corporation_Tramways" title="Darwen Corporation Tramways">Darwen</a></li>
+<li><a href="/wiki/Heaton_Park#Heaton_Park_Tramway" title="Heaton Park">Heaton Park</a></li>
+<li><a href="/wiki/Lancaster_Corporation_Tramways" title="Lancaster Corporation Tramways">Lancaster</a></li>
+<li><a href="/wiki/Liverpool_Corporation_Tramways" title="Liverpool Corporation Tramways">Liverpool Corporation</a></li>
+<li><a href="/wiki/Liverpool_Tramways_Company" title="Liverpool Tramways Company">Liverpool Company</a></li>
+<li><a href="/wiki/Lytham_St._Annes_Corporation_Tramways" title="Lytham St. Annes Corporation Tramways">Lytham St Annes</a></li>
+<li><a href="/wiki/Manchester_Corporation_Tramways" title="Manchester Corporation Tramways">Manchester</a></li>
+<li><a href="/wiki/Morecambe_Tramways" title="Morecambe Tramways">Morecambe</a></li>
+<li><a href="/wiki/Nelson_Corporation_Tramways" title="Nelson Corporation Tramways">Nelson</a></li>
+<li><a href="/wiki/Preston_Corporation_Tramways" title="Preston Corporation Tramways">Preston</a></li>
+<li><a href="/wiki/Rawtenstall_Corporation_Tramways" title="Rawtenstall Corporation Tramways">Rawtenstall</a></li>
+<li><a href="/wiki/Rochdale_Corporation_Tramways" title="Rochdale Corporation Tramways">Rochdale</a></li>
+<li><a href="/wiki/South_Lancashire_Tramways" title="South Lancashire Tramways">South Lancashire</a></li>
+<li><a href="/wiki/Southport_Corporation_Tramways" title="Southport Corporation Tramways">Southport</a></li>
+<li><a href="/wiki/St_Helens_Corporation_Tramways" title="St Helens Corporation Tramways">St Helens</a></li>
+<li><a href="/wiki/Stockport_Corporation_Tramways" title="Stockport Corporation Tramways">Stockport</a></li>
+<li><a href="/wiki/SHMD" title="SHMD">Stalybridge, Hyde, Mossley &amp; Dukinfield</a></li>
+<li><a href="/wiki/Wallasey_Corporation_Tramways" title="Wallasey Corporation Tramways">Wallasey</a></li>
+<li><a href="/wiki/Warrington_Corporation_Tramways" title="Warrington Corporation Tramways">Warrington</a></li>
+<li><a href="/wiki/Wigan_Corporation_Tramways" title="Wigan Corporation Tramways">Wigan</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">South East</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brighton_Corporation_Tramways" title="Brighton Corporation Tramways">Brighton</a></li>
+<li><a href="/wiki/Brighton_and_Shoreham_Tramways" title="Brighton and Shoreham Tramways">Brighton &amp; Shoreham</a></li>
+<li><a href="/wiki/Brill_Tramway" title="Brill Tramway">Brill</a></li>
+<li><a href="/wiki/Chatham_and_District_Light_Railways_Company" title="Chatham and District Light Railways Company">Chatham &amp; District</a></li>
+<li><a href="/wiki/Dover_Corporation_Tramways" title="Dover Corporation Tramways">Dover</a></li>
+<li><a href="/wiki/Folkestone,_Hythe_and_Sandgate_Tramways" title="Folkestone, Hythe and Sandgate Tramways">Folkestone, Hythe &amp; Sandgate</a></li>
+<li><a href="/wiki/Gravesend_and_Northfleet_Electric_Tramways" title="Gravesend and Northfleet Electric Tramways">Gravesend &amp; Northfleet</a></li>
+<li><a href="/wiki/Gravesend,_Rosherville_and_Northfleet_Tramways" title="Gravesend, Rosherville and Northfleet Tramways">Gravesend, Rosherville &amp; Northfleet</a></li>
+<li><a href="/wiki/Hastings_and_District_Electric_Tramways" title="Hastings and District Electric Tramways">Hastings</a></li>
+<li><a href="/wiki/Isle_of_Thanet_Electric_Tramways_and_Lighting_Company" title="Isle of Thanet Electric Tramways and Lighting Company">Isle of Thanet</a></li>
+<li><a href="/wiki/Maidstone_Corporation_Tramways" title="Maidstone Corporation Tramways">Maidstone</a></li>
+<li><a href="/wiki/City_of_Oxford_Tramways_Company" title="City of Oxford Tramways Company">Oxford</a></li>
+<li><a href="/wiki/Portsdown_and_Horndean_Light_Railway" title="Portsdown and Horndean Light Railway">Portsdown &amp; Horndean</a></li>
+<li><a href="/wiki/Portsmouth_Corporation_Transport" title="Portsmouth Corporation Transport">Portsmouth</a></li>
+<li><a href="/wiki/Reading_Corporation_Tramways" title="Reading Corporation Tramways">Reading Corporation</a></li>
+<li><a href="/wiki/Reading_Tramways_Company" title="Reading Tramways Company">Reading Company</a></li>
+<li><a class="mw-redirect" href="/wiki/Ryde_Pier_Tramway" title="Ryde Pier Tramway">Ryde Pier Tramway</a></li>
+<li><a href="/wiki/Sheerness_and_District_Tramways" title="Sheerness and District Tramways">Sheerness</a></li>
+<li><a href="/wiki/Southampton_Corporation_Tramways" title="Southampton Corporation Tramways">Southampton Corporation</a></li>
+<li><a href="/wiki/Southampton_Tramways_Company" title="Southampton Tramways Company">Southampton Company</a></li>
+<li><a href="/wiki/Wantage_Tramway" title="Wantage Tramway">Wantage</a></li>
+<li><a href="/wiki/Wolverton_and_Stony_Stratford_Tramway" title="Wolverton and Stony Stratford Tramway">Wolverton &amp; Stony Stratford</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">South West</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bath_Tramways" title="Bath Tramways">Bath Tramways</a></li>
+<li><a href="/wiki/Bournemouth_Corporation_Tramways" title="Bournemouth Corporation Tramways">Bournemouth</a></li>
+<li><a href="/wiki/Bristol_Tramways" title="Bristol Tramways">Bristol</a></li>
+<li><a href="/wiki/Camborne_and_Redruth_Tramways" title="Camborne and Redruth Tramways">Camborne &amp; Redruth</a></li>
+<li><a href="/wiki/Cheltenham_and_District_Light_Railway" title="Cheltenham and District Light Railway">Cheltenham</a></li>
+<li><a class="mw-redirect" href="/wiki/Devonport_and_District_Tramways" title="Devonport and District Tramways">Devonport</a></li>
+<li><a class="mw-redirect" href="/wiki/Exeter_Corporation_Tramways" title="Exeter Corporation Tramways">Exeter Corporation</a></li>
+<li><a class="mw-redirect" href="/wiki/Exeter_Tramway_Company" title="Exeter Tramway Company">Exeter Company</a></li>
+<li><a href="/wiki/Gloucester_Corporation_Tramways" title="Gloucester Corporation Tramways">Gloucester Corporation</a></li>
+<li><a href="/wiki/Gloucester_Tramways_Company" title="Gloucester Tramways Company">Gloucester Company</a></li>
+<li><a class="mw-redirect" href="/wiki/Plymouth_Corporation_Tramways" title="Plymouth Corporation Tramways">Plymouth Corporation</a></li>
+<li><a class="mw-redirect" href="/wiki/Plymouth,_Devonport_and_District_Tramways" title="Plymouth, Devonport and District Tramways">Plymouth, Devonport &amp; District</a></li>
+<li><a class="mw-redirect" href="/wiki/Plymouth,_Stonehouse_and_Devonport_Tramways" title="Plymouth, Stonehouse and Devonport Tramways">Plymouth, Stonehouse &amp; Devonport</a></li>
+<li><a href="/wiki/Poole_and_District_Electric_Tramways" title="Poole and District Electric Tramways">Poole</a></li>
+<li><a href="/wiki/Seaton_Tramway" title="Seaton Tramway">Seaton</a></li>
+<li><a href="/wiki/Swindon_Corporation_Tramways" title="Swindon Corporation Tramways">Swindon</a></li>
+<li><a href="/wiki/Taunton_Tramway" title="Taunton Tramway">Taunton</a></li>
+<li><a href="/wiki/Torquay_Tramways" title="Torquay Tramways">Torquay</a></li>
+<li><a href="/wiki/Weston-super-Mare_Tramways" title="Weston-super-Mare Tramways">Weston-super-Mare</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">West Midlands</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/City_of_Birmingham_Tramways_Company_Ltd" title="City of Birmingham Tramways Company Ltd">Birmingham City</a></li>
+<li><a href="/wiki/Birmingham_and_Aston_Tramways_Company" title="Birmingham and Aston Tramways Company">Birmingham &amp; Aston</a></li>
+<li><a href="/wiki/Birmingham_Corporation_Tramways" title="Birmingham Corporation Tramways">Birmingham Corporation</a></li>
+<li><a href="/wiki/Burton_upon_Trent_Corporation_Tramways" title="Burton upon Trent Corporation Tramways">Burton-upon-Trent</a></li>
+<li><a href="/wiki/Burton_and_Ashby_Light_Railway" title="Burton and Ashby Light Railway">Burton &amp; Ashby</a></li>
+<li><a href="/wiki/Coventry_Corporation_Tramways" title="Coventry Corporation Tramways">Coventry</a></li>
+<li><a href="/wiki/Dudley_and_Stourbridge_Steam_Tramways_Company" title="Dudley and Stourbridge Steam Tramways Company">Dudley &amp; Stourbridge Steam</a></li>
+<li><a href="/wiki/Dudley,_Stourbridge_and_District_Electric_Traction_Company" title="Dudley, Stourbridge and District Electric Traction Company">Dudley, Stourbridge &amp; District Electric</a></li>
+<li><a href="/wiki/Kidderminster_and_Stourport_Electric_Tramway_Company" title="Kidderminster and Stourport Electric Tramway Company">Kidderminster &amp; Stourport</a></li>
+<li><a href="/wiki/Kinver_Light_Railway" title="Kinver Light Railway">Kinver</a></li>
+<li><a href="/wiki/Leamington_%26_Warwick_Tramways_%26_Omnibus_Company" title="Leamington &amp; Warwick Tramways &amp; Omnibus Company">Leamington &amp; Warwick</a></li>
+<li><a href="/wiki/Potteries_Electric_Traction_Company" title="Potteries Electric Traction Company">Potteries</a></li>
+<li><a class="mw-redirect" href="/wiki/South_Staffordshire_and_Birmingham_District_Steam_Tramways_Company" title="South Staffordshire and Birmingham District Steam Tramways Company">South Staffordshire &amp; Birmingham District Steam</a></li>
+<li><a href="/wiki/South_Staffordshire_Tramways_Company" title="South Staffordshire Tramways Company">South Staffordshire Company</a></li>
+<li><a href="/wiki/Walsall_Corporation_Tramways" title="Walsall Corporation Tramways">Walsall</a></li>
+<li><a href="/wiki/Wolverhampton_District_Electric_Tramways_Company" title="Wolverhampton District Electric Tramways Company">Wolverhampton District Electric</a></li>
+<li><a href="/wiki/Wolverhampton_Corporation_Tramways" title="Wolverhampton Corporation Tramways">Wolverhampton Corporation</a></li>
+<li><a href="/wiki/Wolverhampton_Tramways_Company" title="Wolverhampton Tramways Company">Wolverhampton Company</a></li>
+<li><a href="/wiki/Worcester_Electric_Traction_Company" title="Worcester Electric Traction Company">Worcester Electric</a></li>
+<li><a href="/wiki/Worcester_Tramways_Company" title="Worcester Tramways Company">Worcester</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Yorkshire and<br/>the Humber</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barnsley_and_District_Tramway" title="Barnsley and District Tramway">Barnsley &amp; District</a></li>
+<li><a href="/wiki/Bradford_Corporation_Tramways" title="Bradford Corporation Tramways">Bradford</a></li>
+<li><a href="/wiki/Dearne_District_Light_Railway" title="Dearne District Light Railway">Dearne District</a></li>
+<li><a href="/wiki/Doncaster_Tramway" title="Doncaster Tramway">Doncaster</a></li>
+<li><a href="/wiki/Grimsby_and_Immingham_Electric_Railway" title="Grimsby and Immingham Electric Railway">Grimsby &amp; Immingham</a></li>
+<li><a href="/wiki/Grimsby_District_Light_Railway" title="Grimsby District Light Railway">Grimsby District</a></li>
+<li><a href="/wiki/Halifax_Corporation_Tramways" title="Halifax Corporation Tramways">Halifax</a></li>
+<li><a href="/wiki/Huddersfield_Corporation_Tramways" title="Huddersfield Corporation Tramways">Huddersfield</a></li>
+<li><a href="/wiki/Trams_in_Kingston_upon_Hull" title="Trams in Kingston upon Hull">Hull</a></li>
+<li><a href="/wiki/Keighley_Tramways" title="Keighley Tramways">Keighley</a></li>
+<li><a href="/wiki/Leeds_Tramways_Company" title="Leeds Tramways Company">Leeds Company</a></li>
+<li><a class="mw-redirect" href="/wiki/Leeds_Tramway" title="Leeds Tramway">Leeds Corporation</a></li>
+<li><a href="/wiki/Mexborough_and_Swinton_Tramway" title="Mexborough and Swinton Tramway">Mexborough &amp; Swinton</a></li>
+<li><a href="/wiki/Rotherham_Tramway" title="Rotherham Tramway">Rotherham</a></li>
+<li><a href="/wiki/Scarborough_funiculars" title="Scarborough funiculars">Scarborough funiculars</a></li>
+<li><a href="/wiki/Scarborough_Tramways_Company" title="Scarborough Tramways Company">Scarborough</a></li>
+<li><a href="/wiki/Sheffield_Tramway" title="Sheffield Tramway">Sheffield</a></li>
+<li><a href="/wiki/Yorkshire_(West_Riding)_Electric_Tramways#Wakefield_and_District_Light_Railway" title="Yorkshire (West Riding) Electric Tramways">Wakefield</a></li>
+<li><a href="/wiki/York_Corporation_Tramways" title="York Corporation Tramways">York Corporation</a></li>
+<li><a href="/wiki/York_Tramways_Company" title="York Tramways Company">York Company</a></li>
+<li><a href="/wiki/Yorkshire_(Woollen_District)_Electric_Tramways" title="Yorkshire (Woollen District) Electric Tramways">Yorkshire (Woollen District)</a></li>
+<li><a href="/wiki/Yorkshire_(West_Riding)_Electric_Tramways" title="Yorkshire (West Riding) Electric Tramways">Yorkshire (West Riding)</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_town_tramway_systems_in_the_United_Kingdom#Wales" title="List of town tramway systems in the United Kingdom">Wales</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aberdare_Urban_District_Council_Tramways" title="Aberdare Urban District Council Tramways">Aberdare</a></li>
+<li><a href="/wiki/Barmouth_Junction_and_Arthog_Tramway" title="Barmouth Junction and Arthog Tramway">Barmouth Junction &amp; Arthog</a></li>
+<li><a href="/wiki/Cardiff_Corporation_Tramways" title="Cardiff Corporation Tramways">Cardiff Corporation</a></li>
+<li><a href="/wiki/Cardiff_Tramways_Company" title="Cardiff Tramways Company">Cardiff Company</a></li>
+<li><a href="/wiki/Cardiff_District_and_Penarth_Harbour_Tramways" title="Cardiff District and Penarth Harbour Tramways">Cardiff District and Penarth Harbour</a></li>
+<li><a href="/wiki/Fairbourne_Railway" title="Fairbourne Railway">Fairbourne</a></li>
+<li><a href="/wiki/Glyn_Valley_Tramway" title="Glyn Valley Tramway">Glyn Valley</a></li>
+<li><a href="/wiki/Great_Orme_Tramway" title="Great Orme Tramway">Great Orme</a></li>
+<li><a href="/wiki/Harlech_Tramway" title="Harlech Tramway">Harlech</a></li>
+<li><a href="/wiki/Llandudno_and_Colwyn_Bay_Electric_Railway" title="Llandudno and Colwyn Bay Electric Railway">Llandudno &amp; Colwyn Bay</a></li>
+<li><a href="/wiki/Llanelly_Tramways" title="Llanelly Tramways">Llanelly</a></li>
+<li><a class="mw-selflink selflink">Llanelly and District Electric</a></li>
+<li><a href="/wiki/Merthyr_Tydfil_Electric_Tramways" title="Merthyr Tydfil Electric Tramways">Merthyr Tydfil</a></li>
+<li><a href="/wiki/Neath_and_District_Tramways_Company" title="Neath and District Tramways Company">Neath &amp; District</a></li>
+<li><a href="/wiki/Neath_Corporation_Tramways" title="Neath Corporation Tramways">Neath Corporation</a></li>
+<li><a class="new" href="/w/index.php?title=Newport_Tramways_Company&amp;action=edit&amp;redlink=1" title="Newport Tramways Company (page does not exist)">Newport Company</a></li>
+<li><a href="/wiki/Newport_Corporation_Tramways" title="Newport Corporation Tramways">Newport Corporation</a></li>
+<li><a class="mw-redirect" href="/wiki/Oystermouth_Railway" title="Oystermouth Railway">Oystermouth</a></li>
+<li><a href="/wiki/Pontypridd_and_Rhondda_Valley_Tramway" title="Pontypridd and Rhondda Valley Tramway">Pontypridd and Rhondda Valley</a></li>
+<li><a href="/wiki/Pontypridd_Urban_District_Council_Tramways" title="Pontypridd Urban District Council Tramways">Pontypridd Urban District</a></li>
+<li><a href="/wiki/Pwllheli_and_Llanbedrog_Tramway" title="Pwllheli and Llanbedrog Tramway">Pwllheli &amp; Llanbedrog</a></li>
+<li><a href="/wiki/Pwllheli_Corporation_Tramways" title="Pwllheli Corporation Tramways">Pwllheli Corporation</a></li>
+<li><a href="/wiki/Rhondda_Tramways_Company" title="Rhondda Tramways Company">Rhondda</a></li>
+<li><a href="/wiki/Swansea_and_Mumbles_Railway" title="Swansea and Mumbles Railway">Swansea &amp; Mumbles</a></li>
+<li><a href="/wiki/Swansea_Improvements_and_Tramway_Company" title="Swansea Improvements and Tramway Company">Swansea Improvements</a></li>
+<li><a href="/wiki/Swansea_Constitution_Hill_Incline_Tramway" title="Swansea Constitution Hill Incline Tramway">Swansea Constitution Hill Incline</a></li>
+<li><a class="new" href="/w/index.php?title=Wrexham_District_Tramways&amp;action=edit&amp;redlink=1" title="Wrexham District Tramways (page does not exist)">Wrexham District</a></li>
+<li><a href="/wiki/Wrexham_and_District_Electric_Tramways" title="Wrexham and District Electric Tramways">Wrexham &amp; District Electric</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_town_tramway_systems_in_the_United_Kingdom#Scotland" title="List of town tramway systems in the United Kingdom">Scotland</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aberdeen_District_Tramways" title="Aberdeen District Tramways">Aberdeen District</a></li>
+<li><a href="/wiki/Aberdeen_Corporation_Tramways" title="Aberdeen Corporation Tramways">Aberdeen Corporation</a></li>
+<li><a href="/wiki/Aberdeen_Suburban_Tramways" title="Aberdeen Suburban Tramways">Aberdeen Suburban</a></li>
+<li><a href="/wiki/Airdrie_and_Coatbridge_Tramways" title="Airdrie and Coatbridge Tramways">Airdrie &amp; Coatbridge</a></li>
+<li><a href="/wiki/Ayr_Corporation_Tramways" title="Ayr Corporation Tramways">Ayr</a></li>
+<li><a href="/wiki/Carstairs_House_Tramway" title="Carstairs House Tramway">Carstairs House</a></li>
+<li><a href="/wiki/Cruden_Bay_Hotel_Tramway" title="Cruden Bay Hotel Tramway">Cruden Bay Hotel</a></li>
+<li><a href="/wiki/Dumbarton_Burgh_and_County_Tramways" title="Dumbarton Burgh and County Tramways">Dumbarton</a></li>
+<li><a href="/wiki/Dundee_and_District_Tramways" title="Dundee and District Tramways">Dundee &amp; District</a></li>
+<li><a href="/wiki/Dundee_Corporation_Tramways" title="Dundee Corporation Tramways">Dundee Corporation</a></li>
+<li><a href="/wiki/Dundee,_Broughty_Ferry_and_District_Tramways" title="Dundee, Broughty Ferry and District Tramways">Dundee, Broughty Ferry &amp; District</a></li>
+<li><a href="/wiki/Dunfermline_and_District_Tramways" title="Dunfermline and District Tramways">Dunfermline</a></li>
+<li><a href="/wiki/Edinburgh_Street_Tramways" title="Edinburgh Street Tramways">Edinburgh Street</a></li>
+<li><a href="/wiki/Edinburgh_and_District_Tramways" title="Edinburgh and District Tramways">Edinburgh &amp; District</a></li>
+<li><a href="/wiki/Edinburgh_Northern_Tramways" title="Edinburgh Northern Tramways">Edinburgh Northern</a></li>
+<li><a href="/wiki/Edinburgh_Corporation_Tramways" title="Edinburgh Corporation Tramways">Edinburgh Corporation</a></li>
+<li><a href="/wiki/Falkirk_and_District_Tramways" title="Falkirk and District Tramways">Falkirk</a></li>
+<li><a href="/wiki/Glasgow_Tramway_and_Omnibus_Company" title="Glasgow Tramway and Omnibus Company">Glasgow Company</a></li>
+<li><a href="/wiki/Glasgow_Corporation_Tramways" title="Glasgow Corporation Tramways">Glasgow Corporation</a></li>
+<li><a href="/wiki/Glasgow_and_Ibrox_Tramway" title="Glasgow and Ibrox Tramway">Glasgow &amp; Ibrox</a></li>
+<li><a class="new" href="/w/index.php?title=Greenock_and_Port_Glasgow_Tramways&amp;action=edit&amp;redlink=1" title="Greenock and Port Glasgow Tramways (page does not exist)">Greenock &amp; Port Glasgow</a></li>
+<li><a href="/wiki/Inchture_Tramway" title="Inchture Tramway">Inchture</a></li>
+<li><a href="/wiki/Kilmarnock_Corporation_Tramways" title="Kilmarnock Corporation Tramways">Kilmarnock</a></li>
+<li><a href="/wiki/Kirkcaldy_Corporation_Tramways" title="Kirkcaldy Corporation Tramways">Kirkcaldy</a></li>
+<li><a href="/wiki/Lanarkshire_Tramways" title="Lanarkshire Tramways">Lanarkshire</a></li>
+<li><a href="/wiki/Leith_Corporation_Tramways" title="Leith Corporation Tramways">Leith</a></li>
+<li><a href="/wiki/Musselburgh_and_District_Electric_Light_and_Traction_Company" title="Musselburgh and District Electric Light and Traction Company">Musselburgh</a></li>
+<li><a href="/wiki/Paisley_Tramways_Company" title="Paisley Tramways Company">Paisley</a></li>
+<li><a href="/wiki/Paisley_District_Tramways_Company" title="Paisley District Tramways Company">Paisley District</a></li>
+<li><a href="/wiki/Perth_and_District_Tramways" title="Perth and District Tramways">Perth &amp; District</a></li>
+<li><a href="/wiki/Perth_Corporation_Tramways" title="Perth Corporation Tramways">Perth Corporation</a></li>
+<li><a href="/wiki/Rothesay_and_Ettrick_Bay_Light_Railway" title="Rothesay and Ettrick Bay Light Railway">Rothesay &amp;Ettrick Bay</a></li>
+<li><a href="/wiki/Stirling_and_Bridge_of_Allan_Tramways" title="Stirling and Bridge of Allan Tramways">Stirling &amp; Bridge of Allan</a></li>
+<li><a class="new" href="/w/index.php?title=Vale_of_Clyde_Tramways&amp;action=edit&amp;redlink=1" title="Vale of Clyde Tramways (page does not exist)">Vale of Clyde</a></li>
+<li><a href="/wiki/Wemyss_and_District_Tramways_Company" title="Wemyss and District Tramways Company">Wemyss</a></li>
+<li><a href="/wiki/Scottish_Tramway_and_Transport_Society" title="Scottish Tramway and Transport Society">Scottish Tramway and Transport Society</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_town_tramway_systems_in_the_United_Kingdom#Northern_Ireland" title="List of town tramway systems in the United Kingdom">Northern Ireland</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Belfast_Corporation_Tramways" title="Belfast Corporation Tramways">Belfast Corporation</a></li>
+<li><a href="/wiki/Belfast_Street_Tramways" title="Belfast Street Tramways">Belfast Street</a></li>
+<li><a href="/wiki/Bessbrook_and_Newry_Tramway" title="Bessbrook and Newry Tramway">Bessbrook &amp; Newry</a></li>
+<li><a href="/wiki/Cavehill_and_Whitewell_Tramway" title="Cavehill and Whitewell Tramway">Cavehill &amp; Whitewell</a></li>
+<li><a href="/wiki/City_of_Derry_Tramways" title="City of Derry Tramways">City of Derry</a></li>
+<li><a href="/wiki/Castlederg_and_Victoria_Bridge_Tramway" title="Castlederg and Victoria Bridge Tramway">Castlederg &amp; Victoria Bridge</a></li>
+<li><a href="/wiki/Clogher_Valley_Railway" title="Clogher Valley Railway">Clogher Valley</a></li>
+<li><a href="/wiki/Giant%27s_Causeway_Tramway" title="Giant's Causeway Tramway">Giant's Causeway, Portrush &amp; Bush Valley</a></li>
+<li><a href="/wiki/Glenanne_Loughgilly_Tramway" title="Glenanne Loughgilly Tramway">Glenanne &amp; Loughgilly</a></li>
+<li><a href="/wiki/Portstewart_Tramway" title="Portstewart Tramway">Portstewart</a></li>
+<li><a href="/wiki/Warrenpoint_and_Rostrevor_Tramway" title="Warrenpoint and Rostrevor Tramway">Warrenpoint &amp; Rostrevor</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_town_tramway_systems_in_Europe#Isle_of_Man" title="List of town tramway systems in Europe">Isle of Man</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Douglas_Bay_Horse_Tramway" title="Douglas Bay Horse Tramway">Douglas Bay Horse</a></li>
+<li><a href="/wiki/Douglas_Southern_Electric_Tramway" title="Douglas Southern Electric Tramway">Douglas Southern Electric</a></li>
+<li><a href="/wiki/Manx_Electric_Railway" title="Manx Electric Railway">Manx Electric</a></li>
+<li><a href="/wiki/Snaefell_Mountain_Railway" title="Snaefell Mountain Railway">Snaefell Mountain</a></li>
+<li><a href="/wiki/Upper_Douglas_Cable_Tramway" title="Upper Douglas Cable Tramway">Upper Douglas Cable</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Manufacturers<br/>and suppliers</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/British_Thompson-Houston" title="British Thompson-Houston">British Thompson-Houston</a></li>
+<li><a class="mw-redirect" href="/wiki/Brush_Electrical_Engineering_Company" title="Brush Electrical Engineering Company">Brush Electrical Engineering Company</a></li>
+<li><a href="/wiki/Dick,_Kerr_%26_Co." title="Dick, Kerr &amp; Co.">Dick, Kerr &amp; Co.</a></li>
+<li><a class="mw-redirect" href="/wiki/Electric_Railway_and_Tramway_Carriage_Works" title="Electric Railway and Tramway Carriage Works">Electric Railway and Tramway Carriage Works</a></li>
+<li><a href="/wiki/English_Electric" title="English Electric">English Electric</a></li>
+<li><a href="/wiki/Thomas_Green_%26_Son" title="Thomas Green &amp; Son">Thomas Green &amp; Son</a></li>
+<li><a href="/wiki/Hurst_Nelson" title="Hurst Nelson">Hurst Nelson</a></li>
+<li><a href="/wiki/Kitson_and_Company" title="Kitson and Company">Kitson and Company</a></li>
+<li><a href="/wiki/Lancaster_Carriage_and_Wagon_Works" title="Lancaster Carriage and Wagon Works">Lancaster Carriage and Wagon Works</a></li>
+<li><a href="/wiki/Maley_%26_Taunton" title="Maley &amp; Taunton">Maley &amp; Taunton</a></li>
+<li><a href="/wiki/Manlove,_Alliott_%26_Co._Ltd." title="Manlove, Alliott &amp; Co. Ltd.">Manlove, Alliott &amp; Co. Ltd.</a></li>
+<li><a href="/wiki/Merryweather_%26_Sons" title="Merryweather &amp; Sons">Merryweather &amp; Sons</a></li>
+<li><a href="/wiki/Midland_Railway_Carriage_and_Wagon_Company" title="Midland Railway Carriage and Wagon Company">Midland Railway Carriage and Wagon Company</a></li>
+<li><a href="/wiki/G.F._Milnes_%26_Co." title="G.F. Milnes &amp; Co.">G.F. Milnes &amp; Co.</a></li>
+<li><a class="mw-redirect" href="/wiki/Milnes_Voss" title="Milnes Voss">Milnes Voss</a></li>
+<li><a class="mw-redirect" href="/wiki/Starbuck_Car_and_Wagon_Company" title="Starbuck Car and Wagon Company">Starbuck Car and Wagon Company</a></li>
+<li><a href="/wiki/United_Electric_Car_Company" title="United Electric Car Company">United Electric Car Company</a></li>
+<li><a href="/wiki/Tram_engine#Builders" title="Tram engine">William Wilkinson</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Group holding<br/>companies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Balfour_Beatty" title="Balfour Beatty">Balfour Beatty</a></li>
+<li><a class="new" href="/w/index.php?title=Birmingham_and_Midland_Tramways_Joint_Committee&amp;action=edit&amp;redlink=1" title="Birmingham and Midland Tramways Joint Committee (page does not exist)">Birmingham and Midland Tramways Joint Committee</a></li>
+<li><a href="/wiki/British_Electric_Traction" title="British Electric Traction">British Electric Traction</a></li>
+<li><a href="/wiki/British_Thomson-Houston" title="British Thomson-Houston">British Thomson-Houston</a></li>
+<li><a class="new" href="/w/index.php?title=National_Electric_Construction_Company&amp;action=edit&amp;redlink=1" title="National Electric Construction Company (page does not exist)">National Electric Construction Company</a></li>
+<li><a href="/wiki/New_General_Traction_Company" title="New General Traction Company">New General Traction Company</a></li>
+<li><a href="/wiki/Imperial_Tramways_Company" title="Imperial Tramways Company">Imperial Tramways Company</a></li>
+<li><a class="new" href="/w/index.php?title=Patent_Cable_Tramways_Corporation&amp;action=edit&amp;redlink=1" title="Patent Cable Tramways Corporation (page does not exist)">Patent Cable Tramways Corporation</a></li>
+<li><a class="mw-redirect" href="/wiki/Provincial_Tramways_Company" title="Provincial Tramways Company">Provincial Tramways Company</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Trade Fairs</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>International Tramways and Light Railways Exhibition
+<ul><li><a href="/wiki/First_International_Tramways_and_Light_Railways_Exhibition" title="First International Tramways and Light Railways Exhibition">First</a></li>
+<li><a href="/wiki/Second_International_Tramways_and_Light_Railways_Exhibition" title="Second International Tramways and Light Railways Exhibition">Second</a></li>
+<li><a href="/wiki/Third_International_Electric_Tramway_and_Railway_Exhibition" title="Third International Electric Tramway and Railway Exhibition">Third</a></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Historic_trolleybus_systems_in_the_United_Kingdom" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col" style="background:#efefef;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Historic_UK_Trolleybuses" title="Template:Historic UK Trolleybuses"><abbr style=";background:#efefef;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Historic_UK_Trolleybuses" title="Template talk:Historic UK Trolleybuses"><abbr style=";background:#efefef;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Historic_UK_Trolleybuses&amp;action=edit"><abbr style=";background:#efefef;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Historic_trolleybus_systems_in_the_United_Kingdom" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_trolleybus_systems_in_the_United_Kingdom" title="List of trolleybus systems in the United Kingdom">Historic trolleybus systems in the United Kingdom</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#efefef;"><a href="/wiki/List_of_trolleybus_systems_in_the_United_Kingdom#England_(by_region)" title="List of trolleybus systems in the United Kingdom">England</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trolleybuses_in_Ashton-under-Lyne" title="Trolleybuses in Ashton-under-Lyne">Ashton-under-Lyne</a></li>
+<li><a href="/wiki/Trolleybuses_in_Birmingham" title="Trolleybuses in Birmingham">Birmingham</a></li>
+<li><a href="/wiki/Trolleybuses_in_Bournemouth" title="Trolleybuses in Bournemouth">Bournemouth</a></li>
+<li><a href="/wiki/Trolleybuses_in_Bradford" title="Trolleybuses in Bradford">Bradford</a></li>
+<li><a href="/wiki/Trolleybuses_in_Brighton" title="Trolleybuses in Brighton">Brighton</a></li>
+<li><a class="mw-redirect" href="/wiki/Trolleybuses_in_Chesterfield" title="Trolleybuses in Chesterfield">Chesterfield</a></li>
+<li><a href="/wiki/Trolleybuses_in_Cleethorpes" title="Trolleybuses in Cleethorpes">Cleethorpes</a></li>
+<li><a href="/wiki/Trolleybuses_in_Darlington" title="Trolleybuses in Darlington">Darlington</a></li>
+<li><a href="/wiki/Trolleybuses_in_Derby" title="Trolleybuses in Derby">Derby</a></li>
+<li><a href="/wiki/Trolleybuses_in_Doncaster" title="Trolleybuses in Doncaster">Doncaster</a></li>
+<li><a href="/wiki/Trolleybuses_in_Grimsby" title="Trolleybuses in Grimsby">Grimsby</a></li>
+<li><a href="/wiki/Halifax_Corporation_Tramways#Trolleybuses" title="Halifax Corporation Tramways">Halifax</a></li>
+<li><a href="/wiki/Trolleybuses_in_Hartlepool" title="Trolleybuses in Hartlepool">Hartlepool</a></li>
+<li><a href="/wiki/Trolleybuses_in_Hastings" title="Trolleybuses in Hastings">Hastings</a></li>
+<li><a href="/wiki/Trolleybuses_in_Huddersfield" title="Trolleybuses in Huddersfield">Huddersfield</a></li>
+<li><a href="/wiki/Trolleybuses_in_Ipswich" title="Trolleybuses in Ipswich">Ipswich</a></li>
+<li><a href="/wiki/Keighley_Tramways" title="Keighley Tramways">Keighley</a></li>
+<li><a href="/wiki/Trolleybuses_in_Kingston_upon_Hull" title="Trolleybuses in Kingston upon Hull">Kingston upon Hull</a></li>
+<li><a href="/wiki/Trolleybuses_in_Leeds" title="Trolleybuses in Leeds">Leeds</a></li>
+<li><a href="/wiki/Trolleybuses_in_London" title="Trolleybuses in London">London</a></li>
+<li><a href="/wiki/Trolleybuses_in_Maidstone" title="Trolleybuses in Maidstone">Maidstone</a></li>
+<li><a href="/wiki/Trolleybuses_in_Manchester" title="Trolleybuses in Manchester">Manchester</a></li>
+<li><a href="/wiki/Mexborough_and_Swinton_Traction_Company" title="Mexborough and Swinton Traction Company">Mexborough and Swinton</a></li>
+<li><a href="/wiki/Trolleybuses_in_Newcastle_upon_Tyne" title="Trolleybuses in Newcastle upon Tyne">Newcastle upon Tyne</a></li>
+<li><a href="/wiki/Trolleybuses_in_Nottingham" title="Trolleybuses in Nottingham">Nottingham</a></li>
+<li><a href="/wiki/Trolleybuses_in_Nottinghamshire_and_Derbyshire" title="Trolleybuses in Nottinghamshire and Derbyshire">Nottinghamshire &amp; Derbyshire</a></li>
+<li><a href="/wiki/Trolleybuses_in_Oldham" title="Trolleybuses in Oldham">Oldham</a></li>
+<li><a href="/wiki/Trolleybuses_in_Portsmouth" title="Trolleybuses in Portsmouth">Portsmouth</a></li>
+<li><a href="/wiki/Trolleybuses_in_Ramsbottom" title="Trolleybuses in Ramsbottom">Ramsbottom</a></li>
+<li><a href="/wiki/Trolleybuses_in_Reading" title="Trolleybuses in Reading">Reading</a></li>
+<li><a href="/wiki/Trolleybuses_in_Rotherham" title="Trolleybuses in Rotherham">Rotherham</a></li>
+<li><a href="/wiki/Trolleybuses_in_St_Helens" title="Trolleybuses in St Helens">St Helens</a></li>
+<li><a href="/wiki/Trolleybuses_in_Southend-on-Sea" title="Trolleybuses in Southend-on-Sea">Southend-on-Sea</a></li>
+<li><a href="/wiki/Trolleybuses_in_South_Lancashire" title="Trolleybuses in South Lancashire">South Lancashire</a></li>
+<li><a href="/wiki/Trolleybuses_in_South_Shields" title="Trolleybuses in South Shields">South Shields</a></li>
+<li><a class="mw-redirect" href="/wiki/Trolleybuses_in_Stockport" title="Trolleybuses in Stockport">Stockport</a></li>
+<li><a href="/wiki/Trolleybuses_in_Teesside" title="Trolleybuses in Teesside">Teesside</a></li>
+<li><a href="/wiki/Trolleybuses_in_Walsall" title="Trolleybuses in Walsall">Walsall</a></li>
+<li><a class="mw-redirect" href="/wiki/Trolleybuses_in_Wigan" title="Trolleybuses in Wigan">Wigan</a></li>
+<li><a href="/wiki/Trolleybuses_in_Wolverhampton" title="Trolleybuses in Wolverhampton">Wolverhampton</a></li>
+<li><a href="/wiki/York_Corporation_Tramways#Trolleybuses" title="York Corporation Tramways">York</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:British_Trolleybuses_-_Maidstone_-_geograph.org.uk_-_553634.jpg" title="Maidstone trolleybus, September 1966."><img alt="Maidstone trolleybus, September 1966." data-file-height="640" data-file-width="423" decoding="async" height="151" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/British_Trolleybuses_-_Maidstone_-_geograph.org.uk_-_553634.jpg/100px-British_Trolleybuses_-_Maidstone_-_geograph.org.uk_-_553634.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/British_Trolleybuses_-_Maidstone_-_geograph.org.uk_-_553634.jpg/150px-British_Trolleybuses_-_Maidstone_-_geograph.org.uk_-_553634.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/British_Trolleybuses_-_Maidstone_-_geograph.org.uk_-_553634.jpg/200px-British_Trolleybuses_-_Maidstone_-_geograph.org.uk_-_553634.jpg 2x" width="100"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#efefef;"><a href="/wiki/List_of_trolleybus_systems_in_the_United_Kingdom#Wales" title="List of trolleybus systems in the United Kingdom">Wales</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Trolleybuses_in_Aberdare" title="Trolleybuses in Aberdare">Aberdare</a></li>
+<li><a href="/wiki/Trolleybuses_in_Cardiff" title="Trolleybuses in Cardiff">Cardiff</a></li>
+<li><a class="mw-redirect" href="/wiki/Trolleybuses_in_Llanelli" title="Trolleybuses in Llanelli">Llanelli</a></li>
+<li><a class="mw-redirect" href="/wiki/Trolleybuses_in_Pontypridd" title="Trolleybuses in Pontypridd">Pontypridd</a></li>
+<li><a class="mw-redirect" href="/wiki/Trolleybuses_in_Rhondda" title="Trolleybuses in Rhondda">Rhondda</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#efefef;"><a href="/wiki/List_of_trolleybus_systems_in_the_United_Kingdom#Scotland" title="List of trolleybus systems in the United Kingdom">Scotland</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Trolleybuses_in_Dundee" title="Trolleybuses in Dundee">Dundee</a></li>
+<li><a href="/wiki/Trolleybuses_in_Glasgow" title="Trolleybuses in Glasgow">Glasgow</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#efefef;"><a href="/wiki/List_of_trolleybus_systems_in_the_United_Kingdom#Northern_Ireland" title="List of trolleybus systems in the United Kingdom">Northern Ireland</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trolleybuses_in_Belfast" title="Trolleybuses in Belfast">Belfast</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#efefef;"><a href="/wiki/List_of_transport_museums#United_Kingdom" title="List of transport museums">Museums</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Black_Country_Living_Museum" title="Black Country Living Museum">Black Country Living Museum</a></li>
+<li><a href="/wiki/East_Anglia_Transport_Museum" title="East Anglia Transport Museum">East Anglia Transport Museum</a></li>
+<li><a href="/wiki/London_Transport_Museum" title="London Transport Museum">London Transport Museum</a></li>
+<li><a href="/wiki/North_West_Museum_of_Road_Transport" title="North West Museum of Road Transport">North West Museum of Road Transport</a></li>
+<li><a href="/wiki/The_Trolleybus_Museum_at_Sandtoft" title="The Trolleybus Museum at Sandtoft">The Trolleybus Museum at Sandtoft</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1327
+Cached time: 20191215000059
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.512 seconds
+Real time usage: 0.644 seconds
+Preprocessor visited node count: 1929/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 127836/2097152 bytes
+Template argument size: 1756/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 20217/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.246/10.000 seconds
+Lua memory usage: 7.51 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  503.127      1 -total
+ 26.76%  134.617      2 Template:Infobox_tram_network
+ 25.64%  129.013      2 Template:Infobox
+ 18.57%   93.435      5 Template:Cite_book
+ 10.73%   53.992      5 Template:Convert
+ 10.73%   53.991      1 Template:Citation_needed
+  9.85%   49.535      1 Template:Fix
+  9.00%   45.306      1 Template:Use_dmy_dates
+  8.87%   44.632     18 Template:Sfn
+  7.24%   36.433      3 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:35276351-0!canonical and timestamp 20191215000058 and revision id 918472728
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;oldid=918472728">https://en.wikipedia.org/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;oldid=918472728</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Tram_transport_in_Wales" title="Category:Tram transport in Wales">Tram transport in Wales</a></li><li><a href="/wiki/Category:Trolleybus_transport_in_the_United_Kingdom" title="Category:Trolleybus transport in the United Kingdom">Trolleybus transport in the United Kingdom</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_January_2017" title="Category:Use dmy dates from January 2017">Use dmy dates from January 2017</a></li><li><a href="/wiki/Category:Use_British_English_from_January_2017" title="Category:Use British English from January 2017">Use British English from January 2017</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2019" title="Category:Articles with unsourced statements from June 2019">Articles with unsourced statements from June 2019</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Llanelly+and+District+Electric+Tramways" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Llanelly+and+District+Electric+Tramways" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Llanelly_and_District_Electric_Tramways" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Llanelly_and_District_Electric_Tramways" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Llanelly_and_District_Electric_Tramways">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Llanelly_and_District_Electric_Tramways" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Llanelly_and_District_Electric_Tramways" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;oldid=918472728" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6661306" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Llanelly_and_District_Electric_Tramways&amp;id=918472728" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Llanelly+and+District+Electric+Tramways">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Llanelly+and+District+Electric+Tramways&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6661306#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 28 September 2019, at 20:53<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Llanelly_and_District_Electric_Tramways&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.512","walltime":"0.644","ppvisitednodes":{"value":1929,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":127836,"limit":2097152},"templateargumentsize":{"value":1756,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20217,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  503.127      1 -total"," 26.76%  134.617      2 Template:Infobox_tram_network"," 25.64%  129.013      2 Template:Infobox"," 18.57%   93.435      5 Template:Cite_book"," 10.73%   53.992      5 Template:Convert"," 10.73%   53.991      1 Template:Citation_needed","  9.85%   49.535      1 Template:Fix","  9.00%   45.306      1 Template:Use_dmy_dates","  8.87%   44.632     18 Template:Sfn","  7.24%   36.433      3 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.246","limit":"10.000"},"limitreport-memusage":{"value":7875480,"limit":52428800}},"cachereport":{"origin":"mw1327","timestamp":"20191215000059","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Llanelly and District Electric Tramways","url":"https:\/\/en.wikipedia.org\/wiki\/Llanelly_and_District_Electric_Tramways","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6661306","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6661306","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-03-30T18:30:46Z","dateModified":"2019-09-28T20:53:48Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":115,"wgHostname":"mw1251"});});</script>
+
+
+</body></html>

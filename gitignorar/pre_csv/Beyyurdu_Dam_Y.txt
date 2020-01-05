@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Beyyurdu Dam - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfts3QpAMEoAAAcyXjQAAAAL","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Beyyurdu_Dam","wgTitle":"Beyyurdu Dam","wgCurRevisionId":915586845,"wgRevisionId":915586845,"wgArticleId":40133589,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Turkish-language sources (tr)","Articles with short description","Coordinates on Wikidata","Dams in Hakkâri Province","Gravity dams","Dams under construction","Dams in the Tigris River basin",
+"Roller-compacted concrete dams"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Beyyurdu_Dam","wgRelevantArticleId":40133589,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":37.34039722222222,"lon":44.433569444444444},"wgWikibaseItemId":"Q15198860","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Turkey_relief_location_map.jpg/1200px-Turkey_relief_location_map.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Beyyurdu_Dam" rel="alternate"/>
+<link href="/w/index.php?title=Beyyurdu_Dam&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Beyyurdu_Dam&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Beyyurdu_Dam" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Beyyurdu_Dam rootpage-Beyyurdu_Dam skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Beyyurdu Dam</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">dam in Şemdinli, Hakkâri Province</div>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:skyblue;">Beyyurdu Dam</th></tr><tr><td colspan="2" style="text-align:center"><div class="center"><div style="width:235px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:235px;padding:0"><div style="position:relative;width:235px"><a class="image" href="/wiki/File:Turkey_relief_location_map.jpg" title="Beyyurdu Dam is located in Turkey"><img alt="Beyyurdu Dam is located in Turkey" data-file-height="677" data-file-width="1579" decoding="async" height="101" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Turkey_relief_location_map.jpg/235px-Turkey_relief_location_map.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Turkey_relief_location_map.jpg/353px-Turkey_relief_location_map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Turkey_relief_location_map.jpg/470px-Turkey_relief_location_map.jpg 2x" width="235"/></a><div style="position:absolute;top:73.709%;left:97.11%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Beyyurdu Dam" data-file-height="64" data-file-width="64" decoding="async" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" title="Beyyurdu Dam" width="8"/></div></div></div><div>Location of Beyyurdu Dam in Turkey</div></div></div></div></td></tr><tr><th scope="row">Country</th><td>Turkey</td></tr><tr><th scope="row">Location</th><td><a href="/wiki/%C5%9Eemdinli" title="Şemdinli">Şemdinli</a>, <a href="/wiki/Hakk%C3%A2ri_Province" title="Hakkâri Province">Hakkâri Province</a></td></tr><tr><th scope="row">Coordinates</th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Beyyurdu_Dam&amp;params=37_20_25.43_N_44_26_00.85_E_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°20′25.43″N</span> <span class="longitude">44°26′00.85″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37.3403972°N 44.4335694°E</span><span style="display:none">﻿ / <span class="geo">37.3403972; 44.4335694</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Beyyurdu_Dam&amp;params=37_20_25.43_N_44_26_00.85_E_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°20′25.43″N</span> <span class="longitude">44°26′00.85″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37.3403972°N 44.4335694°E</span><span style="display:none">﻿ / <span class="geo">37.3403972; 44.4335694</span></span></span></a></span></span></span></td></tr><tr><th scope="row">Purpose</th><td>Water supply, military</td></tr><tr><th scope="row">Status</th><td>Under construction</td></tr><tr><th scope="row">Construction began</th><td>2008</td></tr><tr><th scope="row">Owner(s)</th><td><a href="/wiki/State_Hydraulic_Works" title="State Hydraulic Works">State Hydraulic Works</a></td></tr><tr><th colspan="2" style="text-align:center;background-color:skyblue;">Dam and spillways</th></tr><tr><th scope="row"><a href="/wiki/Dam#Types_of_dams" title="Dam">Type of dam</a></th><td>Gravity, <a href="/wiki/Roller-compacted_concrete" title="Roller-compacted concrete">roller-compacted concrete</a></td></tr><tr><th scope="row">Impounds</th><td><a class="new" href="/w/index.php?title=Bembo_River&amp;action=edit&amp;redlink=1" title="Bembo River (page does not exist)">Bembo River</a></td></tr><tr><th scope="row">Height</th><td>48 m (157 ft)</td></tr><tr><th scope="row">Length</th><td>176 m (577 ft)</td></tr><tr><th scope="row">Elevation at crest</th><td>1,273 m (4,177 ft)</td></tr><tr><th scope="row">Width (crest)</th><td>8 m (26 ft)</td></tr><tr><th scope="row">Spillway type</th><td>Overflow</td></tr><tr><th colspan="2" style="text-align:center;background-color:skyblue;">Reservoir</th></tr><tr><th scope="row">Total capacity</th><td>8,060,000 m<sup>3</sup> (6,534 acre⋅ft)</td></tr><tr><th scope="row">Normal elevation</th><td>1,271 m (4,170 ft)<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td></tr></tbody></table>
+<p>The <b>Beyyurdu Dam</b> is a <a href="/wiki/Gravity_dam" title="Gravity dam">gravity dam</a> on the Bembo River (an eventual tributary of the <a href="/wiki/Great_Zab" title="Great Zab">Great Zab</a>) in <a href="/wiki/Beyyurdu,_%C5%9Eemdinli" title="Beyyurdu, Şemdinli">Beyyurdu, Şemdinli</a> district of <a href="/wiki/Hakk%C3%A2ri_Province" title="Hakkâri Province">Hakkâri Province</a>, southeast <a href="/wiki/Turkey" title="Turkey">Turkey</a>. 
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Construction"><span class="tocnumber">1</span> <span class="toctext">Construction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Function"><span class="tocnumber">2</span> <span class="toctext">Function</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Construction">Construction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beyyurdu_Dam&amp;action=edit&amp;section=1" title="Edit section: Construction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Under contract from Turkey's <a href="/wiki/State_Hydraulic_Works" title="State Hydraulic Works">State Hydraulic Works</a>, Özdoğan Group began construction on the dam in 2008.<sup class="reference" id="cite_ref-DSIII_2-0"><a href="#cite_note-DSIII-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> The construction was concluded in 2015.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> In July 2012 and May 2014 suspected <a href="/wiki/Kurdistan_Workers%27_Party" title="Kurdistan Workers' Party">Kurdistan Workers' Party</a> (PKK) militants set fire to equipment at the construction sites of the Beyyurdu Dam and also the <a href="/wiki/Aslanda%C4%9F_Dam" title="Aslandağ Dam">Aslandağ Dam</a> which is located upstream.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Function">Function</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beyyurdu_Dam&amp;action=edit&amp;section=2" title="Edit section: Function">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The reported purpose of the dam is water storage and it can also support a <a class="mw-redirect" href="/wiki/Hydroelectric" title="Hydroelectric">hydroelectric</a> power station in the future.<sup class="reference" id="cite_ref-DSIII_2-1"><a href="#cite_note-DSIII-2">[2]</a></sup> Another purpose of the dam which has been widely reported in the Turkish press is to reduce the freedom of movement of PKK militants. Blocking and flooding valleys in close proximity to the Iraq–Turkey border is expected to help curb cross-border PKK smuggling and deny caves in which ammunition can be stored. A total of 11 dams along the border; seven in <a href="/wiki/%C5%9E%C4%B1rnak_Province" title="Şırnak Province">Şırnak Province</a> and four in Hakkâri Province were implemented for this purpose. In Hakkâri are the Gölgeliyamaç (since cancelled) and <a href="/wiki/%C3%87ocuktepe_Dam" title="Çocuktepe Dam">Çocuktepe Dams</a> on the Güzeldere River and the Aslandağ and Beyyurdu Dams on the Bembo River. In Şırnak there is the <a href="/wiki/Silopi_Dam" title="Silopi Dam">Silopi Dam</a> on the <a class="mw-redirect" href="/wiki/Hezil_River" title="Hezil River">Hezil River</a> and the <a href="/wiki/%C5%9E%C4%B1rnak_Dam" title="Şırnak Dam">Şırnak</a>, <a href="/wiki/Uludere_Dam" title="Uludere Dam">Uludere</a>, <a href="/wiki/Balli_Dam" title="Balli Dam">Balli</a>, <a href="/wiki/Kav%C5%9Faktepe_Dam" title="Kavşaktepe Dam">Kavşaktepe</a>, <a href="/wiki/Musatepe_Dam" title="Musatepe Dam">Musatepe</a> and <a href="/wiki/%C3%87etintepe_Dam" title="Çetintepe Dam">Çetintepe Dams</a> on the Ortasu River.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beyyurdu_Dam&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_dams_and_reservoirs_in_Turkey" title="List of dams and reservoirs in Turkey">List of dams and reservoirs in Turkey</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beyyurdu_Dam&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.dgmarket.com/tenders/adminShowBuyer.do~buyerId=1501342" rel="nofollow">"Beyyurdu Dam construction tender"</a>. DGMarkets. 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">3 August</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Beyyurdu+Dam+construction+tender&amp;rft.pub=DGMarkets&amp;rft.date=2008&amp;rft_id=http%3A%2F%2Fwww.dgmarket.com%2Ftenders%2FadminShowBuyer.do~buyerId%3D1501342&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeyyurdu+Dam"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-DSIII-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-DSIII_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DSIII_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20131123060852/http://www2.dsi.gov.tr/bolge/dsi17/hakkari.htm" rel="nofollow">"DSI 10 REGIONAL OFFICE - Van"</a> (in Turkish). State Hydraulic Works. Archived from <a class="external text" href="http://www2.dsi.gov.tr/bolge/dsi17/hakkari.htm" rel="nofollow">the original</a> on 23 November 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">1 August</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DSI+10+REGIONAL+OFFICE+-+Van&amp;rft.pub=State+Hydraulic+Works&amp;rft_id=http%3A%2F%2Fwww2.dsi.gov.tr%2Fbolge%2Fdsi17%2Fhakkari.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeyyurdu+Dam"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20130516130657/http://www.ozdogan.com.tr/?inc=gallery&amp;ID=8&amp;CatID=10" rel="nofollow">"Beyyurdu-Aslandag Dam"</a> (in Turkish). Ozodgan. Archived from <a class="external text" href="http://www.ozdogan.com.tr/?inc=gallery&amp;ID=8&amp;CatID=10" rel="nofollow">the original</a> on 16 May 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">2 August</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Beyyurdu-Aslandag+Dam&amp;rft.pub=Ozodgan&amp;rft_id=http%3A%2F%2Fwww.ozdogan.com.tr%2F%3Finc%3Dgallery%26ID%3D8%26CatID%3D10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeyyurdu+Dam"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Associates, MD&amp;A; Associates (MD&amp;A), Malcolm Dunstan and. <a class="external text" href="http://www.rccdams.co.uk/dams/beyyurdu/" rel="nofollow">"Malcolm Dunstan and Associates - RCC Dam specialists"</a>. <i>RCC Dams - the home of Malcolm Dunstan and Associates (MD&amp;A)</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-09-12</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=RCC+Dams+-+the+home+of+Malcolm+Dunstan+and+Associates+%28MD%26A%29&amp;rft.atitle=Malcolm+Dunstan+and+Associates+-+RCC+Dam+specialists&amp;rft.aulast=Associates&amp;rft.aufirst=MD%26A&amp;rft.au=Associates+%28MD%26A%29%2C+Malcolm+Dunstan+and&amp;rft_id=http%3A%2F%2Fwww.rccdams.co.uk%2Fdams%2Fbeyyurdu%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeyyurdu+Dam"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.radikal.com.tr/turkiye/pkk_baraj_santiyesini_basti-1094156" rel="nofollow">"The PKK raided the dam sites on"</a> (in Turkish). Radikal. 14 July 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">2 August</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+PKK+raided+the+dam+sites+on&amp;rft.pub=Radikal&amp;rft.date=2012-07-14&amp;rft_id=http%3A%2F%2Fwww.radikal.com.tr%2Fturkiye%2Fpkk_baraj_santiyesini_basti-1094156&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeyyurdu+Dam"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20141020211355/http://gundem.bugun.com.tr/pkk-hakkaride-baraj-insaatina-saldirdi-haberi/1094512" rel="nofollow">"Business machines burned in dam construction on the PKK in Hakkari"</a> (in Turkish). Bugun. 8 May 2014. Archived from <a class="external text" href="http://gundem.bugun.com.tr/pkk-hakkaride-baraj-insaatina-saldirdi-haberi/1094512" rel="nofollow">the original</a> on 20 October 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">17 January</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Business+machines+burned+in+dam+construction+on+the+PKK+in+Hakkari&amp;rft.pub=Bugun&amp;rft.date=2014-05-08&amp;rft_id=http%3A%2F%2Fgundem.bugun.com.tr%2Fpkk-hakkaride-baraj-insaatina-saldirdi-haberi%2F1094512&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeyyurdu+Dam"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20121025003858/http://www.posta.com.tr/turkiye/HaberDetay/Teror-bogulacak.htm?ArticleID=136637" rel="nofollow">"Terror Down"</a> (in Turkish). Posta. 24 August 2012. Archived from <a class="external text" href="http://www.posta.com.tr/turkiye/HaberDetay/Teror-bogulacak.htm?ArticleID=136637" rel="nofollow">the original</a> on 25 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">1 August</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Terror+Down&amp;rft.pub=Posta&amp;rft.date=2012-08-24&amp;rft_id=http%3A%2F%2Fwww.posta.com.tr%2Fturkiye%2FHaberDetay%2FTeror-bogulacak.htm%3FArticleID%3D136637&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeyyurdu+Dam"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.hurriyet.com.tr/gundem/19088520.asp" rel="nofollow">"Planned to be completed in the second dam on the border against the PKK"</a> (in Turkish). Hurriyet. 26 October 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">1 August</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Planned+to+be+completed+in+the+second+dam+on+the+border+against+the+PKK&amp;rft.pub=Hurriyet&amp;rft.date=2011-10-26&amp;rft_id=http%3A%2F%2Fwww.hurriyet.com.tr%2Fgundem%2F19088520.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeyyurdu+Dam"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20130510001959/http://www.aktifhaber.com/sinirdaki-barajlar-kacakciligi-onleyecek-780919h.htm" rel="nofollow">"Dams Prevent Smuggling at the Border"</a> (in Turkish). Aktif Haber. 5 May 2013. Archived from <a class="external text" href="http://www.aktifhaber.com/sinirdaki-barajlar-kacakciligi-onleyecek-780919h.htm" rel="nofollow">the original</a> on 10 May 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">1 August</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dams+Prevent+Smuggling+at+the+Border&amp;rft.pub=Aktif+Haber&amp;rft.date=2013-05-05&amp;rft_id=http%3A%2F%2Fwww.aktifhaber.com%2Fsinirdaki-barajlar-kacakciligi-onleyecek-780919h.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeyyurdu+Dam"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.cnnturk.com/2012/turkiye/08/23/pkkya.karsi.yapilan.barajlarda.su.tutma.islemi.basladi/674002.0/index.html" rel="nofollow">"Water retention dams began operation against PKK"</a> (in Turkish). CNNTurk. 23 August 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">2 August</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Water+retention+dams+began+operation+against+PKK&amp;rft.pub=CNNTurk&amp;rft.date=2012-08-23&amp;rft_id=http%3A%2F%2Fwww.cnnturk.com%2F2012%2Fturkiye%2F08%2F23%2Fpkkya.karsi.yapilan.barajlarda.su.tutma.islemi.basladi%2F674002.0%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeyyurdu+Dam"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Dams_and_reservoirs_in_Turkey" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Dams_and_reservoirs_in_Turkey" title="Template:Dams and reservoirs in Turkey"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Dams_and_reservoirs_in_Turkey" title="Template talk:Dams and reservoirs in Turkey"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Dams_and_reservoirs_in_Turkey&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Dams_and_reservoirs_in_Turkey" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_dams_and_reservoirs_in_Turkey" title="List of dams and reservoirs in Turkey">Dams and reservoirs in Turkey</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Aegean_Region_(geographical)" title="Aegean Region (geographical)">Aegean<br/>Region</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ad%C4%B1g%C3%BCzel_Dam" title="Adıgüzel Dam">Adıgüzel</a></li>
+<li><a href="/wiki/Af%C5%9Far_Dam" title="Afşar Dam">Afşar</a></li>
+<li><a href="/wiki/Akde%C4%9Firmen_Dam" title="Akdeğirmen Dam">Akdeğirmen</a></li>
+<li><a href="/wiki/Akgedik_Dam" title="Akgedik Dam">Akgedik</a></li>
+<li><a href="/wiki/Akk%C3%B6pr%C3%BC_Dam" title="Akköprü Dam">Akköprü</a></li>
+<li><a href="/wiki/Ala%C3%A7at%C4%B1_Dam" title="Alaçatı Dam">Alaçatı</a></li>
+<li><a href="/wiki/Bal%C3%A7ova_Dam" title="Balçova Dam">Balçova</a></li>
+<li><a href="/wiki/Bay%C4%B1r_Dam" title="Bayır Dam">Bayır</a></li>
+<li><a href="/wiki/Be%C5%9Fkar%C4%B1%C5%9F_Dam" title="Beşkarış Dam">Beşkarış</a></li>
+<li><a href="/wiki/Beyda%C4%9F_Dam" title="Beydağ Dam">Beydağ</a></li>
+<li><a href="/wiki/Buldan_Dam" title="Buldan Dam">Buldan</a></li>
+<li><a href="/wiki/Cindere_Dam" title="Cindere Dam">Cindere</a></li>
+<li><a href="/wiki/%C3%87alt%C4%B1koru_Dam" title="Çaltıkoru Dam">Çaltıkoru</a></li>
+<li><a href="/wiki/%C3%87avdarhisar_Dam" title="Çavdarhisar Dam">Çavdarhisar</a></li>
+<li><a href="/wiki/%C3%87ine_Dam" title="Çine Dam">Çine</a></li>
+<li><a href="/wiki/Demirk%C3%B6pr%C3%BC_Dam" title="Demirköprü Dam">Demirköprü</a></li>
+<li><a href="/wiki/Enne_Dam" title="Enne Dam">Enne</a></li>
+<li><a href="/wiki/Geyik_Dam" title="Geyik Dam">Geyik</a></li>
+<li><a href="/wiki/G%C3%B6kp%C4%B1nar_Dam" title="Gökpınar Dam">Gökpınar</a></li>
+<li><a href="/wiki/G%C3%B6lmarmara_Dam" title="Gölmarmara Dam">Gölmarmara</a></li>
+<li><a href="/wiki/G%C3%B6rdes_Dam" title="Gördes Dam">Gördes</a></li>
+<li><a href="/wiki/G%C3%BCzelhisar_Dam" title="Güzelhisar Dam">Güzelhisar</a></li>
+<li><a href="/wiki/I%C5%9F%C4%B1kl%C4%B1_Dam" title="Işıklı Dam">Işıklı</a></li>
+<li><a href="/wiki/%C4%B0kizdere_Dam" title="İkizdere Dam">İkizdere</a></li>
+<li><a href="/wiki/Karacasu_Dam" title="Karacasu Dam">Karacasu</a></li>
+<li><a href="/wiki/Kavakdere_Dam" title="Kavakdere Dam">Kavakdere</a></li>
+<li><a href="/wiki/Kayabo%C4%9Faz%C4%B1_Dam" title="Kayaboğazı Dam">Kayaboğazı</a></li>
+<li><a href="/wiki/Kemer_Dam" title="Kemer Dam">Kemer</a></li>
+<li><a href="/wiki/Kestel_Dam" title="Kestel Dam">Kestel</a></li>
+<li><a href="/wiki/Kurey%C5%9Fler_Dam" title="Kureyşler Dam">Kureyşler</a></li>
+<li><a href="/wiki/K%C3%BC%C3%A7%C3%BCkler_Dam" title="Küçükler Dam">Küçükler</a></li>
+<li><a href="/wiki/Marmaris_Dam" title="Marmaris Dam">Marmaris</a></li>
+<li><a href="/wiki/Mumcular_Dam" title="Mumcular Dam">Mumcular</a></li>
+<li><a href="/wiki/%C3%96renler_Dam" title="Örenler Dam">Örenler</a></li>
+<li><a href="/wiki/Seferihisar_Dam" title="Seferihisar Dam">Seferihisar</a></li>
+<li><a href="/wiki/Selevir_Dam" title="Selevir Dam">Selevir</a></li>
+<li><a href="/wiki/Sevi%C5%9Fler_Dam" title="Sevişler Dam">Sevişler</a></li>
+<li><a href="/wiki/Seyitler_Dam" title="Seyitler Dam">Seyitler</a></li>
+<li><a href="/wiki/S%C3%B6%C4%9F%C3%BCt_Dam" title="Söğüt Dam">Söğüt</a></li>
+<li><a href="/wiki/Tahtal%C4%B1_Dam" title="Tahtalı Dam">Tahtalı</a></li>
+<li><a href="/wiki/Top%C3%A7am_Dam_(Ayd%C4%B1n)" title="Topçam Dam (Aydın)">Topçam (Aydın)</a></li>
+<li><a href="/wiki/%C3%9Crkmez_Dam" title="Ürkmez Dam">Ürkmez</a></li>
+<li><a href="/wiki/Yaylakavak_Dam" title="Yaylakavak Dam">Yaylakavak</a></li>
+<li><a href="/wiki/Yenidere_Dam" title="Yenidere Dam">Yenidere</a></li>
+<li><a href="/wiki/Yortanl%C4%B1_Dam" title="Yortanlı Dam">Yortanlı</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Black_Sea_Region" title="Black Sea Region">Black Sea<br/>Region</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ak%C3%A7ay_Dam" title="Akçay Dam">Akçay</a></li>
+<li><a href="/wiki/Alaca_Dam" title="Alaca Dam">Alaca</a></li>
+<li><a href="/wiki/Almus_Dam" title="Almus Dam">Almus</a></li>
+<li><a href="/wiki/Alpu_Dam" title="Alpu Dam">Alpu</a></li>
+<li><a href="/wiki/Alt%C4%B1nkaya_Dam" title="Altınkaya Dam">Altınkaya</a></li>
+<li><a href="/wiki/Atak%C3%B6y_Dam" title="Ataköy Dam">Ataköy</a></li>
+<li><a href="/wiki/Atasu_Dam" title="Atasu Dam">Atasu</a></li>
+<li><a href="/wiki/Aksu_Dam" title="Aksu Dam">Aksu</a></li>
+<li><a href="/wiki/Arkun_Dam" title="Arkun Dam">Arkun</a></li>
+<li><a href="/wiki/Artvin_Dam" title="Artvin Dam">Artvin</a></li>
+<li><a href="/wiki/Belp%C4%B1nar_Dam" title="Belpınar Dam">Belpınar</a></li>
+<li><a href="/wiki/Beyler_Dam" title="Beyler Dam">Beyler</a></li>
+<li><a href="/wiki/Bezirgan_Dam" title="Bezirgan Dam">Bezirgan</a></li>
+<li><a href="/wiki/Bor%C3%A7ka_Dam" title="Borçka Dam">Borçka</a></li>
+<li><a href="/wiki/Boyabat_Dam" title="Boyabat Dam">Boyabat</a></li>
+<li><a href="/wiki/Boztepe_Dam_(Tokat)" title="Boztepe Dam (Tokat)">Boztepe (Tokat)</a></li>
+<li><a href="/wiki/%C3%87akmak_Dam_(Samsun)" title="Çakmak Dam (Samsun)">Çakmak (Samsun)</a></li>
+<li><a href="/wiki/%C3%87atak_Dam" title="Çatak Dam">Çatak</a></li>
+<li><a href="/wiki/%C3%87orum_Dam" title="Çorum Dam">Çorum</a></li>
+<li><a href="/wiki/Demir%C3%B6z%C3%BC_Dam" title="Demirözü Dam">Demirözü</a></li>
+<li><a href="/wiki/Derbent_Dam" title="Derbent Dam">Derbent</a></li>
+<li><a href="/wiki/Deriner_Dam" title="Deriner Dam">Deriner</a></li>
+<li><a href="/wiki/Derin%C3%B6z_Dam" title="Derinöz Dam">Derinöz</a></li>
+<li><a href="/wiki/Dodurga_Dam" title="Dodurga Dam">Dodurga</a></li>
+<li><a href="/wiki/Erfelek_Dam" title="Erfelek Dam">Erfelek</a></li>
+<li><a href="/wiki/Germe%C3%A7tepe_Dam" title="Germeçtepe Dam">Germeçtepe</a></li>
+<li><a href="/wiki/G%C3%B6lk%C3%B6y_Dam" title="Gölköy Dam">Gölköy</a></li>
+<li><a href="/wiki/G%C3%BCll%C3%BCba%C4%9F_Dam" title="Güllübağ Dam">Güllübağ</a></li>
+<li><a href="/wiki/G%C3%BCl%C3%BC%C3%A7_Dam" title="Gülüç Dam">Gülüç</a></li>
+<li><a href="/wiki/G%C3%BCzelce_Dam" title="Güzelce Dam">Güzelce</a></li>
+<li><a href="/wiki/Hasan_U%C4%9Furlu_Dam" title="Hasan Uğurlu Dam">Hasan Uğurlu</a></li>
+<li><a href="/wiki/Hasanlar_Dam" title="Hasanlar Dam">Hasanlar</a></li>
+<li><a href="/wiki/Hatap_Dam" title="Hatap Dam">Hatap</a></li>
+<li><a href="/wiki/Kara%C3%A7omak_Dam" title="Karaçomak Dam">Karaçomak</a></li>
+<li><a href="/wiki/Karadere_Dam" title="Karadere Dam">Karadere</a></li>
+<li><a href="/wiki/K%C4%B1z%C4%B1lcap%C4%B1nar_Dam" title="Kızılcapınar Dam">Kızılcapınar</a></li>
+<li><a href="/wiki/Kirazl%C4%B1k%C3%B6pr%C3%BC_Dam" title="Kirazlıköprü Dam">Kirazlıköprü</a></li>
+<li><a href="/wiki/Ko%C3%A7hisar_Dam" title="Koçhisar Dam">Koçhisar</a></li>
+<li><a href="/wiki/Koruluk_Dam" title="Koruluk Dam">Koruluk</a></li>
+<li><a href="/wiki/Kozlu_Dam" title="Kozlu Dam">Kozlu</a></li>
+<li><a href="/wiki/K%C3%B6pr%C3%BCba%C5%9F%C4%B1_Dam" title="Köprübaşı Dam">Köprübaşı</a></li>
+<li><a href="/wiki/K%C3%B6se_Dam" title="Köse Dam">Köse</a></li>
+<li><a href="/wiki/Kulaks%C4%B1zlar_Dam" title="Kulaksızlar Dam">Kulaksızlar</a></li>
+<li><a href="/wiki/K%C3%BCrt%C3%BCn_Dam" title="Kürtün Dam">Kürtün</a></li>
+<li><a href="/wiki/Laleli_Dam" title="Laleli Dam">Laleli</a></li>
+<li><a href="/wiki/Muratl%C4%B1_Dam" title="Muratlı Dam">Muratlı</a></li>
+<li><a href="/wiki/Obruk_Dam" title="Obruk Dam">Obruk</a></li>
+<li><a href="/wiki/Ondokuzmay%C4%B1s_Dam" title="Ondokuzmayıs Dam">Ondokuzmayıs</a></li>
+<li><a href="/wiki/Sarayd%C3%BCz%C3%BC_Dam" title="Saraydüzü Dam">Saraydüzü</a></li>
+<li><a href="/wiki/Saray%C3%B6z%C3%BC_Dam" title="Sarayözü Dam">Sarayözü</a></li>
+<li><a href="/wiki/Suat_U%C4%9Furlu_Dam" title="Suat Uğurlu Dam">Suat Uğurlu</a></li>
+<li><a href="/wiki/Top%C3%A7am_Dam_(Ordu)" title="Topçam Dam (Ordu)">Topçam (Ordu)</a></li>
+<li><a href="/wiki/Tortum_Dam" title="Tortum Dam">Tortum</a></li>
+<li><a href="/wiki/Torul_Dam" title="Torul Dam">Torul</a></li>
+<li><a href="/wiki/Uluk%C3%B6y_Dam" title="Uluköy Dam">Uluköy</a></li>
+<li><a href="/wiki/Vezirk%C3%B6pr%C3%BC_Dam" title="Vezirköprü Dam">Vezirköprü</a></li>
+<li><a href="/wiki/Yedik%C4%B1r_Dam" title="Yedikır Dam">Yedikır</a></li>
+<li><a href="/wiki/Yenihayat_Dam" title="Yenihayat Dam">Yenihayat</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Central_Anatolia_Region_(geographical)" title="Central Anatolia Region (geographical)">Central<br/>Anatolia<br/>Region</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/4_Eyl%C3%BCl_Dam" title="4 Eylül Dam">4 Eylül</a></li>
+<li><a href="/wiki/A%C4%9Fca%C5%9Far_Dam" title="Ağcaşar Dam">Ağcaşar</a></li>
+<li><a href="/wiki/Akhasan_Dam" title="Akhasan Dam">Akhasan</a></li>
+<li><a href="/wiki/Akkaya_Dam" title="Akkaya Dam">Akkaya</a></li>
+<li><a href="/wiki/Akk%C3%B6y_Dam" title="Akköy Dam">Akköy</a></li>
+<li><a href="/wiki/Akyar_Dam" title="Akyar Dam">Akyar</a></li>
+<li><a href="/wiki/Alt%C4%B1napa_Dam" title="Altınapa Dam">Altınapa</a></li>
+<li><a href="/wiki/Alt%C4%B1nhisar_Dam" title="Altınhisar Dam">Altınhisar</a></li>
+<li><a href="/wiki/Apa_Dam" title="Apa Dam">Apa</a></li>
+<li><a href="/wiki/Asartepe_Dam" title="Asartepe Dam">Asartepe</a></li>
+<li><a class="mw-redirect" href="/wiki/A%C5%9Fa%C4%9F%C4%B1_Kara%C3%B6ren_Dam" title="Aşağı Karaören Dam">Aşağı Karaören</a></li>
+<li><a href="/wiki/Ayhanlar_Dam" title="Ayhanlar Dam">Ayhanlar</a></li>
+<li><a href="/wiki/Ayranc%C4%B1_Dam" title="Ayrancı Dam">Ayrancı</a></li>
+<li><a href="/wiki/Bah%C3%A7elik_Dam" title="Bahçelik Dam">Bahçelik</a></li>
+<li><a href="/wiki/Bay%C4%B1nd%C4%B1r_Dam" title="Bayındır Dam">Bayındır</a></li>
+<li><a href="/wiki/Beylikova_Dam" title="Beylikova Dam">Beylikova</a></li>
+<li><a href="/wiki/Bozk%C4%B1r_Dam" title="Bozkır Dam">Bozkır</a></li>
+<li><a href="/wiki/%C3%87aml%C4%B1dere_Dam" title="Çamlıdere Dam">Çamlıdere</a></li>
+<li><a href="/wiki/%C3%87aml%C4%B1g%C3%B6ze_Dam" title="Çamlıgöze Dam">Çamlıgöze</a></li>
+<li><a href="/wiki/%C3%87at%C3%B6ren_Dam" title="Çatören Dam">Çatören</a></li>
+<li><a href="/wiki/%C3%87o%C4%9Fun_Dam" title="Çoğun Dam">Çoğun</a></li>
+<li><a href="/wiki/%C3%87ubuk-1_Dam" title="Çubuk-1 Dam">Çubuk-1</a></li>
+<li><a href="/wiki/%C3%87ubuk-2_Dam" title="Çubuk-2 Dam">Çubuk-2</a></li>
+<li><a href="/wiki/Damsa_Dam" title="Damsa Dam">Damsa</a></li>
+<li><a href="/wiki/Deli%C3%A7ay_Dam" title="Deliçay Dam">Deliçay</a></li>
+<li><a href="/wiki/Derebucak_Dam" title="Derebucak Dam">Derebucak</a></li>
+<li><a href="/wiki/Doyduk_Dam" title="Doyduk Dam">Doyduk</a></li>
+<li><a href="/wiki/Ermenek_Dam" title="Ermenek Dam">Ermenek</a></li>
+<li><a href="/wiki/E%C4%9Frekkaya_Dam" title="Eğrekkaya Dam">Eğrekkaya</a></li>
+<li><a href="/wiki/E%C5%9Fmekaya_Dam" title="Eşmekaya Dam">Eşmekaya</a></li>
+<li><a href="/wiki/Gazibey_Dam" title="Gazibey Dam">Gazibey</a></li>
+<li><a href="/wiki/Gebere_Dam" title="Gebere Dam">Gebere</a></li>
+<li><a href="/wiki/Geling%C3%BCll%C3%BC_Dam" title="Gelingüllü Dam">Gelingüllü</a></li>
+<li><a href="/wiki/G%C3%B6det_Dam" title="Gödet Dam">Gödet</a></li>
+<li><a href="/wiki/G%C3%B6k%C3%A7ekaya_Dam" title="Gökçekaya Dam">Gökçekaya</a></li>
+<li><a href="/wiki/G%C3%B6lova_Dam" title="Gölova Dam">Gölova</a></li>
+<li><a href="/wiki/G%C3%BCld%C3%BCrcek_Dam" title="Güldürcek Dam">Güldürcek</a></li>
+<li><a href="/wiki/G%C3%BCm%C3%BC%C5%9Fler_Dam" title="Gümüşler Dam">Gümüşler</a></li>
+<li><a href="/wiki/G%C3%BCrs%C3%B6%C4%9F%C3%BCt_Dam" title="Gürsöğüt Dam">Gürsöğüt</a></li>
+<li><a href="/wiki/Hirfanl%C4%B1_Dam" title="Hirfanlı Dam">Hirfanlı</a></li>
+<li><a href="/wiki/%C4%B0brala_Dam" title="İbrala Dam">İbrala</a></li>
+<li><a href="/wiki/%C4%B0mranl%C4%B1_Dam" title="İmranlı Dam">İmranlı</a></li>
+<li><a href="/wiki/%C4%B0vriz_Dam" title="İvriz Dam">İvriz</a></li>
+<li><a href="/wiki/Kapulukaya_Dam" title="Kapulukaya Dam">Kapulukaya</a></li>
+<li><a href="/wiki/Karacalar_Dam" title="Karacalar Dam">Karacalar</a></li>
+<li><a href="/wiki/Karaova_Dam" title="Karaova Dam">Karaova</a></li>
+<li><a href="/wiki/Karg%C4%B1_Dam" title="Kargı Dam">Kargı</a></li>
+<li><a href="/wiki/Kaymaz_Dam" title="Kaymaz Dam">Kaymaz</a></li>
+<li><a href="/wiki/Kesikk%C3%B6pr%C3%BC_Dam" title="Kesikköprü Dam">Kesikköprü</a></li>
+<li><a href="/wiki/K%C4%B1l%C4%B1%C3%A7kaya_Dam" title="Kılıçkaya Dam">Kılıçkaya</a></li>
+<li><a href="/wiki/Koval%C4%B1_Dam" title="Kovalı Dam">Kovalı</a></li>
+<li><a href="/wiki/Kunduzlar_Dam" title="Kunduzlar Dam">Kunduzlar</a></li>
+<li><a href="/wiki/Kurtbo%C4%9Faz%C4%B1_Dam" title="Kurtboğazı Dam">Kurtboğazı</a></li>
+<li><a href="/wiki/Kuzf%C4%B1nd%C4%B1k_Dam" title="Kuzfındık Dam">Kuzfındık</a></li>
+<li><a href="/wiki/K%C3%BCltepe_Dam" title="Kültepe Dam">Kültepe</a></li>
+<li><a href="/wiki/Maksutlu_Dam" title="Maksutlu Dam">Maksutlu</a></li>
+<li><a href="/wiki/Mamas%C4%B1n_Dam" title="Mamasın Dam">Mamasın</a></li>
+<li><a href="/wiki/May_Dam" title="May Dam">May</a></li>
+<li><a href="/wiki/Mursal_Dam" title="Mursal Dam">Mursal</a></li>
+<li><a href="/wiki/Murtaza_Dam" title="Murtaza Dam">Murtaza</a></li>
+<li><a href="/wiki/Musa%C3%B6z%C3%BC_Dam" title="Musaözü Dam">Musaözü</a></li>
+<li><a href="/wiki/%C3%96zen_Dam" title="Özen Dam">Özen</a></li>
+<li><a href="/wiki/Porsuk_Dam" title="Porsuk Dam">Porsuk</a></li>
+<li><a href="/wiki/Sar%C4%B1msakl%C4%B1_Dam" title="Sarımsaklı Dam">Sarımsaklı</a></li>
+<li><a href="/wiki/Sar%C4%B1o%C4%9Flan_Dam" title="Sarıoğlan Dam">Sarıoğlan</a></li>
+<li><a href="/wiki/Sar%C4%B1yar_Dam" title="Sarıyar Dam">Sarıyar</a></li>
+<li><a href="/wiki/S%C4%B1dd%C4%B1kl%C4%B1_Dam" title="Sıddıklı Dam">Sıddıklı</a></li>
+<li><a href="/wiki/Sille_Dam" title="Sille Dam">Sille</a></li>
+<li><a href="/wiki/S%C3%BCreyyabey_Dam" title="Süreyyabey Dam">Süreyyabey</a></li>
+<li><a href="/wiki/Tatlarin_Dam" title="Tatlarin Dam">Tatlarin</a></li>
+<li><a href="/wiki/Uzunlu_Dam" title="Uzunlu Dam">Uzunlu</a></li>
+<li><a href="/wiki/Yahyasaray_Dam" title="Yahyasaray Dam">Yahyasaray</a></li>
+<li><a href="/wiki/Yamula_Dam_and_Hydroelectric_Plant" title="Yamula Dam and Hydroelectric Plant">Yamula</a></li>
+<li><a href="/wiki/Yap%C4%B1alt%C4%B1n_Dam" title="Yapıaltın Dam">Yapıaltın</a></li>
+<li><a href="/wiki/Yenice_Dam" title="Yenice Dam">Yenice</a></li>
+<li><a href="/wiki/Ye%C5%9Filbur%C3%A7_Dam" title="Yeşilburç Dam">Yeşilburç</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Eastern_Anatolia_Region" title="Eastern Anatolia Region">Eastern<br/>Anatolia<br/>Region</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alkumru_Dam" title="Alkumru Dam">Alkumru</a></li>
+<li><a href="/wiki/Alpaslan-1_Dam" title="Alpaslan-1 Dam">Alpaslan-1</a></li>
+<li><a href="/wiki/Alpaslan-2_Dam" title="Alpaslan-2 Dam">Alpaslan-2</a></li>
+<li><a class="mw-redirect" href="/wiki/Arpa%C3%A7ay_Dam" title="Arpaçay Dam">Arpaçay</a></li>
+<li><a href="/wiki/Ba%C4%9F%C4%B1%C5%9Fta%C5%9F_1_Dam" title="Bağıştaş 1 Dam">Bağıştaş 1</a></li>
+<li><a href="/wiki/Ba%C4%9F%C4%B1%C5%9Fta%C5%9F_2_Dam" title="Bağıştaş 2 Dam">Bağıştaş 2</a></li>
+<li><a href="/wiki/Ba%C5%9Fk%C3%B6y_Dam" title="Başköy Dam">Başköy</a></li>
+<li><a href="/wiki/Bayburt_Dam" title="Bayburt Dam">Bayburt</a></li>
+<li><a href="/wiki/Boztepe_Dam_(Malatya)" title="Boztepe Dam (Malatya)">Boztepe (Malatya)</a> • <a href="/wiki/Cip_Dam" title="Cip Dam">Cip</a></li>
+<li><a href="/wiki/%C3%87amgazi_Dam" title="Çamgazi Dam">Çamgazi</a></li>
+<li><a href="/wiki/%C3%87at_Dam" title="Çat Dam">Çat</a></li>
+<li><a href="/wiki/%C3%87%C4%B1ld%C4%B1r_Dam" title="Çıldır Dam">Çıldır</a></li>
+<li><a href="/wiki/%C3%87ocuktepe_Dam" title="Çocuktepe Dam">Çocuktepe</a></li>
+<li><a href="/wiki/Demird%C3%B6ven_Dam" title="Demirdöven Dam">Demirdöven</a></li>
+<li><a href="/wiki/Dilimli_Dam" title="Dilimli Dam">Dilimli</a></li>
+<li><a href="/wiki/Erzincan_Dam" title="Erzincan Dam">Erzincan</a></li>
+<li><a href="/wiki/Gayt_Dam" title="Gayt Dam">Gayt</a></li>
+<li><a href="/wiki/G%C3%BClbahar_Dam" title="Gülbahar Dam">Gülbahar</a></li>
+<li><a href="/wiki/H%C4%B1n%C4%B1s_Ba%C5%9Fk%C3%B6y_Dam" title="Hınıs Başköy Dam">Hınıs Başköy</a></li>
+<li><a href="/wiki/Kalecik_Dam_(Elaz%C4%B1%C4%9F)" title="Kalecik Dam (Elazığ)">Kalecik (Elazığ)</a></li>
+<li><a href="/wiki/Kap%C4%B1kaya_Dam" title="Kapıkaya Dam">Kapıkaya</a></li>
+<li><a href="/wiki/Keban_Dam" title="Keban Dam">Keban</a></li>
+<li><a href="/wiki/K%C4%B1%C4%9F%C4%B1_Dam" title="Kığı Dam">Kığı</a></li>
+<li><a href="/wiki/Ko%C3%A7k%C3%B6pr%C3%BC_Dam" title="Koçköprü Dam">Koçköprü</a></li>
+<li><a href="/wiki/Kuzgun_Dam" title="Kuzgun Dam">Kuzgun</a></li>
+<li><a href="/wiki/Medik_Dam" title="Medik Dam">Medik</a></li>
+<li><a href="/wiki/Morgedik_Dam" title="Morgedik Dam">Morgedik</a></li>
+<li><a href="/wiki/%C3%96zl%C3%BCce_Dam" title="Özlüce Dam">Özlüce</a></li>
+<li><a href="/wiki/Paland%C3%B6ken_Dam" title="Palandöken Dam">Palandöken</a></li>
+<li><a href="/wiki/Patnos_Dam" title="Patnos Dam">Patnos</a></li>
+<li><a href="/wiki/Pazaryolu_Dam" title="Pazaryolu Dam">Pazaryolu</a></li>
+<li><a href="/wiki/Pembelik_Dam" title="Pembelik Dam">Pembelik</a></li>
+<li><a href="/wiki/Polat_Dam" title="Polat Dam">Polat</a></li>
+<li><a href="/wiki/Sar%C4%B1mehmet_Dam" title="Sarımehmet Dam">Sarımehmet</a></li>
+<li><a href="/wiki/Seyrantepe_Dam" title="Seyrantepe Dam">Seyrantepe</a></li>
+<li><a href="/wiki/Sultansuyu_Dam" title="Sultansuyu Dam">Sultansuyu</a></li>
+<li><a href="/wiki/S%C3%BCrg%C3%BC_Dam" title="Sürgü Dam">Sürgü</a></li>
+<li><a href="/wiki/Tatar_Dam" title="Tatar Dam">Tatar</a></li>
+<li><a href="/wiki/Tercan_Dam" title="Tercan Dam">Tercan</a></li>
+<li><a href="/wiki/Uzun%C3%A7ay%C4%B1r_Dam" title="Uzunçayır Dam">Uzunçayır</a></li>
+<li><a href="/wiki/Yaz%C4%B1c%C4%B1_Dam" title="Yazıcı Dam">Yazıcı</a></li>
+<li><a href="/wiki/Yedisu_Dam" title="Yedisu Dam">Yedisu</a></li>
+<li><a href="/wiki/Yoncal%C4%B1_Dam" title="Yoncalı Dam">Yoncalı</a></li>
+<li><a href="/wiki/Zernek_Dam" title="Zernek Dam">Zernek</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Marmara_Region" title="Marmara Region">Marmara<br/>Region</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alibey_Dam" title="Alibey Dam">Alibey</a></li>
+<li><a href="/wiki/Alt%C4%B1nyaz%C4%B1_Dam" title="Altınyazı Dam">Altınyazı</a></li>
+<li><a href="/wiki/Arma%C4%9Fan_Dam" title="Armağan Dam">Armağan</a></li>
+<li><a href="/wiki/Atikhisar_Dam" title="Atikhisar Dam">Atikhisar</a></li>
+<li><a href="/wiki/Ayvac%C4%B1k_Dam" title="Ayvacık Dam">Ayvacık</a></li>
+<li><a href="/wiki/Babasultan_Dam" title="Babasultan Dam">Babasultan</a></li>
+<li><a href="/wiki/Bakacak_Dam" title="Bakacak Dam">Bakacak</a></li>
+<li><a href="/wiki/Bayramdere_Dam" title="Bayramdere Dam">Bayramdere</a></li>
+<li><a href="/wiki/Bayrami%C3%A7_Dam" title="Bayramiç Dam">Bayramiç</a></li>
+<li><a href="/wiki/Bo%C4%9Fazk%C3%B6y_Dam" title="Boğazköy Dam">Boğazköy</a></li>
+<li><a href="/wiki/B%C3%BCy%C3%BCk%C3%A7ekmece_Dam" title="Büyükçekmece Dam">Büyükçekmece</a></li>
+<li><a href="/wiki/B%C3%BCy%C3%BCkorhan_Dam" title="Büyükorhan Dam">Büyükorhan</a></li>
+<li><a href="/wiki/%C3%87akmak_Dam_(Edirne)" title="Çakmak Dam (Edirne)">Çakmak (Edirne)</a></li>
+<li><a href="/wiki/%C3%87amk%C3%B6y_Dam" title="Çamköy Dam">Çamköy</a></li>
+<li><a href="/wiki/%C3%87ayg%C3%B6ren_Dam" title="Çaygören Dam">Çaygören</a></li>
+<li><a href="/wiki/%C3%87%C4%B1narc%C4%B1k_Dam" title="Çınarcık Dam">Çınarcık</a></li>
+<li><a href="/wiki/%C3%87okal_Dam" title="Çokal Dam">Çokal</a></li>
+<li><a href="/wiki/Dar%C4%B1dere_Dam" title="Darıdere Dam">Darıdere</a></li>
+<li><a href="/wiki/Darl%C4%B1k_Dam" title="Darlık Dam">Darlık</a></li>
+<li><a href="/wiki/Demirta%C5%9F_Dam" title="Demirtaş Dam">Demirtaş</a></li>
+<li><a href="/wiki/Devecikona%C4%9F%C4%B1_Dam" title="Devecikonağı Dam">Devecikonağı</a></li>
+<li><a href="/wiki/Do%C4%9Fanc%C4%B1-1_Dam" title="Doğancı-1 Dam">Doğancı</a></li>
+<li><a href="/wiki/Elmal%C4%B1-2_Dam" title="Elmalı-2 Dam">Elmalı-2</a></li>
+<li><a href="/wiki/G%C3%B6k%C3%A7e_Dam" title="Gökçe Dam">Gökçe</a></li>
+<li><a href="/wiki/G%C3%B6k%C3%A7eada_Dam" title="Gökçeada Dam">Gökçeada</a></li>
+<li><a href="/wiki/G%C3%B6lba%C5%9F%C4%B1_Dam" title="Gölbaşı Dam">Gölbaşı</a></li>
+<li><a href="/wiki/G%C3%B6nen_Dam" title="Gönen Dam">Gönen</a></li>
+<li><a href="/wiki/G%C3%BCnyurdu_Dam" title="Günyurdu Dam">Günyurdu</a></li>
+<li><a href="/wiki/Hamzadere_Dam" title="Hamzadere Dam">Hamzadere</a></li>
+<li><a href="/wiki/Hasana%C4%9Fa_Dam" title="Hasanağa Dam">Hasanağa</a></li>
+<li><a href="/wiki/Havran_Dam" title="Havran Dam">Havran</a></li>
+<li><a href="/wiki/%C4%B0kizcetepeler_Dam" title="İkizcetepeler Dam">İkizcetepeler</a></li>
+<li><a href="/wiki/Kad%C4%B1k%C3%B6y_Dam" title="Kadıköy Dam">Kadıköy</a></li>
+<li><a href="/wiki/Karaidemir_Dam" title="Karaidemir Dam">Karaidemir</a></li>
+<li><a href="/wiki/Kayal%C4%B1k%C3%B6y_Dam" title="Kayalıköy Dam">Kayalıköy</a></li>
+<li><a href="/wiki/K%C4%B1rklareli_Dam" title="Kırklareli Dam">Kırklareli</a></li>
+<li><a href="/wiki/K%C4%B1z%C4%B1ldamlar_Dam" title="Kızıldamlar Dam">Kızıldamlar</a></li>
+<li><a href="/wiki/Kirazdere_Dam" title="Kirazdere Dam">Kirazdere</a></li>
+<li><a href="/wiki/Koyuntepe_Dam" title="Koyuntepe Dam">Koyuntepe</a></li>
+<li><a href="/wiki/Madra_Dam" title="Madra Dam">Madra</a></li>
+<li><a href="/wiki/Manyas_Dam" title="Manyas Dam">Manyas</a></li>
+<li><a href="/wiki/New_Dam" title="New Dam">New</a></li>
+<li><a href="/wiki/%C3%96merli_Dam" title="Ömerli Dam">Ömerli</a></li>
+<li><a href="/wiki/Sar%C4%B1beyler_Dam" title="Sarıbeyler Dam">Sarıbeyler</a></li>
+<li><a href="/wiki/Sazl%C4%B1dere_Dam" title="Sazlıdere Dam">Sazlıdere</a></li>
+<li><a href="/wiki/Sultank%C3%B6y_Dam" title="Sultanköy Dam">Sultanköy</a></li>
+<li><a href="/wiki/S%C3%BClo%C4%9Flu_Dam" title="Süloğlu Dam">Süloğlu</a></li>
+<li><a href="/wiki/Ta%C5%9Foluk_Dam" title="Taşoluk Dam">Taşoluk</a></li>
+<li><a href="/wiki/Tayfur_Dam" title="Tayfur Dam">Tayfur</a></li>
+<li><a href="/wiki/Terkos_Dam" title="Terkos Dam">Terkos</a></li>
+<li><a href="/wiki/Topuzlu_Dam" title="Topuzlu Dam">Topuzlu</a></li>
+<li><a href="/wiki/Umurbey_Dam" title="Umurbey Dam">Umurbey</a></li>
+<li><a href="/wiki/Valide_Dam" title="Valide Dam">Valide</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Mediterranean_Region" title="Mediterranean Region">Mediterranean<br/>Region</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adatepe_Dam" title="Adatepe Dam">Adatepe</a></li>
+<li><a href="/wiki/Alak%C4%B1r_Dam" title="Alakır Dam">Alakır</a></li>
+<li><a href="/wiki/Alak%C3%B6pr%C3%BC_Dam" title="Alaköprü Dam">Alaköprü</a></li>
+<li><a href="/wiki/Aslanta%C5%9F_Dam" title="Aslantaş Dam">Aslantaş</a></li>
+<li><a href="/wiki/Ayval%C4%B1_Dam" title="Ayvalı Dam">Ayvalı</a></li>
+<li><a href="/wiki/Bademli_Dam" title="Bademli Dam">Bademli</a></li>
+<li><a href="/wiki/Belkaya_Dam" title="Belkaya Dam">Belkaya</a></li>
+<li><a href="/wiki/Berdan_Dam" title="Berdan Dam">Berdan</a></li>
+<li><a href="/wiki/Berke_Dam" title="Berke Dam">Berke</a></li>
+<li><a class="mw-redirect" href="/wiki/Birkap%C4%B1l%C4%B1_Dam" title="Birkapılı Dam">Birkapılı</a></li>
+<li><a href="/wiki/%C3%87atalan_Dam" title="Çatalan Dam">Çatalan</a></li>
+<li><a href="/wiki/%C3%87avd%C4%B1r_Dam" title="Çavdır Dam">Çavdır</a></li>
+<li><a href="/wiki/%C3%87aybo%C4%9Faz%C4%B1_Dam" title="Çayboğazı Dam">Çayboğazı</a></li>
+<li><a href="/wiki/Dim_Dam" title="Dim Dam">Dim</a></li>
+<li><a href="/wiki/Gezende_Dam" title="Gezende Dam">Gezende</a></li>
+<li><a href="/wiki/G%C3%B6kta%C5%9F_Dam" title="Göktaş Dam">Göktaş</a></li>
+<li><a href="/wiki/Kalecik_Dam_(Osmaniye)" title="Kalecik Dam (Osmaniye)">Kalecik (Osmaniye)</a></li>
+<li><a href="/wiki/Karaca%C3%B6ren-1_Dam" title="Karacaören-1 Dam">Karacaören I</a></li>
+<li><a href="/wiki/Karaca%C3%B6ren-2_Dam" title="Karacaören-2 Dam">Karacaören II</a></li>
+<li><a href="/wiki/Kara%C3%A7al_Dam" title="Karaçal Dam">Karaçal</a></li>
+<li><a href="/wiki/Karamanl%C4%B1_Dam" title="Karamanlı Dam">Karamanlı</a></li>
+<li><a class="mw-redirect" href="/wiki/Kad%C4%B1nc%C4%B1k_1" title="Kadıncık 1">Kadıncık 1</a></li>
+<li><a class="mw-redirect" href="/wiki/Kad%C4%B1nc%C4%B1k_2" title="Kadıncık 2">Kadıncık 2</a></li>
+<li><a href="/wiki/Kartalkaya_Dam" title="Kartalkaya Dam">Kartalkaya</a></li>
+<li><a href="/wiki/Kayraktepe_Dam" title="Kayraktepe Dam">Kayraktepe</a></li>
+<li><a href="/wiki/K%C3%B6pr%C3%BC_Dam" title="Köprü Dam">Köprü</a></li>
+<li><a href="/wiki/K%C4%B1lavuzlu_Dam" title="Kılavuzlu Dam">Kılavuzlu</a></li>
+<li><a href="/wiki/K%C4%B1z%C4%B1lsu_Dam" title="Kızılsu Dam">Kızılsu</a></li>
+<li><a href="/wiki/Kav%C5%9Fak_Bendi_Dam" title="Kavşak Bendi Dam">Kavşak Bendi</a></li>
+<li><a href="/wiki/Korkuteli_Dam" title="Korkuteli Dam">Korkuteli</a></li>
+<li><a href="/wiki/Koza%C4%9Fac%C4%B1_Dam" title="Kozağacı Dam">Kozağacı</a></li>
+<li><a href="/wiki/Kozan_Dam" title="Kozan Dam">Kozan</a></li>
+<li><a href="/wiki/Manavgat_Dam" title="Manavgat Dam">Manavgat</a></li>
+<li><a href="/wiki/Mehmetli_Dam" title="Mehmetli Dam">Mehmetli</a></li>
+<li><a href="/wiki/Menzelet_Dam" title="Menzelet Dam">Menzelet</a></li>
+<li><a href="/wiki/Nergizlik_Dam" title="Nergizlik Dam">Nergizlik</a></li>
+<li><a href="/wiki/Ona%C3%A7-1_Dam" title="Onaç-1 Dam">Onaç-1</a></li>
+<li><a href="/wiki/Ona%C3%A7-2_Dam" title="Onaç-2 Dam">Onaç-2</a></li>
+<li><a href="/wiki/Otluca_HES" title="Otluca HES">Otluca</a></li>
+<li><a class="mw-redirect" href="/wiki/Oymap%C4%B1nar_Dam" title="Oymapınar Dam">Oymapınar</a></li>
+<li><a href="/wiki/Seyhan_Dam" title="Seyhan Dam">Seyhan</a></li>
+<li><a href="/wiki/S%C4%B1r_Dam" title="Sır Dam">Sır</a></li>
+<li><a href="/wiki/Sorgun_Dam" title="Sorgun Dam">Sorgun</a></li>
+<li><a href="/wiki/S%C3%BCc%C3%BCll%C3%BC_Dam" title="Sücüllü Dam">Sücüllü</a></li>
+<li><a href="/wiki/Tahtak%C3%B6pr%C3%BC_Dam" title="Tahtaköprü Dam">Tahtaköprü</a></li>
+<li><a href="/wiki/Uluborlu_Dam" title="Uluborlu Dam">Uluborlu</a></li>
+<li><a href="/wiki/Yaprakl%C4%B1_Dam" title="Yapraklı Dam">Yapraklı</a></li>
+<li><a href="/wiki/Yarseli_Dam" title="Yarseli Dam">Yarseli</a></li>
+<li><a class="mw-redirect" href="/wiki/Yaylada%C4%9F%C4%B1_Dam" title="Yayladağı Dam">Yayladağı</a></li>
+<li><a href="/wiki/Yedig%C3%B6ze_Dam" title="Yedigöze Dam">Yedigöze</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Southeastern_Anatolia_Region" title="Southeastern Anatolia Region">Southeastern<br/>Anatolia<br/>Region</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lower_Kalek%C3%B6y_Dam" title="Lower Kaleköy Dam">Lower Kaleköy</a></li>
+<li><a href="/wiki/Atat%C3%BCrk_Dam" title="Atatürk Dam">Atatürk</a></li>
+<li><a href="/wiki/Batman_Dam" title="Batman Dam">Batman</a></li>
+<li><a href="/wiki/Balli_Dam" title="Balli Dam">Balli</a></li>
+<li><a href="/wiki/Beyhan_I_Dam" title="Beyhan I Dam">Beyhan I</a></li>
+<li><a href="/wiki/Beyhan_II_Dam" title="Beyhan II Dam">Beyhan II</a></li>
+<li><a class="mw-selflink selflink">Beyyurdu</a></li>
+<li><a href="/wiki/Birecik_Dam" title="Birecik Dam">Birecik</a></li>
+<li><a href="/wiki/Bur%C3%A7_Bendi_Dam" title="Burç Bendi Dam">Burç Bendi</a></li>
+<li><a href="/wiki/%C3%87etintepe_Dam" title="Çetintepe Dam">Çetintepe</a></li>
+<li><a href="/wiki/%C3%87etin_Dam" title="Çetin Dam">Çetin</a></li>
+<li><a href="/wiki/Cizre_Dam" title="Cizre Dam">Cizre</a></li>
+<li><a href="/wiki/Devege%C3%A7idi_Dam" title="Devegeçidi Dam">Devegeçidi</a></li>
+<li><a href="/wiki/Dicle_Dam" title="Dicle Dam">Dicle</a></li>
+<li><a href="/wiki/Dumluca_Dam" title="Dumluca Dam">Dumluca</a></li>
+<li><a href="/wiki/Erkenek_Dam" title="Erkenek Dam">Erkenek</a></li>
+<li><a href="/wiki/Garzan_Dam" title="Garzan Dam">Garzan</a></li>
+<li><a href="/wiki/G%C3%B6ksu_Dam" title="Göksu Dam">Göksu</a></li>
+<li><a href="/wiki/Hac%C4%B1h%C4%B1d%C4%B1r_Dam" title="Hacıhıdır Dam">Hacıhıdır</a></li>
+<li><a href="/wiki/Hanca%C4%9F%C4%B1z_Dam" title="Hancağız Dam">Hancağız</a></li>
+<li><a href="/wiki/Il%C4%B1su_Dam" title="Ilısu Dam">Ilısu</a></li>
+<li><a href="/wiki/Karakaya_Dam" title="Karakaya Dam">Karakaya</a></li>
+<li><a href="/wiki/Karkam%C4%B1%C5%9F_Dam" title="Karkamış Dam">Karkamış</a></li>
+<li><a href="/wiki/Kayac%C4%B1k_Dam" title="Kayacık Dam">Kayacık</a></li>
+<li><a href="/wiki/Kirazl%C4%B1k_Dam" title="Kirazlık Dam">Kirazlık</a></li>
+<li><a href="/wiki/Kralk%C4%B1z%C4%B1_Dam" title="Kralkızı Dam">Kralkızı</a></li>
+<li><a href="/wiki/Seve_Dam" title="Seve Dam">Seve</a></li>
+<li><a href="/wiki/Silopi_Dam" title="Silopi Dam">Silopi</a></li>
+<li><a href="/wiki/Silvan_Dam" title="Silvan Dam">Silvan</a></li>
+<li><a href="/wiki/S%C4%B1r%C4%B1mta%C5%9F_Dam" title="Sırımtaş Dam">Sırımtaş</a></li>
+<li><a href="/wiki/%C5%9E%C4%B1rnak_Dam" title="Şırnak Dam">Şırnak</a></li>
+<li><a href="/wiki/Uludere_Dam" title="Uludere Dam">Uludere</a></li>
+<li><a href="/wiki/Upper_Kalek%C3%B6y_Dam" title="Upper Kaleköy Dam">Upper Kaleköy</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Dams_in_Turkey" title="Category:Dams in Turkey">Dams by province</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Hydroelectric_power_stations_in_Turkey" title="Category:Hydroelectric power stations in Turkey">Hydroelectric power stations</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20191217201335
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.444 seconds
+Real time usage: 0.556 seconds
+Preprocessor visited node count: 1752/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 79614/2097152 bytes
+Template argument size: 8834/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 29876/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.209/10.000 seconds
+Lua memory usage: 6.16 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  433.305      1 -total
+ 53.79%  233.079      1 Template:Infobox_dam
+ 35.56%  154.092      1 Template:Reflist
+ 32.58%  141.174      1 Template:Infobox
+ 30.31%  131.325     10 Template:Cite_web
+ 18.04%   78.179      1 Template:Short_description
+ 10.04%   43.488      6 Template:Convert
+  9.35%   40.514      1 Template:Dams_and_reservoirs_in_Turkey
+  8.21%   35.588      1 Template:Delink
+  8.15%   35.313      1 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40133589-0!canonical and timestamp 20191217201334 and revision id 915586845
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Beyyurdu_Dam&amp;oldid=915586845">https://en.wikipedia.org/w/index.php?title=Beyyurdu_Dam&amp;oldid=915586845</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Dams_in_Hakk%C3%A2ri_Province" title="Category:Dams in Hakkâri Province">Dams in Hakkâri Province</a></li><li><a href="/wiki/Category:Gravity_dams" title="Category:Gravity dams">Gravity dams</a></li><li><a href="/wiki/Category:Dams_under_construction" title="Category:Dams under construction">Dams under construction</a></li><li><a href="/wiki/Category:Dams_in_the_Tigris_River_basin" title="Category:Dams in the Tigris River basin">Dams in the Tigris River basin</a></li><li><a href="/wiki/Category:Roller-compacted_concrete_dams" title="Category:Roller-compacted concrete dams">Roller-compacted concrete dams</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Turkish-language_sources_(tr)" title="Category:CS1 Turkish-language sources (tr)">CS1 Turkish-language sources (tr)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Beyyurdu+Dam" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Beyyurdu+Dam" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Beyyurdu_Dam" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Beyyurdu_Dam" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Beyyurdu_Dam">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Beyyurdu_Dam&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Beyyurdu_Dam&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Beyyurdu_Dam" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Beyyurdu_Dam" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Beyyurdu_Dam&amp;oldid=915586845" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Beyyurdu_Dam&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q15198860" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Beyyurdu_Dam&amp;id=915586845" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Beyyurdu+Dam">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Beyyurdu+Dam&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Beyyurdu_Dam&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q15198860#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 September 2019, at 04:28<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Beyyurdu_Dam&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.444","walltime":"0.556","ppvisitednodes":{"value":1752,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":79614,"limit":2097152},"templateargumentsize":{"value":8834,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":29876,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  433.305      1 -total"," 53.79%  233.079      1 Template:Infobox_dam"," 35.56%  154.092      1 Template:Reflist"," 32.58%  141.174      1 Template:Infobox"," 30.31%  131.325     10 Template:Cite_web"," 18.04%   78.179      1 Template:Short_description"," 10.04%   43.488      6 Template:Convert","  9.35%   40.514      1 Template:Dams_and_reservoirs_in_Turkey","  8.21%   35.588      1 Template:Delink","  8.15%   35.313      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.209","limit":"10.000"},"limitreport-memusage":{"value":6454899,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20191217201335","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Beyyurdu Dam","url":"https:\/\/en.wikipedia.org\/wiki\/Beyyurdu_Dam","sameAs":"http:\/\/www.wikidata.org\/entity\/Q15198860","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q15198860","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-08-02T05:21:43Z","dateModified":"2019-09-14T04:28:03Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/ea\/Turkey_relief_location_map.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":118,"wgHostname":"mw1239"});});</script>
+
+
+</body></html>

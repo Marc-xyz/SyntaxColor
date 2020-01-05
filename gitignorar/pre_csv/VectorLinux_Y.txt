@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>VectorLinux - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqITQpAAD8AAILfPe0AAABM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"VectorLinux","wgTitle":"VectorLinux","wgCurRevisionId":916600893,"wgRevisionId":916600893,"wgArticleId":1592267,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from July 2019","All articles needing additional references","Official website different in Wikidata and Wikipedia","Slackware","Linux distributions without systemd"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"VectorLinux","wgRelevantArticleId":1592267,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1074973","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
+"ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/6/6f/VectorLinux_7_GOLD.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/VectorLinux" rel="alternate"/>
+<link href="/w/index.php?title=VectorLinux&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=VectorLinux&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/VectorLinux" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-VectorLinux rootpage-VectorLinux skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">VectorLinux</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" decoding="async" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=VectorLinux&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br/><small><span class="plainlinks"><i>Find sources:</i> <a class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22VectorLinux%22" rel="nofollow">"VectorLinux"</a> – <a class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22VectorLinux%22+-wikipedia" rel="nofollow">news</a> <b>·</b> <a class="external text" href="//www.google.com/search?&amp;q=%22VectorLinux%22+site:news.google.com/newspapers&amp;source=newspapers" rel="nofollow">newspapers</a> <b>·</b> <a class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22VectorLinux%22+-wikipedia" rel="nofollow">books</a> <b>·</b> <a class="external text" href="//scholar.google.com/scholar?q=%22VectorLinux%22" rel="nofollow">scholar</a> <b>·</b> <a class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22VectorLinux%22&amp;acc=on&amp;wc=on" rel="nofollow">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">July 2019</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p><br/>
+</p><table class="infobox vevent" style="width:22em"><caption class="summary">VectorLinux</caption><tbody><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:VectorLinux_7_GOLD.png"><img alt="VectorLinux 7 GOLD.png" data-file-height="771" data-file-width="1024" decoding="async" height="226" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/VectorLinux_7_GOLD.png/300px-VectorLinux_7_GOLD.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/VectorLinux_7_GOLD.png/450px-VectorLinux_7_GOLD.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/VectorLinux_7_GOLD.png/600px-VectorLinux_7_GOLD.png 2x" width="300"/></a><div>Standard Edition Gold 7.0</div></td></tr><tr><th scope="row" style="white-space: nowrap;"><a class="mw-redirect" href="/wiki/Software_developer" title="Software developer">Developer</a></th><td>Robert S. Lange; Darrell Stavem</td></tr><tr><th scope="row" style="white-space: nowrap;">OS family</th><td><a href="/wiki/Unix-like" title="Unix-like">Unix-like</a></td></tr><tr><th scope="row" style="white-space: nowrap;">Working state</th><td>Current</td></tr><tr><th scope="row" style="white-space: nowrap;">Source model</th><td><a href="/wiki/Open-source_software" title="Open-source software">Open source</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Latest release</a></th><td>VL 7.2<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> / August 28, 2017<span class="noprint">; 2 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">2017-08-28</span>)</span></td></tr><tr><th scope="row" style="white-space: nowrap;">Platforms</th><td><a href="/wiki/X86-64" title="X86-64">x86-64</a>, <a class="mw-redirect" href="/wiki/I486" title="I486">i486</a><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Kernel_(operating_system)" title="Kernel (operating system)">Kernel</a> type</th><td><a href="/wiki/Monolithic_kernel" title="Monolithic kernel">Monolithic</a></td></tr><tr><th scope="row" style="white-space: nowrap;">Default <a href="/wiki/User_interface" title="User interface">user interface</a></th><td><a href="/wiki/Xfce" title="Xfce">Xfce</a>, <a href="/wiki/KDE" title="KDE">KDE</a>, <a href="/wiki/LXDE" title="LXDE">LXDE</a>, <a href="/wiki/Openbox" title="Openbox">Openbox</a>, <a href="/wiki/JWM" title="JWM">JWM</a>, <a href="/wiki/IceWM" title="IceWM">IceWM</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th><td>Various</td></tr><tr><th scope="row" style="white-space: nowrap;">Official website</th><td><span class="url"><a class="external text" href="http://www.vectorlinux.com" rel="nofollow">www<wbr/>.vectorlinux<wbr/>.com</a></span></td></tr></tbody></table>
+<p><b>VectorLinux</b>, abbreviated VL, is a <a href="/wiki/Linux_distribution" title="Linux distribution">Linux distribution</a> for the <a href="/wiki/X86" title="X86">x86</a> platform based on the <a href="/wiki/Slackware" title="Slackware">Slackware</a> Linux distribution, originally developed by Canadian developers Robert S. Lange and Darell Stavem. Since version 7 the Standard Edition is also available for the <a href="/wiki/X86-64" title="X86-64">x86-64</a> platform, known as VLocity64 7.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Editions"><span class="tocnumber">1</span> <span class="toctext">Editions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#SOHO_Edition_(Discontinued_after_version_7.0)"><span class="tocnumber">1.1</span> <span class="toctext">SOHO Edition (Discontinued after version 7.0)</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Standard_Edition"><span class="tocnumber">1.2</span> <span class="toctext">Standard Edition</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Light_Edition"><span class="tocnumber">1.3</span> <span class="toctext">Light Edition</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Live_Edition"><span class="tocnumber">1.4</span> <span class="toctext">Live Edition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Features"><span class="tocnumber">2</span> <span class="toctext">Features</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Package_management"><span class="tocnumber">2.1</span> <span class="toctext">Package management</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Editions">Editions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VectorLinux&amp;action=edit&amp;section=1" title="Edit section: Editions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Four editions of VectorLinux are maintained: SOHO, Standard, Light and Live.
+</p>
+<h3><span id="SOHO_Edition_.28Discontinued_after_version_7.0.29"></span><span class="mw-headline" id="SOHO_Edition_(Discontinued_after_version_7.0)">SOHO Edition (Discontinued after version 7.0)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VectorLinux&amp;action=edit&amp;section=2" title="Edit section: SOHO Edition (Discontinued after version 7.0)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The SOHO (Small Office/Home Office) Edition is designed for modern computers and is based on the <a href="/wiki/KDE" title="KDE">KDE</a> desktop environment. Applications include <a href="/wiki/LibreOffice" title="LibreOffice">LibreOffice</a>, <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>, the <a href="/wiki/GIMP" title="GIMP">GIMP</a>, <a class="mw-redirect" href="/wiki/Xsane" title="Xsane">Xsane</a>, <a href="/wiki/CUPS" title="CUPS">CUPS</a>, <a class="mw-redirect" href="/wiki/Xara_Xtreme" title="Xara Xtreme">Xara Xtreme</a>, financial applications, and others. A deluxe edition of SOHO, which contains additional applications, is also available.
+</p>
+<h3><span class="mw-headline" id="Standard_Edition">Standard Edition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VectorLinux&amp;action=edit&amp;section=3" title="Edit section: Standard Edition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Standard Edition is a freely downloadable distribution based on <a href="/wiki/Xfce" title="Xfce">Xfce</a> and specifically designed for use on older computers with slower processors and less RAM. The Deluxe Standard Version contains the standard edition plus numerous additional applications specific to that VL version. The CD includes many extra applications which you can add to build the system which best fits your requirements. Additional included applications are Libreoffice and GIMP among many others.
+</p>
+<h3><span class="mw-headline" id="Light_Edition">Light Edition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VectorLinux&amp;action=edit&amp;section=4" title="Edit section: Light Edition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Light Edition is designed for older computers with limited resources. Version 7.2 is based upon the <a href="/wiki/IceWM" title="IceWM">IceWM</a> window manager. It is supplied with Seamonkey as the browser/email client/html editor and includes some of the applications found in the Standard Edition. Additional applications are available through the package manager or by compiling user applications. Light Edition is usable on computers with 256 MB of RAM.
+</p>
+<h3><span class="mw-headline" id="Live_Edition">Live Edition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VectorLinux&amp;action=edit&amp;section=5" title="Edit section: Live Edition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Live Editions are <a class="mw-redirect" href="/wiki/LiveCD" title="LiveCD">bootable</a> CDROMs which contain the VectorLinux operating system on the CD. This enables the user to test a distribution on a system without the need of re-partitioning and installing to the hard drive. It is also possible to install VectorLinux from the Live Edition CD. VectorLinux presently has two Live Editions: Standard and SOHO. The latest edition is a preview of the Deluxe Edition.
+</p><p>The <a href="/wiki/SuperGamer" title="SuperGamer">SuperGamer</a> distribution is based on the <i>VectorLinux</i> code base.
+</p><p>Version 7.1 does not have a live edition. 
+</p><p>Version 7.2 Standard (XFCE) has a live edition. Version 7.2 Light (IceWM) does not have a live edition. 
+</p>
+<h2><span class="mw-headline" id="Features">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VectorLinux&amp;action=edit&amp;section=6" title="Edit section: Features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One prominent feature that all VL versions have in common is the standard installation of system administration applications: VasmCC handles system configuration, while slapt-get with its GUI front-end Gslapt manages software installation and removal.
+</p><p>VasmCC stands for 'Vector Administrative and Services Menu Control Center', and it configures everything from disk partitions to <a href="/wiki/X.Org_Server" title="X.Org Server">X.Org Server</a>. In addition to offering a <a class="mw-redirect" href="/wiki/GUI" title="GUI">GUI</a> interface, a text mode parallel to the GUI VasmCC is available. VasmCC has been available since Vector 2.0 was released and has been upgraded continually over the years, with the addition of GUI functionality in SOHO 3.2. Configuration tools like <a class="new" href="/w/index.php?title=Netconfig&amp;action=edit&amp;redlink=1" title="Netconfig (page does not exist)">netconfig</a> and <a class="new" href="/w/index.php?title=Alsaconf&amp;action=edit&amp;redlink=1" title="Alsaconf (page does not exist)">alsaconf</a> are also available in Vector.
+</p><p>Gslapt is a GUI front-end to the <a href="/wiki/Slapt-get" title="Slapt-get">slapt-get</a> software management tool. Combined with lzma-compression and dependency tracking, the inclusion of Gslapt offers VectorLinux users the ability to quickly install and remove software while avoiding so-called '<a href="/wiki/Dependency_hell" title="Dependency hell">dependency hell</a>.' File compression via <a class="mw-redirect" href="/wiki/Lzma" title="Lzma">lzma</a> allows low and high bandwidth users alike to minimize download times.
+</p>
+<h3><span class="mw-headline" id="Package_management">Package management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VectorLinux&amp;action=edit&amp;section=7" title="Edit section: Package management">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Two graphical frontends have been written for <a href="/wiki/Slapt-get" title="Slapt-get">slapt-get</a>, the backwards-compatible dependency-tracking extension to Slackware's package tools used by VectorLinux. VL-APT was the first, written originally by the Vector developers to serve the need for GUI package installation and management, while gslapt was written by the original developers of slapt-get for the same purpose. Until recently, either option has been viable; however, recent changes in the slapt-get packaging format have made VL-APT obsolete, and the developers of Vector have consequently promoted gslapt as the preferred method of graphical package management.
+</p><p>VL-APT (now deprecated) and gslapt are configured by default to use Vector's repository, which offers the majority of most users' needs. However, alternative sources, including mirrors of the official archives around the world, can be added through their respective configuration menus, or directly, through the textual slapt-getrc configuration. There is criticism, at least partially justified, regarding the size of the Vector package selection. These deficiencies have stimulated significant volunteer and developer response, and many desired software packages have now entered the Vector repository.
+</p><p>In fact, it is not uncommon to use the information in /etc/slackware-version in Vector to download and install Slackware packages from LinuxPackages(dot)net, a common <a href="/wiki/Slackware" title="Slackware">Slackware</a> repository, GnomeSlackBuild, etc.<sup class="reference" id="cite_ref-Slackware_Packages_4-0"><a href="#cite_note-Slackware_Packages-4">[4]</a></sup>
+</p><p>Vector Linux uses .tlz packages (LZMA-packed), though .tbz and .tgz are supported too. Pkgtools are taken from Tukaani Linux project and are non-standard - there are improvements over standard pkgtools in speed of operation, but have not been updated for a while.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VectorLinux&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/56px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Free_and_open-source_software" title="Portal:Free and open-source software">Free and open-source software portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/List_of_Linux_distributions" title="List of Linux distributions">List of Linux distributions</a></li>
+<li><a href="/wiki/Comparison_of_Linux_distributions" title="Comparison of Linux distributions">Comparison of Linux distributions</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VectorLinux&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://forum.vectorlinux.com/index.php?topic=19139.0" rel="nofollow">"UCS 4.4 Release"</a>. 28 August 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">10 July</span> 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UCS+4.4+Release&amp;rft.date=2017-08-28&amp;rft_id=http%3A%2F%2Fforum.vectorlinux.com%2Findex.php%3Ftopic%3D19139.0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVectorLinux"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://distrowatch.com/table.php?distribution=vector" rel="nofollow">"VectorLinux"</a>. <i>DistroWatch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DistroWatch&amp;rft.atitle=VectorLinux&amp;rft_id=https%3A%2F%2Fdistrowatch.com%2Ftable.php%3Fdistribution%3Dvector&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVectorLinux"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://vectorlinux.com/news/VLocity-64-7.0" rel="nofollow">"VLocity-64-7.0"</a>. 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">29 August</span> 2012</span>. <q>The final release of VLocity Linux 64-7.0 is now available</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=VLocity-64-7.0&amp;rft.date=2012&amp;rft_id=http%3A%2F%2Fvectorlinux.com%2Fnews%2FVLocity-64-7.0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVectorLinux"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Slackware_Packages-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Slackware_Packages_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://vectorlinux.osuosl.org/docs/vl58/manuals/vl5_slaptget_en.html" rel="nofollow">"VectorLinux v5.8 (Manual): Slackware Packages"</a>. 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-11</span></span>. <q>VectorLinux is able to install Slackware packages.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=VectorLinux+v5.8+%28Manual%29%3A+Slackware+Packages&amp;rft.date=2007&amp;rft_id=http%3A%2F%2Fvectorlinux.osuosl.org%2Fdocs%2Fvl58%2Fmanuals%2Fvl5_slaptget_en.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVectorLinux"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=VectorLinux&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a class="external text" href="http://www.vectorlinux.com" rel="nofollow">Official website</a></span></span></li>
+<li><a class="external text" href="https://www.distrowatch.com/table.php?distribution=vector" rel="nofollow">VectorLinux</a> at <a href="/wiki/DistroWatch" title="DistroWatch">DistroWatch</a></li>
+<li><a class="external text" href="http://www.osnews.com/story/25808/VectorLinux_7_Fast_Flexible_and_Supported" rel="nofollow">VectorLinux 7: Fast, Flexible, and Supported - OS News</a></li>
+<li><a class="external text" href="http://www.oreillynet.com/linux/blog/2008/03/taking_a_good_long_look_at_vec.html" rel="nofollow">Taking A Good Long Look At Vector Linux 5.9 Standard - O'Reilly Linux DevCenter Blog</a></li>
+<li><a class="external text" href="http://www.tuxmachines.org/node/24148" rel="nofollow">Vector Linux 5.9: Light, fast Slackware-based distro | tuxmachines.org</a></li>
+<li><a class="external text" href="http://news.oreilly.com/2008/07/vector-linux-soho-59-deluxe-no-1.html" rel="nofollow">Vector Linux SOHO 5.9 Deluxe -- Not Just For The Office - O'Reilly News</a></li></ul>
+<div aria-labelledby="Linux_distributions" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Linux_distributions" title="Template:Linux distributions"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Linux_distributions" title="Template talk:Linux distributions"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Linux_distributions&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Linux_distributions" style="font-size:114%;margin:0 4em"><a href="/wiki/Linux_distribution" title="Linux distribution">Linux distributions</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Android-IA" title="Android-IA">Android-IA</a></li>
+<li><a href="/wiki/Android-x86" title="Android-x86">Android-x86</a></li>
+<li><a href="/wiki/LineageOS" title="LineageOS">LineageOS</a>
+<ul><li><a href="/wiki//e/_(operating_system)" title="/e/ (operating system)">/e/</a></li>
+<li><i><a href="/wiki/CyanogenMod" title="CyanogenMod">CyanogenMod</a></i></li></ul></li>
+<li><i><a href="/wiki/Remix_OS" title="Remix OS">Remix OS</a></i></li>
+<li><a href="/wiki/Replicant_(operating_system)" title="Replicant (operating system)">Replicant</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Arch_Linux" title="Arch Linux">Arch</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ArchBang" title="ArchBang">ArchBang</a></li>
+<li><a href="/wiki/ArchLabs" title="ArchLabs">ArchLabs</a></li>
+<li><a href="/wiki/Artix_Linux" title="Artix Linux">Artix</a></li>
+<li><a href="/wiki/Chakra_(operating_system)" title="Chakra (operating system)">Chakra</a></li>
+<li><a href="/wiki/Hyperbola_GNU/Linux-libre" title="Hyperbola GNU/Linux-libre">Hyperbola GNU/Linux-libre</a></li>
+<li><a href="/wiki/Manjaro" title="Manjaro">Manjaro</a></li>
+<li><a href="/wiki/Parabola_GNU/Linux-libre" title="Parabola GNU/Linux-libre">Parabola GNU/Linux-libre</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Debian" title="Debian">Debian</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AntiX" title="AntiX">antiX</a></li>
+<li><a href="/wiki/Astra_Linux" title="Astra Linux">Astra Linux</a></li>
+<li><a href="/wiki/Bharat_Operating_System_Solutions" title="Bharat Operating System Solutions">Bharat Operating System Solutions</a></li>
+<li><a href="/wiki/Deepin" title="Deepin">deepin</a></li>
+<li><a href="/wiki/Devuan" title="Devuan">Devuan</a></li>
+<li><a class="mw-redirect" href="/wiki/Endless_OS" title="Endless OS">Endless OS</a></li>
+<li><a href="/wiki/GNewSense" title="GNewSense">gNewSense</a></li>
+<li><a href="/wiki/HandyLinux" title="HandyLinux">HandyLinux</a></li>
+<li><a href="/wiki/Kali_Linux" title="Kali Linux">Kali Linux</a></li>
+<li><a href="/wiki/Knoppix" title="Knoppix">Knoppix</a></li>
+<li><a href="/wiki/MX_Linux" title="MX Linux">MX Linux</a></li>
+<li><a class="mw-redirect" href="/wiki/Parrot_Security_OS" title="Parrot Security OS">Parrot Security OS</a></li>
+<li><a href="/wiki/SparkyLinux" title="SparkyLinux">SparkyLinux</a></li>
+<li><a href="/wiki/SolydXK" title="SolydXK">SolydXK</a></li>
+<li><a href="/wiki/SteamOS" title="SteamOS">SteamOS</a></li>
+<li><a href="/wiki/Tails_(operating_system)" title="Tails (operating system)">Tails</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Ubuntu" scope="row" style="width:1%"><a href="/wiki/Ubuntu" title="Ubuntu">Ubuntu</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Official: <a href="/wiki/Kubuntu" title="Kubuntu">Kubuntu</a></li>
+<li><a href="/wiki/Lubuntu" title="Lubuntu">Lubuntu</a></li>
+<li><a href="/wiki/Ubuntu_Budgie" title="Ubuntu Budgie">Ubuntu Budgie</a></li>
+<li><a href="/wiki/Ubuntu_Kylin" title="Ubuntu Kylin">Ubuntu Kylin</a></li>
+<li><a href="/wiki/Ubuntu_MATE" title="Ubuntu MATE">Ubuntu MATE</a></li>
+<li><a href="/wiki/Ubuntu_Studio" title="Ubuntu Studio">Ubuntu Studio</a></li>
+<li><a href="/wiki/Xubuntu" title="Xubuntu">Xubuntu</a></li></ul>
+<ul><li>Other: <a href="/wiki/Asturix" title="Asturix">Asturix</a></li>
+<li><a href="/wiki/Bodhi_Linux" title="Bodhi Linux">Bodhi Linux</a></li>
+<li><a href="/wiki/Elementary_OS" title="Elementary OS">elementary OS</a></li>
+<li><a href="/wiki/KDE_neon" title="KDE neon">KDE neon</a></li>
+<li><a href="/wiki/Linux_Mint" title="Linux Mint">Linux Mint</a></li>
+<li><a href="/wiki/Pinguy_OS" title="Pinguy OS">Pinguy OS</a></li>
+<li><a href="/wiki/Trisquel" title="Trisquel">Trisquel</a></li>
+<li><a href="/wiki/Uruk_GNU/Linux" title="Uruk GNU/Linux">Uruk</a></li>
+<li><a href="/wiki/LXLE_Linux" title="LXLE Linux">LXLE Linux</a></li>
+<li><a href="/wiki/Linux_Lite" title="Linux Lite">Linux Lite</a></li>
+<li><a href="/wiki/Zorin_OS" title="Zorin OS">Zorin OS</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Fedora_(operating_system)" title="Fedora (operating system)">Fedora</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BLAG_Linux_and_GNU" title="BLAG Linux and GNU">BLAG Linux and GNU</a></li>
+<li><a href="/wiki/Korora_(operating_system)" title="Korora (operating system)">Korora</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Red_Hat" scope="row" style="width:1%"><a href="/wiki/Red_Hat_Enterprise_Linux" title="Red Hat Enterprise Linux">Red Hat</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/CentOS" title="CentOS">CentOS</a></li>
+<li><a href="/wiki/ClearOS" title="ClearOS">ClearOS</a></li>
+<li><a href="/wiki/Linpus_Linux" title="Linpus Linux">Linpus Linux</a></li>
+<li><a href="/wiki/Oracle_Linux" title="Oracle Linux">Oracle Linux</a></li>
+<li><a href="/wiki/Qubes_OS" title="Qubes OS">Qubes OS</a></li>
+<li><a href="/wiki/Rocks_Cluster_Distribution" title="Rocks Cluster Distribution">Rocks Cluster Distribution</a></li>
+<li><a href="/wiki/Scientific_Linux" title="Scientific Linux">Scientific Linux</a></li>
+<li><a href="/wiki/SME_Server" title="SME Server">SME Server</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Gentoo_Linux" title="Gentoo Linux">Gentoo</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Calculate_Linux" title="Calculate Linux">Calculate Linux</a></li>
+<li><a href="/wiki/Chromium_OS" title="Chromium OS">Chromium OS</a>
+<ul><li><a href="/wiki/Chrome_OS" title="Chrome OS">Chrome OS</a></li></ul></li>
+<li><a href="/wiki/Sabayon_Linux" title="Sabayon Linux">Sabayon Linux</a></li>
+<li><a href="/wiki/Nova_(operating_system)" title="Nova (operating system)">Nova OS</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Slackware" title="Slackware">Slackware</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Austrumi_Linux" title="Austrumi Linux">Austrumi Linux</a></li>
+<li><a href="/wiki/DeLi_Linux" title="DeLi Linux">DeLi Linux</a></li>
+<li><a href="/wiki/DNALinux" title="DNALinux">DNALinux</a></li>
+<li><a href="/wiki/Kongoni_(operating_system)" title="Kongoni (operating system)">Kongoni</a></li>
+<li><a href="/wiki/NimbleX" title="NimbleX">NimbleX</a></li>
+<li><a href="/wiki/Platypux" title="Platypux">Platypux</a></li>
+<li><a href="/wiki/Porteus_(operating_system)" title="Porteus (operating system)">Porteus</a></li>
+<li><a href="/wiki/Salix_OS" title="Salix OS">Salix OS</a></li>
+<li><a href="/wiki/Slax" title="Slax">Slax</a></li>
+<li><a href="/wiki/TopologiLinux" title="TopologiLinux">TopologiLinux</a></li>
+<li><a class="mw-selflink selflink">VectorLinux</a></li>
+<li><a href="/wiki/Zenwalk" title="Zenwalk">Zenwalk</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Mandriva_Linux" title="Mandriva Linux">Mandriva</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ALT_Linux" title="ALT Linux">ALT Linux</a></li>
+<li><a href="/wiki/Mageia" title="Mageia">Mageia</a></li>
+<li><a href="/wiki/OpenMandriva_Lx" title="OpenMandriva Lx">OpenMandriva Lx</a></li>
+<li><a href="/wiki/PCLinuxOS" title="PCLinuxOS">PCLinuxOS</a></li>
+<li><a href="/wiki/ROSA_Linux" title="ROSA Linux">ROSA Linux</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/4MLinux" title="4MLinux">4MLinux</a></li>
+<li><a href="/wiki/Alpine_Linux" title="Alpine Linux">Alpine Linux</a></li>
+<li><a href="/wiki/CRUX" title="CRUX">CRUX</a></li>
+<li><a href="/wiki/Frugalware_Linux" title="Frugalware Linux">Frugalware Linux</a></li>
+<li><a href="/wiki/GeckoLinux" title="GeckoLinux">GeckoLinux</a></li>
+<li><a href="/wiki/GoboLinux" title="GoboLinux">GoboLinux</a></li>
+<li><a class="mw-redirect" href="/wiki/Guix_System_Distribution" title="Guix System Distribution">GuixSD</a></li>
+<li><a class="mw-redirect" href="/wiki/KaOS_(Linux_distribution)" title="KaOS (Linux distribution)">KaOS</a></li>
+<li><a href="/wiki/Kwort_Linux" title="Kwort Linux">Kwort Linux</a></li>
+<li><a href="/wiki/Lunar_Linux" title="Lunar Linux">Lunar Linux</a></li>
+<li><a href="/wiki/NixOS" title="NixOS">NixOS</a></li>
+<li><a href="/wiki/OpenSUSE" title="OpenSUSE">openSUSE</a>
+<ul><li><a class="mw-redirect" href="/wiki/SUSE_Linux_Enterprise_Server" title="SUSE Linux Enterprise Server">SUSE Linux Enterprise Server</a></li></ul></li>
+<li><a href="/wiki/Puppy_Linux" title="Puppy Linux">Puppy Linux</a></li>
+<li><a href="/wiki/Source_Mage" title="Source Mage">Source Mage</a></li>
+<li><a href="/wiki/Solus_(operating_system)" title="Solus (operating system)">Solus</a></li>
+<li><a href="/wiki/Void_Linux" title="Void Linux">Void Linux</a></li>
+<li><a href="/wiki/Uruk_GNU/Linux" title="Uruk GNU/Linux">Uruk GNU/Linux</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <b><a href="/wiki/Category:Linux_distributions" title="Category:Linux distributions">Category</a></b></li>
+<li><img alt="Non-article page" data-file-height="185" data-file-width="180" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/8/89/Symbol_neutral_vote.svg/16px-Symbol_neutral_vote.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/89/Symbol_neutral_vote.svg/23px-Symbol_neutral_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/89/Symbol_neutral_vote.svg/31px-Symbol_neutral_vote.svg.png 2x" title="Non-article page" width="16"/> <b><a href="/wiki/Comparison_of_Linux_distributions" title="Comparison of Linux distributions">Comparison</a></b></li>
+<li><img alt="List-Class article" data-file-height="185" data-file-width="180" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <b><a href="/wiki/List_of_Linux_distributions" title="List of Linux distributions">List</a></b></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b><a class="extiw" href="https://commons.wikimedia.org/wiki/category:Linux_distributions" title="commons:category:Linux distributions">Commons</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1308
+Cached time: 20191218012324
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.272 seconds
+Real time usage: 0.399 seconds
+Preprocessor visited node count: 1086/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 45249/2097152 bytes
+Template argument size: 1349/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11184/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.123/10.000 seconds
+Lua memory usage: 4.48 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  332.113      1 -total
+ 32.39%  107.556      1 Template:Refimprove
+ 26.20%   87.020      1 Template:Infobox_OS
+ 24.12%   80.110      1 Template:Infobox
+ 23.77%   78.936      1 Template:Reflist
+ 22.52%   74.803      1 Template:Ambox
+ 21.26%   70.597      4 Template:Cite_web
+  9.49%   31.519      1 Template:Find_sources_mainspace
+  9.17%   30.443      1 Template:Linux-distro
+  8.34%   27.705      1 Template:Start_date_and_age
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1592267-0!canonical and timestamp 20191218012324 and revision id 916600893
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=VectorLinux&amp;oldid=916600893">https://en.wikipedia.org/w/index.php?title=VectorLinux&amp;oldid=916600893</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Slackware" title="Category:Slackware">Slackware</a></li><li><a href="/wiki/Category:Linux_distributions_without_systemd" title="Category:Linux distributions without systemd">Linux distributions without systemd</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2019" title="Category:Articles needing additional references from July 2019">Articles needing additional references from July 2019</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=VectorLinux" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=VectorLinux" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/VectorLinux" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:VectorLinux" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/VectorLinux">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=VectorLinux&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=VectorLinux&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/VectorLinux" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/VectorLinux" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=VectorLinux&amp;oldid=916600893" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=VectorLinux&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1074973" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=VectorLinux&amp;id=916600893" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:VectorLinux" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=VectorLinux">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=VectorLinux&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=VectorLinux&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/VectorLinux" hreflang="bg" lang="bg" title="VectorLinux – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Vector_Linux" hreflang="da" lang="da" title="Vector Linux – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/VectorLinux" hreflang="de" lang="de" title="VectorLinux – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/VectorLinux" hreflang="es" lang="es" title="VectorLinux – Spanish">Español</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B2%A1%ED%84%B0%EB%A6%AC%EB%88%85%EC%8A%A4" hreflang="ko" lang="ko" title="벡터리눅스 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/VectorLinux" hreflang="hr" lang="hr" title="VectorLinux – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Vector_Linux" hreflang="id" lang="id" title="Vector Linux – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/VectorLinux" hreflang="it" lang="it" title="VectorLinux – Italian">Italiano</a></li><li class="interlanguage-link interwiki-csb"><a class="interlanguage-link-target" href="https://csb.wikipedia.org/wiki/Vector_Linux" hreflang="csb" lang="csb" title="Vector Linux – Kashubian">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Vector_Linux" hreflang="nl" lang="nl" title="Vector Linux – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/VectorLinux" hreflang="nb" lang="nb" title="VectorLinux – Norwegian Bokmål">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/VectorLinux" hreflang="pl" lang="pl" title="VectorLinux – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Vector_Linux" hreflang="pt" lang="pt" title="Vector Linux – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Vector_Linux" hreflang="ro" lang="ro" title="Vector Linux – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/Vector_Linux" hreflang="ru" lang="ru" title="Vector Linux – Russian">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1074973#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 September 2019, at 18:05<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=VectorLinux&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.272","walltime":"0.399","ppvisitednodes":{"value":1086,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":45249,"limit":2097152},"templateargumentsize":{"value":1349,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11184,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  332.113      1 -total"," 32.39%  107.556      1 Template:Refimprove"," 26.20%   87.020      1 Template:Infobox_OS"," 24.12%   80.110      1 Template:Infobox"," 23.77%   78.936      1 Template:Reflist"," 22.52%   74.803      1 Template:Ambox"," 21.26%   70.597      4 Template:Cite_web","  9.49%   31.519      1 Template:Find_sources_mainspace","  9.17%   30.443      1 Template:Linux-distro","  8.34%   27.705      1 Template:Start_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.123","limit":"10.000"},"limitreport-memusage":{"value":4702719,"limit":52428800}},"cachereport":{"origin":"mw1308","timestamp":"20191218012324","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"VectorLinux","url":"https:\/\/en.wikipedia.org\/wiki\/VectorLinux","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1074973","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1074973","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-03-11T02:13:23Z","dateModified":"2019-09-19T18:05:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6f\/VectorLinux_7_GOLD.png","headline":"Linux distribution"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":137,"wgHostname":"mw1268"});});</script>
+
+
+</body></html>

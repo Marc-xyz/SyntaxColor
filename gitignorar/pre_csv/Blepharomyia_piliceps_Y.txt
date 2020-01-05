@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Blepharomyia piliceps - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfuA7wpAICEAAGBYenQAAACX","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Blepharomyia_piliceps","wgTitle":"Blepharomyia piliceps","wgCurRevisionId":868410990,"wgRevisionId":868410990,"wgArticleId":38102565,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","All stub articles","Muscomorph flies of Europe","Dexiinae","Insects described in 1859","Dexiinae stubs"],"wgPageContentLanguage":"en","wgPageContentModel":
+"wikitext","wgRelevantPageName":"Blepharomyia_piliceps","wgRelevantArticleId":38102565,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4926149","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared"
+:"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]
+;</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blepharomyia_piliceps%2C_Trawscoed%2C_North_Wales%2C_May_2016_-_Flickr_-_janetgraham84.jpg/1200px-Blepharomyia_piliceps%2C_Trawscoed%2C_North_Wales%2C_May_2016_-_Flickr_-_janetgraham84.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Blepharomyia_piliceps" rel="alternate"/>
+<link href="/w/index.php?title=Blepharomyia_piliceps&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Blepharomyia_piliceps&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Blepharomyia_piliceps" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Blepharomyia_piliceps rootpage-Blepharomyia_piliceps skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en"><i>Blepharomyia piliceps</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><i>Blepharomyia piliceps</i>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><a class="image" href="/wiki/File:Blepharomyia_piliceps,_Trawscoed,_North_Wales,_May_2016_-_Flickr_-_janetgraham84.jpg"><img alt="Blepharomyia piliceps, Trawscoed, North Wales, May 2016 - Flickr - janetgraham84.jpg" data-file-height="1428" data-file-width="1500" decoding="async" height="209" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blepharomyia_piliceps%2C_Trawscoed%2C_North_Wales%2C_May_2016_-_Flickr_-_janetgraham84.jpg/220px-Blepharomyia_piliceps%2C_Trawscoed%2C_North_Wales%2C_May_2016_-_Flickr_-_janetgraham84.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blepharomyia_piliceps%2C_Trawscoed%2C_North_Wales%2C_May_2016_-_Flickr_-_janetgraham84.jpg/330px-Blepharomyia_piliceps%2C_Trawscoed%2C_North_Wales%2C_May_2016_-_Flickr_-_janetgraham84.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blepharomyia_piliceps%2C_Trawscoed%2C_North_Wales%2C_May_2016_-_Flickr_-_janetgraham84.jpg/440px-Blepharomyia_piliceps%2C_Trawscoed%2C_North_Wales%2C_May_2016_-_Flickr_-_janetgraham84.jpg 2x" width="220"/></a>
+</td></tr>
+
+
+
+
+
+<tr>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a>
+</th></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td>Kingdom:
+</td>
+<td><div class="kingdom" style="display:inline"><a href="/wiki/Animal" title="Animal">Animalia</a></div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td>Phylum:
+</td>
+<td><div class="phylum" style="display:inline"><a href="/wiki/Arthropod" title="Arthropod">Arthropoda</a></div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>Class:
+</td>
+<td><div class="class" style="display:inline"><a href="/wiki/Insect" title="Insect">Insecta</a></div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td>Order:
+</td>
+<td><div class="order" style="display:inline"><a href="/wiki/Fly" title="Fly">Diptera</a></div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>Family:
+</td>
+<td><div class="family" style="display:inline"><a href="/wiki/Tachinidae" title="Tachinidae">Tachinidae</a></div>
+</td></tr>
+
+<tr>
+<td>Subfamily:
+</td>
+<td><div class="subfamily" style="display:inline"><a href="/wiki/Dexiinae" title="Dexiinae">Dexiinae</a></div>
+</td></tr>
+
+
+
+<tr>
+<td>Tribe:
+</td>
+<td><div class="tribe" style="display:inline"><a href="/wiki/Voriini" title="Voriini">Voriini</a></div>
+</td></tr>
+
+
+
+
+
+<tr>
+<td>Genus:
+</td>
+<td><div class="genus" style="display:inline"><i><a href="/wiki/Blepharomyia" title="Blepharomyia">Blepharomyia</a></i></div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>Species:
+</td>
+<td><div class="species" style="display:inline"><i><b>B. piliceps</b></i></div>
+</td></tr>
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Blepharomyia piliceps</i></span></b><br/><div style="font-size: 85%;">(<a href="/wiki/Johan_Wilhelm_Zetterstedt" title="Johan Wilhelm Zetterstedt">Zetterstedt</a>, 1859)</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul><li><i>Tachina piliceps</i> <small><a href="/wiki/Johan_Wilhelm_Zetterstedt" title="Johan Wilhelm Zetterstedt">Zetterstedt</a>, 1859</small></li>
+<li><i>Blepharomyia collini</i> <small>Wainwright, 1928</small><sup class="reference" id="cite_ref-Chandler_1-0"><a href="#cite_note-Chandler-1">[1]</a></sup></li></ul>
+</td></tr>
+
+</tbody></table>
+<p><i><b>Blepharomyia piliceps</b></i> is a species of <a href="/wiki/Fly" title="Fly">fly</a> in the family <a href="/wiki/Tachinidae" title="Tachinidae">Tachinidae</a>.<sup class="reference" id="cite_ref-Chandler_1-1"><a href="#cite_note-Chandler-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Distribution">Distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blepharomyia_piliceps&amp;action=edit&amp;section=1" title="Edit section: Distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Austria" title="Austria">Austria</a>, <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>, <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a>, <a href="/wiki/Denmark" title="Denmark">Denmark</a>, <a href="/wiki/Finland" title="Finland">Finland</a>, <a href="/wiki/Germany" title="Germany">Germany</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>, <a href="/wiki/Norway" title="Norway">Norway</a>, <a href="/wiki/Poland" title="Poland">Poland</a>, <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>, <a href="/wiki/Spain" title="Spain">Spain</a>, <a href="/wiki/Sweden" title="Sweden">Sweden</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> and <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> <sup class="reference" id="cite_ref-FaunaEuropaea_2-0"><a href="#cite_note-FaunaEuropaea-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blepharomyia_piliceps&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Chandler-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Chandler_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Chandler_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Chandler, Peter J. (1998). <i>Checklists of Insects of the British Isles (New Series) Part 1: Diptera</i>. <i><a class="mw-redirect" href="/wiki/Handbooks_for_the_Identification_of_British_Insects" title="Handbooks for the Identification of British Insects">Handbooks for the Identification of British Insects</a></i>. New Series. <b>12</b>. London: <a class="mw-redirect" href="/wiki/Royal_Entomological_Society_of_London" title="Royal Entomological Society of London">Royal Entomological Society of London</a>. pp. 1–234. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-901546-82-8" title="Special:BookSources/0-901546-82-8"><bdi>0-901546-82-8</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Checklists+of+Insects+of+the+British+Isles+%28New+Series%29+Part+1%3A+Diptera&amp;rft.place=London&amp;rft.series=New+Series&amp;rft.pages=1-234&amp;rft.pub=Royal+Entomological+Society+of+London&amp;rft.date=1998&amp;rft.isbn=0-901546-82-8&amp;rft.aulast=Chandler&amp;rft.aufirst=Peter+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlepharomyia+piliceps"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-FaunaEuropaea-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-FaunaEuropaea_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.faunaeur.org/full_results.php?id=144401" rel="nofollow">"<i>Blepharomyia piliceps</i> (Zetterstedt, 1859)"</a>. Fauna Europaea project<span class="reference-accessdate">. Retrieved <span class="nowrap">3 January</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Blepharomyia+piliceps+%28Zetterstedt%2C+1859%29&amp;rft.pub=Fauna+Europaea+project&amp;rft_id=http%3A%2F%2Fwww.faunaeur.org%2Ffull_results.php%3Fid%3D144401&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlepharomyia+piliceps"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Taxon_identifiers" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Taxon_identifiers" scope="row" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a class="extiw" href="https://www.wikidata.org/wiki/Q4926149" title="wikidata:Q4926149">Q4926149</a></span></span></span></li>
+<li><span style="white-space:nowrap;">BioLib: <span class="uid"><a class="external text" href="https://www.biolib.cz/en/taxon/id435164" rel="nofollow">435164</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>: <span class="uid"><a class="external text" href="https://eol.org/pages/3651246" rel="nofollow">3651246</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fauna_Europaea" title="Fauna Europaea">Fauna Europaea</a>: <span class="uid"><a class="external text" href="http://www.eu-nomen.eu/portal/taxon.php?GUID=urn:lsid:faunaeur.org:taxname:144401" rel="nofollow">144401</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fauna_Europaea" title="Fauna Europaea">Fauna Europaea (new)</a>: <span class="uid"><a class="external text" href="https://fauna-eu.org/cdm_dataportal/taxon/577cd248-132e-43af-87a0-edac7c1abea9" rel="nofollow">577cd248-132e-43af-87a0-edac7c1abea9</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a class="external text" href="https://www.gbif.org/species/1468050" rel="nofollow">1468050</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a class="external text" href="https://www.inaturalist.org/taxa/321751" rel="nofollow">321751</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a class="external text" href="https://data.nbn.org.uk/Taxa/NBNSYS0000030065" rel="nofollow">NBNSYS0000030065</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=1918041" rel="nofollow">1918041</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><i>This article related to members of the fly subfamily <a href="/wiki/Dexiinae" title="Dexiinae">Dexiinae</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Blepharomyia_piliceps&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Dexiinae-stub" title="Template:Dexiinae-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Dexiinae-stub" title="Template talk:Dexiinae-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Dexiinae-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1307
+Cached time: 20191123051013
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.404 seconds
+Real time usage: 0.574 seconds
+Preprocessor visited node count: 4142/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 20836/2097152 bytes
+Template argument size: 3253/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6170/5000000 bytes
+Number of Wikibase entities loaded: 9/400
+Lua time usage: 0.199/10.000 seconds
+Lua memory usage: 3.88 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  539.182      1 -total
+ 45.51%  245.386      1 Template:Taxobox
+ 43.94%  236.919      1 Template:Taxobox/core
+ 34.51%  186.045      1 Template:Taxonbar
+ 25.44%  137.177     14 Template:Taxobox_colour
+ 23.17%  124.926     14 Template:Delink
+ 16.68%   89.939      1 Template:Reflist
+ 12.78%   68.892      1 Template:Cite_book
+ 12.61%   67.979      9 Template:Taxonomy
+ 10.24%   55.192      1 Template:If_empty
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:38102565-0!canonical and timestamp 20191123051013 and revision id 868410990
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Blepharomyia_piliceps&amp;oldid=868410990">https://en.wikipedia.org/w/index.php?title=Blepharomyia_piliceps&amp;oldid=868410990</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Muscomorph_flies_of_Europe" title="Category:Muscomorph flies of Europe">Muscomorph flies of Europe</a></li><li><a href="/wiki/Category:Dexiinae" title="Category:Dexiinae">Dexiinae</a></li><li><a href="/wiki/Category:Insects_described_in_1859" title="Category:Insects described in 1859">Insects described in 1859</a></li><li><a href="/wiki/Category:Dexiinae_stubs" title="Category:Dexiinae stubs">Dexiinae stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Blepharomyia+piliceps" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Blepharomyia+piliceps" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Blepharomyia_piliceps" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Blepharomyia_piliceps" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Blepharomyia_piliceps">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Blepharomyia_piliceps&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Blepharomyia_piliceps&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Blepharomyia_piliceps" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Blepharomyia_piliceps" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Blepharomyia_piliceps&amp;oldid=868410990" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Blepharomyia_piliceps&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4926149" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Blepharomyia_piliceps&amp;id=868410990" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Blepharomyia_piliceps" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Blepharomyia+piliceps">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Blepharomyia+piliceps&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Blepharomyia_piliceps&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Blepharomyia_piliceps" hreflang="ceb" lang="ceb" title="Blepharomyia piliceps – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-min"><a class="interlanguage-link-target" href="https://min.wikipedia.org/wiki/Blepharomyia_piliceps" hreflang="min" lang="min" title="Blepharomyia piliceps – Minangkabau">Minangkabau</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Blepharomyia_piliceps" hreflang="nl" lang="nl" title="Blepharomyia piliceps – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Blepharomyia_piliceps" hreflang="sv" lang="sv" title="Blepharomyia piliceps – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Blepharomyia_piliceps" hreflang="vi" lang="vi" title="Blepharomyia piliceps – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Blepharomyia_piliceps" hreflang="war" lang="war" title="Blepharomyia piliceps – Waray">Winaray</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4926149#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 November 2018, at 01:02<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Blepharomyia_piliceps&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.404","walltime":"0.574","ppvisitednodes":{"value":4142,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":20836,"limit":2097152},"templateargumentsize":{"value":3253,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6170,"limit":5000000},"entityaccesscount":{"value":9,"limit":400},"timingprofile":["100.00%  539.182      1 -total"," 45.51%  245.386      1 Template:Taxobox"," 43.94%  236.919      1 Template:Taxobox/core"," 34.51%  186.045      1 Template:Taxonbar"," 25.44%  137.177     14 Template:Taxobox_colour"," 23.17%  124.926     14 Template:Delink"," 16.68%   89.939      1 Template:Reflist"," 12.78%   68.892      1 Template:Cite_book"," 12.61%   67.979      9 Template:Taxonomy"," 10.24%   55.192      1 Template:If_empty"]},"scribunto":{"limitreport-timeusage":{"value":"0.199","limit":"10.000"},"limitreport-memusage":{"value":4070697,"limit":52428800}},"cachereport":{"origin":"mw1307","timestamp":"20191123051013","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Blepharomyia piliceps","url":"https:\/\/en.wikipedia.org\/wiki\/Blepharomyia_piliceps","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4926149","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4926149","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-01-03T08:07:43Z","dateModified":"2018-11-12T01:02:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d0\/Blepharomyia_piliceps%2C_Trawscoed%2C_North_Wales%2C_May_2016_-_Flickr_-_janetgraham84.jpg","headline":"species of insect"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1331"});});</script>
+
+
+</body></html>

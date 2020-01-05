@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>LaserScope - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfuDFQpAICwAALKVaLIAAABL","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"LaserScope","wgTitle":"LaserScope","wgCurRevisionId":917500847,"wgRevisionId":917500847,"wgArticleId":868994,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Nintendo Entertainment System accessories","Light guns"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"LaserScope","wgRelevantArticleId":868994,"wgIsProbablyEditable":!0,
+"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6492962","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":
+"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/LaserScope.jpg/1200px-LaserScope.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/LaserScope" rel="alternate"/>
+<link href="/w/index.php?title=LaserScope&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=LaserScope&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/LaserScope" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-LaserScope rootpage-LaserScope skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">LaserScope</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:LaserScope.jpg"><img alt="" class="thumbimage" data-file-height="960" data-file-width="1280" decoding="async" height="165" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4b/LaserScope.jpg/220px-LaserScope.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4b/LaserScope.jpg/330px-LaserScope.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4b/LaserScope.jpg/440px-LaserScope.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:LaserScope.jpg" title="Enlarge"></a></div>The Konami LaserScope</div></div></div>
+<p>The <b>Konami LaserScope</b> is a head-mounted <a href="/wiki/Light_gun" title="Light gun">light gun</a> used with and licensed for the <a href="/wiki/Nintendo_Entertainment_System" title="Nintendo Entertainment System">Nintendo Entertainment System</a> <a href="/wiki/Video_game_console" title="Video game console">video game console</a>. It was originally released in 1991 in <a href="/wiki/Japan" title="Japan">Japan</a> for the <a href="/wiki/Nintendo_Entertainment_System" title="Nintendo Entertainment System">Famicom</a> under the name <b>Gun Sight</b>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>It was designed for the game <i><a href="/wiki/Laser_Invasion" title="Laser Invasion">Laser Invasion</a></i>, but works with any game compatible with the <a href="/wiki/NES_Zapper" title="NES Zapper">NES Zapper</a>.<sup class="reference" id="cite_ref-forbes_2-0"><a href="#cite_note-forbes-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> In the United States, <i>Laser Invasion</i> came with a coupon for a $5 discount for the LaserScope.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>It is voice-activated, firing a shot whenever the wearer says "fire" (although some reviewers criticized its ability to do so<sup class="reference" id="cite_ref-forbes_2-1"><a href="#cite_note-forbes-2">[2]</a></sup>). The headset also includes an eyepiece with a crosshair that sits in front of the wearer's right eye.<sup class="reference" id="cite_ref-i-mockery_5-0"><a href="#cite_note-i-mockery-5">[5]</a></sup>
+</p><p>The LaserScope is powered through the audio port of the NES, allowing it to function as headphones for the NES.<sup class="reference" id="cite_ref-i-mockery_5-1"><a href="#cite_note-i-mockery-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=LaserScope&amp;action=edit&amp;section=1" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The LaserScope received negative reviews for its poor microphone technology; users complained that saying anything into the microphone would cause the LaserScope to fire, including background noise.<sup class="reference" id="cite_ref-forbes_2-2"><a href="#cite_note-forbes-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=LaserScope&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20110929134330/http://www.laserscope.org/" rel="nofollow">"LaserScope"</a>. Archived from <a class="external text" href="http://www.laserscope.org" rel="nofollow">the original</a> on September 29, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-15</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=LaserScope&amp;rft_id=http%3A%2F%2Fwww.laserscope.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALaserScope"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-forbes-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-forbes_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-forbes_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-forbes_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Ewalt, David M. (May 29, 2012). <a class="external text" href="https://www.forbes.com/sites/davidewalt/2012/05/29/the-konami-laserscope/" rel="nofollow">"The Konami LaserScope"</a>. <i>Forbes</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 November</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Forbes&amp;rft.atitle=The+Konami+LaserScope&amp;rft.date=2012-05-29&amp;rft.aulast=Ewalt&amp;rft.aufirst=David+M.&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidewalt%2F2012%2F05%2F29%2Fthe-konami-laserscope%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALaserScope"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://news.google.com/newspapers?id=Y69dAAAAIBAJ&amp;sjid=q10NAAAAIBAJ&amp;pg=1243%2C478657" rel="nofollow">"Blizzard of improved products unveiled at electronics show"</a>. Observer-Reporter. AP. June 2, 1990<span class="reference-accessdate">. Retrieved <span class="nowrap">15 November</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Blizzard+of+improved+products+unveiled+at+electronics+show&amp;rft.date=1990-06-02&amp;rft_id=https%3A%2F%2Fnews.google.com%2Fnewspapers%3Fid%3DY69dAAAAIBAJ%26sjid%3Dq10NAAAAIBAJ%26pg%3D1243%252C478657&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALaserScope"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Link (August 7, 2009). <a class="external text" href="http://www.gamesniped.com/2009/08/07/nes-nintendo-konami-laserscope-headset/" rel="nofollow">"NES Nintendo Konami Laserscope Headset"</a>. <i>gameSniped</i>. Rare Video Game Auctions<span class="reference-accessdate">. Retrieved <span class="nowrap">15 November</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=gameSniped&amp;rft.atitle=NES+Nintendo+Konami+Laserscope+Headset&amp;rft.date=2009-08-07&amp;rft.au=Link&amp;rft_id=http%3A%2F%2Fwww.gamesniped.com%2F2009%2F08%2F07%2Fnes-nintendo-konami-laserscope-headset%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALaserScope"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-i-mockery-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-i-mockery_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-i-mockery_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">-RoG-. <a class="external text" href="http://www.i-mockery.com/minimocks/nes/7.php" rel="nofollow">"The Konami LaserScope!"</a>. <i>I-Mockery</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 November</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=I-Mockery&amp;rft.atitle=The+Konami+LaserScope%21&amp;rft.au=-RoG-&amp;rft_id=http%3A%2F%2Fwww.i-mockery.com%2Fminimocks%2Fnes%2F7.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALaserScope"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="NES_Zapper" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:NES_Zapper" title="Template:NES Zapper"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:NES_Zapper" title="Template talk:NES Zapper"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:NES_Zapper&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="NES_Zapper" style="font-size:114%;margin:0 4em"><a href="/wiki/NES_Zapper" title="NES Zapper">NES Zapper</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="Compatible_games">Compatible games</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Licensed</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Required</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Wild_Gunman" title="Wild Gunman">Wild Gunman</a></i></li>
+<li><i><a href="/wiki/Duck_Hunt" title="Duck Hunt">Duck Hunt</a></i></li>
+<li><i><a href="/wiki/Hogan%27s_Alley_(video_game)" title="Hogan's Alley (video game)">Hogan's Alley</a></i></li>
+<li><i><a href="/wiki/Gumshoe_(video_game)" title="Gumshoe (video game)">Gumshoe</a></i></li>
+<li><i><a href="/wiki/Gotcha!_The_Sport!" title="Gotcha! The Sport!">Gotcha! The Sport!</a></i></li>
+<li><i><a href="/wiki/Shooting_Range_(video_game)" title="Shooting Range (video game)">Shooting Range</a></i></li>
+<li><i><a href="/wiki/Freedom_Force_(video_game)" title="Freedom Force (video game)">Freedom Force</a></i></li>
+<li><i><a href="/wiki/To_the_Earth" title="To the Earth">To the Earth</a></i></li>
+<li><i><a href="/wiki/Barker_Bill%27s_Trick_Shooting" title="Barker Bill's Trick Shooting">Barker Bill's Trick Shooting</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Optional</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Operation_Wolf" title="Operation Wolf">Operation Wolf</a></i></li>
+<li><i><a href="/wiki/Mechanized_Attack" title="Mechanized Attack">Mechanized Attack</a></i></li>
+<li><i><a href="/wiki/The_Adventures_of_Bayou_Billy" title="The Adventures of Bayou Billy">The Adventures of Bayou Billy</a></i></li>
+<li><i><a href="/wiki/Track_%26_Field_II" title="Track &amp; Field II">Track &amp; Field II</a></i></li>
+<li><i><a href="/wiki/Laser_Invasion" title="Laser Invasion">Laser Invasion</a></i></li>
+<li><i><a href="/wiki/The_Lone_Ranger_(video_game)" title="The Lone Ranger (video game)">The Lone Ranger</a></i></li>
+<li><i><a href="/wiki/Day_Dreamin%27_Davey" title="Day Dreamin' Davey">Day Dreamin' Davey</a></i></li>
+<li><i><a href="/wiki/The_Hunt_for_Red_October_(console_game)" title="The Hunt for Red October (console game)">The Hunt For Red October</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><div class="floatright"><a class="image" href="/wiki/File:Nintendo-Entertainment-System-NES-Zapper-Gray-L.jpg"><img alt="Nintendo-Entertainment-System-NES-Zapper-Gray-L.jpg" data-file-height="2310" data-file-width="4800" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nintendo-Entertainment-System-NES-Zapper-Gray-L.jpg/100px-Nintendo-Entertainment-System-NES-Zapper-Gray-L.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nintendo-Entertainment-System-NES-Zapper-Gray-L.jpg/150px-Nintendo-Entertainment-System-NES-Zapper-Gray-L.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nintendo-Entertainment-System-NES-Zapper-Gray-L.jpg/200px-Nintendo-Entertainment-System-NES-Zapper-Gray-L.jpg 2x" width="100"/></a></div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Unlicensed</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Optional</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Baby_Boomer_(video_game)" title="Baby Boomer (video game)">Baby Boomer</a></i></li>
+<li><i><a href="/wiki/Chiller_(video_game)" title="Chiller (video game)">Chiller</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">LaserScope</a></li>
+<li><a href="/wiki/Super_Scope" title="Super Scope">Super Scope</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Nintendo_Entertainment_System" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Nintendo_Entertainment_System" title="Template:Nintendo Entertainment System"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Nintendo_Entertainment_System" title="Template talk:Nintendo Entertainment System"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Nintendo_Entertainment_System&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Nintendo_Entertainment_System" style="font-size:114%;margin:0 4em"><a href="/wiki/Nintendo_Entertainment_System" title="Nintendo Entertainment System">Nintendo Entertainment System</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="Known_in_Japan_as_the_Family_Computer_or_Famicom">Known in Japan as the <b>Family Computer</b> or <b>Famicom</b></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_Nintendo_Entertainment_System_accessories" title="List of Nintendo Entertainment System accessories">Accessories</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Nintendo manufactured</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Family_Computer_Disk_System" title="Family Computer Disk System">Family Computer Disk System</a></li>
+<li><a href="/wiki/Famicom_Data_Recorder" title="Famicom Data Recorder">Famicom Data Recorder</a></li>
+<li><a href="/wiki/Family_Computer_Network_System" title="Family Computer Network System">Famicom Modem</a></li>
+<li><a href="/wiki/Family_BASIC" title="Family BASIC">Family BASIC</a></li>
+<li><a href="/wiki/NES_Advantage" title="NES Advantage">NES Advantage</a></li>
+<li><a href="/wiki/NES_Four_Score" title="NES Four Score">NES Four Score</a></li>
+<li><a href="/wiki/NES_Satellite" title="NES Satellite">NES Satellite</a></li>
+<li><a href="/wiki/NES_Zapper" title="NES Zapper">NES Zapper</a></li>
+<li><a href="/wiki/Power_Pad" title="Power Pad">Power Pad</a></li>
+<li><a href="/wiki/R.O.B." title="R.O.B.">R.O.B.</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Third-party</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aladdin_Deck_Enhancer" title="Aladdin Deck Enhancer">Aladdin Deck Enhancer</a></li>
+<li><a href="/wiki/Arkanoid_Controller" title="Arkanoid Controller">Arkanoid Controller</a></li>
+<li><a href="/wiki/Double_Player" title="Double Player">Double Player</a></li>
+<li><a href="/wiki/Game_Genie" title="Game Genie">Game Genie</a></li>
+<li><a href="/wiki/HES_Unidaptor" title="HES Unidaptor">HES Unidaptor</a></li>
+<li><a href="/wiki/Homework_First" title="Homework First">Homework First</a></li>
+<li><a href="/wiki/Jammer_(NES_accessory)" title="Jammer (NES accessory)">Jammer</a></li>
+<li><a class="mw-selflink selflink">LaserScope</a></li>
+<li><a href="/wiki/Miracle_Piano_Teaching_System" title="Miracle Piano Teaching System">Miracle Piano</a></li>
+<li><a href="/wiki/Power_Glove" title="Power Glove">Power Glove</a></li>
+<li><a href="/wiki/Speedboard" title="Speedboard">Speedboard</a></li>
+<li><a href="/wiki/Super_Controller" title="Super Controller">Super Controller</a></li>
+<li><a href="/wiki/Teleplay_Modem" title="Teleplay Modem">Teleplay Modem</a></li>
+<li><a href="/wiki/Turbo_Tech_Controller" title="Turbo Tech Controller">Turbo Tech Controller</a></li>
+<li><a href="/wiki/Turbo_Touch_360" title="Turbo Touch 360">Turbo Touch 360</a></li>
+<li><a href="/wiki/Turbotronic" title="Turbotronic">Turbotronic</a></li>
+<li><a href="/wiki/U-Force" title="U-Force">U-Force</a></li>
+<li><a href="/wiki/Ultimate_Superstick" title="Ultimate Superstick">Ultimate Superstick</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><div class="floatright"><a class="image" href="/wiki/File:NES_logo.svg"><img alt="NES logo.svg" data-file-height="56" data-file-width="144" decoding="async" height="39" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NES_logo.svg/100px-NES_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NES_logo.svg/150px-NES_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NES_logo.svg/200px-NES_logo.svg.png 2x" width="100"/></a></div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Hardware</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ricoh_2A03" title="Ricoh 2A03">Ricoh 2A03</a> microprocessor</li>
+<li><a href="/wiki/Picture_Processing_Unit" title="Picture Processing Unit">Picture Processing Unit</a></li>
+<li><a href="/wiki/Nintendo_Entertainment_System_Game_Pak" title="Nintendo Entertainment System Game Pak">Game Pak</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Software</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Family_Computer_games" title="List of Family Computer games">List of Family Computer games</a>
+<ul><li><a href="/wiki/List_of_Family_Computer_Disk_System_games" title="List of Family Computer Disk System games">List of Family Computer Disk System games</a></li></ul></li>
+<li><a href="/wiki/List_of_Nintendo_Entertainment_System_games" title="List of Nintendo Entertainment System games">List of NES games</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Variations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nintendo_Entertainment_System_(Model_NES-101)" title="Nintendo Entertainment System (Model NES-101)">NES-101</a></li>
+<li><a href="/wiki/NES_Classic_Edition" title="NES Classic Edition">NES Classic Edition</a></li>
+<li><a href="/wiki/Twin_Famicom" title="Twin Famicom">Twin Famicom</a></li>
+<li><a href="/wiki/Sharp_Nintendo_Television" title="Sharp Nintendo Television">Sharp Nintendo Television</a></li>
+<li><a href="/wiki/Famicom_Titler" title="Famicom Titler">Famicom Titler</a></li>
+<li><a href="/wiki/Nintendo_Entertainment_System_hardware_clone" title="Nintendo Entertainment System hardware clone">Hardware clones</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Nintendo_video_game_hardware" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Nintendo_hardware" title="Template:Nintendo hardware"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Nintendo_hardware" title="Template talk:Nintendo hardware"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Nintendo_hardware&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Nintendo_video_game_hardware" style="font-size:114%;margin:0 4em"><a href="/wiki/Nintendo_video_game_consoles" title="Nintendo video game consoles">Nintendo video game hardware</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Nintendo_video_game_consoles" title="Nintendo video game consoles">Consoles</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Home</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nintendo_Entertainment_System" title="Nintendo Entertainment System">NES</a>
+<ul><li><a href="/wiki/Famicom_Titler" title="Famicom Titler">Famicom Titler</a></li>
+<li><a href="/wiki/Twin_Famicom" title="Twin Famicom">Twin Famicom</a></li>
+<li><a href="/wiki/Nintendo_Entertainment_System_(Model_NES-101)" title="Nintendo Entertainment System (Model NES-101)">NES-101</a></li>
+<li><a href="/wiki/Sharp_Nintendo_Television" title="Sharp Nintendo Television">Sharp Nintendo Television</a></li>
+<li><a href="/wiki/NES_Classic_Edition" title="NES Classic Edition">NES Classic Edition</a></li>
+<li><a href="/wiki/List_of_Nintendo_Entertainment_System_accessories" title="List of Nintendo Entertainment System accessories">accessories</a></li></ul></li>
+<li><a href="/wiki/Super_Nintendo_Entertainment_System" title="Super Nintendo Entertainment System">Super NES</a>
+<ul><li><a href="/wiki/New-Style_Super_NES" title="New-Style Super NES">New-Style</a></li>
+<li><a href="/wiki/Super_Famicom_Naizou_TV_SF1" title="Super Famicom Naizou TV SF1">SF Naizou TV SF1</a></li>
+<li><a href="/wiki/Super_NES_Classic_Edition" title="Super NES Classic Edition">Super NES Classic Edition</a></li>
+<li><a href="/wiki/List_of_Super_Nintendo_Entertainment_System_accessories" title="List of Super Nintendo Entertainment System accessories">accessories</a></li></ul></li>
+<li><a href="/wiki/Nintendo_64" title="Nintendo 64">Nintendo 64</a>
+<ul><li><a href="/wiki/IQue_Player" title="IQue Player">iQue Player</a></li>
+<li><a href="/wiki/Nintendo_64_accessories" title="Nintendo 64 accessories">accessories</a></li></ul></li>
+<li><a href="/wiki/GameCube" title="GameCube">GameCube</a>
+<ul><li><a href="/wiki/Panasonic_Q" title="Panasonic Q">Panasonic Q</a></li>
+<li><a href="/wiki/GameCube_accessories" title="GameCube accessories">accessories</a></li></ul></li>
+<li><a href="/wiki/Wii" title="Wii">Wii</a>
+<ul><li><a href="/wiki/Wii#Wii_Family_Edition" title="Wii">Family Edition</a></li>
+<li><a href="/wiki/Wii#Wii_Mini" title="Wii">Mini</a></li></ul></li>
+<li><a href="/wiki/Wii_U" title="Wii U">Wii U</a></li>
+<li><a href="/wiki/Nintendo_Switch" title="Nintendo Switch">Switch</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Handheld</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Game_Boy" title="Game Boy">Game Boy</a>
+<ul><li><a href="/wiki/Game_Boy_accessories" title="Game Boy accessories">accessories</a></li></ul></li>
+<li><a href="/wiki/Game_Boy_Color" title="Game Boy Color">Game Boy Color</a>
+<ul><li><a href="/wiki/Game_Boy_accessories#Game_Boy_Color" title="Game Boy accessories">accessories</a></li></ul></li>
+<li><a href="/wiki/Virtual_Boy" title="Virtual Boy">Virtual Boy</a></li>
+<li><a href="/wiki/Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance</a>
+<ul><li><a href="/wiki/Game_Boy_Advance_SP" title="Game Boy Advance SP">SP</a></li>
+<li><a href="/wiki/Game_Boy_Micro" title="Game Boy Micro">Micro</a></li>
+<li><a href="/wiki/Visteon_Dockable_Entertainment" title="Visteon Dockable Entertainment">Dockable Entertainment</a></li>
+<li><a href="/wiki/Game_Boy_accessories#Game_Boy_Advance/Game_Boy_Advance_SP" title="Game Boy accessories">accessories</a></li></ul></li>
+<li><a href="/wiki/Pok%C3%A9mon_Mini" title="Pokémon Mini">Pokémon Mini</a></li>
+<li><a href="/wiki/Nintendo_DS" title="Nintendo DS">Nintendo DS</a>
+<ul><li><a href="/wiki/Nintendo_DS_Lite" title="Nintendo DS Lite">Lite</a></li>
+<li><a href="/wiki/Nintendo_DSi" title="Nintendo DSi">DSi</a></li>
+<li><a href="/wiki/List_of_Nintendo_DS_accessories" title="List of Nintendo DS accessories">accessories</a></li></ul></li>
+<li><a href="/wiki/Nintendo_3DS" title="Nintendo 3DS">Nintendo 3DS</a>
+<ul><li><a href="/wiki/Nintendo_2DS" title="Nintendo 2DS">2DS</a></li>
+<li><a href="/wiki/New_Nintendo_3DS" title="New Nintendo 3DS">New 3DS</a></li>
+<li><a href="/wiki/New_Nintendo_2DS_XL" title="New Nintendo 2DS XL">New 2DS XL</a></li></ul></li>
+<li><a href="/wiki/Nintendo_Switch" title="Nintendo Switch">Switch</a>
+<ul><li><a href="/wiki/Nintendo_Switch_Lite" title="Nintendo Switch Lite">Switch Lite</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Dedicated</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Home</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Color_TV-Game" title="Color TV-Game">Color TV-Game</a></li>
+<li><a href="/wiki/NES_Classic_Edition" title="NES Classic Edition">NES Classic Edition</a></li>
+<li><a href="/wiki/Super_NES_Classic_Edition" title="Super NES Classic Edition">Super NES Classic Edition</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Handheld</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Game_%26_Watch" title="Game &amp; Watch">Game &amp; Watch</a>
+<ul><li><a href="/wiki/Nintendo_Mini_Classics" title="Nintendo Mini Classics">Mini Classics</a></li></ul></li>
+<li><a href="/wiki/Nelsonic_Industries#Game_watches" title="Nelsonic Industries">Nelsonic Game Watch</a></li>
+<li><a href="/wiki/Pok%C3%A9mon_Pikachu" title="Pokémon Pikachu">Pokémon Pikachu</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Arcade</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nintendo_VS._System" title="Nintendo VS. System">VS. System</a></li>
+<li><a href="/wiki/PlayChoice-10" title="PlayChoice-10">PlayChoice-10</a></li>
+<li><a href="/wiki/Super_Famicom_Box" title="Super Famicom Box">Super Famicom Box</a></li>
+<li><a href="/wiki/Nintendo_Super_System" title="Nintendo Super System">Nintendo Super System</a></li>
+<li><a href="/wiki/Killer_Instinct_(1994_video_game)#Development" title="Killer Instinct (1994 video game)">Ultra 64</a></li>
+<li><a href="/wiki/SETA_Corporation#Aleck_64_(arcade)" title="SETA Corporation">Aleck 64</a></li>
+<li><a href="/wiki/List_of_Sega_arcade_system_boards#Triforce" title="List of Sega arcade system boards">Triforce</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:NintendoStack.jpg"><img alt="NintendoStack.jpg" data-file-height="2055" data-file-width="1145" decoding="async" height="144" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/NintendoStack.jpg/80px-NintendoStack.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/NintendoStack.jpg/120px-NintendoStack.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/NintendoStack.jpg/160px-NintendoStack.jpg 2x" width="80"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Peripherals</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Add-ons</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Famicom_3D_System" title="Famicom 3D System">3D System</a></li>
+<li><a href="/wiki/Famicom_Data_Recorder" title="Famicom Data Recorder">Data Recorder</a></li>
+<li><a href="/wiki/Family_Computer_Disk_System" title="Family Computer Disk System">Disk System</a></li>
+<li><a href="/wiki/Satellaview" title="Satellaview">Satellaview</a></li>
+<li><a href="/wiki/Super_NES_CD-ROM" title="Super NES CD-ROM">Super NES CD-ROM</a> (unreleased)</li>
+<li><a href="/wiki/Super_Game_Boy" title="Super Game Boy">Super Game Boy</a></li>
+<li><a href="/wiki/Game_Boy_Camera" title="Game Boy Camera">Game Boy Camera</a></li>
+<li><a href="/wiki/Game_Boy_Printer" title="Game Boy Printer">Game Boy Printer</a></li>
+<li><a href="/wiki/64DD" title="64DD">64DD</a></li>
+<li><a href="/wiki/Rumble_Pak" title="Rumble Pak">Rumble Pak</a></li>
+<li><a href="/wiki/Nintendo_e-Reader" title="Nintendo e-Reader">e-Reader</a></li>
+<li><a href="/wiki/Game_Boy_Player" title="Game Boy Player">Game Boy Player</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Connectivity</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/NES_Four_Score" title="NES Four Score">NES Four Score</a></li>
+<li><a href="/wiki/NES_Satellite" title="NES Satellite">NES Satellite</a></li>
+<li><a href="/wiki/Game_Link_Cable" title="Game Link Cable">Game Link Cable</a></li>
+<li><a class="mw-redirect" href="/wiki/Nintendo_GameCube_%E2%80%93_Game_Boy_Advance_link_cable" title="Nintendo GameCube – Game Boy Advance link cable">GCN-GBA Link Cable</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_Nintendo_controllers" title="List of Nintendo controllers">Controllers</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nintendo_Entertainment_System#Controllers" title="Nintendo Entertainment System">NES Controller</a></li>
+<li><a href="/wiki/Family_BASIC" title="Family BASIC">Family BASIC</a></li>
+<li><a href="/wiki/NES_Advantage" title="NES Advantage">NES Advantage</a></li>
+<li><a href="/wiki/NES_Zapper" title="NES Zapper">NES Zapper</a></li>
+<li><a href="/wiki/Power_Pad" title="Power Pad">Power Pad</a></li>
+<li><a href="/wiki/R.O.B." title="R.O.B.">R.O.B.</a></li>
+<li><a href="/wiki/Speedboard" title="Speedboard">Speedboard</a></li>
+<li><a href="/wiki/Super_Nintendo_Entertainment_System#Peripherals" title="Super Nintendo Entertainment System">SNES Controller</a></li>
+<li><a href="/wiki/Super_NES_Mouse" title="Super NES Mouse">SNES Mouse</a></li>
+<li><a href="/wiki/Super_Scope" title="Super Scope">Super Scope</a></li>
+<li><a href="/wiki/Virtual_Boy_hardware#Control" title="Virtual Boy hardware">Virtual Boy Controller</a></li>
+<li><a href="/wiki/Nintendo_64_controller" title="Nintendo 64 controller">Nintendo 64 controller</a></li>
+<li><a href="/wiki/GameCube_controller" title="GameCube controller">GameCube controller</a>
+<ul><li><a href="/wiki/WaveBird_Wireless_Controller" title="WaveBird Wireless Controller">WaveBird Wireless</a></li></ul></li>
+<li><a href="/wiki/Wii_Balance_Board" title="Wii Balance Board">Wii Balance Board</a></li>
+<li><a href="/wiki/Wii_Remote" title="Wii Remote">Wii Remote</a>
+<ul><li><a href="/wiki/Classic_Controller" title="Classic Controller">Classic Controller</a></li>
+<li><a href="/wiki/Wii_MotionPlus" title="Wii MotionPlus">MotionPlus</a></li>
+<li><a href="/wiki/Wii_Zapper" title="Wii Zapper">Wii Zapper</a></li>
+<li><a href="/wiki/Third-party_accessories_for_the_Wii_Remote" title="Third-party accessories for the Wii Remote">Third-party accessories</a></li></ul></li>
+<li><a href="/wiki/Wii_Speak" title="Wii Speak">Wii Speak</a></li>
+<li><a href="/wiki/Wii_U_GamePad" title="Wii U GamePad">Wii U GamePad</a></li>
+<li><a href="/wiki/Wii_U_Pro_Controller" title="Wii U Pro Controller">Wii U Pro Controller</a></li>
+<li><a href="/wiki/Joy-Con" title="Joy-Con">Joy-Con</a></li>
+<li><a href="/wiki/Nintendo_Switch_Pro_Controller" title="Nintendo Switch Pro Controller">Nintendo Switch Pro Controller</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Networking</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Family_Computer_Network_System" title="Family Computer Network System">Family Computer Network System</a></li>
+<li><a href="/wiki/Teleplay_Modem" title="Teleplay Modem">Teleplay Modem</a></li>
+<li><a href="/wiki/XBAND" title="XBAND">XBAND</a></li>
+<li><a href="/wiki/Satellaview" title="Satellaview">Satellaview</a></li>
+<li><a href="/wiki/Morita_Shogi_64" title="Morita Shogi 64">Morita Shogi 64</a></li>
+<li><a href="/wiki/64DD#Accessories" title="64DD">N64 Modem</a>
+<ul><li><a href="/wiki/64DD#Randnet" title="64DD">Randnet</a></li></ul></li>
+<li><a href="/wiki/GameCube_accessories#Modem_and_Broadband_adapters" title="GameCube accessories">GameCube Modem Adapter</a></li>
+<li><a href="/wiki/GameCube_accessories#Modem_and_Broadband_adapters" title="GameCube accessories">GameCube Broadband Adapter</a></li>
+<li><a href="/wiki/Nintendo_Wi-Fi_USB_Connector" title="Nintendo Wi-Fi USB Connector">Nintendo Wi-Fi USB Connector</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nintendo_Power_(cartridge)" title="Nintendo Power (cartridge)">Nintendo Power</a></li>
+<li><a href="/wiki/Nintendo_DS_%26_DSi_Browser" title="Nintendo DS &amp; DSi Browser">Nintendo DS &amp; DSi Browser</a></li>
+<li><a href="/wiki/Amiibo" title="Amiibo">Amiibo</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technology</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Media</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nintendo_Entertainment_System_Game_Pak" title="Nintendo Entertainment System Game Pak">NES Game Pak</a></li>
+<li><a href="/wiki/Family_Computer_Disk_System#Technology" title="Family Computer Disk System">Disk Card</a></li>
+<li><a href="/wiki/Game_Boy#Hardware" title="Game Boy">Game Boy Game Pak</a></li>
+<li><a href="/wiki/Super_Nintendo_Entertainment_System_Game_Pak" title="Super Nintendo Entertainment System Game Pak">SNES Game Pak</a></li>
+<li><a href="/wiki/Satellaview#Hardware" title="Satellaview">Satellaview Memory Cartridge</a></li>
+<li><a href="/wiki/Satellaview#Hardware" title="Satellaview">Satellaview ROM Cartridge</a></li>
+<li><a href="/wiki/Virtual_Boy_hardware#Cartridge" title="Virtual Boy hardware">Virtual Boy Game Pak</a></li>
+<li><a href="/wiki/Nintendo_Power_(cartridge)#Super_Famicom" title="Nintendo Power (cartridge)">SF Memory Cassette</a></li>
+<li><a href="/wiki/Nintendo_Power_(cartridge)#Game_Boy" title="Nintendo Power (cartridge)">GB Memory Cartridge</a></li>
+<li><a href="/wiki/Nintendo_64_Game_Pak" title="Nintendo 64 Game Pak">N64 Game Pak</a></li>
+<li><a href="/wiki/Game_Boy_Color#Cartridges" title="Game Boy Color">Game Boy Color Game Pak</a></li>
+<li><a href="/wiki/64DD#Hardware" title="64DD">64DD Disk</a></li>
+<li><a href="/wiki/Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance Game Pak</a></li>
+<li><a href="/wiki/Nintendo_e-Reader#e-Reader_cards" title="Nintendo e-Reader">e-Reader Card</a></li>
+<li><a href="/wiki/Game_Boy_Advance_Video" title="Game Boy Advance Video">Game Boy Advance Video</a></li>
+<li><a href="/wiki/Nintendo_optical_discs" title="Nintendo optical discs">Nintendo Optical Disc</a></li>
+<li><a href="/wiki/GameCube_accessories#Memory_cards" title="GameCube accessories">Memory Card 59, 251, 1019</a></li>
+<li><a href="/wiki/Nintendo_game_card" title="Nintendo game card">Nintendo Game Card</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Processors</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ricoh_2A03" title="Ricoh 2A03">2A03</a></li>
+<li><a href="/wiki/Picture_Processing_Unit" title="Picture Processing Unit">PPU</a></li>
+<li><a href="/wiki/Zilog_Z80" title="Zilog Z80">LR35902</a></li>
+<li><a href="/wiki/Ricoh_5A22" title="Ricoh 5A22">5A22</a></li>
+<li><a href="/wiki/Super_FX" title="Super FX">GSU</a></li>
+<li><a href="/wiki/NEC_V60#The_V800_Series" title="NEC V60">V810</a></li>
+<li><a class="mw-redirect" href="/wiki/Reality_Coprocessor" title="Reality Coprocessor">RCP</a></li>
+<li><a href="/wiki/ARM7#ARM7TDMI" title="ARM7">ARM7TDMI</a></li>
+<li><a href="/wiki/Gekko_(microprocessor)" title="Gekko (microprocessor)">Gekko</a></li>
+<li><a href="/wiki/ARM9" title="ARM9">ARM946E-S</a></li>
+<li><a href="/wiki/Broadway_(microprocessor)" title="Broadway (microprocessor)">Broadway</a></li>
+<li><a href="/wiki/Hollywood_(graphics_chip)" title="Hollywood (graphics chip)">Hollywood</a></li>
+<li><a href="/wiki/ARM11" title="ARM11">ARM11 MPCore</a></li>
+<li><a href="/wiki/PICA200" title="PICA200">PICA200</a></li>
+<li><a href="/wiki/Espresso_(microprocessor)" title="Espresso (microprocessor)">Espresso</a></li>
+<li><a href="/wiki/Tegra#Tegra_X1" title="Tegra">Erista</a></li>
+<li><a href="/wiki/Allwinner_Technology#R-Series" title="Allwinner Technology">Allwinner R16</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div><a href="/wiki/List_of_Nintendo_products" title="List of Nintendo products">List of products</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20191202135615
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.388 seconds
+Real time usage: 0.510 seconds
+Preprocessor visited node count: 605/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 91071/2097152 bytes
+Template argument size: 74/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14904/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.197/10.000 seconds
+Lua memory usage: 2.69 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  393.319      1 -total
+ 74.13%  291.565      1 Template:Reflist
+ 57.29%  225.332      4 Template:Cite_web
+ 27.39%  107.742     10 Template:Navbox
+ 15.55%   61.155      1 Template:NES_Zapper
+  6.59%   25.922      1 Template:Cite_news
+  6.43%   25.281      1 Template:Nintendo_hardware
+  3.74%   14.696      1 Template:Nintendo_Entertainment_System
+  1.38%    5.416      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:868994-0!canonical and timestamp 20191202135615 and revision id 917500847
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=LaserScope&amp;oldid=917500847">https://en.wikipedia.org/w/index.php?title=LaserScope&amp;oldid=917500847</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Nintendo_Entertainment_System_accessories" title="Category:Nintendo Entertainment System accessories">Nintendo Entertainment System accessories</a></li><li><a href="/wiki/Category:Light_guns" title="Category:Light guns">Light guns</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=LaserScope" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=LaserScope" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/LaserScope" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:LaserScope" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/LaserScope">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=LaserScope&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=LaserScope&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/LaserScope" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/LaserScope" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=LaserScope&amp;oldid=917500847" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=LaserScope&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6492962" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=LaserScope&amp;id=917500847" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=LaserScope">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=LaserScope&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=LaserScope&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/LaserScope" hreflang="es" lang="es" title="LaserScope – Spanish">Español</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Konami_LaserScope" hreflang="pt" lang="pt" title="Konami LaserScope – Portuguese">Português</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6492962#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 September 2019, at 03:44<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=LaserScope&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.388","walltime":"0.510","ppvisitednodes":{"value":605,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":91071,"limit":2097152},"templateargumentsize":{"value":74,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14904,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  393.319      1 -total"," 74.13%  291.565      1 Template:Reflist"," 57.29%  225.332      4 Template:Cite_web"," 27.39%  107.742     10 Template:Navbox"," 15.55%   61.155      1 Template:NES_Zapper","  6.59%   25.922      1 Template:Cite_news","  6.43%   25.281      1 Template:Nintendo_hardware","  3.74%   14.696      1 Template:Nintendo_Entertainment_System","  1.38%    5.416      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.197","limit":"10.000"},"limitreport-memusage":{"value":2819875,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20191202135615","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"LaserScope","url":"https:\/\/en.wikipedia.org\/wiki\/LaserScope","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6492962","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6492962","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-31T07:41:25Z","dateModified":"2019-09-24T03:44:20Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/4\/4b\/LaserScope.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":136,"wgHostname":"mw1323"});});</script>
+
+
+</body></html>

@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>BharatQR - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfsjcQpAADwAAC70MAAAAAAH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"BharatQR","wgTitle":"BharatQR","wgCurRevisionId":924894447,"wgRevisionId":924894447,"wgArticleId":55819725,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: external links","Articles with a promotional tone from June 2019","All articles with a promotional tone","Use Indian English from February 2019","All Wikipedia articles written in Indian English",
+"Use dmy dates from November 2013","2016 establishments in India","Mobile payments in India","Electronic funds transfer"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"BharatQR","wgRelevantArticleId":55819725,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q48728987","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/3/34/BharatQR.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/BharatQR" rel="alternate"/>
+<link href="/w/index.php?title=BharatQR&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=BharatQR&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/BharatQR" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-BharatQR rootpage-BharatQR skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">BharatQR</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="box-Advert plainlinks metadata ambox ambox-content ambox-Advert" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=BharatQR&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span>  <small class="date-container"><i>(<span class="date">June 2019</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p class="mw-empty-elt">
+
+</p>
+<table class="infobox hproduct" style="width:22em"><caption class="fn">BharatQR</caption><tbody><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:BharatQR.png"><img alt="BharatQR.png" data-file-height="239" data-file-width="296" decoding="async" height="178" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/BharatQR.png/220px-BharatQR.png" srcset="//upload.wikimedia.org/wikipedia/commons/3/34/BharatQR.png 1.5x" width="220"/></a></td></tr><tr><th scope="row">Product type</th><td class="type"><div class="plainlist">
+<ul><li><a href="/wiki/QR_code_payment" title="QR code payment">QR code payment</a></li></ul>
+</div></td></tr><tr><th scope="row">Owner</th><td class="brand"><a href="/wiki/National_Payments_Corporation_of_India" title="National Payments Corporation of India">National Payments Corporation of India</a> (NPCI)</td></tr><tr><th scope="row">Country</th><td><a href="/wiki/India" title="India">India</a></td></tr><tr><th scope="row">Introduced</th><td>20 February 2017<span class="noprint">; 2 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">2017-02-20</span>)</span></td></tr><tr><th scope="row">Markets</th><td><div class="plainlist"><ul><li><a href="/wiki/India" title="India">India</a></li></ul></div></td></tr><tr><th scope="row">Website</th><td><span class="url"><a class="external text" href="https://www.npci.org.in/" rel="nofollow">www<wbr/>.npci<wbr/>.org<wbr/>.in</a></span></td></tr></tbody></table>
+<p><b>BharatQR</b>, developed by <a class="mw-redirect" href="/wiki/NPCI" title="NPCI">NPCI</a>, <a href="/wiki/Mastercard" title="Mastercard">Mastercard</a>, and <a href="/wiki/Visa_Inc." title="Visa Inc.">Visa</a>, is an integrated <a href="/wiki/Payment_system" title="Payment system">payment system</a> in <a href="/wiki/India" title="India">India</a>. The system, which was launched in September 2016, facilitates users to transfer their money from one source to another. The money transferred through BharatQR is received directly in the user's linked bank account. It provides a common interface between RuPay, Mastercard, Visa, American Express as opposed to other such systems used by startups and is interoperable with all the banks.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Currently, BharatQR is supported on <a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a> and <a href="/wiki/IOS" title="IOS">iOS</a> devices.
+</p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BharatQR&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>BharatQR was launched in September 2016 as per the directions set by the <a href="/wiki/Reserve_Bank_of_India" title="Reserve Bank of India">Reserve Bank of India</a> with aim of facilitating India in transition to a less-cash society. The system helps in enabling digital payments to reduce the usage of card swiping machines for payment. A number of banks supported BharatQR, before the system was launched, and got ready to deploy it.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>Although, BharatQR primarily works by scanning <a class="mw-redirect" href="/wiki/QR_codes" title="QR codes">QR codes</a>, it is not the only way to make payments. It allows users to pay through <a href="/wiki/Aadhaar" title="Aadhaar">Aadhaar</a> number, <a href="/wiki/Unified_Payments_Interface" title="Unified Payments Interface">UPI</a> payment address or through account number and IFSC code, thus, minimizing the need to pay using debit and credit card which are, supposedly, less secure than BharatQR.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> The system, also, supports Dynamic QR code generation which eliminates the need of entering the amount for payment.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>This payment system supports <a href="/wiki/RuPay" title="RuPay">RuPay</a>, <a href="/wiki/Mastercard" title="Mastercard">Mastercard</a>, <a href="/wiki/Visa_Inc." title="Visa Inc.">Visa</a>, <a href="/wiki/American_Express" title="American Express">American Express</a> and 14 other national banks. Multiple cards can be linked to BharatQR supported bank apps and can be selected any one of them to handle transactions conveniently for bank customers, partners, merchants. BharatQR enables faster &amp; secure mode of transactions with <a href="/wiki/Immediate_Payment_Service" title="Immediate Payment Service">Immediate Payment Service (IMPS)</a>. There is no need to share mobile number or account details, CVV with anyone.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p><p>NPCI, Mastercard and Visa developed BharatQR with provisions for three additional fields: bank account and IFS (Indian Financial System) code, Unified Payments Interface (UPI) and Aadhaar. These additional fields provide banks the option to populate them as QR-based payments scale in the country. American Express is also on board to adopt these standards.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> 
+</p>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BharatQR&amp;action=edit&amp;section=2" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bijlipay became the first Indian Point-of-Sale (PoS) devices providing company to enable it on the screens of PoS machines. Bijlipay, an end to end digital payment company, has enabled the QR code for 12,000 merchants and targets to make the facility available to another 50,000 merchants by the end of 2017.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> 
+</p><p>ItzCash announced rolling-out Bharat QR code feature across its retail network to scan and pay money with ItzCash's Point-of-Sale devices by simply flashing cell phone across our robust network of 75,000 outlets in 3,000 cities and towns across India.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p><p><a href="/wiki/Samsung_Pay" title="Samsung Pay">Samsung Pay</a>, which earlier in 2017, integrated Samsung Pay mobile wallet with <a href="/wiki/Unified_Payments_Interface" title="Unified Payments Interface">Unified Payments Interface</a>, integrated BharatQR to pay at merchants supporting UPI payment system.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p><p>By early 2018, <a href="/wiki/Delhi_Metro_Rail_Corporation" title="Delhi Metro Rail Corporation">Delhi Metro Rail Corporation</a> is planning to introduce BharatQR code enabled <a href="/wiki/Automated_fare_collection" title="Automated fare collection">AFC</a> gates at all the stations of the Airport Express Line allowing passengers to use the system while using the Line. Two entry points at <a href="/wiki/Lal_Qila_metro_station" title="Lal Qila metro station">Lal Qila metro station</a> and two exit points at <a href="/wiki/Jama_Masjid_metro_station" title="Jama Masjid metro station">Jama Masjid metro station</a> are set by DMRC providing commuters to enter and exit using QR codes.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BharatQR&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.financialexpress.com/money/bharat-qr-here-are-5-things-to-know-about-the-new-cashless-transaction-mechanism/560282/" rel="nofollow">"Bharat QR: Here are 5 things to know about the new cashless transaction mechanism"</a>. <i>The Financial Express</i>. 21 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">17 November</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Financial+Express&amp;rft.atitle=Bharat+QR%3A+Here+are+5+things+to+know+about+the+new+cashless+transaction+mechanism&amp;rft.date=2017-02-21&amp;rft_id=http%3A%2F%2Fwww.financialexpress.com%2Fmoney%2Fbharat-qr-here-are-5-things-to-know-about-the-new-cashless-transaction-mechanism%2F560282%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABharatQR"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://www.npci.org.in/sites/default/files/NPCI-Mastercard-Visa-develop-BharatQR.pdf" rel="nofollow">"NPCI, Mastercard, Visa develop BharatQR"</a> <span class="cs1-format">(PDF)</span>. <i>NPCI</i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 November</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NPCI&amp;rft.atitle=NPCI%2C+Mastercard%2C+Visa+develop+BharatQR&amp;rft_id=https%3A%2F%2Fwww.npci.org.in%2Fsites%2Fdefault%2Ffiles%2FNPCI-Mastercard-Visa-develop-BharatQR.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABharatQR"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.thehindubusinessline.com/info-tech/how-to/how-bharat-qr-works/article9605890.ece" rel="nofollow">"How Bharat QR works"</a>. <i>The Hindu Business Line</i>. 29 March 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">17 November</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Hindu+Business+Line&amp;rft.atitle=How+Bharat+QR+works&amp;rft.date=2017-03-29&amp;rft_id=http%3A%2F%2Fwww.thehindubusinessline.com%2Finfo-tech%2Fhow-to%2Fhow-bharat-qr-works%2Farticle9605890.ece&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABharatQR"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://meity.gov.in/bharat-qr-code" rel="nofollow">"BHARAT QR CODE | Ministry of Electronics and Information Technology, Government of India"</a>. <i>meity.gov.in</i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 November</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=meity.gov.in&amp;rft.atitle=BHARAT+QR+CODE+%7C+Ministry+of+Electronics+and+Information+Technology%2C+Government+of+India&amp;rft_id=http%3A%2F%2Fmeity.gov.in%2Fbharat-qr-code&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABharatQR"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://bharatqrcode.com/benefits-bharat-qr-payment-system/" rel="nofollow">"What are the Benefits &amp; Features of Bharat QR Code?"</a>. <i>Bharat QR Code</i>. 3 November 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bharat+QR+Code&amp;rft.atitle=What+are+the+Benefits+%26+Features+of+Bharat+QR+Code%3F&amp;rft.date=2018-11-03&amp;rft_id=https%3A%2F%2Fbharatqrcode.com%2Fbenefits-bharat-qr-payment-system%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABharatQR"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.nfcworld.com/2017/02/21/350341/government-backed-bharatqr-launches-india-take-country-one-step-closer-mobile-payments/" rel="nofollow">"NPCI, Mastercard and Visa unveil standardised QR code mobile payments for India • NFC World"</a>. <i>NFC World</i>. 21 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NFC+World&amp;rft.atitle=NPCI%2C+Mastercard+and+Visa+unveil+standardised+QR+code+mobile+payments+for+India+%E2%80%A2+NFC+World&amp;rft.date=2017-02-21&amp;rft_id=https%3A%2F%2Fwww.nfcworld.com%2F2017%2F02%2F21%2F350341%2Fgovernment-backed-bharatqr-launches-india-take-country-one-step-closer-mobile-payments%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABharatQR"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.financialexpress.com/industry/technology/bharat-qr-code-now-enabled-on-pos-machines-for-12000-merchants-bijlipay-targets-another-50000/683226/" rel="nofollow">"Bharat QR code now enabled on POS machines for 12,000 merchants; Bijlipay targets another 50,000"</a>. <i>The Financial Express</i>. 24 May 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Financial+Express&amp;rft.atitle=Bharat+QR+code+now+enabled+on+POS+machines+for+12%2C000+merchants%3B+Bijlipay+targets+another+50%2C000&amp;rft.date=2017-05-24&amp;rft_id=https%3A%2F%2Fwww.financialexpress.com%2Findustry%2Ftechnology%2Fbharat-qr-code-now-enabled-on-pos-machines-for-12000-merchants-bijlipay-targets-another-50000%2F683226%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABharatQR"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.outlookindia.com/newsscroll/itzcash-enables-bharat-qr-on-its-pos-terminals/1082838" rel="nofollow">"ItzCash enables Bharat QR on its PoS terminals"</a>. <i><a class="external free" href="https://www.outlookindia.com/" rel="nofollow">https://www.outlookindia.com/</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=https%3A%2F%2Fwww.outlookindia.com%2F&amp;rft.atitle=ItzCash+enables+Bharat+QR+on+its+PoS+terminals&amp;rft_id=https%3A%2F%2Fwww.outlookindia.com%2Fnewsscroll%2Fitzcash-enables-bharat-qr-on-its-pos-terminals%2F1082838&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABharatQR"></span> <span class="cs1-visible-error error citation-comment">External link in <code class="cs1-code">|website=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://gadgets.ndtv.com/apps/news/samsung-pay-india-upi-payment-bharat-via-qr-code-update-rollout-1776832" rel="nofollow">"Samsung Pay App in India Gets UPI Payments Support for Bharat QR Codes"</a>. <i>NDTV Gadgets360.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 November</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NDTV+Gadgets360.com&amp;rft.atitle=Samsung+Pay+App+in+India+Gets+UPI+Payments+Support+for+Bharat+QR+Codes&amp;rft_id=https%3A%2F%2Fgadgets.ndtv.com%2Fapps%2Fnews%2Fsamsung-pay-india-upi-payment-bharat-via-qr-code-update-rollout-1776832&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABharatQR"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.gadgetsnow.com/tech-news/use-smartphone-to-travel-on-metros-airport-line-soon/articleshow/61483670.cms" rel="nofollow">"Use smartphone to travel on metro's Airport line soon | Gadgets Now"</a>. <i>Gadget Now</i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 November</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gadget+Now&amp;rft.atitle=Use+smartphone+to+travel+on+metro%E2%80%99s+Airport+line+soon+%7C+Gadgets+Now&amp;rft_id=https%3A%2F%2Fwww.gadgetsnow.com%2Ftech-news%2Fuse-smartphone-to-travel-on-metros-airport-line-soon%2Farticleshow%2F61483670.cms&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABharatQR"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20191214174725
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.268 seconds
+Real time usage: 0.393 seconds
+Preprocessor visited node count: 1178/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 26483/2097152 bytes
+Template argument size: 1211/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 29906/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.146/10.000 seconds
+Lua memory usage: 4.58 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  365.181      1 -total
+ 40.89%  149.337      1 Template:Reflist
+ 29.81%  108.854      1 Template:Infobox_brand
+ 28.58%  104.354      1 Template:Infobox
+ 25.01%   91.343      4 Template:Cite_news
+ 17.63%   64.381      1 Template:Advert
+ 12.81%   46.774      1 Template:Ambox
+ 11.77%   42.965      1 Template:Start_date_and_age
+ 11.10%   40.543      6 Template:Cite_web
+  5.77%   21.077      2 Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:55819725-0!canonical and timestamp 20191214174724 and revision id 924894447
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=BharatQR&amp;oldid=924894447">https://en.wikipedia.org/w/index.php?title=BharatQR&amp;oldid=924894447</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2016_establishments_in_India" title="Category:2016 establishments in India">2016 establishments in India</a></li><li><a href="/wiki/Category:Mobile_payments_in_India" title="Category:Mobile payments in India">Mobile payments in India</a></li><li><a href="/wiki/Category:Electronic_funds_transfer" title="Category:Electronic funds transfer">Electronic funds transfer</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">CS1 errors: external links</a></li><li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_June_2019" title="Category:Articles with a promotional tone from June 2019">Articles with a promotional tone from June 2019</a></li><li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li><li><a href="/wiki/Category:Use_Indian_English_from_February_2019" title="Category:Use Indian English from February 2019">Use Indian English from February 2019</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_Indian_English" title="Category:All Wikipedia articles written in Indian English">All Wikipedia articles written in Indian English</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_November_2013" title="Category:Use dmy dates from November 2013">Use dmy dates from November 2013</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=BharatQR" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=BharatQR" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/BharatQR" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:BharatQR" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/BharatQR">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=BharatQR&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=BharatQR&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/BharatQR" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/BharatQR" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=BharatQR&amp;oldid=924894447" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=BharatQR&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q48728987" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=BharatQR&amp;id=924894447" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=BharatQR">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=BharatQR&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=BharatQR&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%A8%DA%BE%D8%A7%D8%B1%D8%AA_%DA%A9%DB%8C%D9%88_%D8%A2%D8%B1" hreflang="ur" lang="ur" title="بھارت کیو آر – Urdu">اردو</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q48728987#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 November 2019, at 16:00<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=BharatQR&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.268","walltime":"0.393","ppvisitednodes":{"value":1178,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":26483,"limit":2097152},"templateargumentsize":{"value":1211,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":29906,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  365.181      1 -total"," 40.89%  149.337      1 Template:Reflist"," 29.81%  108.854      1 Template:Infobox_brand"," 28.58%  104.354      1 Template:Infobox"," 25.01%   91.343      4 Template:Cite_news"," 17.63%   64.381      1 Template:Advert"," 12.81%   46.774      1 Template:Ambox"," 11.77%   42.965      1 Template:Start_date_and_age"," 11.10%   40.543      6 Template:Cite_web","  5.77%   21.077      2 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.146","limit":"10.000"},"limitreport-memusage":{"value":4801995,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20191214174725","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"BharatQR","url":"https:\/\/en.wikipedia.org\/wiki\/BharatQR","sameAs":"http:\/\/www.wikidata.org\/entity\/Q48728987","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q48728987","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2017-11-17T15:09:31Z","dateModified":"2019-11-06T16:00:07Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/34\/BharatQR.png"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1265"});});</script>
+
+
+</body></html>

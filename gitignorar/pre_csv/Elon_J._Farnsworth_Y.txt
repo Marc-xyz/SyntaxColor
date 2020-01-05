@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Elon J. Farnsworth - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfk8HgpAMFgAAHQ2QDAAAAAJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Elon_J._Farnsworth","wgTitle":"Elon J. Farnsworth","wgCurRevisionId":910620892,"wgRevisionId":910620892,"wgArticleId":1872269,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from August 2019","1837 births","1863 deaths","United States Army generals","Union Army generals",
+"People of Illinois in the American Civil War","People of Michigan in the American Civil War","Union military personnel killed in the American Civil War","People from Winnebago County, Illinois","University of Michigan alumni"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Elon_J._Farnsworth","wgRelevantArticleId":1872269,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q530153","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons",
+"ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/7/7e/Elon_John_Farnsworth.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Elon_J._Farnsworth" rel="alternate"/>
+<link href="/w/index.php?title=Elon_J._Farnsworth&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Elon_J._Farnsworth&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Elon_J._Farnsworth" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Elon_J_Farnsworth rootpage-Elon_J_Farnsworth skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Elon J. Farnsworth</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about the Civil War general. For the Michigan politician, see <a href="/wiki/Elon_Farnsworth_(Michigan_Attorney_General)" title="Elon Farnsworth (Michigan Attorney General)">Elon Farnsworth (Michigan Attorney General)</a>.</div>
+<table class="infobox vcard" style="width:22em;width:25.5em;border-spacing:2px;"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:#C3D6EF;"><div class="fn" style="display:inline">Elon John Farnsworth</div></th></tr><tr><td colspan="2" style="text-align:center;border-bottom: 1px solid #aaa;; line-height: 1.5em"><a class="image" href="/wiki/File:Elon_John_Farnsworth.jpg"><img alt="Elon John Farnsworth.jpg" data-file-height="319" data-file-width="250" decoding="async" height="281" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Elon_John_Farnsworth.jpg/220px-Elon_John_Farnsworth.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/7/7e/Elon_John_Farnsworth.jpg 1.5x" width="220"/></a></td></tr><tr><th scope="row" style="padding-right: 1em">Born</th><td><span style="display:none">(<span class="bday">1837-07-30</span>)</span>July 30, 1837<br/><a class="mw-redirect" href="/wiki/Green_Oak,_Michigan" title="Green Oak, Michigan">Green Oak, Michigan</a></td></tr><tr><th scope="row" style="padding-right: 1em">Died</th><td>July 3, 1863<span style="display:none">(1863-07-03)</span> (aged 25)<br/><a href="/wiki/Gettysburg,_Pennsylvania" title="Gettysburg, Pennsylvania">Gettysburg, Pennsylvania</a></td></tr><tr><th scope="row" style="padding-right: 1em">Place of burial</th><td><div class="label" style="display:inline">Rockton Cemetery, <a href="/wiki/Rockton,_Illinois" title="Rockton, Illinois">Rockton, Illinois</a></div></td></tr><tr><th scope="row" style="padding-right: 1em">Allegiance</th><td><a class="mw-redirect" href="/wiki/United_States_of_America" title="United States of America">United States of America</a><br/><a href="/wiki/Union_(American_Civil_War)" title="Union (American Civil War)">Union</a></td></tr><tr><th scope="row" style="padding-right: 1em">Service/<wbr/>branch</th><td><a href="/wiki/United_States_Army" title="United States Army">United States Army</a><br/><a href="/wiki/Union_Army" title="Union Army">Union Army</a></td></tr><tr><th scope="row" style="padding-right: 1em">Years of service</th><td>1861–1863</td></tr><tr><th scope="row" style="padding-right: 1em">Rank</th><td><a class="image" href="/wiki/File:Union_army_cpt_rank_insignia.jpg"><img alt="Union army cpt rank insignia.jpg" data-file-height="544" data-file-width="1365" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Union_army_cpt_rank_insignia.jpg/35px-Union_army_cpt_rank_insignia.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Union_army_cpt_rank_insignia.jpg/53px-Union_army_cpt_rank_insignia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Union_army_cpt_rank_insignia.jpg/70px-Union_army_cpt_rank_insignia.jpg 2x" width="35"/></a> <a href="/wiki/Captain_(United_States)" title="Captain (United States)">Captain</a></td></tr><tr><th scope="row" style="padding-right: 1em">Commands held</th><td><a class="mw-redirect" href="/wiki/8th_Regiment_Illinois_Volunteer_Cavalry" title="8th Regiment Illinois Volunteer Cavalry">8th Illinois Cavalry Regiment</a><br/>1st Brigade, 3rd Division, <a href="/wiki/Cavalry_Corps_(Union_Army)" title="Cavalry Corps (Union Army)">Cavalry Corps</a>, <a href="/wiki/Army_of_the_Potomac" title="Army of the Potomac">Army of the Potomac</a></td></tr><tr><th scope="row" style="padding-right: 1em">Battles/wars</th><td><a href="/wiki/Utah_War" title="Utah War">Utah War</a><br/><a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>
+<ul><li><a href="/wiki/Battle_of_Chancellorsville" title="Battle of Chancellorsville">Battle of Chancellorsville</a></li>
+<li><a href="/wiki/Battle_of_Gettysburg" title="Battle of Gettysburg">Battle of Gettysburg</a> <a href="/wiki/Killed_in_action" title="Killed in action"><span style="font-family:'Times New Roman','Old English Text MT',serif"><b>†</b></span></a></li></ul>
+</td></tr><tr><th scope="row" style="padding-right: 1em">Signature</th><td><a class="image" href="/wiki/File:Appletons%27_Farnsworth_John_Franklin_-_Elon_John_signature.png"><img alt="Appletons' Farnsworth John Franklin - Elon John signature.png" data-file-height="85" data-file-width="519" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Appletons%27_Farnsworth_John_Franklin_-_Elon_John_signature.png/100px-Appletons%27_Farnsworth_John_Franklin_-_Elon_John_signature.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Appletons%27_Farnsworth_John_Franklin_-_Elon_John_signature.png/150px-Appletons%27_Farnsworth_John_Franklin_-_Elon_John_signature.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Appletons%27_Farnsworth_John_Franklin_-_Elon_John_signature.png/200px-Appletons%27_Farnsworth_John_Franklin_-_Elon_John_signature.png 2x" width="100"/></a></td></tr></tbody></table>
+<p><b>Elon John Farnsworth</b> (July 30, 1837 – July 3, 1863) was a <a href="/wiki/Union_Army" title="Union Army">Union Army</a> captain in the <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>. He commanded Brigade 1, Division 3 of the <a href="/wiki/Cavalry_Corps_(Union_Army)" title="Cavalry Corps (Union Army)">Cavalry Corps (Union Army)</a> from June 28, 1863 to July 3, 1863, when he was mortally wounded and died at the <a href="/wiki/Battle_of_Gettysburg" title="Battle of Gettysburg">Battle of Gettysburg</a>. He was nominated by <a href="/wiki/President_of_the_United_States" title="President of the United States">President</a> <a href="/wiki/Abraham_Lincoln" title="Abraham Lincoln">Abraham Lincoln</a> for appointment to the grade of <a href="/wiki/Brigadier_general_(United_States)" title="Brigadier general (United States)">brigadier general</a> on June 29, 1863 but was not confirmed by the <a href="/wiki/United_States_Senate" title="United States Senate">United States Senate</a> before his death at Gettysburg.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life_and_career"><span class="tocnumber">1</span> <span class="toctext">Early life and career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Civil_War"><span class="tocnumber">2</span> <span class="toctext">Civil War</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Death_at_Gettysburg"><span class="tocnumber">2.1</span> <span class="toctext">Death at Gettysburg</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Memorials"><span class="tocnumber">3</span> <span class="toctext">Memorials</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life_and_career">Early life and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elon_J._Farnsworth&amp;action=edit&amp;section=1" title="Edit section: Early life and career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Farnsworth was born in <a class="mw-redirect" href="/wiki/Green_Oak,_Michigan" title="Green Oak, Michigan">Green Oak, Michigan</a> on July 30, 1837.<sup class="reference" id="cite_ref-Eicher596_1-0"><a href="#cite_note-Eicher596-1">[1]</a></sup> 
+</p><p>Elon Farnsworth's uncle, <a href="/wiki/John_F._Farnsworth" title="John F. Farnsworth">John F. Farnsworth</a>, served in the <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">United States House of Representatives</a> from Illinois between March 4, 1857 and March 3, 1861 and again between March 4, 1863 and March 3, 1873.<sup class="reference" id="cite_ref-Eicher596_1-1"><a href="#cite_note-Eicher596-1">[1]</a></sup> John Farnsworth was a Union Army <a href="/wiki/Colonel_(United_States)" title="Colonel (United States)">colonel</a> who also commanded cavalry brigades (September 1862 to February 1862) and was nominated for appointed to the grade of brigadier general (November 1862).<sup class="reference" id="cite_ref-Eicher596_1-2"><a href="#cite_note-Eicher596-1">[1]</a></sup> His appointment also was not confirmed by the United States Senate after the nomination was ordered returned to President Lincoln on February 12, 1863.<sup class="reference" id="cite_ref-Eicher596_1-3"><a href="#cite_note-Eicher596-1">[1]</a></sup> 
+</p><p>Elon Farnsworth's family moved to Illinois in 1854.<sup class="reference" id="cite_ref-Eicher596_1-4"><a href="#cite_note-Eicher596-1">[1]</a></sup> A member of the Chi Psi Fraternity, Farnsworth was expelled from the <a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a> following a drinking party in which a classmate died after being thrown from a window.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> He joined the Army as a civilian foragemaster in 1857<sup class="reference" id="cite_ref-Eicher596_1-5"><a href="#cite_note-Eicher596-1">[1]</a></sup> and served on the staff of <a href="/wiki/Albert_Sidney_Johnston" title="Albert Sidney Johnston">Albert Sidney Johnston</a> during the <a href="/wiki/Utah_War" title="Utah War">Utah War</a> of 1857–58.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2019)">citation needed</span></a></i>]</sup> He also worked as a buffalo hunter, scout and freighter in the <a href="/wiki/Colorado_Territory" title="Colorado Territory">Colorado Territory</a>.<sup class="reference" id="cite_ref-Eicher596_1-6"><a href="#cite_note-Eicher596-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Civil_War">Civil War</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elon_J._Farnsworth&amp;action=edit&amp;section=2" title="Edit section: Civil War">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At the outbreak of the Civil War, Farnsworth was appointed a <a href="/wiki/First_lieutenant#United_States" title="First lieutenant">first lieutenant</a> in the <a class="mw-redirect" href="/wiki/8th_Regiment_Illinois_Volunteer_Cavalry" title="8th Regiment Illinois Volunteer Cavalry">8th Illinois Cavalry</a>, the regiment commanded by his uncle,<sup class="reference" id="cite_ref-Eicher596_1-7"><a href="#cite_note-Eicher596-1">[1]</a></sup> serving with distinction throughout the early stages of the war. Being promoted to <a href="/wiki/Captain_(United_States)" title="Captain (United States)">captain</a> on December 25, 1861, he was made Assistant Chief Quartermaster of the <a href="/wiki/IV_Corps_(Union_Army)" title="IV Corps (Union Army)">IV Corps</a>, and in early 1863, he served as <a href="/wiki/Aide-de-camp" title="Aide-de-camp">aide-de-camp</a> to Brigadier General <a href="/wiki/Alfred_Pleasonton" title="Alfred Pleasonton">Alfred Pleasonton</a> through the <a href="/wiki/Battle_of_Chancellorsville" title="Battle of Chancellorsville">Battle of Chancellorsville</a> and early stages of the <a class="mw-redirect" href="/wiki/Gettysburg_Campaign" title="Gettysburg Campaign">Gettysburg Campaign</a>.<sup class="reference" id="cite_ref-Eicher596_1-8"><a href="#cite_note-Eicher596-1">[1]</a></sup> Pleasanton, then in command of the Union Cavalry Corp, gave Farnsworth command of 1st Brigade, 3rd Division, Cavalry Corps, <a href="/wiki/Army_of_the_Potomac" title="Army of the Potomac">Army of the Potomac</a> on June 28, 1863, three days before the <a href="/wiki/Battle_of_Gettysburg" title="Battle of Gettysburg">Battle of Gettysburg</a>. On June 29, 1863, just two days before the battle, President Lincoln nominated Farnsworth to the grade <a href="/wiki/Brigadier_general_(United_States)" title="Brigadier general (United States)">brigadier general</a> of volunteers but the appointment was never confirmed by the <a href="/wiki/United_States_Senate" title="United States Senate">United States Senate</a>.<sup class="reference" id="cite_ref-Eicher596_1-9"><a href="#cite_note-Eicher596-1">[1]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Death_at_Gettysburg">Death at Gettysburg</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elon_J._Farnsworth&amp;action=edit&amp;section=3" title="Edit section: Death at Gettysburg">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Gettysburg_South_Cavalry_Field.png"><img alt="" class="thumbimage" data-file-height="1025" data-file-width="2166" decoding="async" height="104" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gettysburg_South_Cavalry_Field.png/220px-Gettysburg_South_Cavalry_Field.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gettysburg_South_Cavalry_Field.png/330px-Gettysburg_South_Cavalry_Field.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gettysburg_South_Cavalry_Field.png/440px-Gettysburg_South_Cavalry_Field.png 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Gettysburg_South_Cavalry_Field.png" title="Enlarge"></a></div>South Cavalry Field at Gettysburg <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #ff0000; color:black; font-size:100%; text-align:center;"> </span> Confederate</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #0000ff; color:black; font-size:100%; text-align:center;"> </span> Union</div></div></div></div>
+<p>After the collapse of <a href="/wiki/Pickett%27s_Charge" title="Pickett's Charge">Pickett's Charge</a> and the defeat of <a class="mw-redirect" href="/wiki/Major_General_(CSA)" title="Major General (CSA)">Major General</a> <a class="mw-redirect" href="/wiki/J.E.B._Stuart" title="J.E.B. Stuart">J.E.B. Stuart</a>'s <a href="/wiki/Confederate_States_Army" title="Confederate States Army">Confederate</a> cavalry on July 3, the <a class="mw-redirect" href="/wiki/Battle_of_Gettysburg,_Third_Day_cavalry_battles" title="Battle of Gettysburg, Third Day cavalry battles">third day of the Battle of Gettysburg</a>, Brigadier General <a href="/wiki/Hugh_Judson_Kilpatrick" title="Hugh Judson Kilpatrick">Hugh Judson Kilpatrick</a>, commanding the 3rd Division, ordered Farnsworth to make a charge with his brigade against Confederate positions south of the <a href="/wiki/Devil%27s_Den" title="Devil's Den">Devil's Den</a> area of the battlefield, below <a href="/wiki/Little_Round_Top" title="Little Round Top">Little Round Top</a>. Farnsworth initially balked, arguing there was no hope of success, and only agreed to it when Kilpatrick allegedly accused him of cowardice. Farnsworth made the charge, against elements of <a class="mw-redirect" href="/wiki/John_B._Hood" title="John B. Hood">John B. Hood</a>'s division, under <a href="/wiki/Evander_M._Law" title="Evander M. Law">Evander M. Law</a> (Hood having been wounded the previous day). Farnsworth rode with the second battalion of the <a href="/wiki/1st_Vermont_Cavalry" title="1st Vermont Cavalry">1st Vermont Cavalry</a>, alongside Major <a href="/wiki/William_Wells_(general)" title="William Wells (general)">William Wells</a>.
+</p><p>The charge was repulsed with heavy losses, and Farnsworth himself was shot five times in the chest. An account by Confederate Colonel <a href="/wiki/William_C._Oates" title="William C. Oates">William C. Oates</a> claimed that Farnsworth was surrounded by Confederate soldiers and committed suicide to avoid capture, but this has been disputed by other witnesses and discounted by most historians.<sup class="reference" id="cite_ref-Eicher596_1-10"><a href="#cite_note-Eicher596-1">[1]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Kilpatrick received much criticism for ordering the charge, but no official action was taken against him.
+</p><p>Farnsworth is buried in Rockton Cemetery, <a href="/wiki/Rockton,_Illinois" title="Rockton, Illinois">Rockton, Illinois</a>.<sup class="reference" id="cite_ref-Eicher596_1-11"><a href="#cite_note-Eicher596-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Memorials">Memorials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elon_J._Farnsworth&amp;action=edit&amp;section=4" title="Edit section: Memorials">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Battery Farnsworth, a coastal defense built between 1897 and 1899 near <a class="mw-redirect" href="/wiki/Fort_Constitution" title="Fort Constitution">Fort Constitution</a> at <a href="/wiki/New_Castle,_New_Hampshire" title="New Castle, New Hampshire">New Castle, New Hampshire</a>, was named in his honor.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elon_J._Farnsworth&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="1944" data-file-width="1911" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/28px-P_vip.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/41px-P_vip.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/55px-P_vip.svg.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Biography" title="Portal:Biography">Biography portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer thumbborder" data-file-height="209" data-file-width="213" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/United_states_confederate_flag_hybrid.png/29px-United_states_confederate_flag_hybrid.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/United_states_confederate_flag_hybrid.png/43px-United_states_confederate_flag_hybrid.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/United_states_confederate_flag_hybrid.png/57px-United_states_confederate_flag_hybrid.png 2x" width="29"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:American_Civil_War" title="Portal:American Civil War">American Civil War portal</a></span></li></ul></div>
+<ul><li><a class="mw-redirect" href="/wiki/Battle_of_Gettysburg,_Third_Day_cavalry_battles" title="Battle of Gettysburg, Third Day cavalry battles">Battle of Gettysburg, Third Day cavalry battles</a></li></ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elon_J._Farnsworth&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Eicher596-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Eicher596_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Eicher596_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Eicher596_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Eicher596_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Eicher596_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Eicher596_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Eicher596_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Eicher596_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Eicher596_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Eicher596_1-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Eicher596_1-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Eicher596_1-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text">Eicher, John H., and <a href="/wiki/David_J._Eicher" title="David J. Eicher">David J. Eicher</a>. <i>Civil War High Commands</i>. Stanford, CA: Stanford University Press, 2001. <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8047-3641-3" title="Special:BookSources/0-8047-3641-3">0-8047-3641-3</a>. p. 596.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Petruzzi, J. David, <a class="external text" href="http://petruzzi.wordpress.com/2007/06/13/faded-hoofbeats-elon-j-farnsworth/" rel="nofollow">"Elon J. Farnsworth"</a>, <i>Faded Hoofbeats</i> blog, June 13, 2007.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="/wiki/Jeffry_D._Wert" title="Jeffry D. Wert">Wert, Jeffry D.</a> <i>Gettysburg: Day Three</i>. New York: Simon &amp; Schuster, 2001. <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-684-85914-9" title="Special:BookSources/0-684-85914-9">0-684-85914-9</a> p. 278: "Subsequent accounts by Confederates alleging that he had committed suicide are bogus."</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elon_J._Farnsworth&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Boatner, Mark Mayo, III. <i>The Civil War Dictionary</i>. New York: McKay, 1988. <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8129-1726-X" title="Special:BookSources/0-8129-1726-X">0-8129-1726-X</a>. First published 1959 by McKay.</li>
+<li>Eicher, John H., and <a href="/wiki/David_J._Eicher" title="David J. Eicher">David J. Eicher</a>. <i>Civil War High Commands</i>. Stanford, CA: Stanford University Press, 2001. <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8047-3641-3" title="Special:BookSources/0-8047-3641-3">0-8047-3641-3</a>.</li>
+<li><a href="/wiki/Craig_Symonds" title="Craig Symonds">Symonds, Craig L.</a> <i>American Heritage History of the Battle of Gettysburg</i>. New York: HarperCollins, 2001. <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-06-019474-X" title="Special:BookSources/0-06-019474-X">0-06-019474-X</a>.</li>
+<li><a href="/wiki/Jeffry_D._Wert" title="Jeffry D. Wert">Wert, Jeffry D.</a> <i>Gettysburg: Day Three</i>. New York: Simon &amp; Schuster, 2001. <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-684-85914-9" title="Special:BookSources/0-684-85914-9">0-684-85914-9</a>.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elon_J._Farnsworth&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation web"><a class="external text" href="https://www.findagrave.com/memorial/5842062" rel="nofollow">"Elon J. Farnsworth"</a>. <a href="/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 15,</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Elon+J.+Farnsworth&amp;rft.pub=Find+a+Grave&amp;rft_id=https%3A%2F%2Fwww.findagrave.com%2Fmemorial%2F5842062&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElon+J.+Farnsworth"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><img alt="Wikisource-logo.svg" data-file-height="430" data-file-width="410" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" width="12"/> <cite class="citation encyclopaedia"><span class="cs1-ws-icon" title="s:Appletons' Cyclopædia of American Biography/Farnsworth, John Franklin"><a class="external text" href="https://en.wikisource.org/wiki/Appletons%27_Cyclop%C3%A6dia_of_American_Biography/Farnsworth,_John_Franklin">"Farnsworth, John Franklin" </a></span>. <i><a href="/wiki/Appletons%27_Cyclop%C3%A6dia_of_American_Biography" title="Appletons' Cyclopædia of American Biography">Appletons' Cyclopædia of American Biography</a></i>. 1900.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Farnsworth%2C+John+Franklin&amp;rft.btitle=Appletons%27+Cyclop%C3%A6dia+of+American+Biography&amp;rft.date=1900&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElon+J.+Farnsworth"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li></ul>
+<div aria-labelledby="Gettysburg_figures" class="navbox" role="navigation" style=";wide;padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background-color:#C3D6EF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Gettysburg_figures" title="Template:Gettysburg figures"><abbr style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gettysburg_figures" title="Template talk:Gettysburg figures"><abbr style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Gettysburg_figures&amp;action=edit"><abbr style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Gettysburg_figures" style="font-size:114%;margin:0 4em"><a href="/wiki/Battle_of_Gettysburg" title="Battle of Gettysburg">Gettysburg figures</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/Confederate_States_Army" title="Confederate States Army">Confederate</a> leaders</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Robert_E._Lee" title="Robert E. Lee">Lee</a></i></li>
+<li><a href="/wiki/Edward_Porter_Alexander" title="Edward Porter Alexander">Alexander</a></li>
+<li><a href="/wiki/Richard_H._Anderson" title="Richard H. Anderson">R. Anderson</a></li>
+<li><a href="/wiki/George_T._Anderson" title="George T. Anderson">G. Anderson</a></li>
+<li><a href="/wiki/James_J._Archer" title="James J. Archer">Archer</a></li>
+<li><a class="mw-redirect" href="/wiki/Lewis_Addison_Armistead" title="Lewis Addison Armistead">Armistead</a></li>
+<li><a href="/wiki/William_Barksdale" title="William Barksdale">Barksdale</a></li>
+<li><a href="/wiki/Henry_L._Benning" title="Henry L. Benning">Benning</a></li>
+<li><a href="/wiki/John_M._Brockenbrough" title="John M. Brockenbrough">Brockenbrough</a></li>
+<li><a href="/wiki/John_R._Chambliss" title="John R. Chambliss">Chambliss</a></li>
+<li><a href="/wiki/Junius_Daniel" title="Junius Daniel">Daniel</a></li>
+<li><a href="/wiki/Joseph_R._Davis" title="Joseph R. Davis">Davis</a></li>
+<li><a href="/wiki/George_P._Doles" title="George P. Doles">Doles</a></li>
+<li><a href="/wiki/Jubal_Early" title="Jubal Early">Early</a></li>
+<li><a href="/wiki/Richard_S._Ewell" title="Richard S. Ewell">Ewell</a></li>
+<li><a href="/wiki/Richard_B._Garnett" title="Richard B. Garnett">Garnett</a></li>
+<li><a href="/wiki/John_Brown_Gordon" title="John Brown Gordon">Gordon</a></li>
+<li><a href="/wiki/Wade_Hampton_III" title="Wade Hampton III">Hampton</a></li>
+<li><a href="/wiki/Harry_T._Hays" title="Harry T. Hays">Hays</a></li>
+<li><a href="/wiki/Henry_Heth" title="Henry Heth">Heth</a></li>
+<li><a href="/wiki/A._P._Hill" title="A. P. Hill">Hill</a></li>
+<li><a href="/wiki/John_Bell_Hood" title="John Bell Hood">Hood</a></li>
+<li><a href="/wiki/Benjamin_G._Humphreys" title="Benjamin G. Humphreys">Humphreys</a></li>
+<li><a href="/wiki/John_D._Imboden" title="John D. Imboden">Imboden</a></li>
+<li><a href="/wiki/Alfred_Iverson_Jr." title="Alfred Iverson Jr.">Iverson</a></li>
+<li><a href="/wiki/Albert_G._Jenkins" title="Albert G. Jenkins">Jenkins</a></li>
+<li><a href="/wiki/Edward_Johnson_(general)" title="Edward Johnson (general)">Johnson</a></li>
+<li><a href="/wiki/John_M._Jones" title="John M. Jones">J. Jones</a></li>
+<li><a href="/wiki/William_E._Jones" title="William E. Jones">W. Jones</a></li>
+<li><a href="/wiki/James_L._Kemper" title="James L. Kemper">Kemper</a></li>
+<li><a href="/wiki/Joseph_B._Kershaw" title="Joseph B. Kershaw">Kershaw</a></li>
+<li><a href="/wiki/James_Henry_Lane_(Confederate_general)" title="James Henry Lane (Confederate general)">Lane</a></li>
+<li><a href="/wiki/Evander_M._Law" title="Evander M. Law">Law</a></li>
+<li><a href="/wiki/Fitzhugh_Lee" title="Fitzhugh Lee">F. Lee</a></li>
+<li><a href="/wiki/William_Henry_Fitzhugh_Lee" title="William Henry Fitzhugh Lee">W. Lee</a></li>
+<li><a href="/wiki/James_Longstreet" title="James Longstreet">Longstreet</a></li>
+<li><a href="/wiki/William_Mahone" title="William Mahone">Mahone</a></li>
+<li><a href="/wiki/James_K._Marshall" title="James K. Marshall">Marshall</a></li>
+<li><a href="/wiki/Lafayette_McLaws" title="Lafayette McLaws">McLaws</a></li>
+<li><a href="/wiki/Edward_A._O%27Neal" title="Edward A. O'Neal">O'Neal</a></li>
+<li><a href="/wiki/William_C._Oates" title="William C. Oates">Oates</a></li>
+<li><a href="/wiki/William_Dorsey_Pender" title="William Dorsey Pender">Pender</a></li>
+<li><a href="/wiki/J._Johnston_Pettigrew" title="J. Johnston Pettigrew">Pettigrew</a></li>
+<li><a href="/wiki/Abner_Monroe_Perrin" title="Abner Monroe Perrin">Perrin</a></li>
+<li><a href="/wiki/George_Pickett" title="George Pickett">Pickett</a></li>
+<li><a href="/wiki/Carnot_Posey" title="Carnot Posey">Posey</a></li>
+<li><a href="/wiki/Stephen_Dodson_Ramseur" title="Stephen Dodson Ramseur">Ramseur</a></li>
+<li><a href="/wiki/Jerome_B._Robertson" title="Jerome B. Robertson">Robertson</a></li>
+<li><a href="/wiki/Robert_E._Rodes" title="Robert E. Rodes">Rodes</a></li>
+<li><a href="/wiki/Alfred_Moore_Scales" title="Alfred Moore Scales">Scales</a></li>
+<li><a href="/wiki/Paul_Jones_Semmes" title="Paul Jones Semmes">Semmes</a></li>
+<li><a href="/wiki/William_Smith_(Virginia_governor)" title="William Smith (Virginia governor)">Smith</a></li>
+<li><a href="/wiki/George_H._Steuart_(brigadier_general)" title="George H. Steuart (brigadier general)">G. Steuart</a></li>
+<li><a href="/wiki/J._E._B._Stuart" title="J. E. B. Stuart">J. E. B. Stuart</a></li>
+<li><a href="/wiki/Edward_Lloyd_Thomas" title="Edward Lloyd Thomas">Thomas</a></li>
+<li><a href="/wiki/Isaac_R._Trimble" title="Isaac R. Trimble">Trimble</a></li>
+<li><a href="/wiki/James_A._Walker" title="James A. Walker">J. Walker</a></li>
+<li><a href="/wiki/Reuben_Lindsay_Walker" title="Reuben Lindsay Walker">R. Walker</a></li>
+<li><a href="/wiki/Cadmus_M._Wilcox" title="Cadmus M. Wilcox">Wilcox</a></li>
+<li><a href="/wiki/William_T._Wofford" title="William T. Wofford">Wofford</a></li>
+<li><a href="/wiki/Ambrose_R._Wright" title="Ambrose R. Wright">Wright</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/Union_(American_Civil_War)" title="Union (American Civil War)">Union</a> leaders</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/George_Meade" title="George Meade">Meade</a></i></li>
+<li><a href="/wiki/Adelbert_Ames" title="Adelbert Ames">Ames</a></li>
+<li><a href="/wiki/Romeyn_B._Ayres" title="Romeyn B. Ayres">Ayres</a></li>
+<li><a href="/wiki/Francis_C._Barlow" title="Francis C. Barlow">Barlow</a></li>
+<li><a href="/wiki/James_Barnes_(general)" title="James Barnes (general)">Barnes</a></li>
+<li><a href="/wiki/Henry_Baxter" title="Henry Baxter">Baxter</a></li>
+<li><a href="/wiki/Chapman_Biddle" title="Chapman Biddle">Biddle</a></li>
+<li><a href="/wiki/David_B._Birney" title="David B. Birney">Birney</a></li>
+<li><a href="/wiki/John_Buford" title="John Buford">Buford</a></li>
+<li><a href="/wiki/John_C._Caldwell" title="John C. Caldwell">Caldwell</a></li>
+<li><a href="/wiki/Charles_Candy" title="Charles Candy">Candy</a></li>
+<li><a class="mw-redirect" href="/wiki/Louis_Henry_Carpenter" title="Louis Henry Carpenter">Carpenter</a></li>
+<li><a href="/wiki/Joseph_Bradford_Carr" title="Joseph Bradford Carr">Carr</a></li>
+<li><a href="/wiki/Joshua_Chamberlain" title="Joshua Chamberlain">J. Chamberlain</a></li>
+<li><a href="/wiki/Ira_W._Claflin" title="Ira W. Claflin">Claflin</a></li>
+<li><a href="/wiki/Edward_E._Cross" title="Edward E. Cross">Cross</a></li>
+<li><a href="/wiki/Andrew_Gregg_Curtin" title="Andrew Gregg Curtin">Curtin</a></li>
+<li><a href="/wiki/Alonzo_Cushing" title="Alonzo Cushing">Cushing</a></li>
+<li><a href="/wiki/George_Armstrong_Custer" title="George Armstrong Custer">Custer</a></li>
+<li><a href="/wiki/Lysander_Cutler" title="Lysander Cutler">Cutler</a></li>
+<li><a href="/wiki/Samuel_W._Crawford" title="Samuel W. Crawford">Crawford</a></li>
+<li><a href="/wiki/Abner_Doubleday" title="Abner Doubleday">Doubleday</a></li>
+<li><a class="mw-selflink selflink">Farnsworth</a></li>
+<li><a href="/wiki/John_W._Geary" title="John W. Geary">Geary</a></li>
+<li><a href="/wiki/John_Gibbon" title="John Gibbon">Gibbon</a></li>
+<li><a href="/wiki/Leopold_von_Gilsa" title="Leopold von Gilsa">Gilsa</a></li>
+<li><a href="/wiki/Charles_K._Graham" title="Charles K. Graham">Graham</a></li>
+<li><a href="/wiki/George_S._Greene" title="George S. Greene">Greene</a></li>
+<li><a href="/wiki/David_McMurtrie_Gregg" title="David McMurtrie Gregg">Gregg</a></li>
+<li><a href="/wiki/Winfield_Scott_Hancock" title="Winfield Scott Hancock">Hancock</a></li>
+<li><a href="/wiki/William_Harrow" title="William Harrow">Harrow</a></li>
+<li><a href="/wiki/Alexander_Hays" title="Alexander Hays">Hays</a></li>
+<li><a href="/wiki/Joseph_Hooker" title="Joseph Hooker">Hooker</a></li>
+<li><a href="/wiki/Oliver_Otis_Howard" title="Oliver Otis Howard">Howard</a></li>
+<li><a href="/wiki/Andrew_A._Humphreys" title="Andrew A. Humphreys">Humphreys</a></li>
+<li><a href="/wiki/Henry_Jackson_Hunt" title="Henry Jackson Hunt">Hunt</a></li>
+<li><a class="mw-redirect" href="/wiki/Judson_Kilpatrick" title="Judson Kilpatrick">Kilpatrick</a></li>
+<li><a class="mw-redirect" href="/wiki/Wlodzimierz_Krzyzanowski" title="Wlodzimierz Krzyzanowski">Krzyzanowski</a></li>
+<li><a href="/wiki/Abraham_Lincoln" title="Abraham Lincoln">Lincoln</a></li>
+<li><a href="/wiki/Solomon_Meredith" title="Solomon Meredith">Meredith</a></li>
+<li><a href="/wiki/Wesley_Merritt" title="Wesley Merritt">Merritt</a></li>
+<li><a href="/wiki/John_Newton_(engineer)" title="John Newton (engineer)">Newton</a></li>
+<li><a href="/wiki/Nicholas_M._Nolan" title="Nicholas M. Nolan">Nolan</a></li>
+<li><a class="mw-redirect" href="/wiki/Gabriel_Rene_Paul" title="Gabriel Rene Paul">Paul</a></li>
+<li><a href="/wiki/Alfred_Pleasonton" title="Alfred Pleasonton">Pleasonton</a></li>
+<li><a href="/wiki/John_F._Reynolds" title="John F. Reynolds">Reynolds</a></li>
+<li><a href="/wiki/James_Clay_Rice" title="James Clay Rice">Rice</a></li>
+<li><a href="/wiki/John_C._Robinson" title="John C. Robinson">Robinson</a></li>
+<li><a href="/wiki/Thomas_Algeo_Rowley" title="Thomas Algeo Rowley">Rowley</a></li>
+<li><a href="/wiki/Thomas_H._Ruger" title="Thomas H. Ruger">Ruger</a></li>
+<li><a href="/wiki/Alexander_Schimmelfennig" title="Alexander Schimmelfennig">Schimmelfennig</a></li>
+<li><a href="/wiki/Carl_Schurz" title="Carl Schurz">Schurz</a></li>
+<li><a href="/wiki/John_Sedgwick" title="John Sedgwick">Sedgwick</a></li>
+<li><a href="/wiki/Daniel_Sickles" title="Daniel Sickles">Sickles</a></li>
+<li><a href="/wiki/Henry_Warner_Slocum" title="Henry Warner Slocum">Slocum</a></li>
+<li><a href="/wiki/George_J._Stannard" title="George J. Stannard">Stannard</a></li>
+<li><a href="/wiki/Samuel_H._Starr" title="Samuel H. Starr">Starr</a></li>
+<li><a href="/wiki/Adolph_von_Steinwehr" title="Adolph von Steinwehr">Steinwehr</a></li>
+<li><a href="/wiki/George_Sykes" title="George Sykes">Sykes</a></li>
+<li><a href="/wiki/William_S._Tilton" title="William S. Tilton">Tilton</a></li>
+<li><a href="/wiki/Robert_O._Tyler" title="Robert O. Tyler">Tyler</a></li>
+<li><a href="/wiki/Strong_Vincent" title="Strong Vincent">Vincent</a></li>
+<li><a href="/wiki/James_S._Wadsworth" title="James S. Wadsworth">Wadsworth</a></li>
+<li><a href="/wiki/J._H._Hobart_Ward" title="J. H. Hobart Ward">Ward</a></li>
+<li><a href="/wiki/Gouverneur_K._Warren" title="Gouverneur K. Warren">Warren</a></li>
+<li><a href="/wiki/Stephen_H._Weed" title="Stephen H. Weed">Weed</a></li>
+<li><a href="/wiki/Alexander_S._Webb" title="Alexander S. Webb">Webb</a></li>
+<li><a href="/wiki/George_L._Willard" title="George L. Willard">Willard</a></li>
+<li><a href="/wiki/Alpheus_S._Williams" title="Alpheus S. Williams">Williams</a></li>
+<li><a href="/wiki/Samuel_K._Zook" title="Samuel K. Zook">Zook</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background-color:#DCDCDC;">Other notable<br/>military personnel</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Russell_A._Alger" title="Russell A. Alger">Alger</a></li>
+<li><a href="/wiki/Isaac_E._Avery" title="Isaac E. Avery">Avery</a></li>
+<li><a href="/wiki/Laurence_S._Baker" title="Laurence S. Baker">Baker</a></li>
+<li><a href="/wiki/Alfred_Horatio_Belo" title="Alfred Horatio Belo">Belo</a></li>
+<li><a href="/wiki/Hiram_Berdan" title="Hiram Berdan">Berdan</a></li>
+<li><a href="/wiki/Alexander_Biddle" title="Alexander Biddle">Biddle</a></li>
+<li><a href="/wiki/John_R._Brooke" title="John R. Brooke">Brooke</a></li>
+<li><a href="/wiki/Stephen_F._Brown" title="Stephen F. Brown">Brown</a></li>
+<li><a href="/wiki/Goode_Bryan" title="Goode Bryan">Bryan</a></li>
+<li><a href="/wiki/Henry_K._Burgwyn" title="Henry K. Burgwyn">Burgwyn</a></li>
+<li><a href="/wiki/George_C._Burling" title="George C. Burling">Burling</a></li>
+<li><a href="/wiki/Samuel_S._Carroll" title="Samuel S. Carroll">Carroll</a></li>
+<li><a class="mw-redirect" href="/wiki/Thomas_Henry_Carter_(Civil_War)" title="Thomas Henry Carter (Civil War)">Carter</a></li>
+<li><a href="/wiki/Thomas_Chamberlain_(soldier)" title="Thomas Chamberlain (soldier)">T. Chamberlain</a></li>
+<li><a href="/wiki/William_J._Colvill" title="William J. Colvill">Colvill</a></li>
+<li><a href="/wiki/William_Corby" title="William Corby">Corby</a></li>
+<li><a href="/wiki/Charles_Coster" title="Charles Coster">Coster</a></li>
+<li><a href="/wiki/James_Dearing" title="James Dearing">Dearing</a></li>
+<li><a href="/wiki/Thomas_Devin" title="Thomas Devin">Devin</a></li>
+<li><a href="/wiki/Augustus_van_Horne_Ellis" title="Augustus van Horne Ellis">Ellis</a></li>
+<li><a href="/wiki/Richard_Enderlin" title="Richard Enderlin">Enderlin</a></li>
+<li><a href="/wiki/Arthur_Lyon_Fremantle" title="Arthur Lyon Fremantle">Lyon Fremantle</a></li>
+<li><a href="/wiki/Birkett_D._Fry" title="Birkett D. Fry">Fry</a></li>
+<li><a href="/wiki/William_Gamble_(general)" title="William Gamble (general)">Gamble</a></li>
+<li><a href="/wiki/Kenner_Garrard" title="Kenner Garrard">Garrard</a></li>
+<li><a href="/wiki/Archibald_C._Godwin" title="Archibald C. Godwin">Godwin</a></li>
+<li><a href="/wiki/TJ_Goree" title="TJ Goree">Goree</a></li>
+<li><a href="/wiki/John_Irvin_Gregg" title="John Irvin Gregg">Gregg</a></li>
+<li><a href="/wiki/Bryan_Grimes" title="Bryan Grimes">Grimes</a></li>
+<li><a href="/wiki/James_Gwyn" title="James Gwyn">Gwyn</a></li>
+<li><a href="/wiki/Norman_J._Hall" title="Norman J. Hall">Hall</a></li>
+<li><a href="/wiki/Henry_Thomas_Harrison" title="Henry Thomas Harrison">Harrison</a></li>
+<li><a href="/wiki/Frank_A._Haskell" title="Frank A. Haskell">Haskell</a></li>
+<li><a href="/wiki/Charles_E._Hazlett" title="Charles E. Hazlett">Hazlett</a></li>
+<li><a href="/wiki/Horatio_Stockton_Howell" title="Horatio Stockton Howell">Howell</a></li>
+<li><a href="/wiki/Amos_Humiston" title="Amos Humiston">Humiston</a></li>
+<li><a href="/wiki/Harrison_Jeffords" title="Harrison Jeffords">Jeffords</a></li>
+<li><a href="/wiki/Marcellus_Jones" title="Marcellus Jones">Jones</a></li>
+<li><a href="/wiki/Patrick_Kelly_(Civil_War)" title="Patrick Kelly (Civil War)">Kelly</a></li>
+<li><a href="/wiki/Myles_Keogh" title="Myles Keogh">Keogh</a></li>
+<li><a href="/wiki/David_Lang_(Civil_War)" title="David Lang (Civil War)">Lang</a></li>
+<li><a href="/wiki/Joseph_W._Latimer" title="Joseph W. Latimer">Latimer</a></li>
+<li><a href="/wiki/William_G._Lewis" title="William G. Lewis">Lewis</a></li>
+<li><a href="/wiki/William_McCandless" title="William McCandless">McCandless</a></li>
+<li><a href="/wiki/Archibald_L._McDougall" title="Archibald L. McDougall">McDougall</a></li>
+<li><a href="/wiki/George_F._McFarland" title="George F. McFarland">McFarland</a></li>
+<li><a href="/wiki/John_Baillie_McIntosh" title="John Baillie McIntosh">McIntosh</a></li>
+<li><a href="/wiki/Robert_Murphy_Mayo" title="Robert Murphy Mayo">Mayo</a></li>
+<li><a class="mw-redirect" href="/wiki/Holman_S._Melcher" title="Holman S. Melcher">Melcher</a></li>
+<li><a href="/wiki/Walter_Goodale_Morrill" title="Walter Goodale Morrill">Morrill</a></li>
+<li><a href="/wiki/Edward_D._Muhlenberg" title="Edward D. Muhlenberg">Muhlenberg</a></li>
+<li><a href="/wiki/Patrick_O%27Rorke" title="Patrick O'Rorke">O'Rorke</a></li>
+<li><a class="mw-redirect" href="/wiki/Ario_Pardee,_Jr." title="Ario Pardee, Jr.">Pardee</a></li>
+<li><a class="mw-redirect" href="/wiki/William_Ransom_Johnson_Pegram" title="William Ransom Johnson Pegram">Pegram</a></li>
+<li><a href="/wiki/Abner_Monroe_Perrin" title="Abner Monroe Perrin">Perrin</a></li>
+<li><a href="/wiki/William_T._Poague" title="William T. Poague">Poague</a></li>
+<li><a href="/wiki/Edward_S._Salomon" title="Edward S. Salomon">Salomon</a></li>
+<li><a href="/wiki/Orland_Smith" title="Orland Smith">Smith</a></li>
+<li><a href="/wiki/Moxley_Sorrel" title="Moxley Sorrel">Sorrel</a></li>
+<li><a href="/wiki/Ellis_Spear" title="Ellis Spear">Spear</a></li>
+<li><a href="/wiki/Roy_Stone" title="Roy Stone">Stone</a></li>
+<li><a href="/wiki/Walter_H._Taylor" title="Walter H. Taylor">Taylor</a></li>
+<li><a href="/wiki/R%C3%A9gis_de_Trobriand" title="Régis de Trobriand">Trobriand</a></li>
+<li><a href="/wiki/Charles_S._Wainwright" title="Charles S. Wainwright">Wainwright</a></li>
+<li><a href="/wiki/George_Hull_Ward" title="George Hull Ward">Ward</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background-color:#DCDCDC;">Local civilians</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sarah_Broadhead" title="Sarah Broadhead">Broadhead</a></li>
+<li><a class="mw-redirect" href="/wiki/Abraham_Bryan" title="Abraham Bryan">Bryan</a></li>
+<li><a href="/wiki/John_L._Burns" title="John L. Burns">Burns</a></li>
+<li><a href="/wiki/Moses_McClean" title="Moses McClean">McClean</a></li>
+<li><a href="/wiki/David_McConaughy" title="David McConaughy">McConaughy</a></li>
+<li><a href="/wiki/Edward_McPherson" title="Edward McPherson">McPherson</a></li>
+<li><a class="mw-redirect" href="/wiki/Ginnie_Wade" title="Ginnie Wade">Wade</a></li>
+<li><a href="/wiki/David_Wills_(Gettysburg)" title="David Wills (Gettysburg)">Wills</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20191217202640
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.544 seconds
+Real time usage: 0.837 seconds
+Preprocessor visited node count: 2644/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 52704/2097152 bytes
+Template argument size: 4845/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18507/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.181/10.000 seconds
+Lua memory usage: 4.69 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  689.012      1 -total
+ 29.93%  206.206      1 Template:Infobox_military_person
+ 26.89%  185.270      1 Template:Infobox
+ 18.90%  130.226      6 Template:ISBN
+ 16.92%  116.571      3 Template:Br_separated_entries
+ 16.91%  116.503      1 Template:Reflist
+ 16.34%  112.560      1 Template:Find_a_Grave
+ 13.01%   89.614      1 Template:Birth_date
+ 10.52%   72.455      6 Template:Catalog_lookup_link
+  9.91%   68.264      1 Template:About
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1872269-0!canonical and timestamp 20191217202639 and revision id 910620892
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Elon_J._Farnsworth&amp;oldid=910620892">https://en.wikipedia.org/w/index.php?title=Elon_J._Farnsworth&amp;oldid=910620892</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1837_births" title="Category:1837 births">1837 births</a></li><li><a href="/wiki/Category:1863_deaths" title="Category:1863 deaths">1863 deaths</a></li><li><a href="/wiki/Category:United_States_Army_generals" title="Category:United States Army generals">United States Army generals</a></li><li><a href="/wiki/Category:Union_Army_generals" title="Category:Union Army generals">Union Army generals</a></li><li><a href="/wiki/Category:People_of_Illinois_in_the_American_Civil_War" title="Category:People of Illinois in the American Civil War">People of Illinois in the American Civil War</a></li><li><a href="/wiki/Category:People_of_Michigan_in_the_American_Civil_War" title="Category:People of Michigan in the American Civil War">People of Michigan in the American Civil War</a></li><li><a href="/wiki/Category:Union_military_personnel_killed_in_the_American_Civil_War" title="Category:Union military personnel killed in the American Civil War">Union military personnel killed in the American Civil War</a></li><li><a href="/wiki/Category:People_from_Winnebago_County,_Illinois" title="Category:People from Winnebago County, Illinois">People from Winnebago County, Illinois</a></li><li><a href="/wiki/Category:University_of_Michigan_alumni" title="Category:University of Michigan alumni">University of Michigan alumni</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2019" title="Category:Articles with unsourced statements from August 2019">Articles with unsourced statements from August 2019</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Elon+J.+Farnsworth" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Elon+J.+Farnsworth" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Elon_J._Farnsworth" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Elon_J._Farnsworth" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Elon_J._Farnsworth">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Elon_J._Farnsworth&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Elon_J._Farnsworth&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Elon_J._Farnsworth" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Elon_J._Farnsworth" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Elon_J._Farnsworth&amp;oldid=910620892" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Elon_J._Farnsworth&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q530153" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Elon_J._Farnsworth&amp;id=910620892" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Elon_John_Farnsworth" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Elon+J.+Farnsworth">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Elon+J.+Farnsworth&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Elon_J._Farnsworth&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A5%D9%84%D9%88%D9%86_%D8%AC%D8%A7%D9%8A_%D9%81%D8%A7%D8%B1%D9%86%D8%B2%D9%88%D8%B1%D8%AB" hreflang="ar" lang="ar" title="إلون جاي فارنزورث – Arabic">العربية</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Elon_J._Farnsworth" hreflang="da" lang="da" title="Elon J. Farnsworth – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Elon_John_Farnsworth" hreflang="de" lang="de" title="Elon John Farnsworth – German">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Elon_John_Farnsworth" hreflang="fr" lang="fr" title="Elon John Farnsworth – French">Français</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%BD%D1%81%D0%B2%D0%BE%D1%80%D1%82,_%D0%AD%D0%BB%D0%BE%D0%BD" hreflang="ru" lang="ru" title="Фарнсворт, Элон – Russian">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q530153#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 August 2019, at 09:44<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Elon_J._Farnsworth&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.544","walltime":"0.837","ppvisitednodes":{"value":2644,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":52704,"limit":2097152},"templateargumentsize":{"value":4845,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18507,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  689.012      1 -total"," 29.93%  206.206      1 Template:Infobox_military_person"," 26.89%  185.270      1 Template:Infobox"," 18.90%  130.226      6 Template:ISBN"," 16.92%  116.571      3 Template:Br_separated_entries"," 16.91%  116.503      1 Template:Reflist"," 16.34%  112.560      1 Template:Find_a_Grave"," 13.01%   89.614      1 Template:Birth_date"," 10.52%   72.455      6 Template:Catalog_lookup_link","  9.91%   68.264      1 Template:About"]},"scribunto":{"limitreport-timeusage":{"value":"0.181","limit":"10.000"},"limitreport-memusage":{"value":4918362,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20191217202640","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Elon J. Farnsworth","url":"https:\/\/en.wikipedia.org\/wiki\/Elon_J._Farnsworth","sameAs":"http:\/\/www.wikidata.org\/entity\/Q530153","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q530153","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-11T16:58:56Z","dateModified":"2019-08-13T09:44:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7e\/Elon_John_Farnsworth.jpg","headline":"Union Army General"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1253"});});</script>
+
+
+</body></html>

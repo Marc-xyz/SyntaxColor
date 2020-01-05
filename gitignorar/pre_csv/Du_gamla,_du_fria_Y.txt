@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Du gamla, du fria - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfnDxQpAMFsAACx32V0AAAAD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Du_gamla,_du_fria","wgTitle":"Du gamla, du fria","wgCurRevisionId":930255124,"wgRevisionId":930255124,"wgArticleId":88822,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Swedish-language text","CS1 Swedish-language sources (sv)","Articles needing additional references from September 2009","All articles needing additional references",
+"Articles with hAudio microformats","Pages using deprecated image syntax","Articles containing explicitly cited English-language text","All accuracy disputes","Articles with disputed statements from February 2011","All articles with unsourced statements","Articles with unsourced statements from February 2013","Swedish patriotic songs","European anthems","National symbols of Sweden","National anthems","Swedish-language songs","National anthem compositions in B-flat major"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Du_gamla,_du_fria","wgRelevantArticleId":88822,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{
+"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q133261","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.score.popup","mw.MediaWikiPlayer.loader",
+"mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Du_gamla,_du_fria" rel="alternate"/>
+<link href="/w/index.php?title=Du_gamla,_du_fria&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Du_gamla,_du_fria&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Du_gamla,_du_fria" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Du_gamla_du_fria rootpage-Du_gamla_du_fria skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Du gamla, du fria</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" decoding="async" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Du_gamla,_du_fria&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br/><small><span class="plainlinks"><i>Find sources:</i> <a class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Du+gamla%2C+du+fria%22" rel="nofollow">"Du gamla, du fria"</a> – <a class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Du+gamla%2C+du+fria%22+-wikipedia" rel="nofollow">news</a> <b>·</b> <a class="external text" href="//www.google.com/search?&amp;q=%22Du+gamla%2C+du+fria%22+site:news.google.com/newspapers&amp;source=newspapers" rel="nofollow">newspapers</a> <b>·</b> <a class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Du+gamla%2C+du+fria%22+-wikipedia" rel="nofollow">books</a> <b>·</b> <a class="external text" href="//scholar.google.com/scholar?q=%22Du+gamla%2C+du+fria%22" rel="nofollow">scholar</a> <b>·</b> <a class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Du+gamla%2C+du+fria%22&amp;acc=on&amp;wc=on" rel="nofollow">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">September 2009</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r886212519">body.skin-minerva .mw-parser-output table.infobox caption.infobox-anthem-caption{white-space:nowrap}</style><table class="infobox" style="width:22em"><caption class="infobox-anthem-caption">Du gamla, du fria</caption><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: small; font-weight: normal;">English: Thou ancient, Thou free</th></tr><tr><td colspan="2" style="text-align:center"><hr/><b>National anthem of <span class="flagicon"><img alt="" class="thumbborder" data-file-height="1000" data-file-width="1600" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" width="23"/> </span><a href="/wiki/Sweden" title="Sweden">Sweden</a></b><hr/></td></tr><tr><th scope="row"><span class="nowrap">Also known as</span></th><td>"Sång till Norden" (English: "Song to the North")</td></tr><tr><th scope="row">Lyrics</th><td><a href="/wiki/Richard_Dybeck" title="Richard Dybeck">Richard Dybeck</a>, 1844</td></tr><tr><th scope="row">Music</th><td>Old Swedish <a href="/wiki/Folk_music" title="Folk music">folk music</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> (arranged for orchestra by <a href="/wiki/Edvin_Kallstenius" title="Edvin Kallstenius">Edvin Kallstenius</a>, 1933)<sup class="reference" id="cite_ref-Holm_2-0"><a href="#cite_note-Holm-2">[2]</a></sup></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background:  #E6E8FA">Audio sample</th></tr><tr class="haudio"><td colspan="2" style="text-align:center;padding-top:1em"><div class="center"><div class="floatnone"><div class="mediaContainer" style="width:220px"><audio class="kskin" controls="" data-durationhint="87.562448979592" data-mwprovider="wikimediacommons" data-mwtitle="United_States_Navy_Band_-_Sweden.ogg" data-startoffset="0" id="mwe_player_1" preload="none" style="width:220px"><source data-bandwidth="139864" data-height="0" data-shorttitle="Ogg source" data-title="Original Ogg file (140 kbps)" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/0/02/United_States_Navy_Band_-_Sweden.ogg" type='audio/ogg; codecs="vorbis"'/><source data-bandwidth="198168" data-height="0" data-shorttitle="MP3" data-title="MP3" data-transcodekey="mp3" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/02/United_States_Navy_Band_-_Sweden.ogg/United_States_Navy_Band_-_Sweden.ogg.mp3" type="audio/mpeg"/><track data-dir="ltr" kind="subtitles" label="Deutsch (de) subtitles" src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Sweden.ogg&amp;lang=de&amp;trackformat=srt&amp;origin=%2A" srclang="de" type="text/x-srt"/><track data-dir="ltr" kind="subtitles" label="English (en) subtitles" src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Sweden.ogg&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" srclang="en" type="text/x-srt"/><track data-dir="ltr" kind="subtitles" label="Frysk (fy) subtitles" src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Sweden.ogg&amp;lang=fy&amp;trackformat=srt&amp;origin=%2A" srclang="fy" type="text/x-srt"/><track data-dir="ltr" kind="subtitles" label="한국어 (ko) subtitles" src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Sweden.ogg&amp;lang=ko&amp;trackformat=srt&amp;origin=%2A" srclang="ko" type="text/x-srt"/><track data-dir="ltr" kind="subtitles" label="português (pt) subtitles" src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Sweden.ogg&amp;lang=pt&amp;trackformat=srt&amp;origin=%2A" srclang="pt" type="text/x-srt"/><track data-dir="ltr" kind="subtitles" label="русский (ru) subtitles" src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Sweden.ogg&amp;lang=ru&amp;trackformat=srt&amp;origin=%2A" srclang="ru" type="text/x-srt"/><track data-dir="ltr" kind="subtitles" label="svenska (sv) subtitles" src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Sweden.ogg&amp;lang=sv&amp;trackformat=srt&amp;origin=%2A" srclang="sv" type="text/x-srt"/><track data-dir="ltr" kind="subtitles" label="中文（繁體）‎ (zh-hant) subtitles" src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Sweden.ogg&amp;lang=zh-hant&amp;trackformat=srt&amp;origin=%2A" srclang="zh-Hant" type="text/x-srt"/></audio></div></div></div><div class="description">"Du gamla, du fria" (instrumental)</div><div class="hlist hlist-separated" style="font-size: smaller"><ul><li><a href="/wiki/File:United_States_Navy_Band_-_Sweden.ogg" title="File:United States Navy Band - Sweden.ogg">file</a></li><li><a href="/wiki/Help:Media" title="Help:Media">help</a></li></ul></div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><td colspan="2" style="text-align:right"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Infobox_anthem" title="Template:Infobox anthem"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Infobox_anthem" title="Template talk:Infobox anthem"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Infobox_anthem&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<table class="infobox hlist" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><a href="/wiki/Music_of_Sweden" title="Music of Sweden">Music of Sweden</a></th></tr><tr><td colspan="2" style="text-align:center"><img alt="" data-file-height="60" data-file-width="60" decoding="async" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nuvola_Swedish_flag.svg/50px-Nuvola_Swedish_flag.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nuvola_Swedish_flag.svg/75px-Nuvola_Swedish_flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nuvola_Swedish_flag.svg/100px-Nuvola_Swedish_flag.svg.png 2x" width="50"/></td></tr><tr><th colspan="2" style="text-align:center;background-color: #E5E4E2">Genres</th></tr><tr><td colspan="2" style="text-align:center">
+<ul><li><a class="mw-redirect" href="/wiki/Swedish_pop_music" title="Swedish pop music">Pop</a></li>
+<li><a class="mw-redirect" href="/wiki/Swedish_rock_music" title="Swedish rock music">Rock</a></li>
+<li><a href="/wiki/Swedish_hip_hop" title="Swedish hip hop">Hip hop</a></li>
+<li><a href="/wiki/Swedish_death_metal" title="Swedish death metal">Death metal</a></li>
+<li><a href="/wiki/Swedish_jazz" title="Swedish jazz">Jazz</a></li>
+<li><a href="/wiki/Progg" title="Progg">Progg</a></li>
+<li><a href="/wiki/Swedish_folk_music" title="Swedish folk music">Folk</a></li>
+<li><a class="new" href="/w/index.php?title=Swedish_electronic_music&amp;action=edit&amp;redlink=1" title="Swedish electronic music (page does not exist)">Electronic</a></li></ul>
+</td></tr><tr><th colspan="2" style="text-align:center;background-color: #E5E4E2">Media and performance</th></tr><tr><th scope="row">Music charts</th><td><a href="/wiki/Sverigetopplistan" title="Sverigetopplistan">Sverigetopplistan</a></td></tr><tr><th scope="row">Music festivals</th><td>
+<ul><li><a href="/wiki/Where_the_Action_Is_Tour" title="Where the Action Is Tour">Where the Action Is</a></li>
+<li><a href="/wiki/Hultsfred_Festival" title="Hultsfred Festival">Hultsfred</a></li>
+<li><a class="mw-redirect" href="/wiki/Way_Out_West_Festival" title="Way Out West Festival">Way Out West</a></li>
+<li><a class="mw-redirect" href="/wiki/Metaltown" title="Metaltown">Metaltown</a></li>
+<li><a href="/wiki/Peace_%26_Love_(festival)" title="Peace &amp; Love (festival)">Peace &amp; Love</a></li>
+<li><a class="mw-redirect" href="/wiki/Sweden_Rock" title="Sweden Rock">Sweden Rock</a></li>
+<li><a href="/wiki/Arvika_Festival" title="Arvika Festival">Arvikafestivalen</a></li>
+<li><a href="/wiki/Br%C3%A5valla_Festival" title="Bråvalla Festival">Bråvallafestivalen</a></li></ul>
+</td></tr><tr><th scope="row">Music media</th><td>
+<ul><li><a class="mw-redirect" href="/wiki/MTV_Sweden" title="MTV Sweden">MTV Sweden</a></li>
+<li><a class="mw-redirect" href="/wiki/Melodic.net" title="Melodic.net">Melodic.net</a></li></ul>
+</td></tr><tr><th colspan="2" style="text-align:center;background-color: #E5E4E2">Nationalistic and patriotic songs</th></tr><tr><th scope="row">National anthem</th><td>"<a class="mw-selflink selflink">Du gamla, du fria</a>" (de facto)</td></tr><tr><td colspan="2" style="text-align:right"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Music_of_Sweden" title="Template:Music of Sweden"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Music_of_Sweden" title="Template talk:Music of Sweden"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Music_of_Sweden&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>"<b><span lang="sv" style="font-style:normal;" title="Swedish language text">Du gamla, du fria</span></b>" (<small>Swedish pronunciation: </small><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA/Swedish" title="Help:IPA/Swedish">[dʉː ˇɡamːla dʉː ˇfriːa]</a></span>, English: <span lang="en">"Thou ancient, Thou free"</span>) is the <i>de facto</i> <a href="/wiki/National_anthem" title="National anthem">national anthem</a> of <a href="/wiki/Sweden" title="Sweden">Sweden</a>. It was originally named "<b><span lang="sv" style="font-style:normal;" title="Swedish language text">Sång till Norden</span></b>" (<small>pronounced </small><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA/Swedish" title="Help:IPA/Swedish">[ˈsɔŋː tɪl ˈnuːɖɛn]</a></span>, "Song to the <a href="/wiki/Nordic_countries" title="Nordic countries">North</a>"), but the <a href="/wiki/Incipit" title="Incipit">incipit</a> has since been adopted as the title.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Melody"><span class="tocnumber">2</span> <span class="toctext">Melody</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Lyrics"><span class="tocnumber">3</span> <span class="toctext">Lyrics</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Du_gamla,_du_fria&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><div class="mediaContainer" style="width:220px"><audio class="kskin" controls="" data-durationhint="99.704580498866" data-mwprovider="wikimediacommons" data-mwtitle="Du_gamla,_du_fria.ogg" data-startoffset="0" id="mwe_player_2" preload="none" style="width:220px"><source data-bandwidth="202760" data-height="0" data-shorttitle="MP3" data-title="MP3" data-transcodekey="mp3" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/transcoded/a/a2/Du_gamla%2C_du_fria.ogg/Du_gamla%2C_du_fria.ogg.mp3" type="audio/mpeg"/><source data-bandwidth="395887" data-height="0" data-shorttitle="Ogg source" data-title="Original Ogg file (396 kbps)" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/a/a2/Du_gamla%2C_du_fria.ogg" type='audio/ogg; codecs="vorbis"'/><track data-dir="ltr" kind="subtitles" label="svenska (sv) subtitles" src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ADu_gamla%2C_du_fria.ogg&amp;lang=sv&amp;trackformat=srt&amp;origin=%2A" srclang="sv" type="text/x-srt"/></audio></div>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Du_gamla,_du_fria.ogg" title="Enlarge"></a></div>"Du gamla, du fria" (complete choir version).</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:Satellite_image_of_Sweden_in_March_2002.jpg"><img alt="" class="thumbimage" data-file-height="6443" data-file-width="2021" decoding="async" height="542" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Satellite_image_of_Sweden_in_March_2002.jpg/170px-Satellite_image_of_Sweden_in_March_2002.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Satellite_image_of_Sweden_in_March_2002.jpg/255px-Satellite_image_of_Sweden_in_March_2002.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Satellite_image_of_Sweden_in_March_2002.jpg/340px-Satellite_image_of_Sweden_in_March_2002.jpg 2x" width="170"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Satellite_image_of_Sweden_in_March_2002.jpg" title="Enlarge"></a></div>The scenery that inspired the lyrics</div></div></div>
+<p>Although the <a class="mw-redirect" href="/wiki/Swedish_constitution" title="Swedish constitution">Swedish constitution</a> makes no mention of a national anthem, "Du gamla, du fria" enjoys universal recognition and is used, for example, at government ceremonies as well as sporting events. It first began to win recognition as a patriotic song in the 1890s, and the issue of its status was debated back and forth up until the 1930s. In 1938, the Swedish public service radio company <a href="/wiki/Sveriges_Radio" title="Sveriges Radio">Sveriges Radio</a> started playing it in the evenings at the end of transmission, which marked the beginning of the <i>de facto</i> status as national anthem the song has had since.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>Despite the belief that it was adopted as the national anthem in 1866, no such recognition has ever been officially accorded. A kind of official recognition came in 1893, when King <a class="mw-redirect" href="/wiki/Oscar_II" title="Oscar II">Oscar II</a> rose in honor when the song was played. In 2000 a <a href="/wiki/Riksdag" title="Riksdag">Riksdag</a> committee rejected as "unnecessary" a proposal to give the song official status. The committee concluded that the song has been established as the national anthem by the people, not by the political system, and that it is preferable to keep it that way.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:95px;"><a class="image" href="/wiki/File:Richard_Dybeck.jpg"><img alt="" class="thumbimage" data-file-height="119" data-file-width="93" decoding="async" height="119" src="//upload.wikimedia.org/wikipedia/commons/9/9f/Richard_Dybeck.jpg" width="93"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Richard_Dybeck.jpg" title="Enlarge"></a></div>Richard Dybeck wrote the original lyrics in 1844.</div></div></div>
+<p>The original lyrics were written by <a href="/wiki/Richard_Dybeck" title="Richard Dybeck">Richard Dybeck</a> in 1844, to the melody of a variant of the ballad <i>Kärestans död</i>.  The ballad type is classified as D 280 in <a href="/wiki/The_Types_of_the_Scandinavian_Medieval_Ballad" title="The Types of the Scandinavian Medieval Ballad">The Types of the Scandinavian Medieval Ballad</a>; the variant from <a href="/wiki/V%C3%A4stmanland" title="Västmanland">Västmanland</a> that Dybeck reproduced is classified as <a href="/wiki/Sveriges_Medeltida_Ballader" title="Sveriges Medeltida Ballader">SMB</a> 133 G.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>  It was recorded by Rosa Wretman in the beginning of the 1840s. Dybeck published the traditional text in <i>Folk-lore I</i>, and the melody in 1845 in his <i>Runa</i>, where he also published his new text "Sång till Norden" (English: <span lang="en">"Song to/of the North"</span>).
+</p><p>Dybeck himself originally wrote the beginning as "Du gamla, du friska" (English: <span lang="en">"Thou ancient, Thou hale"</span>), but in the late 1850s changed the lyrics to "Du gamla, du fria" (English: <span lang="en">"Thou ancient, Thou free"</span>). The song was already published in several song books and sung with "Du gamla, du friska", but a priest who had known Dybeck took the opportunity to inform the singer most associated with the song, opera singer <a class="new" href="/w/index.php?title=Carl_Fredrik_Lundqvist&amp;action=edit&amp;redlink=1" title="Carl Fredrik Lundqvist (page does not exist)">Carl Fredrik Lundqvist</a>, about the change in the year 1900. From that point on, printings of the "friska" version ceased to be seen in song books, but a recording from 1905 where it is sung with "friska" still exists.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> The Swedish composer <a href="/wiki/Edvin_Kallstenius" title="Edvin Kallstenius">Edvin Kallstenius</a> made an orchestral arrangement of the national anthem in 1933.<sup class="reference" id="cite_ref-Holm_2-1"><a href="#cite_note-Holm-2">[2]</a></sup>
+</p><p>By the early 20th century, many regarded the song unsuitable as a national anthem. From the 1890s it was included in the "patriotic songs" section of song books, but up to the 1920s it was occasionally published just as "folk music". In 1899 a contest to produce a national anthem was held. It led to <a href="/wiki/Verner_von_Heidenstam" title="Verner von Heidenstam">Verner von Heidenstam</a> writing "Sverige", but did not lead to a new national anthem.
+</p><p><a href="/wiki/Patriotism" title="Patriotism">Patriotic</a> sentiment is notably absent from the text of the original two verses,<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Accuracy_dispute#Disputed_statement" title="Wikipedia:Accuracy dispute"><span title="The material near this tag is possibly inaccurate or nonfactual. (February 2011)">dubious</span></a> <span class="metadata"> – <a href="/wiki/Talk:Du_gamla,_du_fria#Dubious" title="Talk:Du gamla, du fria">discuss</a></span></i>]</sup> due to them being written in the spirit of <a href="/wiki/Scandinavism" title="Scandinavism">Scandinavism</a> popular at the time (<i>Norden</i> in general refers to the <a href="/wiki/Nordic_countries" title="Nordic countries">Nordic countries</a> in Swedish, Norwegian and Danish). After the song started to acquire its informal status as the national anthem, various people wrote additional verses to increase the "Swedishness" of the song.  The aforementioned Lundqvist wrote his own third verse beginning with "Jag älskar dig Sverige" (I love thee, Sweden), <a class="new" href="/w/index.php?title=Frans_%C3%96sterblom&amp;action=edit&amp;redlink=1" title="Frans Österblom (page does not exist)">Frans Österblom</a> wrote four verses beginning with "Jag älskar min hembygd" ("I love my native area") and <a class="new" href="/w/index.php?title=Louise_Ahl%C3%A9n&amp;action=edit&amp;redlink=1" title="Louise Ahlén (page does not exist)">Louise Ahlén</a> wrote two verses in 1910<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2013)">citation needed</span></a></i>]</sup>, which are presented as the last two verses in the lyrics section below.
+</p>
+<h2><span class="mw-headline" id="Melody">Melody</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Du_gamla,_du_fria&amp;action=edit&amp;section=2" title="Edit section: Melody">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-ext-score" data-midi="//upload.wikimedia.org/score/e/i/eizktvgcrjwxvmkit3cz37fjzh5tsky/eizktvgc.midi" data-source="//upload.wikimedia.org/score/e/i/eizktvgcrjwxvmkit3cz37fjzh5tsky/eizktvgc.ly"><img alt="
+\new Staff &lt;&lt;
+\set Score.tempoHideNote = ##t
+\override Score.BarNumber  #'transparent = ##t
+\clef treble \key bes \major \tempo 4=76
+\relative c'' {
+  \key bes \major
+  \partial 8 d8 | 
+  d4 bes8 bes bes4 c8 d | 
+  d4 c8 bes a4 r8 c8 | \break
+  c4 a8 bes c a d8. bes16 | 
+  g2 f4 r8 f8 | \break
+  bes4 bes8 c a4 a8 bes | 
+  g8. f16 g8 a f4 r8 
+  \repeat unfold 2 { f8 | \break
+  bes8. a16 bes8 c d bes es d | 
+  c2 bes4 r8
+  } \bar &quot;|.&quot;  
+}
+\addlyrics {
+  Du gam -- la, Du fri -- a, Du fjäll -- hö -- ga nord
+  Du tys -- ta, Du gläd -- je -- ri -- ka skö -- na!
+  Jag häl -- sar Dig, vä -- nas -- te land __ _ up -- på jord,
+  Din sol, Din him -- mel, Di -- na äng -- der grö -- na.
+  Din sol, Din him -- mel, Di -- na äng -- der grö -- na.
+}
+\addlyrics {
+  Du tro -- nar på min -- nen från forn -- sto -- ra da'r,
+  då ä -- rat Ditt namn flög ö -- ver jor -- den.
+  Jag vet att Du är och Du blir __ _ vad Du var.
+  Ja, jag vill le -- va jag vill dö i Nor -- den!
+  Ja, jag vill le -- va jag vill dö i Nor -- den!
+}
+&gt;&gt;
+" height="450" src="//upload.wikimedia.org/score/e/i/eizktvgcrjwxvmkit3cz37fjzh5tsky/eizktvgc.png" width="757"/><div class="mediaContainer" style="width:300px"><audio class="kskin" controls="" data-disablecontrols="options,timedText" data-durationhint="31.188752834467" id="mwe_player_0" preload="none" style="width:300px"><source src="//upload.wikimedia.org/score/e/i/eizktvgcrjwxvmkit3cz37fjzh5tsky/eizktvgc.ogg" type="application/ogg"/></audio></div></div>
+<h2><span class="mw-headline" id="Lyrics">Lyrics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Du_gamla,_du_fria&amp;action=edit&amp;section=3" title="Edit section: Lyrics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" style="background:none;">
+
+<tbody><tr>
+<th bgcolor="#005bAE"><span style="color:#FFD700">Swedish</span>
+</th>
+<th bgcolor="#005bAE"><span style="color:#FFD700">Literal translation</span>
+</th></tr>
+<tr>
+<td><div class="poem">
+<p><span lang="sv" style="font-style:normal;" title="Swedish language text">Du gamla, Du fria, Du fjällhöga nord<br/>
+Du tysta, Du glädjerika sköna!<br/>
+Jag hälsar Dig, vänaste land uppå jord,<br/>
+𝄆 Din sol, Din himmel, Dina ängder gröna. 𝄇</span>
+</p>
+</div>
+</td>
+<td><div class="poem">
+<p>You ancient, you free, you mountainous north<br/>
+You quiet, you joyful beauty!<br/>
+I greet you, loveliest land upon Earth,<br/>
+𝄆 Your sun, your sky, your green meadows. 𝄇
+</p>
+</div>
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td><div class="poem">
+<p><span lang="sv" style="font-style:normal;" title="Swedish language text">Du tronar på minnen från fornstora da'r,<br/>
+då ärat Ditt namn flög över jorden.<br/>
+Jag vet att Du är och Du blir vad Du var.<br/>
+𝄆 Ja, jag vill leva, jag vill dö i Norden. 𝄇</span>
+</p>
+</div>
+</td>
+<td><div class="poem">
+<p>You are enthroned on <a href="/wiki/Swedish_Empire" title="Swedish Empire">memories of great olden days</a>,<br/>
+When honoured your name flew across the Earth,<br/>
+I know that you are and remain what you were,<br/>
+𝄆 Yes, I want to live, I want to die in <a href="/wiki/Nordic_countries" title="Nordic countries">the North</a>. 𝄇
+</p>
+</div>
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td><span lang="sv" style="font-style:normal;" title="Swedish language text">Jag städs vill dig tjäna, mitt älskade land, <br/>dig trohet till döden vill jag svära. <br/>Din rätt skall jag värna med håg och med hand, <br/>𝄆 din fana, högt den bragderika bära. 𝄇</span>
+</td>
+<td><span lang="en" style="font-style:normal;" title="English language text">I forever want to serve you, my beloved land, <br/>fidelity until death I want to swear to you. <br/>Your right I shall defend with mind and with hand,<br/>𝄆 the glorious ones carry your banner high. 𝄇</span>
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td><span lang="sv" style="font-style:normal;" title="Swedish language text">Med Gud skall jag kämpa för hem och för härd<br/>för Sverige, den kära fosterjorden. <br/>Jag byter Dig ej, mot allt i denna värld <br/>𝄆 Nej, jag vill leva jag vill dö i Norden. 𝄇</span>
+</td>
+<td><span lang="en" style="font-style:normal;" title="English language text">With God I shall fight for home and for hearth,<br/>for Sweden, the beloved mother soil.<br/>Exchange you, I won't for anything in this world<br/>𝄆 No, I want live, I want to die in the North 𝄇</span>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Du_gamla,_du_fria&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" class="noviewer thumbborder" data-file-height="1000" data-file-width="1600" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/32px-Flag_of_Sweden.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/48px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/64px-Flag_of_Sweden.svg.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sweden" title="Portal:Sweden">Sweden portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Flag_of_Sweden" title="Flag of Sweden">Flag of Sweden</a></li>
+<li><a href="/wiki/National_Day_of_Sweden" title="National Day of Sweden">National Day of Sweden</a></li>
+<li><a href="/wiki/Public_holidays_in_Sweden" title="Public holidays in Sweden">Public holidays in Sweden</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Du_gamla,_du_fria&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Eva Danielson; Märta Ramsten. <a class="external text" href="http://musikverket.se/svensktvisarkiv/artikel/du-gamla-du-friska/" rel="nofollow">"Du gamla, du friska – från folkvisa till nationalsång"</a>. <i>musikverket.se</i> (in Swedish). Svenskt visarkiv / Musikverket<span class="reference-accessdate">. Retrieved <span class="nowrap">3 June</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=musikverket.se&amp;rft.atitle=Du+gamla%2C+du+friska+%E2%80%93+fr%C3%A5n+folkvisa+till+nationals%C3%A5ng&amp;rft.au=Eva+Danielson&amp;rft.au=M%C3%A4rta+Ramsten&amp;rft_id=http%3A%2F%2Fmusikverket.se%2Fsvensktvisarkiv%2Fartikel%2Fdu-gamla-du-friska%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADu+gamla%2C+du+fria"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Holm-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Holm_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Holm_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Holm, Anna Lena (August 1991). <a class="external text" href="https://web.archive.org/web/20171020064144/http://musikverket.se/musikochteaterbiblioteket/arkivregistret/edvin-kallstenius-1881-1967/" rel="nofollow">"Edvin Kallstenius"</a>. <i>musikverket.se</i> (in Swedish). Musik- och teaterbiblioteket / Musikverket. Archived from <a class="external text" href="http://musikverket.se/musikochteaterbiblioteket/arkivregistret/edvin-kallstenius-1881-1967/" rel="nofollow">the original</a> on 20 October 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">3 June</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=musikverket.se&amp;rft.atitle=Edvin+Kallstenius&amp;rft.date=1991-08&amp;rft.aulast=Holm&amp;rft.aufirst=Anna+Lena&amp;rft_id=http%3A%2F%2Fmusikverket.se%2Fmusikochteaterbiblioteket%2Farkivregistret%2Fedvin-kallstenius-1881-1967%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADu+gamla%2C+du+fria"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://nationalanthems.me/sweden-du-gamla-du-fria" rel="nofollow">"Sweden: Du gamla, Du fria"</a>. NationalAnthems.me<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sweden%3A+Du+gamla%2C+Du+fria&amp;rft.pub=NationalAnthems.me&amp;rft_id=http%3A%2F%2Fnationalanthems.me%2Fsweden-du-gamla-du-fria&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADu+gamla%2C+du+fria"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/Sveriges_Medeltida_Ballader" title="Sveriges Medeltida Ballader">Sveriges Medeltida Ballader</a>, Vol. 4:1, pp. 16-17</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Collections., University of California, Santa Barbara. Library. Department of Special (2005-11-16). <a class="external text" href="http://cylinders.library.ucsb.edu/search.php?queryType=@attr%201=1016&amp;query=Arvid+Asplund&amp;num=1&amp;start=2&amp;sortBy=&amp;sortOrder=ia" rel="nofollow">"Cylinder Preservation and Digitization Project"</a>. <i>cylinders.library.ucsb.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cylinders.library.ucsb.edu&amp;rft.atitle=Cylinder+Preservation+and+Digitization+Project&amp;rft.date=2005-11-16&amp;rft.aulast=Collections.&amp;rft.aufirst=University+of+California%2C+Santa+Barbara.+Library.+Department+of+Special&amp;rft_id=http%3A%2F%2Fcylinders.library.ucsb.edu%2Fsearch.php%3FqueryType%3D%40attr%25201%3D1016%26query%3DArvid%2BAsplund%26num%3D1%26start%3D2%26sortBy%3D%26sortOrder%3Dia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADu+gamla%2C+du+fria"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Du_gamla,_du_fria&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="430" data-file-width="410" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" width="38"/></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has original text related to this article:
+<div style="margin-left: 10px;"><b><a class="extiw" href="https://en.wikisource.org/wiki/Du_gamla,_du_fria" title="wikisource:Du gamla, du fria">Du gamla, du fria</a></b></div></td></tr>
+</tbody></table>
+<ul><li><a class="external text" href="http://nationalanthems.me/sweden-du-gamla-du-fria" rel="nofollow">Sweden: <i>Du gamla, Du fria</i> - Audio of the national anthem of Sweden, with information and lyrics</a></li></ul>
+<div aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Sweden&amp;#124;link=Sweden_Swedish_patriotic_songs" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Swedish_patriotic_songs" title="Template:Swedish patriotic songs"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Swedish_patriotic_songs" title="Template talk:Swedish patriotic songs"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Swedish_patriotic_songs&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=Sweden&amp;#124;link=Sweden_Swedish_patriotic_songs" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" class="thumbborder" data-file-height="1000" data-file-width="1600" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" width="23"/></a></span> Swedish patriotic songs</div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px;font-style:italic"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Du gamla, du fria</a></li>
+<li><a href="/wiki/Gustafs_sk%C3%A5l" title="Gustafs skål">Gustafs skål</a></li>
+<li><a href="/wiki/Kungss%C3%A5ngen" title="Kungssången">Kungssången</a></li>
+<li><a href="/wiki/Bevare_Gud_v%C3%A5r_kung" title="Bevare Gud vår kung">Bevare Gud vår kung</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="National_symbols_of_Sweden" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background: #006aa7; color: #fecc00"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:National_Symbols_of_Sweden" title="Template:National Symbols of Sweden"><abbr style="background: #006aa7; color: #fecc00;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:National_Symbols_of_Sweden" title="Template talk:National Symbols of Sweden"><abbr style="background: #006aa7; color: #fecc00;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:National_Symbols_of_Sweden&amp;action=edit"><abbr style="background: #006aa7; color: #fecc00;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="National_symbols_of_Sweden" style="font-size:114%;margin:0 4em">National symbols of <a href="/wiki/Sweden" title="Sweden"><span style="color:#fecc00">Sweden</span></a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Flag_of_Sweden" title="Flag of Sweden">Flag</a></li>
+<li><a href="/wiki/Coat_of_arms_of_Sweden" title="Coat of arms of Sweden">Coat of arms</a></li>
+<li><a class="mw-selflink selflink">Anthem</a></li>
+<li><a href="/wiki/Three_Crowns" title="Three Crowns">Three Crowns</a></li>
+<li><a href="/wiki/Mother_Svea" title="Mother Svea">Mother Svea</a></li>
+<li><a href="/wiki/Regalia_of_Sweden" title="Regalia of Sweden">Regalia</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Sweden_articles" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sweden_topics" title="Template:Sweden topics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sweden_topics" title="Template talk:Sweden topics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Sweden_topics&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Sweden_articles" style="font-size:114%;margin:0 4em"><a href="/wiki/Sweden" title="Sweden">Sweden</a> articles</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/History_of_Sweden" title="History of Sweden">History</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Prehistoric_Sweden" title="Prehistoric Sweden">Prehistory</a></li>
+<li><a href="/wiki/History_of_Sweden_(800%E2%80%931521)" title="History of Sweden (800–1521)">800–1521</a></li>
+<li><a href="/wiki/Kalmar_Union" title="Kalmar Union">Kalmar Union</a></li>
+<li><a href="/wiki/History_of_Sweden_(1523%E2%80%931611)" title="History of Sweden (1523–1611)">1523–1611</a></li>
+<li><a href="/wiki/History_of_Sweden_(1611%E2%80%931648)" title="History of Sweden (1611–1648)">Rise to become Great Power</a></li>
+<li><a href="/wiki/Swedish_Empire" title="Swedish Empire">Swedish Empire</a></li>
+<li><a href="/wiki/Great_Northern_War" title="Great Northern War">Great Northern War</a></li>
+<li><a href="/wiki/Age_of_Liberty" title="Age of Liberty">Age of Liberty</a></li>
+<li><a href="/wiki/Gustavian_era" title="Gustavian era">Gustavian era</a></li>
+<li><a href="/wiki/Union_between_Sweden_and_Norway" title="Union between Sweden and Norway">Sweden–Norway union</a></li>
+<li><a href="/wiki/Swedish_famine_of_1867%E2%80%931869" title="Swedish famine of 1867–1869">Famine of 1867-1869</a></li>
+<li><a href="/wiki/Sweden_during_the_late_19th_century" title="Sweden during the late 19th century">Modernization</a></li>
+<li><a href="/wiki/Industrialization_of_Sweden" title="Industrialization of Sweden">Industrialization</a></li>
+<li><a href="/wiki/Sweden_during_World_War_I" title="Sweden during World War I">World War I</a></li>
+<li><a href="/wiki/Sweden_during_World_War_II" title="Sweden during World War II">World War II</a>
+<ul><li><a href="/wiki/Sweden_during_World_War_II_(timeline)" title="Sweden during World War II (timeline)">timeline</a></li></ul></li>
+<li><a href="/wiki/History_of_Sweden_(1945%E2%80%931967)" title="History of Sweden (1945–1967)">1945–1967</a></li>
+<li><a href="/wiki/History_of_Sweden_(1967%E2%80%931991)" title="History of Sweden (1967–1991)">1967–1991</a></li>
+<li><a href="/wiki/History_of_Sweden_(1991%E2%80%93present)" title="History of Sweden (1991–present)">Since 1991</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/Sweden" title="Sweden"><img alt="Lesser coat of arms of Sweden" data-file-height="501" data-file-width="262" decoding="async" height="153" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coat_of_arms_of_Sweden.svg/80px-Coat_of_arms_of_Sweden.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coat_of_arms_of_Sweden.svg/120px-Coat_of_arms_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coat_of_arms_of_Sweden.svg/160px-Coat_of_arms_of_Sweden.svg.png 2x" width="80"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Geography_of_Sweden" title="Geography of Sweden">Geography</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_cities_in_Sweden" title="List of cities in Sweden">Cities</a></li>
+<li><a href="/wiki/Counties_of_Sweden" title="Counties of Sweden">Counties</a></li>
+<li><a class="mw-redirect" href="/wiki/Extreme_points_of_Sweden" title="Extreme points of Sweden">Extreme points</a></li>
+<li><a href="/wiki/Forests_of_Sweden" title="Forests of Sweden">Forests</a></li>
+<li><a href="/wiki/List_of_islands_of_Sweden" title="List of islands of Sweden">Islands</a></li>
+<li><a href="/wiki/List_of_lakes_of_Sweden" title="List of lakes of Sweden">Lakes</a></li>
+<li><a href="/wiki/Lands_of_Sweden" title="Lands of Sweden">Lands</a></li>
+<li><a href="/wiki/List_of_national_parks_of_Sweden" title="List of national parks of Sweden">National parks</a></li>
+<li><a href="/wiki/Provinces_of_Sweden" title="Provinces of Sweden">Provinces</a></li>
+<li><a href="/wiki/List_of_rivers_of_Sweden" title="List of rivers of Sweden">Rivers</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Politics_of_Sweden" title="Politics of Sweden">Politics</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Administrative_divisions_of_Sweden" title="Administrative divisions of Sweden">Administrative division</a></li>
+<li><a class="mw-redirect" href="/wiki/Constitution_of_Sweden" title="Constitution of Sweden">Constitution</a></li>
+<li><a href="/wiki/Elections_in_Sweden" title="Elections in Sweden">Elections</a></li>
+<li><a href="/wiki/Foreign_relations_of_Sweden" title="Foreign relations of Sweden">Foreign relations</a></li>
+<li><a href="/wiki/Government_of_Sweden" title="Government of Sweden">Government</a></li>
+<li><a href="/wiki/Government_agencies_in_Sweden" title="Government agencies in Sweden">Government agencies</a></li>
+<li><a href="/wiki/Judiciary_of_Sweden" title="Judiciary of Sweden">Judiciary</a></li>
+<li><a href="/wiki/Law_of_Sweden" title="Law of Sweden">Law</a></li>
+<li><a href="/wiki/Law_enforcement_in_Sweden" title="Law enforcement in Sweden">Law enforcement</a></li>
+<li><a href="/wiki/Riksdag" title="Riksdag">Legislature</a></li>
+<li><a href="/wiki/Swedish_Armed_Forces" title="Swedish Armed Forces">Military</a></li>
+<li><a href="/wiki/Monarchy_of_Sweden" title="Monarchy of Sweden">Monarchy</a></li>
+<li><a href="/wiki/List_of_political_parties_in_Sweden" title="List of political parties in Sweden">Political parties</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Economy_of_Sweden" title="Economy of Sweden">Economy</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agriculture_in_Sweden" title="Agriculture in Sweden">Agriculture</a></li>
+<li><a href="/wiki/Automotive_industry_in_Sweden" title="Automotive industry in Sweden">Automotive industry</a></li>
+<li><a href="/wiki/Energy_in_Sweden" title="Energy in Sweden">Energy</a></li>
+<li><a href="/wiki/Swedish_krona" title="Swedish krona">Krona <span style="font-size:85%;">(currency)</span></a></li>
+<li><a href="/wiki/Swedish_labour_movement" title="Swedish labour movement">Labour unions</a></li>
+<li><a href="/wiki/Rehn%E2%80%93Meidner_model" title="Rehn–Meidner model">Rehn–Meidner model</a></li>
+<li><a href="/wiki/Stockholm_Stock_Exchange" title="Stockholm Stock Exchange">Stock exchange</a></li>
+<li><a href="/wiki/Taxation_in_Sweden" title="Taxation in Sweden">Taxation</a></li>
+<li><a href="/wiki/Telecommunications_in_Sweden" title="Telecommunications in Sweden">Telecommunications</a></li>
+<li><a href="/wiki/Transport_in_Sweden" title="Transport in Sweden">Transport</a></li>
+<li><a href="/wiki/Tourism_in_Sweden" title="Tourism in Sweden">Tourism</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Swedish_society" title="Category:Swedish society">Society</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Crime_in_Sweden" title="Crime in Sweden">Crime</a></li>
+<li><a href="/wiki/Demographics_of_Sweden" title="Demographics of Sweden">Demographics</a></li>
+<li><a href="/wiki/Education_in_Sweden" title="Education in Sweden">Education</a></li>
+<li><a href="/wiki/Health_care_in_Sweden" title="Health care in Sweden">Healthcare</a></li>
+<li><a href="/wiki/Immigration_to_Sweden" title="Immigration to Sweden">Immigration</a></li>
+<li><a href="/wiki/Languages_of_Sweden" title="Languages of Sweden">Languages</a></li>
+<li><a href="/wiki/Swedes" title="Swedes">People</a></li>
+<li><a href="/wiki/Welfare_in_Sweden" title="Welfare in Sweden">Welfare</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Sweden" title="Culture of Sweden">Culture</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Anthem</a></li>
+<li><a href="/wiki/Architecture_of_Sweden" title="Architecture of Sweden">Architecture</a></li>
+<li><a href="/wiki/Swedish_art" title="Swedish art">Art</a></li>
+<li><a href="/wiki/Cinema_of_Sweden" title="Cinema of Sweden">Cinema</a></li>
+<li><a href="/wiki/Coat_of_arms_of_Sweden" title="Coat of arms of Sweden">Coat of arms</a></li>
+<li><a href="/wiki/Swedish_cuisine" title="Swedish cuisine">Cuisine</a></li>
+<li><a href="/wiki/Swedish_fashion" title="Swedish fashion">Fashion</a></li>
+<li><a href="/wiki/Flag_of_Sweden" title="Flag of Sweden">Flag</a></li>
+<li><a href="/wiki/Swedish_literature" title="Swedish literature">Literature</a></li>
+<li><a href="/wiki/Media_of_Sweden" title="Media of Sweden">Media</a></li>
+<li><a href="/wiki/Music_of_Sweden" title="Music of Sweden">Music</a></li>
+<li><a href="/wiki/National_Day_of_Sweden" title="National Day of Sweden">National Day</a></li>
+<li><a href="/wiki/Public_holidays_in_Sweden" title="Public holidays in Sweden">Public holidays</a></li>
+<li><a href="/wiki/Religion_in_Sweden" title="Religion in Sweden">Religion</a></li>
+<li><a href="/wiki/Sport_in_Sweden" title="Sport in Sweden">Sport</a></li>
+<li><a href="/wiki/List_of_World_Heritage_Sites_in_Sweden" title="List of World Heritage Sites in Sweden">World Heritage Sites</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="font-weight:bold;"><div><div style="margin-bottom:-0.4em;"><ul><li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Sweden" title="Outline of Sweden">Outline</a></span></li></ul></div>
+<ul><li><a href="/wiki/Book:Sweden" title="Book:Sweden">Book</a></li>
+<li><a href="/wiki/Category:Sweden" title="Category:Sweden">Category</a></li>
+<li><a href="/wiki/Portal:Sweden" title="Portal:Sweden">Portal</a></li></ul></div></td></tr></tbody></table></div>
+<div aria-labelledby="National_anthems_of_Europe" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:National_anthems_of_Europe" title="Template:National anthems of Europe"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:National_anthems_of_Europe" title="Template talk:National anthems of Europe"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:National_anthems_of_Europe&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="National_anthems_of_Europe" style="font-size:114%;margin:0 4em"><a href="/wiki/National_anthem" title="National anthem">National anthems</a> of Europe</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sovereign_state" title="Sovereign state">Sovereign<br/>states</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Himni_i_Flamurit" title="Himni i Flamurit">Albania</a></li>
+<li><a href="/wiki/El_Gran_Carlemany" title="El Gran Carlemany">Andorra</a></li>
+<li><a href="/wiki/Mer_Hayrenik" title="Mer Hayrenik">Armenia</a></li>
+<li><a href="/wiki/National_anthem_of_Austria" title="National anthem of Austria">Austria</a></li>
+<li><a href="/wiki/Az%C9%99rbaycan_mar%C5%9F%C4%B1" title="Azərbaycan marşı">Azerbaijan</a></li>
+<li><a href="/wiki/My_Belarusy" title="My Belarusy">Belarus</a></li>
+<li><a href="/wiki/La_Braban%C3%A7onne" title="La Brabançonne">Belgium</a></li>
+<li><a href="/wiki/National_Anthem_of_Bosnia_and_Herzegovina" title="National Anthem of Bosnia and Herzegovina">Bosnia and Herzegovina</a></li>
+<li><a href="/wiki/Mila_Rodino" title="Mila Rodino">Bulgaria</a></li>
+<li><a href="/wiki/Lijepa_na%C5%A1a_domovino" title="Lijepa naša domovino">Croatia</a></li>
+<li><a href="/wiki/Hymn_to_Liberty" title="Hymn to Liberty">Cyprus</a></li>
+<li><a href="/wiki/Kde_domov_m%C5%AFj" title="Kde domov můj">Czech Republic</a></li>
+<li><a href="/wiki/Der_er_et_yndigt_land" title="Der er et yndigt land">Denmark</a></li>
+<li><a href="/wiki/Mu_isamaa,_mu_%C3%B5nn_ja_r%C3%B5%C3%B5m" title="Mu isamaa, mu õnn ja rõõm">Estonia</a></li>
+<li><a href="/wiki/Maamme" title="Maamme">Finland</a></li>
+<li><a href="/wiki/La_Marseillaise" title="La Marseillaise">France</a></li>
+<li><a href="/wiki/Tavisupleba" title="Tavisupleba">Georgia</a></li>
+<li><a href="/wiki/Deutschlandlied" title="Deutschlandlied">Germany</a></li>
+<li><a href="/wiki/Hymn_to_Liberty" title="Hymn to Liberty">Greece</a></li>
+<li><a href="/wiki/Himnusz" title="Himnusz">Hungary</a></li>
+<li><a href="/wiki/Lofs%C3%B6ngur" title="Lofsöngur">Iceland</a></li>
+<li><a href="/wiki/Amhr%C3%A1n_na_bhFiann" title="Amhrán na bhFiann">Ireland</a></li>
+<li><a href="/wiki/Il_Canto_degli_Italiani" title="Il Canto degli Italiani">Italy</a></li>
+<li><a href="/wiki/Meni%C5%84_Qazaqstanym" title="Meniń Qazaqstanym">Kazakhstan</a></li>
+<li><a href="/wiki/Dievs,_sv%C4%93t%C4%AB_Latviju!" title="Dievs, svētī Latviju!">Latvia</a></li>
+<li><a href="/wiki/Oben_am_jungen_Rhein" title="Oben am jungen Rhein">Liechtenstein</a></li>
+<li><a href="/wiki/Tauti%C5%A1ka_giesm%C4%97" title="Tautiška giesmė">Lithuania</a></li>
+<li><a href="/wiki/Ons_Heemecht" title="Ons Heemecht">Luxembourg</a></li>
+<li><a href="/wiki/L-Innu_Malti" title="L-Innu Malti">Malta</a></li>
+<li><a href="/wiki/Limba_noastr%C4%83" title="Limba noastră">Moldova</a></li>
+<li><a href="/wiki/Hymne_Mon%C3%A9gasque" title="Hymne Monégasque">Monaco</a></li>
+<li><a href="/wiki/Oj,_svijetla_majska_zoro" title="Oj, svijetla majska zoro">Montenegro</a></li>
+<li><a href="/wiki/Wilhelmus" title="Wilhelmus">Netherlands</a></li>
+<li><a href="/wiki/Denes_nad_Makedonija" title="Denes nad Makedonija">North Macedonia</a></li>
+<li><a href="/wiki/Ja,_vi_elsker_dette_landet" title="Ja, vi elsker dette landet">Norway</a></li>
+<li><a href="/wiki/Poland_Is_Not_Yet_Lost" title="Poland Is Not Yet Lost">Poland</a></li>
+<li><a href="/wiki/A_Portuguesa" title="A Portuguesa">Portugal</a></li>
+<li><a href="/wiki/De%C8%99teapt%C4%83-te,_rom%C3%A2ne!" title="Deșteaptă-te, române!">Romania</a></li>
+<li><a href="/wiki/National_anthem_of_Russia" title="National anthem of Russia">Russia</a></li>
+<li><a href="/wiki/Inno_Nazionale_della_Repubblica" title="Inno Nazionale della Repubblica">San Marino</a></li>
+<li><a href="/wiki/Bo%C5%BEe_pravde" title="Bože pravde">Serbia</a></li>
+<li><a href="/wiki/Nad_Tatrou_sa_bl%C3%BDska" title="Nad Tatrou sa blýska">Slovakia</a></li>
+<li><a href="/wiki/National_anthem_of_Slovenia" title="National anthem of Slovenia">Slovenia</a></li>
+<li><a href="/wiki/Marcha_Real" title="Marcha Real">Spain</a></li>
+<li><a class="mw-selflink selflink">Sweden</a></li>
+<li><a href="/wiki/Swiss_Psalm" title="Swiss Psalm">Switzerland</a></li>
+<li><a href="/wiki/%C4%B0stiklal_Mar%C5%9F%C4%B1" title="İstiklal Marşı">Turkey</a></li>
+<li><a href="/wiki/Shche_ne_vmerla_Ukraina" title="Shche ne vmerla Ukraina">Ukraine</a></li>
+<li><a href="/wiki/God_Save_the_Queen" title="God Save the Queen">United Kingdom</a></li>
+<li><a href="/wiki/Pontifical_Anthem" title="Pontifical Anthem">Vatican City</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Territories,<br/>dependencies,<br/>other areas</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="UnitedKingdom" scope="row" style="width:1%;font-weight:normal;">United<br/>Kingdom</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Constituent countries</a></i>
+<ul><li><a class="mw-redirect" href="/wiki/National_anthem_of_England" title="National anthem of England">England</a></li>
+<li><a href="/wiki/National_anthem_of_Northern_Ireland" title="National anthem of Northern Ireland">Northern Ireland</a></li>
+<li><a href="/wiki/National_anthem_of_Scotland" title="National anthem of Scotland">Scotland</a></li>
+<li><a href="/wiki/Hen_Wlad_Fy_Nhadau" title="Hen Wlad Fy Nhadau">Wales</a></li></ul></li>
+<li><i><a href="/wiki/British_Overseas_Territories" title="British Overseas Territories">British Overseas Territories</a></i>
+<ul><li><a href="/wiki/Gibraltar_Anthem" title="Gibraltar Anthem">Gibraltar</a></li></ul></li>
+<li><i><a href="/wiki/Crown_dependencies" title="Crown dependencies">Crown dependencies</a></i>
+<ul><li><a href="/wiki/Sarnia_Cherie" title="Sarnia Cherie">Guernsey</a></li>
+<li><a class="mw-redirect" href="/wiki/Isle_of_Man_National_Anthem" title="Isle of Man National Anthem">Isle of Man</a></li>
+<li><a href="/wiki/Island_Home_(anthem)" title="Island Home (anthem)">Jersey</a></li></ul></li>
+<li><i><a href="/wiki/Counties_of_the_United_Kingdom" title="Counties of the United Kingdom">Counties</a></i>
+<ul><li><a href="/wiki/Bro_Goth_agan_Tasow" title="Bro Goth agan Tasow">Cornwall</a></li>
+<li><a href="/wiki/The_Lincolnshire_Poacher" title="The Lincolnshire Poacher">Lincolnshire</a></li>
+<li><a href="/wiki/On_Ilkla_Moor_Baht_%27at" title="On Ilkla Moor Baht 'at">Yorkshire</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">Russia</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Anthem_of_Adygea" title="Anthem of Adygea">Adygea</a></li>
+<li><a href="/wiki/Anthem_of_Arkhangelsk_Oblast" title="Anthem of Arkhangelsk Oblast">Arkhangelsk Oblast</a></li>
+<li><a href="/wiki/State_Anthem_of_the_Republic_of_Bashkortostan" title="State Anthem of the Republic of Bashkortostan">Bashkortostan</a></li>
+<li><a href="/wiki/Shatlak%27s_Song" title="Shatlak's Song">Chechen Republic</a></li>
+<li><a href="/wiki/State_Anthem_of_the_Chuvash_Republic" title="State Anthem of the Chuvash Republic">Chuvashia</a></li>
+<li><a href="/wiki/State_Anthem_of_the_Republic_of_Dagestan" title="State Anthem of the Republic of Dagestan">Dagestan</a></li>
+<li><a href="/wiki/State_Anthem_of_Ingushetia" title="State Anthem of Ingushetia">Ingushetia</a></li>
+<li><a href="/wiki/State_Anthem_of_Kabardino-Balkaria" title="State Anthem of Kabardino-Balkaria">Kabardino-Balkaria</a></li>
+<li><a class="mw-redirect" href="/wiki/Khalmg_Tanghchin_chastr" title="Khalmg Tanghchin chastr">Kalmykia</a></li>
+<li><a href="/wiki/State_Anthem_of_Karachay-Cherkessia" title="State Anthem of Karachay-Cherkessia">Karachay–Cherkessia</a></li>
+<li><a href="/wiki/Anthem_of_the_Republic_of_Karelia" title="Anthem of the Republic of Karelia">Republic of Karelia</a></li>
+<li><a href="/wiki/Anthem_of_Khanty%E2%80%93Mansi_Autonomous_Okrug" title="Anthem of Khanty–Mansi Autonomous Okrug">Khanty–Mansi Autonomous Okrug</a></li>
+<li><a href="/wiki/State_Anthem_of_the_Komi_Republic" title="State Anthem of the Komi Republic">Komi Republic</a></li>
+<li><a class="mw-redirect" href="/wiki/National_Anthem_of_the_Mari_El_Republic" title="National Anthem of the Mari El Republic">Mari El</a></li>
+<li><a href="/wiki/State_Anthem_of_the_Republic_of_Mordovia" title="State Anthem of the Republic of Mordovia">Mordovia</a></li>
+<li><a href="/wiki/Moya_Moskva" title="Moya Moskva">Moscow City</a></li>
+<li><a href="/wiki/Anthem_of_Nenets_Autonomous_Okrug" title="Anthem of Nenets Autonomous Okrug">Nenets Autonomous Okrug</a></li>
+<li><a class="mw-redirect" href="/wiki/State_Anthem_of_the_Republic_of_North_Ossetia-Alania" title="State Anthem of the Republic of North Ossetia-Alania">North Ossetia-Alania</a></li>
+<li><a class="mw-redirect" href="/wiki/Vskolykhnulsya,_Vzvolnovalsya_Pravoslavnyy_Tikhiy_Don" title="Vskolykhnulsya, Vzvolnovalsya Pravoslavnyy Tikhiy Don">Rostov Oblast</a></li>
+<li><a href="/wiki/State_Anthem_of_the_Republic_of_Tatarstan" title="State Anthem of the Republic of Tatarstan">Tatarstan</a></li>
+<li><a href="/wiki/Farewell_of_Slavianka" title="Farewell of Slavianka">Tambov Oblast</a></li>
+<li><a href="/wiki/National_Anthem_of_the_Udmurt_Republic" title="National Anthem of the Udmurt Republic">Udmurtia</a></li>
+<li><a href="/wiki/Anthem_of_Yamalo-Nenets_Autonomous_Okrug" title="Anthem of Yamalo-Nenets Autonomous Okrug">Yamalo-Nenets Autonomous Okrug</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;"><a href="/wiki/Spain" title="Spain">Spain</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/La_bandera_blanca_y_verde" title="La bandera blanca y verde">Andalusia</a></li>
+<li><a href="/wiki/Himno_de_Arag%C3%B3n" title="Himno de Aragón">Aragon</a></li>
+<li><a href="/wiki/Asturias,_patria_querida" title="Asturias, patria querida">Asturias</a></li>
+<li><a href="/wiki/Eusko_Abendaren_Ereserkia" title="Eusko Abendaren Ereserkia">Basque Country</a></li>
+<li><a href="/wiki/Himno_a_la_Monta%C3%B1a" title="Himno a la Montaña">Cantabria</a></li>
+<li><a href="/wiki/Els_Segadors" title="Els Segadors">Catalonia</a></li>
+<li><a href="/wiki/Os_Pinos" title="Os Pinos">Galicia</a></li>
+<li><a href="/wiki/La_Balanguera" title="La Balanguera">Majorca</a></li>
+<li><a href="/wiki/Se_Canta" title="Se Canta">Occitania</a></li>
+<li><a href="/wiki/Himne_de_l%27Exposici%C3%B3" title="Himne de l'Exposició">Valencia</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">Disputed</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aiaaira" title="Aiaaira">Abkhazia</a></li>
+<li><a href="/wiki/Azat_u_ankakh_Artsakh" title="Azat u ankakh Artsakh">Artsakh</a></li>
+<li><a href="/wiki/Hymn_of_Crimea" title="Hymn of Crimea">Crimea</a></li>
+<li><a href="/wiki/Europe_(anthem)" title="Europe (anthem)">Kosovo</a></li>
+<li><a class="mw-redirect" href="/wiki/Live_and_Shine,_LNR!" title="Live and Shine, LNR!">Luhansk People's Republic</a> (Luhansk)</li>
+<li><a class="mw-redirect" href="/wiki/%C4%B0stikl%C3%A2l_Mar%C5%9F%C4%B1" title="İstiklâl Marşı">Northern Cyprus</a></li>
+<li><a class="mw-redirect" href="/wiki/Anthem_of_South_Ossetia" title="Anthem of South Ossetia">South Ossetia</a></li>
+<li><a href="/wiki/Anthem_of_Transnistria" title="Anthem of Transnistria">Transnistria</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/De_Vlaamse_Leeuw" title="De Vlaamse Leeuw">Flanders</a> (Belgium)</li>
+<li><a href="/wiki/Le_Chant_des_Wallons" title="Le Chant des Wallons">Wallonia</a> (Belgium)</li>
+<li><a href="/wiki/Moja_Republika" title="Moja Republika">Republika Srpska</a> (Bosnia and Herzegovina)</li>
+<li><a href="/wiki/Krasna_zemljo" title="Krasna zemljo">Istria</a> (Croatia)</li>
+<li><a href="/wiki/T%C3%BA_alfagra_land_m%C3%ADtt" title="Tú alfagra land mítt">Faroe Islands</a> (Denmark)</li>
+<li><a href="/wiki/Nunarput_utoqqarsuanngoravit" title="Nunarput utoqqarsuanngoravit">Greenland</a> (Denmark)</li>
+<li><a href="/wiki/%C3%85l%C3%A4nningens_s%C3%A5ng" title="Ålänningens sång">Åland</a> (Finland)</li>
+<li><a href="/wiki/Els%C3%A4ssisches_Fahnenlied" title="Elsässisches Fahnenlied">Alsace</a> (France)</li>
+<li><a href="/wiki/Bro_Gozh_ma_Zado%C3%B9" title="Bro Gozh ma Zadoù">Brittany</a> (France)</li>
+<li><a href="/wiki/Copa_Santa" title="Copa Santa">Provence-Alpes-Côte d'Azur</a> (France)</li>
+<li><a href="/wiki/Dio_vi_salvi_Regina" title="Dio vi salvi Regina">Corsica</a> (France)</li>
+<li><a href="/wiki/Se_Canta" title="Se Canta">Occitania</a> (France / Italy / Spain / Monaco)</li>
+<li><a href="/wiki/Bayernhymne" title="Bayernhymne">Bavaria</a> (Germany)</li>
+<li><a href="/wiki/Rjana_%C5%81u%C5%BEica" title="Rjana Łužica">Lusatia</a> (Germany)</li>
+<li><a class="new" href="/w/index.php?title=Pommernlied&amp;action=edit&amp;redlink=1" title="Pommernlied (page does not exist)">Pomerania</a> (Germany/Poland)</li>
+<li><a href="/wiki/Famous_Macedonia" title="Famous Macedonia">Macedonia</a> (Greece)</li>
+<li><a href="/wiki/Montagnes_Vald%C3%B4taines" title="Montagnes Valdôtaines">Aosta Valley</a> (Italy)</li>
+<li><a href="/wiki/Inno_delle_Marche" title="Inno delle Marche">Marche</a> (Italy)</li>
+<li><a class="mw-redirect" href="/wiki/Su_patriottu_sardu_a_sos_feudatarios" title="Su patriottu sardu a sos feudatarios">Sardinia</a> (Italy)</li>
+<li><a href="/wiki/Madreterra" title="Madreterra">Sicily</a> (Italy)</li>
+<li><a href="/wiki/Merck_toch_hoe_sterck" title="Merck toch hoe sterck">Bergen op Zoom</a> (Netherlands)</li>
+<li><a href="/wiki/De_Alde_Friezen" title="De Alde Friezen">Friesland</a> (Netherlands)</li>
+<li><a href="/wiki/Hymn_of_the_Azores" title="Hymn of the Azores">Azores</a> (Portugal)</li>
+<li><a href="/wiki/Hino_da_Regi%C3%A3o_Aut%C3%B3noma_da_Madeira" title="Hino da Região Autónoma da Madeira">Madeira</a> (Portugal)</li>
+<li><a href="/wiki/Sz%C3%A9kely_himnusz" title="Székely himnusz">Székely Land</a> (Romania)</li>
+<li><a class="mw-redirect" href="/wiki/Sami_national_anthem" title="Sami national anthem">Sami</a> (Norway / Sweden / Finland)</li>
+<li><a href="/wiki/Hymn_of_R%C3%AEbni%C8%9Ba" title="Hymn of Rîbnița">Rîbnița</a> (Transnistria / Moldova)</li>
+<li><a href="/wiki/Taraf%C4%B1m" title="Tarafım">Gagauzia</a> (Moldova)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Former</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Auferstanden_aus_Ruinen" title="Auferstanden aus Ruinen">East Germany</a> <span style="font-size:85%;">(1949–90)</span></li>
+<li><a href="/wiki/Dideba" title="Dideba">Georgia</a> <span style="font-size:85%;">(1918–21, 1990–2004)</span></li>
+<li><a href="/wiki/State_Anthem_of_the_Soviet_Union" title="State Anthem of the Soviet Union">Soviet Union / Russia</a> <span style="font-size:85%;">(1944–91)</span></li>
+<li><a href="/wiki/Patrioticheskaya_Pesnya" title="Patrioticheskaya Pesnya">Russia</a> <span style="font-size:85%;">(1991–2000)</span></li>
+<li><a href="/wiki/Anthem_of_the_Ukrainian_Soviet_Socialist_Republic" title="Anthem of the Ukrainian Soviet Socialist Republic">Ukraine</a> <span style="font-size:85%;">(1949–92)</span></li>
+<li><a href="/wiki/Anthem_of_the_Byelorussian_Soviet_Socialist_Republic" title="Anthem of the Byelorussian Soviet Socialist Republic">Belarus</a> <span style="font-size:85%;">(1944–91)</span></li>
+<li><a href="/wiki/Jedna_si_jedina" title="Jedna si jedina">Bosnia and Herzegovina</a> <span style="font-size:85%;">(1992–98)</span></li>
+<li><a href="/wiki/Anthem_of_the_Republic_of_Kazakhstan" title="Anthem of the Republic of Kazakhstan">Kazakhstan</a> <span style="font-size:85%;">(1992–2006)</span></li>
+<li><a href="/wiki/National_Anthem_of_the_Kingdom_of_Yugoslavia" title="National Anthem of the Kingdom of Yugoslavia">Yugoslavia</a> <span style="font-size:85%;">(1919–41)</span></li>
+<li><a href="/wiki/Hey,_Slavs" title="Hey, Slavs">Yugoslavia</a> <span style="font-size:85%;">(1977–92)</span></li>
+<li><a href="/wiki/Hey,_Slavs" title="Hey, Slavs">Serbia and Montenegro</a> <span style="font-size:85%;">(1992–2006)</span></li>
+<li><a href="/wiki/Himno_de_Riego" title="Himno de Riego">Second Spanish Republic</a> <span style="font-size:85%;">(1931–39)</span></li>
+<li><a href="/wiki/Ich_hab%27_mich_ergeben" title="Ich hab' mich ergeben">West Germany</a> <span style="font-size:85%;">(1949–1952)</span></li>
+<li><a href="/wiki/Hymne_an_Deutschland" title="Hymne an Deutschland">West Germany</a> <span style="font-size:85%;">(1950–1952)</span></li>
+<li><a href="/wiki/Dagestan,_you_holy_fatherland" title="Dagestan, you holy fatherland">Dagestan</a> (Russia) <span style="font-size:85%;">(2003-2016)</span></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other entities</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthem_of_Europe" title="Anthem of Europe">Europe and the European Union</a></li>
+<li><a href="/wiki/Ave_Crux_Alba" title="Ave Crux Alba">Sovereign Military Order of Malta</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1283
+Cached time: 20191211071447
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.704 seconds
+Real time usage: 1.009 seconds
+Preprocessor visited node count: 2659/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 147268/2097152 bytes
+Template argument size: 11492/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 25/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16350/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.368/10.000 seconds
+Lua memory usage: 14.05 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  861.096      1 -total
+ 24.54%  211.289      8 Template:Lang
+ 17.06%  146.937      3 Template:Infobox
+ 14.72%  126.745      1 Template:Infobox_anthem
+ 14.31%  123.212      1 Template:Reflist
+ 14.18%  122.068      9 Template:Navbox
+ 12.51%  107.745      4 Template:Cite_web
+ 11.75%  101.216      1 Template:Refimprove
+  8.03%   69.172      1 Template:Ambox
+  7.88%   67.876      1 Template:Sweden_topics
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:88822-0!canonical and timestamp 20191211071446 and revision id 930255124
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Du_gamla,_du_fria&amp;oldid=930255124">https://en.wikipedia.org/w/index.php?title=Du_gamla,_du_fria&amp;oldid=930255124</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Swedish_patriotic_songs" title="Category:Swedish patriotic songs">Swedish patriotic songs</a></li><li><a href="/wiki/Category:European_anthems" title="Category:European anthems">European anthems</a></li><li><a href="/wiki/Category:National_symbols_of_Sweden" title="Category:National symbols of Sweden">National symbols of Sweden</a></li><li><a href="/wiki/Category:National_anthems" title="Category:National anthems">National anthems</a></li><li><a href="/wiki/Category:Swedish-language_songs" title="Category:Swedish-language songs">Swedish-language songs</a></li><li><a href="/wiki/Category:National_anthem_compositions_in_B-flat_major" title="Category:National anthem compositions in B-flat major">National anthem compositions in B-flat major</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Swedish-language_text" title="Category:Articles containing Swedish-language text">Articles containing Swedish-language text</a></li><li><a href="/wiki/Category:CS1_Swedish-language_sources_(sv)" title="Category:CS1 Swedish-language sources (sv)">CS1 Swedish-language sources (sv)</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2009" title="Category:Articles needing additional references from September 2009">Articles needing additional references from September 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_explicitly_cited_English-language_text" title="Category:Articles containing explicitly cited English-language text">Articles containing explicitly cited English-language text</a></li><li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li><li><a href="/wiki/Category:Articles_with_disputed_statements_from_February_2011" title="Category:Articles with disputed statements from February 2011">Articles with disputed statements from February 2011</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2013" title="Category:Articles with unsourced statements from February 2013">Articles with unsourced statements from February 2013</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Du+gamla%2C+du+fria" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Du+gamla%2C+du+fria" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Du_gamla,_du_fria" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Du_gamla,_du_fria" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Du_gamla,_du_fria">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Du_gamla,_du_fria&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Du_gamla,_du_fria&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Du_gamla,_du_fria" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Du_gamla,_du_fria" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Du_gamla,_du_fria&amp;oldid=930255124" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Du_gamla,_du_fria&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q133261" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Du_gamla%2C_du_fria&amp;id=930255124" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Anthems_of_Sweden" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Du+gamla%2C+du+fria">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Du+gamla%2C+du+fria&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Du_gamla,_du_fria&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AF%D9%88_%D8%AC%D8%A7%D9%85%D9%84%D8%A7_(%D8%AF%D9%88_%D9%81%D8%B1%D9%8A%D8%A7)" hreflang="ar" lang="ar" title="دو جاملا (دو فريا) – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%93%D1%96%D0%BC%D0%BD_%D0%A8%D0%B2%D0%B5%D1%86%D1%8B%D1%96" hreflang="be" lang="be" title="Гімн Швецыі – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%93%D1%96%D0%BC%D0%BD_%D0%A8%D0%B2%D1%8D%D1%86%D1%8B%D1%96" hreflang="be-tarask" lang="be-tarask" title="Гімн Швэцыі – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%BD_%D0%BD%D0%B0_%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Химн на Швеция – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="bs" lang="bs" title="Du gamla, du fria – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="ca" lang="ca" title="Du gamla, du fria – Catalan">Català</a></li><li class="interlanguage-link interwiki-cv"><a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8_%D0%BF%D0%B0%D1%82%D1%88%D0%B0%D0%BB%C4%83%D1%85%C4%95%D0%BD_%D0%B3%D0%B8%D0%BC%D0%BD%C4%95" hreflang="cv" lang="cv" title="Швеци патшалăхĕн гимнĕ – Chuvash">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/%C5%A0v%C3%A9dsk%C3%A1_hymna" hreflang="cs" lang="cs" title="Švédská hymna – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="da" lang="da" title="Du gamla, Du fria – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="de" lang="de" title="Du gamla, Du fria – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="et" lang="et" title="Du gamla, Du fria – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="el" lang="el" title="Du gamla, Du fria – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="es" lang="es" title="Du gamla, du fria – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="eo" lang="eo" title="Du gamla, du fria – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="eu" lang="eu" title="Du gamla, du fria – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%88%D8%AF_%D9%85%D9%84%DB%8C_%D8%B3%D9%88%D8%A6%D8%AF" hreflang="fa" lang="fa" title="سرود ملی سوئد – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="fr" lang="fr" title="Du gamla, du fria – French">Français</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="fy" lang="fy" title="Du gamla, du fria – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="gl" lang="gl" title="Du gamla, du fria – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%9B%A8%EB%8D%B4%EC%9D%98_%EA%B5%AD%EA%B0%80" hreflang="ko" lang="ko" title="스웨덴의 국가 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="hr" lang="hr" title="Du gamla, du fria – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="id" lang="id" title="Du gamla, Du fria – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="is" lang="is" title="Du gamla, du fria – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="it" lang="it" title="Du gamla, du fria – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%A0%D7%95%D7%9F_%D7%A9%D7%95%D7%95%D7%93%D7%99%D7%94" hreflang="he" lang="he" title="המנון שוודיה – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="jv" lang="jv" title="Du gamla, Du fria – Javanese">Jawa</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A8%E1%83%95%E1%83%94%E1%83%93%E1%83%94%E1%83%97%E1%83%98%E1%83%A1_%E1%83%B0%E1%83%98%E1%83%9B%E1%83%9C%E1%83%98" hreflang="ka" lang="ka" title="შვედეთის ჰიმნი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="sw" lang="sw" title="Du gamla, du fria – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Zviedrijas_himna" hreflang="lv" lang="lv" title="Zviedrijas himna – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/%C5%A0vedijos_himnas" hreflang="lt" lang="lt" title="Švedijos himnas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="li" lang="li" title="Du gamla, du fria – Limburgish">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Sv%C3%A9dorsz%C3%A1g_himnusza" hreflang="hu" lang="hu" title="Svédország himnusza – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A2%D0%B8_%D0%B4%D1%80%D0%B5%D0%B2%D0%B5%D0%BD,_%D1%82%D0%B8_%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%B5%D0%BD" hreflang="mk" lang="mk" title="Ти древен, ти слободен – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-arz"><a class="interlanguage-link-target" href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D8%B4%D9%8A%D8%AF_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%89_%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D9%89" hreflang="arz" lang="arz" title="النشيد الوطنى السويدى – Egyptian Arabic">مصرى</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="ms" lang="ms" title="Du gamla, Du fria – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="nl" lang="nl" title="Du gamla, Du fria – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%8F%A4%E3%81%8D%E8%87%AA%E7%94%B1%E3%81%AA%E5%8C%97%E3%81%AE%E5%9B%BD" hreflang="ja" lang="ja" title="古き自由な北の国 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="nb" lang="nb" title="Du gamla, du fria – Norwegian Bokmål">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="nn" lang="nn" title="Du gamla, du fria – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="nds" lang="nds" title="Du gamla, Du fria – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Hymn_Szwecji" hreflang="pl" lang="pl" title="Hymn Szwecji – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="pt" lang="pt" title="Du gamla, Du fria – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="ro" lang="ro" title="Du gamla, Du fria – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BC%D0%BD_%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D0%B8" hreflang="ru" lang="ru" title="Гимн Швеции – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="sco" lang="sco" title="Du gamla, du fria – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="en-simple" lang="en-simple" title="Du gamla, du fria – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="sl" lang="sl" title="Du gamla, Du fria – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-so"><a class="interlanguage-link-target" href="https://so.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="so" lang="so" title="Du gamla, Du fria – Somali">Soomaaliga</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A2%D0%B8_%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%B8,_%D1%82%D0%B8_%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%B8" hreflang="sr" lang="sr" title="Ти древни, ти слободни – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Pohjolanmaa" hreflang="fi" lang="fi" title="Pohjolanmaa – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="sv" lang="sv" title="Du gamla, du fria – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%94%E0%B8%B9%E0%B8%81%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B2_%E0%B8%94%E0%B8%B9%E0%B9%80%E0%B8%9F%E0%B8%A3%E0%B8%B5%E0%B8%A2" hreflang="th" lang="th" title="ดูกามลา ดูเฟรีย – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%A1%D1%83%D1%80%D1%83%D0%B4%D0%B8_%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%B8_%D0%A8%D0%B2%D0%B5%D1%82%D1%81%D0%B8%D1%8F" hreflang="tg" lang="tg" title="Суруди миллии Шветсия – Tajik">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="tr" lang="tr" title="Du gamla, Du fria – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%BC%D0%BD_%D0%A8%D0%B2%D0%B5%D1%86%D1%96%D1%97" hreflang="uk" lang="uk" title="Гімн Швеції – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%82%D9%88%D9%85%DB%8C_%D8%AA%D8%B1%D8%A7%D9%86%DB%81_(%D8%B3%D9%88%D8%A6%DB%8C%DA%88%D9%86)" hreflang="ur" lang="ur" title="قومی ترانہ (سوئیڈن) – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vec"><a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Du_gamla,_du_fria" hreflang="vec" lang="vec" title="Du gamla, du fria – Venetian">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="vi" lang="vi" title="Du gamla, Du fria – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-yo"><a class="interlanguage-link-target" href="https://yo.wikipedia.org/wiki/Du_gamla,_Du_fria" hreflang="yo" lang="yo" title="Du gamla, Du fria – Yoruba">Yorùbá</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%BD%A0%E5%8F%A4%E8%80%81%EF%BC%8C%E4%BD%A0%E8%87%AA%E7%94%B1" hreflang="zh" lang="zh" title="你古老，你自由 – Chinese">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q133261#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 11 December 2019, at 07:14<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Du_gamla,_du_fria&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.704","walltime":"1.009","ppvisitednodes":{"value":2659,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":147268,"limit":2097152},"templateargumentsize":{"value":11492,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":25,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16350,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  861.096      1 -total"," 24.54%  211.289      8 Template:Lang"," 17.06%  146.937      3 Template:Infobox"," 14.72%  126.745      1 Template:Infobox_anthem"," 14.31%  123.212      1 Template:Reflist"," 14.18%  122.068      9 Template:Navbox"," 12.51%  107.745      4 Template:Cite_web"," 11.75%  101.216      1 Template:Refimprove","  8.03%   69.172      1 Template:Ambox","  7.88%   67.876      1 Template:Sweden_topics"]},"scribunto":{"limitreport-timeusage":{"value":"0.368","limit":"10.000"},"limitreport-memusage":{"value":14732890,"limit":52428800}},"cachereport":{"origin":"mw1283","timestamp":"20191211071447","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Du gamla, du fria","url":"https:\/\/en.wikipedia.org\/wiki\/Du_gamla,_du_fria","sameAs":"http:\/\/www.wikidata.org\/entity\/Q133261","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q133261","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-09-21T13:20:38Z","dateModified":"2019-12-11T07:14:43Z","headline":"Swedish national anthem"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1256"});});</script>
+
+
+</body></html>

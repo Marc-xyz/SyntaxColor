@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Battle of Ty-ho Bay - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xftr0ApAAEYAAH4dZBYAAAAY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Battle_of_Ty-ho_Bay","wgTitle":"Battle of Ty-ho Bay","wgCurRevisionId":876377725,"wgRevisionId":876377725,"wgArticleId":27401414,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing clarification from October 2010","Wikipedia articles incorporating text from the Dictionary of American Naval Fighting Ships","Coordinates on Wikidata",
+"Anti-piracy battles involving the United States","Naval battles involving the United Kingdom","Naval battles involving pirates","Punitive expeditions of the United Kingdom","History of Hong Kong","Military expeditions of the United States","Conflicts in 1855","1855 in China","Tai O","Anti-piracy battles involving the United Kingdom","Piracy in the South China Sea","August 1855 events"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Battle_of_Ty-ho_Bay","wgRelevantArticleId":27401414,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},
+"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":22.2672,"lon":113.8503},"wgWikibaseItemId":"Q4872616","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc",
+"mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/6/6d/Chinese_junk_ship.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Battle_of_Ty-ho_Bay" rel="alternate"/>
+<link href="/w/index.php?title=Battle_of_Ty-ho_Bay&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Battle_of_Ty-ho_Bay&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Battle_of_Ty-ho_Bay" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Battle_of_Ty-ho_Bay rootpage-Battle_of_Ty-ho_Bay skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Battle of Ty-ho Bay</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r904532608">@media all and (min-width:720px){.mw-parser-output .desktop-float-right{box-sizing:border-box;float:right;clear:right}}</style><table class="infobox vevent" style="width:25.5em;border-spacing:2px;"><tbody><tr><th class="summary" colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Battle of Ty-ho Bay</th></tr><tr><td colspan="2" style="text-align:center;border-bottom:1px solid #aaa;line-height:1.5em;"><a class="image" href="/wiki/File:Chinese_junk_ship.jpg"><img alt="Chinese junk ship.jpg" data-file-height="230" data-file-width="300" decoding="async" height="230" src="//upload.wikimedia.org/wikipedia/en/6/6d/Chinese_junk_ship.jpg" width="300"/></a><br/><i>A model of an eight gun pirate junk.</i></td></tr><tr><td colspan="2"><table style="width:100%;margin:0;padding:0;border:0"><tbody><tr><th style="padding-right:1em">Date</th><td>August 4, 1855</td></tr><tr><th style="padding-right:1em">Location</th><td><div class="location">Off <a href="/wiki/Tai_O" title="Tai O">Tai O</a>, <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a></div></td></tr><tr><th style="padding-right:1em">Result</th><td>
+Anglo-American victory</td></tr></tbody></table></td></tr><tr><th colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Belligerents</th></tr><tr><td style="width:50%;border-right:1px dotted #aaa;">
+<span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" class="thumbborder" data-file-height="600" data-file-width="1200" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/></a></span> <a href="/wiki/United_Kingdom_of_Great_Britain_and_Ireland" title="United Kingdom of Great Britain and Ireland">United Kingdom</a><br/><span class="flagicon"><img alt="" class="thumbborder" data-file-height="539" data-file-width="1024" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_the_United_States_%281851%E2%80%931858%29.svg/23px-Flag_of_the_United_States_%281851%E2%80%931858%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_the_United_States_%281851%E2%80%931858%29.svg/35px-Flag_of_the_United_States_%281851%E2%80%931858%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_the_United_States_%281851%E2%80%931858%29.svg/46px-Flag_of_the_United_States_%281851%E2%80%931858%29.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a></td><td style="width:50%;padding-left:0.25em">
+<a href="/wiki/China" title="China">Chinese</a> <a href="/wiki/Piracy" title="Piracy">Pirates</a></td></tr><tr><th colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Commanders and leaders</th></tr><tr><td style="width:50%;border-right:1px dotted #aaa;">
+<span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" class="thumbborder" data-file-height="600" data-file-width="1200" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/></a></span> <a class="new" href="/w/index.php?title=William_Fellowes&amp;action=edit&amp;redlink=1" title="William Fellowes (page does not exist)">William Fellowes</a><br/><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" class="thumbborder" data-file-height="539" data-file-width="1024" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_the_United_States_%281851%E2%80%931858%29.svg/23px-Flag_of_the_United_States_%281851%E2%80%931858%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_the_United_States_%281851%E2%80%931858%29.svg/35px-Flag_of_the_United_States_%281851%E2%80%931858%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_the_United_States_%281851%E2%80%931858%29.svg/46px-Flag_of_the_United_States_%281851%E2%80%931858%29.svg.png 2x" width="23"/></a></span> <a class="new" href="/w/index.php?title=William_J._McCluney&amp;action=edit&amp;redlink=1" title="William J. McCluney (page does not exist)">William McCluney</a></td><td style="width:50%;padding-left:0.25em">
+Unknown</td></tr><tr><th colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Strength</th></tr><tr><td style="width:50%;border-right:1px dotted #aaa;">
+1 <a href="/wiki/Steamboat" title="Steamboat">steamer</a><br/>1 <a href="/wiki/Sloop-of-war" title="Sloop-of-war">sloop</a><br/>1 <a class="mw-redirect" href="/wiki/Screw_frigate" title="Screw frigate">screw frigate</a><br/>~6 <a href="/wiki/Boat" title="Boat">armed boats</a><br/> <a href="/wiki/Sailor" title="Sailor">sailors</a> and <a class="mw-redirect" href="/wiki/Marine_(military)" title="Marine (military)">marines</a></td><td style="width:50%;padding-left:0.25em">
+36 <a href="/wiki/Junk_(ship)" title="Junk (ship)">war-junks</a></td></tr><tr><th colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Casualties and losses</th></tr><tr><td style="width:50%;border-right:1px dotted #aaa;">
+9 killed<br/>~6 wounded</td><td style="width:50%;padding-left:0.25em">
+~500 killed or wounded<br/>~1,000 captured<br/>20 war-junks sunk</td></tr><tr><td colspan="2" style="font-size:90%;border-top:1px solid #aaa;">
+<p><br/>
+</p>
+<ul><li><i>Seven captured merchant ships were liberated by the British and Americans during the battle, two sustained heavy damage and were burned.</i></li></ul></td></tr></tbody></table>
+<div aria-labelledby="Piracy_in_Asia" class="navbox" role="navigation" style="margin:0;float:right;clear:right;width:25.5em;margin-bottom:0.5em;margin-left:1em;;padding:3px"><table class="nowraplinks navbox-vertical mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background-color:#C3D6EF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Campaignbox_Piracy_in_Asia" title="Template:Campaignbox Piracy in Asia"><abbr style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_Piracy_in_Asia" title="Template talk:Campaignbox Piracy in Asia"><abbr style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Campaignbox_Piracy_in_Asia&amp;action=edit"><abbr style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Piracy_in_Asia" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="/wiki/Piracy#Asia" title="Piracy">Piracy in Asia</a></span></div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Persian_Gulf_campaign_of_1809" title="Persian Gulf campaign of 1809">Persian Gulf</a></li>
+<li><a class="new" href="/w/index.php?title=First_Battle_of_Tainan&amp;action=edit&amp;redlink=1" title="First Battle of Tainan (page does not exist)">1st Tainan</a></li>
+<li><a class="new" href="/w/index.php?title=Second_Battle_of_Tainan&amp;action=edit&amp;redlink=1" title="Second Battle of Tainan (page does not exist)">2nd Tainan</a></li>
+<li><a href="/wiki/Spanish_expedition_to_Balanguingui" title="Spanish expedition to Balanguingui">Balanguingui</a></li>
+<li><a href="/wiki/Battle_of_Tysami" title="Battle of Tysami">Tysami</a></li>
+<li><a class="new" href="/w/index.php?title=Battle_of_Pinghoi_Creek&amp;action=edit&amp;redlink=1" title="Battle of Pinghoi Creek (page does not exist)">Pinghoi Creek</a></li>
+<li><a href="/wiki/Battle_of_Tonkin_River" title="Battle of Tonkin River">Tonkin River</a></li>
+<li><a href="/wiki/Battle_of_Nam_Quan" title="Battle of Nam Quan">Nam Quan</a></li>
+<li><a class="mw-selflink selflink">Ty-ho Bay</a></li>
+<li><a href="/wiki/Battle_of_the_Leotung" title="Battle of the Leotung">Leotung</a></li>
+<li><a class="new" href="/w/index.php?title=Battle_of_Mid-Tao_Strait&amp;action=edit&amp;redlink=1" title="Battle of Mid-Tao Strait (page does not exist)">Mid-Tao Strait</a></li>
+<li><a class="new" href="/w/index.php?title=Battle_of_Sheipoo&amp;action=edit&amp;redlink=1" title="Battle of Sheipoo (page does not exist)">Sheipoo</a></li>
+<li><a class="new" href="/w/index.php?title=Battle_of_Lintin&amp;action=edit&amp;redlink=1" title="Battle of Lintin (page does not exist)">Lintin</a></li>
+<li><a class="new" href="/w/index.php?title=Battle_of_Sama_Bay&amp;action=edit&amp;redlink=1" title="Battle of Sama Bay (page does not exist)">Sama Bay</a></li>
+<li><a href="/wiki/Antelope_of_Boston" title="Antelope of Boston"><i>Antelope</i> Incident</a></li>
+<li><a class="mw-redirect" href="/wiki/North_Star_Affair" title="North Star Affair"><i>North Star</i> Affair</a></li>
+<li><a href="/wiki/Battle_off_Mukah" title="Battle off Mukah">Mukah</a></li>
+<li><a class="mw-redirect" href="/wiki/Irene_Incident" title="Irene Incident"><i>Irene</i> Incident</a></li>
+<li><a href="/wiki/1985_Lahad_Datu_ambush" title="1985 Lahad Datu ambush">Lahad Datu ambush</a></li>
+<li><a href="/wiki/MT_Zafirah_hijacking" title="MT Zafirah hijacking">MT <i>Zafirah</i> hijacking</a></li>
+<li><a href="/wiki/MT_Orkim_Harmony_hijacking" title="MT Orkim Harmony hijacking">MT <i>Orkim Harmony</i> hijacking</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p>The <b>Battle of Ty-ho Bay</b> was a significant naval engagement in 1855 involving the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> and <a href="/wiki/United_States" title="United States">United States</a> against Chinese <a href="/wiki/Piracy" title="Piracy">pirates</a>. The action off <a href="/wiki/Tai_O" title="Tai O">Tai O</a>, <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a> was to rescue captured merchant vessels, held by a fleet of armed <a href="/wiki/Junk_(ship)" title="Junk (ship)">war-junks</a>. British and American forces defeated the pirates in one of the last major battles between Chinese pirate fleets and western navies. It was also one of the first joint operations undertaken by British and American forces.<sup class="reference" id="cite_ref-auto_1-0"><a href="#cite_note-auto-1">[1]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Battle"><span class="tocnumber">2</span> <span class="toctext">Battle</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battle_of_Ty-ho_Bay&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Unlike the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> where piracy was largely ended by 1830, piracy in <a href="/wiki/Asia" title="Asia">Asia</a> and the <a class="mw-redirect" href="/wiki/Pacific" title="Pacific">Pacific</a> continued to thrive as it had for centuries. Chinese and <a href="/wiki/Japan" title="Japan">Japanese</a> pirates constantly fought each other throughout China's coastal regions. Hundreds of pirate hideouts existed along the Chinese coast by 1855. This prompted western naval forces to fight them when they attacked shipping.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> In September 1855, the pirates of Kuhlan seized four merchant vessels escorted by the <a href="/wiki/Paddle_steamer" title="Paddle steamer">paddle steamer</a> <a href="/wiki/HMS_Eaglet" title="HMS Eaglet">HMS <i>Eaglet</i></a>. The Royal Navy <a href="/wiki/Sloop-of-war" title="Sloop-of-war">sloop-of-war</a> <a href="/wiki/HMS_Rattler_(1843)" title="HMS Rattler (1843)">HMS <i>Rattler</i></a> was sent to rescue the merchantmen.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-auto_1-1"><a href="#cite_note-auto-1">[1]</a></sup>
+</p><p>HMS <i>Rattler</i> found the pirates in Kuhlan Harbor. When shallow water prevented her from attacking, she left to seek aid from the <i>Eaglet</i> and <a href="/wiki/USS_Powhatan_(1850)" title="USS Powhatan (1850)">USS <i>Powhatan</i></a>, a sidewheel <a href="/wiki/Steamship" title="Steamship">steam</a> <a href="/wiki/Frigate" title="Frigate">frigate</a> of the <a href="/wiki/East_India_Squadron" title="East India Squadron">East India Squadron</a> commanded by <a href="/wiki/Commodore_(United_States)" title="Commodore (United States)">Commodore</a> <a class="new" href="/w/index.php?title=William_J._McCluney&amp;action=edit&amp;redlink=1" title="William J. McCluney (page does not exist)">William J. McCluney</a>.  <i>Powhatan</i> later played a significant role during the <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>.  <i>Rattler</i> was commanded by <a href="/wiki/Commodore_(Royal_Navy)" title="Commodore (Royal Navy)">Commodore</a> <a class="new" href="/w/index.php?title=William_Fellowes&amp;action=edit&amp;redlink=1" title="William Fellowes (page does not exist)">William Fellowes</a> and was manned by 180 officers and crew. The number of crew and armament of <i>Eaglet</i> is unknown. She was originally a civil vessel chartered for British naval service between 1855 and 1857, to tow British vessels through shallow water.<sup class="reference" id="cite_ref-auto_1-2"><a href="#cite_note-auto-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Battle">Battle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battle_of_Ty-ho_Bay&amp;action=edit&amp;section=2" title="Edit section: Battle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Taio.png"><img alt="" class="thumbimage" data-file-height="768" data-file-width="1024" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Taio.png/200px-Taio.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Taio.png/300px-Taio.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Taio.png/400px-Taio.png 2x" width="200"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Taio.png" title="Enlarge"></a></div><i>Location of Tai O within Hong Kong.</i></div></div></div>
+<p>On August 4, the steamer <i>Eaglet</i> arrived at Ty-ho Bay, she was towing at least six boats of different types, filled with British and American sailors and marines. Each boat was armed with a howitzer or cannon. The British first spotted a merchant junk that appeared to be fleeing the bay, so the <a href="/wiki/Pinnace_(ship%27s_boat)" title="Pinnace (ship's boat)">pinnace</a> of the <i>Rattler</i> and the <a href="/wiki/Cutter_(boat)" title="Cutter (boat)">cutter</a> of the <i>Powhatan</i> were sent to cut the junk out. Minutes later, when the pinnace and cutter disappeared from sight, the remaining British and American vessels sighted the pirate fleet, which included fourteen large junks and twenty-two smaller ones. Some 1,500 pirates crewed the vessels and they were armed with small cannons. Also in the bay were seven captured merchant ships, most of which were Chinese junks. When the Chinese sighted the approaching enemy, half of the pirate junks began to flee while the other remained behind to engage.<sup class="reference" id="cite_ref-auto_1-3"><a href="#cite_note-auto-1">[1]</a></sup>
+</p><p>The pirates began a heavy fire on the British and Americans but most of the shot was not well directed and passed over the <i>Eaglet</i> and the armed boats. When the expedition was in range the boats started their return fire and six junks were sunk at this time. When the range decreased to close quarters, <i>Eaglet</i> detached the boats and they went off to board the junks. Fourteen were taken with heavy resistance and were burned just after. The seven merchant ships were also liberated but two were heavily damaged in the battle and subsequently burned as well. As result of the action, fourteen larger junks were destroyed along with six small ones while sixteen others escaped.<sup class="reference" id="cite_ref-auto_1-4"><a href="#cite_note-auto-1">[1]</a></sup>
+</p><p>An estimated 500 pirates were killed in action, drowned, or were wounded. Around 1,000 pirates were taken prisoner. American casualties consisted of six wounded with five dead out of about 100 men, the dead were crewmen John Pepper, James A. Halsey, Isaac Coe, Landsman, S. Mullard and B. F. Addamson. The British suffered several wounded and four men killed, officer George Mitchell, and crewmen James Silvers, John Massey, and M. Oliff.<sup class="reference" id="cite_ref-auto_1-5"><a href="#cite_note-auto-1">[1]</a></sup> The battle is largely forgotten but a monument was erected at <a href="/wiki/Happy_Valley,_Hong_Kong" title="Happy Valley, Hong Kong">Happy Valley</a> in commemoration, it was later moved to the city of <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a>.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (October 2010)">clarification needed</span></a></i>]</sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battle_of_Ty-ho_Bay&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Battle_of_Fatshan_Creek" title="Battle of Fatshan Creek">Battle of Fatshan Creek</a></li>
+<li><a href="/wiki/First_Opium_War" title="First Opium War">First</a> and <a href="/wiki/Second_Opium_War" title="Second Opium War">Second Opium War</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battle_of_Ty-ho_Bay&amp;action=edit&amp;section=4" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-auto-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-auto_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-auto_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-auto_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-auto_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Wombwell, pg. 114</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Waley-Cohen</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Colledge, J. J. and Warlow, Ben</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Battle_of_Ty-ho_Bay&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Wombwell, A. James (2010). <i>The Long War Against Piracy: Historical Trends</i>. Fort Leavenworth, Kansas: Combat Studies Institute Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-9823283-6-1" title="Special:BookSources/978-0-9823283-6-1"><bdi>978-0-9823283-6-1</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Long+War+Against+Piracy%3A+Historical+Trends&amp;rft.place=Fort+Leavenworth%2C+Kansas&amp;rft.pub=Combat+Studies+Institute+Press&amp;rft.date=2010&amp;rft.isbn=978-0-9823283-6-1&amp;rft.aulast=Wombwell&amp;rft.aufirst=A.+James&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattle+of+Ty-ho+Bay"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li>
+<li><cite class="citation book">Colledge, J. J. &amp; Warlow, Ben (2006) [1969]. <i>Ships of the Royal Navy</i> (Rev. ed.). London: Chatham. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-86176-281-8" title="Special:BookSources/978-1-86176-281-8"><bdi>978-1-86176-281-8</bdi></a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/67375475" rel="nofollow">67375475</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ships+of+the+Royal+Navy&amp;rft.place=London&amp;rft.edition=Rev.&amp;rft.pub=Chatham&amp;rft.date=2006&amp;rft_id=info%3Aoclcnum%2F67375475&amp;rft.isbn=978-1-86176-281-8&amp;rft.au=Colledge%2C+J.+J.&amp;rft.au=Warlow%2C+Ben&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattle+of+Ty-ho+Bay"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">Waley-Cohen, Joanna (2006). <i>The culture of war in China: Empire and the military under the Qing Dynasty</i>. I.B. Tauris. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-84511-159-1" title="Special:BookSources/1-84511-159-1"><bdi>1-84511-159-1</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+culture+of+war+in+China%3A+Empire+and+the+military+under+the+Qing+Dynasty&amp;rft.pub=I.B.+Tauris&amp;rft.date=2006&amp;rft.isbn=1-84511-159-1&amp;rft.aulast=Waley-Cohen&amp;rft.aufirst=Joanna&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABattle+of+Ty-ho+Bay"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><i>This article incorporates text from the <a href="/wiki/Public_domain" title="Public domain">public domain</a> </i><a href="/wiki/Dictionary_of_American_Naval_Fighting_Ships" title="Dictionary of American Naval Fighting Ships">Dictionary of American Naval Fighting Ships</a><i>. The entry can be found <a class="external text" href="http://www.history.navy.mil/danfs/p10/powhatan-i.htm" rel="nofollow">here</a>.</i></li></ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Battle_of_Ty-ho_Bay&amp;params=22.2672_N_113.8503_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">22°16′02″N</span> <span class="longitude">113°51′01″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">22.2672°N 113.8503°E</span><span style="display:none">﻿ / <span class="geo">22.2672; 113.8503</span></span></span></a></span></span></span>
+</p>
+<div aria-labelledby="Piracy" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Pirates" title="Template:Pirates"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Pirates" title="Template talk:Pirates"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Pirates&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Piracy" style="font-size:114%;margin:0 4em"><a href="/wiki/Piracy" title="Piracy">Piracy</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%;white-space: normal;"><a href="/wiki/Category:Piracy_by_period" title="Category:Piracy by period">Periods</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ancient_Mediterranean_piracy" title="Ancient Mediterranean piracy">Ancient Mediterranean</a></li>
+<li><a href="/wiki/Golden_Age_of_Piracy" title="Golden Age of Piracy">Golden Age</a>
+<ul><li><a href="/wiki/Republic_of_Pirates" title="Republic of Pirates">Republic of Pirates</a></li>
+<li><a href="/wiki/Libertatia" title="Libertatia">Libertatia</a></li></ul></li>
+<li><a href="/wiki/Piracy_in_the_21st_century" title="Piracy in the 21st century">21st century</a></li></ul>
+</div></td><td class="navbox-image" rowspan="11" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Skull_and_Crossbones.svg"><img alt="Skull and Crossbones.svg" data-file-height="490" data-file-width="510" decoding="async" height="96" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Skull_and_Crossbones.svg/100px-Skull_and_Crossbones.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Skull_and_Crossbones.svg/150px-Skull_and_Crossbones.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Skull_and_Crossbones.svg/200px-Skull_and_Crossbones.svg.png 2x" width="100"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;white-space: normal;">Types of pirate</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_piracy" title="Albanian piracy">Albanian piracy</a></li>
+<li><a href="/wiki/Baltic_Slavic_piracy" title="Baltic Slavic piracy">Baltic Slavic pirates</a></li>
+<li><a href="/wiki/Barbary_pirates" title="Barbary pirates">Barbary pirates (corsairs)</a></li>
+<li><a href="/wiki/Brethren_of_the_Coast" title="Brethren of the Coast">Brethren of the Coast</a></li>
+<li><a href="/wiki/Buccaneer" title="Buccaneer">Buccaneers</a></li>
+<li><a href="/wiki/Cilician_pirates" title="Cilician pirates">Cilician pirates</a></li>
+<li><a href="/wiki/Cossacks" title="Cossacks">Cossack pirates</a></li>
+<li><a href="/wiki/Filibuster_(military)" title="Filibuster (military)">Fillibusters</a></li>
+<li><a href="/wiki/Piracy_in_the_Sulu_Sea" title="Piracy in the Sulu Sea">Moro pirates</a></li>
+<li><a href="/wiki/Narentines" title="Narentines">Narentines</a></li>
+<li><a href="/wiki/Privateer" title="Privateer">Privateers</a> (<a href="/wiki/Confederate_privateer" title="Confederate privateer">confederate privateer</a>)</li>
+<li><a href="/wiki/River_pirate" title="River pirate">River pirate</a></li>
+<li><a href="/wiki/Geuzen" title="Geuzen">Sea Beggars</a></li>
+<li><a href="/wiki/Sea_Dogs" title="Sea Dogs">Sea Dogs</a></li>
+<li><a href="/wiki/Bawarij" title="Bawarij">Sindhi corsairs</a></li>
+<li><a href="/wiki/Timber_pirate" title="Timber pirate">Timber pirate</a></li>
+<li><a class="mw-redirect" href="/wiki/Ushkuiniks" title="Ushkuiniks">Ushkuiniks</a></li>
+<li><a href="/wiki/Uskoks" title="Uskoks">Uskoks</a></li>
+<li><a href="/wiki/Vikings" title="Vikings">Vikings</a></li>
+<li><a href="/wiki/Wokou" title="Wokou">Wokou</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;white-space: normal;">Areas</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anglo-Turkish_piracy" title="Anglo-Turkish piracy">Anglo-Turkish piracy</a></li>
+<li><a href="/wiki/Barataria_Bay" title="Barataria Bay">Barataria Bay</a></li>
+<li><a href="/wiki/Barbary_Coast" title="Barbary Coast">Barbary Coast</a></li>
+<li><a href="/wiki/Piracy_in_the_British_Virgin_Islands" title="Piracy in the British Virgin Islands">British Virgin Islands</a></li>
+<li><a href="/wiki/Piracy_in_the_Caribbean" title="Piracy in the Caribbean">Caribbean</a></li>
+<li><a href="/wiki/Piracy_on_Falcon_Lake" title="Piracy on Falcon Lake">Falcon Lake</a></li>
+<li><a href="/wiki/Piracy_in_the_Gulf_of_Guinea" title="Piracy in the Gulf of Guinea">Gulf of Guinea</a></li>
+<li><a href="/wiki/Piracy_in_Indonesia" title="Piracy in Indonesia">Indonesia</a></li>
+<li><a href="/wiki/Lagos,_Portugal" title="Lagos, Portugal">Lagos</a></li>
+<li><a href="/wiki/Piracy_on_Lake_Nicaragua" title="Piracy on Lake Nicaragua">Lake Nicaragua</a></li>
+<li><a href="/wiki/Lundy" title="Lundy">Lundy</a></li>
+<li><a href="/wiki/Piracy_in_the_Persian_Gulf" title="Piracy in the Persian Gulf">Persian Gulf</a></li>
+<li><a href="/wiki/Port_Royal" title="Port Royal">Port Royal</a></li>
+<li><a href="/wiki/Saint-Malo" title="Saint-Malo">Saint-Malo</a></li>
+<li><a href="/wiki/Republic_of_Sal%C3%A9" title="Republic of Salé">Salé</a></li>
+<li><a href="/wiki/Piracy_off_the_coast_of_Somalia" title="Piracy off the coast of Somalia">Somali Coast</a></li>
+<li><a href="/wiki/Pirates_of_the_South_China_Coast" title="Pirates of the South China Coast">South China Coast</a></li>
+<li><a href="/wiki/Spanish_Main" title="Spanish Main">Spanish Main</a></li>
+<li><a href="/wiki/Piracy_in_the_Strait_of_Malacca" title="Piracy in the Strait of Malacca">Strait of Malacca</a></li>
+<li><a href="/wiki/Piracy_in_the_Sulu_Sea" title="Piracy in the Sulu Sea">Sulu Sea</a></li>
+<li><a href="/wiki/Tortuga_(Haiti)" title="Tortuga (Haiti)">Tortuga</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;white-space: normal;">Major figures</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Pirates</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mansel_Alcantra" title="Mansel Alcantra">Mansel Alcantra</a></li>
+<li><a href="/wiki/Louis-Michel_Aury" title="Louis-Michel Aury">Louis-Michel Aury</a></li>
+<li><a href="/wiki/Joseph_Baker_(pirate)" title="Joseph Baker (pirate)">Joseph Baker</a></li>
+<li><a href="/wiki/Hayreddin_Barbarossa" title="Hayreddin Barbarossa">Hayreddin Barbarossa</a></li>
+<li><a href="/wiki/Joseph_Barss" title="Joseph Barss">Joseph Barss</a></li>
+<li><a href="/wiki/Samuel_Bellamy" title="Samuel Bellamy">Samuel Bellamy</a></li>
+<li><a href="/wiki/Charlotte_de_Berry" title="Charlotte de Berry">Charlotte de Berry</a></li>
+<li><a href="/wiki/Black_Caesar_(pirate)" title="Black Caesar (pirate)">Black Caesar</a></li>
+<li><a href="/wiki/Blackbeard" title="Blackbeard">Blackbeard</a></li>
+<li><a href="/wiki/Eli_Boggs" title="Eli Boggs">Eli Boggs</a></li>
+<li><a href="/wiki/Stede_Bonnet" title="Stede Bonnet">Stede Bonnet</a></li>
+<li><a href="/wiki/Anne_Bonny" title="Anne Bonny">Anne Bonny</a></li>
+<li><a href="/wiki/Hippolyte_Bouchard" title="Hippolyte Bouchard">Hippolyte Bouchard</a></li>
+<li><a href="/wiki/Abshir_Boyah" title="Abshir Boyah">Abshir Boyah</a></li>
+<li><a href="/wiki/Roche_Braziliano" title="Roche Braziliano">Roche Braziliano</a></li>
+<li><a href="/wiki/Henri_Caesar" title="Henri Caesar">Henri Caesar</a></li>
+<li><a href="/wiki/Cai_Qian" title="Cai Qian">Cai Qian</a></li>
+<li><a href="/wiki/Cheung_Po_Tsai" title="Cheung Po Tsai">Cheung Po Tsai</a></li>
+<li><a href="/wiki/Ching_Shih" title="Ching Shih">Ching Shih</a></li>
+<li><a href="/wiki/Chui_A-poo" title="Chui A-poo">Chui A-poo</a></li>
+<li><a href="/wiki/Roberto_Cofres%C3%AD" title="Roberto Cofresí">Roberto Cofresí</a></li>
+<li><a href="/wiki/William_Dampier" title="William Dampier">William Dampier</a></li>
+<li><a href="/wiki/Diabolito" title="Diabolito">Diabolito</a></li>
+<li><a href="/wiki/Peter_Easton" title="Peter Easton">Peter Easton</a></li>
+<li><a href="/wiki/Edward_England" title="Edward England">Edward England</a></li>
+<li><a href="/wiki/Henry_Every" title="Henry Every">Henry Every</a></li>
+<li><a href="/wiki/Alexandre_Exquemelin" title="Alexandre Exquemelin">Alexandre Exquemelin</a></li>
+<li><a href="/wiki/F%C5%ABma_Kotar%C5%8D" title="Fūma Kotarō">Fūma Kotarō</a></li>
+<li><a href="/wiki/Vincenzo_Gambi" title="Vincenzo Gambi">Vincenzo Gambi</a></li>
+<li><a href="/wiki/Gan_Ning" title="Gan Ning">Gan Ning</a></li>
+<li><a href="/wiki/Charles_Gibbs" title="Charles Gibbs">Charles Gibbs</a></li>
+<li><a href="/wiki/Pedro_Gilbert" title="Pedro Gilbert">Pedro Gilbert</a></li>
+<li><a href="/wiki/Nathaniel_Gordon" title="Nathaniel Gordon">Nathaniel Gordon</a></li>
+<li><a href="/wiki/Laurens_de_Graaf" title="Laurens de Graaf">Laurens de Graaf</a></li>
+<li><a href="/wiki/Michel_de_Grammont" title="Michel de Grammont">Michel de Grammont</a></li>
+<li><a href="/wiki/Calico_Jack" title="Calico Jack">Calico Jack</a></li>
+<li><a href="/wiki/Rahmah_ibn_Jabir_Al_Jalhami" title="Rahmah ibn Jabir Al Jalhami">Rahmah ibn Jabir Al Jalhami</a></li>
+<li><a href="/wiki/J%C3%B8rgen_J%C3%B8rgensen" title="Jørgen Jørgensen">Jørgen Jørgensen</a></li>
+<li><a href="/wiki/Shirahama_Kenki" title="Shirahama Kenki">Shirahama Kenki</a></li>
+<li><a href="/wiki/William_Kidd" title="William Kidd">William Kidd</a></li>
+<li><a href="/wiki/Jean_Lafitte" title="Jean Lafitte">Jean Lafitte</a></li>
+<li><a href="/wiki/Lai_Choi_San" title="Lai Choi San">Lai Choi San</a></li>
+<li><a href="/wiki/Liang_Daoming" title="Liang Daoming">Liang Daoming</a></li>
+<li><a href="/wiki/Limahong" title="Limahong">Limahong</a></li>
+<li><a href="/wiki/Samuel_Hall_Lord" title="Samuel Hall Lord">Samuel Hall Lord</a></li>
+<li><a href="/wiki/John_Hawkins_(naval_commander)" title="John Hawkins (naval commander)">John Hawkins</a></li>
+<li><a href="/wiki/Bully_Hayes" title="Bully Hayes">Bully Hayes</a></li>
+<li><a href="/wiki/Piet_Pieterszoon_Hein" title="Piet Pieterszoon Hein">Piet Pieterszoon Hein</a></li>
+<li><a href="/wiki/Moses_Cohen_Henriques" title="Moses Cohen Henriques">Moses Cohen Henriques</a></li>
+<li><a href="/wiki/Albert_W._Hicks" title="Albert W. Hicks">Albert W. Hicks</a></li>
+<li><a href="/wiki/Nicholas_van_Hoorn" title="Nicholas van Hoorn">Nicholas van Hoorn</a></li>
+<li><a href="/wiki/Benjamin_Hornigold" title="Benjamin Hornigold">Benjamin Hornigold</a></li>
+<li><a href="/wiki/Pierre_Lafitte" title="Pierre Lafitte">Pierre Lafitte</a></li>
+<li><a href="/wiki/Olivier_Levasseur" title="Olivier Levasseur">Olivier Levasseur</a></li>
+<li><a href="/wiki/Edward_Low" title="Edward Low">Edward Low</a></li>
+<li><a href="/wiki/Hendrick_Lucifer" title="Hendrick Lucifer">Hendrick Lucifer</a></li>
+<li><a href="/wiki/John_Newland_Maffitt_(privateer)" title="John Newland Maffitt (privateer)">John Newland Maffitt</a></li>
+<li><a href="/wiki/Samuel_Mason" title="Samuel Mason">Samuel Mason</a></li>
+<li><a href="/wiki/Henry_Morgan" title="Henry Morgan">Henry Morgan</a></li>
+<li><a href="/wiki/Shap-ng-tsai" title="Shap-ng-tsai">Shap-ng-tsai</a></li>
+<li><a href="/wiki/Fran%C3%A7ois_l%27Olonnais" title="François l'Olonnais">François l'Olonnais</a></li>
+<li><a href="/wiki/Samuel_Pallache" title="Samuel Pallache">Samuel Pallache</a></li>
+<li><a href="/wiki/Lawrence_Prince" title="Lawrence Prince">Lawrence Prince</a></li>
+<li><a href="/wiki/Oru%C3%A7_Reis" title="Oruç Reis">Redbeard</a></li>
+<li><a href="/wiki/Bartholomew_Roberts" title="Bartholomew Roberts">Bartholomew Roberts</a></li>
+<li><a href="/wiki/Dan_Seavey" title="Dan Seavey">Dan Seavey</a></li>
+<li><a href="/wiki/Benito_de_Soto" title="Benito de Soto">Benito de Soto</a></li>
+<li><a href="/wiki/Klaus_St%C3%B6rtebeker" title="Klaus Störtebeker">Klaus Störtebeker</a></li>
+<li><a href="/wiki/Henry_Strangways_(pirate)" title="Henry Strangways (pirate)">Henry Strangways</a></li>
+<li><a href="/wiki/Wang_Zhi_(pirate)" title="Wang Zhi (pirate)">Wang Zhi</a></li>
+<li><a href="/wiki/Dominique_You" title="Dominique You">Dominique You</a></li>
+<li><a href="/wiki/Zheng_Jing" title="Zheng Jing">Zheng Jing</a></li>
+<li><a href="/wiki/Zheng_Qi_(pirate)" title="Zheng Qi (pirate)">Zheng Qi</a></li>
+<li><a href="/wiki/Zheng_Yi_(pirate)" title="Zheng Yi (pirate)">Zheng Yi</a></li>
+<li><a href="/wiki/Zheng_Zhilong" title="Zheng Zhilong">Zheng Zhilong</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Pirate hunters</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pedro_Men%C3%A9ndez_de_Avil%C3%A9s" title="Pedro Menéndez de Avilés">Pedro Menéndez de Avilés</a></li>
+<li><a href="/wiki/Angelo_Emo" title="Angelo Emo">Angelo Emo</a></li>
+<li><a href="/wiki/Richard_Avery_Hornsby" title="Richard Avery Hornsby">Richard Avery Hornsby</a></li>
+<li><a href="/wiki/Campuzano_Polanco_family" title="Campuzano Polanco family">Jose Campuzano-Polanco</a></li>
+<li><a href="/wiki/Robert_Maynard" title="Robert Maynard">Robert Maynard</a></li>
+<li><a href="/wiki/Chaloner_Ogle" title="Chaloner Ogle">Chaloner Ogle</a></li>
+<li><a href="/wiki/Pompey" title="Pompey">Pompey</a></li>
+<li><a href="/wiki/Woodes_Rogers" title="Woodes Rogers">Woodes Rogers</a></li>
+<li><a href="/wiki/David_Porter_(naval_officer)" title="David Porter (naval officer)">David Porter</a></li>
+<li><a href="/wiki/James_Brooke" title="James Brooke">James Brooke</a></li>
+<li><a href="/wiki/Miguel_Enr%C3%ADquez_(privateer)" title="Miguel Enríquez (privateer)">Miguel Enríquez</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;white-space: normal;">Pirate ships</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Adventure_Galley" title="Adventure Galley">Adventure Galley</a></i></li>
+<li><i><a href="/wiki/Fancy_(ship)" title="Fancy (ship)">Fancy</a></i></li>
+<li><i><a href="/wiki/Flying_Dutchman" title="Flying Dutchman">Flying Dutchman</a></i></li>
+<li><i><a href="/wiki/Ganj-i-Sawai" title="Ganj-i-Sawai">Ganj-i-Sawai</a></i></li>
+<li><i><a href="/wiki/Queen_Anne%27s_Revenge" title="Queen Anne's Revenge">Queen Anne's Revenge</a></i></li>
+<li><i><a href="/wiki/Quedagh_Merchant" title="Quedagh Merchant">Quedagh Merchant</a></i></li>
+<li><i><a href="/wiki/Saladin_(barque)" title="Saladin (barque)">Saladin</a></i></li>
+<li><i><a href="/wiki/Whydah_Gally" title="Whydah Gally">Whydah Gally</a></i></li>
+<li><i><a href="/wiki/CSS_McRae" title="CSS McRae">Marquis of Havana</a></i></li>
+<li><i><a href="/wiki/Ambrose_Light_(ship)" title="Ambrose Light (ship)">Ambrose Light</a></i></li>
+<li><i><a href="/wiki/MV_York" title="MV York">York</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;white-space: normal;">Pirate battles and incidents</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jiajing_wokou_raids" title="Jiajing wokou raids">Jiajing wokou raids</a></li>
+<li><a href="/wiki/Turkish_Abductions" title="Turkish Abductions">Turkish Abductions</a></li>
+<li><a href="/wiki/Chepo_expedition" title="Chepo expedition">Chepo Expedition</a></li>
+<li><a href="/wiki/Ganj-i-Sawai" title="Ganj-i-Sawai">Battle of Mandab Strait</a></li>
+<li><a href="/wiki/Battle_of_Pianosa" title="Battle of Pianosa">Battle of Pianosa</a></li>
+<li><a href="/wiki/Blackbeard" title="Blackbeard">Blockade of Charleston</a></li>
+<li><a href="/wiki/Battle_of_Cape_Fear_River_(1718)" title="Battle of Cape Fear River (1718)">Battle of Cape Fear River</a></li>
+<li><a href="/wiki/Blackbeard" title="Blackbeard">Battle of Ocracoke Inlet</a></li>
+<li><a href="/wiki/Capture_of_the_sloop_William" title="Capture of the sloop William">Capture of the sloop <i>William</i></a></li>
+<li><a href="/wiki/Sack_of_Campeche_(1663)" title="Sack of Campeche (1663)">Sack of Campeche</a></li>
+<li><a href="/wiki/Attack_on_Veracruz" title="Attack on Veracruz">Attack on Veracruz</a></li>
+<li><a href="/wiki/Raid_on_Cartagena_(1683)" title="Raid on Cartagena (1683)">Raid on Cartagena</a></li>
+<li><a href="/wiki/Battle_of_Cape_Lopez" title="Battle of Cape Lopez">Battle of Cape Lopez</a></li>
+<li><a href="/wiki/Capture_of_the_schooner_Fancy" title="Capture of the schooner Fancy">Capture of the schooner <i>Fancy</i></a></li>
+<li><a href="/wiki/Persian_Gulf_campaign_of_1809" title="Persian Gulf campaign of 1809">Persian Gulf Campaign</a></li>
+<li><a href="/wiki/Battle_of_New_Orleans" title="Battle of New Orleans">Battle of New Orleans</a></li>
+<li><a class="mw-redirect" href="/wiki/Aegean_Sea_Anti-Piracy_Operations_of_the_United_States" title="Aegean Sea Anti-Piracy Operations of the United States">Anti-Piracy in the Aegean</a></li>
+<li><a href="/wiki/West_Indies_anti-piracy_operations_of_the_United_States" title="West Indies anti-piracy operations of the United States">Anti-piracy in the West Indies</a></li>
+<li><a href="/wiki/Capture_of_the_schooner_Bravo" title="Capture of the schooner Bravo">Capture of the schooner <i>Bravo</i></a></li>
+<li><a href="/wiki/Action_of_9_November_1822" title="Action of 9 November 1822">Action of 9 November 1822</a></li>
+<li><a href="/wiki/Capture_of_the_sloop_Anne" title="Capture of the sloop Anne">Capture of the sloop <i>Anne</i></a></li>
+<li><a href="/wiki/Battle_of_Doro_Passage" title="Battle of Doro Passage">Battle of Doro Passage</a></li>
+<li><a href="/wiki/Falklands_Expedition" title="Falklands Expedition">Falklands Expedition</a></li>
+<li><a href="/wiki/Great_Lakes_Patrol" title="Great Lakes Patrol">Great Lakes Patrol</a></li>
+<li><a href="/wiki/Cross_border_attacks_in_Sabah" title="Cross border attacks in Sabah">Pirate attacks in Borneo</a></li>
+<li><a href="/wiki/Spanish_expedition_to_Balanguingui" title="Spanish expedition to Balanguingui">Balanguingui Expedition</a></li>
+<li><a href="/wiki/Battle_of_Tysami" title="Battle of Tysami">Battle of Tysami</a></li>
+<li><a href="/wiki/Battle_of_Tonkin_River" title="Battle of Tonkin River">Battle of Tonkin River</a></li>
+<li><a href="/wiki/Battle_of_Nam_Quan" title="Battle of Nam Quan">Battle of Nam Quan</a></li>
+<li><a class="mw-selflink selflink">Battle of Ty-ho Bay</a></li>
+<li><a href="/wiki/Battle_of_the_Leotung" title="Battle of the Leotung">Battle of the Leotung</a></li>
+<li><a href="/wiki/Antelope_of_Boston" title="Antelope of Boston">Antelope incident</a></li>
+<li><a href="/wiki/North_Star_affair" title="North Star affair"><i>North Star</i> affair</a></li>
+<li><a href="/wiki/Battle_off_Mukah" title="Battle off Mukah">Battle off Mukah</a></li>
+<li><a href="/wiki/Salvador_Pirates" title="Salvador Pirates">Salvador Pirates</a></li>
+<li><a href="/wiki/Battle_of_Boca_Teacapan" title="Battle of Boca Teacapan">Battle of Boca Teacapan</a></li>
+<li><a href="/wiki/Ambrose_Light_(ship)" title="Ambrose Light (ship)">Capture of the <i>Ambrose Light</i></a></li>
+<li><a href="/wiki/Irene_incident" title="Irene incident"><i>Irene</i> incident</a></li>
+<li><a href="/wiki/1985_Lahad_Datu_ambush" title="1985 Lahad Datu ambush">1985 Lahad Datu ambush</a></li>
+<li><a href="/wiki/Operation_Enduring_Freedom_%E2%80%93_Horn_of_Africa" title="Operation Enduring Freedom – Horn of Africa">Operation Enduring Freedom – HOA</a></li>
+<li><a href="/wiki/Action_of_18_March_2006" title="Action of 18 March 2006">Action of 18 March 2006</a></li>
+<li><a href="/wiki/Action_of_3_June_2007" title="Action of 3 June 2007">Action of 3 June 2007</a></li>
+<li><a href="/wiki/Action_of_28_October_2007" title="Action of 28 October 2007">Action of 28 October 2007</a></li>
+<li><a href="/wiki/Dai_Hong_Dan_incident" title="Dai Hong Dan incident"><i>Dai Hong Dan</i> incident</a></li>
+<li><a href="/wiki/Operation_Atalanta" title="Operation Atalanta">Operation Atalanta</a></li>
+<li><a href="/wiki/Carr%C3%A9_d%27As_IV_incident" title="Carré d'As IV incident"><i>Carré d'As IV</i> incident</a></li>
+<li><a href="/wiki/Action_of_11_November_2008" title="Action of 11 November 2008">Action of 11 November 2008</a></li>
+<li><a href="/wiki/April_2009_raid_off_Somalia" title="April 2009 raid off Somalia">Action of 9 April 2009</a></li>
+<li><a href="/wiki/Maersk_Alabama_hijacking" title="Maersk Alabama hijacking"><i>Maersk Alabama</i> hijacking</a></li>
+<li><a href="/wiki/Operation_Ocean_Shield" title="Operation Ocean Shield">Operation Ocean Shield</a></li>
+<li><a href="/wiki/Action_of_23_March_2010" title="Action of 23 March 2010">Action of 23 March 2010</a></li>
+<li><a href="/wiki/Action_of_30_March_2010" title="Action of 30 March 2010">Action of 30 March 2010</a></li>
+<li><a href="/wiki/Action_of_1_April_2010" title="Action of 1 April 2010">Action of 1 April 2010</a></li>
+<li><a href="/wiki/Action_of_5_April_2010" title="Action of 5 April 2010">Action of 5 April 2010</a></li>
+<li><a href="/wiki/MV_Moscow_University_hijacking" title="MV Moscow University hijacking">MV <i>Moscow University</i> hijacking</a></li>
+<li><a href="/wiki/Operation_Dawn_of_Gulf_of_Aden" title="Operation Dawn of Gulf of Aden">Operation Dawn of Gulf of Aden</a></li>
+<li><a href="/wiki/Operation_Dawn_8:_Gulf_of_Aden" title="Operation Dawn 8: Gulf of Aden">Operation Dawn 8: Gulf of Aden</a></li>
+<li><a href="/wiki/MV_Beluga_Nomination_incident" title="MV Beluga Nomination incident"><i>Beluga Nomination</i> incident</a></li>
+<li><a href="/wiki/Battle_off_Minicoy_Island" title="Battle off Minicoy Island">Battle off Minicoy Island</a></li>
+<li><a href="/wiki/SY_Quest_incident" title="SY Quest incident"><i>Quest</i> incident</a></li>
+<li><a href="/wiki/MT_Zafirah_hijacking" title="MT Zafirah hijacking">MT <i>Zafirah</i> hijacking</a></li>
+<li><a href="/wiki/MT_Orkim_Harmony_hijacking" title="MT Orkim Harmony hijacking">MT <i>Orkim Harmony</i> hijacking</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;white-space: normal;"><a href="/wiki/History_of_slavery" title="History of slavery">Slave trade</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Slavery_in_Africa" title="Slavery in Africa">African slave trade</a></li>
+<li><a href="/wiki/Atlantic_slave_trade" title="Atlantic slave trade">Atlantic slave trade</a></li>
+<li><a href="/wiki/Arab_slave_trade" title="Arab slave trade">Arab slave trade</a></li>
+<li><a href="/wiki/Barbary_slave_trade" title="Barbary slave trade">Barbary slave trade</a></li>
+<li><a href="/wiki/Blockade_of_Africa" title="Blockade of Africa">Blockade of Africa</a></li>
+<li><a href="/wiki/African_Slave_Trade_Patrol" title="African Slave Trade Patrol">African Slave Trade Patrol</a></li>
+<li><a href="/wiki/HMS_Black_Joke_(1827)#Black_Joke_–_slave_catcher" title="HMS Black Joke (1827)">Capture of the <i>Providentia</i></a></li>
+<li><a href="/wiki/HMS_Black_Joke_(1827)#Black_Joke_–_slave_catcher" title="HMS Black Joke (1827)">Capture of the <i>Presidente</i></a></li>
+<li><a href="/wiki/HMS_Black_Joke_(1827)#Black_Joke_–_slave_catcher" title="HMS Black Joke (1827)">Capture of the <i>El Almirante</i></a></li>
+<li><a href="/wiki/HMS_Black_Joke_(1827)#Black_Joke_–_slave_catcher" title="HMS Black Joke (1827)">Capture of the <i>Marinerito</i></a></li>
+<li><a href="/wiki/Capture_of_the_Veloz_Passagera" title="Capture of the Veloz Passagera">Capture of the <i>Veloz Passagera</i></a></li>
+<li><a href="/wiki/Capture_of_the_brig_Brillante" title="Capture of the brig Brillante">Capture of the brig <i>Brillante</i></a></li>
+<li><a href="/wiki/La_Amistad" title="La Amistad"><i>Amistad</i> Incident</a></li>
+<li><a href="/wiki/Sunny_South_(clipper)#Capture_of_the_Emanuela" title="Sunny South (clipper)">Capture of the <i>Emanuela</i></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;white-space: normal;"><a href="/wiki/List_of_fictional_pirates" title="List of fictional pirates">Fictional pirates</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tom_Ayrton" title="Tom Ayrton">Tom Ayrton</a></li>
+<li><a href="/wiki/Redbeard_(comics)" title="Redbeard (comics)">Barbe Rouge</a></li>
+<li><a href="/wiki/Hector_Barbossa" title="Hector Barbossa">Hector Barbossa</a></li>
+<li><a href="/wiki/Captain_Blood_(novel)" title="Captain Blood (novel)">Captain Blood</a></li>
+<li><a href="/wiki/McDonaldland" title="McDonaldland">Captain Crook</a></li>
+<li><a href="/wiki/Captain_Flint" title="Captain Flint">Captain Flint</a></li>
+<li><a href="/wiki/Jos%C3%A9_Gaspar" title="José Gaspar">José Gaspar</a></li>
+<li><a href="/wiki/Captain_Hook" title="Captain Hook">Captain Hook</a></li>
+<li><a class="mw-redirect" href="/wiki/Don_Karnage" title="Don Karnage">Don Karnage</a></li>
+<li><a href="/wiki/Monkey_D._Luffy" title="Monkey D. Luffy">Monkey D. Luffy</a></li>
+<li><a href="/wiki/Captain_Nemo" title="Captain Nemo">Captain Nemo</a></li>
+<li><a href="/wiki/Captain_Pugwash" title="Captain Pugwash">Captain Pugwash</a></li>
+<li><a class="mw-redirect" href="/wiki/Red_Rackham" title="Red Rackham">Red Rackham</a></li>
+<li><a href="/wiki/Captain_Sabertooth" title="Captain Sabertooth">Captain Sabertooth</a></li>
+<li><a href="/wiki/Sandokan" title="Sandokan">Sandokan</a></li>
+<li><a href="/wiki/Long_John_Silver" title="Long John Silver">Long John Silver</a></li>
+<li><a href="/wiki/Jack_Sparrow" title="Jack Sparrow">Jack Sparrow</a></li>
+<li><a href="/wiki/Captain_Stingaree" title="Captain Stingaree">Captain Stingaree</a></li>
+<li><a href="/wiki/Roronoa_Zoro" title="Roronoa Zoro">Roronoa Zoro</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;white-space: normal;">Miscellaneous</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Truce_of_Ratisbon" title="Truce of Ratisbon">Truce of Ratisbon</a></li>
+<li><a href="/wiki/Piracy_Act_1698" title="Piracy Act 1698">Piracy Act 1698</a></li>
+<li><a href="/wiki/Transportation_Act_1717" title="Transportation Act 1717">Piracy Act 1717</a></li>
+<li><a href="/wiki/Piracy_Act_1837" title="Piracy Act 1837">Piracy Act 1837</a></li>
+<li><a href="/wiki/Paris_Declaration_Respecting_Maritime_Law" title="Paris Declaration Respecting Maritime Law">Paris Declaration Respecting Maritime Law</a></li>
+<li><a href="/wiki/Child_pirate" title="Child pirate">Child pirate</a></li>
+<li><a href="/wiki/Golden_Age_of_Piracy" title="Golden Age of Piracy">Golden Age of Piracy</a></li>
+<li><a href="/wiki/Jolly_Roger" title="Jolly Roger">Jolly Roger</a>
+<ul><li><a href="/wiki/Skull_and_crossbones_(symbol)" title="Skull and crossbones (symbol)">skull and crossbones</a></li></ul></li>
+<li><a href="/wiki/Walking_the_plank" title="Walking the plank">Walking the plank</a></li>
+<li><a href="/wiki/Treasure_map" title="Treasure map">Treasure map</a></li>
+<li><a href="/wiki/Buried_treasure" title="Buried treasure">Buried treasure</a></li>
+<li><a href="/wiki/Treasure" title="Treasure">Pirate booty</a></li>
+<li><a href="/wiki/No_purchase,_no_pay" title="No purchase, no pay">No purchase, no pay</a></li>
+<li><a href="/wiki/Marooning" title="Marooning">Marooning</a></li>
+<li><a href="/wiki/Pirate_code" title="Pirate code">Pirate code</a></li>
+<li><a href="/wiki/Pirate_utopia" title="Pirate utopia">Pirate utopia</a></li>
+<li><a href="/wiki/Victual_Brothers" title="Victual Brothers">Victual Brothers</a></li>
+<li><a href="/wiki/Pirate_Round" title="Pirate Round">Pirate Round</a></li>
+<li><a href="/wiki/Libertatia" title="Libertatia">Libertatia</a></li>
+<li><a href="/wiki/Sack_of_Baltimore" title="Sack of Baltimore">Sack of Baltimore</a></li>
+<li><i><a href="/wiki/A_General_History_of_the_Pyrates" title="A General History of the Pyrates">A General History of the Pyrates</a></i></li>
+<li><a href="/wiki/Mutiny" title="Mutiny">Mutiny</a></li>
+<li><a href="/wiki/Pegleg" title="Pegleg">Pegleg</a></li>
+<li><a href="/wiki/Eyepatch" title="Eyepatch">Eyepatch</a></li>
+<li><a href="/wiki/Letter_of_marque" title="Letter of marque">Letter of marque</a></li>
+<li><a href="/wiki/Davy_Jones%27_Locker" title="Davy Jones' Locker">Davy Jones' Locker</a></li>
+<li><a href="/wiki/Air_pirate" title="Air pirate">Air pirate</a></li>
+<li><a href="/wiki/Space_pirate" title="Space pirate">Space pirate</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;white-space: normal;">Meta</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Lists</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_pirates" title="List of pirates">Pirates</a></li>
+<li><a href="/wiki/List_of_privateers" title="List of privateers">Privateers</a></li>
+<li><a href="/wiki/Timeline_of_piracy" title="Timeline of piracy">Timeline of piracy</a></li>
+<li><a href="/wiki/List_of_pirate_films" title="List of pirate films">Pirate films</a></li>
+<li><a href="/wiki/Women_in_piracy" title="Women in piracy">Women in piracy</a></li>
+<li><a href="/wiki/List_of_fictional_pirates" title="List of fictional pirates">Fictional pirates</a></li>
+<li><a href="/wiki/Pirates_in_popular_culture" title="Pirates in popular culture">Pirates in popular culture</a></li>
+<li><a href="/wiki/List_of_ships_attacked_by_Somali_pirates" title="List of ships attacked by Somali pirates">List of ships attacked by Somali pirates</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Categories</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Category:Piracy" title="Category:Piracy">Piracy</a></li>
+<li><a href="/wiki/Category:Pirates" title="Category:Pirates">Pirates</a></li>
+<li><a href="/wiki/Category:Pirates_by_nationality" title="Category:Pirates by nationality">By nationality</a></li>
+<li><a href="/wiki/Category:Barbary_pirates" title="Category:Barbary pirates">Barbary pirates</a></li>
+<li><a href="/wiki/Category:Female_pirates" title="Category:Female pirates">Female pirates</a></li>
+<li><a href="/wiki/Category:Piracy_by_year" title="Category:Piracy by year">Piracy by year</a></li>
+<li><a href="/wiki/Category:Fictional_pirates" title="Category:Fictional pirates">Fictional pirates</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;white-space: normal;">Literature</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Treasure_Island" title="Treasure Island">Treasure Island</a></i></li>
+<li><i><a href="/wiki/Facing_the_Flag" title="Facing the Flag">Facing the Flag</a></i></li>
+<li><i><a href="/wiki/On_Stranger_Tides" title="On Stranger Tides">On Stranger Tides</a></i></li>
+<li><i><a href="/wiki/Jim_Hawkins_and_the_Curse_of_Treasure_Island" title="Jim Hawkins and the Curse of Treasure Island">Jim Hawkins and the Curse of Treasure Island</a></i></li>
+<li><i><a href="/wiki/Castaways_of_the_Flying_Dutchman" title="Castaways of the Flying Dutchman">Castaways of the Flying Dutchman</a></i></li>
+<li><i><a href="/wiki/The_Angel%27s_Command" title="The Angel's Command">The Angel's Command</a></i></li>
+<li><i><a href="/wiki/Voyage_of_Slaves" title="Voyage of Slaves">Voyage of Slaves</a></i></li>
+<li><i><a href="/wiki/Long_John_Silver_(comics)" title="Long John Silver (comics)">Long John Silver</a></i></li>
+<li><i><a href="/wiki/Pirate_Latitudes" title="Pirate Latitudes">Pirate Latitudes</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Silver_(Andrew_Motion_novel)" title="Silver (Andrew Motion novel)">Silver: Return to Treasure Island</a></i></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="3"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Piracy" title="Category:Piracy">Category</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Piracy" title="Portal:Piracy">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1331
+Cached time: 20191204222935
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.368 seconds
+Real time usage: 0.526 seconds
+Preprocessor visited node count: 1205/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 80726/2097152 bytes
+Template argument size: 2232/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7445/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.158/10.000 seconds
+Lua memory usage: 3.94 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  408.517      1 -total
+ 39.94%  163.167      3 Template:Cite_book
+ 22.06%   90.131      1 Template:Infobox_military_conflict
+ 13.66%   55.819      1 Template:Clarify
+ 11.90%   48.608      1 Template:Fix-span
+  7.72%   31.529      3 Template:Navbox
+  7.35%   30.036      3 Template:Flagicon
+  7.34%   29.985      2 Template:Category_handler
+  7.32%   29.904      1 Template:Pirates
+  6.55%   26.759      1 Template:Piracy_in_China
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27401414-0!canonical and timestamp 20191204222935 and revision id 876377725
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Battle_of_Ty-ho_Bay&amp;oldid=876377725">https://en.wikipedia.org/w/index.php?title=Battle_of_Ty-ho_Bay&amp;oldid=876377725</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Anti-piracy_battles_involving_the_United_States" title="Category:Anti-piracy battles involving the United States">Anti-piracy battles involving the United States</a></li><li><a href="/wiki/Category:Naval_battles_involving_the_United_Kingdom" title="Category:Naval battles involving the United Kingdom">Naval battles involving the United Kingdom</a></li><li><a href="/wiki/Category:Naval_battles_involving_pirates" title="Category:Naval battles involving pirates">Naval battles involving pirates</a></li><li><a href="/wiki/Category:Punitive_expeditions_of_the_United_Kingdom" title="Category:Punitive expeditions of the United Kingdom">Punitive expeditions of the United Kingdom</a></li><li><a href="/wiki/Category:History_of_Hong_Kong" title="Category:History of Hong Kong">History of Hong Kong</a></li><li><a href="/wiki/Category:Military_expeditions_of_the_United_States" title="Category:Military expeditions of the United States">Military expeditions of the United States</a></li><li><a href="/wiki/Category:Conflicts_in_1855" title="Category:Conflicts in 1855">Conflicts in 1855</a></li><li><a href="/wiki/Category:1855_in_China" title="Category:1855 in China">1855 in China</a></li><li><a href="/wiki/Category:Tai_O" title="Category:Tai O">Tai O</a></li><li><a href="/wiki/Category:Anti-piracy_battles_involving_the_United_Kingdom" title="Category:Anti-piracy battles involving the United Kingdom">Anti-piracy battles involving the United Kingdom</a></li><li><a href="/wiki/Category:Piracy_in_the_South_China_Sea" title="Category:Piracy in the South China Sea">Piracy in the South China Sea</a></li><li><a href="/wiki/Category:August_1855_events" title="Category:August 1855 events">August 1855 events</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2010" title="Category:Wikipedia articles needing clarification from October 2010">Wikipedia articles needing clarification from October 2010</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_the_Dictionary_of_American_Naval_Fighting_Ships" title="Category:Wikipedia articles incorporating text from the Dictionary of American Naval Fighting Ships">Wikipedia articles incorporating text from the Dictionary of American Naval Fighting Ships</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Battle+of+Ty-ho+Bay" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Battle+of+Ty-ho+Bay" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Battle_of_Ty-ho_Bay" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Battle_of_Ty-ho_Bay" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Battle_of_Ty-ho_Bay">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Battle_of_Ty-ho_Bay&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Battle_of_Ty-ho_Bay&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Battle_of_Ty-ho_Bay" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Battle_of_Ty-ho_Bay" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Battle_of_Ty-ho_Bay&amp;oldid=876377725" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Battle_of_Ty-ho_Bay&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4872616" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Battle_of_Ty-ho_Bay&amp;id=876377725" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Battle+of+Ty-ho+Bay">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Battle+of+Ty-ho+Bay&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Battle_of_Ty-ho_Bay&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4872616#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 January 2019, at 00:09<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Battle_of_Ty-ho_Bay&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.368","walltime":"0.526","ppvisitednodes":{"value":1205,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":80726,"limit":2097152},"templateargumentsize":{"value":2232,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7445,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  408.517      1 -total"," 39.94%  163.167      3 Template:Cite_book"," 22.06%   90.131      1 Template:Infobox_military_conflict"," 13.66%   55.819      1 Template:Clarify"," 11.90%   48.608      1 Template:Fix-span","  7.72%   31.529      3 Template:Navbox","  7.35%   30.036      3 Template:Flagicon","  7.34%   29.985      2 Template:Category_handler","  7.32%   29.904      1 Template:Pirates","  6.55%   26.759      1 Template:Piracy_in_China"]},"scribunto":{"limitreport-timeusage":{"value":"0.158","limit":"10.000"},"limitreport-memusage":{"value":4131435,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20191204222935","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Battle of Ty-ho Bay","url":"https:\/\/en.wikipedia.org\/wiki\/Battle_of_Ty-ho_Bay","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4872616","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4872616","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-05-18T23:57:00Z","dateModified":"2019-01-02T00:09:39Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/6\/6d\/Chinese_junk_ship.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":191,"wgHostname":"mw1275"});});</script>
+
+
+</body></html>

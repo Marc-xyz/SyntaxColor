@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>El Dovio - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqtSwpAAD8AAEMpKMkAAADN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"El_Dovio","wgTitle":"El Dovio","wgCurRevisionId":798808195,"wgRevisionId":798808195,"wgArticleId":10719620,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Coordinates on Wikidata","All stub articles","Populated places in the Valle del Cauca Department","Municipalities of Valle del Cauca Department","Pacific Region (Colombia) geography stubs"
+],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"El_Dovio","wgRelevantArticleId":10719620,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":4.516666666666667,"lon":-76.23333333333333},"wgWikibaseItemId":"Q606862","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":
+"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Colombia_-_Valle_del_Cauca_-_El_Dovio.svg/1200px-Colombia_-_Valle_del_Cauca_-_El_Dovio.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/El_Dovio" rel="alternate"/>
+<link href="/w/index.php?title=El_Dovio&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=El_Dovio&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/El_Dovio" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-El_Dovio rootpage-El_Dovio skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">El Dovio</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Municipality and town in Valle del Cauca Department, Colombia</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div class="fn org" style="display:inline">El Dovio</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category"><a href="/wiki/Municipalities_of_Colombia" title="Municipalities of Colombia">Municipality</a> and town</div></td></tr><tr class="mergedtoprow"><td class="maptable" colspan="2" style="text-align:center"><div style="display:table; width:100%; background:none;">
+<div style="display:table-row"><div style="display:table-cell;vertical-align:middle; text-align:center;"><a class="image" href="/wiki/File:Flag_of_El_Dovio_(Valle).svg" title="Flag of El Dovio"><img alt="Flag of El Dovio" class="thumbborder" data-file-height="500" data-file-width="750" decoding="async" height="67" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_El_Dovio_%28Valle%29.svg/100px-Flag_of_El_Dovio_%28Valle%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_El_Dovio_%28Valle%29.svg/150px-Flag_of_El_Dovio_%28Valle%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_El_Dovio_%28Valle%29.svg/200px-Flag_of_El_Dovio_%28Valle%29.svg.png 2x" width="100"/></a><br/>Flag</div><div style="display:table-cell;vertical-align:middle; text-align:center;"><a class="image" href="/wiki/File:Escudo_de_El_Dovio_(Valle_del_Cauca).svg" title="Official seal of El Dovio"><img alt="Official seal of El Dovio" data-file-height="1070" data-file-width="1030" decoding="async" height="104" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Escudo_de_El_Dovio_%28Valle_del_Cauca%29.svg/100px-Escudo_de_El_Dovio_%28Valle_del_Cauca%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Escudo_de_El_Dovio_%28Valle_del_Cauca%29.svg/150px-Escudo_de_El_Dovio_%28Valle_del_Cauca%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Escudo_de_El_Dovio_%28Valle_del_Cauca%29.svg/200px-Escudo_de_El_Dovio_%28Valle_del_Cauca%29.svg.png 2x" width="100"/></a><br/>Seal</div></div></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Colombia_-_Valle_del_Cauca_-_El_Dovio.svg" title="Location of the municipality and town of El Dovio in the Valle del Cauca Department of Colombia."><img alt="Location of the municipality and town of El Dovio in the Valle del Cauca Department of Colombia." data-file-height="1203" data-file-width="1142" decoding="async" height="263" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Colombia_-_Valle_del_Cauca_-_El_Dovio.svg/250px-Colombia_-_Valle_del_Cauca_-_El_Dovio.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Colombia_-_Valle_del_Cauca_-_El_Dovio.svg/375px-Colombia_-_Valle_del_Cauca_-_El_Dovio.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Colombia_-_Valle_del_Cauca_-_El_Dovio.svg/500px-Colombia_-_Valle_del_Cauca_-_El_Dovio.svg.png 2x" width="250"/></a><div style="padding:0.3em 0 0 0;">Location of the municipality and town of El Dovio in the Valle del Cauca Department of Colombia.</div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><div class="center"><div style="width:300px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:300px;padding:0"><div style="position:relative;width:300px"><a class="image" href="/wiki/File:Colombia_location_map.svg" title="El Dovio is located in Colombia"><img alt="El Dovio is located in Colombia" data-file-height="2294" data-file-width="2027" decoding="async" height="340" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Colombia_location_map.svg/300px-Colombia_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Colombia_location_map.svg/450px-Colombia_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Colombia_location_map.svg/600px-Colombia_location_map.svg.png 2x" width="300"/></a><div style="position:absolute;top:56.959%;left:47.296%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="El Dovio" data-file-height="64" data-file-width="64" decoding="async" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" title="El Dovio" width="6"/></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">El Dovio</div></div></div></div><div>Location in Colombia</div></div></div></div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=El_Dovio&amp;params=4_31_N_76_14_W_region:CO_type:city(8508)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">4°31′N</span> <span class="longitude">76°14′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">4.517°N 76.233°W</span><span style="display:none">﻿ / <span class="geo">4.517; -76.233</span></span></span></a></span></td></tr><tr class="mergedtoprow"><th scope="row">Country</th><td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" width="23"/> </span><a href="/wiki/Colombia" title="Colombia">Colombia</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Departments_of_Colombia" title="Departments of Colombia">Department</a></th><td><a href="/wiki/Valle_del_Cauca_Department" title="Valle del Cauca Department">Valle del Cauca Department</a></td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population<div style="font-weight:normal;display:inline;"><span class="nowrap"> </span>(2015)</div></th></tr><tr class="mergedrow"><th scope="row"> • Total</th><td>8,508</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a class="mw-redirect" href="/wiki/UTC-5" title="UTC-5">UTC-5</a> (Colombia Standard Time)</td></tr></tbody></table>
+<p><b>El Dovio</b> is a town and  municipality located in the <a href="/wiki/Departments_of_Colombia" title="Departments of Colombia">Department</a> of <a href="/wiki/Valle_del_Cauca_Department" title="Valle del Cauca Department">Valle del Cauca</a>, <a href="/wiki/Colombia" title="Colombia">Colombia</a>.
+</p>
+<div aria-labelledby="Municipalities_in_the_Valle_del_Cauca_Department" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Municipalities_valle_del_cauca_department" title="Template:Municipalities valle del cauca department"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Municipalities_valle_del_cauca_department" title="Template talk:Municipalities valle del cauca department"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Municipalities_valle_del_cauca_department&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Municipalities_in_the_Valle_del_Cauca_Department" style="font-size:114%;margin:0 4em">Municipalities in the <a href="/wiki/Valle_del_Cauca_Department" title="Valle del Cauca Department">Valle del Cauca Department</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alcal%C3%A1,_Valle_del_Cauca" title="Alcalá, Valle del Cauca">Alcalá</a></li>
+<li><a href="/wiki/Andaluc%C3%ADa,_Valle_del_Cauca" title="Andalucía, Valle del Cauca">Andalucía</a></li>
+<li><a href="/wiki/Ansermanuevo" title="Ansermanuevo">Ansermanuevo</a></li>
+<li><a href="/wiki/Argelia,_Valle_del_Cauca" title="Argelia, Valle del Cauca">Argelia</a></li>
+<li><a href="/wiki/Bol%C3%ADvar,_Valle_del_Cauca" title="Bolívar, Valle del Cauca">Bolívar</a></li>
+<li><a href="/wiki/Buenaventura,_Valle_del_Cauca" title="Buenaventura, Valle del Cauca">Buenaventura</a></li>
+<li><a href="/wiki/Buga,_Valle_del_Cauca" title="Buga, Valle del Cauca">Buga</a></li>
+<li><a href="/wiki/Bugalagrande" title="Bugalagrande">Bugalagrande</a></li>
+<li><a href="/wiki/Caicedonia" title="Caicedonia">Caicedonia</a></li>
+<li><b><a href="/wiki/Cali" title="Cali">Cali</a></b></li>
+<li><a href="/wiki/Calima,_Valle_del_Cauca" title="Calima, Valle del Cauca">Calima</a></li>
+<li><a href="/wiki/Candelaria,_Valle_del_Cauca" title="Candelaria, Valle del Cauca">Candelaria</a></li>
+<li><a href="/wiki/Cartago,_Valle_del_Cauca" title="Cartago, Valle del Cauca">Cartago</a></li>
+<li><a href="/wiki/Dagua" title="Dagua">Dagua</a></li>
+<li><a class="mw-redirect" href="/wiki/El_Aguila,_Valle_del_Cauca" title="El Aguila, Valle del Cauca">El Aguila</a></li>
+<li><a href="/wiki/El_Cairo" title="El Cairo">El Cairo</a></li>
+<li><a href="/wiki/El_Cerrito,_Valle_del_Cauca" title="El Cerrito, Valle del Cauca">El Cerrito</a></li>
+<li><a class="mw-selflink selflink">El Dovio</a></li>
+<li><a href="/wiki/Florida,_Valle_del_Cauca" title="Florida, Valle del Cauca">Florida</a></li>
+<li><a href="/wiki/Ginebra,_Valle_del_Cauca" title="Ginebra, Valle del Cauca">Ginebra</a></li>
+<li><a href="/wiki/Guacar%C3%AD" title="Guacarí">Guacarí </a></li>
+<li><a href="/wiki/Jamund%C3%AD" title="Jamundí">Jamundí</a></li>
+<li><a href="/wiki/La_Cumbre,_Valle_del_Cauca" title="La Cumbre, Valle del Cauca">La Cumbre</a></li>
+<li><a href="/wiki/La_Uni%C3%B3n,_Valle_del_Cauca" title="La Unión, Valle del Cauca">La Unión</a></li>
+<li><a href="/wiki/La_Victoria,_Valle_del_Cauca" title="La Victoria, Valle del Cauca">La Victoria</a></li>
+<li><a href="/wiki/Obando,_Valle_del_Cauca" title="Obando, Valle del Cauca">Obando</a></li>
+<li><a href="/wiki/Palmira,_Valle_del_Cauca" title="Palmira, Valle del Cauca">Palmira</a></li>
+<li><a href="/wiki/Pradera" title="Pradera">Pradera</a></li>
+<li><a href="/wiki/Restrepo,_Valle_del_Cauca" title="Restrepo, Valle del Cauca">Restrepo</a></li>
+<li><a href="/wiki/Riofr%C3%ADo,_Valle_del_Cauca" title="Riofrío, Valle del Cauca">Riofrío</a></li>
+<li><a href="/wiki/Roldanillo" title="Roldanillo">Roldanillo</a></li>
+<li><a href="/wiki/San_Pedro,_Valle_del_Cauca" title="San Pedro, Valle del Cauca">San Pedro</a></li>
+<li><a href="/wiki/Sevilla,_Valle_del_Cauca" title="Sevilla, Valle del Cauca">Sevilla</a></li>
+<li><a href="/wiki/Toro,_Valle_del_Cauca" title="Toro, Valle del Cauca">Toro</a></li>
+<li><a href="/wiki/Trujillo,_Valle_del_Cauca" title="Trujillo, Valle del Cauca">Trujillo</a></li>
+<li><a href="/wiki/Tulu%C3%A1" title="Tuluá">Tuluá</a></li>
+<li><a class="mw-redirect" href="/wiki/Ulloa,_Colombia" title="Ulloa, Colombia">Ulloa</a></li>
+<li><a href="/wiki/Versalles" title="Versalles">Versalles</a></li>
+<li><a href="/wiki/Vijes" title="Vijes">Vijes</a></li>
+<li><a href="/wiki/Yotoco" title="Yotoco">Yotoco</a></li>
+<li><a href="/wiki/Yumbo" title="Yumbo">Yumbo</a></li>
+<li><a href="/wiki/Zarzal" title="Zarzal">Zarzal</a></li></ul>
+</div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Flag_of_Valle_del_Cauca.svg" title="Flag of Valle del Cauca"><img alt="Flag of Valle del Cauca" data-file-height="480" data-file-width="720" decoding="async" height="33" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Valle_del_Cauca.svg/50px-Flag_of_Valle_del_Cauca.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Valle_del_Cauca.svg/75px-Flag_of_Valle_del_Cauca.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Valle_del_Cauca.svg/100px-Flag_of_Valle_del_Cauca.svg.png 2x" width="50"/></a></div></td></tr></tbody></table></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=El_Dovio&amp;params=4_31_N_76_14_W_region:CO_type:city_source:GNS-enwiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">4°31′N</span> <span class="longitude">76°14′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">4.517°N 76.233°W</span><span style="display:none">﻿ / <span class="geo">4.517; -76.233</span></span></span></a></span></span></span>
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a class="image" href="/wiki/File:Flag_of_Valle_del_Cauca.svg"><img alt="Stub icon" data-file-height="480" data-file-width="720" decoding="async" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Valle_del_Cauca.svg/40px-Flag_of_Valle_del_Cauca.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Valle_del_Cauca.svg/60px-Flag_of_Valle_del_Cauca.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Valle_del_Cauca.svg/80px-Flag_of_Valle_del_Cauca.svg.png 2x" width="40"/></a></td><td><i>This <a class="mw-redirect" href="/wiki/Department_of_Valle_del_Cauca" title="Department of Valle del Cauca">Department of Valle del Cauca</a> location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=El_Dovio&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:ValledelCauca-geo-stub" title="Template:ValledelCauca-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:ValledelCauca-geo-stub" title="Template talk:ValledelCauca-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:ValledelCauca-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1296
+Cached time: 20191218163243
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.296 seconds
+Real time usage: 0.407 seconds
+Preprocessor visited node count: 3003/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35201/2097152 bytes
+Template argument size: 6067/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.108/10.000 seconds
+Lua memory usage: 2.93 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  352.133      1 -total
+ 85.06%  299.523      1 Template:Infobox_settlement
+ 53.03%  186.747      1 Template:Infobox
+ 24.28%   85.489      3 Template:Main_other
+ 11.14%   39.234      2 Template:Coord
+  6.44%   22.692      1 Template:Pagetype
+  5.49%   19.330      7 Template:Both
+  4.59%   16.152      1 Template:Infobox_settlement/columns
+  4.55%   16.013      4 Template:Detect_singular
+  4.14%   14.568      4 Template:If_empty
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10719620-0!canonical and timestamp 20191218163243 and revision id 798808195
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=El_Dovio&amp;oldid=798808195">https://en.wikipedia.org/w/index.php?title=El_Dovio&amp;oldid=798808195</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Populated_places_in_the_Valle_del_Cauca_Department" title="Category:Populated places in the Valle del Cauca Department">Populated places in the Valle del Cauca Department</a></li><li><a href="/wiki/Category:Municipalities_of_Valle_del_Cauca_Department" title="Category:Municipalities of Valle del Cauca Department">Municipalities of Valle del Cauca Department</a></li><li><a href="/wiki/Category:Pacific_Region_(Colombia)_geography_stubs" title="Category:Pacific Region (Colombia) geography stubs">Pacific Region (Colombia) geography stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=El+Dovio" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=El+Dovio" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/El_Dovio" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:El_Dovio" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/El_Dovio">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=El_Dovio&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=El_Dovio&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/El_Dovio" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/El_Dovio" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=El_Dovio&amp;oldid=798808195" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=El_Dovio&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q606862" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=El_Dovio&amp;id=798808195" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:El_Dovio" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=El+Dovio">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=El+Dovio&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=El_Dovio&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/El_Dovio" hreflang="nan" lang="nan" title="El Dovio – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/El_Dovio_(lungsod)" hreflang="ceb" lang="ceb" title="El Dovio (lungsod) – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/El_Dovio" hreflang="es" lang="es" title="El Dovio – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/El_Dovio" hreflang="fr" lang="fr" title="El Dovio – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/El_Dovio" hreflang="it" lang="it" title="El Dovio – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%94%E1%83%9A-%E1%83%93%E1%83%9D%E1%83%95%E1%83%98%E1%83%9D" hreflang="ka" lang="ka" title="ელ-დოვიო – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/El_Dovio" hreflang="ms" lang="ms" title="El Dovio – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/El_Dovio" hreflang="nl" lang="nl" title="El Dovio – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/El_Dovio" hreflang="pl" lang="pl" title="El Dovio – Polish">Polski</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D1%8C-%D0%94%D0%BE%D0%B2%D0%B8%D0%BE" hreflang="ru" lang="ru" title="Эль-Довио – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/El_Dovio" hreflang="sco" lang="sco" title="El Dovio – Scots">Scots</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/El_Dovio_(ort)" hreflang="sv" lang="sv" title="El Dovio (ort) – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/El_Dovio" hreflang="vi" lang="vi" title="El Dovio – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/El_Dovio" hreflang="war" lang="war" title="El Dovio – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%9F%83%E7%88%BE%E5%A4%9A%E7%B6%AD%E5%A5%A7" hreflang="zh" lang="zh" title="埃爾多維奧 – Chinese">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q606862#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 3 September 2017, at 23:09<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=El_Dovio&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.296","walltime":"0.407","ppvisitednodes":{"value":3003,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":35201,"limit":2097152},"templateargumentsize":{"value":6067,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  352.133      1 -total"," 85.06%  299.523      1 Template:Infobox_settlement"," 53.03%  186.747      1 Template:Infobox"," 24.28%   85.489      3 Template:Main_other"," 11.14%   39.234      2 Template:Coord","  6.44%   22.692      1 Template:Pagetype","  5.49%   19.330      7 Template:Both","  4.59%   16.152      1 Template:Infobox_settlement/columns","  4.55%   16.013      4 Template:Detect_singular","  4.14%   14.568      4 Template:If_empty"]},"scribunto":{"limitreport-timeusage":{"value":"0.108","limit":"10.000"},"limitreport-memusage":{"value":3076992,"limit":52428800}},"cachereport":{"origin":"mw1296","timestamp":"20191218163243","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"El Dovio","url":"https:\/\/en.wikipedia.org\/wiki\/El_Dovio","sameAs":"http:\/\/www.wikidata.org\/entity\/Q606862","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q606862","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-04-17T03:18:11Z","dateModified":"2017-09-03T23:09:06Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/ef\/Colombia_-_Valle_del_Cauca_-_El_Dovio.svg","headline":"Colombian municipality of the department of Valle del Cauca"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1268"});});</script>
+
+
+</body></html>

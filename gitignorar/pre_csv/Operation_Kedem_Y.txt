@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Operation Kedem - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqtUgpAICIAAJlnrkEAAACA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Operation_Kedem","wgTitle":"Operation Kedem","wgCurRevisionId":839155225,"wgRevisionId":839155225,"wgArticleId":302852,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from July 2008","Coordinates on Wikidata","Battles and operations of the 1948 Arab–Israeli War","Irgun","July 1948 events"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Operation_Kedem","wgRelevantArticleId":302852,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":31.778105555555555,"lon":35.2256},"wgWikibaseItemId":"Q2776709","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready"
+,"user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Operation_Kedem" rel="alternate"/>
+<link href="/w/index.php?title=Operation_Kedem&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Operation_Kedem&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Operation_Kedem" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Operation_Kedem rootpage-Operation_Kedem skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Operation Kedem</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Operation Kedem</b> was an action planned and carried out in July 1948, during the <a class="mw-redirect" href="/wiki/1948_Arab%E2%80%93Israeli_war" title="1948 Arab–Israeli war">1948 Arab–Israeli war</a>. Its purpose was to capture <a href="/wiki/East_Jerusalem" title="East Jerusalem">East Jerusalem</a> (including the <a href="/wiki/Old_City_(Jerusalem)" title="Old City (Jerusalem)">Old City</a>). After the first cease-fire of the Arab–Israeli war, which lasted for four weeks, the balance in power in <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a> had shifted dramatically. The <a class="mw-redirect" href="/wiki/Jew" title="Jew">Jews</a> were now much stronger than the <a href="/wiki/Arabs" title="Arabs">Arabs</a> in the <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a> sector.
+</p><p>The operation was to be carried out by <a href="/wiki/Irgun" title="Irgun">Irgun</a> and <a class="mw-redirect" href="/wiki/Lehi_(group)" title="Lehi (group)">Lehi</a> forces on July 8 with help from the Haganah. But it was delayed by <a href="/wiki/David_Shaltiel" title="David Shaltiel">David Shaltiel</a>, possibly because he did not trust their ability after their failure to capture <a href="/wiki/Deir_Yassin" title="Deir Yassin">Deir Yassin</a> without <a href="/wiki/Haganah" title="Haganah">Haganah</a>'s assistance.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2008)">citation needed</span></a></i>]</sup> He told them to first capture the Arab village of <a href="/wiki/Malha" title="Malha">Malha</a>. On July 14, 1948, after a fierce battle in the early hours of the morning, the Irgun occupied the village. Several hours later, the Arabs launched a counterattack, but reinforcements arrived and the village was retaken. The Irgun lost 17 men in the battle for Malha, and many were wounded.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>The Irgun force commanded by <a href="/wiki/Yehuda_Lapidot" title="Yehuda Lapidot">Yehuda Lapidot</a> (Nimrod) was to break through at <a class="mw-redirect" href="/wiki/The_New_Gate" title="The New Gate">The New Gate</a>, Lehi to break through the wall stretching from the New Gate and <a class="mw-redirect" href="/wiki/The_Jaffa_Gate" title="The Jaffa Gate">The Jaffa Gate</a>, and the Beit Horon Battalion to strike from <a href="/wiki/Mount_Zion" title="Mount Zion">Mount Zion</a>.
+</p><p>The battle was planned to begin at the <a href="/wiki/Shabbat" title="Shabbat">Sabbath</a>, 20:00 Friday July 16, a day before the second cease-fire of the Arab–Israeli war. The plan went wrong from the beginning and was postponed first to 23:00 and then to midnight. Not until 02:30 did the battle actually begin. The Irgunists managed to break through at the New Gate, but the other forces failed in their missions. At 05:45, Shaltiel ordered a retreat and cessation of hostilities.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Brigades_participating_in_Operation_Kedem"><span class="tocnumber">1</span> <span class="toctext">Brigades participating in Operation Kedem</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#External_links"><span class="tocnumber">3</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Brigades_participating_in_Operation_Kedem">Brigades participating in Operation Kedem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Operation_Kedem&amp;action=edit&amp;section=1" title="Edit section: Brigades participating in Operation Kedem">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Etzioni_Brigade" title="Etzioni Brigade">Etzioni Brigade</a> (Beit Horon Battalion)</li>
+<li><a href="/wiki/Irgun" title="Irgun">Irgun</a></li>
+<li><a class="mw-redirect" href="/wiki/Lehi_(group)" title="Lehi (group)">Lehi</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Operation_Kedem&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_battles_and_operations_in_the_1948_Palestine_war" title="List of battles and operations in the 1948 Palestine war">List of battles and operations in the 1948 Palestine war</a></li>
+<li><a href="/wiki/List_of_Arab_towns_and_villages_depopulated_during_the_1948_Palestinian_exodus" title="List of Arab towns and villages depopulated during the 1948 Palestinian exodus">List of Arab towns and villages depopulated during the 1948 Palestinian exodus</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Operation_Kedem&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external free" href="http://www.etzel.org.il/english/ac19.htm#33" rel="nofollow">http://www.etzel.org.il/english/ac19.htm#33</a></li>
+<li><a class="external free" href="http://www.etzel.org.il/english/people/lapidot.htm" rel="nofollow">http://www.etzel.org.il/english/people/lapidot.htm</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Operation_Kedem&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.etzel.org.il/english/ac19.htm" rel="nofollow">The Jerusalem Battalion</a></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Israeli_military_operations_in_the_1948_Arab-Israeli_War" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Israeli_operations_in_the_1948_war" title="Template:Israeli operations in the 1948 war"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Israeli_operations_in_the_1948_war" title="Template talk:Israeli operations in the 1948 war"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Israeli_operations_in_the_1948_war&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Israeli_military_operations_in_the_1948_Arab-Israeli_War" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_battles_and_operations_in_the_1948_Palestine_war" title="List of battles and operations in the 1948 Palestine war">Israeli military operations in the 1948 Arab-Israeli War</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Pre-IDF</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Operation_Nachshon" title="Operation Nachshon">Nachshon</a></li>
+<li><a href="/wiki/Battle_of_Mishmar_HaEmek" title="Battle of Mishmar HaEmek">Mishmar HaEmak</a></li>
+<li><a href="/wiki/Operation_Harel" title="Operation Harel">Harel</a></li>
+<li><a href="/wiki/Battle_of_Haifa_(1948)" title="Battle of Haifa (1948)">Bi'ur Hametz</a></li>
+<li><a href="/wiki/Operation_Hametz" title="Operation Hametz">Hametz</a></li>
+<li><a href="/wiki/Operation_Yevusi" title="Operation Yevusi">Yevusi</a></li>
+<li><a href="/wiki/Operation_Yiftach" title="Operation Yiftach">Yiftach</a></li>
+<li><a href="/wiki/Operation_Matateh" title="Operation Matateh">Matateh</a></li>
+<li><a href="/wiki/Operation_Balak" title="Operation Balak">Balak</a></li>
+<li><a class="mw-redirect" href="/wiki/Battles_of_Latrun#Operation_Maccabi_.288.E2.80.9316_May.29" title="Battles of Latrun">Maccabi</a></li>
+<li><a href="/wiki/Operation_Gideon" title="Operation Gideon">Gideon</a></li>
+<li><a href="/wiki/Operation_Barak" title="Operation Barak">Barak</a></li>
+<li><a href="/wiki/Operation_Ben-Ami" title="Operation Ben-Ami">Ben-Ami</a></li>
+<li><a href="/wiki/Operation_Kilshon" title="Operation Kilshon">Kilshon</a></li>
+<li><a class="mw-redirect" href="/wiki/Operation_Schfifon" title="Operation Schfifon">Schfifon</a></li>
+<li><a class="mw-redirect" href="/wiki/Battles_of_Latrun#Operation_Bin_Nun_Alef_(24–25_May)" title="Battles of Latrun">Bin Nun Alef</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Israel_Defense_Forces" title="Israel Defense Forces">IDF</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=Operation_Erez&amp;action=edit&amp;redlink=1" title="Operation Erez (page does not exist)">Erez</a></li>
+<li><a class="mw-redirect" href="/wiki/Battles_of_Latrun#Operation_Bin_Nun_Bet" title="Battles of Latrun">Bin Nun Bet</a></li>
+<li><a href="/wiki/Operation_Pleshet" title="Operation Pleshet">Pleshet</a></li>
+<li><a class="new" href="/w/index.php?title=Operation_Yitzhak&amp;action=edit&amp;redlink=1" title="Operation Yitzhak (page does not exist)">Yitzhak</a></li>
+<li><a class="new" href="/w/index.php?title=Operation_Yoram&amp;action=edit&amp;redlink=1" title="Operation Yoram (page does not exist)">Yoram</a></li>
+<li><a class="new" href="/w/index.php?title=Operation_Brosh&amp;action=edit&amp;redlink=1" title="Operation Brosh (page does not exist)">Brosh</a></li>
+<li><a href="/wiki/Operation_Dekel" title="Operation Dekel">Dekel</a></li>
+<li><a href="/wiki/Operation_Danny" title="Operation Danny">Danny</a></li>
+<li><a class="mw-selflink selflink">Kedem</a></li>
+<li><a href="/wiki/Operation_An-Far" title="Operation An-Far">An-Far</a></li>
+<li><a href="/wiki/Operation_Death_to_the_Invader" title="Operation Death to the Invader">Death to the Invader</a></li>
+<li><a href="/wiki/Operation_Shoter" title="Operation Shoter">Shoter</a></li>
+<li><a href="/wiki/Operation_Hiram" title="Operation Hiram">Hiram</a></li>
+<li><a href="/wiki/Operation_Yoav" title="Operation Yoav">Yoav</a></li>
+<li><a href="/wiki/Operation_Ha-Har" title="Operation Ha-Har">Ha-Har</a></li>
+<li><a href="/wiki/Operation_Assaf" title="Operation Assaf">Assaf</a></li>
+<li><a href="/wiki/Operation_Horev" title="Operation Horev">Horev</a></li>
+<li><a href="/wiki/Operation_Uvda" title="Operation Uvda">Uvda</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Operation_Kedem&amp;params=31_46_41.18_N_35_13_32.16_E_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">31°46′41.18″N</span> <span class="longitude">35°13′32.16″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">31.7781056°N 35.2256000°E</span><span style="display:none">﻿ / <span class="geo">31.7781056; 35.2256000</span></span></span></a></span></span></span>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1313
+Cached time: 20191211141145
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.124 seconds
+Real time usage: 0.197 seconds
+Preprocessor visited node count: 306/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 13091/2097152 bytes
+Template argument size: 541/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 402/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.049/10.000 seconds
+Lua memory usage: 1.4 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  171.914      1 -total
+ 59.68%  102.605      1 Template:Citation_needed
+ 37.46%   64.400      1 Template:Fix
+ 25.87%   44.481      2 Template:Category_handler
+ 18.78%   32.281      1 Template:Coord
+ 10.74%   18.457      1 Template:Israeli_operations_in_the_1948_war
+  9.47%   16.287      1 Template:Reflist
+  8.19%   14.075      1 Template:Delink
+  7.71%   13.247      1 Template:Navbox
+  3.75%    6.441      1 Template:Fix/category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:302852-0!canonical and timestamp 20191211141145 and revision id 839155225
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Operation_Kedem&amp;oldid=839155225">https://en.wikipedia.org/w/index.php?title=Operation_Kedem&amp;oldid=839155225</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Battles_and_operations_of_the_1948_Arab%E2%80%93Israeli_War" title="Category:Battles and operations of the 1948 Arab–Israeli War">Battles and operations of the 1948 Arab–Israeli War</a></li><li><a href="/wiki/Category:Irgun" title="Category:Irgun">Irgun</a></li><li><a href="/wiki/Category:July_1948_events" title="Category:July 1948 events">July 1948 events</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2008" title="Category:Articles with unsourced statements from July 2008">Articles with unsourced statements from July 2008</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Operation+Kedem" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Operation+Kedem" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Operation_Kedem" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Operation_Kedem" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Operation_Kedem">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Operation_Kedem&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Operation_Kedem&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Operation_Kedem" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Operation_Kedem" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Operation_Kedem&amp;oldid=839155225" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Operation_Kedem&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2776709" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Operation_Kedem&amp;id=839155225" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Operation+Kedem">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Operation+Kedem&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Operation_Kedem&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Operace_Kedem" hreflang="cs" lang="cs" title="Operace Kedem – Czech">Čeština</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A7%D7%93%D7%9D" hreflang="he" lang="he" title="מבצע קדם – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Operacja_Kedem" hreflang="pl" lang="pl" title="Operacja Kedem – Polish">Polski</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2776709#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 1 May 2018, at 16:45<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Operation_Kedem&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.124","walltime":"0.197","ppvisitednodes":{"value":306,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":13091,"limit":2097152},"templateargumentsize":{"value":541,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":402,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  171.914      1 -total"," 59.68%  102.605      1 Template:Citation_needed"," 37.46%   64.400      1 Template:Fix"," 25.87%   44.481      2 Template:Category_handler"," 18.78%   32.281      1 Template:Coord"," 10.74%   18.457      1 Template:Israeli_operations_in_the_1948_war","  9.47%   16.287      1 Template:Reflist","  8.19%   14.075      1 Template:Delink","  7.71%   13.247      1 Template:Navbox","  3.75%    6.441      1 Template:Fix/category"]},"scribunto":{"limitreport-timeusage":{"value":"0.049","limit":"10.000"},"limitreport-memusage":{"value":1471101,"limit":52428800}},"cachereport":{"origin":"mw1313","timestamp":"20191211141145","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Operation Kedem","url":"https:\/\/en.wikipedia.org\/wiki\/Operation_Kedem","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2776709","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2776709","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-23T06:30:22Z","dateModified":"2018-05-01T16:45:58Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1332"});});</script>
+
+
+</body></html>

@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Modern Times Group - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfpKlwpAADwAAGL7ZoMAAABR","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Modern_Times_Group","wgTitle":"Modern Times Group","wgCurRevisionId":931026790,"wgRevisionId":931026790,"wgArticleId":493176,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing cleanup from June 2017","All pages needing cleanup","Articles with sections that need to be turned into prose from June 2017","Articles needing cleanup from November 2019",
+"Articles with multiple maintenance issues","Articles needing cleanup from April 2010","Articles with sections that need to be turned into prose from April 2010","Media companies of Sweden","Modern Times Group","1987 establishments in Sweden","Companies established in 1987","Companies based in Stockholm","Companies listed on the Stockholm Stock Exchange"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Modern_Times_Group","wgRelevantArticleId":493176,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,
+"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q378944","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips",
+"ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Modern_Times_Group_logo.svg/1200px-Modern_Times_Group_logo.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Modern_Times_Group" rel="alternate"/>
+<link href="/w/index.php?title=Modern_Times_Group&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Modern_Times_Group&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Modern_Times_Group" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Modern_Times_Group rootpage-Modern_Times_Group skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Modern Times Group</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Modern_Times_Group&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Modern_Times_Group" title="Talk:Modern Times Group">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="box-Prose plainlinks metadata ambox ambox-style ambox-Prose" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>is in <a class="mw-redirect" href="/wiki/MOS:LIST" title="MOS:LIST">list</a> format, but may read better as <a class="mw-redirect" href="/wiki/MOS:PROSE" title="MOS:PROSE">prose</a></b>.<span class="hide-when-compact"> You can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Modern_Times_Group&amp;action=edit">converting this article</a>, if appropriate. <a href="/wiki/Help:Editing" title="Help:Editing">Editing help</a> is available.</span>  <small class="date-container"><i>(<span class="date">June 2017</span>)</i></small></div></td></tr></tbody></table>
+<table class="box-Condense plainlinks metadata ambox ambox-content ambox-condense" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>may have <a href="/wiki/Wikipedia:Manual_of_Style/Layout#Headings_and_sections" title="Wikipedia:Manual of Style/Layout">too many section headers dividing up its content</a></b>.<span class="hide-when-compact"> Please help improve the article by merging similar sections and removing unneeded subheaders.</span>  <small class="date-container"><i>(<span class="date">November 2019</span>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Modern Times Group MTG AB</caption><tbody><tr><td class="logo" colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Modern_Times_Group_logo.svg"><img alt="Modern Times Group logo.svg" data-file-height="66" data-file-width="152" decoding="async" height="96" src="//upload.wikimedia.org/wikipedia/en/thumb/d/dd/Modern_Times_Group_logo.svg/220px-Modern_Times_Group_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/dd/Modern_Times_Group_logo.svg/330px-Modern_Times_Group_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/dd/Modern_Times_Group_logo.svg/440px-Modern_Times_Group_logo.svg.png 2x" width="220"/></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Publicly traded</a> <a href="/wiki/Aktiebolag" title="Aktiebolag">Aktiebolag</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/Nasdaq_Nordic" title="Nasdaq Nordic">Nasdaq Stockholm</a>: <a class="external text" href="http://www.nasdaqomxnordic.com/aktier/microsite?languageId=1&amp;Instrument=SSE3598" rel="nofollow">MTG A</a><br/><a class="external text" href="http://www.nasdaqomxnordic.com/shares/shareinformation?Instrument=SSE3599" rel="nofollow">MTG B</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=SE0000412371">SE0000412371 </a><a href="https://www.wikidata.org/wiki/Q378944?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" style="vertical-align: text-top" width="10"/></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Mass_media" title="Mass media">Media</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1987<span class="noprint">; 32 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1987</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Stockholm" title="Stockholm">Stockholm</a>, Sweden</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">David Chance (<a class="mw-redirect" href="/wiki/Chairman" title="Chairman">Chairman</a>)<br/>Jorgen Madsen Lindemann (President and <a href="/wiki/Chief_executive_officer" title="Chief executive officer">CEO</a>)<br/>Maria Redin (<a href="/wiki/Chief_financial_officer" title="Chief financial officer">CFO</a>)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a class="mw-redirect" href="/wiki/Esport" title="Esport">esport</a> <a class="mw-redirect" href="/wiki/Online_games" title="Online games">online games</a> and <a class="mw-redirect" href="/wiki/Digital_networks" title="Digital networks">digital networks</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Parent_company" title="Parent company">Parent</a></th><td style="line-height: 1.35em;"><a href="/wiki/Kinnevik_AB" title="Kinnevik AB">Investment AB Kinnevik</a> <a href="https://www.wikidata.org/wiki/Q378944?uselang=en#P749" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" style="vertical-align: text-top" width="10"/></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th><td style="line-height: 1.35em;"><a href="/wiki/InnoGames" title="InnoGames">InnoGames</a><br/>
+<p><a href="/wiki/ESL_(company)" title="ESL (company)">Turtle Entertainment GmbH</a><br/>
+<a class="mw-redirect" href="/wiki/Dreamhack" title="Dreamhack">Dreamhack</a><br/>
+</p>
+<a href="/wiki/Kongregate" title="Kongregate">Kongregate</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a class="external text" href="http://www.mtg.com" rel="nofollow">www<wbr/>.mtg<wbr/>.com</a></span></td></tr></tbody></table>
+<p><b>Modern Times Group</b> (<b>MTG</b>) is a digital entertainment company based in <a href="/wiki/Stockholm" title="Stockholm">Stockholm</a>, <a href="/wiki/Sweden" title="Sweden">Sweden</a>. MTG was formed out of the media holdings of investment company <a class="mw-redirect" href="/wiki/Investment_AB_Kinnevik" title="Investment AB Kinnevik">Kinnevik</a>, which in 1997 was distributed to the company stockholders. Today MTG operates as a strategic and operational investment holding company managing a unique portfolio including eSports businesses <a href="/wiki/ESL_(company)" title="ESL (company)">ESL</a> and <a class="mw-redirect" href="/wiki/Dreamhack" title="Dreamhack">DreamHack</a>, gaming companies <a href="/wiki/InnoGames" title="InnoGames">InnoGames</a> and <a href="/wiki/Kongregate" title="Kongregate">Kongregate</a> as well as digital network company <a href="/wiki/Zoomin.TV" title="Zoomin.TV">Zoomin.TV</a>.
+</p><p><a href="/wiki/Kinnevik_AB" title="Kinnevik AB">Kinnevik</a> distributed the MTG shares to its shareholders in 2018<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> and in 2019 MTG distributed shares in the newly founded <a href="/wiki/Nordic_Entertainment_Group" title="Nordic Entertainment Group">Nordic Entertainment Group</a> to its shareholders following the strategic transformation into a global digital entertainment company.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Company_structure"><span class="tocnumber">1</span> <span class="toctext">Company structure</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Timeline"><span class="tocnumber">2</span> <span class="toctext">Timeline</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#1987"><span class="tocnumber">2.1</span> <span class="toctext">1987</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1988"><span class="tocnumber">2.2</span> <span class="toctext">1988</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#1989"><span class="tocnumber">2.3</span> <span class="toctext">1989</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#1990"><span class="tocnumber">2.4</span> <span class="toctext">1990</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#1991"><span class="tocnumber">2.5</span> <span class="toctext">1991</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#1992"><span class="tocnumber">2.6</span> <span class="toctext">1992</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#1993"><span class="tocnumber">2.7</span> <span class="toctext">1993</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#1994"><span class="tocnumber">2.8</span> <span class="toctext">1994</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#1995"><span class="tocnumber">2.9</span> <span class="toctext">1995</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#1996"><span class="tocnumber">2.10</span> <span class="toctext">1996</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#1997"><span class="tocnumber">2.11</span> <span class="toctext">1997</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#1998"><span class="tocnumber">2.12</span> <span class="toctext">1998</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#1999"><span class="tocnumber">2.13</span> <span class="toctext">1999</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#2000"><span class="tocnumber">2.14</span> <span class="toctext">2000</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#2001"><span class="tocnumber">2.15</span> <span class="toctext">2001</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#2002"><span class="tocnumber">2.16</span> <span class="toctext">2002</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#2003"><span class="tocnumber">2.17</span> <span class="toctext">2003</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#2004"><span class="tocnumber">2.18</span> <span class="toctext">2004</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#2005"><span class="tocnumber">2.19</span> <span class="toctext">2005</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#2006"><span class="tocnumber">2.20</span> <span class="toctext">2006</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#2007"><span class="tocnumber">2.21</span> <span class="toctext">2007</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#2008"><span class="tocnumber">2.22</span> <span class="toctext">2008</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#2009"><span class="tocnumber">2.23</span> <span class="toctext">2009</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#2010"><span class="tocnumber">2.24</span> <span class="toctext">2010</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#2011"><span class="tocnumber">2.25</span> <span class="toctext">2011</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#2012"><span class="tocnumber">2.26</span> <span class="toctext">2012</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#2013"><span class="tocnumber">2.27</span> <span class="toctext">2013</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#2014"><span class="tocnumber">2.28</span> <span class="toctext">2014</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#2015"><span class="tocnumber">2.29</span> <span class="toctext">2015</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#2016"><span class="tocnumber">2.30</span> <span class="toctext">2016</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#2017"><span class="tocnumber">2.31</span> <span class="toctext">2017</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#2018"><span class="tocnumber">2.32</span> <span class="toctext">2018</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#2019"><span class="tocnumber">2.33</span> <span class="toctext">2019</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-36"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Company_structure">Company structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=1" title="Edit section: Company structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since July 2015, MTG's digital presence was expanded through a number of acquisitions. In 2015 MTG bought 74% of the shares in <a class="mw-redirect" href="/wiki/Turtle_Entertainment" title="Turtle Entertainment">Turtle Entertainment</a>, a top-tier eSports tournament operator, owning brands such as <a class="mw-redirect" href="/wiki/Electronic_Sports_League" title="Electronic Sports League">Electronic Sports League</a> (ESL). MTG then acquired 51% of the shares in <a href="/wiki/Zoomin.TV" title="Zoomin.TV">Zoomin.TV</a>, Europe's largest MCN and the 5th largest network on YouTube. Later the same year MTG made the acquisition of 100% of <a class="mw-redirect" href="/wiki/Dreamhack" title="Dreamhack">DreamHack</a>, one of the biggest eSports tournament organisers in the world. In 2016 and 2017 MTG continued its journey by acquiring 35% of a leading German games developing company <a href="/wiki/InnoGames" title="InnoGames">InnoGames</a> and U.S. based games publishing company <a href="/wiki/Kongregate" title="Kongregate">Kongregate</a>. Since the start of its investment operations MTG has made further share acquisitions in the before-mentioned companies.
+</p>
+<h2><span class="mw-headline" id="Timeline">Timeline</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=2" title="Edit section: Timeline">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Prose plainlinks metadata ambox ambox-style ambox-Prose" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>is in <a class="mw-redirect" href="/wiki/MOS:LIST" title="MOS:LIST">list</a> format, but may read better as <a class="mw-redirect" href="/wiki/MOS:PROSE" title="MOS:PROSE">prose</a></b>.<span class="hide-when-compact"> You can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Modern_Times_Group&amp;action=edit">converting this article</a>, if appropriate. <a href="/wiki/Help:Editing" title="Help:Editing">Editing help</a> is available.</span>  <small class="date-container"><i>(<span class="date">April 2010</span>)</i></small></div></td></tr></tbody></table>
+<h3><span class="mw-headline" id="1987">1987</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=3" title="Edit section: 1987">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/TV3_(Sweden)" title="TV3 (Sweden)">TV3</a> launches in Sweden on New Year's Eve becoming the first commercial channel in Scandinavia.</li></ul>
+<h3><span class="mw-headline" id="1988">1988</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=4" title="Edit section: 1988">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>TV3 starts broadcasting to Norway and Denmark. The number of viewers increase from 1.2 million at launch to 3.4 million at end of 1988.</li>
+<li><a class="new" href="/w/index.php?title=Strix_Television&amp;action=edit&amp;redlink=1" title="Strix Television (page does not exist)">Strix</a> launches independent TV production.</li></ul>
+<h3><span class="mw-headline" id="1989">1989</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=5" title="Edit section: 1989">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>August: Pay TV channel <a class="mw-redirect" href="/wiki/TV1000" title="TV1000">TV1000</a> launches.</li>
+<li>TV Shop starts selling products and services on TV3.</li></ul>
+<h3><span class="mw-headline" id="1990">1990</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=6" title="Edit section: 1990">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>TV3 achieves 45% penetration in Sweden and commands 90% of TV advertising market.</li>
+<li>Acquisition of majority shareholding in Svensk Text (<a href="/wiki/SDI_Media" title="SDI Media">SDI Media</a>).</li>
+<li>September: <a href="/wiki/TV3_(Denmark)" title="TV3 (Denmark)">TV3 Denmark</a> launches, replacing the Pan-Scandinavian version.</li></ul>
+<h3><span class="mw-headline" id="1991">1991</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=7" title="Edit section: 1991">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>TV3 reports annual profit.</li>
+<li><a href="/wiki/TV3_(Norway)" title="TV3 (Norway)">TV3 Norway</a> launches, each Scandinavian country now has its own version of TV3.</li>
+<li>TV4 granted license as Sweden's third terrestrial TV station. Kinnevik acquires 30% shareholding in TV4.</li>
+<li>Launch of Viasat DTH satellite pay-TV platform.</li>
+<li>TV1000 merges with competitor <a href="/wiki/SF_Succ%C3%A9" title="SF Succé">SF Succé</a>.</li></ul>
+<h3><span class="mw-headline" id="1992">1992</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=8" title="Edit section: 1992">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/ZTV" title="ZTV">ZTV</a>'s first year as independent channel.</li>
+<li>Kinnevik's media companies report annual profit.</li></ul>
+<h3><span class="mw-headline" id="1993">1993</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=9" title="Edit section: 1993">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>September: <a href="/wiki/P4_Radio_Hele_Norge" title="P4 Radio Hele Norge">P4 Radio Hele Norge</a> a national commercial radio network in Norway is launched. MTG is one of its founders.</li>
+<li>First commercial radio licenses obtained in Sweden. TV3 commences Teletext broadcasting.</li>
+<li>Terrestrial TV channels launched in Estonia and Lithuania.</li></ul>
+<h3><span class="mw-headline" id="1994">1994</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=10" title="Edit section: 1994">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>TV4 becomes largest channel in Sweden.</li>
+<li><a href="/wiki/TV6_(1994)" title="TV6 (1994)">TV6</a> launched.</li></ul>
+<h3><span class="mw-headline" id="1995">1995</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=11" title="Edit section: 1995">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>MTG incorporated as <a href="/wiki/Kinnevik_AB" title="Kinnevik AB">Kinnevik</a> subsidiary.</li>
+<li><a class="mw-redirect" href="/wiki/Metro_(Sweden)" title="Metro (Sweden)">Metro</a> launched in Stockholm.</li>
+<li>Minority holding acquired in <a class="new" href="/w/index.php?title=Finanstidningen&amp;action=edit&amp;redlink=1" title="Finanstidningen (page does not exist)">Finanstidningen</a> daily business newspaper.</li></ul>
+<h3><span class="mw-headline" id="1996">1996</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=12" title="Edit section: 1996">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Satellite TV distribution platform switched from <a href="/wiki/SES_Astra" title="SES Astra">Astra</a> to NSAB.</li>
+<li>January: <a class="new" href="/w/index.php?title=RIX_FM&amp;action=edit&amp;redlink=1" title="RIX FM (page does not exist)">Radio Rix</a> radio network formed through a merger between MTG's P6 and SRU.</li>
+<li>April: ZTV and TV6 merged to form <a class="mw-redirect" href="/wiki/TV3%2B_Denmark" title="TV3+ Denmark">3+</a> in Denmark.</li></ul>
+<h3><span class="mw-headline" id="1997">1997</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=13" title="Edit section: 1997">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Launch of <a class="new" href="/w/index.php?title=Viasat%2B&amp;action=edit&amp;redlink=1" title="Viasat+ (page does not exist)">Viasat+</a>, an analogue low-pay satellite package broadcast from the NSAB satellite consisting of MTG's own television channels as well as <a class="mw-redirect" href="/wiki/Nickelodeon_Scandinavia" title="Nickelodeon Scandinavia">Nickelodeon</a>, <a class="mw-redirect" href="/wiki/VH1_Europe" title="VH1 Europe">VH1</a> and <a class="new" href="/w/index.php?title=Sci-Fi_Channel_(Scandinavia)&amp;action=edit&amp;redlink=1" title="Sci-Fi Channel (Scandinavia) (page does not exist)">Sci-Fi Channel</a>.</li>
+<li>Shares in MTG distributed to Kinnevik shareholders and listed on Stockholm Börsinformation and Nasdaq National Market in New York. Second Metro edition published in Prague.</li>
+<li>Strix becomes first company in the world to produce the Survivor reality TV format.</li></ul>
+<h3><span class="mw-headline" id="1998">1998</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=14" title="Edit section: 1998">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>February: Metro launches in Gothenburg.</li>
+<li>March: TV6 in Sweden relaunches as a Pan-Nordic pay channel called "TV6 Nature World" and "TV6 Action World".</li>
+<li>ZTV moves from Stockholm to London and expands its schedule considerably.</li>
+<li>MTG acquires the <a href="/wiki/Latvia" title="Latvia">Latvian</a> television channel Channel 31, which is later transformed into <a href="/wiki/TV3_Latvia" title="TV3 Latvia">TV3 Latvia</a>.</li>
+<li>Viasat's satellite TV subscribers exceed 1 million.</li>
+<li>Commercial radio operations launched in <a href="/wiki/Estonia" title="Estonia">Estonia</a> and Latvia.</li>
+<li>September: Metro launches in Budapest.</li></ul>
+<h3><span class="mw-headline" id="1999">1999</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=15" title="Edit section: 1999">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Metro launched in <a href="/wiki/Malm%C3%B6" title="Malmö">Malmö</a>, Helsinki and the Netherlands.</li>
+<li>Monthly magazine Kapital launched in Sweden.</li>
+<li>Internet portal Everyday.com introduced.</li>
+<li>Swedish business channel TV8 acquired.</li>
+<li>MTG's shares quoted on Stockholmsbörsen O-list.</li>
+<li>February: Launch of <a class="new" href="/w/index.php?title=CDON.COM&amp;action=edit&amp;redlink=1" title="CDON.COM (page does not exist)">CDON.COM</a>.</li>
+<li>March: Launch of sports channel <a href="/wiki/Viasat_Sport_(Sweden)" title="Viasat Sport (Sweden)">Viasat Sport</a>.</li>
+<li>June: Darial-TV started broadcasting as DTV-Viasat.</li></ul>
+<h3><span class="mw-headline" id="2000">2000</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=16" title="Edit section: 2000">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>March: Launch of television channel <a href="/wiki/Viasat_Plus" title="Viasat Plus">Viasat Plus</a> in Norway.</li>
+<li>Annual General Meeting approves distribution of Metro International S.A. share capital to MTG shareholders.</li>
+<li>Hans-Holger Albrecht appointed President and CEO of MTG.</li>
+<li>MTG buys the Hungarian television channel Alfa TV which becomes <a class="mw-redirect" href="/wiki/Viasat3" title="Viasat3">Viasat3</a>.</li>
+<li>PIN24 launches on Sky TV's platform in UK.</li>
+<li>MTG buys the rest of TV1000 from its parent company.</li>
+<li>Viasat launched its digital satellite platform.</li></ul>
+<h3><span class="mw-headline" id="2001">2001</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=17" title="Edit section: 2001">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>May: Viasat becomes first European satellite TV broadcaster to switch off analog transmission of premium pay-TV channels following successful transition to digital TV.</li>
+<li>TV3 awarded national terrestrial broadcasting license in Latvia.</li>
+<li>Digital home-shopping channel PIN24 launched in Denmark.</li>
+<li>MTG acquires 75% of Russian national commercial TV channel.</li>
+<li>Options to Strix reality TV formats sold in over 30 countries to date.</li>
+<li>Viasat launches four new digital pay-TV channels in Nordic region.</li>
+<li>EUR 120 million convertible subordinated bonds issued to fund further expansion.</li>
+<li>Number of Viasat digital DTH subscribers increases to over 550,000 by year-end.</li></ul>
+<h3><span class="mw-headline" id="2002">2002</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=18" title="Edit section: 2002">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>January: <a class="new" href="/w/index.php?title=Viasat_Sport_Denmark&amp;action=edit&amp;redlink=1" title="Viasat Sport Denmark (page does not exist)">Viasat Sport Denmark</a> and <a class="mw-redirect" href="/wiki/Viasat_Explorer" title="Viasat Explorer">Viasat Explorer</a> launches.</li>
+<li>January: Acquisition of 37 percent of StoryFirst Communications, Inc., owner of the Russian <a class="mw-redirect" href="/wiki/STS_(Russia)" title="STS (Russia)">CTC</a> network.</li>
+<li>January: Acquisition of Swedish radio stations <a class="new" href="/w/index.php?title=Lugna_Favoriter&amp;action=edit&amp;redlink=1" title="Lugna Favoriter (page does not exist)">Lugna Favoriter</a> and <a class="new" href="/w/index.php?title=WOW_105.5&amp;action=edit&amp;redlink=1" title="WOW 105.5 (page does not exist)">WOW 105.5</a> from <a href="/wiki/RTL_Group" title="RTL Group">RTL Group</a>.</li>
+<li>New TV3 schedule recovers share of viewing in Scandinavia.</li>
+<li>Doubling of Eastern European TV revenues.</li>
+<li>Launch of PIN24 in Germany, Austria and Switzerland</li>
+<li>Launch of <a href="/wiki/TV6_(Lithuania)" title="TV6 (Lithuania)">Tango TV</a> in Lithuania.</li>
+<li>Increase in number of digital DTH subscribers to 617,000 and more than doubling of pay-TV operating income.</li>
+<li>TV1000 and Baltic operations both report first annual profits, and TV-Shop turned around. SEK 423 million increase in operating free cash flow.</li></ul>
+<h3><span class="mw-headline" id="2003">2003</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=19" title="Edit section: 2003">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>TV3 Scandinavia recovers share of viewing and advertisement sales.</li>
+<li>Eastern European operations profitable on a combined basis.</li>
+<li>Pay-TV record operating income SEK 505 million.</li>
+<li>Viasat signs agreement with NDS VideoGuard to eliminate piracy.</li>
+<li>Launch of pay TV channels <a class="new" href="/w/index.php?title=TV_1000_East&amp;action=edit&amp;redlink=1" title="TV 1000 East (page does not exist)">TV 1000 East</a> and <a class="mw-redirect" href="/wiki/Viasat_Explorer" title="Viasat Explorer">Viasat Explorer</a> in Eastern and Central Europe.</li></ul>
+<h3><span class="mw-headline" id="2004">2004</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=20" title="Edit section: 2004">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>MTG reports highest ever operating result.</li>
+<li>February: Launch of <a href="/wiki/Viasat_Sport_2" title="Viasat Sport 2">Viasat Sport 2</a> and <a href="/wiki/Viasat_Sport_3" title="Viasat Sport 3">Viasat Sport 3</a></li>
+<li>May: <a href="/wiki/Viasat_History" title="Viasat History">Viasat History</a> launches in Eastern Europe.</li>
+<li>September: Launch of <a class="mw-redirect" href="/wiki/TV1000_Action" title="TV1000 Action">TV1000 Action</a>, <a class="mw-redirect" href="/wiki/TV1000_Classic" title="TV1000 Classic">TV1000 Classic</a>, <a class="mw-redirect" href="/wiki/TV1000_Family" title="TV1000 Family">TV1000 Family</a> and <a class="mw-redirect" href="/wiki/TV1000_Nordic" title="TV1000 Nordic">TV1000 Nordic</a>.</li>
+<li>Viasat successfully completes implementation of new conditional access system.</li>
+<li>Highest net subscriber intake since digitalisation of platform in 2000.</li>
+<li>Viasat's four channels reach 6.4 million homes in Central and Eastern Europe.</li>
+<li>MTG acquires remaining minority interests in DTV and increases its shareholding in CTC Media and Radio Hele Norge following sale of <a href="/wiki/SDI_Media" title="SDI Media">SDI Media</a> for US$60 million.</li>
+<li>MTG acquires 19.9% of betting company BET24.</li>
+<li>MTG also signs agreement with NRJ Group to assume management of 20 radio stations in Sweden (and 5 in Norway), thereby increasing penetration for MTG's national network to 83%.</li></ul>
+<h3><span class="mw-headline" id="2005">2005</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=21" title="Edit section: 2005">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>MTG sells its 15.1 percent interest in <a href="/wiki/TV4_AB" title="TV4 AB">TV4 AB</a> in January 2005. In March, <a href="/wiki/CTC_Media" title="CTC Media">CTC Media</a> launches the <a href="/wiki/Domashny" title="Domashny">Domashny</a> television network in Russia.
+</p><p>In July 2005, Modern Entertainment Ltd., its film rights unit in Los Angeles, agreed to sell 332 films to <a href="/wiki/Lionsgate_Films" title="Lionsgate Films">Lionsgate Films</a> and shut down its operations to focus on European operations.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<ul><li>October: Launch of Russian language movie channel <a class="mw-redirect" href="/wiki/TV1000_Russian_Kino" title="TV1000 Russian Kino">TV1000 Russian Kino</a>.</li>
+<li>October: <a class="mw-redirect" href="/wiki/SportN" title="SportN">SportN</a> launches in Norway.</li>
+<li>November: <a class="new" href="/w/index.php?title=TV1000_Balkan&amp;action=edit&amp;redlink=1" title="TV1000 Balkan (page does not exist)">TV1000 Balkan</a> launches.</li></ul>
+<h3><span class="mw-headline" id="2006">2006</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=22" title="Edit section: 2006">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>March: MTG became majority shareholder of Bet24, owning 90% of the company.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></li>
+<li>May: <a href="/wiki/TV6_(Sweden)" title="TV6 (Sweden)">TV6</a> launches in Sweden.</li>
+<li>September: MTG increases its holding P4 Radio Hele Norge to 90.8 percent, becoming the sole owner in December.</li>
+<li>November: <a href="/wiki/Viasat_Sport_East" title="Viasat Sport East">Viasat Sport East</a> launches.</li></ul>
+<h3><span class="mw-headline" id="2007">2007</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=23" title="Edit section: 2007">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>January: <a href="/wiki/Viasat_Golf" title="Viasat Golf">Viasat Golf</a> launches in the Nordic countries.</li>
+<li>March: MTG buys the <a class="new" href="/w/index.php?title=Balkan_Media_Group_Limited&amp;action=edit&amp;redlink=1" title="Balkan Media Group Limited (page does not exist)">Balkan Media Group Limited</a> Bulgarian channels: <a href="/wiki/Diema" title="Diema">Diema</a>, <a class="mw-redirect" href="/wiki/Diema_2" title="Diema 2">Diema 2</a>, <a href="/wiki/Diema_Family" title="Diema Family">Diema Family</a>, <a class="mw-redirect" href="/wiki/Diema_Extra" title="Diema Extra">Diema Extra</a>, <a class="mw-redirect" href="/wiki/MM_(television)" title="MM (television)">MM</a> and M2</li>
+<li>April: <a href="/wiki/TV6_(Latvia)" title="TV6 (Latvia)">TV6</a> launches in Latvia.</li>
+<li>May: M2 in Bulgaria is closed down.</li>
+<li>September: <a href="/wiki/Viasat_4" title="Viasat 4">Viasat 4</a> launches, replacing <a href="/wiki/ZTV_Norway" title="ZTV Norway">ZTV</a> in Norway.</li>
+<li>October: CTC-media bought &amp; rebrand DTV</li></ul>
+<h3><span class="mw-headline" id="2008">2008</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=24" title="Edit section: 2008">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>January: <a href="/wiki/Viasat" title="Viasat">Viasat</a> launches high-definition television in the Nordic countries.</li>
+<li>March: <a href="/wiki/TV6_(Estonia)" title="TV6 (Estonia)">TV6</a> launches in Estonia.</li>
+<li>April: <a class="new" href="/w/index.php?title=TV1000_Premium&amp;action=edit&amp;redlink=1" title="TV1000 Premium (page does not exist)">TV1000 Premium</a> launches in the Baltics.</li>
+<li>July: MTG buys <a href="/wiki/Nova_television_(Bulgaria)" title="Nova television (Bulgaria)">Nova television</a> and <a href="/wiki/Nova%2B" title="Nova+">Nova+</a>  from <a class="mw-redirect" href="/wiki/Antenna_Group" title="Antenna Group">Antenna Group</a>.</li>
+<li>September: Tango TV relaunches as <a class="mw-redirect" href="/wiki/TV6_Lithuania" title="TV6 Lithuania">TV6 Lithuania</a>.</li>
+<li>December: <a href="/wiki/Viasat_1" title="Viasat 1">Viasat 1</a> launches in Ghana.</li>
+<li>December: <a href="/wiki/Nova%2B" title="Nova+">Nova+</a> in Bulgaria is closed down.</li></ul>
+<h3><span class="mw-headline" id="2009">2009</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=25" title="Edit section: 2009">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>January: <a class="mw-redirect" href="/wiki/Viasat_Sport_Baltic" title="Viasat Sport Baltic">Viasat Sport Baltic</a> launches.</li>
+<li>February: <a class="mw-redirect" href="/wiki/TV1000_Drama" title="TV1000 Drama">TV1000 Drama</a> launches.</li>
+<li>March: <a href="/wiki/TV3_Puls" title="TV3 Puls">TV3 Puls</a> launches in Denmark.</li>
+<li>The <a href="/wiki/Diema" title="Diema">Diema</a> Media Group and <a class="mw-redirect" href="/wiki/MM_(television)" title="MM (television)">MM</a>, previously a joint-venture between MTG and <a class="new" href="/w/index.php?title=Apace_Media&amp;action=edit&amp;redlink=1" title="Apace Media (page does not exist)">Apace Media</a>, are merged with <a href="/wiki/Nova_television_(Bulgaria)" title="Nova television (Bulgaria)">Nova television</a> to create the Nova Broadcasting Group.</li>
+<li>April: <a href="/wiki/Prima_Cool" title="Prima Cool">Prima Cool</a> launches in the Czech Republic.</li></ul>
+<h3><span class="mw-headline" id="2010">2010</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=26" title="Edit section: 2010">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>April: <a href="/wiki/Nova_Sport_(Bulgaria)" title="Nova Sport (Bulgaria)">Nova Sport</a> launches in Bulgaria, replacing <a class="mw-redirect" href="/wiki/MM_(television)" title="MM (television)">MM</a>.</li>
+<li>September: <a href="/wiki/TV10_(Sweden)" title="TV10 (Sweden)">TV10</a> launches in Sweden.<sup class="reference" id="cite_ref-Aftonbladet_5-0"><a href="#cite_note-Aftonbladet-5">[5]</a></sup></li>
+<li>December: <a class="new" href="/w/index.php?title=Modern_African_Productions&amp;action=edit&amp;redlink=1" title="Modern African Productions (page does not exist)">Modern African Productions</a> was founded in Ghana.</li>
+<li>December: MTG launched as the first Scandinavian pay-TV operator 3D content in their <a href="/wiki/Viasat" title="Viasat">Viasat</a> offer.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></li></ul>
+<h3><span class="mw-headline" id="2011">2011</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=27" title="Edit section: 2011">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>March: <a class="mw-redirect" href="/wiki/Prima_love" title="Prima love">Prima love</a> launches in the Czech Republic.</li>
+<li>August: <a class="new" href="/w/index.php?title=M.A.P.&amp;action=edit&amp;redlink=1" title="M.A.P. (page does not exist)">M.A.P.</a> launches her first production in Ghana.</li>
+<li>September: <a href="/wiki/Kino_Nova" title="Kino Nova">Kino Nova</a> launches in Bulgaria, replacing <a class="mw-redirect" href="/wiki/Diema_2" title="Diema 2">Diema 2</a>.</li>
+<li>October: <a href="/wiki/TV8_(Lithuania)" title="TV8 (Lithuania)">TV8</a> opened in Lithuania. CTC-Media launched Peretz based on DTV.</li>
+<li>November: <a class="mw-redirect" href="/wiki/CTC_(TV_channel)" title="CTC (TV channel)">CTC</a> opened in <a href="/wiki/Baltic_states" title="Baltic states">Baltic</a>.</li></ul>
+<h3><span class="mw-headline" id="2012">2012</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=28" title="Edit section: 2012">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>January: MTG reaches an agreement on acquiring Latvian channels <a href="/wiki/Latvijas_Neatkar%C4%ABg%C4%81_Telev%C4%ABzija" title="Latvijas Neatkarīgā Televīzija">LNT</a>, <a href="/wiki/TV5_(Latvia)" title="TV5 (Latvia)">TV5</a> and <a class="new" href="/w/index.php?title=Kan%C4%81ls_2&amp;action=edit&amp;redlink=1" title="Kanāls 2 (page does not exist)">Kanāls 2</a>.</li>
+<li>February: In <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a> closed down <a href="/wiki/TV3_Slovenia" title="TV3 Slovenia">TV3</a>.</li>
+<li>March: All <a href="/wiki/Viasat_Film" title="Viasat Film">TV 1000</a> channels in <a href="/wiki/Nordic_countries" title="Nordic countries">Nordic countries</a> renamed as <a href="/wiki/Viasat_Film" title="Viasat Film">Viasat Film</a>.</li>
+<li>April: <a class="mw-redirect" href="/wiki/Nova_Premier_League_HD" title="Nova Premier League HD">Nova Premier League HD</a> launches in Bulgaria.</li>
+<li>June: <a href="/wiki/Viasat_Motor" title="Viasat Motor">Viasat Motor</a> launches in Baltic.</li>
+<li>July: Jorgen Madsen appointed President and CEO of MTG.</li>
+<li>October: Game-services Bet24 sold.</li>
+<li>November: Running HD-version channels <a class="mw-redirect" href="/wiki/TV6_Sweden" title="TV6 Sweden">TV6 Sweden</a>, <a href="/wiki/Viasat_4" title="Viasat 4">Viasat 4</a>, <a class="mw-redirect" href="/wiki/Viasat_Explorer" title="Viasat Explorer">Viasat Explorer</a>, <a href="/wiki/Viasat_History" title="Viasat History">Viasat History</a>, <a href="/wiki/Viasat_Nature" title="Viasat Nature">Viasat Nature</a>, <a class="mw-redirect" href="/wiki/Viasat_Crime" title="Viasat Crime">Viasat Crime</a>.</li></ul>
+<h3><span class="mw-headline" id="2013">2013</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=29" title="Edit section: 2013">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>January: Radio station NRJ Sweden sold to SBS Sweden (ProSiebenSat.1). In Denmark running TV3 Sport 1.</li>
+<li>February: Prima ZOOM opened in Czech Republic. Running TV3 Sport 2 in Denmark.</li>
+<li>March: Running HD-version <a class="mw-redirect" href="/wiki/TV3_Denmark" title="TV3 Denmark">TV3 Denmark</a>.</li>
+<li>November: <a class="new" href="/w/index.php?title=TV6_(Norway)&amp;action=edit&amp;redlink=1" title="TV6 (Norway) (page does not exist)">TV6</a> opened in Norway.</li>
+<li>June: <a class="mw-redirect" href="/wiki/Nova_Premier_League_HD" title="Nova Premier League HD">Nova Premier League HD</a> in Bulgaria is closed down.</li>
+<li>July: <a href="/wiki/Nova_Sport_(Bulgaria)" title="Nova Sport (Bulgaria)">Nova Sport HD</a> launches in Bulgaria.</li></ul>
+<h3><span class="mw-headline" id="2014">2014</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=30" title="Edit section: 2014">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>February: MTG acquires 75% Trace Partners SAS (brand 'TRACE')</li>
+<li>December: Russian satellite TV-platform <i>Raduga TV</i> closed down.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></li></ul>
+<h3><span class="mw-headline" id="2015">2015</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=31" title="Edit section: 2015">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>February: MTG sold Hungarian Free-TV channels (<a href="/wiki/Viasat_3" title="Viasat 3">Viasat 3</a>, <a href="/wiki/Viasat_6" title="Viasat 6">Viasat 6</a> and Hungarian video-portal Viasat Play) to <a href="/wiki/Sony_Pictures_Television" title="Sony Pictures Television">Sony Pictures Television</a> Networks.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></li>
+<li>February: <a href="/wiki/Diema_Sport" title="Diema Sport">Diema Sport</a> launches in Bulgaria.</li>
+<li>June: MTG acquires 74% of the German gaming company Turtle Entertainment.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></li>
+<li>August: <a class="mw-redirect" href="/wiki/Diema_Sport_2" title="Diema Sport 2">Diema Sport 2</a> launches in Bulgaria.</li>
+<li>September: MTG acquires majority stake in <a href="/wiki/Esports" title="Esports">esports</a> company <a class="mw-redirect" href="/wiki/Turtle_Entertainment" title="Turtle Entertainment">Turtle Entertainment</a> and its subsidiaries <a class="mw-redirect" href="/wiki/Electronic_Sports_League" title="Electronic Sports League">Electronic Sports League</a> (ESL)<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></li>
+<li>October: MTG sold Viasat Russian &amp; international pay-TV channels (factual, movie and sports channels in Russia. TV1000 and pan-regional factual channels in international) to Baring Vostok Company in international and LLC Sinerdzhi in Russia.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></li>
+<li>November: MTG acquires Swedish esports tournament <a href="/wiki/DreamHack" title="DreamHack">DreamHack</a><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></li>
+<li>December: MTG and minoritaries sold 75% CTC Media to ″UTH Holding″ in Russia.</li></ul>
+<h3><span class="mw-headline" id="2016">2016</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=32" title="Edit section: 2016">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>March: MTG sold Ukrainian pay-TV company <i>Viasat Ukraine</i> to <a href="/wiki/1%2B1_Media_Group" title="1+1 Media Group">1+1 Media Group</a>.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> In Latvia, Russian-language channel <a href="/wiki/TV5_(Latvia)" title="TV5 (Latvia)">TV5</a> closed down.</li>
+<li>May: MTG took a 22 per cent stake in Engage Sports Media (ESM). ESM described the deal as a ‘strategically important investment’ that will allow ESM to accelerate its growth and focuses on content IP development, technical tools and adding new talent across the business. Arnd Benninghoff, CEO of MTGx said “this investment reflects our focus on becoming the leading digital video entertainment company in each of our markets, and our strategy to invest in relevant, complementary and scalable digital brands, content and communities.”</li>
+<li>August: For the Nordic Market, Viasat launches Scandinavia's first UHD Channel to deliver select Rio 2016 OL programs (and future UHD Sports Broadcasts) as well as a new HD Sports Channel branded "Viasat Sport Premium.",<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup></li>
+<li>October: MTG acquires 35% in German games developer <a href="/wiki/InnoGames" title="InnoGames">Innogames</a></li>
+<li>December: MTG sold African business (Viasat 1 (Ghana), TV1 (Tanzania) and Modern African Production (MAP)) to <a class="mw-redirect" href="/wiki/Econet_Wireless#Econet_Media" title="Econet Wireless">Econet Media Group</a>.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></li></ul>
+<h3><span class="mw-headline" id="2017">2017</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=33" title="Edit section: 2017">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>January: MTG sold FTV Prima Holding to Denemo Media (part of GES GROUP).<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> In April 2017, the transaction was completed.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></li>
+<li>March: MTG sold business in Baltic States to <a href="/wiki/Providence_Equity_Partners" title="Providence Equity Partners">Providence Equity Partners</a>.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> In October 2017, the transaction was completed.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup></li>
+<li>May: MTG increased its stake in German games developer <a href="/wiki/InnoGames" title="InnoGames">InnoGames</a> to 51% by investing EUR 82.6 million.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup></li>
+<li>June: MTG acquires <a href="/wiki/Kongregate" title="Kongregate">Kongregate</a>.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup></li>
+<li>October: MTG launched <a class="mw-redirect" href="/wiki/TV3_MAX" title="TV3 MAX">TV3 MAX</a> in Denmark which replaced <a href="/wiki/TV3_Sport_2" title="TV3 Sport 2">TV3 Sport 2</a>.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup></li>
+<li>October: MTG sells its free-TV, pay-TV, digital and radio businesses in <a href="/wiki/Estonia" title="Estonia">Estonia</a>, <a href="/wiki/Latvia" title="Latvia">Latvia</a> and <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> to the asset management firm <a href="/wiki/Providence_Equity_Partners" title="Providence Equity Partners">Providence Equity Partners</a>,<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup><sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup> uniting them under the <a class="new" href="/w/index.php?title=All_Media_Baltics&amp;action=edit&amp;redlink=1" title="All Media Baltics (page does not exist)">All Media Baltics</a> company name.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup><sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup><sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></li>
+<li>December: MTG secured the exclusive Nordic media rights to the five-a-side-football variant Futsal’s biggest European tournament, <a href="/wiki/UEFA_Futsal_Euro_2018" title="UEFA Futsal Euro 2018">UEFA Futsal Euro 2018</a>.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup></li>
+<li>December: MTG launched a $30 million gaming investment fund.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup></li></ul>
+<h3><span class="mw-headline" id="2018">2018</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=34" title="Edit section: 2018">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>January: MTG sold TRACE Media Group to TPG Growth.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup> In May 2018, the transaction was completed.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup></li>
+<li>February: MTG business in Scandinavia (MTG Nordic Entertainment and MTG Studios) combination with <a class="mw-redirect" href="/wiki/TDC_Group" title="TDC Group">TDC Group</a> proposed.<sup class="reference" id="cite_ref-auto_33-0"><a href="#cite_note-auto-33">[33]</a></sup> MTG sold Nova Broadcasting Group in Bulgaria to PPF Group.<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup></li>
+<li>March: Board of Directors of <a class="mw-redirect" href="/wiki/TDC_Group" title="TDC Group">TDC Group</a> withdraws its recommendation of combination with MTG Nordics.<sup class="reference" id="cite_ref-auto_33-1"><a href="#cite_note-auto-33">[33]</a></sup> Modern Times Group (MTG) will split into two companies: <a href="/wiki/Nordic_Entertainment_Group" title="Nordic Entertainment Group">Nordic Entertainment Group</a><sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup> (MTG Nordic Entertainment, MTG Studios and Splay Networks) and new MTG company (MTGx).<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup></li>
+<li>May: MTG increased the share in Zoom.in Group B.V. (Zoomin.TV) from 51% to 100%.<sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup></li>
+<li>June: <a href="/wiki/Nordic_Entertainment_Group" title="Nordic Entertainment Group">Nordic Entertainment Group</a> companies Splay Networks and Nice One will merge to new company SplayOne.<sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup></li></ul>
+<h3><span class="mw-headline" id="2019">2019</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=35" title="Edit section: 2019">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>March: The separation between MTG and <a href="/wiki/Nordic_Entertainment_Group" title="Nordic Entertainment Group">Nordic Entertainment Group</a> is finalized and <a href="/wiki/Nordic_Entertainment_Group" title="Nordic Entertainment Group">Nordic Entertainment Group</a> is listed as a separate company on <a href="/wiki/Nasdaq_Nordic" title="Nasdaq Nordic">Nasdaq Nordic</a> Large Cap.<sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[39]</a></sup></li></ul>
+<p><br/>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Modern_Times_Group&amp;action=edit&amp;section=36" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.kinnevik.com/media--contact/press-releases/2018/8/2208838-Kinneviks-Board-of-Directors-has-set-the-record-date-for-the-distribution-of-Kinneviks-shares-in-MTG" rel="nofollow">"Kinnevik's Board of Directors has set the record date for the distribution of Kinnevik's shares in MTG | Kinnevik"</a>. <i>www.kinnevik.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-04-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.kinnevik.com&amp;rft.atitle=Kinnevik%27s+Board+of+Directors+has+set+the+record+date+for+the+distribution+of+Kinnevik%27s+shares+in+MTG+%7C+Kinnevik&amp;rft_id=https%3A%2F%2Fwww.kinnevik.com%2Fmedia--contact%2Fpress-releases%2F2018%2F8%2F2208838-Kinneviks-Board-of-Directors-has-set-the-record-date-for-the-distribution-of-Kinneviks-shares-in-MTG&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.mtg.com/mtg-nordic-entertainment-split/" rel="nofollow">"One becomes two: MTG and Nordic Entertainment Group split"</a>. <i>MTG</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-04-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MTG&amp;rft.atitle=One+becomes+two%3A+MTG+and+Nordic+Entertainment+Group+split&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fmtg-nordic-entertainment-split%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.bizjournals.com/losangeles/stories/2005/07/11/daily31.html" rel="nofollow">"Modern Entertainment sells titles to Lions Gate"</a>. <i>L.A. Biz</i>. American City Business Journals. July 11, 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">January 18,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=L.A.+Biz&amp;rft.atitle=Modern+Entertainment+sells+titles+to+Lions+Gate&amp;rft.date=2005-07-11&amp;rft_id=http%3A%2F%2Fwww.bizjournals.com%2Flosangeles%2Fstories%2F2005%2F07%2F11%2Fdaily31.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.unibet.dk/?key=ABOUT_US_TXT" rel="nofollow">"Betting med høje odds, online casino med kortspil og poker | Unibet DK"</a>. <i>www.unibet.dk</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.unibet.dk&amp;rft.atitle=Betting+med+h%C3%B8je+odds%2C+online+casino+med+kortspil+og+poker+%26%23124%3B+Unibet+DK&amp;rft_id=https%3A%2F%2Fwww.unibet.dk%2F%3Fkey%3DABOUT_US_TXT&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Aftonbladet-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Aftonbladet_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Therese Gustafsson (2010-09-06). <a class="external text" href="http://www.aftonbladet.se/sportbladet/sportitv/article7735481.ab" rel="nofollow">"EM-kvalet – direkt i ny kanal"</a>. <i>Aftonbladet</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Aftonbladet&amp;rft.atitle=EM-kvalet+%E2%80%93+direkt+i+ny+kanal&amp;rft.date=2010-09-06&amp;rft.au=Therese+Gustafsson&amp;rft_id=http%3A%2F%2Fwww.aftonbladet.se%2Fsportbladet%2Fsportitv%2Farticle7735481.ab&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.mtg.com/press-releases/mtg-launches-viasat-3d-2/" rel="nofollow">"MTG LAUNCHES VIASAT 3D"</a>. <i>mtg.com</i>. 16 December 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">12 January</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=mtg.com&amp;rft.atitle=MTG+LAUNCHES+VIASAT+3D&amp;rft.date=2010-12-16&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-launches-viasat-3d-2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.mtg.com/press-releases/raduga-tv-to-close-down-viasat-russia-to-launch-5-new-hd-channels/" rel="nofollow">"Raduga TV to close down, Viasat Russia to launch 5 new HD channels"</a>. <i>mtg.com</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=mtg.com&amp;rft.atitle=Raduga+TV+to+close+down%2C+Viasat+Russia+to+launch+5+new+HD+channels&amp;rft_id=http%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fraduga-tv-to-close-down-viasat-russia-to-launch-5-new-hd-channels%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.mtg.com/press-releases/mtg-to-sell-hungarian-free-tv-channels/" rel="nofollow">"MTG to sell Hungarian free-TV channels"</a>. <i>mtg.com</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=mtg.com&amp;rft.atitle=MTG+to+sell+Hungarian+free-TV+channels&amp;rft_id=http%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-to-sell-hungarian-free-tv-channels%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20150701133011/http://www.mtg.com/press-releases/mtg-invests-in-worlds-largest-esports-company-esl/" rel="nofollow">"MTG invests in world's largest esports company ESL"</a>. <i>mtg.com</i>. Archived from <a class="external text" href="http://www.mtg.com/press-releases/mtg-invests-in-worlds-largest-esports-company-esl/" rel="nofollow">the original</a> on 2015-07-01.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=mtg.com&amp;rft.atitle=MTG+invests+in+world%27s+largest+esports+company+ESL&amp;rft_id=http%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-invests-in-worlds-largest-esports-company-esl%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Clarke, Stewart (September 1, 2015). <a class="external text" href="http://tbivision.com/news/2015/09/mtg-closes-deal-turtle-entertainment/474241/" rel="nofollow">"MTG closes deal for Turtle Entertainment"</a>. <i>tbivision.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 12,</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=tbivision.com&amp;rft.atitle=MTG+closes+deal+for+Turtle+Entertainment&amp;rft.date=2015-09-01&amp;rft.aulast=Clarke&amp;rft.aufirst=Stewart&amp;rft_id=http%3A%2F%2Ftbivision.com%2Fnews%2F2015%2F09%2Fmtg-closes-deal-turtle-entertainment%2F474241%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.mtg.com/press-releases/mtg-sells-russian-international-pay-tv-channels-businesses/" rel="nofollow">"MTG sells Russian &amp; international pay-TV channels businesses - MTG"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MTG+sells+Russian+%26+international+pay-TV+channels+businesses+-+MTG&amp;rft_id=http%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-sells-russian-international-pay-tv-channels-businesses%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.mtg.com/press-releases/mtg-acquires-dreamhack/" rel="nofollow">"MTG acquires DreamHack"</a>. <i>MTG</i>. November 12, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">November 12,</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MTG&amp;rft.atitle=MTG+acquires+DreamHack&amp;rft.date=2015-11-12&amp;rft_id=http%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-acquires-dreamhack%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.mtg.com/press-releases/mtg-sells-ukrainian-tv-business/" rel="nofollow">"MTG sells Ukrainian TV business - MTG"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MTG+sells+Ukrainian+TV+business+-+MTG&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-sells-ukrainian-tv-business%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Ladingkær, Lars (13 May 2016). <a class="external text" href="http://www.recordere.dk/2016/05/magnussen-i-4k-viasat-foerst-med-uhd-kanal/" rel="nofollow">"Magnussen i 4K? - Viasat først med UHD kanal - recordere.dk"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Magnussen+i+4K%3F+-+Viasat+f%C3%B8rst+med+UHD+kanal+-+recordere.dk&amp;rft.date=2016-05-13&amp;rft.aulast=Ladingk%C3%A6r&amp;rft.aufirst=Lars&amp;rft_id=http%3A%2F%2Fwww.recordere.dk%2F2016%2F05%2Fmagnussen-i-4k-viasat-foerst-med-uhd-kanal%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.live-production.tv/news/4k-8k-arising/danmon-builds-scandinavia%E2%80%99s-first-uhd-channel.html" rel="nofollow">"Danmon Builds Scandinavia's first UHD Channel - LIVE-PRODUCTION.TV"</a>. <i>www.live-production.tv</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.live-production.tv&amp;rft.atitle=Danmon+Builds+Scandinavia%E2%80%99s+first+UHD+Channel+-+LIVE-PRODUCTION.TV&amp;rft_id=http%3A%2F%2Fwww.live-production.tv%2Fnews%2F4k-8k-arising%2Fdanmon-builds-scandinavia%25E2%2580%2599s-first-uhd-channel.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.mtg.com/press-releases/mtg-completes-sale-of-tv-businesses-in-ghana-and-nigeria/" rel="nofollow">"MTG completes sale of TV businesses in Ghana and Nigeria - MTG"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MTG+completes+sale+of+TV+businesses+in+Ghana+and+Nigeria+-+MTG&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-completes-sale-of-tv-businesses-in-ghana-and-nigeria%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.mtg.com/press-releases/mtg-sells-czech-tv-holding-to-invest-further-in-digital-transformation/" rel="nofollow">"MTG sells Czech TV holding to invest further in digital transformation - MTG"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MTG+sells+Czech+TV+holding+to+invest+further+in+digital+transformation+-+MTG&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-sells-czech-tv-holding-to-invest-further-in-digital-transformation%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.broadbandtvnews.com/2017/04/24/mtg-completes-czech-tv-sale/" rel="nofollow">"MTG completes Czech TV sale"</a>. <i>Broadband TV News</i>. 24 April 2017.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Broadband+TV+News&amp;rft.atitle=MTG+completes+Czech+TV+sale&amp;rft.date=2017-04-24&amp;rft_id=http%3A%2F%2Fwww.broadbandtvnews.com%2F2017%2F04%2F24%2Fmtg-completes-czech-tv-sale%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.mtg.com/press-releases/mtg-sells-baltic-broadcasting-businesses/" rel="nofollow">"MTG sells Baltic broadcasting businesses - MTG"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MTG+sells+Baltic+broadcasting+businesses+-+MTG&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-sells-baltic-broadcasting-businesses%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.mtg.com/press-releases/mtg-sale-baltic-broadcasting/" rel="nofollow">"MTG completes the sale of its Baltic broadcasting businesses - MTG"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MTG+completes+the+sale+of+its+Baltic+broadcasting+businesses+-+MTG&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-sale-baltic-broadcasting%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.mtg.com/press-releases/mtg-increases-ownership-in-online-games-developer-innogames/" rel="nofollow">"MTG increases ownership in online games developer InnoGames - MTG"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MTG+increases+ownership+in+online+games+developer+InnoGames+-+MTG&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-increases-ownership-in-online-games-developer-innogames%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.kongregate.com/forums/1-kongregate/topics/824881-announcement-news-about-kongregate/" rel="nofollow">"[Announcement] News about Kongregate discussion on Kongregate"</a>. <i>www.kongregate.com</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.kongregate.com&amp;rft.atitle=%5BAnnouncement%5D+News+about+Kongregate+discussion+on+Kongregate&amp;rft_id=http%3A%2F%2Fwww.kongregate.com%2Fforums%2F1-kongregate%2Ftopics%2F824881-announcement-news-about-kongregate%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a class="external text" href="http://digitalt.tv/tv3-max-ny-tv-kanal-paa-vej-mtg-viasat/" rel="nofollow"><i>TV3 MAX – ny tv-kanal på vej fra MTG / Viasat</i></a> af Bo Kjærgaard. Digitalt.tv, 23. August 2017.</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://www.mtg.com/press-releases/mtg-sells-baltic-broadcasting-businesses/" rel="nofollow">"MTG sells Baltic broadcasting businesses | MTG"</a>. <i>MTG</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-07-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MTG&amp;rft.atitle=MTG+sells+Baltic+broadcasting+businesses+%7C+MTG&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-sells-baltic-broadcasting-businesses%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://eng.lsm.lv/article/economy/economy/mtg-sells-baltic-broadcasting-businesses-for-115m.a228500/" rel="nofollow">"MTG sells Baltic broadcasting businesses for €115m"</a>. <i>LSM.lv</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-07-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=LSM.lv&amp;rft.atitle=MTG+sells+Baltic+broadcasting+businesses+for+%E2%82%AC115m&amp;rft_id=https%3A%2F%2Feng.lsm.lv%2Farticle%2Feconomy%2Feconomy%2Fmtg-sells-baltic-broadcasting-businesses-for-115m.a228500%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://www.businesswire.com/news/home/20171218006201/en/Media-Baltics-Deliver-Top-quality-TV-Reception-SES" rel="nofollow">"All Media Baltics to Deliver Top-quality TV Reception via SES Video"</a>. <i>Business Wire</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-07-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Business+Wire&amp;rft.atitle=All+Media+Baltics+to+Deliver+Top-quality+TV+Reception+via+SES+Video&amp;rft_id=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20171218006201%2Fen%2FMedia-Baltics-Deliver-Top-quality-TV-Reception-SES&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://www.broadbandtvnews.com/2017/12/19/ses-inks-all-media-baltics-deal/" rel="nofollow">"SES inks All Media Baltics deal"</a>. <i>Broadband TV News</i>. 2017-12-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-07-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Broadband+TV+News&amp;rft.atitle=SES+inks+All+Media+Baltics+deal&amp;rft.date=2017-12-19&amp;rft_id=https%3A%2F%2Fwww.broadbandtvnews.com%2F2017%2F12%2F19%2Fses-inks-all-media-baltics-deal%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.baltictimes.com/acquisition_of_mtg_s_business_in_baltics_completed__new_company_to_be_named_all_media_baltics/" rel="nofollow">"Acquisition of MTG's business in Baltics completed; new company to be named All Media Baltics"</a>. <i>The Baltic Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-07-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Baltic+Times&amp;rft.atitle=Acquisition+of+MTG%E2%80%99s+business+in+Baltics+completed%3B+new+company+to+be+named+All+Media+Baltics&amp;rft_id=https%3A%2F%2Fwww.baltictimes.com%2Facquisition_of_mtg_s_business_in_baltics_completed__new_company_to_be_named_all_media_baltics%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.digitaltveurope.com/2017/12/15/mtg-secures-rights-to-uefa-futsal-tournament/" rel="nofollow">"MTG secures rights to UEFA Futsal tournament"</a>. <i>digitaltveurope.com</i>. 15 December 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">12 January</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=digitaltveurope.com&amp;rft.atitle=MTG+secures+rights+to+UEFA+Futsal+tournament&amp;rft.date=2017-12-15&amp;rft_id=http%3A%2F%2Fwww.digitaltveurope.com%2F2017%2F12%2F15%2Fmtg-secures-rights-to-uefa-futsal-tournament%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://www.esportsbets.com/7465/mtg-gaming-industry-fund/" rel="nofollow">"ESL owner MTG launches $30 million gaming investment fund"</a>. <i>EsportsBets.com</i>. 2017-12-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-05</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=EsportsBets.com&amp;rft.atitle=ESL+owner+MTG+launches+%2430+million+gaming+investment+fund&amp;rft.date=2017-12-04&amp;rft_id=https%3A%2F%2Fwww.esportsbets.com%2F7465%2Fmtg-gaming-industry-fund%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.mtg.com/press-releases/mtg-sells-stake-in-trace-media-group/" rel="nofollow">"MTG sells stake in TRACE media group"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MTG+sells+stake+in+TRACE+media+group&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-sells-stake-in-trace-media-group%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.mtg.com/press-releases/mtg-completes-the-sale-of-its-stake-in-trace-media-group" rel="nofollow">"MTG completes the sale of its stake in TRACE media group"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MTG+completes+the+sale+of+its+stake+in+TRACE+media+group&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-completes-the-sale-of-its-stake-in-trace-media-group&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-auto-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external autonumber" href="https://www.mtg.com/mtgnordics-and-tdcgroup-combination/" rel="nofollow">[1]</a></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.mtg.com/press-releases/mtg-announces-sale-of-nova-group" rel="nofollow">"MTG announces sale of Nova Group"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MTG+announces+sale+of+Nova+Group&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-announces-sale-of-nova-group&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.nentgroup.com/home-page" rel="nofollow">"Home page"</a>. <i>Nordic entertainment group</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nordic+entertainment+group&amp;rft.atitle=Home+page&amp;rft_id=https%3A%2F%2Fwww.nentgroup.com%2Fhome-page&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.mtg.com/mtg-nordic-entertainment-split/" rel="nofollow">"One becomes two: MTG and Nordic Entertainment Group split"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=One+becomes+two%3A+MTG+and+Nordic+Entertainment+Group+split&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fmtg-nordic-entertainment-split%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.mtg.com/press-releases/mtg-increases-ownership-in-global-online-video-publisher-zoomin-tv" rel="nofollow">"MTG increases ownership in Zoomin.TV"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MTG+increases+ownership+in+Zoomin.TV&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fmtg-increases-ownership-in-global-online-video-publisher-zoomin-tv&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.mtg.com/press-releases/splay-and-nice-one-to-become-splayone" rel="nofollow">"Splay and Nice One to become SplayOne"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Splay+and+Nice+One+to+become+SplayOne&amp;rft_id=https%3A%2F%2Fwww.mtg.com%2Fpress-releases%2Fsplay-and-nice-one-to-become-splayone&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.nentgroup.com/investors/press-releases-ir-page" rel="nofollow">"Press Releases - IR page"</a>. <i>Nordic entertainment group</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-04-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nordic+entertainment+group&amp;rft.atitle=Press+Releases+-+IR+page&amp;rft_id=https%3A%2F%2Fwww.nentgroup.com%2Finvestors%2Fpress-releases-ir-page&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+Times+Group"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Modern_Times_Group" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Modern_Times_Group" title="Template:Modern Times Group"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:Modern_Times_Group&amp;action=edit&amp;redlink=1" title="Template talk:Modern Times Group (page does not exist)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Modern_Times_Group&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Modern_Times_Group" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Modern Times Group</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">Television</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;background-color: #eee;"><a href="/wiki/Nordic_Entertainment_Group" title="Nordic Entertainment Group">Nordic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/TV3_(Viasat)" title="TV3 (Viasat)">TV3</a>
+<ul><li><a href="/wiki/TV3_(Denmark)" title="TV3 (Denmark)">Denmark</a>
+<ul><li><a class="mw-redirect" href="/wiki/TV3_MAX" title="TV3 MAX">MAX</a></li>
+<li><a href="/wiki/TV3_Puls" title="TV3 Puls">Puls</a></li>
+<li><a href="/wiki/TV3_Sport" title="TV3 Sport">Sport</a></li>
+<li><a href="/wiki/TV3%2B_(Denmark)" title="TV3+ (Denmark)">TV3+</a></li></ul></li>
+<li><a href="/wiki/TV3_(Norway)" title="TV3 (Norway)">Norway</a></li>
+<li><a href="/wiki/TV3_(Sweden)" title="TV3 (Sweden)">Sweden</a>
+<ul><li><a class="new" href="/w/index.php?title=TV3_Sport_(Sweden)&amp;action=edit&amp;redlink=1" title="TV3 Sport (Sweden) (page does not exist)">Sport</a></li></ul></li></ul></li>
+<li>TV6
+<ul><li><a class="new" href="/w/index.php?title=TV6_(Norway)&amp;action=edit&amp;redlink=1" title="TV6 (Norway) (page does not exist)">Norway</a></li>
+<li><a href="/wiki/TV6_(Sweden)" title="TV6 (Sweden)">Sweden</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/TV8_(Sweden)" title="TV8 (Sweden)">TV8</a></li>
+<li><a href="/wiki/TV10_(Sweden)" title="TV10 (Sweden)">TV10</a></li>
+<li><a href="/wiki/TV3_Sport_HD" title="TV3 Sport HD">TV3 Sport HD</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;background-color: #eee;">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=Epic_Drama&amp;action=edit&amp;redlink=1" title="Epic Drama (page does not exist)">Epic Drama</a></li>
+<li><a class="new" href="/w/index.php?title=ESportsTV&amp;action=edit&amp;redlink=1" title="ESportsTV (page does not exist)">ESportsTV</a></li>
+<li>FTV Prima
+<ul><li><a class="new" href="/w/index.php?title=Prima_Comedy_Central&amp;action=edit&amp;redlink=1" title="Prima Comedy Central (page does not exist)">Prima Comedy Central</a></li>
+<li><a href="/wiki/Prima_Cool" title="Prima Cool">Prima Cool</a></li>
+<li><a class="new" href="/w/index.php?title=Prima_Family&amp;action=edit&amp;redlink=1" title="Prima Family (page does not exist)">Prima Family</a></li>
+<li><a href="/wiki/Prima_Love" title="Prima Love">Prima Love</a></li>
+<li><a href="/wiki/Prima_televize" title="Prima televize">Prima televize</a></li>
+<li><a href="/wiki/TV_R1" title="TV R1">TV R1</a></li></ul></li>
+<li>TV1000
+<ul><li><a href="/wiki/TV1000_Action_East" title="TV1000 Action East">Action East</a></li>
+<li><a href="/wiki/TV1000_East" title="TV1000 East">East</a></li>
+<li><a href="/wiki/TV1000_Russkoe_Kino" title="TV1000 Russkoe Kino">Russkoe Kino</a></li>
+<li><a class="new" href="/w/index.php?title=TV1000_World_Kino&amp;action=edit&amp;redlink=1" title="TV1000 World Kino (page does not exist)">World Kino</a></li></ul></li>
+<li><a href="/wiki/Viasport" title="Viasport">Viasport</a></li>
+<li>Vip
+<ul><li><a class="new" href="/w/index.php?title=Vip_Comedy&amp;action=edit&amp;redlink=1" title="Vip Comedy (page does not exist)">Comedy</a></li>
+<li><a class="new" href="/w/index.php?title=Vip_Megahit&amp;action=edit&amp;redlink=1" title="Vip Megahit (page does not exist)">Megahit</a></li>
+<li><a class="new" href="/w/index.php?title=Vip_Premium&amp;action=edit&amp;redlink=1" title="Vip Premium (page does not exist)">Premium</a></li>
+<li><a class="new" href="/w/index.php?title=Vip_Seriale&amp;action=edit&amp;redlink=1" title="Vip Seriale (page does not exist)">Seriale</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;background-color: #eee;"><a href="/wiki/Viasat" title="Viasat">Viasat</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Viasat_4" title="Viasat 4">4</a></li>
+<li><a href="/wiki/Viasat_Explore" title="Viasat Explore">Explore</a></li>
+<li><a href="/wiki/Viasat_Film" title="Viasat Film">Film</a>
+<ul><li><a class="mw-redirect" href="/wiki/Viasat_Film_Action" title="Viasat Film Action">Action</a></li>
+<li><a class="mw-redirect" href="/wiki/Viasat_Film_Comedy" title="Viasat Film Comedy">Comedy</a></li>
+<li><a class="mw-redirect" href="/wiki/Viasat_Film_Family" title="Viasat Film Family">Family</a></li>
+<li><a class="mw-redirect" href="/wiki/Viasat_Film_Hits" title="Viasat Film Hits">Hits</a></li>
+<li><a class="mw-redirect" href="/wiki/Viasat_Film_Premiere" title="Viasat Film Premiere">Premiere</a></li></ul></li>
+<li><a href="/wiki/Viasat_Fotboll" title="Viasat Fotboll">Fotboll</a></li>
+<li><a href="/wiki/Viasat_Golf" title="Viasat Golf">Golf</a></li>
+<li><a href="/wiki/Viasat_History" title="Viasat History">History</a></li>
+<li><a href="/wiki/Viasat_Hockey" title="Viasat Hockey">Hockey</a></li>
+<li><a class="new" href="/w/index.php?title=Viasat_J%C3%A4%C3%A4kieko&amp;action=edit&amp;redlink=1" title="Viasat Jääkieko (page does not exist)">Jääkiekko</a></li>
+<li><a class="new" href="/w/index.php?title=Viasat_Jalkapallo&amp;action=edit&amp;redlink=1" title="Viasat Jalkapallo (page does not exist)">Jalkapallo</a></li>
+<li><a href="/wiki/Viasat_Motor" title="Viasat Motor">Motor</a></li>
+<li><a href="/wiki/Viasat_Nature" title="Viasat Nature">Nature</a></li>
+<li><a href="/wiki/Viasat_Sport_(Sweden)#Viasat_Premier_League_HD" title="Viasat Sport (Sweden)">Premier League HD</a></li>
+<li><a href="/wiki/Viasat_Series" title="Viasat Series">Series</a></li>
+<li><a href="/wiki/Viasat_Sport" title="Viasat Sport">Sport</a>
+<ul><li><a href="/wiki/Viasat_Sport_East" title="Viasat Sport East">East</a></li>
+<li><a href="/wiki/Viasat_Sport_(Sweden)" title="Viasat Sport (Sweden)">Sweden</a></li>
+<li><a class="new" href="/w/index.php?title=Viasat_Sport_Premium&amp;action=edit&amp;redlink=1" title="Viasat Sport Premium (page does not exist)">Premium</a></li></ul></li>
+<li><a class="new" href="/w/index.php?title=Viasat_Ultra_HD&amp;action=edit&amp;redlink=1" title="Viasat Ultra HD (page does not exist)">Ultra HD</a></li>
+<li><a class="new" href="/w/index.php?title=Viasat_Urheilu&amp;action=edit&amp;redlink=1" title="Viasat Urheilu (page does not exist)">Urheilu</a></li>
+<li><a class="new" href="/w/index.php?title=Viasat_Xtra&amp;action=edit&amp;redlink=1" title="Viasat Xtra (page does not exist)">Xtra</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">MTG Studios</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Strix_(TV_production_company)" title="Strix (TV production company)">Strix</a></li>
+<li><a class="mw-redirect" href="/wiki/The_Bar_(TV_series)" title="The Bar (TV series)">The Bar</a></li>
+<li><a class="mw-redirect" href="/wiki/The_Farm_(TV_series)" title="The Farm (TV series)">The Farm</a></li>
+<li><a href="/wiki/Expedition_Robinson" title="Expedition Robinson">Expedition Robinson</a></li>
+<li><a href="/wiki/A_Fazenda" title="A Fazenda">A Fazenda</a></li>
+<li><a href="/wiki/Club_Goa" title="Club Goa">Club Goa</a></li>
+<li><a href="/wiki/Klasse_10_B" title="Klasse 10 B">Klasse 10 B</a></li>
+<li><a class="mw-redirect" href="/wiki/Kmetija_Slavnih" title="Kmetija Slavnih">Kmetija Slavnih</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">MTG Radio</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bandit_Rock" title="Bandit Rock">Bandit Rock</a></li>
+<li><a class="new" href="/w/index.php?title=Lugna_favoriter&amp;action=edit&amp;redlink=1" title="Lugna favoriter (page does not exist)">Lugna favoriter</a></li>
+<li><a href="/wiki/P4_Radio_Hele_Norge" title="P4 Radio Hele Norge">P4 Radio Hele Norge</a></li>
+<li><a class="new" href="/w/index.php?title=P5_Hits&amp;action=edit&amp;redlink=1" title="P5 Hits (page does not exist)">P5 Hits</a></li>
+<li><a class="new" href="/w/index.php?title=P6_Rock&amp;action=edit&amp;redlink=1" title="P6 Rock (page does not exist)">P6 Rock</a></li>
+<li><a class="new" href="/w/index.php?title=P7_Klem&amp;action=edit&amp;redlink=1" title="P7 Klem (page does not exist)">P7 Klem</a></li>
+<li><a class="new" href="/w/index.php?title=P8_Pop&amp;action=edit&amp;redlink=1" title="P8 Pop (page does not exist)">P8 Pop</a></li>
+<li><a class="new" href="/w/index.php?title=P9_Retro&amp;action=edit&amp;redlink=1" title="P9 Retro (page does not exist)">P9 Retro</a></li>
+<li><a class="new" href="/w/index.php?title=P10_Country&amp;action=edit&amp;redlink=1" title="P10 Country (page does not exist)">P10 Country</a></li>
+<li>Star FM
+<ul><li><a class="new" href="/w/index.php?title=Star_FM_(Estonia)&amp;action=edit&amp;redlink=1" title="Star FM (Estonia) (page does not exist)">Estonia</a></li>
+<li><a class="mw-redirect" href="/wiki/Star_FM_(Latvia)" title="Star FM (Latvia)">Latvia</a></li>
+<li><a class="new" href="/w/index.php?title=Star_FM_(Sweden)&amp;action=edit&amp;redlink=1" title="Star FM (Sweden) (page does not exist)">Sweden</a></li></ul></li>
+<li>Power Hit Radio
+<ul><li><a href="/wiki/Power_Hit_Radio_(Estonia)" title="Power Hit Radio (Estonia)">Estonia</a></li>
+<li><a href="/wiki/Power_Hit_Radio_(Lithuania)" title="Power Hit Radio (Lithuania)">Lithuania</a></li>
+<li><a class="new" href="/w/index.php?title=Power_Hit_Radio_(Sweden)&amp;action=edit&amp;redlink=1" title="Power Hit Radio (Sweden) (page does not exist)">Sweden</a></li></ul></li>
+<li><a class="new" href="/w/index.php?title=Radio_Nova_News&amp;action=edit&amp;redlink=1" title="Radio Nova News (page does not exist)">Radio Nova News</a></li>
+<li><a class="new" href="/w/index.php?title=Radio_Volna&amp;action=edit&amp;redlink=1" title="Radio Volna (page does not exist)">Radio Volna</a></li>
+<li><a class="new" href="/w/index.php?title=Rix_FM&amp;action=edit&amp;redlink=1" title="Rix FM (page does not exist)">Rix FM</a></li>
+<li><a class="new" href="/w/index.php?title=Trace_FM&amp;action=edit&amp;redlink=1" title="Trace FM (page does not exist)">Trace FM</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">Other ventures</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/DreamHack" title="DreamHack">DreamHack</a></li>
+<li><a class="mw-redirect" href="/wiki/Electronic_Sports_League" title="Electronic Sports League">Electronic Sports League</a> (<a href="/wiki/Intel_Extreme_Masters" title="Intel Extreme Masters">Intel Extreme Masters</a>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">Former</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Viasat#Former_channels" title="Viasat">Cinema</a></li>
+<li><a href="/wiki/Viasat#Former_channels" title="Viasat">Cinema 2</a></li>
+<li><a href="/wiki/Viasat#Former_channels" title="Viasat">Cinema 3</a></li>
+<li><a class="mw-redirect" href="/wiki/MM_(television)" title="MM (television)">MM</a></li>
+<li>Nova Broadcasting Group
+<ul><li><a href="/wiki/Diema" title="Diema">Diema</a></li>
+<li><a href="/wiki/Diema_Family" title="Diema Family">Diema Family</a></li>
+<li><a href="/wiki/Diema_Sport" title="Diema Sport">Diema Sport</a></li>
+<li><a href="/wiki/Kino_Nova" title="Kino Nova">Kino Nova</a></li>
+<li><a href="/wiki/Nova_Sport_(Bulgaria)#Nova_Premier_League_HD" title="Nova Sport (Bulgaria)">Nova Premier League HD</a></li>
+<li><a href="/wiki/Nova_Sport_(Bulgaria)" title="Nova Sport (Bulgaria)">Nova Sport</a></li>
+<li><a href="/wiki/Nova_television_(Bulgaria)" title="Nova television (Bulgaria)">Nova television</a></li>
+<li><a href="/wiki/Nova%2B" title="Nova+">Nova+</a></li></ul></li>
+<li><a href="/wiki/Sportkanalen" title="Sportkanalen">Sportkanalen</a></li>
+<li>Trace
+<ul><li><a href="/wiki/Trace_Africa" title="Trace Africa">Africa</a></li>
+<li><a class="new" href="/w/index.php?title=Trace_Gospel&amp;action=edit&amp;redlink=1" title="Trace Gospel (page does not exist)">Gospel</a></li>
+<li><a class="new" href="/w/index.php?title=Trace_Naija&amp;action=edit&amp;redlink=1" title="Trace Naija (page does not exist)">Naija</a></li>
+<li><a class="new" href="/w/index.php?title=Trace_Mziki&amp;action=edit&amp;redlink=1" title="Trace Mziki (page does not exist)">Mziki</a></li>
+<li><a href="/wiki/Trace_Sport_Stars" title="Trace Sport Stars">Sport Stars</a></li>
+<li><a class="new" href="/w/index.php?title=Trace_Toca&amp;action=edit&amp;redlink=1" title="Trace Toca (page does not exist)">Toca</a></li>
+<li><a class="new" href="/w/index.php?title=Trace_Tropical&amp;action=edit&amp;redlink=1" title="Trace Tropical (page does not exist)">Tropical</a></li>
+<li><a href="/wiki/Trace_Urban" title="Trace Urban">Urban</a></li></ul></li>
+<li><a class="new" href="/w/index.php?title=TV1000_2&amp;action=edit&amp;redlink=1" title="TV1000 2 (page does not exist)">TV1000 2</a></li>
+<li><a class="new" href="/w/index.php?title=TV1000_3&amp;action=edit&amp;redlink=1" title="TV1000 3 (page does not exist)">TV1000 3</a></li>
+<li><a class="new" href="/w/index.php?title=TV1000_Plus_One&amp;action=edit&amp;redlink=1" title="TV1000 Plus One (page does not exist)">TV1000 Plus One</a></li>
+<li><a href="/wiki/TV1000_Poland" title="TV1000 Poland">TV1000 Poland</a></li>
+<li><a href="/wiki/TV1_(Tanzania)" title="TV1 (Tanzania)">TV1</a></li>
+<li><a href="/wiki/TV3_Slovenia" title="TV3 Slovenia">TV3 Slovenia</a></li>
+<li><a href="/wiki/TV3_Sport_2" title="TV3 Sport 2">TV3 Sport 2</a></li>
+<li><a href="/wiki/TV6_(1994)" title="TV6 (1994)">TV6 (1994)</a></li>
+<li><a href="/wiki/Viasat_3" title="Viasat 3">Viasat 3</a></li>
+<li><a href="/wiki/Viasat_6" title="Viasat 6">Viasat 6</a></li>
+<li><a href="/wiki/Viasat_Fotball" title="Viasat Fotball">Viasat Fotball</a></li>
+<li><a href="/wiki/Viasat_Plus" title="Viasat Plus">Viasat Plus</a></li>
+<li><a href="/wiki/Viasat_Sport_2" title="Viasat Sport 2">Viasat Sport 2</a></li>
+<li><a href="/wiki/Viasat_Sport_24" title="Viasat Sport 24">Viasat Sport 24</a></li>
+<li><a href="/wiki/Viasat_Sport_3" title="Viasat Sport 3">Viasat Sport 3</a></li>
+<li><a href="/wiki/Viasat_Sport_N" title="Viasat Sport N">Viasat Sport N</a></li>
+<li><a href="/wiki/Viasat_Ticket" title="Viasat Ticket">Viasat Ticket</a></li>
+<li><a href="/wiki/ZTV" title="ZTV">ZTV Sweden</a></li>
+<li><a href="/wiki/ZTV_Norway" title="ZTV Norway">ZTV Norway</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <b><a href="/wiki/Category:Modern_Times_Group" title="Category:Modern Times Group">Category</a></b></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Modern_Times_Group" title="commons:Category:Modern Times Group">Commons</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Kinnevik_Group" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Kinnevik_Group" title="Template:Kinnevik Group"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Kinnevik_Group" title="Template talk:Kinnevik Group"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Kinnevik_Group&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Kinnevik_Group" style="font-size:114%;margin:0 4em"><a class="mw-redirect" href="/wiki/Investment_AB_Kinnevik" title="Investment AB Kinnevik">Kinnevik Group</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">Listed Companies</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Investment_AB_Kinnevik" title="Investment AB Kinnevik">Kinnevik</a> (<a href="/wiki/Nasdaq_Nordic" title="Nasdaq Nordic">Nasdaq Stockholm</a>: <a class="external text" href="http://www.nasdaqomxnordic.com/aktier/microsite?languageId=1&amp;Instrument=SSE999" rel="nofollow">KINV B</a>)</li>
+<li><a href="/wiki/Millicom" title="Millicom">Millicom International Cellular</a> (<a href="/wiki/Nasdaq_Nordic" title="Nasdaq Nordic">Nasdaq Stockholm</a>: <a class="external text" href="http://www.nasdaqomxnordic.com/aktier/microsite?languageId=1&amp;Instrument=SSE24507" rel="nofollow">MIC SDB</a>)</li>
+<li><a href="/wiki/Tele2" title="Tele2">Tele2</a> (<a href="/wiki/Nasdaq_Nordic" title="Nasdaq Nordic">Nasdaq Stockholm</a>: <a class="external text" href="http://www.nasdaqomxnordic.com/aktier/microsite?languageId=1&amp;Instrument=SSE1027" rel="nofollow">TEL2 B</a>)</li>
+<li><a class="mw-selflink selflink">Modern Times Group</a> (<a href="/wiki/Nasdaq_Nordic" title="Nasdaq Nordic">Nasdaq Stockholm</a>: <a class="external text" href="http://www.nasdaqomxnordic.com/aktier/microsite?languageId=1&amp;Instrument=SSE3598" rel="nofollow">MTG A</a>, <a class="external text" href="http://www.nasdaqomxnordic.com/shares/shareinformation?Instrument=SSE3599" rel="nofollow">MTG B</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Transcom_WorldWide" title="Transcom WorldWide">Transcom WorldWide</a> (<a href="/wiki/Nasdaq_Nordic" title="Nasdaq Nordic">Nasdaq Stockholm</a>: <a class="external text" href="http://www.nasdaqomxnordic.com/aktier/microsite?languageId=1&amp;Instrument=SSE14353" rel="nofollow">TWW SDB A</a>, <a class="external text" href="http://www.nasdaqomxnordic.com/shares/shareinformation?Instrument=SSE14354" rel="nofollow">TWW SDB B</a>)</li>
+<li>BillerudKorsnäs (<a href="/wiki/Nasdaq_Nordic" title="Nasdaq Nordic">Nasdaq Stockholm</a>: <a class="external text" href="http://www.nasdaqomxnordic.com/aktier/microsite?languageId=1&amp;Instrument=SSE14922" rel="nofollow">BILL</a>)</li>
+<li>CDON (<a href="/wiki/Nasdaq_Nordic" title="Nasdaq Nordic">Nasdaq Stockholm</a>: <a class="external text" href="http://www.nasdaqomxnordic.com/aktier/microsite?languageId=1&amp;Instrument=SSE79303" rel="nofollow">CDON</a>)</li>
+<li><a href="/wiki/Black_Earth_Farming" title="Black Earth Farming">Black Earth Farming</a> (<a href="/wiki/Nasdaq_Nordic" title="Nasdaq Nordic">Nasdaq Stockholm</a>: <a class="external text" href="http://www.nasdaqomxnordic.com/aktier/microsite?languageId=1&amp;Instrument=SSE66922" rel="nofollow">BEF SDB</a>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">Brands and Subsidiaries</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Viasat" title="Viasat">Viasat</a></li>
+<li><a href="/wiki/Strix_(TV_production_company)" title="Strix (TV production company)">Strix</a></li>
+<li><a href="/wiki/Comviq" title="Comviq">Comviq</a></li>
+<li><a href="/wiki/Metro_International" title="Metro International">Metro International</a></li>
+<li><a class="mw-redirect" href="/wiki/Tigo" title="Tigo">Tigo</a></li>
+<li><a href="/wiki/NuComm_International" title="NuComm International">NuComm International</a></li>
+<li>Mellersta Sveriges Lantbruks AB</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">Former Holdings</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vodafone" title="Vodafone">Vodafone</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/SES_S.A." title="SES S.A.">SES S.A.</a></li>
+<li><a href="/wiki/Sandvik" title="Sandvik">Sandvik</a></li>
+<li>Invik<sup><small>2</small></sup></li>
+<li>Fagersta<sup><small>2</small></sup></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">People</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jan_Stenbeck" title="Jan Stenbeck">Jan Stenbeck</a></li>
+<li><a href="/wiki/Hugo_Stenbeck" title="Hugo Stenbeck">Hugo Stenbeck</a></li>
+<li><a href="/wiki/Cristina_Stenbeck" title="Cristina Stenbeck">Cristina Stenbeck</a></li>
+<li><a href="/wiki/Margaretha_af_Ugglas" title="Margaretha af Ugglas">Margaretha af Ugglas</a></li>
+<li>Wilhelm Klingspor</li>
+<li>Robert von Horn</li>
+<li><a href="/wiki/Mia_Brunell" title="Mia Brunell">Mia Brunell Livfors</a></li>
+<li><a href="/wiki/Hans-Holger_Albrecht" title="Hans-Holger Albrecht">Hans-Holger Albrecht</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><small><sup>1</sup> <i>Millicom was co-founder in 1982, owning 15%.</i>  <sup>2</sup> <i>Merged with Kinnevik in reverse acquisition transactions.</i></small><br/><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <b><a href="/wiki/Category:Stenbeck_family" title="Category:Stenbeck family">Category</a></b></div></td></tr></tbody></table></div>
+<div aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_OMX_Stockholm_30_companies_of_Sweden" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:OMX_Stockholm_30_companies" title="Template:OMX Stockholm 30 companies"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:OMX_Stockholm_30_companies" title="Template talk:OMX Stockholm 30 companies"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:OMX_Stockholm_30_companies&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_OMX_Stockholm_30_companies_of_Sweden" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" class="thumbborder" data-file-height="1000" data-file-width="1600" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" width="23"/></span> <a href="/wiki/OMX_Stockholm_30" title="OMX Stockholm 30">OMX Stockholm 30</a> companies of <a href="/wiki/Sweden" title="Sweden">Sweden</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ABB_Group" title="ABB Group">ABB</a></li>
+<li><a href="/wiki/Alfa_Laval" title="Alfa Laval">Alfa Laval</a></li>
+<li><a href="/wiki/Assa_Abloy" title="Assa Abloy">Assa Abloy</a></li>
+<li><a href="/wiki/AstraZeneca" title="AstraZeneca">AstraZeneca</a></li>
+<li><a href="/wiki/Atlas_Copco" title="Atlas Copco">Atlas Copco</a></li>
+<li><a href="/wiki/Boliden_AB" title="Boliden AB">Boliden</a></li>
+<li><a href="/wiki/Electrolux" title="Electrolux">Electrolux</a></li>
+<li><a href="/wiki/Ericsson" title="Ericsson">Ericsson</a></li>
+<li><a href="/wiki/Essity" title="Essity">Essity</a></li>
+<li><a href="/wiki/Getinge_Group" title="Getinge Group">Getinge</a></li>
+<li><a href="/wiki/H%26M" title="H&amp;M">Hennes &amp; Mauritz</a></li>
+<li><a href="/wiki/Investor_AB" title="Investor AB">Investor AB</a></li>
+<li><a class="mw-redirect" href="/wiki/Kinnevik" title="Kinnevik">Kinnevik</a></li>
+<li><a href="/wiki/Lundin_Petroleum" title="Lundin Petroleum">Lundin Petroleum</a></li>
+<li><a class="mw-selflink selflink">Modern Times Group</a></li>
+<li><a href="/wiki/Nokia" title="Nokia">Nokia</a></li>
+<li><a href="/wiki/Nordea" title="Nordea">Nordea</a></li>
+<li><a href="/wiki/Sandvik" title="Sandvik">Sandvik</a></li>
+<li><a href="/wiki/SCA_(company)" title="SCA (company)">SCA</a></li>
+<li><a class="mw-redirect" href="/wiki/Skandinaviska_Enskilda_Banken" title="Skandinaviska Enskilda Banken">SEB</a></li>
+<li><a href="/wiki/Securitas_AB" title="Securitas AB">Securitas</a></li>
+<li><a href="/wiki/Skanska" title="Skanska">Skanska</a></li>
+<li><a href="/wiki/SKF" title="SKF">SKF</a></li>
+<li><a href="/wiki/SSAB" title="SSAB">SSAB</a></li>
+<li><a href="/wiki/Handelsbanken" title="Handelsbanken">Svenska Handelsbanken</a></li>
+<li><a href="/wiki/Swedbank" title="Swedbank">Swedbank</a></li>
+<li><a href="/wiki/Swedish_Match" title="Swedish Match">Swedish Match</a></li>
+<li><a href="/wiki/Tele2" title="Tele2">Tele2</a></li>
+<li><a href="/wiki/Telia_Company" title="Telia Company">Telia</a></li>
+<li><a href="/wiki/Volvo" title="Volvo">Volvo</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1304
+Cached time: 20191218152309
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.676 seconds
+Real time usage: 0.847 seconds
+Preprocessor visited node count: 3146/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 132786/2097152 bytes
+Template argument size: 6672/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 105219/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.351/10.000 seconds
+Lua memory usage: 6.5 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  704.695      1 -total
+ 42.07%  296.491      1 Template:Reflist
+ 31.45%  221.615     30 Template:Cite_web
+ 31.03%  218.646      1 Template:Infobox_company
+ 28.70%  202.244      1 Template:Infobox
+ 14.74%  103.866      1 Template:Multiple_issues
+ 14.10%   99.332     13 Template:Wikidata
+ 13.94%   98.220      4 Template:Ambox
+ 11.88%   83.743      1 Template:Br_separated_entries
+  7.14%   50.334      4 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:493176-0!canonical and timestamp 20191218152309 and revision id 931026790
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Modern_Times_Group&amp;oldid=931026790">https://en.wikipedia.org/w/index.php?title=Modern_Times_Group&amp;oldid=931026790</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Media_companies_of_Sweden" title="Category:Media companies of Sweden">Media companies of Sweden</a></li><li><a href="/wiki/Category:Modern_Times_Group" title="Category:Modern Times Group">Modern Times Group</a></li><li><a href="/wiki/Category:1987_establishments_in_Sweden" title="Category:1987 establishments in Sweden">1987 establishments in Sweden</a></li><li><a href="/wiki/Category:Companies_established_in_1987" title="Category:Companies established in 1987">Companies established in 1987</a></li><li><a href="/wiki/Category:Companies_based_in_Stockholm" title="Category:Companies based in Stockholm">Companies based in Stockholm</a></li><li><a href="/wiki/Category:Companies_listed_on_the_Stockholm_Stock_Exchange" title="Category:Companies listed on the Stockholm Stock Exchange">Companies listed on the Stockholm Stock Exchange</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_cleanup_from_June_2017" title="Category:Articles needing cleanup from June 2017">Articles needing cleanup from June 2017</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_with_sections_that_need_to_be_turned_into_prose_from_June_2017" title="Category:Articles with sections that need to be turned into prose from June 2017">Articles with sections that need to be turned into prose from June 2017</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_November_2019" title="Category:Articles needing cleanup from November 2019">Articles needing cleanup from November 2019</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_April_2010" title="Category:Articles needing cleanup from April 2010">Articles needing cleanup from April 2010</a></li><li><a href="/wiki/Category:Articles_with_sections_that_need_to_be_turned_into_prose_from_April_2010" title="Category:Articles with sections that need to be turned into prose from April 2010">Articles with sections that need to be turned into prose from April 2010</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Modern+Times+Group" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Modern+Times+Group" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Modern_Times_Group" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Modern_Times_Group" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Modern_Times_Group">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Modern_Times_Group&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Modern_Times_Group&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Modern_Times_Group" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Modern_Times_Group" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Modern_Times_Group&amp;oldid=931026790" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Modern_Times_Group&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q378944" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Modern_Times_Group&amp;id=931026790" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Modern_Times_Group" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Modern+Times+Group">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Modern+Times+Group&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Modern_Times_Group&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-azb"><a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D9%85%D8%AF%D8%B1%D9%86_%D8%AA%D8%A7%DB%8C%D9%85%D8%B2_%D9%82%D8%B1%D9%88%D9%BE" hreflang="azb" lang="azb" title="مدرن تایمز قروپ – South Azerbaijani">تۆرکجه</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D1%8A%D1%80%D0%BD_%D0%A2%D0%B0%D0%B9%D0%BC%D1%81_%D0%93%D1%80%D1%83%D0%BF" hreflang="bg" lang="bg" title="Модърн Таймс Груп – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Modern_Times_Group" hreflang="da" lang="da" title="Modern Times Group – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Modern_Times_Group" hreflang="de" lang="de" title="Modern Times Group – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Modern_Times_Group" hreflang="et" lang="et" title="Modern Times Group – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%AF%D8%B1%D9%86_%D8%AA%D8%A7%DB%8C%D9%85%D8%B2_%DA%AF%D8%B1%D9%88%D9%BE" hreflang="fa" lang="fa" title="مدرن تایمز گروپ – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Modern_Times_Group" hreflang="fr" lang="fr" title="Modern Times Group – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%8D%98_%ED%83%80%EC%9E%84%EC%8A%A4_%EA%B7%B8%EB%A3%B9" hreflang="ko" lang="ko" title="모던 타임스 그룹 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/Modern_Times_Group" hreflang="hy" lang="hy" title="Modern Times Group – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/Modern_Times_Group" hreflang="he" lang="he" title="Modern Times Group – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/MTG" hreflang="lv" lang="lv" title="MTG – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Modern_Times_Group" hreflang="hu" lang="hu" title="Modern Times Group – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Modern_Times_Group" hreflang="nb" lang="nb" title="Modern Times Group – Norwegian Bokmål">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Modern_Times_Group" hreflang="nn" lang="nn" title="Modern Times Group – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Modern_Times_Group" hreflang="pt" lang="pt" title="Modern Times Group – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/Modern_Times_Group" hreflang="ru" lang="ru" title="Modern Times Group – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Modern_Times_Group" hreflang="fi" lang="fi" title="Modern Times Group – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/MTG" hreflang="sv" lang="sv" title="MTG – Swedish">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q378944#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 December 2019, at 13:52<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Modern_Times_Group&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.676","walltime":"0.847","ppvisitednodes":{"value":3146,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":132786,"limit":2097152},"templateargumentsize":{"value":6672,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":105219,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  704.695      1 -total"," 42.07%  296.491      1 Template:Reflist"," 31.45%  221.615     30 Template:Cite_web"," 31.03%  218.646      1 Template:Infobox_company"," 28.70%  202.244      1 Template:Infobox"," 14.74%  103.866      1 Template:Multiple_issues"," 14.10%   99.332     13 Template:Wikidata"," 13.94%   98.220      4 Template:Ambox"," 11.88%   83.743      1 Template:Br_separated_entries","  7.14%   50.334      4 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.351","limit":"10.000"},"limitreport-memusage":{"value":6814188,"limit":52428800}},"cachereport":{"origin":"mw1304","timestamp":"20191218152309","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Modern Times Group","url":"https:\/\/en.wikipedia.org\/wiki\/Modern_Times_Group","sameAs":"http:\/\/www.wikidata.org\/entity\/Q378944","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q378944","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-28T14:18:06Z","dateModified":"2019-12-16T13:52:25Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/d\/dd\/Modern_Times_Group_logo.svg","headline":"company"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":122,"wgHostname":"mw1265"});});</script>
+
+
+</body></html>

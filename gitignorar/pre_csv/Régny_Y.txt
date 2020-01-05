@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Régny - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xft-ngpAMFMAAEykIgkAAABQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Régny","wgTitle":"Régny","wgCurRevisionId":918930474,"wgRevisionId":918930474,"wgArticleId":15809819,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Infobox mapframe without OSM relation ID on Wikidata","Coordinates on Wikidata","Commons category link from Wikidata","All stub articles","Pages using the Kartographer extension",
+"Communes of Loire (department)","Loire geography stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Régny","wgRelevantArticleId":15809819,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgKartographerLiveData":{"_676092c28f641c423c83e42c370ddd17f6e9709e":[{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q1107311","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Régny","fill":
+"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q1107311","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Régny"}},{"type":"Feature","geometry":{"coordinates":[4.2147222222222,45.990833333333],"type":"Point"},"properties":{"title":"Régny","marker-color":"#5E74F3"}},{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q1107311","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Régny","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q1107311","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Régny"}},{"type":"Feature","geometry":{"coordinates":[4.2147222222222,45.990833333333],"type":"Point"},"properties":{"title":"Régny","marker-color":"#5E74F3"}}]},"wgCoordinates":{"lat":45.9917,"lon":4.2156},"wgWikibaseItemId":"Q1107311","wgCentralAuthMobileDomain":
+!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gare_de_R%C3%A9gny.JPG/1200px-Gare_de_R%C3%A9gny.JPG" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/R%C3%A9gny" rel="alternate"/>
+<link href="/w/index.php?title=R%C3%A9gny&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=R%C3%A9gny&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/R%C3%A9gny" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Régny rootpage-Régny skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Régny</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Commune in Auvergne-Rhône-Alpes, France</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div class="fn org" style="display:inline">Régny</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category">Commune</div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Gare_de_R%C3%A9gny.JPG" title="Railway station"><img alt="Railway station" data-file-height="2848" data-file-width="4272" decoding="async" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gare_de_R%C3%A9gny.JPG/270px-Gare_de_R%C3%A9gny.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gare_de_R%C3%A9gny.JPG/405px-Gare_de_R%C3%A9gny.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gare_de_R%C3%A9gny.JPG/540px-Gare_de_R%C3%A9gny.JPG 2x" width="270"/></a><div style="padding:0.4em 0 0 0;">Railway station</div></td></tr><tr class="mergedtoprow"><td class="maptable" colspan="2" style="text-align:center"><div style="display:table; width:100%; background:none;">
+<div style="display:table-row"><div style="display:table-cell;vertical-align:middle; text-align:center;"><a class="image" href="/wiki/File:Blason_ville_fr_R%C3%A9gny_(Loire).svg" title="Coat of arms of Régny"><img alt="Coat of arms of Régny" data-file-height="660" data-file-width="600" decoding="async" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Blason_ville_fr_R%C3%A9gny_%28Loire%29.svg/73px-Blason_ville_fr_R%C3%A9gny_%28Loire%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Blason_ville_fr_R%C3%A9gny_%28Loire%29.svg/109px-Blason_ville_fr_R%C3%A9gny_%28Loire%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Blason_ville_fr_R%C3%A9gny_%28Loire%29.svg/145px-Blason_ville_fr_R%C3%A9gny_%28Loire%29.svg.png 2x" width="73"/></a><br/>Coat of arms</div></div></div></td></tr><tr class="mergedrow"><td colspan="2" style="text-align:center"><div class="mw-collapsible mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:center;;height:5px;">Location of Régny</div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;">
+<div class="center" style="margin-top:1em"><a class="mw-kartographer-map mw-kartographer-container center" data-height="200" data-mw="interface" data-overlays='["_676092c28f641c423c83e42c370ddd17f6e9709e"]' data-style="osm-intl" data-width="270" data-zoom="11" href="/wiki/Special:Map/11/a/a/en" style="background-image: url(https://maps.wikimedia.org/img/osm-intl,11,a,a,270x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=R%C3%A9gny&amp;groups=_676092c28f641c423c83e42c370ddd17f6e9709e); width: 270px; height: 200px;"></a></div></div></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><div class="switcher-container"><div class="center"><div style="width:270px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:270px;padding:0"><div style="position:relative;width:270px"><a class="image" href="/wiki/File:France_location_map-Regions_and_departements-2016.svg" title="Régny is located in France"><img alt="Régny is located in France" data-file-height="1922" data-file-width="2000" decoding="async" height="259" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/405px-France_location_map-Regions_and_departements-2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/540px-France_location_map-Regions_and_departements-2016.svg.png 2x" width="270"/></a><div style="position:absolute;top:52.46%;left:63.39%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Régny" data-file-height="64" data-file-width="64" decoding="async" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" title="Régny" width="6"/></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right"><div style="display:inline;padding:1px;float:right">Régny</div></div></div></div><div></div><span class="switcher-label" style="display:none">Show map of France</span></div></div></div><div class="center"><div style="width:270px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:270px;padding:0"><div style="position:relative;width:270px"><a class="image" href="/wiki/File:Auvergne-Rh%C3%B4ne-Alpes_region_location_map.svg" title="Régny is located in Auvergne-Rhône-Alpes"><img alt="Régny is located in Auvergne-Rhône-Alpes" data-file-height="825" data-file-width="1052" decoding="async" height="212" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Auvergne-Rh%C3%B4ne-Alpes_region_location_map.svg/270px-Auvergne-Rh%C3%B4ne-Alpes_region_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Auvergne-Rh%C3%B4ne-Alpes_region_location_map.svg/405px-Auvergne-Rh%C3%B4ne-Alpes_region_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Auvergne-Rh%C3%B4ne-Alpes_region_location_map.svg/540px-Auvergne-Rh%C3%B4ne-Alpes_region_location_map.svg.png 2x" width="270"/></a><div style="position:absolute;top:31.962%;left:42.639%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Régny" data-file-height="64" data-file-width="64" decoding="async" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" title="Régny" width="6"/></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right"><div style="display:inline;padding:1px;float:right">Régny</div></div></div></div><div></div><span class="switcher-label" style="display:none">Show map of Auvergne-Rhône-Alpes</span></div></div></div></div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=R%C3%A9gny&amp;params=45.9917_N_4.2156_E_type:city(1560)_region:FR-ARA"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">45°59′30″N</span> <span class="longitude">4°12′56″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">45.9917°N 4.2156°E</span><span style="display:none">﻿ / <span class="geo">45.9917; 4.2156</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=R%C3%A9gny&amp;params=45.9917_N_4.2156_E_type:city(1560)_region:FR-ARA"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">45°59′30″N</span> <span class="longitude">4°12′56″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">45.9917°N 4.2156°E</span><span style="display:none">﻿ / <span class="geo">45.9917; 4.2156</span></span></span></a></span></span></span></td></tr><tr class="mergedtoprow"><th scope="row">Country</th><td><a href="/wiki/France" title="France">France</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Regions_of_France" title="Regions of France">Region</a></th><td><a href="/wiki/Auvergne-Rh%C3%B4ne-Alpes" title="Auvergne-Rhône-Alpes">Auvergne-Rhône-Alpes</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Departments_of_France" title="Departments of France">Department</a></th><td><a href="/wiki/Loire_(department)" title="Loire (department)">Loire</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Arrondissements_of_France" title="Arrondissements of France">Arrondissement</a></th><td><a href="/wiki/Arrondissement_of_Roanne" title="Arrondissement of Roanne">Roanne</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Cantons_of_France" title="Cantons of France">Canton</a></th><td><a href="/wiki/Canton_of_Charlieu" title="Canton of Charlieu">Charlieu</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Communes_of_France#Intercommunality" title="Communes of France">Intercommunality</a></th><td>Pays entre Loire et Rhône</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Government<div style="font-weight:normal;display:inline;"></div></th></tr><tr class="mergedrow"><th scope="row"> • Mayor <style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">(2014–2020) </span></th><td>Julien Siméon</td></tr><tr class="mergedtoprow"><th scope="row">Area<div style="font-weight:normal;display:inline;"><sup><small><b>1</b></small></sup></div></th><td>13.8 km<sup>2</sup> (5.3 sq mi)</td></tr><tr class="mergedtoprow"><th scope="row">Population<div style="font-weight:normal;display:inline;"><span class="nowrap"> </span>(2016-01-01)<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></div></th><td>1,560</td></tr><tr class="mergedrow"><th scope="row"> • Density</th><td>110/km<sup>2</sup> (290/sq mi)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a href="/wiki/UTC%2B01:00" title="UTC+01:00">UTC+01:00</a> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td></tr><tr class="mergedrow"><th scope="row"><span style="white-space:nowrap"> • Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th><td><a href="/wiki/UTC%2B02:00" title="UTC+02:00">UTC+02:00</a> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/INSEE_code" title="INSEE code">INSEE</a>/Postal code</th><td class="adr"><div class="postal-code"><a class="external text" href="https://www.insee.fr/fr/statistiques/1405599?geo=COM-42181" rel="nofollow">42181</a> /42630</div></td></tr><tr class="mergedtoprow"><th scope="row">Elevation</th><td>305–510 m (1,001–1,673 ft) <br/>(avg. 325 m or 1,066 ft)</td></tr><tr><td colspan="2" style="text-align:center;text-align:left;"><sup><b>1</b></sup> French Land Register data, which excludes lakes, ponds, glaciers &gt; 1 km<sup>2</sup> (0.386 sq mi or 247 acres) and river estuaries.</td></tr></tbody></table>
+<p><b>Régny</b> is a <a href="/wiki/Communes_of_France" title="Communes of France">commune</a> in the <a href="/wiki/Loire_(department)" title="Loire (department)">Loire</a> <a href="/wiki/Departments_of_France" title="Departments of France">department</a> in central <a href="/wiki/France" title="France">France</a>.
+</p>
+<h2><span class="mw-headline" id="Population">Population</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R%C3%A9gny&amp;action=edit&amp;section=1" title="Edit section: Population">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" style="width:15em;border-spacing: 0;float:left;clear:left;margin:0.5em 1em 0.5em 0;"><tbody><tr><th class="navbox-title" colspan="3" style="padding:0.25em">Historical population</th></tr><tr style="font-size:95%"><th style="border-bottom:1px solid black;padding:1px;width:3em">Year</th><th style="border-bottom:1px solid black;padding:1px 2px;text-align:right"><abbr title="Population">Pop.</abbr></th><th style="border-bottom:1px solid black;padding:1px;text-align:right"><abbr title="Percent change">±%</abbr></th></tr><tr><th style="text-align:center;padding:1px">1793</th><td style="text-align:right;padding:1px">340</td><td style="text-align:right;padding:1px">—    </td></tr><tr><th style="text-align:center;padding:1px">1806</th><td style="text-align:right;padding:1px">433</td><td style="text-align:right;padding:1px">+27.4%</td></tr><tr><th style="text-align:center;padding:1px">1821</th><td style="text-align:right;padding:1px">400</td><td style="text-align:right;padding:1px">−7.6%</td></tr><tr><th style="text-align:center;padding:1px">1831</th><td style="text-align:right;padding:1px">432</td><td style="text-align:right;padding:1px">+8.0%</td></tr><tr><th style="text-align:center;padding:1px;border-bottom:1px solid #bbbbbb">1841</th><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">452</td><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">+4.6%</td></tr><tr><th style="text-align:center;padding:1px">1851</th><td style="text-align:right;padding:1px">496</td><td style="text-align:right;padding:1px">+9.7%</td></tr><tr><th style="text-align:center;padding:1px">1861</th><td style="text-align:right;padding:1px">509</td><td style="text-align:right;padding:1px">+2.6%</td></tr><tr><th style="text-align:center;padding:1px">1872</th><td style="text-align:right;padding:1px">505</td><td style="text-align:right;padding:1px">−0.8%</td></tr><tr><th style="text-align:center;padding:1px">1881</th><td style="text-align:right;padding:1px">395</td><td style="text-align:right;padding:1px">−21.8%</td></tr><tr><th style="text-align:center;padding:1px;border-bottom:1px solid #bbbbbb">1891</th><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">400</td><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">+1.3%</td></tr><tr><th style="text-align:center;padding:1px">1901</th><td style="text-align:right;padding:1px">358</td><td style="text-align:right;padding:1px">−10.5%</td></tr><tr><th style="text-align:center;padding:1px">1911</th><td style="text-align:right;padding:1px">333</td><td style="text-align:right;padding:1px">−7.0%</td></tr><tr><th style="text-align:center;padding:1px">1921</th><td style="text-align:right;padding:1px">288</td><td style="text-align:right;padding:1px">−13.5%</td></tr><tr><th style="text-align:center;padding:1px">1931</th><td style="text-align:right;padding:1px">280</td><td style="text-align:right;padding:1px">−2.8%</td></tr><tr><th style="text-align:center;padding:1px;border-bottom:1px solid #bbbbbb">1946</th><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">249</td><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">−11.1%</td></tr><tr><th style="text-align:center;padding:1px">1954</th><td style="text-align:right;padding:1px">280</td><td style="text-align:right;padding:1px">+12.4%</td></tr><tr><th style="text-align:center;padding:1px">1962</th><td style="text-align:right;padding:1px">276</td><td style="text-align:right;padding:1px">−1.4%</td></tr><tr><th style="text-align:center;padding:1px">1968</th><td style="text-align:right;padding:1px">256</td><td style="text-align:right;padding:1px">−7.2%</td></tr><tr><th style="text-align:center;padding:1px">1975</th><td style="text-align:right;padding:1px">266</td><td style="text-align:right;padding:1px">+3.9%</td></tr><tr><th style="text-align:center;padding:1px;border-bottom:1px solid #bbbbbb">1982</th><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">256</td><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">−3.8%</td></tr><tr><th style="text-align:center;padding:1px">1990</th><td style="text-align:right;padding:1px">234</td><td style="text-align:right;padding:1px">−8.6%</td></tr><tr><th style="text-align:center;padding:1px">1999</th><td style="text-align:right;padding:1px">247</td><td style="text-align:right;padding:1px">+5.6%</td></tr><tr><th style="text-align:center;padding:1px">2008</th><td style="text-align:right;padding:1px">212</td><td style="text-align:right;padding:1px">−14.2%</td></tr><tr><th style="text-align:center;padding:1px">2016</th><td style="text-align:right;padding:1px">201</td><td style="text-align:right;padding:1px">−5.2%</td></tr></tbody></table>
+<div style="clear:left;"></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R%C3%A9gny&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Communes_of_the_Loire_department" title="Communes of the Loire department">Communes of the Loire department</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R%C3%A9gny&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.insee.fr/fr/statistiques/3681328?geo=COM-42181" rel="nofollow">"Populations légales 2016"</a>. <a href="/wiki/Institut_national_de_la_statistique_et_des_%C3%A9tudes_%C3%A9conomiques" title="Institut national de la statistique et des études économiques">INSEE</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Populations+l%C3%A9gales+2016&amp;rft.pub=INSEE&amp;rft_id=https%3A%2F%2Fwww.insee.fr%2Ffr%2Fstatistiques%2F3681328%3Fgeo%3DCOM-42181&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR%C3%A9gny"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:R%C3%A9gny" title="commons:Category:Régny"><span style="">Régny</span></a></b></i>.</td></tr>
+</tbody></table>
+<div aria-labelledby="Communes_of_the_Loire_department_23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Loire_communes" title="Template:Loire communes"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Loire_communes" title="Template talk:Loire communes"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Loire_communes&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Communes_of_the_Loire_department_23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=" style="font-size:114%;margin:0 4em"><a href="/wiki/Communes_of_the_Loire_department" title="Communes of the Loire department">Communes</a> of the <a href="/wiki/Loire_(department)" title="Loire (department)">Loire</a> department <span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" width="23"/></span></div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abo%C3%ABn" title="Aboën">Aboën</a></li>
+<li><a href="/wiki/Ailleux" title="Ailleux">Ailleux</a></li>
+<li><a href="/wiki/Ambierle" title="Ambierle">Ambierle</a></li>
+<li><a href="/wiki/Andr%C3%A9zieux-Bouth%C3%A9on" title="Andrézieux-Bouthéon">Andrézieux-Bouthéon</a></li>
+<li><a href="/wiki/Apinac" title="Apinac">Apinac</a></li>
+<li><a href="/wiki/Arcinges" title="Arcinges">Arcinges</a></li>
+<li><a href="/wiki/Arcon" title="Arcon">Arcon</a></li>
+<li><a href="/wiki/Arthun" title="Arthun">Arthun</a></li>
+<li><a href="/wiki/Aveizieux" title="Aveizieux">Aveizieux</a></li>
+<li><a href="/wiki/Balbigny" title="Balbigny">Balbigny</a></li>
+<li><a href="/wiki/Bard,_Loire" title="Bard, Loire">Bard</a></li>
+<li><a href="/wiki/Bellegarde-en-Forez" title="Bellegarde-en-Forez">Bellegarde-en-Forez</a></li>
+<li><a href="/wiki/Belleroche" title="Belleroche">Belleroche</a></li>
+<li><a href="/wiki/Belmont-de-la-Loire" title="Belmont-de-la-Loire">Belmont-de-la-Loire</a></li>
+<li><a href="/wiki/La_B%C3%A9nisson-Dieu" title="La Bénisson-Dieu">La Bénisson-Dieu</a></li>
+<li><a href="/wiki/Le_Bessat" title="Le Bessat">Le Bessat</a></li>
+<li><a href="/wiki/Bessey" title="Bessey">Bessey</a></li>
+<li><a href="/wiki/Bo%C3%ABn-sur-Lignon" title="Boën-sur-Lignon">Boën-sur-Lignon</a></li>
+<li><a href="/wiki/Boisset-l%C3%A8s-Montrond" title="Boisset-lès-Montrond">Boisset-lès-Montrond</a></li>
+<li><a href="/wiki/Boisset-Saint-Priest" title="Boisset-Saint-Priest">Boisset-Saint-Priest</a></li>
+<li><a href="/wiki/Bonson,_Loire" title="Bonson, Loire">Bonson</a></li>
+<li><a href="/wiki/Bourg-Argental" title="Bourg-Argental">Bourg-Argental</a></li>
+<li><a href="/wiki/Boyer,_Loire" title="Boyer, Loire">Boyer</a></li>
+<li><a href="/wiki/Briennon" title="Briennon">Briennon</a></li>
+<li><a href="/wiki/Bully,_Loire" title="Bully, Loire">Bully</a></li>
+<li><a href="/wiki/Burdignes" title="Burdignes">Burdignes</a></li>
+<li><a href="/wiki/Bussi%C3%A8res,_Loire" title="Bussières, Loire">Bussières</a></li>
+<li><a href="/wiki/Bussy-Albieux" title="Bussy-Albieux">Bussy-Albieux</a></li>
+<li><a href="/wiki/Caloire" title="Caloire">Çaloire</a></li>
+<li><a href="/wiki/Cellieu" title="Cellieu">Cellieu</a></li>
+<li><a href="/wiki/Le_Cergne" title="Le Cergne">Le Cergne</a></li>
+<li><a href="/wiki/Cervi%C3%A8res,_Loire" title="Cervières, Loire">Cervières</a></li>
+<li><a href="/wiki/Cezay" title="Cezay">Cezay</a></li>
+<li><a href="/wiki/Chagnon" title="Chagnon">Chagnon</a></li>
+<li><a href="/wiki/Chalain-d%27Uzore" title="Chalain-d'Uzore">Chalain-d'Uzore</a></li>
+<li><a href="/wiki/Chalain-le-Comtal" title="Chalain-le-Comtal">Chalain-le-Comtal</a></li>
+<li><a href="/wiki/Chalmazel-Jeansagni%C3%A8re" title="Chalmazel-Jeansagnière">Chalmazel-Jeansagnière</a></li>
+<li><a href="/wiki/La_Chamba" title="La Chamba">La Chamba</a></li>
+<li><a href="/wiki/Chamb%C3%A9on" title="Chambéon">Chambéon</a></li>
+<li><a href="/wiki/Chambles" title="Chambles">Chambles</a></li>
+<li><a href="/wiki/Chamb%C5%93uf,_Loire" title="Chambœuf, Loire">Chambœuf</a></li>
+<li><a href="/wiki/Le_Chambon-Feugerolles" title="Le Chambon-Feugerolles">Le Chambon-Feugerolles</a></li>
+<li><a href="/wiki/La_Chambonie" title="La Chambonie">La Chambonie</a></li>
+<li><a href="/wiki/Champdieu" title="Champdieu">Champdieu</a></li>
+<li><a href="/wiki/Champoly" title="Champoly">Champoly</a></li>
+<li><a href="/wiki/Chandon" title="Chandon">Chandon</a></li>
+<li><a href="/wiki/Changy,_Loire" title="Changy, Loire">Changy</a></li>
+<li><a href="/wiki/La_Chapelle-en-Lafaye" title="La Chapelle-en-Lafaye">La Chapelle-en-Lafaye</a></li>
+<li><a href="/wiki/La_Chapelle-Villars" title="La Chapelle-Villars">La Chapelle-Villars</a></li>
+<li><a href="/wiki/Charlieu" title="Charlieu">Charlieu</a></li>
+<li><a href="/wiki/Ch%C3%A2teauneuf,_Loire" title="Châteauneuf, Loire">Châteauneuf</a></li>
+<li><a href="/wiki/Ch%C3%A2telneuf,_Loire" title="Châtelneuf, Loire">Châtelneuf</a></li>
+<li><a href="/wiki/Ch%C3%A2telus,_Loire" title="Châtelus, Loire">Châtelus</a></li>
+<li><a href="/wiki/Chausseterre" title="Chausseterre">Chausseterre</a></li>
+<li><a href="/wiki/Chavanay" title="Chavanay">Chavanay</a></li>
+<li><a href="/wiki/Chazelles-sur-Lavieu" title="Chazelles-sur-Lavieu">Chazelles-sur-Lavieu</a></li>
+<li><a href="/wiki/Chazelles-sur-Lyon" title="Chazelles-sur-Lyon">Chazelles-sur-Lyon</a></li>
+<li><a href="/wiki/Chenereilles,_Loire" title="Chenereilles, Loire">Chenereilles</a></li>
+<li><a href="/wiki/Cherier" title="Cherier">Cherier</a></li>
+<li><a href="/wiki/Chevri%C3%A8res,_Loire" title="Chevrières, Loire">Chevrières</a></li>
+<li><a href="/wiki/Chirassimont" title="Chirassimont">Chirassimont</a></li>
+<li><a href="/wiki/Chuyer" title="Chuyer">Chuyer</a></li>
+<li><a href="/wiki/Civens" title="Civens">Civens</a></li>
+<li><a href="/wiki/Clepp%C3%A9" title="Cleppé">Cleppé</a></li>
+<li><a href="/wiki/Colombier,_Loire" title="Colombier, Loire">Colombier</a></li>
+<li><a href="/wiki/Combre" title="Combre">Combre</a></li>
+<li><a href="/wiki/Commelle-Vernay" title="Commelle-Vernay">Commelle-Vernay</a></li>
+<li><a href="/wiki/Cordelle" title="Cordelle">Cordelle</a></li>
+<li><a href="/wiki/La_C%C3%B4te-en-Couzan" title="La Côte-en-Couzan">La Côte-en-Couzan</a></li>
+<li><a href="/wiki/Le_Coteau" title="Le Coteau">Le Coteau</a></li>
+<li><a href="/wiki/Cottance" title="Cottance">Cottance</a></li>
+<li><a href="/wiki/Coutouvre" title="Coutouvre">Coutouvre</a></li>
+<li><a href="/wiki/Craintilleux" title="Craintilleux">Craintilleux</a></li>
+<li><a href="/wiki/Cremeaux" title="Cremeaux">Cremeaux</a></li>
+<li><a href="/wiki/Croizet-sur-Gand" title="Croizet-sur-Gand">Croizet-sur-Gand</a></li>
+<li><a href="/wiki/Le_Crozet" title="Le Crozet">Le Crozet</a></li>
+<li><a href="/wiki/Cuinzier" title="Cuinzier">Cuinzier</a></li>
+<li><a href="/wiki/Cuzieu,_Loire" title="Cuzieu, Loire">Cuzieu</a></li>
+<li><a href="/wiki/Dargoire" title="Dargoire">Dargoire</a></li>
+<li><a href="/wiki/D%C3%A9bats-Rivi%C3%A8re-d%27Orpra" title="Débats-Rivière-d'Orpra">Débats-Rivière-d'Orpra</a></li>
+<li><a href="/wiki/Doizieux" title="Doizieux">Doizieux</a></li>
+<li><a href="/wiki/%C3%89coche" title="Écoche">Écoche</a></li>
+<li><a href="/wiki/%C3%89cotay-l%27Olme" title="Écotay-l'Olme">Écotay-l'Olme</a></li>
+<li><a href="/wiki/%C3%89percieux-Saint-Paul" title="Épercieux-Saint-Paul">Épercieux-Saint-Paul</a></li>
+<li><a href="/wiki/Essertines-en-Ch%C3%A2telneuf" title="Essertines-en-Châtelneuf">Essertines-en-Châtelneuf</a></li>
+<li><a href="/wiki/Essertines-en-Donzy" title="Essertines-en-Donzy">Essertines-en-Donzy</a></li>
+<li><a href="/wiki/Estivareilles,_Loire" title="Estivareilles, Loire">Estivareilles</a></li>
+<li><a href="/wiki/L%27%C3%89trat" title="L'Étrat">L'Étrat</a></li>
+<li><a href="/wiki/Farnay" title="Farnay">Farnay</a></li>
+<li><a href="/wiki/Feurs" title="Feurs">Feurs</a></li>
+<li><a href="/wiki/Firminy" title="Firminy">Firminy</a></li>
+<li><a href="/wiki/Fontan%C3%A8s,_Loire" title="Fontanès, Loire">Fontanès</a></li>
+<li><a href="/wiki/La_Fouillouse" title="La Fouillouse">La Fouillouse</a></li>
+<li><a href="/wiki/Fourneaux,_Loire" title="Fourneaux, Loire">Fourneaux</a></li>
+<li><a href="/wiki/Fraisses" title="Fraisses">Fraisses</a></li>
+<li><a href="/wiki/Genilac" title="Genilac">Genilac</a></li>
+<li><a href="/wiki/La_Gimond" title="La Gimond">La Gimond</a></li>
+<li><a href="/wiki/Graix" title="Graix">Graix</a></li>
+<li><a href="/wiki/Grammond" title="Grammond">Grammond</a></li>
+<li><a href="/wiki/La_Grand-Croix" title="La Grand-Croix">La Grand-Croix</a></li>
+<li><a href="/wiki/La_Gresle" title="La Gresle">La Gresle</a></li>
+<li><a href="/wiki/Gr%C3%A9zieux-le-Fromental" title="Grézieux-le-Fromental">Grézieux-le-Fromental</a></li>
+<li><a href="/wiki/Gr%C3%A9zolles" title="Grézolles">Grézolles</a></li>
+<li><a href="/wiki/Gumi%C3%A8res" title="Gumières">Gumières</a></li>
+<li><a href="/wiki/L%27H%C3%B4pital-le-Grand" title="L'Hôpital-le-Grand">L'Hôpital-le-Grand</a></li>
+<li><a href="/wiki/L%27H%C3%B4pital-sous-Rochefort" title="L'Hôpital-sous-Rochefort">L'Hôpital-sous-Rochefort</a></li>
+<li><a href="/wiki/L%27Horme" title="L'Horme">L'Horme</a></li>
+<li><a href="/wiki/Jarnosse" title="Jarnosse">Jarnosse</a></li>
+<li><a href="/wiki/Jas,_Loire" title="Jas, Loire">Jas</a></li>
+<li><a href="/wiki/Jonzieux" title="Jonzieux">Jonzieux</a></li>
+<li><a href="/wiki/Jur%C3%A9" title="Juré">Juré</a></li>
+<li><a href="/wiki/Lavieu" title="Lavieu">Lavieu</a></li>
+<li><a href="/wiki/Lay,_Loire" title="Lay, Loire">Lay</a></li>
+<li><a href="/wiki/Leigneux" title="Leigneux">Leigneux</a></li>
+<li><a href="/wiki/Lentigny" title="Lentigny">Lentigny</a></li>
+<li><a href="/wiki/L%C3%A9rigneux" title="Lérigneux">Lérigneux</a></li>
+<li><a href="/wiki/L%C3%A9zigneux" title="Lézigneux">Lézigneux</a></li>
+<li><a href="/wiki/Lorette,_Loire" title="Lorette, Loire">Lorette</a></li>
+<li><a href="/wiki/Lup%C3%A9" title="Lupé">Lupé</a></li>
+<li><a href="/wiki/Lur%C3%A9" title="Luré">Luré</a></li>
+<li><a href="/wiki/Luriecq" title="Luriecq">Luriecq</a></li>
+<li><a href="/wiki/Mably,_Loire" title="Mably, Loire">Mably</a></li>
+<li><a href="/wiki/Mach%C3%A9zal" title="Machézal">Machézal</a></li>
+<li><a href="/wiki/Maclas" title="Maclas">Maclas</a></li>
+<li><a href="/wiki/Magneux-Haute-Rive" title="Magneux-Haute-Rive">Magneux-Haute-Rive</a></li>
+<li><a href="/wiki/Maizilly" title="Maizilly">Maizilly</a></li>
+<li><a href="/wiki/Malleval,_Loire" title="Malleval, Loire">Malleval</a></li>
+<li><a href="/wiki/Marcenod" title="Marcenod">Marcenod</a></li>
+<li><a href="/wiki/Marcilly-le-Ch%C3%A2tel" title="Marcilly-le-Châtel">Marcilly-le-Châtel</a></li>
+<li><a href="/wiki/Marclopt" title="Marclopt">Marclopt</a></li>
+<li><a href="/wiki/Marcoux,_Loire" title="Marcoux, Loire">Marcoux</a></li>
+<li><a href="/wiki/Margerie-Chantagret" title="Margerie-Chantagret">Margerie-Chantagret</a></li>
+<li><a href="/wiki/Maringes" title="Maringes">Maringes</a></li>
+<li><a href="/wiki/Marlhes" title="Marlhes">Marlhes</a></li>
+<li><a href="/wiki/Marols,_Loire" title="Marols, Loire">Marols</a></li>
+<li><a href="/wiki/Mars,_Loire" title="Mars, Loire">Mars</a></li>
+<li><a href="/wiki/Merle-Leignec" title="Merle-Leignec">Merle-Leignec</a></li>
+<li><a href="/wiki/Miz%C3%A9rieux" title="Mizérieux">Mizérieux</a></li>
+<li><a href="/wiki/Montagny,_Loire" title="Montagny, Loire">Montagny</a></li>
+<li><a href="/wiki/Montarcher" title="Montarcher">Montarcher</a></li>
+<li><a href="/wiki/Montbrison,_Loire" title="Montbrison, Loire">Montbrison</a></li>
+<li><a href="/wiki/Montchal" title="Montchal">Montchal</a></li>
+<li><a href="/wiki/Montrond-les-Bains" title="Montrond-les-Bains">Montrond-les-Bains</a></li>
+<li><a href="/wiki/Montverdun" title="Montverdun">Montverdun</a></li>
+<li><a href="/wiki/Mornand-en-Forez" title="Mornand-en-Forez">Mornand-en-Forez</a></li>
+<li><a href="/wiki/Nandax" title="Nandax">Nandax</a></li>
+<li><a href="/wiki/Neaux" title="Neaux">Neaux</a></li>
+<li><a href="/wiki/N%C3%A9ronde" title="Néronde">Néronde</a></li>
+<li><a href="/wiki/Nervieux" title="Nervieux">Nervieux</a></li>
+<li><a href="/wiki/Neulise" title="Neulise">Neulise</a></li>
+<li><a href="/wiki/Noailly" title="Noailly">Noailly</a></li>
+<li><a href="/wiki/Les_No%C3%ABs" title="Les Noës">Les Noës</a></li>
+<li><a href="/wiki/Noir%C3%A9table" title="Noirétable">Noirétable</a></li>
+<li><a href="/wiki/Nollieux" title="Nollieux">Nollieux</a></li>
+<li><a href="/wiki/Notre-Dame-de-Boisset" title="Notre-Dame-de-Boisset">Notre-Dame-de-Boisset</a></li>
+<li><a href="/wiki/Ouches" title="Ouches">Ouches</a></li>
+<li><a href="/wiki/La_Pacaudi%C3%A8re" title="La Pacaudière">La Pacaudière</a></li>
+<li><a href="/wiki/Palogneux" title="Palogneux">Palogneux</a></li>
+<li><a href="/wiki/Panissi%C3%A8res" title="Panissières">Panissières</a></li>
+<li><a href="/wiki/Parigny,_Loire" title="Parigny, Loire">Parigny</a></li>
+<li><a href="/wiki/Pavezin" title="Pavezin">Pavezin</a></li>
+<li><a href="/wiki/P%C3%A9lussin" title="Pélussin">Pélussin</a></li>
+<li><a href="/wiki/P%C3%A9rigneux" title="Périgneux">Périgneux</a></li>
+<li><a href="/wiki/Perreux,_Loire" title="Perreux, Loire">Perreux</a></li>
+<li><a href="/wiki/Pinay,_Loire" title="Pinay, Loire">Pinay</a></li>
+<li><a href="/wiki/Planfoy" title="Planfoy">Planfoy</a></li>
+<li><a href="/wiki/Pommiers,_Loire" title="Pommiers, Loire">Pommiers</a></li>
+<li><a href="/wiki/Poncins" title="Poncins">Poncins</a></li>
+<li><a href="/wiki/Pouilly-l%C3%A8s-Feurs" title="Pouilly-lès-Feurs">Pouilly-lès-Feurs</a></li>
+<li><a href="/wiki/Pouilly-les-Nonains" title="Pouilly-les-Nonains">Pouilly-les-Nonains</a></li>
+<li><a href="/wiki/Pouilly-sous-Charlieu" title="Pouilly-sous-Charlieu">Pouilly-sous-Charlieu</a></li>
+<li><a href="/wiki/Pradines,_Loire" title="Pradines, Loire">Pradines</a></li>
+<li><a href="/wiki/Pralong" title="Pralong">Pralong</a></li>
+<li><a href="/wiki/Pr%C3%A9cieux" title="Précieux">Précieux</a></li>
+<li><a class="mw-selflink selflink">Régny</a></li>
+<li><a href="/wiki/Renaison" title="Renaison">Renaison</a></li>
+<li><a href="/wiki/La_Ricamarie" title="La Ricamarie">La Ricamarie</a></li>
+<li><a href="/wiki/Riorges" title="Riorges">Riorges</a></li>
+<li><a href="/wiki/Rivas,_Loire" title="Rivas, Loire">Rivas</a></li>
+<li><a href="/wiki/Rive-de-Gier" title="Rive-de-Gier">Rive-de-Gier</a></li>
+<li><a href="/wiki/Roanne" title="Roanne">Roanne</a></li>
+<li><a href="/wiki/Roche,_Loire" title="Roche, Loire">Roche</a></li>
+<li><a href="/wiki/Roche-la-Moli%C3%A8re" title="Roche-la-Molière">Roche-la-Molière</a></li>
+<li><a href="/wiki/Roisey" title="Roisey">Roisey</a></li>
+<li><a href="/wiki/Rozier-C%C3%B4tes-d%27Aurec" title="Rozier-Côtes-d'Aurec">Rozier-Côtes-d'Aurec</a></li>
+<li><a href="/wiki/Rozier-en-Donzy" title="Rozier-en-Donzy">Rozier-en-Donzy</a></li>
+<li><a href="/wiki/Sail-les-Bains" title="Sail-les-Bains">Sail-les-Bains</a></li>
+<li><a href="/wiki/Sail-sous-Couzan" title="Sail-sous-Couzan">Sail-sous-Couzan</a></li>
+<li><a href="/wiki/Saint-Alban-les-Eaux" title="Saint-Alban-les-Eaux">Saint-Alban-les-Eaux</a></li>
+<li><a href="/wiki/Saint-Andr%C3%A9-d%27Apchon" title="Saint-André-d'Apchon">Saint-André-d'Apchon</a></li>
+<li><a href="/wiki/Saint-Andr%C3%A9-le-Puy" title="Saint-André-le-Puy">Saint-André-le-Puy</a></li>
+<li><a href="/wiki/Saint-Appolinard,_Loire" title="Saint-Appolinard, Loire">Saint-Appolinard</a></li>
+<li><a href="/wiki/Saint-Barth%C3%A9lemy-Lestra" title="Saint-Barthélemy-Lestra">Saint-Barthélemy-Lestra</a></li>
+<li><a href="/wiki/Saint-Bonnet-des-Quarts" title="Saint-Bonnet-des-Quarts">Saint-Bonnet-des-Quarts</a></li>
+<li><a href="/wiki/Saint-Bonnet-le-Ch%C3%A2teau" title="Saint-Bonnet-le-Château">Saint-Bonnet-le-Château</a></li>
+<li><a href="/wiki/Saint-Bonnet-le-Courreau" title="Saint-Bonnet-le-Courreau">Saint-Bonnet-le-Courreau</a></li>
+<li><a href="/wiki/Saint-Bonnet-les-Oules" title="Saint-Bonnet-les-Oules">Saint-Bonnet-les-Oules</a></li>
+<li><a href="/wiki/Saint-Chamond,_Loire" title="Saint-Chamond, Loire">Saint-Chamond</a></li>
+<li><a href="/wiki/Saint-Christo-en-Jarez" title="Saint-Christo-en-Jarez">Saint-Christo-en-Jarez</a></li>
+<li><a href="/wiki/Saint-Cyprien,_Loire" title="Saint-Cyprien, Loire">Saint-Cyprien</a></li>
+<li><a href="/wiki/Saint-Cyr-de-Favi%C3%A8res" title="Saint-Cyr-de-Favières">Saint-Cyr-de-Favières</a></li>
+<li><a href="/wiki/Saint-Cyr-de-Valorges" title="Saint-Cyr-de-Valorges">Saint-Cyr-de-Valorges</a></li>
+<li><a href="/wiki/Saint-Cyr-les-Vignes" title="Saint-Cyr-les-Vignes">Saint-Cyr-les-Vignes</a></li>
+<li><a href="/wiki/Saint-Denis-de-Cabanne" title="Saint-Denis-de-Cabanne">Saint-Denis-de-Cabanne</a></li>
+<li><a href="/wiki/Saint-Denis-sur-Coise" title="Saint-Denis-sur-Coise">Saint-Denis-sur-Coise</a></li>
+<li><a href="/wiki/Saint-Didier-sur-Rochefort" title="Saint-Didier-sur-Rochefort">Saint-Didier-sur-Rochefort</a></li>
+<li><a href="/wiki/Sainte-Agathe-en-Donzy" title="Sainte-Agathe-en-Donzy">Sainte-Agathe-en-Donzy</a></li>
+<li><a href="/wiki/Sainte-Agathe-la-Bouteresse" title="Sainte-Agathe-la-Bouteresse">Sainte-Agathe-la-Bouteresse</a></li>
+<li><a href="/wiki/Sainte-Colombe-sur-Gand" title="Sainte-Colombe-sur-Gand">Sainte-Colombe-sur-Gand</a></li>
+<li><a href="/wiki/Sainte-Croix-en-Jarez" title="Sainte-Croix-en-Jarez">Sainte-Croix-en-Jarez</a></li>
+<li><a href="/wiki/Sainte-Foy-Saint-Sulpice" title="Sainte-Foy-Saint-Sulpice">Sainte-Foy-Saint-Sulpice</a></li>
+<li><a href="/wiki/Saint-%C3%89tienne" title="Saint-Étienne">Saint-Étienne</a></li>
+<li><a href="/wiki/Saint-%C3%89tienne-le-Molard" title="Saint-Étienne-le-Molard">Saint-Étienne-le-Molard</a></li>
+<li><a href="/wiki/Saint-Forgeux-Lespinasse" title="Saint-Forgeux-Lespinasse">Saint-Forgeux-Lespinasse</a></li>
+<li><a href="/wiki/Saint-Galmier" title="Saint-Galmier">Saint-Galmier</a></li>
+<li><a href="/wiki/Saint-Genest-Lerpt" title="Saint-Genest-Lerpt">Saint-Genest-Lerpt</a></li>
+<li><a href="/wiki/Saint-Genest-Malifaux" title="Saint-Genest-Malifaux">Saint-Genest-Malifaux</a></li>
+<li><a href="/wiki/Saint-Georges-de-Baroille" title="Saint-Georges-de-Baroille">Saint-Georges-de-Baroille</a></li>
+<li><a href="/wiki/Saint-Georges-en-Couzan" title="Saint-Georges-en-Couzan">Saint-Georges-en-Couzan</a></li>
+<li><a href="/wiki/Saint-Georges-Haute-Ville" title="Saint-Georges-Haute-Ville">Saint-Georges-Haute-Ville</a></li>
+<li><a href="/wiki/Saint-Germain-la-Montagne" title="Saint-Germain-la-Montagne">Saint-Germain-la-Montagne</a></li>
+<li><a href="/wiki/Saint-Germain-Laval,_Loire" title="Saint-Germain-Laval, Loire">Saint-Germain-Laval</a></li>
+<li><a href="/wiki/Saint-Germain-Lespinasse" title="Saint-Germain-Lespinasse">Saint-Germain-Lespinasse</a></li>
+<li><a href="/wiki/Saint-Haon-le-Ch%C3%A2tel" title="Saint-Haon-le-Châtel">Saint-Haon-le-Châtel</a></li>
+<li><a href="/wiki/Saint-Haon-le-Vieux" title="Saint-Haon-le-Vieux">Saint-Haon-le-Vieux</a></li>
+<li><a href="/wiki/Saint-H%C3%A9and" title="Saint-Héand">Saint-Héand</a></li>
+<li><a href="/wiki/Saint-Hilaire-Cusson-la-Valmitte" title="Saint-Hilaire-Cusson-la-Valmitte">Saint-Hilaire-Cusson-la-Valmitte</a></li>
+<li><a href="/wiki/Saint-Hilaire-sous-Charlieu" title="Saint-Hilaire-sous-Charlieu">Saint-Hilaire-sous-Charlieu</a></li>
+<li><a href="/wiki/Saint-Jean-Bonnefonds" title="Saint-Jean-Bonnefonds">Saint-Jean-Bonnefonds</a></li>
+<li><a href="/wiki/Saint-Jean-la-V%C3%AAtre" title="Saint-Jean-la-Vêtre">Saint-Jean-la-Vêtre</a></li>
+<li><a href="/wiki/Saint-Jean-Saint-Maurice-sur-Loire" title="Saint-Jean-Saint-Maurice-sur-Loire">Saint-Jean-Saint-Maurice-sur-Loire</a></li>
+<li><a href="/wiki/Saint-Jean-Soleymieux" title="Saint-Jean-Soleymieux">Saint-Jean-Soleymieux</a></li>
+<li><a href="/wiki/Saint-Jodard" title="Saint-Jodard">Saint-Jodard</a></li>
+<li><a href="/wiki/Saint-Joseph,_Loire" title="Saint-Joseph, Loire">Saint-Joseph</a></li>
+<li><a href="/wiki/Saint-Julien-d%27Oddes" title="Saint-Julien-d'Oddes">Saint-Julien-d'Oddes</a></li>
+<li><a href="/wiki/Saint-Julien-Molin-Molette" title="Saint-Julien-Molin-Molette">Saint-Julien-Molin-Molette</a></li>
+<li><a href="/wiki/Saint-Just-en-Bas" title="Saint-Just-en-Bas">Saint-Just-en-Bas</a></li>
+<li><a href="/wiki/Saint-Just-en-Chevalet" title="Saint-Just-en-Chevalet">Saint-Just-en-Chevalet</a></li>
+<li><a href="/wiki/Saint-Just-la-Pendue" title="Saint-Just-la-Pendue">Saint-Just-la-Pendue</a></li>
+<li><a href="/wiki/Saint-Just-Saint-Rambert" title="Saint-Just-Saint-Rambert">Saint-Just-Saint-Rambert</a></li>
+<li><a href="/wiki/Saint-Laurent-la-Conche" title="Saint-Laurent-la-Conche">Saint-Laurent-la-Conche</a></li>
+<li><a href="/wiki/Saint-Laurent-Rochefort" title="Saint-Laurent-Rochefort">Saint-Laurent-Rochefort</a></li>
+<li><a href="/wiki/Saint-L%C3%A9ger-sur-Roanne" title="Saint-Léger-sur-Roanne">Saint-Léger-sur-Roanne</a></li>
+<li><a href="/wiki/Saint-Marcel-de-F%C3%A9lines" title="Saint-Marcel-de-Félines">Saint-Marcel-de-Félines</a></li>
+<li><a href="/wiki/Saint-Marcel-d%27Urf%C3%A9" title="Saint-Marcel-d'Urfé">Saint-Marcel-d'Urfé</a></li>
+<li><a href="/wiki/Saint-Marcellin-en-Forez" title="Saint-Marcellin-en-Forez">Saint-Marcellin-en-Forez</a></li>
+<li><a href="/wiki/Saint-Martin-d%27Estr%C3%A9aux" title="Saint-Martin-d'Estréaux">Saint-Martin-d'Estréaux</a></li>
+<li><a href="/wiki/Saint-Martin-la-Plaine" title="Saint-Martin-la-Plaine">Saint-Martin-la-Plaine</a></li>
+<li><a href="/wiki/Saint-Martin-la-Sauvet%C3%A9" title="Saint-Martin-la-Sauveté">Saint-Martin-la-Sauveté</a></li>
+<li><a href="/wiki/Saint-Martin-Lestra" title="Saint-Martin-Lestra">Saint-Martin-Lestra</a></li>
+<li><a href="/wiki/Saint-Maurice-en-Gourgois" title="Saint-Maurice-en-Gourgois">Saint-Maurice-en-Gourgois</a></li>
+<li><a href="/wiki/Saint-M%C3%A9dard-en-Forez" title="Saint-Médard-en-Forez">Saint-Médard-en-Forez</a></li>
+<li><a href="/wiki/Saint-Michel-sur-Rh%C3%B4ne" title="Saint-Michel-sur-Rhône">Saint-Michel-sur-Rhône</a></li>
+<li><a href="/wiki/Saint-Nizier-de-Fornas" title="Saint-Nizier-de-Fornas">Saint-Nizier-de-Fornas</a></li>
+<li><a href="/wiki/Saint-Nizier-sous-Charlieu" title="Saint-Nizier-sous-Charlieu">Saint-Nizier-sous-Charlieu</a></li>
+<li><a href="/wiki/Saint-Paul-d%27Uzore" title="Saint-Paul-d'Uzore">Saint-Paul-d'Uzore</a></li>
+<li><a href="/wiki/Saint-Paul-en-Cornillon" title="Saint-Paul-en-Cornillon">Saint-Paul-en-Cornillon</a></li>
+<li><a href="/wiki/Saint-Paul-en-Jarez" title="Saint-Paul-en-Jarez">Saint-Paul-en-Jarez</a></li>
+<li><a href="/wiki/Saint-Pierre-de-B%C5%93uf" title="Saint-Pierre-de-Bœuf">Saint-Pierre-de-Bœuf</a></li>
+<li><a href="/wiki/Saint-Pierre-la-Noaille" title="Saint-Pierre-la-Noaille">Saint-Pierre-la-Noaille</a></li>
+<li><a href="/wiki/Saint-Polgues" title="Saint-Polgues">Saint-Polgues</a></li>
+<li><a href="/wiki/Saint-Priest-en-Jarez" title="Saint-Priest-en-Jarez">Saint-Priest-en-Jarez</a></li>
+<li><a href="/wiki/Saint-Priest-la-Prugne" title="Saint-Priest-la-Prugne">Saint-Priest-la-Prugne</a></li>
+<li><a href="/wiki/Saint-Priest-la-Roche" title="Saint-Priest-la-Roche">Saint-Priest-la-Roche</a></li>
+<li><a href="/wiki/Saint-Priest-la-V%C3%AAtre" title="Saint-Priest-la-Vêtre">Saint-Priest-la-Vêtre</a></li>
+<li><a href="/wiki/Saint-R%C3%A9gis-du-Coin" title="Saint-Régis-du-Coin">Saint-Régis-du-Coin</a></li>
+<li><a href="/wiki/Saint-Rirand" title="Saint-Rirand">Saint-Rirand</a></li>
+<li><a href="/wiki/Saint-Romain-d%27Urf%C3%A9" title="Saint-Romain-d'Urfé">Saint-Romain-d'Urfé</a></li>
+<li><a href="/wiki/Saint-Romain-en-Jarez" title="Saint-Romain-en-Jarez">Saint-Romain-en-Jarez</a></li>
+<li><a href="/wiki/Saint-Romain-la-Motte" title="Saint-Romain-la-Motte">Saint-Romain-la-Motte</a></li>
+<li><a href="/wiki/Saint-Romain-le-Puy" title="Saint-Romain-le-Puy">Saint-Romain-le-Puy</a></li>
+<li><a href="/wiki/Saint-Romain-les-Atheux" title="Saint-Romain-les-Atheux">Saint-Romain-les-Atheux</a></li>
+<li><a href="/wiki/Saint-Sauveur-en-Rue" title="Saint-Sauveur-en-Rue">Saint-Sauveur-en-Rue</a></li>
+<li><a href="/wiki/Saint-Sixte,_Loire" title="Saint-Sixte, Loire">Saint-Sixte</a></li>
+<li><a href="/wiki/Saint-Symphorien-de-Lay" title="Saint-Symphorien-de-Lay">Saint-Symphorien-de-Lay</a></li>
+<li><a href="/wiki/Saint-Thomas-la-Garde" title="Saint-Thomas-la-Garde">Saint-Thomas-la-Garde</a></li>
+<li><a href="/wiki/Saint-Victor-sur-Rhins" title="Saint-Victor-sur-Rhins">Saint-Victor-sur-Rhins</a></li>
+<li><a href="/wiki/Saint-Vincent-de-Boisset" title="Saint-Vincent-de-Boisset">Saint-Vincent-de-Boisset</a></li>
+<li><a href="/wiki/Les_Salles" title="Les Salles">Les Salles</a></li>
+<li><a href="/wiki/Salt-en-Donzy" title="Salt-en-Donzy">Salt-en-Donzy</a></li>
+<li><a href="/wiki/Salvizinet" title="Salvizinet">Salvizinet</a></li>
+<li><a href="/wiki/Sauvain" title="Sauvain">Sauvain</a></li>
+<li><a href="/wiki/Savigneux,_Loire" title="Savigneux, Loire">Savigneux</a></li>
+<li><a href="/wiki/Sevelinges" title="Sevelinges">Sevelinges</a></li>
+<li><a href="/wiki/Soleymieux" title="Soleymieux">Soleymieux</a></li>
+<li><a href="/wiki/Sorbiers,_Loire" title="Sorbiers, Loire">Sorbiers</a></li>
+<li><a href="/wiki/Souternon" title="Souternon">Souternon</a></li>
+<li><a href="/wiki/Sury-le-Comtal" title="Sury-le-Comtal">Sury-le-Comtal</a></li>
+<li><a href="/wiki/La_Talaudi%C3%A8re" title="La Talaudière">La Talaudière</a></li>
+<li><a href="/wiki/Tarentaise,_Loire" title="Tarentaise, Loire">Tarentaise</a></li>
+<li><a href="/wiki/Tartaras" title="Tartaras">Tartaras</a></li>
+<li><a href="/wiki/La_Terrasse-sur-Dorlay" title="La Terrasse-sur-Dorlay">La Terrasse-sur-Dorlay</a></li>
+<li><a href="/wiki/Th%C3%A9lis-la-Combe" title="Thélis-la-Combe">Thélis-la-Combe</a></li>
+<li><a href="/wiki/La_Tour-en-Jarez" title="La Tour-en-Jarez">La Tour-en-Jarez</a></li>
+<li><a href="/wiki/La_Tourette" title="La Tourette">La Tourette</a></li>
+<li><a href="/wiki/Trelins" title="Trelins">Trelins</a></li>
+<li><a href="/wiki/La_Tuili%C3%A8re" title="La Tuilière">La Tuilière</a></li>
+<li><a href="/wiki/Unias" title="Unias">Unias</a></li>
+<li><a href="/wiki/Unieux" title="Unieux">Unieux</a></li>
+<li><a href="/wiki/Urbise" title="Urbise">Urbise</a></li>
+<li><a href="/wiki/Usson-en-Forez" title="Usson-en-Forez">Usson-en-Forez</a></li>
+<li><a href="/wiki/Valeille" title="Valeille">Valeille</a></li>
+<li><a href="/wiki/Valfleury" title="Valfleury">Valfleury</a></li>
+<li><a href="/wiki/La_Valla-en-Gier" title="La Valla-en-Gier">La Valla-en-Gier</a></li>
+<li><a href="/wiki/La_Valla-sur-Rochefort" title="La Valla-sur-Rochefort">La Valla-sur-Rochefort</a></li>
+<li><a href="/wiki/Veauche" title="Veauche">Veauche</a></li>
+<li><a href="/wiki/Veauchette" title="Veauchette">Veauchette</a></li>
+<li><a href="/wiki/Vendranges" title="Vendranges">Vendranges</a></li>
+<li><a href="/wiki/V%C3%A9ranne" title="Véranne">Véranne</a></li>
+<li><a href="/wiki/V%C3%A9rin" title="Vérin">Vérin</a></li>
+<li><a href="/wiki/Verri%C3%A8res-en-Forez" title="Verrières-en-Forez">Verrières-en-Forez</a></li>
+<li><a href="/wiki/La_Versanne" title="La Versanne">La Versanne</a></li>
+<li><a href="/wiki/V%C3%AAtre-sur-Anzon" title="Vêtre-sur-Anzon">Vêtre-sur-Anzon</a></li>
+<li><a href="/wiki/V%C3%A9zelin-sur-Loire" title="Vézelin-sur-Loire">Vézelin-sur-Loire</a></li>
+<li><a href="/wiki/Villars,_Loire" title="Villars, Loire">Villars</a></li>
+<li><a href="/wiki/Villemontais" title="Villemontais">Villemontais</a></li>
+<li><a href="/wiki/Villerest" title="Villerest">Villerest</a></li>
+<li><a href="/wiki/Villers,_Loire" title="Villers, Loire">Villers</a></li>
+<li><a href="/wiki/Violay" title="Violay">Violay</a></li>
+<li><a href="/wiki/Viricelles" title="Viricelles">Viricelles</a></li>
+<li><a href="/wiki/Virigneux" title="Virigneux">Virigneux</a></li>
+<li><a href="/wiki/Vivans" title="Vivans">Vivans</a></li>
+<li><a href="/wiki/Vougy,_Loire" title="Vougy, Loire">Vougy</a></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a class="image" href="/wiki/File:Blason_d%C3%A9partement_fr_Loire.svg"><img alt="Stub icon" data-file-height="660" data-file-width="600" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blason_d%C3%A9partement_fr_Loire.svg/27px-Blason_d%C3%A9partement_fr_Loire.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blason_d%C3%A9partement_fr_Loire.svg/41px-Blason_d%C3%A9partement_fr_Loire.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blason_d%C3%A9partement_fr_Loire.svg/54px-Blason_d%C3%A9partement_fr_Loire.svg.png 2x" width="27"/></a></td><td><i>This <a href="/wiki/Loire_(department)" title="Loire (department)">Loire</a> geographical article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=R%C3%A9gny&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Loire-geo-stub" title="Template:Loire-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a class="mw-redirect" href="/wiki/Template_talk:Loire-geo-stub" title="Template talk:Loire-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Loire-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20191218225017
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.824 seconds
+Real time usage: 1.090 seconds
+Preprocessor visited node count: 5860/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 101397/2097152 bytes
+Template argument size: 20039/2097152 bytes
+Highest expansion depth: 27/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3466/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.486/10.000 seconds
+Lua memory usage: 8.94 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  987.289      1 -total
+ 83.68%  826.178      1 Template:Infobox_French_commune
+ 81.47%  804.362      1 Template:Infobox_settlement
+ 68.93%  680.526      1 Template:Infobox
+ 22.09%  218.048      7 Template:Wikidata
+ 21.47%  212.004      3 Template:France_metadata_Wikidata
+  8.56%   84.557      5 Template:Main_other
+  5.99%   59.096      2 Template:Infobox_mapframe
+  5.50%   54.320      8 Template:Both
+  4.86%   48.029      1 Template:Coord
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15809819-0!canonical and timestamp 20191218225016 and revision id 918930474
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Régny&amp;oldid=918930474">https://en.wikipedia.org/w/index.php?title=Régny&amp;oldid=918930474</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Communes_of_Loire_(department)" title="Category:Communes of Loire (department)">Communes of Loire (department)</a></li><li><a href="/wiki/Category:Loire_geography_stubs" title="Category:Loire geography stubs">Loire geography stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Infobox_mapframe_without_OSM_relation_ID_on_Wikidata" title="Category:Infobox mapframe without OSM relation ID on Wikidata">Infobox mapframe without OSM relation ID on Wikidata</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li><li><a href="/wiki/Category:Pages_using_the_Kartographer_extension" title="Category:Pages using the Kartographer extension">Pages using the Kartographer extension</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=R%C3%A9gny" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=R%C3%A9gny" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/R%C3%A9gny" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:R%C3%A9gny" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/R%C3%A9gny">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=R%C3%A9gny&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=R%C3%A9gny&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/R%C3%A9gny" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/R%C3%A9gny" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=R%C3%A9gny&amp;oldid=918930474" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=R%C3%A9gny&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1107311" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=R%C3%A9gny&amp;id=918930474" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:R%C3%A9gny" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=R%C3%A9gny">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=R%C3%A9gny&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=R%C3%A9gny&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-frp"><a class="interlanguage-link-target" href="https://frp.wikipedia.org/wiki/Regn%C3%A9_(Rouan%C3%AAs)" hreflang="frp" lang="frp" title="Regné (Rouanês) – Arpitan">Arpetan</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/R%C3%A9gny" hreflang="nan" lang="nan" title="Régny – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/R%C3%A9gny" hreflang="ca" lang="ca" title="Régny – Catalan">Català</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/R%C3%A9gny" hreflang="ceb" lang="ceb" title="Régny – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/R%C3%A9gny" hreflang="de" lang="de" title="Régny – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/R%C3%A9gny" hreflang="es" lang="es" title="Régny – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/R%C3%A9gny" hreflang="eu" lang="eu" title="Régny – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/R%C3%A9gny" hreflang="fr" lang="fr" title="Régny – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/R%C3%A9gny" hreflang="it" lang="it" title="Régny – Italian">Italiano</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/R%C3%A9gny" hreflang="la" lang="la" title="Régny – Latin">Latina</a></li><li class="interlanguage-link interwiki-lmo"><a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/R%C3%A9gny" hreflang="lmo" lang="lmo" title="Régny – Lombard">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/R%C3%A9gny" hreflang="hu" lang="hu" title="Régny – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mg"><a class="interlanguage-link-target" href="https://mg.wikipedia.org/wiki/R%C3%A9gny" hreflang="mg" lang="mg" title="Régny – Malagasy">Malagasy</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/R%C3%A9gny" hreflang="ms" lang="ms" title="Régny – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/R%C3%A9gny" hreflang="nl" lang="nl" title="Régny – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ce"><a class="interlanguage-link-target" href="https://ce.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D1%8C%D0%B8_(%D0%9B%D1%83%D0%B0%D1%80%D0%B0)" hreflang="ce" lang="ce" title="Реньи (Луара) – Chechen">Нохчийн</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/R%C3%A9gny" hreflang="oc" lang="oc" title="Régny – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/R%C3%A9gny" hreflang="uz" lang="uz" title="Régny – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pms"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/R%C3%A9gny" hreflang="pms" lang="pms" title="Régny – Piedmontese">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/R%C3%A9gny" hreflang="pl" lang="pl" title="Régny – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/R%C3%A9gny" hreflang="pt" lang="pt" title="Régny – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/R%C3%A9gny" hreflang="ro" lang="ro" title="Régny – Romanian">Română</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/R%C3%A9gny" hreflang="sk" lang="sk" title="Régny – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/R%C3%A9gny" hreflang="sv" lang="sv" title="Régny – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D1%8C%D1%97_(%D0%9B%D1%83%D0%B0%D1%80%D0%B0)" hreflang="uk" lang="uk" title="Реньї (Луара) – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/R%C3%A9gny" hreflang="vi" lang="vi" title="Régny – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a class="interlanguage-link-target" href="https://vo.wikipedia.org/wiki/R%C3%A9gny" hreflang="vo" lang="vo" title="Régny – Volapük">Volapük</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/R%C3%A9gny" hreflang="war" lang="war" title="Régny – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%9B%B7%E5%B0%BC" hreflang="zh" lang="zh" title="雷尼 – Chinese">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1107311#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 September 2019, at 23:16<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=R%C3%A9gny&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.824","walltime":"1.090","ppvisitednodes":{"value":5860,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":101397,"limit":2097152},"templateargumentsize":{"value":20039,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3466,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  987.289      1 -total"," 83.68%  826.178      1 Template:Infobox_French_commune"," 81.47%  804.362      1 Template:Infobox_settlement"," 68.93%  680.526      1 Template:Infobox"," 22.09%  218.048      7 Template:Wikidata"," 21.47%  212.004      3 Template:France_metadata_Wikidata","  8.56%   84.557      5 Template:Main_other","  5.99%   59.096      2 Template:Infobox_mapframe","  5.50%   54.320      8 Template:Both","  4.86%   48.029      1 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.486","limit":"10.000"},"limitreport-memusage":{"value":9370088,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20191218225017","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"R\u00e9gny","url":"https:\/\/en.wikipedia.org\/wiki\/R%C3%A9gny","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1107311","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1107311","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-02-17T19:55:23Z","dateModified":"2019-09-30T23:16:32Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b3\/Gare_de_R%C3%A9gny.JPG","headline":"commune in Loire, France"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":126,"wgHostname":"mw1248"});});</script>
+
+
+</body></html>

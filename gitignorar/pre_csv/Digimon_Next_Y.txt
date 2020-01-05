@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Digimon Next - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XftDlQpAIC0AACAsL@AAAACD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Digimon_Next","wgTitle":"Digimon Next","wgCurRevisionId":911210476,"wgRevisionId":911210476,"wgArticleId":4498862,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from January 2019","All articles lacking sources","Articles containing Japanese-language text","Manga series","2006 manga","Digimon anime and manga","Shōnen manga"],"wgPageContentLanguage":
+"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Digimon_Next","wgRelevantArticleId":4498862,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q596815","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/9/9d/Digimon_Next.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Digimon_Next" rel="alternate"/>
+<link href="/w/index.php?title=Digimon_Next&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Digimon_Next&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Digimon_Next" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Digimon_Next rootpage-Digimon_Next skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en"><i>Digimon Next</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="box-Unreferenced plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" decoding="async" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Digimon_Next&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.<br/><small><span class="plainlinks"><i>Find sources:</i> <a class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Digimon+Next%22" rel="nofollow">"Digimon Next"</a> – <a class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Digimon+Next%22+-wikipedia" rel="nofollow">news</a> <b>·</b> <a class="external text" href="//www.google.com/search?&amp;q=%22Digimon+Next%22+site:news.google.com/newspapers&amp;source=newspapers" rel="nofollow">newspapers</a> <b>·</b> <a class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Digimon+Next%22+-wikipedia" rel="nofollow">books</a> <b>·</b> <a class="external text" href="//scholar.google.com/scholar?q=%22Digimon+Next%22" rel="nofollow">scholar</a> <b>·</b> <a class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Digimon+Next%22&amp;acc=on&amp;wc=on" rel="nofollow">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">January 2019</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox" style="width: 22em"><tbody><tr><td colspan="2" style="text-align:center;background:#CCF; font-size:125%; font-style:italic; font-weight:bold;">Digimon Next</td></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Digimon_Next.jpg"><img alt="Digimon Next.jpg" data-file-height="287" data-file-width="200" decoding="async" height="287" src="//upload.wikimedia.org/wikipedia/en/9/9d/Digimon_Next.jpg" width="200"/></a><div>Japanese Manga cover for Digimon Next</div></td></tr><tr><th colspan="2" style="text-align:center;background:#DDF; padding:0.3em; line-height:1.3em; font-weight:normal;"><span class="t_nihongo_kanji"><span lang="ja" title="Japanese language text"><span style="font-size:110%;">デジモン ネクスト</span></span></span><br/>(<i>Dejimon Nekusuto</i>)</th></tr>
+<tr><td colspan="2" style="text-align:center;background:#CCF; font-weight:bold;">Manga</td></tr><tr><th scope="row">Written by</th><td>Tatsuya Hamazaki</td></tr><tr><th scope="row">Illustrated by</th><td><a href="/wiki/Takeshi_Okano" title="Takeshi Okano">Takeshi Okano</a></td></tr><tr><th scope="row">Published by</th><td><a href="/wiki/Shueisha" title="Shueisha">Shueisha</a></td></tr><tr><th scope="row">Demographic</th><td><i><a href="/wiki/Sh%C5%8Dnen_manga" title="Shōnen manga">Shōnen</a></i></td></tr><tr><th scope="row">Magazine</th><td><i><a href="/wiki/V_Jump" title="V Jump">V Jump</a></i></td></tr><tr><th scope="row">Original run</th><td><span class="nowrap">February 2006</span> – <span class="nowrap">February 2008</span></td></tr><tr><th scope="row">Volumes</th><td>4</td></tr>
+<tr class="noprint"><td colspan="2" style="text-align:center;background:#CCF; font-weight:bold"><a class="image" href="/wiki/File:Wikipe-tan_face.svg"><img alt="Wikipe-tan face.svg" class="noviewer" data-file-height="440" data-file-width="440" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wikipe-tan_face.svg/16px-Wikipe-tan_face.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wikipe-tan_face.svg/24px-Wikipe-tan_face.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wikipe-tan_face.svg/32px-Wikipe-tan_face.svg.png 2x" width="16"/></a> <a href="/wiki/Portal:Anime_and_manga" title="Portal:Anime and manga">Anime and manga portal</a></td></tr></tbody></table>
+<p><i><b>Digimon Next</b></i><span style="font-weight: normal"> (<span lang="ja">デジモン ネクスト</span><span style="display:none">,</span> <i>Dejimon Nekusuto</i>)</span> is the second <a href="/wiki/Digimon" title="Digimon">Digimon</a> <a href="/wiki/Manga" title="Manga">manga</a> to be printed in the pages of <a class="mw-redirect" href="/wiki/V-Jump" title="V-Jump">V-Jump</a> magazine, starting on December 17, 2005.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> The main character is called <b>Tsurugi Tatsuno</b> and is partnered with a <a href="/wiki/Digimon_Next#Tsurug_Tatsunoi_and_Agumon" title="Digimon Next">Greymon</a> (later Agumon). Tsurugi makes contact with the Digital World through his <a class="mw-redirect" href="/wiki/Digimon_virtual_pet#Digimon_Mini" title="Digimon virtual pet">Digimon Mini</a> virtual pet device and a "Battle Terminal", a virtual reality interface. Digimon can use the technology to materialize in the human world as well.
+</p><p>It seems to share a few key elements with <a href="/wiki/Digimon_Data_Squad" title="Digimon Data Squad">Digimon Data Squad</a>, such as the use of Digisouls, Agumon's evolution to GeoGreymon in chapter five and the appearance of Tsurugi's <a class="mw-redirect" href="/wiki/Digivice#Digivice_iC" title="Digivice">Digivice iC</a> when <a href="/wiki/Digimon_Next#Piximon" title="Digimon Next">Piximon</a> upgraded it in chapter four.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Plot"><span class="tocnumber">1</span> <span class="toctext">Plot</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Main_characters"><span class="tocnumber">2</span> <span class="toctext">Main characters</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Minor_characters"><span class="tocnumber">3</span> <span class="toctext">Minor characters</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#DigiMemories"><span class="tocnumber">4</span> <span class="toctext">DigiMemories</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Plot">Plot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Digimon_Next&amp;action=edit&amp;section=1" title="Edit section: Plot">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tsurugi Tatsuno is a boy who competes in Virtual Digimon Battle tournaments. When a Kuwagamon appeared in the Real World, his Greymon came to life and protected him. Tsurugi is summoned to the Digital World by Piximon to save the Digital World from the evil Barbamon. Since his Digimon has a hexagon shape on him, it's an <i>Illegal Digimon</i>, meaning that Digimon bearing such symbols can help save the Digital World. Tsurugi's Greymon later De-Digivolves to Agumon and they meet other characters destined to save the Digital World from the forces of Barbamon. Now they must stop Barbamon and his minions before they get all the DigiMemories and take over both worlds.
+</p>
+<h2><span class="mw-headline" id="Main_characters">Main characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Digimon_Next&amp;action=edit&amp;section=2" title="Edit section: Main characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b>Tsurugi Tatsuno and Agumon</b></li></ul>
+<dl><dd>Tsurugi Tatsuno was originally partnered with a Greymon. However, in a battle against Peckmon, Piximon De-Digivolved Greymon to Agumon. Agumon later gains the ability to Digivolve into GeoGreymon. Later, when Tsurugi and GeoGreymon were fighting Shou and Yatagaramon, GeoGreymon gained the ability to digivolve into RiseGreymon. Now, in the System World, after Tsuguri receives the Digivice Twin R, RiseGreymon has digivolved into VictoryGreymon. After defeating NEO, he is turned to stone and reborn as a Digi-Egg.</dd></dl>
+<ul><li><b>Yuu Inui and Gaomon</b></li></ul>
+<dl><dd>Gaomon is the Digimon partner of Yuu Inui. Tsurugi Tatsuno and Agumon first encounter them when Gaomon steals from them. After the defeat of a Tankdramon, they joined Tsurugi in his adventures to stop Barbamon. Gaogamon later was able to Digivolve to his ultimate form, MachGaogamon. Now, in the System World, after Yuu receives the Digivice Twin L, MachGaogamon has Digivolved into Z'dGarurumon. After defeating NEO, he is turned to stone and reborn as a Digi-Egg.</dd></dl>
+<ul><li><b>Ami Kitajima and Pichimon</b></li></ul>
+<dl><dd>Pichimon is the Digimon partner of Ami Kitajima, a friend of Tsurugi who hates battling. Their purpose in the storyline is unknown at this time. In Chapter 11 however, it is revealed that Pichimon carries the DigiMemory of Water and can Digivolve to MarineAngemon. Pichimon and Ami are kidnapped and Pichimon alongside his DigiMemory is taken. With the help of Ami and her DigiSoul, Pichimon breaks free from NEO's body and Digivolves to MarineAngemon to help fight NEO. She has a crush on Tsurugi, and when she returned to the real world, she was last seen in Tsurugi's lap.</dd></dl>
+<ul><li><b>Shou Kahara and Peckmon</b></li></ul>
+<dl><dd>A black Peckmon is the Digimon Partner of Shou and possesses the Bird Digi-Memory, which Barbamon needs to gain total control over the Digital World. Peckmon first appeared when Shou attacked Tsurugi Tatsuno under the guise of the Hacker Tamer "<i>the Black Winged Knight</i>". Peckmon fought Tsurugi's Greymon, causing it to de-digivolve into Agumon, and would have claimed total victory if not for Piximon's intervention. In its battle against MegaKabuterimon to claim the Plant/Insect DigiMemory, Shou Digivolved Peckmon into Yatagaramon. During the attack on Light City, Chaosdramon revealed to Shou that Barbamon told him to dispose Shou and that is why Chaosdramon tried to kill him. Afterwards, he reappears to fight Murmuxmon, making Peckmon digivolve into Ravemon. When Shou and friends met Norn in the real world (about age eight or so) he fell in love with her. He started to hate Tsurugi because he forgot about her immediately and became obsessed with soccer. After battling some bullies who had stolen several little kids' Digimon minis, they grabbed his and broke it. The hate of the bullies, and want of seeing Norn again coursed through him, causing Barbamon to take interest. Barbamon saved Peckmon, and took Shou out of the real world. Shou and Barbamon share the same ideas about Digimon happiness, causing Shou to become his minion right away. In the end, Shou had to say good-bye to Norn and returned to the real world.</dd></dl>
+<ul><li><b>Barbamon</b></li></ul>
+<dl><dd>Barbamon seems to be the main enemy in this manga. Barbamon was able to hijack the host computer of the Digital World, which lied in the <i>System World</i>. His target is to take over the Digital World, and for this goal, he has gathered a large army of Digimon and even a human named Shou (together with his partner Peckmon) to help him. To take over and reform the Digital World as he wishes, he needs the eight "<i>DigiMemories</i>", which Shou is helping him gather. It is later revealed that he was merged with Yggdrasil. In the end, he is defeated by Tsuguri and VictoryGreymon, but not before completing NEO.</dd></dl>
+<ul><li><b>Commandments</b></li></ul>
+<dl><dd>Barbamon has many Digimon working for him. These include a Sealsdramon, a Waspmon, an army of Commandramon, a Mummymon, the Commandment Strategist Datamon, some Armored Trailmon, and an army of BladeKuwagamon. He also has the 3 Commandment Commanders (Chaosdramon, Murmuxmon, and Zanbamon) who lead his Commandments. The 3 Commandment Commanders were defeated, but turned out to survive when it came to the final battle against NEO.</dd></dl>
+<ul><li><b>Datamon</b></li></ul>
+<dl><dd>A Datamon works as a Commandment Strategist for Barbamon. Datamon is shown when he spies on a secret meeting between Shou and Norn. He created the Hot Spring Paradise and piloted an Angewomon robot. When trying to claim the DigiMemory of Water from Pitimon in the Angewomon robot, Pitimon Digivolves to MarineAngemon and Datamon retreats. He also reveals to Tsurugi that he's competing against Shou to get the DigiMemories for Barbamon. He later returns to help in the final battle against NEO.</dd></dl>
+<ul><li><b>Piximon</b></li></ul>
+<dl><dd>Piximon is the general overseer in the Digital World. He is the one who opposes Barbamon and thus calls a human to the Digital World to fight him. However, he is badly hurt by an attack from Sealsdramon, having the Holy DigiMemory taken away from him. It seems that he recovered in recent chapters and reappears during the final battle against NEO with a NurseGuardromon.</dd></dl>
+<ul><li><b>Andromon</b></li></ul>
+<dl><dd>Another overseer of the Digital World who resides in Light City. He is killed by Chaosdramon, but his projection revealed to Tsurugi and Yuu that he placed a virus in his DigiMemory that makes the machine part of NEO not obey him.</dd></dl>
+<ul><li><b>Norn Mikihara</b></li></ul>
+<dl><dd>A girl imprisoned by Barbamon. She was sent by Yggdrasil to learn what Digimon mean to Humans, where she befriends Tsuguri, Yuu, Ami, and Shou. She approached them and asked what were Digimon to them. When she heard that they were all friends and family, she told them to always fight for Digimon. Shou fell in love with her, and then hated Tsrugi because he forgot of the promise. She is actually the manifestation of Yggdrasil's very conscience.</dd></dl>
+<ul><li><b>Yggdrasil</b></li></ul>
+<dl><dd>A resident of the System World and the God of the Digital World. After he sent Norn to the real world, he was forcibly merged with Barbamon.</dd></dl>
+<ul><li><b>NEO</b></li></ul>
+<dl><dd>An artificial Digimon being created by Barbamon. To complete this creation, all 8 DigiMemories are needed. He first appears as a small black blob, but evolves to an embryonic form by merging with the Holy DigiMemory and the Insect DigiMemory (which gives him thorns on his shoulders and mask). It grows a left arm after receiving the Machine DigiMemory and begins to grow a body and fiery hair after receiving the Water DigiMemory (alongside Pichimon who serves as his head). After Barbamon is defeated, it absorbs the Bird DigiMemory (which gives NEO wings) and Darkness DigiMemory (which forms his body) along with a massive amount of data to take on an almost-completed humanoid form. Following his awakening, NEO defeats VictoryGreymon and Z'dGarurumon. NEO then steals the Dragon DigiMemory (which gives NEO a right arm) and the Beast DigiMemory (which gives NEO beast legs) to complete himself. He plans to eradicate both the Real and Digital Worlds, and replace them with worlds of his own creation. Soon, NEO starts to lose control of the DigiMemories. After a battle against VictoryGreymon and Z'dGarurumon, NEO regresses back into the 8 DigiMemories now learning the bond between humans and Digimon.</dd></dl>
+<h2><span class="mw-headline" id="Minor_characters">Minor characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Digimon_Next&amp;action=edit&amp;section=3" title="Edit section: Minor characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b>Tooru</b></li></ul>
+<dl><dd>One of Tsurugi's friends who gets him to participate in a Digimon Battle. His Digimon Partner is unknown. Throughout the story he tries to find out what happened to Tsurugi who was sucked through the net battle machine.)</dd></dl>
+<ul><li><b>Saito</b></li></ul>
+<dl><dd>Saitou is the first Tamer that Tsurugi battles in the Terminal. His Digimon Partner is a Greymon larger than Tsurugi's. He was defeated by Tsurugi.</dd></dl>
+<h2><span class="mw-headline" id="DigiMemories">DigiMemories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Digimon_Next&amp;action=edit&amp;section=4" title="Edit section: DigiMemories">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 8 DigiMemories are pendants that are stopping Barbamon from taking over the Digital World. He will stop at nothing to get them. If he collects all of them, he'll recreate the Digital World in his image. Upon defeat, NEO regresses back to the 8 DigiMemories which rebuild the Digital World. Among the 8 DigiMemories are:
+</p>
+<ol><li><b>Dark DigiMemory</b> (symbolized as a dark skull) - Owned by Barbamon. Added to NEO after Barbamon's defeat.</li>
+<li><b>Bird DigiMemory</b> (symbolized as a bird) - Owned by Shou Kahara until it was stolen by Barbamon, completing NEO.</li>
+<li><b>Holy DigiMemory</b> (symbolized as a cross) - Stolen from Piximon and given to Barbamon. Now a part of NEO.</li>
+<li><b>Dragon DigiMemory</b> (symbolized as a dragon) - Owned by Tsurugi Tatsuno. Stolen by NEO to complete himself.</li>
+<li><b>Beast DigiMemory</b> (symbolized as a wolf head) - Owned by Yuu Inui. Stolen by NEO to complete himself.</li>
+<li><b>Insect</b>/<b>Plant DigiMemory</b> (symbolized as a beetle horn) - Stolen from <a class="mw-redirect" href="/wiki/Tentomon#MegaKabuterimon" title="Tentomon">MegaKabuterimon</a> and given to Barbamon. Suspected to be now part of NEO.</li>
+<li><b>Water DigiMemory</b> (symbolized as a dolphin) - Owned by Ami Kitajima until it was claimed from her after her kidnapping and is now part of NEO.</li>
+<li><b>Machine</b>/<b>Mutant DigiMemory</b> (symbolized as cogs) - Stolen from Andromon and given to Barbamon who uses it as a part of NEO.</li></ol>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Digimon_Next&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://myanimelist.net/manga/magazine/168/V-Jump" rel="nofollow">"V-Jump - Manga Magazine"</a>. <i>MyAnimeList.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-05-30</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MyAnimeList.net&amp;rft.atitle=V-Jump+-+Manga+Magazine&amp;rft_id=https%3A%2F%2Fmyanimelist.net%2Fmanga%2Fmagazine%2F168%2FV-Jump&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADigimon+Next"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Digimon_Next&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external free" href="http://books.shueisha.co.jp/CGI/search/syousai_put.cgi?isbn_cd=4-08-874137-4&amp;mode=1" rel="nofollow">http://books.shueisha.co.jp/CGI/search/syousai_put.cgi?isbn_cd=4-08-874137-4&amp;mode=1</a></li></ul>
+<div aria-labelledby="Digimon" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Digimon" title="Template:Digimon"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Digimon" title="Template talk:Digimon"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Digimon&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Digimon" style="font-size:114%;margin:0 4em"><i><a href="/wiki/Digimon" title="Digimon">Digimon</a></i></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Print</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Digimon_Adventure_V-Tamer_01" title="Digimon Adventure V-Tamer 01">Adventure V-Tamer 01</a></i></li>
+<li><i><a href="/wiki/Digimon_D-Cyber" title="Digimon D-Cyber">D-Cyber</a></i></li>
+<li><i><a class="mw-selflink selflink">Next</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_Digimon_episodes_and_films" title="List of Digimon episodes and films">Television series</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Digimon_Adventure" title="Digimon Adventure">Adventure</a></i>
+<ul><li><a href="/wiki/List_of_Digimon_Adventure_episodes" title="List of Digimon Adventure episodes">episodes</a></li></ul></li>
+<li><i><a href="/wiki/Digimon_Adventure_02" title="Digimon Adventure 02">Adventure 02</a></i>
+<ul><li><a href="/wiki/List_of_Digimon_Adventure_02_episodes" title="List of Digimon Adventure 02 episodes">episodes</a></li></ul></li>
+<li><i><a href="/wiki/Digimon_Tamers" title="Digimon Tamers">Tamers</a></i>
+<ul><li><a href="/wiki/List_of_Digimon_Tamers_episodes" title="List of Digimon Tamers episodes">episodes</a></li></ul></li>
+<li><i><a href="/wiki/Digimon_Frontier" title="Digimon Frontier">Frontier</a></i>
+<ul><li><a href="/wiki/List_of_Digimon_Frontier_episodes" title="List of Digimon Frontier episodes">episodes</a></li></ul></li>
+<li><i><a href="/wiki/Digimon_Data_Squad" title="Digimon Data Squad">Data Squad</a></i>
+<ul><li><a href="/wiki/List_of_Digimon_Data_Squad_episodes" title="List of Digimon Data Squad episodes">episodes</a></li></ul></li>
+<li><i><a href="/wiki/Digimon_Fusion" title="Digimon Fusion">Fusion</a></i>
+<ul><li><a href="/wiki/List_of_Digimon_Fusion_episodes" title="List of Digimon Fusion episodes">episodes</a>
+<ul><li><a href="/wiki/Digimon_Fusion_(season_1)" title="Digimon Fusion (season 1)">season 1</a></li>
+<li><a href="/wiki/Digimon_Fusion_(season_2)" title="Digimon Fusion (season 2)">2</a></li>
+<li><a href="/wiki/Digimon_Fusion_(season_3)" title="Digimon Fusion (season 3)">3</a></li></ul></li></ul></li>
+<li><i><a href="/wiki/Digimon_Universe:_App_Monsters" title="Digimon Universe: App Monsters">App Monsters</a></i>
+<ul><li><a href="/wiki/List_of_Digimon_Universe:_App_Monsters_episodes" title="List of Digimon Universe: App Monsters episodes">episodes</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_Digimon_films" title="List of Digimon films">Films</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Digimon:_The_Movie" title="Digimon: The Movie">Digimon: The Movie</a></i></li>
+<li><i><a href="/wiki/Digimon_Adventure_tri." title="Digimon Adventure tri.">Digimon Adventure tri.</a></i></li>
+<li><i><a href="/wiki/Digimon_Adventure:_Last_Evolution_Kizuna" title="Digimon Adventure: Last Evolution Kizuna">Digimon Adventure: Last Evolution Kizuna</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_Digimon_video_games" title="List of Digimon video games">Video games</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><i>World</i> series</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Digimon_World" title="Digimon World">World</a></i></li>
+<li><i><a href="/wiki/Digimon_World_2" title="Digimon World 2">2</a></i></li>
+<li><i><a href="/wiki/Digimon_World_3" title="Digimon World 3">3</a></i></li>
+<li><i><a href="/wiki/Digimon_World_4" title="Digimon World 4">4</a></i></li>
+<li><i><a href="/wiki/Digimon_World_Re:Digitize" title="Digimon World Re:Digitize">Re:Digitize</a></i></li>
+<li><i><a href="/wiki/Digimon_World:_Next_Order" title="Digimon World: Next Order">Next Order</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><i>Story</i> series</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Digimon_World_DS" title="Digimon World DS">DS</a></i></li>
+<li><a href="/wiki/Digimon_World_Dawn_and_Dusk" title="Digimon World Dawn and Dusk"><i>Dawn</i> &amp; <i>Dusk</i></a></li>
+<li><i><a href="/wiki/Digimon_Story_Lost_Evolution" title="Digimon Story Lost Evolution">Lost Evolution</a></i></li>
+<li><i><a href="/wiki/Digimon_Story:_Cyber_Sleuth" title="Digimon Story: Cyber Sleuth">Cyber Sleuth</a></i>
+<ul><li><i><a href="/wiki/Digimon_Story:_Cyber_Sleuth_%E2%80%93_Hacker%27s_Memory" title="Digimon Story: Cyber Sleuth – Hacker's Memory">Hacker's Memory</a></i></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Fighting games</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Digimon_Battle_Spirit" title="Digimon Battle Spirit">Battle Spirit</a></i>
+<ul><li><i><a href="/wiki/Digimon_Tamers:_Battle_Spirit_Ver._1.5" title="Digimon Tamers: Battle Spirit Ver. 1.5">1.5</a></i></li>
+<li><i><a href="/wiki/Digimon_Battle_Spirit_2" title="Digimon Battle Spirit 2">2</a></i></li></ul></li>
+<li><i><a href="/wiki/Digimon_Rumble_Arena" title="Digimon Rumble Arena">Rumble Arena</a></i>
+<ul><li><i><a href="/wiki/Digimon_Rumble_Arena_2" title="Digimon Rumble Arena 2">2</a></i></li></ul></li>
+<li><i><a href="/wiki/Digimon_All-Star_Rumble" title="Digimon All-Star Rumble">All-Star Rumble</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">MMOs</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Digimon_Battle_Online" title="Digimon Battle Online">Battle Online</a></i></li>
+<li><i><a href="/wiki/Digimon_Masters" title="Digimon Masters">Masters</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Others</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Digimon_Adventure:_Anode/Cathode_Tamer" title="Digimon Adventure: Anode/Cathode Tamer">Anode/Cathode Tamer</a></i></li>
+<li><i><a href="/wiki/Digimon_Digital_Card_Battle" title="Digimon Digital Card Battle">Digital Card Battle</a></i></li>
+<li><i><a href="/wiki/Digimon_Racing" title="Digimon Racing">Racing</a></i></li>
+<li><i><a href="/wiki/Digimon_World_Data_Squad" title="Digimon World Data Squad">Data Squad</a></i></li>
+<li><i><a href="/wiki/Digimon_World_Championship" title="Digimon World Championship">Championship</a></i></li>
+<li><i><a href="/wiki/Digimon_Adventure_(video_game)" title="Digimon Adventure (video game)">Adventure</a></i></li>
+<li><i><a href="/wiki/Digimon_Survive" title="Digimon Survive">Survive</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Characters</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Digimon_Adventure_characters" title="List of Digimon Adventure characters"><i>Adventure</i> characters</a>
+<ul><li><a href="/wiki/Tai_Kamiya" title="Tai Kamiya">Tai Kamiya</a></li>
+<li><a href="/wiki/Matt_Ishida" title="Matt Ishida">Matt Ishida</a></li></ul></li>
+<li><a href="/wiki/List_of_Digimon_Tamers_characters" title="List of Digimon Tamers characters"><i>Tamers</i> characters</a></li>
+<li><a href="/wiki/List_of_Digimon_Fusion_characters" title="List of Digimon Fusion characters"><i>Fusion</i> characters</a></li>
+<li><a href="/wiki/List_of_Digimon_Universe:_App_Monsters_characters" title="List of Digimon Universe: App Monsters characters"><i>App Monsters</i> characters</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Digital_Monster_(virtual_pet)" title="Digital Monster (virtual pet)">Virtual pet</a></li>
+<li><a href="/wiki/Tamagotchi" title="Tamagotchi">Tamagotchi</a></li>
+<li>"<a href="/wiki/Butter-Fly_(K%C5%8Dji_Wada_song)" title="Butter-Fly (Kōji Wada song)">Butter-Fly</a>"</li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1253
+Cached time: 20191207002846
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.464 seconds
+Real time usage: 0.616 seconds
+Preprocessor visited node count: 1204/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 42515/2097152 bytes
+Template argument size: 1450/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 2811/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.320/10.000 seconds
+Lua memory usage: 13.03 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  560.252      1 -total
+ 50.35%  282.061      3 Template:Infobox
+ 46.15%  258.545      1 Template:Infobox_animanga/Header
+ 35.44%  198.567      1 Template:Nihongo2
+ 34.06%  190.819      1 Template:Lang
+ 20.62%  115.539      1 Template:Reflist
+ 18.80%  105.352      1 Template:Cite_web
+ 14.54%   81.436      1 Template:Unreferenced
+ 11.58%   64.903      1 Template:Ambox
+  6.65%   37.283      1 Template:Infobox_animanga/Print
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4498862-0!canonical and timestamp 20191207002845 and revision id 911210476
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Digimon_Next&amp;oldid=911210476">https://en.wikipedia.org/w/index.php?title=Digimon_Next&amp;oldid=911210476</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Manga_series" title="Category:Manga series">Manga series</a></li><li><a href="/wiki/Category:2006_manga" title="Category:2006 manga">2006 manga</a></li><li><a href="/wiki/Category:Digimon_anime_and_manga" title="Category:Digimon anime and manga">Digimon anime and manga</a></li><li><a href="/wiki/Category:Sh%C5%8Dnen_manga" title="Category:Shōnen manga">Shōnen manga</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_sources_from_January_2019" title="Category:Articles lacking sources from January 2019">Articles lacking sources from January 2019</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li><li><a href="/wiki/Category:Articles_containing_Japanese-language_text" title="Category:Articles containing Japanese-language text">Articles containing Japanese-language text</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Digimon+Next" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Digimon+Next" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Digimon_Next" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Digimon_Next" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Digimon_Next">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Digimon_Next&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Digimon_Next&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Digimon_Next" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Digimon_Next" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Digimon_Next&amp;oldid=911210476" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Digimon_Next&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q596815" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Digimon_Next&amp;id=911210476" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Digimon+Next">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Digimon+Next&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Digimon_Next&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%AC%D9%8A%D9%85%D9%88%D9%86_%D9%86%D9%8A%D9%83%D8%B3%D8%AA" hreflang="ar" lang="ar" title="ديجيمون نيكست – Arabic">العربية</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Digimon_Next" hreflang="fr" lang="fr" title="Digimon Next – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Digimon_Next" hreflang="it" lang="it" title="Digimon Next – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B8%E3%83%A2%E3%83%B3%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88" hreflang="ja" lang="ja" title="デジモンネクスト – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Digimon_Next" hreflang="pt" lang="pt" title="Digimon Next – Portuguese">Português</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Digimon_Next" hreflang="tl" lang="tl" title="Digimon Next – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%95%B0%E7%A0%81%E5%AE%9D%E8%B4%9D%E6%AC%A1%E4%B8%96%E4%BB%A3" hreflang="zh" lang="zh" title="数码宝贝次世代 – Chinese">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q596815#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 17 August 2019, at 09:28<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Digimon_Next&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.464","walltime":"0.616","ppvisitednodes":{"value":1204,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":42515,"limit":2097152},"templateargumentsize":{"value":1450,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":2811,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  560.252      1 -total"," 50.35%  282.061      3 Template:Infobox"," 46.15%  258.545      1 Template:Infobox_animanga/Header"," 35.44%  198.567      1 Template:Nihongo2"," 34.06%  190.819      1 Template:Lang"," 20.62%  115.539      1 Template:Reflist"," 18.80%  105.352      1 Template:Cite_web"," 14.54%   81.436      1 Template:Unreferenced"," 11.58%   64.903      1 Template:Ambox","  6.65%   37.283      1 Template:Infobox_animanga/Print"]},"scribunto":{"limitreport-timeusage":{"value":"0.320","limit":"10.000"},"limitreport-memusage":{"value":13664640,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1253","timestamp":"20191207002846","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Digimon Next","url":"https:\/\/en.wikipedia.org\/wiki\/Digimon_Next","sameAs":"http:\/\/www.wikidata.org\/entity\/Q596815","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q596815","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-03-24T11:22:46Z","dateModified":"2019-08-17T09:28:41Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/9d\/Digimon_Next.jpg","headline":"manga"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1324"});});</script>
+
+
+</body></html>

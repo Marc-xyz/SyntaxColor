@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Backpacking (travel) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xeo2uApAICkAAJ1ID5gAAACP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Backpacking_(travel)","wgTitle":"Backpacking (travel)","wgCurRevisionId":929490447,"wgRevisionId":929490447,"wgArticleId":854049,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Backpacking","Youth hostelling","Hitchhiking"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Backpacking_(travel)","wgRelevantArticleId":854049,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q492202","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready",
+"mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.5" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Urban_backpacking.jpg/1200px-Urban_backpacking.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Backpacking_(travel)" rel="alternate"/>
+<link href="/w/index.php?title=Backpacking_(travel)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Backpacking_(travel)&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Backpacking_(travel)" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Backpacking_travel rootpage-Backpacking_travel skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Backpacking (travel)</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about backpacking while travelling. For other uses, see <a class="mw-redirect mw-disambig" href="/wiki/Backpacking_(disambiguation)" title="Backpacking (disambiguation)">Backpacking</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:232px;"><a class="image" href="/wiki/File:Urban_backpacking.jpg"><img alt="" class="thumbimage" data-file-height="2216" data-file-width="1840" decoding="async" height="277" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Urban_backpacking.jpg/230px-Urban_backpacking.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Urban_backpacking.jpg/345px-Urban_backpacking.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Urban_backpacking.jpg/460px-Urban_backpacking.jpg 2x" width="230"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Urban_backpacking.jpg" title="Enlarge"></a></div>Two backpackers from <a href="/wiki/Denmark" title="Denmark">Denmark</a> in front of the <a href="/wiki/Vienna_State_Opera" title="Vienna State Opera">Vienna State Opera</a> in July 2005</div></div></div>
+<p><b>Backpacking</b> is a form of low-cost, independent travel. Once considered a marginal activity undertaken by society’s drop-outs, it has gradually entered the tourism mainstream.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>While backpacker tourism is generally a form of <a href="/wiki/Youth_travel" title="Youth travel">youth travel</a>, primarily undertaken by young people during <a href="/wiki/Gap_year" title="Gap year">gap years</a>, it is also undertaken by older people during a career break or retirement. Backpackers tend to be from <a href="/wiki/Europe" title="Europe">Europe</a>, the <a href="/wiki/English-speaking_world" title="English-speaking world">English-speaking world</a>, <a href="/wiki/Asia" title="Asia">Asia</a>, or <a href="/wiki/Israel" title="Israel">Israel</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Characteristics"><span class="tocnumber">1</span> <span class="toctext">Characteristics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Benefits"><span class="tocnumber">2.1</span> <span class="toctext">Benefits</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#For_participants"><span class="tocnumber">2.1.1</span> <span class="toctext">For participants</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#For_communities"><span class="tocnumber">2.1.2</span> <span class="toctext">For communities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Criticism"><span class="tocnumber">2.2</span> <span class="toctext">Criticism</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Effect_on_culture"><span class="tocnumber">2.2.1</span> <span class="toctext">Effect on culture</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Lack_of_cultural_immersion"><span class="tocnumber">2.2.2</span> <span class="toctext">Lack of cultural immersion</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Transformation_of_localities"><span class="tocnumber">2.2.3</span> <span class="toctext">Transformation of localities</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Variants"><span class="tocnumber">3</span> <span class="toctext">Variants</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Characteristics">Characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Backpacking_(travel)&amp;action=edit&amp;section=1" title="Edit section: Characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Backpacker tourism generally, but does not always, include:<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<ul><li>Traveling mostly via <a href="/wiki/Public_transport" title="Public transport">public transport</a>.</li>
+<li>Using inexpensive lodging such as <a href="/wiki/Hostel" title="Hostel">hostels</a>.</li>
+<li>A longer duration trip when compared with conventional vacations.</li>
+<li>An interest in meeting locals as well as seeing sights.</li>
+<li>An interest in meeting other travelers.</li>
+<li>Use of <a href="/wiki/Smartphone" title="Smartphone">smartphones</a> and online resources for planning.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></li>
+<li>Carrying belongings in a <a href="/wiki/Backpack" title="Backpack">backpack</a>. Backpackers have traditionally carried their possessions in 30 liter to 60 liter backpacks, but roller-wheeled suitcases and some less-traditional carrying methods have become more common, and there has been a trend towards keeping pack weights under the 8-to-10 kilogram carry-on limit of most airlines.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></li>
+<li>Backpacker tourism may also include working in various countries for short stints, depending on <a href="/wiki/Work_permit" title="Work permit">work permit</a> laws.<sup class="reference" id="cite_ref-BTAP_7-0"><a href="#cite_note-BTAP-7">[7]</a></sup> It can also be undertaken by <a href="/wiki/Digital_nomad" title="Digital nomad">digital nomads</a>, people who work using technology while living a nomadic lifestyle.</li>
+<li>A sense of <a href="/wiki/Authenticity_(philosophy)" title="Authenticity (philosophy)">authenticity</a>. Backpacking is perceived not only as a form of <a href="/wiki/Tourism" title="Tourism">tourism</a>, but a means of education.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Backpackers want to experience what they consider the "real" destination rather than a packaged version often associated with mass tourism.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></li></ul>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Backpacking_(travel)&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>People have travelled for thousands of years with their possessions on their backs, but usually out of need rather than for recreation.
+</p><p>In the 17th century, Italian adventurer <a href="/wiki/Giovanni_Francesco_Gemelli_Careri" title="Giovanni Francesco Gemelli Careri">Giovanni Francesco Gemelli Careri</a> was likely one of the first people to engage in backpacker tourism.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p><p>The modern popularity of backpacking can be traced, at least partially, to the <a href="/wiki/Hippie_trail" title="Hippie trail">hippie trail</a> of the 1960s and 1970s,<sup class="reference" id="cite_ref-Diversity_11-0"><a href="#cite_note-Diversity-11">[11]</a></sup> which in turn followed sections of the old <a href="/wiki/Silk_Road" title="Silk Road">Silk Road</a>. Some backpackers follow the same trail today.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p><p>Since the late-20th century, backpackers have visited <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a> in large numbers<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Benefits">Benefits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Backpacking_(travel)&amp;action=edit&amp;section=3" title="Edit section: Benefits">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="For_participants">For participants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Backpacking_(travel)&amp;action=edit&amp;section=4" title="Edit section: For participants">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A 2018 study of over 500 backpackers conducted by researchers at <a href="/wiki/Sun_Yat-sen_University" title="Sun Yat-sen University">Sun Yat-sen University</a> and <a href="/wiki/Shaanxi_Normal_University" title="Shaanxi Normal University">Shaanxi Normal University</a> in China and <a href="/wiki/Edith_Cowan_University" title="Edith Cowan University">Edith Cowan University</a> in Australia showed that for Westerners, backpacking leads to acquired capabilities like effective communication, <a href="/wiki/Decision-making" title="Decision-making">decision-making</a>, <a href="/wiki/Adaptability" title="Adaptability">adaptability</a>, and <a href="/wiki/Problem_solving" title="Problem solving">problem solving</a>, all of which contribute to an increase in <a href="/wiki/Self-efficacy" title="Self-efficacy">self-efficacy</a>, and for Chinese backpackers, acquiring skills like time and <a href="/wiki/Money_management" title="Money management">money management</a>, language development, <a href="/wiki/Stress_management" title="Stress management">stress management</a>, and self-motivation provided the biggest increase in self-efficacy.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p>
+<h4><span class="mw-headline" id="For_communities">For communities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Backpacking_(travel)&amp;action=edit&amp;section=5" title="Edit section: For communities">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>For many low-income communities in the developing world, the economic benefits of hosting backpackers outweigh their negative impacts. Since backpackers tend to consume local products, stay in small guest houses, and use locally owned ground transport, more of their expenditure is retained in-country than in conventional mass tourism. businesses that cater to backpackers are usually locally owned and profits tend to be retained within the country rather than flowing overseas to international hotel groups.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Backpacking_(travel)&amp;action=edit&amp;section=6" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Effect_on_culture">Effect on culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Backpacking_(travel)&amp;action=edit&amp;section=7" title="Edit section: Effect on culture">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Backpacker tourism of the <a href="/wiki/Hippie_trail" title="Hippie trail">hippie trail</a> has been criticized for possibly encouraging urban liberal minorities while insulting <a href="/wiki/Traditionalist_theology_(Islam)" title="Traditionalist theology (Islam)">Islamic traditionalist theology</a>, possibly leading to the Islamic reawakening in the late 1970s.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Lack_of_cultural_immersion">Lack of cultural immersion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Backpacking_(travel)&amp;action=edit&amp;section=8" title="Edit section: Lack of cultural immersion">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Even though one of the primary aims of backpacking is to seek the "authentic", the majority of backpackers spend most of their time interacting with other backpackers, and interactions with locals are of "secondary importance".<sup class="reference" id="cite_ref-Diversity_11-1"><a href="#cite_note-Diversity-11">[11]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Transformation_of_localities">Transformation of localities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Backpacking_(travel)&amp;action=edit&amp;section=9" title="Edit section: Transformation of localities">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Backpacker tourism has been criticized for the transformation of some sleepy towns and the creation of the <a href="/wiki/Full_Moon_Party" title="Full Moon Party">Full Moon Party</a> on <a href="/wiki/Ko_Pha-ngan" title="Ko Pha-ngan">Ko Pha-ngan</a> in <a href="/wiki/Thailand" title="Thailand">Thailand</a>, which includes "scores of topless teenagers urinating into the ocean".<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Variants">Variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Backpacking_(travel)&amp;action=edit&amp;section=10" title="Edit section: Variants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Flashpacking</b> and <b>Poshpacking</b> refer to backpacking with more money and resources. The words combine <i>backpacking</i> with <i>flash</i>, a slang term for being fancy, or <i>posh</i>, an informal adjective for <a href="/wiki/Upper_class" title="Upper class">upper class</a>.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup><sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>
+</p><p><b>Begpacking</b> combines <i>begging</i> and <i>backpacking</i> in reference to individuals who <a href="/wiki/Begging" title="Begging">beg</a> (ask directly or indirectly for money), solicit money during <a href="/wiki/Street_performance" title="Street performance">street performances</a>, or vend (sell postcards or other small items) as a way to extend their overseas travel.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> The trend has drawn criticism for taking money away from people in actual need, with one known begpacker barred from entering <a href="/wiki/Singapore" title="Singapore">Singapore</a>.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup><sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> Begpacking is most common in Southeast Asia and is a growing trend in South America.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup><sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Backpacking_(travel)&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">
+<cite class="citation journal">Caprioglio O'Reilly, Camille (2006). "From Drifter to Gap Year Tourist Mainstreaming Backpacker Travel". <i>Annals of Tourism Research</i>. <b>33</b> (4): 998–1017. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.annals.2006.04.002" rel="nofollow">10.1016/j.annals.2006.04.002</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annals+of+Tourism+Research&amp;rft.atitle=From+Drifter+to+Gap+Year+Tourist+Mainstreaming+Backpacker+Travel&amp;rft.volume=33&amp;rft.issue=4&amp;rft.pages=998-1017&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1016%2Fj.annals.2006.04.002&amp;rft.aulast=Caprioglio+O%27Reilly&amp;rft.aufirst=Camille&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news">Yin, David (December 19, 2013). <a class="external text" href="https://www.forbes.com/sites/davidyin/2013/12/19/out-of-israel-into-the-world/" rel="nofollow">"Out Of Israel, Into The World"</a>. <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Forbes&amp;rft.atitle=Out+Of+Israel%2C+Into+The+World&amp;rft.date=2013-12-19&amp;rft.aulast=Yin&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidyin%2F2013%2F12%2F19%2Fout-of-israel-into-the-world%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Kelly, Catherine. <a class="external text" href="https://sk.sagepub.com/reference/the-sage-international-encyclopedia-of-travel-and-tourism/i2343.xml" rel="nofollow">"Backpacker Tourism"</a> – via <a href="/wiki/SAGE_Publishing" title="SAGE Publishing">SAGE Publishing</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Backpacker+Tourism&amp;rft.aulast=Kelly&amp;rft.aufirst=Catherine&amp;rft_id=https%3A%2F%2Fsk.sagepub.com%2Freference%2Fthe-sage-international-encyclopedia-of-travel-and-tourism%2Fi2343.xml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Ooi, Natalie; Laing, Jennifer H. (March 2010). <a class="external text" href="https://www.researchgate.net/publication/249023759" rel="nofollow">"Backpacker tourism: sustainable and purposeful? Investigating the overlap between backpacker tourism and volunteer tourism motivations"</a>. <a href="/wiki/Journal_of_Sustainable_Tourism" title="Journal of Sustainable Tourism">Journal of Sustainable Tourism</a> – via <a href="/wiki/ResearchGate" title="ResearchGate">ResearchGate</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Backpacker+tourism%3A+sustainable+and+purposeful%3F+Investigating+the+overlap+between+backpacker+tourism+and+volunteer+tourism+motivations&amp;rft.pub=Journal+of+Sustainable+Tourism&amp;rft.date=2010-03&amp;rft.aulast=Ooi&amp;rft.aufirst=Natalie&amp;rft.au=Laing%2C+Jennifer+H.&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F249023759&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dayour, Frederick (27 March 2019). "Backpackers' experiences with smartphones usage in Ghana". <i>Anatolia</i>. <b>30</b> (3): 390–403. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F13032917.2019.1597741" rel="nofollow">10.1080/13032917.2019.1597741</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Anatolia&amp;rft.atitle=Backpackers%27+experiences+with+smartphones+usage+in+Ghana&amp;rft.volume=30&amp;rft.issue=3&amp;rft.pages=390-403&amp;rft.date=2019-03-27&amp;rft_id=info%3Adoi%2F10.1080%2F13032917.2019.1597741&amp;rft.aulast=Dayour&amp;rft.aufirst=Frederick&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+<cite class="citation news">Catto, Susan (April 14, 2002). <span class="cs1-lock-subscription" title="Paid subscription required"><a class="external text" href="https://www.nytimes.com/2002/04/14/travel/practical-traveler-the-pack-of-backpacking.html" rel="nofollow">"PRACTICAL TRAVELER; The 'Pack' Of Backpacking"</a></span>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=PRACTICAL+TRAVELER%3B+The+%27Pack%27+Of+Backpacking&amp;rft.date=2002-04-14&amp;rft.aulast=Catto&amp;rft.aufirst=Susan&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2002%2F04%2F14%2Ftravel%2Fpractical-traveler-the-pack-of-backpacking.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-BTAP-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-BTAP_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Victoria, Government. <a class="external text" href="https://www.business.vic.gov.au/tourism-industry-resources" rel="nofollow">"Backpacker Tourism Action Plan"</a>. Tourism Victoria.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Backpacker+Tourism+Action+Plan&amp;rft.pub=Tourism+Victoria&amp;rft.aulast=Victoria&amp;rft.aufirst=Government&amp;rft_id=https%3A%2F%2Fwww.business.vic.gov.au%2Ftourism-industry-resources&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pearce, Philip; Foster, Faith (2007). "A "University of Travel": Backpacker Learning". <i>Tourism Management</i>. <b>28</b> (5): 1285–1298. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.tourman.2006.11.009" rel="nofollow">10.1016/j.tourman.2006.11.009</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Tourism+Management&amp;rft.atitle=A+%22University+of+Travel%22%3A+Backpacker+Learning&amp;rft.volume=28&amp;rft.issue=5&amp;rft.pages=1285-1298&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1016%2Fj.tourman.2006.11.009&amp;rft.aulast=Pearce&amp;rft.aufirst=Philip&amp;rft.au=Foster%2C+Faith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">Richards, Greg; Wilson, Julie (March 29, 2004). <a class="external text" href="https://books.google.com/books/about/The_Global_Nomad.html?id=S8qBAAAAMAAJ" rel="nofollow"><i>The Global Nomad: Backpacker Theory in Travel and Practice</i></a>. <a href="/wiki/Channel_View_Publications" title="Channel View Publications">Channel View Publications</a>. pp. 80–91. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-873150-76-8" title="Special:BookSources/1-873150-76-8"><bdi>1-873150-76-8</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Global+Nomad%3A+Backpacker+Theory+in+Travel+and+Practice&amp;rft.pages=80-91&amp;rft.pub=Channel+View+Publications&amp;rft.date=2004-03-29&amp;rft.isbn=1-873150-76-8&amp;rft.aulast=Richards&amp;rft.aufirst=Greg&amp;rft.au=Wilson%2C+Julie&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%2Fabout%2FThe_Global_Nomad.html%3Fid%3DS8qBAAAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.infohostels.com/notizia.php?chiave=200" rel="nofollow">"The Inventor of Traveling - The First Backpacker in the World?"</a>. July 2007. <a class="external text" href="https://web.archive.org/web/20071212000017/http://www.infohostels.com/notizia.php?chiave=200" rel="nofollow">Archived</a> from the original on 12 December 2007.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Inventor+of+Traveling+-+The+First+Backpacker+in+the+World%3F&amp;rft.date=2007-07&amp;rft_id=http%3A%2F%2Fwww.infohostels.com%2Fnotizia.php%3Fchiave%3D200&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Diversity-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Diversity_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Diversity_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Cohen, Erik (2003). "Backpacking: Diversity and Change". <i>Tourism and Cultural Change</i>. <b>1</b> (2): 95–110. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F14766820308668162" rel="nofollow">10.1080/14766820308668162</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Tourism+and+Cultural+Change&amp;rft.atitle=Backpacking%3A+Diversity+and+Change&amp;rft.volume=1&amp;rft.issue=2&amp;rft.pages=95-110&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1080%2F14766820308668162&amp;rft.aulast=Cohen&amp;rft.aufirst=Erik&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+<cite class="citation news">Conlin, Jennifer (February 11, 2007). <span class="cs1-lock-subscription" title="Paid subscription required"><a class="external text" href="https://www.nytimes.com/2007/02/11/travel/11transbus.html?sec=travel" rel="nofollow">"IN TRANSIT; Traveling to the Ends of the Earth, at Ground Level"</a></span>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=IN+TRANSIT%3B+Traveling+to+the+Ends+of+the+Earth%2C+at+Ground+Level&amp;rft.date=2007-02-11&amp;rft.aulast=Conlin&amp;rft.aufirst=Jennifer&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2007%2F02%2F11%2Ftravel%2F11transbus.html%3Fsec%3Dtravel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.wttc.org/-/media/files/reports/economic-impact-research/regions-2018/southeastasia2018.pdf" rel="nofollow">"Travel &amp; Tourism Economic Impact 2018 South East Asia"</a> <span class="cs1-format">(PDF)</span>. <i>World Travel &amp; Tourism Council</i>. World Travel &amp; Tourism Council.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=World+Travel+%26+Tourism+Council&amp;rft.atitle=Travel+%26+Tourism+Economic+Impact+2018+South+East+Asia&amp;rft_id=https%3A%2F%2Fwww.wttc.org%2F-%2Fmedia%2Ffiles%2Freports%2Feconomic-impact-research%2Fregions-2018%2Fsoutheastasia2018.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news">AVAKIAN, TALIA (August 3, 2018). <a class="external text" href="https://www.travelandleisure.com/travel-news/backpacking-better-more-successful-person" rel="nofollow">"How a Backpacking Trip Could Make You a More Successful Person"</a>. <i><a href="/wiki/Travel_%2B_Leisure" title="Travel + Leisure">Travel + Leisure</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Travel+%2B+Leisure&amp;rft.atitle=How+a+Backpacking+Trip+Could+Make+You+a+More+Successful+Person&amp;rft.date=2018-08-03&amp;rft.aulast=AVAKIAN&amp;rft.aufirst=TALIA&amp;rft_id=https%3A%2F%2Fwww.travelandleisure.com%2Ftravel-news%2Fbackpacking-better-more-successful-person&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chen, Ganghua; Huang, Songshan (Sam); Hu, Xianyang (May 3, 2018). "Backpacker Personal Development, Generalized Self-Efficacy, and Self-Esteem: Testing a Structural Model". <i><a href="/wiki/Journal_of_Travel_Research" title="Journal of Travel Research">Journal of Travel Research</a></i>. <b>58</b> (4): 680–694. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1177%2F0047287518768457" rel="nofollow">10.1177/0047287518768457</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Travel+Research&amp;rft.atitle=Backpacker+Personal+Development%2C+Generalized+Self-Efficacy%2C+and+Self-Esteem%3A+Testing+a+Structural+Model&amp;rft.volume=58&amp;rft.issue=4&amp;rft.pages=680-694&amp;rft.date=2018-05-03&amp;rft_id=info%3Adoi%2F10.1177%2F0047287518768457&amp;rft.aulast=Chen&amp;rft.aufirst=Ganghua&amp;rft.au=Huang%2C+Songshan+%28Sam%29&amp;rft.au=Hu%2C+Xianyang&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news">Hampton, Mark (September 23, 2010). <a class="external text" href="https://www.theguardian.com/commentisfree/2010/sep/24/backpacker-travel-benefit-poor-countries" rel="nofollow">"Backpacker tourism can be beneficial for poor countries"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Backpacker+tourism+can+be+beneficial+for+poor+countries&amp;rft.date=2010-09-23&amp;rft.aulast=Hampton&amp;rft.aufirst=Mark&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2010%2Fsep%2F24%2Fbackpacker-travel-benefit-poor-countries&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news">MacLean, Rory (July 31, 2006). <a class="external text" href="https://www.newstatesman.com/node/164904" rel="nofollow">"Dark Side of the Hippie Trail"</a>. <i><a href="/wiki/The_New_Statesman" title="The New Statesman">The New Statesman</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+Statesman&amp;rft.atitle=Dark+Side+of+the+Hippie+Trail&amp;rft.date=2006-07-31&amp;rft.aulast=MacLean&amp;rft.aufirst=Rory&amp;rft_id=https%3A%2F%2Fwww.newstatesman.com%2Fnode%2F164904&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book">MacLean, Rory (2009). <a class="external text" href="https://books.google.com/books?id=KmlYvgEACAAJ" rel="nofollow"><i>Magic Bus: On the Hippie Trail from Istanbul to India</i></a>. <a href="/wiki/Ig_Publishing" title="Ig Publishing">Ig Publishing</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780978843199" title="Special:BookSources/9780978843199"><bdi>9780978843199</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Magic+Bus%3A+On+the+Hippie+Trail+from+Istanbul+to+India&amp;rft.pub=Ig+Publishing&amp;rft.date=2009&amp;rft.isbn=9780978843199&amp;rft.aulast=MacLean&amp;rft.aufirst=Rory&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DKmlYvgEACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation news">Kingsley, Patrick (September 6, 2010). <a class="external text" href="https://www.theguardian.com/travel/2010/sep/06/gap-year-thailand-full-moon-party" rel="nofollow">"Gap years: Wasted youth?"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Gap+years%3A+Wasted+youth%3F&amp;rft.date=2010-09-06&amp;rft.aulast=Kingsley&amp;rft.aufirst=Patrick&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Ftravel%2F2010%2Fsep%2F06%2Fgap-year-thailand-full-moon-party&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">Groundwater, Ben (January 16, 2007). <a class="external text" href="http://blogs.smh.com.au/travel/archives/2007/01/are_you_a_backpacker_or_a_posh.html" rel="nofollow">"Are you a backpacker, or a poshpacker?"</a>. <i><a href="/wiki/The_Sydney_Morning_Herald" title="The Sydney Morning Herald">The Sydney Morning Herald</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Sydney+Morning+Herald&amp;rft.atitle=Are+you+a+backpacker%2C+or+a+poshpacker%3F&amp;rft.date=2007-01-16&amp;rft.aulast=Groundwater&amp;rft.aufirst=Ben&amp;rft_id=http%3A%2F%2Fblogs.smh.com.au%2Ftravel%2Farchives%2F2007%2F01%2Fare_you_a_backpacker_or_a_posh.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://www.usatoday.com/travel/destinations/2006-06-19-flashpacking_x.htm" rel="nofollow">"<span class="cs1-kern-left">'</span>Flashpacking?' Don't Forget you Still Need Room for Extra Socks"</a>. <a href="/wiki/USA_Today" title="USA Today">USA Today</a>. <a href="/wiki/Associated_Press" title="Associated Press">Associated Press</a>. June 20, 2006.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%27Flashpacking%3F%27+Don%27t+Forget+you+Still+Need+Room+for+Extra+Socks&amp;rft.date=2006-06-20&amp;rft_id=https%3A%2F%2Fwww.usatoday.com%2Ftravel%2Fdestinations%2F2006-06-19-flashpacking_x.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bernstein, J.D. (2019). "Begging to travel: Begpacking in Southeast Asia". <i>Annals of Tourism Research</i>. <b>77</b>: 77, 161–163. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.annals.2018.12.014" rel="nofollow">10.1016/j.annals.2018.12.014</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annals+of+Tourism+Research&amp;rft.atitle=Begging+to+travel%3A+Begpacking+in+Southeast+Asia.&amp;rft.volume=77&amp;rft.pages=77%2C+161-163&amp;rft.date=2019&amp;rft_id=info%3Adoi%2F10.1016%2Fj.annals.2018.12.014&amp;rft.aulast=Bernstein&amp;rft.aufirst=J.D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://mothership.sg/2017/04/notorious-begpacker-barred-from-entering-spore/" rel="nofollow">"Notorious begpacker barred from entering S'pore, goes around the world begging"</a>. April 13, 2017.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Notorious+begpacker+barred+from+entering+S%27pore%2C+goes+around+the+world+begging&amp;rft.date=2017-04-13&amp;rft_id=https%3A%2F%2Fmothership.sg%2F2017%2F04%2Fnotorious-begpacker-barred-from-entering-spore%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Bernstein, Joshua D. (December 2018). <a class="external text" href="https://www.researchgate.net/publication/329837273" rel="nofollow">"Begging to travel: Begpacking in Southeast Asia"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Begging+to+travel%3A+Begpacking+in+Southeast+Asia&amp;rft.date=2018-12&amp;rft.aulast=Bernstein&amp;rft.aufirst=Joshua+D.&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F329837273&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://www.theguardian.com/travel/shortcuts/2019/jul/22/young-entitled-and-over-there-the-rise-of-the-begpacker" rel="nofollow">"Young, entitled, and over there: The rise of the begpacker"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>. July 22, 2019.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Young%2C+entitled%2C+and+over+there%3A+The+rise+of+the+begpacker&amp;rft.date=2019-07-22&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Ftravel%2Fshortcuts%2F2019%2Fjul%2F22%2Fyoung-entitled-and-over-there-the-rise-of-the-begpacker&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news">Saidi, Majda (August 16, 2018). <a class="external text" href="https://medium.com/@MajSB/begpackers-seen-by-a-third-worldist-585d408db401" rel="nofollow">"Begpackers seen by a third-worldist"</a>. <i><a href="/wiki/Medium_(website)" title="Medium (website)">Medium</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Medium&amp;rft.atitle=Begpackers+seen+by+a+third-worldist&amp;rft.date=2018-08-16&amp;rft.aulast=Saidi&amp;rft.aufirst=Majda&amp;rft_id=https%3A%2F%2Fmedium.com%2F%40MajSB%2Fbegpackers-seen-by-a-third-worldist-585d408db401&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABackpacking+%28travel%29"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Backpacking_(travel)&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="image" href="/wiki/File:Wiktionary-logo-en-v2.svg"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/16px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/24px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/32px-Wiktionary-logo-en-v2.svg.png 2x" width="16"/></a> The dictionary definition of <a class="extiw" href="https://en.wiktionary.org/wiki/backpacking" title="wiktionary:backpacking"><i>backpacking</i></a> at Wiktionary
+</p><p><br/>
+<a class="image" href="/wiki/File:Wikivoyage-Logo-v3-icon.svg"><img alt="" class="noviewer" data-file-height="193" data-file-width="193" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" width="16"/></a> <a class="extiw" href="https://en.wikivoyage.org/wiki/Urban_backpacking#Q492202" title="voy:Urban backpacking">Urban backpacking</a> travel guide from Wikivoyage
+</p>
+<div aria-labelledby="Tourism" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Tourism" title="Template:Tourism"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Tourism" title="Template talk:Tourism"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Tourism&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Tourism" style="font-size:114%;margin:0 4em"><a href="/wiki/Tourism" title="Tourism">Tourism</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Types_of_tourism" title="Category:Types of tourism">Types</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Accessible_tourism" title="Accessible tourism">Accessible</a></li>
+<li><a href="/wiki/Adventure_travel" title="Adventure travel">Adventure</a></li>
+<li><a href="/wiki/Agritourism" title="Agritourism">Agritourism</a></li>
+<li><a href="/wiki/Alternative_tourism" title="Alternative tourism">Alternative</a></li>
+<li><a href="/wiki/Atomic_tourism" title="Atomic tourism">Atomic</a></li>
+<li><a class="mw-selflink selflink">Backpacker</a></li>
+<li><a href="/wiki/Bicycle_touring" title="Bicycle touring">Bicycle touring</a></li>
+<li><a href="/wiki/Birth_tourism" title="Birth tourism">Birth</a></li>
+<li><a href="/wiki/Business_tourism" title="Business tourism">Business</a></li>
+<li><a href="/wiki/City_tourism" title="City tourism">City</a></li>
+<li><a href="/wiki/Culinary_tourism" title="Culinary tourism">Culinary</a>
+<ul><li><a href="/wiki/Enotourism" title="Enotourism">Enotourism</a></li></ul></li>
+<li><a href="/wiki/Cultural_tourism" title="Cultural tourism">Cultural</a>
+<ul><li><a href="/wiki/Archaeological_tourism" title="Archaeological tourism">Archaeological</a></li>
+<li><a href="/wiki/Bookstore_tourism" title="Bookstore tourism">Bookstore</a></li>
+<li><a href="/wiki/Heritage_tourism" title="Heritage tourism">Heritage</a>
+<ul><li><a class="mw-redirect" href="/wiki/Militarism_heritage_tourism" title="Militarism heritage tourism">Militarism heritage</a></li></ul></li>
+<li><a href="/wiki/Literary_tourism" title="Literary tourism">Literary</a>
+<ul><li><a href="/wiki/Tolkien_tourism" title="Tolkien tourism">Tolkien</a></li></ul></li>
+<li><a href="/wiki/Music_tourism" title="Music tourism">Music</a>
+<ul><li><a href="/wiki/Pop-culture_tourism" title="Pop-culture tourism">Pop-culture</a></li></ul></li></ul></li>
+<li><a href="/wiki/Dark_tourism" title="Dark tourism">Dark</a>
+<ul><li><a href="/wiki/Holocaust_tourism" title="Holocaust tourism">Holocaust</a></li></ul></li>
+<li><a href="/wiki/Disaster_tourism" title="Disaster tourism">Disaster</a></li>
+<li><a href="/wiki/Domestic_tourism" title="Domestic tourism">Domestic</a></li>
+<li><a href="/wiki/Ecotourism" title="Ecotourism">Ecotourism</a>
+<ul><li><a href="/wiki/Shark_tourism" title="Shark tourism">Shark</a></li></ul></li>
+<li><a href="/wiki/Experiential_travel" title="Experiential travel">Experiential</a></li>
+<li><a href="/wiki/Experimental_travel" title="Experimental travel">Experimental</a></li>
+<li><a href="/wiki/Extreme_tourism" title="Extreme tourism">Extreme</a></li>
+<li><a href="/wiki/Fashion_tourism" title="Fashion tourism">Fashion</a></li>
+<li><a href="/wiki/Garden_tourism" title="Garden tourism">Garden</a></li>
+<li><a href="/wiki/Genealogy_tourism" title="Genealogy tourism">Genealogy</a></li>
+<li><a href="/wiki/Geotourism" title="Geotourism">Geotourism</a></li>
+<li><a href="/wiki/Honeymoon" title="Honeymoon">Honeymoon</a></li>
+<li><a href="/wiki/Industrial_tourism" title="Industrial tourism">Industrial</a></li>
+<li><a href="/wiki/International_tourism" title="International tourism">International</a></li>
+<li><a href="/wiki/International_volunteering" title="International volunteering">International volunteering</a></li>
+<li><a href="/wiki/Jihadi_tourism" title="Jihadi tourism">Jihadi</a></li>
+<li><a href="/wiki/Jungle_tourism" title="Jungle tourism">Jungle</a></li>
+<li><a href="/wiki/Justice_tourism" title="Justice tourism">Justice</a></li>
+<li><a href="/wiki/LGBT_tourism" title="LGBT tourism">LGBT</a></li>
+<li><a href="/wiki/Medical_tourism" title="Medical tourism">Medical</a>
+<ul><li><a class="mw-redirect" href="/wiki/Dental_tourism" title="Dental tourism">Dental</a></li></ul></li>
+<li><a href="/wiki/Tourism_on_the_Moon" title="Tourism on the Moon">Moon</a></li>
+<li><a href="/wiki/Nautical_tourism" title="Nautical tourism">Nautical</a></li>
+<li><a href="/wiki/Lists_of_named_passenger_trains" title="Lists of named passenger trains">Rail</a></li>
+<li><a href="/wiki/Recreational_drug_tourism" title="Recreational drug tourism">Recreational drug</a></li>
+<li><a href="/wiki/Religious_tourism" title="Religious tourism">Religious</a>
+<ul><li><a href="/wiki/Christian_tourism" title="Christian tourism">Christian</a></li>
+<li><a href="/wiki/Halal_tourism" title="Halal tourism">Halal</a></li>
+<li><a href="/wiki/Kosher_tourism" title="Kosher tourism">Kosher</a></li></ul></li>
+<li><a href="/wiki/Rural_tourism" title="Rural tourism">Rural</a></li>
+<li><a class="mw-redirect" href="/wiki/Sacred_travel" title="Sacred travel">Sacred</a></li>
+<li><a href="/wiki/Safari" title="Safari">Safaris</a></li>
+<li><a href="/wiki/Science_tourism" title="Science tourism">Science</a></li>
+<li><a href="/wiki/Sex_tourism" title="Sex tourism">Sex</a>
+<ul><li><a href="/wiki/Child_sex_tourism" title="Child sex tourism">Child sex</a></li>
+<li><a href="/wiki/Female_sex_tourism" title="Female sex tourism">Female sex</a></li></ul></li>
+<li><a href="/wiki/Slum_tourism" title="Slum tourism">Slum</a></li>
+<li><a href="/wiki/Space_tourism" title="Space tourism">Space</a></li>
+<li><a href="/wiki/Sports_tourism" title="Sports tourism">Sports</a></li>
+<li><a class="mw-redirect" href="/wiki/Stag_party_tourism" title="Stag party tourism">Stag party</a></li>
+<li><a href="/wiki/Suicide_tourism" title="Suicide tourism">Suicide</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Sustainable</a></li>
+<li><a href="/wiki/Vacation" title="Vacation">Vacation</a></li>
+<li><a href="/wiki/Three-dimensional_virtual_tourism" title="Three-dimensional virtual tourism">Virtual</a></li>
+<li><a href="/wiki/War_tourism" title="War tourism">War</a></li>
+<li><a href="/wiki/Wellness_tourism" title="Wellness tourism">Wellness</a></li>
+<li><a href="/wiki/Wildlife_tourism" title="Wildlife tourism">Wildlife</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Hospitality_industry" title="Hospitality industry">Hospitality industry</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bed_and_breakfast" title="Bed and breakfast">Bed and breakfast</a></li>
+<li><a href="/wiki/Boutique_hotel" title="Boutique hotel">Boutique hotel</a></li>
+<li><a href="/wiki/Convention_center" title="Convention center">Convention center</a></li>
+<li><a href="/wiki/Destination_spa" title="Destination spa">Destination spa</a></li>
+<li><a href="/wiki/Receptionist" title="Receptionist">Front desk</a></li>
+<li><a href="/wiki/General_manager" title="General manager">General manager</a></li>
+<li><a href="/wiki/Guest_house" title="Guest house">Guest house</a></li>
+<li><a href="/wiki/Guest_ranch" title="Guest ranch">Guest ranch</a></li>
+<li><a href="/wiki/Homestay" title="Homestay">Homestay</a></li>
+<li><a href="/wiki/Hospitality_management_studies" title="Hospitality management studies">Hospitality management studies</a></li>
+<li><a href="/wiki/Hostel" title="Hostel">Hostel</a></li>
+<li><a href="/wiki/Hotel" title="Hotel">Hotel</a></li>
+<li><a href="/wiki/Hotel_manager" title="Hotel manager">Hotel manager</a></li>
+<li><a href="/wiki/Inn" title="Inn">Inn</a></li>
+<li><a href="/wiki/Resort_island" title="Resort island">Island resort</a></li>
+<li><a href="/wiki/Motel" title="Motel">Motel</a></li>
+<li><a href="/wiki/Referral_chain" title="Referral chain">Referral chain</a></li>
+<li><a href="/wiki/Resort" title="Resort">Resort</a></li>
+<li><a href="/wiki/Resort_hotel" title="Resort hotel">Resort hotel</a></li>
+<li><a href="/wiki/Resort_town" title="Resort town">Resort town</a></li>
+<li><a href="/wiki/Restaurant" title="Restaurant">Restaurant</a></li>
+<li><a href="/wiki/Seaside_resort" title="Seaside resort">Seaside resort</a></li>
+<li><a href="/wiki/Ski_resort" title="Ski resort">Ski resort</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Terminology</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/College_tour" title="College tour">College tour</a></li>
+<li><a href="/wiki/Convention_(meeting)" title="Convention (meeting)">Convention (meeting)</a></li>
+<li><a href="/wiki/Destination_marketing_organization" title="Destination marketing organization">Destination marketing organization</a></li>
+<li><a href="/wiki/Escorted_tour" title="Escorted tour">Escorted tour</a></li>
+<li><a href="/wiki/Excursion" title="Excursion">Excursion</a></li>
+<li><a href="/wiki/Factory_tour" title="Factory tour">Factory tour</a></li>
+<li><a href="/wiki/Gift_shop" title="Gift shop">Gift shop</a></li>
+<li><a href="/wiki/Grand_Tour" title="Grand Tour">Grand Tour</a></li>
+<li><a href="/wiki/Holiday" title="Holiday">Holiday (vacation)</a></li>
+<li><a href="/wiki/Hypermobility_(travel)" title="Hypermobility (travel)">Hypermobility</a></li>
+<li><a href="/wiki/Journey_planner" title="Journey planner">Journey planner</a></li>
+<li><a href="/wiki/Package_tour" title="Package tour">Package tour</a></li>
+<li><a href="/wiki/Passport" title="Passport">Passport</a></li>
+<li><a href="/wiki/Perpetual_traveler" title="Perpetual traveler">Perpetual traveler</a></li>
+<li><a href="/wiki/Road_trip" title="Road trip">Road trip</a></li>
+<li><a href="/wiki/Roadside_attraction" title="Roadside attraction">Roadside attraction</a></li>
+<li><a href="/wiki/Souvenir" title="Souvenir">Souvenir</a></li>
+<li><a href="/wiki/Staycation" title="Staycation">Staycation</a></li>
+<li><a href="/wiki/Sunday_drive" title="Sunday drive">Sunday drive</a></li>
+<li><a href="/wiki/Table_reservation" title="Table reservation">Table reservation</a></li>
+<li><a href="/wiki/Tour_bus_service" title="Tour bus service">Tour bus service</a></li>
+<li><a href="/wiki/Tour_guide" title="Tour guide">Tour guide</a></li>
+<li><a href="/wiki/Tour_operator" title="Tour operator">Tour operator</a></li>
+<li><a href="/wiki/Tourism_geography" title="Tourism geography">Tourism geography</a></li>
+<li><a href="/wiki/Tourism_minister" title="Tourism minister">Tourism minister</a></li>
+<li><a href="/wiki/Tourism_region" title="Tourism region">Tourism region</a></li>
+<li><a href="/wiki/Tourist_attraction" title="Tourist attraction">Tourist attraction</a></li>
+<li><a href="/wiki/Tourist_gateway" title="Tourist gateway">Tourist gateway</a></li>
+<li><a href="/wiki/Tourist_trap" title="Tourist trap">Tourist trap</a></li>
+<li><a href="/wiki/Touron" title="Touron">Touron</a></li>
+<li><a href="/wiki/Transport" title="Transport">Transport</a></li>
+<li><a href="/wiki/Travel" title="Travel">Travel</a></li>
+<li><a href="/wiki/Travel_agency" title="Travel agency">Travel agency</a></li>
+<li><a href="/wiki/Travel_behavior" title="Travel behavior">Travel behavior</a></li>
+<li><a href="/wiki/Travel_document" title="Travel document">Travel document</a></li>
+<li><a href="/wiki/Travel_insurance" title="Travel insurance">Travel insurance</a></li>
+<li><a href="/wiki/Travel_medicine" title="Travel medicine">Travel medicine</a></li>
+<li><a href="/wiki/Travel_survey" title="Travel survey">Travel survey</a></li>
+<li><a href="/wiki/Travel_technology" title="Travel technology">Travel technology</a></li>
+<li><a href="/wiki/Travel_visa" title="Travel visa">Travel visa</a></li>
+<li><a href="/wiki/Travel_warning" title="Travel warning">Travel warning</a></li>
+<li><a href="/wiki/Travel_website" title="Travel website">Travel website</a></li>
+<li><a href="/wiki/Visitor_center" title="Visitor center">Visitor center</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Travel_literature" title="Travel literature">Travel literature</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Guide_book" title="Guide book">Guide book</a></li>
+<li><a href="/wiki/Outdoor_literature" title="Outdoor literature">Outdoor literature</a></li>
+<li><a href="/wiki/List_of_travel_magazines" title="List of travel magazines">Travel magazines</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Trade_association" title="Trade association">Trade associations</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_Bus_Association" title="American Bus Association">American Bus Association</a></li>
+<li><a href="/wiki/American_Hotel_and_Lodging_Association" title="American Hotel and Lodging Association">American Hotel and Lodging Association</a></li>
+<li><a href="/wiki/American_Hotel_%26_Lodging_Educational_Institute" title="American Hotel &amp; Lodging Educational Institute">American Hotel &amp; Lodging Educational Institute</a></li>
+<li><a href="/wiki/BEST_Education_Network" title="BEST Education Network">BEST Education Network</a></li>
+<li><a href="/wiki/Caribbean_Tourism_Organization" title="Caribbean Tourism Organization">Caribbean Tourism Organization</a></li>
+<li><a href="/wiki/European_Travel_Commission" title="European Travel Commission">European Travel Commission</a></li>
+<li><a href="/wiki/Historical_Archive_on_Tourism" title="Historical Archive on Tourism">Historical Archive on Tourism</a></li>
+<li><a href="/wiki/Life_Beyond_Tourism" title="Life Beyond Tourism">Life Beyond Tourism</a></li>
+<li><a href="/wiki/Musement" title="Musement">Musement</a></li>
+<li><a href="/wiki/South-East_Asian_Tourism_Organisation" title="South-East Asian Tourism Organisation">South-East Asian Tourism Organisation</a></li>
+<li><a href="/wiki/Tourism_Radio" title="Tourism Radio">Tourism Radio</a></li>
+<li><a href="/wiki/Travel_and_Tourism_Competitiveness_Report" title="Travel and Tourism Competitiveness Report">Travel and Tourism Competitiveness Report</a></li>
+<li><a href="/wiki/Wikivoyage" title="Wikivoyage">Wikivoyage</a></li>
+<li><a href="/wiki/FIJET" title="FIJET">World Federation of Travel Journalists and Writers</a></li>
+<li><a href="/wiki/World_Tourism_Organization" title="World Tourism Organization">World Tourism Organization</a>
+<ul><li><a href="/wiki/World_Tourism_rankings" title="World Tourism rankings">World Tourism rankings</a></li></ul></li>
+<li><a href="/wiki/World_Travel_and_Tourism_Council" title="World Travel and Tourism Council">World Travel and Tourism Council</a></li>
+<li><a href="/wiki/World_Travel_Monitor" title="World Travel Monitor">World Travel Monitor</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Trade_fair" title="Trade fair">Trade fairs</a> and events</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akwaaba_African_Travel_Market" title="Akwaaba African Travel Market">Akwaaba African Travel Market</a></li>
+<li><a href="/wiki/Arabian_Travel_Market" title="Arabian Travel Market">Arabian Travel Market</a></li>
+<li><a href="/wiki/Festival_del_Viaggio" title="Festival del Viaggio">Festival del Viaggio</a></li>
+<li><a href="/wiki/ITB_Berlin" title="ITB Berlin">ITB Berlin</a></li>
+<li><a href="/wiki/World_Tourism_Day" title="World Tourism Day">World Tourism Day</a></li>
+<li><a href="/wiki/World_Travel_Market" title="World Travel Market">World Travel Market</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Lists</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_adjectival_tourisms" title="List of adjectival tourisms">Adjectival tourisms</a></li>
+<li><a href="/wiki/Lists_of_tourist_attractions" title="Lists of tourist attractions">Attractions</a></li>
+<li><a href="/wiki/Bibliography_of_tourism" title="Bibliography of tourism">Bibliography</a></li>
+<li><a href="/wiki/List_of_casino_hotels" title="List of casino hotels">Casino hotels</a></li>
+<li><a href="/wiki/List_of_casinos" title="List of casinos">Casinos</a></li>
+<li><a href="/wiki/List_of_cities_by_international_visitors" title="List of cities by international visitors">Cities by international visitors</a></li>
+<li><a href="/wiki/List_of_convention_and_exhibition_centers" title="List of convention and exhibition centers">Convention and exhibition centers</a></li>
+<li><a href="/wiki/List_of_hotels" title="List of hotels">Hotels</a></li>
+<li><a href="/wiki/List_of_largest_hotels" title="List of largest hotels">Largest hotels</a></li>
+<li><a href="/wiki/List_of_motels" title="List of motels">Motels</a></li>
+<li><a href="/wiki/UNESCO_Intangible_Cultural_Heritage_Lists" title="UNESCO Intangible Cultural Heritage Lists">UNESCO Intangible Cultural Heritage Lists</a></li>
+<li><a href="/wiki/World_Heritage_Sites_by_country" title="World Heritage Sites by country">World Heritage Sites by country</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight:bold;"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Tourism" title="Category:Tourism">Category</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Tourism" title="commons:Category:Tourism">Commons</a></li>
+<li><img alt="WikiProject" data-file-height="100" data-file-width="100" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" title="WikiProject" width="16"/> <a href="/wiki/Wikipedia:WikiProject_Travel_and_Tourism" title="Wikipedia:WikiProject Travel and Tourism">WikiProject</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Adventure_travel" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Adventure_travel" title="Template:Adventure travel"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Adventure_travel" title="Template talk:Adventure travel"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Adventure_travel&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Adventure_travel" style="font-size:114%;margin:0 4em"><a href="/wiki/Adventure_travel" title="Adventure travel">Adventure travel</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Accessible_tourism" title="Accessible tourism">Accessible tourism</a></li>
+<li><a href="/wiki/List_of_adjectival_tourisms" title="List of adjectival tourisms">Adjectival tourisms</a></li>
+<li><a class="mw-redirect" href="/wiki/Adventure_recreation" title="Adventure recreation">Adventure recreation</a></li>
+<li><a href="/wiki/Agritourism" title="Agritourism">Agritourism</a></li>
+<li><a class="mw-selflink selflink">Backpacking (travel)</a></li>
+<li><a class="mw-redirect" href="/wiki/Backpacking_(wilderness)" title="Backpacking (wilderness)">Backpacking (wilderness)</a></li>
+<li><a href="/wiki/Bicycle_touring" title="Bicycle touring">Bicycle touring</a></li>
+<li><a href="/wiki/Camping" title="Camping">Camping</a></li>
+<li><a href="/wiki/Climbing" title="Climbing">Climbing</a></li>
+<li><a href="/wiki/Cultural_tourism" title="Cultural tourism">Cultural tourism</a></li>
+<li><a href="/wiki/Ecotourism" title="Ecotourism">Ecotourism</a></li>
+<li><a href="/wiki/Exploration" title="Exploration">Exploration</a></li>
+<li><a href="/wiki/Extreme_tourism" title="Extreme tourism">Extreme tourism</a></li>
+<li><a href="/wiki/Freighthopping" title="Freighthopping">Freighthopping</a></li>
+<li><a href="/wiki/Glamping" title="Glamping">Glamping</a></li>
+<li><a href="/wiki/Hang_gliding" title="Hang gliding">Hang gliding</a></li>
+<li><a href="/wiki/Hiking" title="Hiking">Hiking</a></li>
+<li><a href="/wiki/Hitchhiking" title="Hitchhiking">Hitchhiking</a></li>
+<li><a href="/wiki/Human_migration" title="Human migration">Migrating</a></li>
+<li><a href="/wiki/Jungle_tourism" title="Jungle tourism">Jungle tourism</a></li>
+<li><a href="/wiki/Kloofing" title="Kloofing">Kloofing</a></li>
+<li><a href="/wiki/Mountain_biking" title="Mountain biking">Mountain biking</a></li>
+<li><a href="/wiki/Mountaineering" title="Mountaineering">Mountaineering</a></li>
+<li><a href="/wiki/Naked_hiking" title="Naked hiking">Naked hiking</a></li>
+<li><a href="/wiki/Navigation" title="Navigation">Navigation</a></li>
+<li><a href="/wiki/Overlanding" title="Overlanding">Overlanding</a></li>
+<li><a href="/wiki/Paragliding" title="Paragliding">Paragliding</a></li>
+<li><a href="/wiki/Rafting" title="Rafting">Rafting</a></li>
+<li><a href="/wiki/River_trekking" title="River trekking">River trekking</a></li>
+<li><a href="/wiki/Rogaining" title="Rogaining">Rogaining</a></li>
+<li><a href="/wiki/Safari" title="Safari">Safari</a></li>
+<li><a href="/wiki/Scuba_diving" title="Scuba diving">Scuba diving</a></li>
+<li><a href="/wiki/Slum_tourism" title="Slum tourism">Slum tourism</a></li>
+<li><a href="/wiki/Tramping_in_New_Zealand" title="Tramping in New Zealand">Tramping</a></li>
+<li><a href="/wiki/Travel" title="Travel">Travel</a></li>
+<li><a class="mw-redirect" href="/wiki/Trekking" title="Trekking">Trekking</a></li>
+<li><a href="/wiki/Ultralight_backpacking" title="Ultralight backpacking">Ultralight backpacking</a></li>
+<li><a href="/wiki/Urban_exploration" title="Urban exploration">Urban exploration</a></li>
+<li><a class="mw-redirect" href="/wiki/Vagabond_(person)" title="Vagabond (person)">Vagabonding</a></li>
+<li><a class="mw-redirect" href="/wiki/Volunteer_travel" title="Volunteer travel">Volunteer travel</a></li>
+<li><a href="/wiki/Wildlife_tourism" title="Wildlife tourism">Wildlife tourism</a></li>
+<li><a class="mw-redirect" href="/wiki/Zip-lining" title="Zip-lining">Zip-lining</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Miscellaneous</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Backpack" title="Backpack">Backpack</a></li>
+<li><a href="/wiki/Campsite" title="Campsite">Campsite</a></li>
+<li><a href="/wiki/Discovery_(observation)" title="Discovery (observation)">Discovery</a></li>
+<li><a href="/wiki/Exploration" title="Exploration">Exploration</a></li>
+<li><a href="/wiki/Geocaching" title="Geocaching">Geocaching</a></li>
+<li><a href="/wiki/Geohashing" title="Geohashing">Geohashing</a></li>
+<li><a href="/wiki/Google_Maps" title="Google Maps">Google Maps</a></li>
+<li><a class="mw-redirect" href="/wiki/Gypsy_(term)" title="Gypsy (term)">Gypsy</a></li>
+<li><a href="/wiki/Hiking_equipment" title="Hiking equipment">Hiking equipment</a></li>
+<li><a href="/wiki/Hobo" title="Hobo">Hobo</a></li>
+<li><a href="/wiki/Interpersonal_relationship" title="Interpersonal relationship">Interpersonal relationship</a></li>
+<li><a class="mw-redirect" href="/wiki/Lifestyle_travelling" title="Lifestyle travelling">Lifestyle travelling</a></li>
+<li><a href="/wiki/Naturism" title="Naturism">Naturism</a></li>
+<li><a href="/wiki/Nomad" title="Nomad">Nomad</a></li>
+<li><a href="/wiki/Perpetual_traveler" title="Perpetual traveler">Perpetual traveler</a></li>
+<li><a class="mw-redirect" href="/wiki/Polyphasic_sleep" title="Polyphasic sleep">Polyphasic sleep</a></li>
+<li><a href="/wiki/Sattvic_diet" title="Sattvic diet">Sattvic diet</a></li>
+<li><a href="/wiki/Schengen_Area" title="Schengen Area">Schengen Area</a></li>
+<li><a href="/wiki/Sleeping_bag" title="Sleeping bag">Sleeping bag</a></li>
+<li><a href="/wiki/Sleeping_pad" title="Sleeping pad">Sleeping pad</a></li>
+<li><a href="/wiki/Social_photography" title="Social photography">Social photography</a></li>
+<li><a href="/wiki/Squatting" title="Squatting">Squatting</a></li>
+<li><a href="/wiki/Street_food" title="Street food">Street food</a></li>
+<li><a href="/wiki/Street_people" title="Street people">Street people</a></li>
+<li><a href="/wiki/Swiss_Army_knife" title="Swiss Army knife">Swiss Army knife</a></li>
+<li><a href="/wiki/Ten_Essentials" title="Ten Essentials">Ten Essentials</a></li>
+<li><a href="/wiki/Tramp" title="Tramp">Tramp</a></li>
+<li><a class="mw-redirect" href="/wiki/Vagrancy_(people)" title="Vagrancy (people)">Vagrancy</a></li>
+<li><a href="/wiki/Wanderlust" title="Wanderlust">Wanderlust</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Orienteering" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Orienteering" title="Template:Orienteering"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Orienteering" title="Template talk:Orienteering"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Orienteering&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Orienteering" style="font-size:114%;margin:0 4em"><a href="/wiki/Orienteering" title="Orienteering">Orienteering</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History_of_orienteering&amp;#10;*_List_of_orienteering_events">
+<ul><li><a href="/wiki/History_of_orienteering" title="History of orienteering">History of orienteering</a></li>
+<li><a href="/wiki/List_of_orienteering_events" title="List of orienteering events">List of orienteering events</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Sport disciplines</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/International_Orienteering_Federation" title="International Orienteering Federation">IOF</a>-<a href="/wiki/Sports_governing_body" title="Sports governing body">governed</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Foot_orienteering" title="Foot orienteering">Foot orienteering</a></li>
+<li><a href="/wiki/Mountain_bike_orienteering" title="Mountain bike orienteering">Mountain bike orienteering</a></li>
+<li><a class="mw-redirect" href="/wiki/Ski-orienteering" title="Ski-orienteering">Ski orienteering</a></li>
+<li><a href="/wiki/Trail_orienteering" title="Trail orienteering">Trail orienteering</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/International_Amateur_Radio_Union" title="International Amateur Radio Union">IARU</a>-<a href="/wiki/Sports_governing_body" title="Sports governing body">governed</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amateur_radio_direction_finding" title="Amateur radio direction finding">Amateur radio direction finding</a>
+<ul><li><a href="/wiki/Fox_Oring" title="Fox Oring">Fox Oring</a></li>
+<li><a href="/wiki/Radio_Orienteering_in_a_Compact_Area" title="Radio Orienteering in a Compact Area">Radio Orienteering in a Compact Area</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other sports</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Canoe_orienteering" title="Canoe orienteering">Canoe orienteering</a></li>
+<li><a href="/wiki/Car_orienteering" title="Car orienteering">Car orienteering</a></li>
+<li><a href="/wiki/Mountain_marathon" title="Mountain marathon">Mountain marathon</a></li>
+<li><a href="/wiki/Mounted_orienteering" title="Mounted orienteering">Mounted orienteering</a></li>
+<li><a href="/wiki/Rogaining" title="Rogaining">Rogaining</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adventure_racing" title="Adventure racing">Adventure racing</a></li>
+<li><a href="/wiki/Alleycat_race" title="Alleycat race">Alleycat race</a></li>
+<li><a href="/wiki/Fell_running" title="Fell running">Fell running</a></li>
+<li><a href="/wiki/Relay_race" title="Relay race">Relay race</a></li>
+<li><a href="/wiki/Transmitter_hunting" title="Transmitter hunting">Transmitter hunting</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Equipment</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Event</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Control_point_(orienteering)" title="Control point (orienteering)">Control point</a></li>
+<li><a href="/wiki/Course_(orienteering)" title="Course (orienteering)">Course</a></li>
+<li><a href="/wiki/Orienteering_map" title="Orienteering map">Map</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Personal</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Compass" title="Compass">Compass</a>
+<ul><li><a href="/wiki/Hand_compass" title="Hand compass">hand</a></li>
+<li><a class="mw-redirect" href="/wiki/Protractor_compass" title="Protractor compass">protractor</a></li>
+<li><a href="/wiki/Thumb_compass" title="Thumb compass">thumb</a></li></ul></li>
+<li><a href="/wiki/Eye_protection" title="Eye protection">Eye protectors</a></li>
+<li><a href="/wiki/Gaiters" title="Gaiters">Gaiters</a></li>
+<li><a href="/wiki/Headlamp_(outdoor)" title="Headlamp (outdoor)">Headlamp</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Exceptions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Backpacking_(wilderness)#Equipment" title="Backpacking (wilderness)">Backpacking</a></li>
+<li><a href="/wiki/Global_Positioning_System" title="Global Positioning System">GPS</a></li>
+<li><a href="/wiki/Whistle" title="Whistle">Whistle</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Fundamentals</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Map" title="Map">Map</a>
+<ul><li><a href="/wiki/Orienteering_map" title="Orienteering map">orienteering map</a></li></ul></li>
+<li><a href="/wiki/Navigation" title="Navigation">Navigation</a>
+<ul><li><a href="/wiki/Cardinal_direction" title="Cardinal direction">cardinal direction</a></li>
+<li><a href="/wiki/Position_resection" title="Position resection">resection</a></li>
+<li><a href="/wiki/Route_choice_(orienteering)" title="Route choice (orienteering)">route choice</a></li>
+<li><a href="/wiki/Wayfinding" title="Wayfinding">wayfinding</a></li>
+<li><a href="/wiki/Waypoint" title="Waypoint">waypoint</a></li></ul></li>
+<li><a href="/wiki/Racing" title="Racing">Racing</a>
+<ul><li><a href="/wiki/Hiking" title="Hiking">hiking</a></li>
+<li><a href="/wiki/Running" title="Running">running</a></li>
+<li><a href="/wiki/Walking" title="Walking">walking</a></li>
+<li><a href="/wiki/Skiing" title="Skiing">skiing</a></li>
+<li><a href="/wiki/Mountain_biking" title="Mountain biking">mountain biking</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Organisations / lists</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/International_Orienteering_Federation" title="International Orienteering Federation">International Orienteering Federation</a>
+<ul><li><a href="/wiki/Category:International_Orienteering_Federation_members" title="Category:International Orienteering Federation members">members</a></li></ul></li>
+<li><a href="/wiki/List_of_orienteering_clubs" title="List of orienteering clubs">List of clubs</a></li>
+<li><a href="/wiki/List_of_orienteers" title="List of orienteers">List of orienteers</a>
+<ul><li><a href="/wiki/List_of_orienteers#By_country" title="List of orienteers">by country</a></li>
+<li><a href="/wiki/List_of_orienteers#Innovators" title="List of orienteers">innovators</a></li></ul></li>
+<li><a href="/wiki/List_of_orienteering_events" title="List of orienteering events">List of events</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Non-sport related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adventure_travel" title="Adventure travel">Adventure travel</a></li>
+<li><a href="/wiki/Bicycle_touring" title="Bicycle touring">Bicycle touring</a></li>
+<li><a href="/wiki/Climbing" title="Climbing">Climbing</a></li>
+<li><a href="/wiki/Hiking" title="Hiking">Hiking</a></li>
+<li><a href="/wiki/Hunting" title="Hunting">Hunting</a></li>
+<li><a href="/wiki/Location-based_game" title="Location-based game">Location-based game</a>
+<ul><li><a href="/wiki/Geocaching" title="Geocaching">geocaching</a></li>
+<li><a href="/wiki/Poker_run" title="Poker run">poker run</a></li></ul></li>
+<li><a href="/wiki/Orienteering_(scouting)" title="Orienteering (scouting)">Scoutcraft orienteering</a>
+<ul><li><a class="mw-redirect" href="/wiki/Backpacking_(wilderness)" title="Backpacking (wilderness)">wilderness</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Competitions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Foot_orienteering" title="Foot orienteering">Foot orienteering</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/World_Orienteering_Championships" title="World Orienteering Championships">World Championships</a>
+<ul><li><small><a href="/wiki/Junior_World_Orienteering_Championships" title="Junior World Orienteering Championships">Junior</a></small></li>
+<li><small><a href="/wiki/World_Masters_Orienteering_Championships" title="World Masters Orienteering Championships">Masters</a></small></li>
+<li><small><a href="/wiki/World_University_Orienteering_Championships" title="World University Orienteering Championships">University</a></small></li></ul></li>
+<li><a href="/wiki/Orienteering_World_Cup" title="Orienteering World Cup">World Cup</a></li>
+<li><a href="/wiki/Orienteering_at_the_World_Games" title="Orienteering at the World Games">World Games</a></li>
+<li><a href="/wiki/European_Orienteering_Championships" title="European Orienteering Championships">European Championships</a>
+<ul><li><a href="/wiki/European_Youth_Orienteering_Championships" title="European Youth Orienteering Championships">Youth</a></li>
+<li><a class="new" href="/w/index.php?title=European_University_Orienteering_Championships&amp;action=edit&amp;redlink=1" title="European University Orienteering Championships (page does not exist)">University</a></li></ul></li>
+<li>Open events
+<ul><li><a href="/wiki/O-Ringen" title="O-Ringen">O-Ringen</a></li>
+<li><a href="/wiki/Jukola_relay" title="Jukola relay">Jukola</a></li>
+<li><a href="/wiki/Tiomila" title="Tiomila">Tiomila</a></li>
+<li><a href="/wiki/Kainuu_Orienteering_Week" title="Kainuu Orienteering Week">Kainuu Orienteering Week</a></li>
+<li><a href="/wiki/Jan_Kjellstr%C3%B6m_International_Festival_of_Orienteering" title="Jan Kjellström International Festival of Orienteering">Jan Kjellström Festival</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Ski-orienteering" title="Ski-orienteering">Ski orienteering</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/World_Ski_Orienteering_Championships" title="World Ski Orienteering Championships">World Championships</a>
+<ul><li><small><a href="/wiki/Junior_World_Ski_Orienteering_Championships" title="Junior World Ski Orienteering Championships">Junior</a></small></li></ul></li>
+<li><a href="/wiki/World_Cup_in_Ski_Orienteering" title="World Cup in Ski Orienteering">World Cup</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Mountain_bike_orienteering" title="Mountain bike orienteering">Mountain bike orienteering</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/World_Mountain_Bike_Orienteering_Championships" title="World Mountain Bike Orienteering Championships">World Championships</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Trail_orienteering" title="Trail orienteering">Trail orienteering</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/World_Trail_Orienteering_Championships" title="World Trail Orienteering Championships">World Championships</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Orienteering" title="Category:Orienteering">Category</a></li>
+<li><img alt="WikiProject" data-file-height="100" data-file-width="100" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" title="WikiProject" width="16"/> <a href="/wiki/Wikipedia:WikiProject_Orienteering" title="Wikipedia:WikiProject Orienteering">WikiProject</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20191206102152
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.504 seconds
+Real time usage: 0.611 seconds
+Preprocessor visited node count: 1601/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 113058/2097152 bytes
+Template argument size: 278/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 76098/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.239/10.000 seconds
+Lua memory usage: 4.44 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  444.224      1 -total
+ 60.52%  268.833      1 Template:Reflist
+ 31.65%  140.575      6 Template:Cite_journal
+ 15.88%   70.528      6 Template:Navbox
+ 11.75%   52.185     13 Template:Cite_news
+ 10.24%   45.485      1 Template:About
+  9.28%   41.244      1 Template:Tourism
+  6.80%   30.213      2 Template:Sister-inline
+  6.20%   27.537      1 Template:Wikivoyage-inline
+  5.87%   26.084      5 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:854049-0!canonical and timestamp 20191206102152 and revision id 929490447
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Backpacking_(travel)&amp;oldid=929490447">https://en.wikipedia.org/w/index.php?title=Backpacking_(travel)&amp;oldid=929490447</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Backpacking" title="Category:Backpacking">Backpacking</a></li><li><a href="/wiki/Category:Youth_hostelling" title="Category:Youth hostelling">Youth hostelling</a></li><li><a href="/wiki/Category:Hitchhiking" title="Category:Hitchhiking">Hitchhiking</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Backpacking+%28travel%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Backpacking+%28travel%29" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Backpacking_(travel)" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Backpacking_(travel)" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>						</ul>
+					</div>
+										<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+												<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li class="collapsible selected" id="ca-view"><a href="/wiki/Backpacking_(travel)">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Backpacking_(travel)&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Backpacking_(travel)&amp;action=history" title="Past revisions of this page [h]">View history</a></li>						</ul>
+					</div>
+										<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+						<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Backpacking_(travel)" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Backpacking_(travel)" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Backpacking_(travel)&amp;oldid=929490447" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Backpacking_(travel)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q492202" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Backpacking_%28travel%29&amp;id=929490447" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Backpackers" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Urban_backpacking" hreflang="en">Wikivoyage</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Backpacking+%28travel%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Backpacking+%28travel%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Backpacking_(travel)&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ace"><a class="interlanguage-link-target" href="https://ace.wikipedia.org/wiki/Wisata_meu-amb%C3%B4ng" hreflang="ace" lang="ace" title="Wisata meu-ambông – Achinese">Acèh</a></li><li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Rugsakstap" hreflang="af" lang="af" title="Rugsakstap – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D8%B2%D9%85_%D8%AD%D9%82%D8%A7%D8%A6%D8%A8_%D8%A7%D9%84%D8%B8%D9%87%D8%B1" hreflang="ar" lang="ar" title="حزم حقائب الظهر – Arabic">العربية</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Backpacking" hreflang="da" lang="da" title="Backpacking – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Rucksacktourismus" hreflang="de" lang="de" title="Rucksacktourismus – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Mochilero" hreflang="es" lang="es" title="Mochilero – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Bizkar_zorroko_turismo" hreflang="eu" lang="eu" title="Bizkar zorroko turismo – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%84%D9%87%E2%80%8C%D9%BE%D8%B4%D8%AA%E2%80%8C%DA%AF%D8%B1%D8%AF%DB%8C" hreflang="fa" lang="fa" title="کوله‌پشت‌گردی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Routard" hreflang="fr" lang="fr" title="Routard – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B0%B0%EB%82%AD%EC%97%AC%ED%96%89" hreflang="ko" lang="ko" title="배낭여행 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B2%D5%A5%D6%84%D6%83%D5%A5%D6%84%D5%AB%D5%B6%D5%A3" hreflang="hy" lang="hy" title="Բեքփեքինգ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Wisata_beransel" hreflang="id" lang="id" title="Wisata beransel – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Backpacking" hreflang="it" lang="it" title="Backpacking – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%AA%D7%A8%D7%9E%D7%99%D7%9C%D7%90%D7%95%D7%AA" hreflang="he" lang="he" title="תרמילאות – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%94%E1%83%A5%E1%83%9E%E1%83%94%E1%83%99%E1%83%98%E1%83%9C%E1%83%92%E1%83%98" hreflang="ka" lang="ka" title="ბექპეკინგი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%91%D1%8D%D0%BA%D0%BF%D1%8D%D0%BA%D0%B8%D0%BD%D0%B3" hreflang="ky" lang="ky" title="Бэкпэкинг – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Kembara_beg_galas" hreflang="ms" lang="ms" title="Kembara beg galas – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Rugzaktoerisme" hreflang="nl" lang="nl" title="Rugzaktoerisme – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%82%AB%E3%83%BC" hreflang="ja" lang="ja" title="バックパッカー – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Ryggsekkturisme" hreflang="no" lang="no" title="Ryggsekkturisme – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Ryggsekkturisme" hreflang="nn" lang="nn" title="Ryggsekkturisme – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Backpacking" hreflang="pl" lang="pl" title="Backpacking – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Mochileiro" hreflang="pt" lang="pt" title="Mochileiro – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%91%D1%8D%D0%BA%D0%BF%D1%8D%D0%BA%D0%B8%D0%BD%D0%B3" hreflang="ru" lang="ru" title="Бэкпэкинг – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Backpacking_(travel)" hreflang="en-simple" lang="en-simple" title="Backpacking (travel) – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Backpacking" hreflang="sv" lang="sv" title="Backpacking – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Backpacking" hreflang="tl" lang="tl" title="Backpacking – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%91%D0%B5%D0%BA%D0%BF%D0%B5%D0%BA%D1%96%D0%BD%D0%B3" hreflang="uk" lang="uk" title="Бекпекінг – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Du_l%E1%BB%8Bch_b%E1%BB%A5i" hreflang="vi" lang="vi" title="Du lịch bụi – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%83%8C%E5%8C%85%E5%AE%A2" hreflang="zh" lang="zh" title="背包客 – Chinese">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q492202#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 December 2019, at 04:42<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Backpacking_(travel)&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.504","walltime":"0.611","ppvisitednodes":{"value":1601,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":113058,"limit":2097152},"templateargumentsize":{"value":278,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":76098,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  444.224      1 -total"," 60.52%  268.833      1 Template:Reflist"," 31.65%  140.575      6 Template:Cite_journal"," 15.88%   70.528      6 Template:Navbox"," 11.75%   52.185     13 Template:Cite_news"," 10.24%   45.485      1 Template:About","  9.28%   41.244      1 Template:Tourism","  6.80%   30.213      2 Template:Sister-inline","  6.20%   27.537      1 Template:Wikivoyage-inline","  5.87%   26.084      5 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.239","limit":"10.000"},"limitreport-memusage":{"value":4657134,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20191206102152","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Backpacking (travel)","url":"https:\/\/en.wikipedia.org\/wiki\/Backpacking_(travel)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q492202","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q492202","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-24T08:47:26Z","dateModified":"2019-12-06T04:42:03Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/88\/Urban_backpacking.jpg","headline":"low-cost, lightweight, independent and often international travel"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1320"});});</script>
+
+
+</body></html>

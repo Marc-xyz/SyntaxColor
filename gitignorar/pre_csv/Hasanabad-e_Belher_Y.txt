@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Hasanabad-e Belher - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfuAzQpAAEQAAGANxM4AAAAD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hasanabad-e_Belher","wgTitle":"Hasanabad-e Belher","wgCurRevisionId":906526498,"wgRevisionId":906526498,"wgArticleId":36378707,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Coordinates on Wikidata","Articles containing Persian-language text","All stub articles","Populated places in Nishapur County","Nishapur County geography stubs"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Hasanabad-e_Belher","wgRelevantArticleId":36378707,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":35.77777777777778,"lon":58.785},"wgWikibaseItemId":"Q5823659","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":
+"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Iran_location_map.svg/1200px-Iran_location_map.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hasanabad-e_Belher" rel="alternate"/>
+<link href="/w/index.php?title=Hasanabad-e_Belher&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Hasanabad-e_Belher&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Hasanabad-e_Belher" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hasanabad-e_Belher rootpage-Hasanabad-e_Belher skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Hasanabad-e Belher</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">village in Razavi Khorasan, Iran</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div class="fn org" style="display:inline">Hasanabad-e Belher</div><br/><div class="nickname" style="font-weight:normal;display:inline;">حسن ابادبلهر</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category">village</div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><div class="center"><div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:250px;padding:0"><div style="position:relative;width:250px"><a class="image" href="/wiki/File:Iran_location_map.svg" title="Hasanabad-e Belher is located in Iran"><img alt="Hasanabad-e Belher is located in Iran" data-file-height="1071" data-file-width="1200" decoding="async" height="223" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Iran_location_map.svg/250px-Iran_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Iran_location_map.svg/375px-Iran_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Iran_location_map.svg/500px-Iran_location_map.svg.png 2x" width="250"/></a><div style="position:absolute;top:27.24%;left:74.561%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Hasanabad-e Belher" data-file-height="64" data-file-width="64" decoding="async" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" title="Hasanabad-e Belher" width="6"/></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right"><div style="display:inline;padding:1px;float:right">Hasanabad-e Belher</div></div></div></div><div></div></div></div></div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Hasanabad-e_Belher&amp;params=35_46_40_N_58_47_06_E_region:IR_type:city(751)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">35°46′40″N</span> <span class="longitude">58°47′06″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">35.77778°N 58.78500°E</span><span style="display:none">﻿ / <span class="geo">35.77778; 58.78500</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Hasanabad-e_Belher&amp;params=35_46_40_N_58_47_06_E_region:IR_type:city(751)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">35°46′40″N</span> <span class="longitude">58°47′06″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">35.77778°N 58.78500°E</span><span style="display:none">﻿ / <span class="geo">35.77778; 58.78500</span></span></span></a></span></span></span></td></tr><tr class="mergedtoprow"><th scope="row"><a class="mw-redirect" href="/wiki/List_of_countries" title="List of countries">Country</a></th><td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="360" data-file-width="630" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" width="23"/> </span><a href="/wiki/Iran" title="Iran">Iran</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Provinces_of_Iran" title="Provinces of Iran">Province</a></th><td><a href="/wiki/Razavi_Khorasan_Province" title="Razavi Khorasan Province">Razavi Khorasan</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Counties_of_Iran" title="Counties of Iran">County</a></th><td><a href="/wiki/Nishapur_County" title="Nishapur County">Nishapur</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Bakhsh" title="Bakhsh">Bakhsh</a></th><td><a href="/wiki/Miyan_Jolgeh_District" title="Miyan Jolgeh District">Miyan Jolgeh</a></td></tr><tr class="mergedrow"><th scope="row"><a class="mw-redirect" href="/wiki/Rural_Districts_of_Iran" title="Rural Districts of Iran">Rural District</a></th><td><a href="/wiki/Belharat_Rural_District" title="Belharat Rural District">Belharat</a></td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population<div style="font-weight:normal;display:inline;"><span class="nowrap"> </span>(2006)</div></th></tr><tr class="mergedrow"><th scope="row"> • Total</th><td>751</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a class="mw-redirect" href="/wiki/UTC%2B3:30" title="UTC+3:30">UTC+3:30</a> (<a href="/wiki/Iran_Standard_Time" title="Iran Standard Time">IRST</a>)</td></tr><tr class="mergedrow"><th scope="row"><span style="white-space:nowrap"> • Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th><td><a class="mw-redirect" href="/wiki/UTC%2B4:30" title="UTC+4:30">UTC+4:30</a> (<a class="mw-redirect" href="/wiki/Iran_Daylight_Time" title="Iran Daylight Time">IRDT</a>)</td></tr></tbody></table><div class="hatnote navigation-not-searchable" role="note">For other places with similar names, see <a class="mw-redirect mw-disambig" href="/wiki/Hasanabad_(disambiguation)" title="Hasanabad (disambiguation)">Hasanabad</a>.</div><p><b>Hasanabad-e Belher</b> (<a href="/wiki/Persian_language" title="Persian language">Persian</a>: <span dir="rtl" lang="fa">حسن ابادبلهر</span>‎, also <a class="mw-redirect" href="/wiki/Romanize" title="Romanize">Romanized</a> as <b>Ḩasanābād-e Belher</b>)<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> is a village in <a href="/wiki/Belharat_Rural_District" title="Belharat Rural District">Belharat Rural District</a>, <a href="/wiki/Miyan_Jolgeh_District" title="Miyan Jolgeh District">Miyan Jolgeh District</a>, <a href="/wiki/Nishapur_County" title="Nishapur County">Nishapur County</a>, <a href="/wiki/Razavi_Khorasan_Province" title="Razavi Khorasan Province">Razavi Khorasan Province</a>, <a href="/wiki/Iran" title="Iran">Iran</a>. At the 2006 census, its population was 751, in 209 families.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hasanabad-e_Belher&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Hasanabad-e Belher can be found at <a href="/wiki/GEOnet_Names_Server" title="GEOnet Names Server">GEOnet Names Server</a>, at <a class="external text" href="http://geonames.nga.mil/namesgaz/" rel="nofollow">this link</a>, by opening the Advanced Search box, entering "-3779673"  in the "Unique Feature Id" form, and clicking on "Search Database".</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20110920084728/http://www.amar.org.ir/DesktopModules/FTPManager/upload/upload2360/newjkh/newjkh/09.xls" rel="nofollow">"Census of the Islamic Republic of Iran, 1385 (2006)"</a>. <a class="mw-redirect" href="/wiki/Islamic_Republic_of_Iran" title="Islamic Republic of Iran">Islamic Republic of Iran</a>. Archived from <a class="external text" href="https://www.amar.org.ir/DesktopModules/FTPManager/upload/upload2360/newjkh/newjkh/09.xls" rel="nofollow">the original</a> <span class="cs1-format">(Excel)</span> on 2011-11-11.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Census+of+the+Islamic+Republic+of+Iran%2C+1385+%282006%29&amp;rft.pub=Islamic+Republic+of+Iran&amp;rft_id=https%3A%2F%2Fwww.amar.org.ir%2FDesktopModules%2FFTPManager%2Fupload%2Fupload2360%2Fnewjkh%2Fnewjkh%2F09.xls&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHasanabad-e+Belher"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Iran&amp;#124;link=Iran_Nishapur_County" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Nishapur_County" title="Template:Nishapur County"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Nishapur_County" title="Template talk:Nishapur County"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Nishapur_County&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=Iran&amp;#124;link=Iran_Nishapur_County" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Iran" title="Iran"><img alt="Iran" class="thumbborder" data-file-height="360" data-file-width="630" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" width="23"/></a></span> <a href="/wiki/Nishapur_County" title="Nishapur County">Nishapur County</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Capital_city" title="Capital city">Capital</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nishapur" title="Nishapur">Nishapur</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Administrative_divisions_of_Iran" title="Administrative divisions of Iran">Districts</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Central_District_(Nishapur_County)" title="Central District (Nishapur County)">Central</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Cities</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nishapur" title="Nishapur">Nishapur</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Rural_Districts_of_Iran" title="Rural Districts of Iran">Rural Districts</a><br/> and villages</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Binalud_Rural_District" title="Binalud Rural District">Binalud</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aliabad,_Nishapur" title="Aliabad, Nishapur">Aliabad</a></li>
+<li><a href="/wiki/Andar_Ab,_Razavi_Khorasan" title="Andar Ab, Razavi Khorasan">Andar Ab</a></li>
+<li><a href="/wiki/Baqi,_Nishapur" title="Baqi, Nishapur">Baqi</a></li>
+<li><a href="/wiki/Barag_Shahi" title="Barag Shahi">Barag Shahi</a></li>
+<li><a href="/wiki/Bojnu-ye_Olya" title="Bojnu-ye Olya">Bojnu-ye Olya</a></li>
+<li><a href="/wiki/Bojnu-ye_Sofla" title="Bojnu-ye Sofla">Bojnu-ye Sofla</a></li>
+<li><a href="/wiki/Bormahan" title="Bormahan">Bormahan</a></li>
+<li><a href="/wiki/Chahar_Gushli" title="Chahar Gushli">Chahar Gushli</a></li>
+<li><a href="/wiki/Dahaneh-ye_Heydari" title="Dahaneh-ye Heydari">Dahaneh-ye Heydari</a></li>
+<li><a href="/wiki/Farsiyeh,_Razavi_Khorasan" title="Farsiyeh, Razavi Khorasan">Farsiyeh</a></li>
+<li><a href="/wiki/Fazelabad,_Razavi_Khorasan" title="Fazelabad, Razavi Khorasan">Fazelabad</a></li>
+<li><a href="/wiki/Gardan" title="Gardan">Gardan</a></li>
+<li><a href="/wiki/Heydarabad,_Nishapur" title="Heydarabad, Nishapur">Heydarabad</a></li>
+<li><a href="/wiki/Kalateh-ye_Abuzar" title="Kalateh-ye Abuzar">Kalateh-ye Abuzar</a></li>
+<li><a href="/wiki/Kalateh-ye_Ali_Morad" title="Kalateh-ye Ali Morad">Kalateh-ye Ali Morad</a></li>
+<li><a href="/wiki/Kalateh-ye_Mohammad_Jan" title="Kalateh-ye Mohammad Jan">Kalateh-ye Mohammad Jan</a></li>
+<li><a href="/wiki/Karan,_Razavi_Khorasan" title="Karan, Razavi Khorasan">Karan</a></li>
+<li><a href="/wiki/Karji,_Nishapur" title="Karji, Nishapur">Karji</a></li>
+<li><a href="/wiki/Khar_Barreh" title="Khar Barreh">Khar Barreh</a></li>
+<li><a href="/wiki/Khorramabad,_Binalud" title="Khorramabad, Binalud">Khorramabad</a></li>
+<li><a href="/wiki/Marusk" title="Marusk">Marusk</a></li>
+<li><a href="/wiki/Nasirabad,_Nishapur" title="Nasirabad, Nishapur">Nasirabad</a></li>
+<li><a href="/wiki/Qaruneh" title="Qaruneh">Qaruneh</a></li>
+<li><a class="mw-redirect" href="/wiki/Sar_Chah,_Razavi_Khorasan" title="Sar Chah, Razavi Khorasan">Sar Chah</a></li>
+<li><a href="/wiki/Sar_Gerik" title="Sar Gerik">Sar Gerik</a></li>
+<li><a href="/wiki/Seyyedabad-e_Asadollah_Khan" title="Seyyedabad-e Asadollah Khan">Seyyedabad-e Asadollah Khan</a></li>
+<li><a href="/wiki/Seyyedabad-e_Bar_Madan" title="Seyyedabad-e Bar Madan">Seyyedabad-e Bar Madan</a></li>
+<li><a href="/wiki/Tangeh-ye_Olya" title="Tangeh-ye Olya">Tangeh-ye Olya</a></li>
+<li><a href="/wiki/Telli" title="Telli">Telli</a></li>
+<li><a href="/wiki/Tijan" title="Tijan">Tijan</a></li>
+<li><a href="/wiki/Zarandeh,_Binalud" title="Zarandeh, Binalud">Zarandeh</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Darbqazi_Rural_District" title="Darbqazi Rural District">Darbqazi</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abirabad,_Razavi_Khorasan" title="Abirabad, Razavi Khorasan">Abirabad</a></li>
+<li><a href="/wiki/Ahmadabad,_Nishapur" title="Ahmadabad, Nishapur">Ahmadabad</a></li>
+<li><a href="/wiki/Aliabad-e_Shahid,_Razavi_Khorasan" title="Aliabad-e Shahid, Razavi Khorasan">Aliabad-e Shahid</a></li>
+<li><a href="/wiki/Amirabad,_Nishapur" title="Amirabad, Nishapur">Amirabad</a></li>
+<li><a href="/wiki/Badiabad,_Nishapur" title="Badiabad, Nishapur">Badiabad</a></li>
+<li><a href="/wiki/Bagh-e_Jafarabad" title="Bagh-e Jafarabad">Bagh-e Jafarabad</a></li>
+<li><a href="/wiki/Bahman,_Iran" title="Bahman, Iran">Bahman</a></li>
+<li><a href="/wiki/Bahrudi" title="Bahrudi">Bahrudi</a></li>
+<li><a href="/wiki/Baniabad,_Nishapur" title="Baniabad, Nishapur">Baniabad</a></li>
+<li><a href="/wiki/Berzu,_Nishapur" title="Berzu, Nishapur">Berzu</a></li>
+<li><a href="/wiki/Boshruy" title="Boshruy">Boshruy</a></li>
+<li><a href="/wiki/Bujakhak" title="Bujakhak">Bujakhak</a></li>
+<li><a href="/wiki/Chah-e_Salari,_Razavi_Khorasan" title="Chah-e Salari, Razavi Khorasan">Chah-e Salari</a></li>
+<li><a href="/wiki/Daghi,_Nishapur" title="Daghi, Nishapur">Daghi</a></li>
+<li><a href="/wiki/Deh_Now,_Darbqazi" title="Deh Now, Darbqazi">Deh Now</a></li>
+<li><a href="/wiki/Deh_Now-e_Lakzi" title="Deh Now-e Lakzi">Deh Now-e Lakzi</a></li>
+<li><a href="/wiki/Ebrahimabad-e_Muri" title="Ebrahimabad-e Muri">Ebrahimabad-e Muri</a></li>
+<li><a href="/wiki/Emamiyeh,_Razavi_Khorasan" title="Emamiyeh, Razavi Khorasan">Emamiyeh</a></li>
+<li><a href="/wiki/Eqbali" title="Eqbali">Eqbali</a></li>
+<li><a href="/wiki/Eshqabad-e_Kohneh" title="Eshqabad-e Kohneh">Eshqabad-e Kohneh</a></li>
+<li><a href="/wiki/Eslamabad-e_Arab" title="Eslamabad-e Arab">Eslamabad-e Arab</a></li>
+<li><a href="/wiki/Farajabad,_Razavi_Khorasan" title="Farajabad, Razavi Khorasan">Farajabad</a></li>
+<li><a href="/wiki/Farkh_Jan" title="Farkh Jan">Farkh Jan</a></li>
+<li><a href="/wiki/Fathabad,_Nishapur" title="Fathabad, Nishapur">Fathabad</a></li>
+<li><a href="/wiki/Fazl,_Nishapur_County" title="Fazl, Nishapur County">Fazl</a></li>
+<li><a href="/wiki/Ferdows,_Razavi_Khorasan" title="Ferdows, Razavi Khorasan">Ferdows</a></li>
+<li><a href="/wiki/Haqqiyeh" title="Haqqiyeh">Haqqiyeh</a></li>
+<li><a href="/wiki/Hoseynabad-e_Chaghuki" title="Hoseynabad-e Chaghuki">Hoseynabad-e Chaghuki</a></li>
+<li><a href="/wiki/Hoseyni,_Nishapur" title="Hoseyni, Nishapur">Hoseyni</a></li>
+<li><a href="/wiki/Jalandeh" title="Jalandeh">Jalandeh</a></li>
+<li><a href="/wiki/Jijabad" title="Jijabad">Jijabad</a></li>
+<li><a href="/wiki/Jilu,_Iran" title="Jilu, Iran">Jilu</a></li>
+<li><a href="/wiki/Juri,_Razavi_Khorasan" title="Juri, Razavi Khorasan">Juri</a></li>
+<li><a href="/wiki/Karimabad,_Nishapur" title="Karimabad, Nishapur">Karimabad</a></li>
+<li><a href="/wiki/Karimabad-e_Suis" title="Karimabad-e Suis">Karimabad-e Suis</a></li>
+<li><a href="/wiki/Karizak-e_Kenar_Kal" title="Karizak-e Kenar Kal">Karizak-e Kenar Kal</a></li>
+<li><a href="/wiki/Karizak-e_Kohneh" title="Karizak-e Kohneh">Karizak-e Kohneh</a></li>
+<li><a href="/wiki/Kariz-e_Sabah" title="Kariz-e Sabah">Kariz-e Sabah</a></li>
+<li><a href="/wiki/Kazemabad,_Nishapur" title="Kazemabad, Nishapur">Kazemabad</a></li>
+<li><a href="/wiki/Khanshah" title="Khanshah">Khanshah</a></li>
+<li><a href="/wiki/Khujan" title="Khujan">Khujan</a></li>
+<li><a href="/wiki/Kowsar,_Nishapur" title="Kowsar, Nishapur">Kowsar</a></li>
+<li><a href="/wiki/Lak_Lak_Ashian" title="Lak Lak Ashian">Lak Lak Ashian</a></li>
+<li><a href="/wiki/Mahmudabad-e_Fazl" title="Mahmudabad-e Fazl">Mahmudabad-e Fazl</a></li>
+<li><a href="/wiki/Mansuriyeh,_Nishapur" title="Mansuriyeh, Nishapur">Mansuriyeh</a></li>
+<li><a href="/wiki/Mohammadabad-e_Aqa_Zadeh" title="Mohammadabad-e Aqa Zadeh">Mohammadabad-e Aqa Zadeh</a></li>
+<li><a href="/wiki/Naqdbesh" title="Naqdbesh">Naqdbesh</a></li>
+<li><a href="/wiki/Nowbahar,_Nishapur" title="Nowbahar, Nishapur">Nowbahar</a></li>
+<li><a href="/wiki/Nowruzabad,_Nishapur" title="Nowruzabad, Nishapur">Nowruzabad</a></li>
+<li><a href="/wiki/Nurabad,_Nishapur" title="Nurabad, Nishapur">Nurabad</a></li>
+<li><a href="/wiki/Qaleh_Now,_Nishapur" title="Qaleh Now, Nishapur">Qaleh Now</a></li>
+<li><a href="/wiki/Qaleh_Now-ye_Mehdiabad" title="Qaleh Now-ye Mehdiabad">Qaleh Now-ye Mehdiabad</a></li>
+<li><a href="/wiki/Rahimabad,_Darbqazi" title="Rahimabad, Darbqazi">Rahimabad</a></li>
+<li><a href="/wiki/Ruhabad,_Darbqazi" title="Ruhabad, Darbqazi">Ruhabad</a></li>
+<li><a href="/wiki/Sadrabad,_Nishapur" title="Sadrabad, Nishapur">Sadrabad</a></li>
+<li><a href="/wiki/Salehabad,_Darbqazi" title="Salehabad, Darbqazi">Salehabad</a></li>
+<li><a href="/wiki/Seh_Gonbad,_Razavi_Khorasan" title="Seh Gonbad, Razavi Khorasan">Seh Gonbad</a></li>
+<li><a href="/wiki/Shad_Mianeh" title="Shad Mianeh">Shad Mianeh</a></li>
+<li><a href="/wiki/Shahr-e_Kohneh,_Nishapur" title="Shahr-e Kohneh, Nishapur">Shahr-e Kohneh</a></li>
+<li><a href="/wiki/Shib" title="Shib">Shib</a></li>
+<li><a href="/wiki/Shurikeh" title="Shurikeh">Shurikeh</a></li>
+<li><a href="/wiki/Soltanabad,_Nishapur" title="Soltanabad, Nishapur">Soltanabad</a></li>
+<li><a href="/wiki/Taqiabad-e_Telayi" title="Taqiabad-e Telayi">Taqiabad-e Telayi</a></li>
+<li><a href="/wiki/Zirjan,_Nishapur" title="Zirjan, Nishapur">Zirjan</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Fazl_Rural_District_(Razavi_Khorasan_Province)" title="Fazl Rural District (Razavi Khorasan Province)">Fazl</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abbasabad,_Nishapur" title="Abbasabad, Nishapur">Abbasabad</a></li>
+<li><a href="/wiki/Abu_Sadi" title="Abu Sadi">Abu Sadi</a></li>
+<li><a href="/wiki/Adg" title="Adg">Adg</a></li>
+<li><a href="/wiki/Barf_Riz" title="Barf Riz">Barf Riz</a></li>
+<li><a href="/wiki/Boshrabad" title="Boshrabad">Boshrabad</a></li>
+<li><a href="/wiki/Buzhabad" title="Buzhabad">Buzhabad</a></li>
+<li><a class="mw-redirect" href="/wiki/Buzhan,_Razavi_Khorasan" title="Buzhan, Razavi Khorasan">Buzhan</a></li>
+<li><a href="/wiki/Chah_Boland" title="Chah Boland">Chah Boland</a></li>
+<li><a href="/wiki/Damdari_Dasht_Livestock_Center" title="Damdari Dasht Livestock Center">Damdari Dasht Livestock Center</a></li>
+<li><a href="/wiki/Dar_os_Salam" title="Dar os Salam">Dar os Salam</a></li>
+<li><a href="/wiki/Darbehesht,_Fazl" title="Darbehesht, Fazl">Darbehesht</a></li>
+<li><a href="/wiki/Dasht,_Nishapur" title="Dasht, Nishapur">Dasht</a></li>
+<li><a href="/wiki/Deh_Now,_Fazl" title="Deh Now, Fazl">Deh Now</a></li>
+<li><a href="/wiki/Deh_Sheykh,_Razavi_Khorasan" title="Deh Sheykh, Razavi Khorasan">Deh Sheykh</a></li>
+<li><a href="/wiki/Eshratabad,_Nishapur" title="Eshratabad, Nishapur">Eshratabad</a></li>
+<li><a href="/wiki/Eslamabad-e_Lakazi" title="Eslamabad-e Lakazi">Eslamabad-e Lakazi</a></li>
+<li><a href="/wiki/Eynabad,_Fazl" title="Eynabad, Fazl">Eynabad</a></li>
+<li><a href="/wiki/Fakhriyeh" title="Fakhriyeh">Fakhriyeh</a></li>
+<li><a href="/wiki/Farkhak" title="Farkhak">Farkhak</a></li>
+<li><a href="/wiki/Feyzabad-e_Lalaha" title="Feyzabad-e Lalaha">Feyzabad-e Lalaha</a></li>
+<li><a href="/wiki/Filkhaneh" title="Filkhaneh">Filkhaneh</a></li>
+<li><a href="/wiki/Firuzi,_Razavi_Khorasan" title="Firuzi, Razavi Khorasan">Firuzi</a></li>
+<li><a href="/wiki/Fushenjan" title="Fushenjan">Fushenjan</a></li>
+<li><a href="/wiki/Ghar,_Iran" title="Ghar, Iran">Ghar</a></li>
+<li><a href="/wiki/Hajj_Kazemi" title="Hajj Kazemi">Hajj Kazemi</a></li>
+<li><a href="/wiki/Hamidabad,_Razavi_Khorasan" title="Hamidabad, Razavi Khorasan">Hamidabad</a></li>
+<li><a href="/wiki/Hesar,_Nishapur" title="Hesar, Nishapur">Hesar</a></li>
+<li><a href="/wiki/Hoseynabad-e_Jadid,_Razavi_Khorasan" title="Hoseynabad-e Jadid, Razavi Khorasan">Hoseynabad-e Jadid</a></li>
+<li><a href="/wiki/Hoseynabad-e_Nazer" title="Hoseynabad-e Nazer">Hoseynabad-e Nazer</a></li>
+<li><a href="/wiki/Kalateh-ye_Vahdat" title="Kalateh-ye Vahdat">Kalateh-ye Vahdat</a></li>
+<li><a href="/wiki/Kheyrabad,_Fazl" title="Kheyrabad, Fazl">Kheyrabad</a></li>
+<li><a href="/wiki/Khorramabad,_Fazl" title="Khorramabad, Fazl">Khorramabad</a></li>
+<li><a href="/wiki/Khvosh-e_Bala" title="Khvosh-e Bala">Khvosh-e Bala</a></li>
+<li><a href="/wiki/Mamuri,_Fazl" title="Mamuri, Fazl">Mamuri</a></li>
+<li><a href="/wiki/Muri,_Razavi_Khorasan" title="Muri, Razavi Khorasan">Muri</a></li>
+<li><a href="/wiki/Naimabad,_Nishapur" title="Naimabad, Nishapur">Naimabad</a></li>
+<li><a href="/wiki/Qaleh_Now-ye_Alireza_Bek" title="Qaleh Now-ye Alireza Bek">Qaleh Now-ye Alireza Bek</a></li>
+<li><a href="/wiki/Qoreyshabad" title="Qoreyshabad">Qoreyshabad</a></li>
+<li><a href="/wiki/Rud,_Nishapur" title="Rud, Nishapur">Rud</a></li>
+<li><a href="/wiki/Sadabad,_Nishapur" title="Sadabad, Nishapur">Sadabad</a></li>
+<li><a href="/wiki/Sheykhlan" title="Sheykhlan">Sheykhlan</a></li>
+<li><a href="/wiki/Sowqand" title="Sowqand">Sowqand</a></li>
+<li><a href="/wiki/Taht-e_Manzar" title="Taht-e Manzar">Taht-e Manzar</a></li>
+<li><a href="/wiki/Tarababad,_Razavi_Khorasan" title="Tarababad, Razavi Khorasan">Tarababad</a></li>
+<li><a href="/wiki/Turani,_Iran" title="Turani, Iran">Turani</a></li>
+<li><a href="/wiki/Yahyaabad,_Fazl" title="Yahyaabad, Fazl">Yahyaabad</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Mazul_Rural_District" title="Mazul Rural District">Mazul</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abquy" title="Abquy">Abquy</a></li>
+<li><a href="/wiki/Asgarabad,_Nishapur" title="Asgarabad, Nishapur">Asgarabad</a></li>
+<li><a href="/wiki/Baghshan-e_Gach" title="Baghshan-e Gach">Baghshan-e Gach</a></li>
+<li><a href="/wiki/Bashnij" title="Bashnij">Bashnij</a></li>
+<li><a href="/wiki/Chah-e_Sadiq_Salar_Ali_Akbar" title="Chah-e Sadiq Salar Ali Akbar">Chah-e Sadiq Salar Ali Akbar</a></li>
+<li><a href="/wiki/Chah-e_Saidi" title="Chah-e Saidi">Chah-e Saidi</a></li>
+<li><a href="/wiki/Chah-e_Shomareh-ye_Yek_Golshan" title="Chah-e Shomareh-ye Yek Golshan">Chah-e Shomareh-ye Yek Golshan</a></li>
+<li><a href="/wiki/Darbehesht,_Mazul" title="Darbehesht, Mazul">Darbehesht</a></li>
+<li><a href="/wiki/Deh_Baf" title="Deh Baf">Deh Baf</a></li>
+<li><a href="/wiki/Deh_Now-ye_Khaleseh" title="Deh Now-ye Khaleseh">Deh Now-ye Khaleseh</a></li>
+<li><a href="/wiki/Deh_Sang" title="Deh Sang">Deh Sang</a></li>
+<li><a href="/wiki/Deh-e_Hallaj" title="Deh-e Hallaj">Deh-e Hallaj</a></li>
+<li><a href="/wiki/Dowlatabad,_Nishapur" title="Dowlatabad, Nishapur">Dowlatabad</a></li>
+<li><a href="/wiki/Elahi,_Nishapur" title="Elahi, Nishapur">Elahi</a></li>
+<li><a href="/wiki/Eshqabad,_Mazul" title="Eshqabad, Mazul">Eshqabad</a></li>
+<li><a href="/wiki/Eyshabad,_Nishapur" title="Eyshabad, Nishapur">Eyshabad</a></li>
+<li><a href="/wiki/Feyzabad_(36%C2%B010%E2%80%B2_N_58%C2%B052%E2%80%B2_E),_Mazul" title="Feyzabad (36°10′ N 58°52′ E), Mazul">Feyzabad</a></li>
+<li><a href="/wiki/Feyzabad_(36%C2%B013%E2%80%B2_N_58%C2%B045%E2%80%B2_E),_Mazul" title="Feyzabad (36°13′ N 58°45′ E), Mazul">Feyzabad</a></li>
+<li><a href="/wiki/Feyzabad_(36%C2%B020%E2%80%B2_N_58%C2%B045%E2%80%B2_E),_Mazul" title="Feyzabad (36°20′ N 58°45′ E), Mazul">Feyzabad</a></li>
+<li><a href="/wiki/Gachdarreh" title="Gachdarreh">Gachdarreh</a></li>
+<li><a href="/wiki/Garab,_Nishapur" title="Garab, Nishapur">Garab</a></li>
+<li><a href="/wiki/Hajjian" title="Hajjian">Hajjian</a></li>
+<li><a href="/wiki/Hasanabad-e_Emam_Jomeh" title="Hasanabad-e Emam Jomeh">Hasanabad-e Emam Jomeh</a></li>
+<li><a href="/wiki/Hasanabad-e_Sar_Tappeh" title="Hasanabad-e Sar Tappeh">Hasanabad-e Sar Tappeh</a></li>
+<li><a href="/wiki/Hesar_Juq" title="Hesar Juq">Hesar Juq</a></li>
+<li><a href="/wiki/Hesar-e_Khuni" title="Hesar-e Khuni">Hesar-e Khuni</a></li>
+<li><a href="/wiki/Honarstan-e_Kashavarzi,_Razavi_Khorasan" title="Honarstan-e Kashavarzi, Razavi Khorasan">Honarstan-e Kashavarzi</a></li>
+<li><a href="/wiki/Jomhuri,_Iran" title="Jomhuri, Iran">Jomhuri</a></li>
+<li><a href="/wiki/Kaboli,_Razavi_Khorasan" title="Kaboli, Razavi Khorasan">Kaboli</a></li>
+<li><a href="/wiki/Kheyrabad,_Mazul" title="Kheyrabad, Mazul">Kheyrabad</a></li>
+<li><a href="/wiki/Khorram_Bak" title="Khorram Bak">Khorram Bak</a></li>
+<li><a href="/wiki/Khvajeh_Bachcheh" title="Khvajeh Bachcheh">Khvajeh Bachcheh</a></li>
+<li><a href="/wiki/Mamuri,_Mazul" title="Mamuri, Mazul">Mamuri</a></li>
+<li><a href="/wiki/Manzar,_Nishapur" title="Manzar, Nishapur">Manzar</a></li>
+<li><a href="/wiki/Mazraeh-ye_Sheikh_Abu_Al_Hasan" title="Mazraeh-ye Sheikh Abu Al Hasan">Mazraeh-ye Sheikh Abu Al Hasan</a></li>
+<li><a href="/wiki/Mirabad_(36%C2%B013%E2%80%B2_N_58%C2%B040%E2%80%B2_E),_Mazul" title="Mirabad (36°13′ N 58°40′ E), Mazul">Mirabad</a></li>
+<li><a href="/wiki/Mirabad_(36%C2%B018%E2%80%B2_N_58%C2%B049%E2%80%B2_E),_Mazul" title="Mirabad (36°18′ N 58°49′ E), Mazul">Mirabad</a></li>
+<li><a href="/wiki/Mohammadabad-e_Do_Khaneh" title="Mohammadabad-e Do Khaneh">Mohammadabad-e Do Khaneh</a></li>
+<li><a href="/wiki/Neqab,_Nishapur" title="Neqab, Nishapur">Neqab</a></li>
+<li><a href="/wiki/Pir_Komaj" title="Pir Komaj">Pir Komaj</a></li>
+<li><a href="/wiki/Qaleh_Now-e_Jamshid" title="Qaleh Now-e Jamshid">Qaleh Now-e Jamshid</a></li>
+<li><a href="/wiki/Qatnabad" title="Qatnabad">Qatnabad</a></li>
+<li><a href="/wiki/Ranajabad" title="Ranajabad">Ranajabad</a></li>
+<li><a href="/wiki/Red_Crescent_Building_Number_1" title="Red Crescent Building Number 1">Red Crescent Building Number 1</a></li>
+<li><a href="/wiki/Ringan" title="Ringan">Ringan</a></li>
+<li><a href="/wiki/Rostamabad,_Nishapur" title="Rostamabad, Nishapur">Rostamabad</a></li>
+<li><a href="/wiki/Sahlabad,_Nishapur" title="Sahlabad, Nishapur">Sahlabad</a></li>
+<li><a href="/wiki/Salahi,_Razavi_Khorasan" title="Salahi, Razavi Khorasan">Salahi</a></li>
+<li><a href="/wiki/Samghan" title="Samghan">Samghan</a></li>
+<li><a href="/wiki/Sanguni" title="Sanguni">Sanguni</a></li>
+<li><a href="/wiki/Sar_Ab-e_Kushk" title="Sar Ab-e Kushk">Sar Ab-e Kushk</a></li>
+<li><a href="/wiki/Seh_Chub" title="Seh Chub">Seh Chub</a></li>
+<li><a href="/wiki/Seyfabad,_Nishapur" title="Seyfabad, Nishapur">Seyfabad</a></li>
+<li><a href="/wiki/Seyyedabad,_Nishapur" title="Seyyedabad, Nishapur">Seyyedabad</a></li>
+<li><a href="/wiki/Shadab,_Razavi_Khorasan" title="Shadab, Razavi Khorasan">Shadab</a></li>
+<li><a href="/wiki/Shahrak,_Nishapur" title="Shahrak, Nishapur">Shahrak</a></li>
+<li><a href="/wiki/Shamsabad,_Mazul" title="Shamsabad, Mazul">Shamsabad</a></li>
+<li><a href="/wiki/Sowmeeh,_Mazul" title="Sowmeeh, Mazul">Sowmeeh</a></li>
+<li><a href="/wiki/Yahyaabad,_Mazul" title="Yahyaabad, Mazul">Yahyaabad</a></li>
+<li><a href="/wiki/Yek_Lengeh" title="Yek Lengeh">Yek Lengeh</a></li>
+<li><a href="/wiki/Zarandeh,_Mazul" title="Zarandeh, Mazul">Zarandeh</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Rivand_Rural_District" title="Rivand Rural District">Rivand</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abgineh" title="Abgineh">Abgineh</a></li>
+<li><a href="/wiki/Abjeqan" title="Abjeqan">Abjeqan</a></li>
+<li><a href="/wiki/Ahangaran,_Nishapur" title="Ahangaran, Nishapur">Ahangaran</a></li>
+<li><a href="/wiki/Aliabad-e_Takeh" title="Aliabad-e Takeh">Aliabad-e Takeh</a></li>
+<li><a href="/wiki/Allahjegerd" title="Allahjegerd">Allahjegerd</a></li>
+<li><a href="/wiki/Anjidan" title="Anjidan">Anjidan</a></li>
+<li><a href="/wiki/Ardesman" title="Ardesman">Ardesman</a></li>
+<li><a href="/wiki/Arezumandeh" title="Arezumandeh">Arezumandeh</a></li>
+<li><a href="/wiki/Baghat-e_Dastgerdan" title="Baghat-e Dastgerdan">Baghat-e Dastgerdan</a></li>
+<li><a href="/wiki/Bakavol,_Nishapur" title="Bakavol, Nishapur">Bakavol</a></li>
+<li><a href="/wiki/Batan,_Iran" title="Batan, Iran">Batan</a></li>
+<li><a href="/wiki/Bolqosheh" title="Bolqosheh">Bolqosheh</a></li>
+<li><a href="/wiki/Chanbaran" title="Chanbaran">Chanbaran</a></li>
+<li><a href="/wiki/Dalashan" title="Dalashan">Dalashan</a></li>
+<li><a href="/wiki/Deh_Now,_Rivand" title="Deh Now, Rivand">Deh Now</a></li>
+<li><a href="/wiki/Deh_Now-e_Kherabeh" title="Deh Now-e Kherabeh">Deh Now-e Kherabeh</a></li>
+<li><a href="/wiki/Deh-e_Darugheh" title="Deh-e Darugheh">Deh-e Darugheh</a></li>
+<li><a href="/wiki/Deh-e_Habbeh" title="Deh-e Habbeh">Deh-e Habbeh</a></li>
+<li><a href="/wiki/Diglani" title="Diglani">Diglani</a></li>
+<li><a href="/wiki/Eslamiyeh,_Nishapur" title="Eslamiyeh, Nishapur">Eslamiyeh</a></li>
+<li><a href="/wiki/Eynabad,_Rivand" title="Eynabad, Rivand">Eynabad</a></li>
+<li><a href="/wiki/Farhad,_Nishapur" title="Farhad, Nishapur">Farhad</a></li>
+<li><a href="/wiki/Farrokhabad,_Nishapur" title="Farrokhabad, Nishapur">Farrokhabad</a></li>
+<li><a href="/wiki/Golshan,_Nishapur" title="Golshan, Nishapur">Golshan</a></li>
+<li><a href="/wiki/Hakimabad,_Nishapur" title="Hakimabad, Nishapur">Hakimabad</a></li>
+<li><a href="/wiki/Hantabad" title="Hantabad">Hantabad</a></li>
+<li><a href="/wiki/Hasanabad-e_Kherabeh" title="Hasanabad-e Kherabeh">Hasanabad-e Kherabeh</a></li>
+<li><a href="/wiki/Hashemabad-e_Soltani" title="Hashemabad-e Soltani">Hashemabad-e Soltani</a></li>
+<li><a href="/wiki/Helali,_Nishapur" title="Helali, Nishapur">Helali</a></li>
+<li><a href="/wiki/Heshmatiyeh,_Nishapur" title="Heshmatiyeh, Nishapur">Heshmatiyeh</a></li>
+<li><a href="/wiki/Hoseynabad-e_Makhtari" title="Hoseynabad-e Makhtari">Hoseynabad-e Makhtari</a></li>
+<li><a href="/wiki/Karjij" title="Karjij">Karjij</a></li>
+<li><a href="/wiki/Khezrabad,_Nishapur" title="Khezrabad, Nishapur">Khezrabad</a></li>
+<li><a href="/wiki/Khomar,_Nishapur" title="Khomar, Nishapur">Khomar</a></li>
+<li><a href="/wiki/Lotfabad,_Nishapur" title="Lotfabad, Nishapur">Lotfabad</a></li>
+<li><a href="/wiki/Malek_Kandeh" title="Malek Kandeh">Malek Kandeh</a></li>
+<li><a href="/wiki/Masihabad,_Razavi_Khorasan" title="Masihabad, Razavi Khorasan">Masihabad</a></li>
+<li><a href="/wiki/Mirabad,_Rivand" title="Mirabad, Rivand">Mirabad</a></li>
+<li><a href="/wiki/Mobarakeh,_Nishapur" title="Mobarakeh, Nishapur">Mobarakeh</a></li>
+<li><a href="/wiki/Mohammadabad,_Nishapur" title="Mohammadabad, Nishapur">Mohammadabad</a></li>
+<li><a href="/wiki/Mohitabad" title="Mohitabad">Mohitabad</a></li>
+<li><a href="/wiki/Mohsenabad,_Nishapur" title="Mohsenabad, Nishapur">Mohsenabad</a></li>
+<li><a href="/wiki/Moinabad,_Razavi_Khorasan" title="Moinabad, Razavi Khorasan">Moinabad</a></li>
+<li><a href="/wiki/Mozaffarabad,_Nishapur" title="Mozaffarabad, Nishapur">Mozaffarabad</a></li>
+<li><a href="/wiki/Nasrabad,_Nishapur" title="Nasrabad, Nishapur">Nasrabad</a></li>
+<li><a href="/wiki/Now_Kariz" title="Now Kariz">Now Kariz</a></li>
+<li><a href="/wiki/Qabed" title="Qabed">Qabed</a></li>
+<li><a href="/wiki/Qasemabad,_Nishapur" title="Qasemabad, Nishapur">Qasemabad</a></li>
+<li><a href="/wiki/Rahimabad,_Rivand" title="Rahimabad, Rivand">Rahimabad</a></li>
+<li><a href="/wiki/Rahimabad_(Kuhsabad),_Rivand" title="Rahimabad (Kuhsabad), Rivand">Rahimabad</a></li>
+<li><a href="/wiki/Rahmatabad,_Nishapur" title="Rahmatabad, Nishapur">Rahmatabad</a></li>
+<li><a href="/wiki/Ruhabad,_Rivand" title="Ruhabad, Rivand">Ruhabad</a></li>
+<li><a href="/wiki/Salehabad,_Rivand" title="Salehabad, Rivand">Salehabad</a></li>
+<li><a href="/wiki/Samarghan" title="Samarghan">Samarghan</a></li>
+<li><a href="/wiki/Shad_Mehrak" title="Shad Mehrak">Shad Mehrak</a></li>
+<li><a href="/wiki/Shaeykh" title="Shaeykh">Shaeykh</a></li>
+<li><a href="/wiki/Shafiabad,_Nishapur" title="Shafiabad, Nishapur">Shafiabad</a></li>
+<li><a href="/wiki/Shahabad,_Razavi_Khorasan" title="Shahabad, Razavi Khorasan">Shahabad</a></li>
+<li><a href="/wiki/Shahabad-e_Hoseyni" title="Shahabad-e Hoseyni">Shahabad-e Hoseyni</a></li>
+<li><a href="/wiki/Shamsabad,_Rivand" title="Shamsabad, Rivand">Shamsabad</a></li>
+<li><a href="/wiki/Shamsiyeh" title="Shamsiyeh">Shamsiyeh</a></li>
+<li><a href="/wiki/Sowmeeh,_Rivand" title="Sowmeeh, Rivand">Sowmeeh</a></li>
+<li><a href="/wiki/Taherabad,_Nishapur" title="Taherabad, Nishapur">Taherabad</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Miyan_Jolgeh_District" title="Miyan Jolgeh District">Miyan Jolgeh</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Cities</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Eshqabad,_Razavi_Khorasan" title="Eshqabad, Razavi Khorasan">Eshqabad</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Rural_Districts_of_Iran" title="Rural Districts of Iran">Rural Districts</a><br/> and villages</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Belharat_Rural_District" title="Belharat Rural District">Belharat</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abdolabad,_Nishapur" title="Abdolabad, Nishapur">Abdolabad</a></li>
+<li><a href="/wiki/Anbarkeh" title="Anbarkeh">Anbarkeh</a></li>
+<li><a href="/wiki/Astayesh" title="Astayesh">Astayesh</a></li>
+<li><a href="/wiki/Bezq" title="Bezq">Bezq</a></li>
+<li><a href="/wiki/Dehnow,_Nishapur" title="Dehnow, Nishapur">Dehnow</a></li>
+<li><a href="/wiki/Eshratabad,_Miyan_Jolgeh" title="Eshratabad, Miyan Jolgeh">Eshratabad</a></li>
+<li><a href="/wiki/Eslamabad,_Nishapur" title="Eslamabad, Nishapur">Eslamabad</a></li>
+<li><a href="/wiki/Golbui-ye_Bala" title="Golbui-ye Bala">Golbui-ye Bala</a></li>
+<li><a href="/wiki/Golbui-ye_Pain" title="Golbui-ye Pain">Golbui-ye Pain</a></li>
+<li><a class="mw-selflink selflink">Hasanabad-e Belher</a></li>
+<li><a href="/wiki/Homai,_Razavi_Khorasan" title="Homai, Razavi Khorasan">Homai</a></li>
+<li><a href="/wiki/Hoseynabad,_Miyan_Jolgeh" title="Hoseynabad, Miyan Jolgeh">Hoseynabad</a></li>
+<li><a href="/wiki/Jandab,_Razavi_Khorasan" title="Jandab, Razavi Khorasan">Jandab</a></li>
+<li><a href="/wiki/Mehdiabad,_Nishapur" title="Mehdiabad, Nishapur">Mehdiabad</a></li>
+<li><a href="/wiki/Moskabad" title="Moskabad">Moskabad</a></li>
+<li><a href="/wiki/Qaleh_Shisheh" title="Qaleh Shisheh">Qaleh Shisheh</a></li>
+<li><a href="/wiki/Qush_Aghel" title="Qush Aghel">Qush Aghel</a></li>
+<li><a href="/wiki/Rigi,_Nishapur" title="Rigi, Nishapur">Rigi</a></li>
+<li><a href="/wiki/Salari,_Razavi_Khorasan" title="Salari, Razavi Khorasan">Salari</a></li>
+<li><a href="/wiki/Shahr-e_Kohneh,_Miyan_Jolgeh" title="Shahr-e Kohneh, Miyan Jolgeh">Shahr-e Kohneh</a></li>
+<li><a href="/wiki/Zammeh,_Razavi_Khorasan" title="Zammeh, Razavi Khorasan">Zammeh</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Eshqabad_Rural_District" title="Eshqabad Rural District">Eshqabad</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akbarabad,_Miyan_Jolgeh" title="Akbarabad, Miyan Jolgeh">Akbarabad</a></li>
+<li><a href="/wiki/Aliabad,_Miyan_Jolgeh" title="Aliabad, Miyan Jolgeh">Aliabad</a></li>
+<li><a href="/wiki/Amirabad,_Miyan_Jolgeh" title="Amirabad, Miyan Jolgeh">Amirabad</a></li>
+<li><a href="/wiki/Ardameh,_Nishapur" title="Ardameh, Nishapur">Ardameh</a></li>
+<li><a href="/wiki/Arghesh" title="Arghesh">Arghesh</a></li>
+<li><a href="/wiki/Attaiyeh" title="Attaiyeh">Attaiyeh</a></li>
+<li><a href="/wiki/Badiabad,_Miyan_Jolgeh" title="Badiabad, Miyan Jolgeh">Badiabad</a></li>
+<li><a href="/wiki/Bagh_Jahan" title="Bagh Jahan">Bagh Jahan</a></li>
+<li><a href="/wiki/Baqeriyeh" title="Baqeriyeh">Baqeriyeh</a></li>
+<li><a href="/wiki/Chah_Nasar" title="Chah Nasar">Chah Nasar</a></li>
+<li><a href="/wiki/Chah-e_Bazghani" title="Chah-e Bazghani">Chah-e Bazghani</a></li>
+<li><a href="/wiki/Chah-e_Hajjiabad" title="Chah-e Hajjiabad">Chah-e Hajjiabad</a></li>
+<li><a href="/wiki/Chah-e_Raisi" title="Chah-e Raisi">Chah-e Raisi</a></li>
+<li><a href="/wiki/Chehel_Morghian" title="Chehel Morghian">Chehel Morghian</a></li>
+<li><a href="/wiki/Deh_Now-e_Shur" title="Deh Now-e Shur">Deh Now-e Shur</a></li>
+<li><a href="/wiki/Derakht-e_Senjed,_Nishapur" title="Derakht-e Senjed, Nishapur">Derakht-e Senjed</a></li>
+<li><a href="/wiki/Ebrahimabad,_Nishapur" title="Ebrahimabad, Nishapur">Ebrahimabad</a></li>
+<li><a href="/wiki/Fathabad,_Miyan_Jolgeh" title="Fathabad, Miyan Jolgeh">Fathabad</a></li>
+<li><a href="/wiki/Golshan,_Miyan_Jolgeh" title="Golshan, Miyan Jolgeh">Golshan</a></li>
+<li><a href="/wiki/Hajjiabad,_Miyan_Jolgeh" title="Hajjiabad, Miyan Jolgeh">Hajjiabad</a></li>
+<li><a href="/wiki/Hesar_Now,_Nishapur" title="Hesar Now, Nishapur">Hesar Now</a></li>
+<li><a href="/wiki/Hoseynabad-e_Arab" title="Hoseynabad-e Arab">Hoseynabad-e Arab</a></li>
+<li><a href="/wiki/Kalateh-ye_Hasanabad" title="Kalateh-ye Hasanabad">Kalateh-ye Hasanabad</a></li>
+<li><a href="/wiki/Kheyrabad,_Miyan_Jolgeh" title="Kheyrabad, Miyan Jolgeh">Kheyrabad</a></li>
+<li><a href="/wiki/Kushk,_Nishapur" title="Kushk, Nishapur">Kushk</a></li>
+<li><a href="/wiki/Kushkak,_Razavi_Khorasan" title="Kushkak, Razavi Khorasan">Kushkak</a></li>
+<li><a href="/wiki/Mahmudabad,_Nishapur" title="Mahmudabad, Nishapur">Mahmudabad</a></li>
+<li><a href="/wiki/Marus,_Iran" title="Marus, Iran">Marus</a></li>
+<li><a href="/wiki/Mazhdabad" title="Mazhdabad">Mazhdabad</a></li>
+<li><a href="/wiki/Mian_Band" title="Mian Band">Mian Band</a></li>
+<li><a href="/wiki/Naimabad,_Miyan_Jolgeh" title="Naimabad, Miyan Jolgeh">Naimabad</a></li>
+<li><a href="/wiki/Nasrabad-e_Olya" title="Nasrabad-e Olya">Nasrabad-e Olya</a></li>
+<li><a href="/wiki/Pir_Gaz" title="Pir Gaz">Pir Gaz</a></li>
+<li><a href="/wiki/Qarah_Khan,_Razavi_Khorasan" title="Qarah Khan, Razavi Khorasan">Qarah Khan</a></li>
+<li><a href="/wiki/Qasemabad,_Miyan_Jolgeh" title="Qasemabad, Miyan Jolgeh">Qasemabad</a></li>
+<li><a href="/wiki/Qasemi,_Nishapur" title="Qasemi, Nishapur">Qasemi</a></li>
+<li><a href="/wiki/Raisi" title="Raisi">Raisi</a></li>
+<li><a href="/wiki/Sadabad-e_Arab" title="Sadabad-e Arab">Sadabad-e Arab</a></li>
+<li><a href="/wiki/Samadiyeh,_Razavi_Khorasan" title="Samadiyeh, Razavi Khorasan">Samadiyeh</a></li>
+<li><a href="/wiki/Shahrak-e_Emam,_Razavi_Khorasan" title="Shahrak-e Emam, Razavi Khorasan">Shahrak-e Emam</a></li>
+<li><a href="/wiki/Shur_Rud" title="Shur Rud">Shur Rud</a></li>
+<li><a href="/wiki/Soleymani,_Nishapur" title="Soleymani, Nishapur">Soleymani</a></li>
+<li><a href="/wiki/Taqiabad,_Nishapur" title="Taqiabad, Nishapur">Taqiabad</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Ghazali_Rural_District" title="Ghazali Rural District">Ghazali</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ahmadabad,_Miyan_Jolgeh" title="Ahmadabad, Miyan Jolgeh">Ahmadabad</a></li>
+<li><a href="/wiki/Alvan,_Razavi_Khorasan" title="Alvan, Razavi Khorasan">Alvan</a></li>
+<li><a href="/wiki/Chah-e_Salar,_Razavi_Khorasan" title="Chah-e Salar, Razavi Khorasan">Chah-e Salar</a></li>
+<li><a href="/wiki/Chah-e_Yabu" title="Chah-e Yabu">Chah-e Yabu</a></li>
+<li><a href="/wiki/Dast_Feshad" title="Dast Feshad">Dast Feshad</a></li>
+<li><a href="/wiki/Deh-e_Hoseyni" title="Deh-e Hoseyni">Deh-e Hoseyni</a></li>
+<li><a href="/wiki/Fadisheh" title="Fadisheh">Fadisheh</a></li>
+<li><a href="/wiki/Gol_Qandasht" title="Gol Qandasht">Gol Qandasht</a></li>
+<li><a href="/wiki/Hesar_Sorkh,_Nishapur" title="Hesar Sorkh, Nishapur">Hesar Sorkh</a></li>
+<li><a href="/wiki/Hoseynabad-e_Jangal,_Razavi_Khorasan" title="Hoseynabad-e Jangal, Razavi Khorasan">Hoseynabad-e Jangal</a></li>
+<li><a href="/wiki/Kalateh-ye_Bagh" title="Kalateh-ye Bagh">Kalateh-ye Bagh</a></li>
+<li><a href="/wiki/Kalateh-ye_Hajj_Allahyar" title="Kalateh-ye Hajj Allahyar">Kalateh-ye Hajj Allahyar</a></li>
+<li><a href="/wiki/Kalateh-ye_Hajj_Hasan" title="Kalateh-ye Hajj Hasan">Kalateh-ye Hajj Hasan</a></li>
+<li><a href="/wiki/Kalateh-ye_Hajji_Shir_Mohammad" title="Kalateh-ye Hajji Shir Mohammad">Kalateh-ye Hajji Shir Mohammad</a></li>
+<li><a href="/wiki/Nasrabad,_Miyan_Jolgeh" title="Nasrabad, Miyan Jolgeh">Nasrabad</a></li>
+<li><a href="/wiki/Nowabad,_Razavi_Khorasan" title="Nowabad, Razavi Khorasan">Nowabad</a></li>
+<li><a href="/wiki/Pa_Baz" title="Pa Baz">Pa Baz</a></li>
+<li><a href="/wiki/Rizab,_Nishapur" title="Rizab, Nishapur">Rizab</a></li>
+<li><a href="/wiki/Shahrabad,_Nishapur" title="Shahrabad, Nishapur">Shahrabad</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sarvelayat_District" title="Sarvelayat District">Sarvelayat</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Cities</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chekneh" title="Chekneh">Chekneh</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Rural_Districts_of_Iran" title="Rural Districts of Iran">Rural Districts</a><br/> and villages</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Barzanun_Rural_District" title="Barzanun Rural District">Barzanun</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barzanun" title="Barzanun">Barzanun</a></li>
+<li><a href="/wiki/Emamzadeh-ye_Hoseyn_Asghar" title="Emamzadeh-ye Hoseyn Asghar">Emamzadeh-ye Hoseyn Asghar</a></li>
+<li><a href="/wiki/Gavkosh,_Razavi_Khorasan" title="Gavkosh, Razavi Khorasan">Gavkosh</a></li>
+<li><a href="/wiki/Kalateh-ye_Hajji,_Razavi_Khorasan" title="Kalateh-ye Hajji, Razavi Khorasan">Kalateh-ye Hajji</a></li>
+<li><a href="/wiki/Kheyrabad,_Sarvelayat" title="Kheyrabad, Sarvelayat">Kheyrabad</a></li>
+<li><a href="/wiki/Qareh_Gol,_Razavi_Khorasan" title="Qareh Gol, Razavi Khorasan">Qareh Gol</a></li>
+<li><a href="/wiki/Shotor_Sang" title="Shotor Sang">Shotor Sang</a></li>
+<li><a href="/wiki/Tah_Mangan" title="Tah Mangan">Tah Mangan</a></li>
+<li><a href="/wiki/Tiran,_Razavi_Khorasan" title="Tiran, Razavi Khorasan">Tiran</a></li>
+<li><a href="/wiki/Zohan,_Razavi_Khorasan" title="Zohan, Razavi Khorasan">Zohan</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Sarvelayat_Rural_District" title="Sarvelayat Rural District">Sarvelayat</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abdiyeh" title="Abdiyeh">Abdiyeh</a></li>
+<li><a href="/wiki/Abdollah_Givi" title="Abdollah Givi">Abdollah Givi</a></li>
+<li><a href="/wiki/Aminabad,_Nishapur" title="Aminabad, Nishapur">Aminabad</a></li>
+<li><a href="/wiki/Aq_Qayah" title="Aq Qayah">Aq Qayah</a></li>
+<li><a href="/wiki/Beshkan,_Iran" title="Beshkan, Iran">Beshkan</a></li>
+<li><a href="/wiki/Bid_Khan" title="Bid Khan">Bid Khan</a></li>
+<li><a href="/wiki/Chakaneh-ye_Olya" title="Chakaneh-ye Olya">Chakaneh-ye Olya</a></li>
+<li><a href="/wiki/Dezq,_Nishapur" title="Dezq, Nishapur">Dezq</a></li>
+<li><a href="/wiki/Eshqabad,_Sarvelayat" title="Eshqabad, Sarvelayat">Eshqabad</a></li>
+<li><a href="/wiki/Fahneh,_Nishapur" title="Fahneh, Nishapur">Fahneh</a></li>
+<li><a href="/wiki/Ghezel_Aghul" title="Ghezel Aghul">Ghezel Aghul</a></li>
+<li><a href="/wiki/Golbin" title="Golbin">Golbin</a></li>
+<li><a href="/wiki/Hajjiabad,_Sarvelayat" title="Hajjiabad, Sarvelayat">Hajjiabad</a></li>
+<li><a href="/wiki/Hasanabad,_Nishapur" title="Hasanabad, Nishapur">Hasanabad</a></li>
+<li><a href="/wiki/Inchegan" title="Inchegan">Inchegan</a></li>
+<li><a href="/wiki/Kalateh-ye_Feshay" title="Kalateh-ye Feshay">Kalateh-ye Feshay</a></li>
+<li><a href="/wiki/Kalateh-ye_Meydan" title="Kalateh-ye Meydan">Kalateh-ye Meydan</a></li>
+<li><a href="/wiki/Kelidar,_Iran" title="Kelidar, Iran">Kelidar</a></li>
+<li><a href="/wiki/Khayesk" title="Khayesk">Khayesk</a></li>
+<li><a href="/wiki/Khvajehabad,_Razavi_Khorasan" title="Khvajehabad, Razavi Khorasan">Khvajehabad</a></li>
+<li><a href="/wiki/Kuh_Sakht" title="Kuh Sakht">Kuh Sakht</a></li>
+<li><a href="/wiki/Mazraeh-ye_Reza" title="Mazraeh-ye Reza">Mazraeh-ye Reza</a></li>
+<li><a href="/wiki/Mowtowr_Ab-e_Soltani" title="Mowtowr Ab-e Soltani">Mowtowr Ab-e Soltani</a></li>
+<li><a href="/wiki/Nowmiri" title="Nowmiri">Nowmiri</a></li>
+<li><a href="/wiki/Nowsara" title="Nowsara">Nowsara</a></li>
+<li><a href="/wiki/Pirshahbaz" title="Pirshahbaz">Pirshahbaz</a></li>
+<li><a href="/wiki/Qezel_Qaleh,_Razavi_Khorasan" title="Qezel Qaleh, Razavi Khorasan">Qezel Qaleh</a></li>
+<li><a href="/wiki/Saqi_Beyg" title="Saqi Beyg">Saqi Beyg</a></li>
+<li><a href="/wiki/Sheykh_Mostafa,_Razavi_Khorasan" title="Sheykh Mostafa, Razavi Khorasan">Sheykh Mostafa</a></li>
+<li><a href="/wiki/Soltan_Meydan" title="Soltan Meydan">Soltan Meydan</a></li>
+<li><a href="/wiki/Suleh,_Razavi_Khorasan" title="Suleh, Razavi Khorasan">Suleh</a></li>
+<li><a href="/wiki/Talebi,_Nishapur" title="Talebi, Nishapur">Talebi</a></li>
+<li><a href="/wiki/Yengejeh,_Razavi_Khorasan" title="Yengejeh, Razavi Khorasan">Yengejeh</a></li>
+<li><a href="/wiki/Ziarat,_Nishapur" title="Ziarat, Nishapur">Ziarat</a></li>
+<li><a href="/wiki/Zig,_Iran" title="Zig, Iran">Zig</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Zeberkhan_District" title="Zeberkhan District">Zeberkhan</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Cities</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Darrud" title="Darrud">Darrud</a></li>
+<li><a href="/wiki/Kharv" title="Kharv">Kharv</a></li>
+<li><a href="/wiki/Qadamgah" title="Qadamgah">Qadamgah</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Rural_Districts_of_Iran" title="Rural Districts of Iran">Rural Districts</a><br/> and villages</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Eshaqabad_Rural_District" title="Eshaqabad Rural District">Eshaqabad</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ahmadabad,_Zeberkhan" title="Ahmadabad, Zeberkhan">Ahmadabad</a></li>
+<li><a href="/wiki/Ahovan" title="Ahovan">Ahovan</a></li>
+<li><a href="/wiki/Aziziyeh" title="Aziziyeh">Aziziyeh</a></li>
+<li><a href="/wiki/Chah-e_Amiq_Taheri" title="Chah-e Amiq Taheri">Chah-e Amiq Taheri</a></li>
+<li><a href="/wiki/Chah-e_Naimabad-e_Yeha" title="Chah-e Naimabad-e Yeha">Chah-e Naimabad-e Yeha</a></li>
+<li><a href="/wiki/Chah-e_Shomareh-ye_Do_Mehdi" title="Chah-e Shomareh-ye Do Mehdi">Chah-e Shomareh-ye Do Mehdi</a></li>
+<li><a href="/wiki/Dastjerd-e_Aqa_Bozorg" title="Dastjerd-e Aqa Bozorg">Dastjerd-e Aqa Bozorg</a></li>
+<li><a href="/wiki/Dishdish" title="Dishdish">Dishdish</a></li>
+<li><a href="/wiki/Ebrahimabad,_Zeberkhan" title="Ebrahimabad, Zeberkhan">Ebrahimabad</a></li>
+<li><a href="/wiki/Eshaqabad,_Nishapur" title="Eshaqabad, Nishapur">Eshaqabad</a></li>
+<li><a href="/wiki/Esmatabad,_Razavi_Khorasan" title="Esmatabad, Razavi Khorasan">Esmatabad</a></li>
+<li><a href="/wiki/Fakhrabad,_Nishapur" title="Fakhrabad, Nishapur">Fakhrabad</a></li>
+<li><a href="/wiki/Fathabad,_Zeberkhan" title="Fathabad, Zeberkhan">Fathabad</a></li>
+<li><a href="/wiki/Hesar,_Eshaqabad" title="Hesar, Eshaqabad">Hesar</a></li>
+<li><a href="/wiki/Heshmatiyeh,_Zeberkhan" title="Heshmatiyeh, Zeberkhan">Heshmatiyeh</a></li>
+<li><a href="/wiki/Hoseynabad,_Zeberkhan" title="Hoseynabad, Zeberkhan">Hoseynabad</a></li>
+<li><a href="/wiki/Jahanabad,_Nishapur" title="Jahanabad, Nishapur">Jahanabad</a></li>
+<li><a href="/wiki/Kalateh-ye_Hajji_Jahan_Beyk" title="Kalateh-ye Hajji Jahan Beyk">Kalateh-ye Hajji Jahan Beyk</a></li>
+<li><a href="/wiki/Kalateh-ye_Qanbar" title="Kalateh-ye Qanbar">Kalateh-ye Qanbar</a></li>
+<li><a href="/wiki/Nowbahar,_Zeberkhan" title="Nowbahar, Zeberkhan">Nowbahar</a></li>
+<li><a href="/wiki/Yusefabad,_Nishapur" title="Yusefabad, Nishapur">Yusefabad</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Ordughesh_Rural_District" title="Ordughesh Rural District">Ordughesh</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abdollahabad,_Nishapur" title="Abdollahabad, Nishapur">Abdollahabad</a></li>
+<li><a href="/wiki/Akbarabad,_Zeberkhan" title="Akbarabad, Zeberkhan">Akbarabad</a></li>
+<li><a href="/wiki/Allahabad,_Nishapur" title="Allahabad, Nishapur">Allahabad</a></li>
+<li><a href="/wiki/Borj,_Razavi_Khorasan" title="Borj, Razavi Khorasan">Borj</a></li>
+<li><a href="/wiki/Buzh_Mehran" title="Buzh Mehran">Buzh Mehran</a></li>
+<li><a href="/wiki/Deh_Now-ye_Hashemabad" title="Deh Now-ye Hashemabad">Deh Now-ye Hashemabad</a></li>
+<li><a href="/wiki/Istgah_Kheyam" title="Istgah Kheyam">Istgah Kheyam</a></li>
+<li><a href="/wiki/Kalateh-ye_Saqi" title="Kalateh-ye Saqi">Kalateh-ye Saqi</a></li>
+<li><a href="/wiki/Karimabad,_Zeberkhan" title="Karimabad, Zeberkhan">Karimabad</a></li>
+<li><a href="/wiki/Kariz-e_Now,_Ordughesh" title="Kariz-e Now, Ordughesh">Kariz-e Now</a></li>
+<li><a href="/wiki/Kazemabad,_Zeberkhan" title="Kazemabad, Zeberkhan">Kazemabad</a></li>
+<li><a href="/wiki/Kheyam_Industrial_Estate" title="Kheyam Industrial Estate">Kheyam Industrial Estate</a></li>
+<li><a href="/wiki/Khosrowabad,_Nishapur" title="Khosrowabad, Nishapur">Khosrowabad</a></li>
+<li><a href="/wiki/Mohsenabad,_Zeberkhan" title="Mohsenabad, Zeberkhan">Mohsenabad</a></li>
+<li><a href="/wiki/Ordughesh" title="Ordughesh">Ordughesh</a></li>
+<li><a href="/wiki/Sahel_Borj" title="Sahel Borj">Sahel Borj</a></li>
+<li><a href="/wiki/Saidiyeh,_Razavi_Khorasan" title="Saidiyeh, Razavi Khorasan">Saidiyeh</a></li>
+<li><a href="/wiki/Seyyedabad,_Zeberkhan" title="Seyyedabad, Zeberkhan">Seyyedabad</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Zeberkhan_Rural_District" title="Zeberkhan Rural District">Zeberkhan</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aliabad,_Zeberkhan" title="Aliabad, Zeberkhan">Aliabad</a></li>
+<li><a href="/wiki/Baghshan" title="Baghshan">Baghshan</a></li>
+<li><a href="/wiki/Baz-e_Heydar" title="Baz-e Heydar">Baz-e Heydar</a></li>
+<li><a href="/wiki/Chenaran,_Nishapur" title="Chenaran, Nishapur">Chenaran</a></li>
+<li><a href="/wiki/Cheshmeh_Khosrow,_Razavi_Khorasan" title="Cheshmeh Khosrow, Razavi Khorasan">Cheshmeh Khosrow</a></li>
+<li><a href="/wiki/Daneh_Kashefiyeh" title="Daneh Kashefiyeh">Daneh Kashefiyeh</a></li>
+<li><a href="/wiki/Darudbakht" title="Darudbakht">Darudbakht</a></li>
+<li><a href="/wiki/Das,_Iran" title="Das, Iran">Das</a></li>
+<li><a href="/wiki/Deh_Hajji,_Razavi_Khorasan" title="Deh Hajji, Razavi Khorasan">Deh Hajji</a></li>
+<li><a href="/wiki/Dizbad-e_Olya" title="Dizbad-e Olya">Dizbad-e Olya</a></li>
+<li><a href="/wiki/Dowlatabad,_Zeberkhan" title="Dowlatabad, Zeberkhan">Dowlatabad</a></li>
+<li><a href="/wiki/Feyzabad,_Zeberkhan" title="Feyzabad, Zeberkhan">Feyzabad</a></li>
+<li><a href="/wiki/Garineh" title="Garineh">Garineh</a></li>
+<li><a href="/wiki/Hajjiabad,_Zeberkhan" title="Hajjiabad, Zeberkhan">Hajjiabad</a></li>
+<li><a href="/wiki/Harimabad" title="Harimabad">Harimabad</a></li>
+<li><a href="/wiki/Hasanabad-e_Sabrow" title="Hasanabad-e Sabrow">Hasanabad-e Sabrow</a></li>
+<li><a href="/wiki/Hesar,_Zeberkhan" title="Hesar, Zeberkhan">Hesar</a></li>
+<li><a href="/wiki/Jafarabad,_Nishapur" title="Jafarabad, Nishapur">Jafarabad</a></li>
+<li><a href="/wiki/Javadiyeh,_Nishapur" title="Javadiyeh, Nishapur">Javadiyeh</a></li>
+<li><a href="/wiki/Kalateh-ye_Luyedani" title="Kalateh-ye Luyedani">Kalateh-ye Luyedani</a></li>
+<li><a href="/wiki/Kalateh-ye_Saru" title="Kalateh-ye Saru">Kalateh-ye Saru</a></li>
+<li><a href="/wiki/Kalateh-ye_Soltani" title="Kalateh-ye Soltani">Kalateh-ye Soltani</a></li>
+<li><a href="/wiki/Kariz-e_Now,_Zeberkhan" title="Kariz-e Now, Zeberkhan">Kariz-e Now</a></li>
+<li><a href="/wiki/Khorombeyk" title="Khorombeyk">Khorombeyk</a></li>
+<li><a href="/wiki/Majdabad,_Razavi_Khorasan" title="Majdabad, Razavi Khorasan">Majdabad</a></li>
+<li><a href="/wiki/Mohammadabad,_Zeberkhan" title="Mohammadabad, Zeberkhan">Mohammadabad</a></li>
+<li><a href="/wiki/Mushan,_Iran" title="Mushan, Iran">Mushan</a></li>
+<li><a href="/wiki/Nowhalua" title="Nowhalua">Nowhalua</a></li>
+<li><a href="/wiki/Pishkuhi" title="Pishkuhi">Pishkuhi</a></li>
+<li><a href="/wiki/Pust_Forushan" title="Pust Forushan">Pust Forushan</a></li>
+<li><a href="/wiki/Qaleh_Vazir" title="Qaleh Vazir">Qaleh Vazir</a></li>
+<li><a href="/wiki/Qarah_Dash,_Razavi_Khorasan" title="Qarah Dash, Razavi Khorasan">Qarah Dash</a></li>
+<li><a href="/wiki/Qareh_Beyk" title="Qareh Beyk">Qareh Beyk</a></li>
+<li><a href="/wiki/Sakhdar" title="Sakhdar">Sakhdar</a></li>
+<li><a href="/wiki/Sartalkh" title="Sartalkh">Sartalkh</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" class="noviewer thumbborder" data-file-height="360" data-file-width="630" decoding="async" height="18" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/32px-Flag_of_Iran.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/48px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/64px-Flag_of_Iran.svg.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Iran" title="Portal:Iran">Iran portal</a></span></li></ul></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a class="image" href="/wiki/File:IranRazaviKhorasan.png"><img alt="Stub icon" data-file-height="813" data-file-width="879" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/IranRazaviKhorasan.png/32px-IranRazaviKhorasan.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/IranRazaviKhorasan.png/49px-IranRazaviKhorasan.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/IranRazaviKhorasan.png/65px-IranRazaviKhorasan.png 2x" width="32"/></a></td><td><i>This <a href="/wiki/Nishapur_County" title="Nishapur County">Nishapur County</a> location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Hasanabad-e_Belher&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Nishapur-geo-stub" title="Template:Nishapur-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Nishapur-geo-stub" title="Template talk:Nishapur-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Nishapur-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1239
+Cached time: 20191218004114
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.768 seconds
+Real time usage: 0.977 seconds
+Preprocessor visited node count: 3324/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 214245/2097152 bytes
+Template argument size: 9372/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3630/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.369/10.000 seconds
+Lua memory usage: 11.85 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  753.518      1 -total
+ 43.80%  330.029      1 Template:Infobox_settlement
+ 28.78%  216.874      1 Template:Infobox
+ 24.16%  182.041      1 Template:Lang-fa
+ 17.58%  132.491      1 Template:Reflist
+ 17.07%  128.610     10 Template:Navbox
+ 16.01%  120.615      1 Template:IranCensus2006
+ 15.28%  115.107      1 Template:Cite_web
+ 11.50%   86.638      4 Template:Main_other
+  8.13%   61.225      1 Template:Nishapur_County
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:36378707-0!canonical and timestamp 20191218004113 and revision id 906526498
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hasanabad-e_Belher&amp;oldid=906526498">https://en.wikipedia.org/w/index.php?title=Hasanabad-e_Belher&amp;oldid=906526498</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Populated_places_in_Nishapur_County" title="Category:Populated places in Nishapur County">Populated places in Nishapur County</a></li><li><a href="/wiki/Category:Nishapur_County_geography_stubs" title="Category:Nishapur County geography stubs">Nishapur County geography stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_Persian-language_text" title="Category:Articles containing Persian-language text">Articles containing Persian-language text</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hasanabad-e+Belher" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Hasanabad-e+Belher" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Hasanabad-e_Belher" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Hasanabad-e_Belher" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Hasanabad-e_Belher">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Hasanabad-e_Belher&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Hasanabad-e_Belher&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Hasanabad-e_Belher" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Hasanabad-e_Belher" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hasanabad-e_Belher&amp;oldid=906526498" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hasanabad-e_Belher&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5823659" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hasanabad-e_Belher&amp;id=906526498" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hasanabad-e+Belher">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hasanabad-e+Belher&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Hasanabad-e_Belher&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/%E1%B8%A8asan%C4%81b%C4%81d-e_Belher" hreflang="ceb" lang="ceb" title="Ḩasanābād-e Belher – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AD%D8%B3%D9%86%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_%D8%A8%D9%84%D9%87%D8%B1" hreflang="fa" lang="fa" title="حسن‌آباد بلهر – Persian">فارسی</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/%E1%B8%A8asan%C4%81b%C4%81d-e_Belher" hreflang="sv" lang="sv" title="Ḩasanābād-e Belher – Swedish">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5823659#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 July 2019, at 12:33<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Hasanabad-e_Belher&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.768","walltime":"0.977","ppvisitednodes":{"value":3324,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":214245,"limit":2097152},"templateargumentsize":{"value":9372,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3630,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  753.518      1 -total"," 43.80%  330.029      1 Template:Infobox_settlement"," 28.78%  216.874      1 Template:Infobox"," 24.16%  182.041      1 Template:Lang-fa"," 17.58%  132.491      1 Template:Reflist"," 17.07%  128.610     10 Template:Navbox"," 16.01%  120.615      1 Template:IranCensus2006"," 15.28%  115.107      1 Template:Cite_web"," 11.50%   86.638      4 Template:Main_other","  8.13%   61.225      1 Template:Nishapur_County"]},"scribunto":{"limitreport-timeusage":{"value":"0.369","limit":"10.000"},"limitreport-memusage":{"value":12423564,"limit":52428800}},"cachereport":{"origin":"mw1239","timestamp":"20191218004114","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hasanabad-e Belher","url":"https:\/\/en.wikipedia.org\/wiki\/Hasanabad-e_Belher","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5823659","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5823659","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-07-09T23:16:23Z","dateModified":"2019-07-16T12:33:49Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/be\/Iran_location_map.svg","headline":"village in Iran"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":122,"wgHostname":"mw1273"});});</script>
+
+
+</body></html>

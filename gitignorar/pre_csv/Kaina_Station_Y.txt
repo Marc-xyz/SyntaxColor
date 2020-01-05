@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Kaina Station - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqsiwpAADsAAItUvRMAAADN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Kaina_Station","wgTitle":"Kaina Station","wgCurRevisionId":872288166,"wgRevisionId":872288166,"wgArticleId":19215823,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 uses Japanese-language script (ja)","CS1 Japanese-language sources (ja)","Use dmy dates from February 2018","Coordinates on Wikidata","Articles containing Japanese-language text","All stub articles",
+"Stations of Tosa Kuroshio Railway","Railway stations in Kōchi Prefecture","Railway stations opened in 1963","Kōchi Prefecture railway station stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Kaina_Station","wgRelevantArticleId":19215823,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":33.133,"lon":133.1165},"wgWikibaseItemId":"Q8188907","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin",
+"mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kaina_station_01.jpg/1200px-Kaina_station_01.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Kaina_Station" rel="alternate"/>
+<link href="/w/index.php?title=Kaina_Station&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Kaina_Station&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Kaina_Station" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Kaina_Station rootpage-Kaina_Station skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Kaina Station</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox vcard" style="width:22em;width: 25.5em;"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div style="display: table; width: 100%; border-collapse: collapse"><div style="display: table-cell; width: inherit; vertical-align: middle"><div class="fn org" style="display:inline">Kaina Station</div><br/><div class="nickname" lang="ja" style="font-weight: normal">荷稲駅</div></div></div></th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Kaina_station_01.jpg"><img alt="Kaina station 01.jpg" data-file-height="2576" data-file-width="3444" decoding="async" height="224" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kaina_station_01.jpg/300px-Kaina_station_01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kaina_station_01.jpg/450px-Kaina_station_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kaina_station_01.jpg/600px-Kaina_station_01.jpg 2x" width="300"/></a><div>Kaina Station in 2010</div></td></tr><tr><th scope="row">Location</th><td class="label">Kaina, Kuroshio-cho, Hata-gun, Kōchi-ken 789-1705<br/>Japan</td></tr><tr><th scope="row">Coordinates</th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Kaina_Station&amp;params=33.1330_N_133.1165_E_type:railwaystation_region:JP"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">33°07′59″N</span> <span class="longitude">133°06′59″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">33.1330°N 133.1165°E</span><span style="display:none">﻿ / <span class="geo">33.1330; 133.1165</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Kaina_Station&amp;params=33.1330_N_133.1165_E_type:railwaystation_region:JP"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">33°07′59″N</span> <span class="longitude">133°06′59″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">33.1330°N 133.1165°E</span><span style="display:none">﻿ / <span class="geo">33.1330; 133.1165</span></span></span></a></span></span></span></td></tr><tr><th scope="row">Operated by</th><td><a href="/wiki/Tosa_Kuroshio_Railway" title="Tosa Kuroshio Railway">Tosa Kuroshio Railway</a></td></tr><tr><th scope="row">Line(s)</th><td><a class="mw-redirect" href="/wiki/Tosa_Kuroshio_Railway_Nakamura_Line" title="Tosa Kuroshio Railway Nakamura Line">Tosa Kuroshio Railway Nakamura Line</a></td></tr><tr><th scope="row">Distance</th><td>13.8 km from <a href="/wiki/Kubokawa_Station" title="Kubokawa Station">Kubokawa</a></td></tr><tr><th scope="row">Platforms</th><td>1</td></tr><tr><th scope="row">Tracks</th><td>1</td></tr><tr><th colspan="2" style="text-align:center;background-color:#efefef">Construction</th></tr><tr><th scope="row">Structure type</th><td>At grade (side hill cutting)</td></tr><tr><th scope="row">Bicycle facilities</th><td>Bike shed</td></tr><tr><th colspan="2" style="text-align:center;background-color:#efefef">Other information</th></tr><tr><th scope="row">Status</th><td>Unstaffed</td></tr><tr><th scope="row">Station code</th><td class="nickname">TK28</td></tr><tr><th colspan="2" style="text-align:center;background-color:#efefef">History</th></tr><tr><th scope="row">Opened</th><td>18 December 1963<span style="display:none"> (<span class="bday dtstart published updated">1963-12-18</span>)</span></td></tr><tr><th colspan="2" style="text-align:center;background-color:#efefef">Traffic</th></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th scope="row">Passengers (FY2011)</th><td>31 daily</td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th colspan="2" style="text-align:center;background-color:#efefef">Location</th></tr><tr><td colspan="2" style="text-align:center"><div class="center"><div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:240px;padding:0"><div style="position:relative;width:240px"><a class="image" href="/wiki/File:Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg" title="Kaina Station is located in Japan"><img alt="Kaina Station is located in Japan" data-file-height="373" data-file-width="413" decoding="async" height="217" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/240px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/360px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/480px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png 2x" width="240"/></a><div style="position:absolute;top:80.347%;left:23.188%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Kaina Station" data-file-height="64" data-file-width="64" decoding="async" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" title="Kaina Station" width="8"/></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><div style="display:inline;padding:1px;float:left">Kaina Station</div></div></div></div><div>Location within Japan</div></div></div></div></td></tr></tbody></table>
+<p><b>Kaina Station</b><span style="font-weight: normal"> (<span lang="ja">荷稲駅</span><span style="display:none">,</span> <i>Kaina-eki</i>)</span> is a railway station on the <a class="mw-redirect" href="/wiki/Tosa_Kuroshio_Railway_Nakamura_Line" title="Tosa Kuroshio Railway Nakamura Line">Tosa Kuroshio Railway Nakamura Line</a> in <a href="/wiki/Kuroshio,_K%C5%8Dchi" title="Kuroshio, Kōchi">Kuroshio</a>, <a href="/wiki/Hata_District,_K%C5%8Dchi" title="Hata District, Kōchi">Hata District</a>, <a href="/wiki/K%C5%8Dchi_Prefecture" title="Kōchi Prefecture">Kōchi Prefecture</a>, Japan. It is operated by the <a href="/wiki/Tosa_Kuroshio_Railway" title="Tosa Kuroshio Railway">Tosa Kuroshio Railway</a> and has the station number "TK28".<sup class="reference" id="cite_ref-kuroshiomap_1-0"><a href="#cite_note-kuroshiomap-1">[1]</a></sup><sup class="reference" id="cite_ref-hacchi_2-0"><a href="#cite_note-hacchi-2">[2]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Lines_and_Trains"><span class="tocnumber">1</span> <span class="toctext">Lines and Trains</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Layout"><span class="tocnumber">2</span> <span class="toctext">Layout</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Adjacent_stations"><span class="tocnumber">3</span> <span class="toctext">Adjacent stations</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">4</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Passenger_statistics"><span class="tocnumber">5</span> <span class="toctext">Passenger statistics</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Lines_and_Trains">Lines and Trains</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kaina_Station&amp;action=edit&amp;section=1" title="Edit section: Lines and Trains">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The station is served by the <a class="mw-redirect" href="/wiki/Tosa_Kuroshio_Railway_Nakamura_Line" title="Tosa Kuroshio Railway Nakamura Line">Tosa Kuroshio Railway Nakamura Line</a>, and is located 13.8 km from the starting point of the line at <a href="/wiki/Kubokawa_Station" title="Kubokawa Station">Kubokawa</a>.<sup class="reference" id="cite_ref-terada2013_3-0"><a href="#cite_note-terada2013-3">[3]</a></sup> Only local trains stop at the station.<sup class="reference" id="cite_ref-tosasagatimetable_4-0"><a href="#cite_note-tosasagatimetable-4">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Layout">Layout</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kaina_Station&amp;action=edit&amp;section=2" title="Edit section: Layout">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The station consists of a side platform serving a single track on a side hill cutting. There is no station building and the station is unstaffed. A shelter is provided on the platform for waiting passengers. A bike shed has been set up near the station entrance.<sup class="reference" id="cite_ref-sanyukai_5-0"><a href="#cite_note-sanyukai-5">[5]</a></sup><sup class="reference" id="cite_ref-hacchi_2-1"><a href="#cite_note-hacchi-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Adjacent_stations">Adjacent stations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kaina_Station&amp;action=edit&amp;section=3" title="Edit section: Adjacent stations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th colspan="2"><big>«</big>
+</th>
+<th>Service
+</th>
+<th colspan="2"><big>»</big>
+</th></tr>
+<tr>
+<th colspan="5" style="background:lightblue;"><span style="color:white">Nakamura Line</span>
+</th></tr>
+<tr style="text-align:center; font-size: normal">
+<td colspan="2" style="border-top:dashed 1px gray;"><a href="/wiki/Wakai_Station" title="Wakai Station">Wakai</a>
+</td>
+<td style="border-top:dashed 1px gray;">Local
+</td>
+<td colspan="2" style="border-top:dashed 1px gray;"><a href="/wiki/Iyoki_Station" title="Iyoki Station">Iyoki</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kaina_Station&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Japanese_National_Railways" title="Japanese National Railways">Japanese National Railways</a> (JNR) opened the station on 18 December 1963 as an intermediate station when it laid down theNakamura Line from <a href="/wiki/Kubokawa_Station" title="Kubokawa Station">Kubokawa</a> to <a href="/wiki/Tosa-Saga_Station" title="Tosa-Saga Station">Tosa-Saga</a>. After the privatization of JNR, control of the station passed to Tosa Kuroshio Railway on 1 April 1988.<sup class="reference" id="cite_ref-terada2013_3-1"><a href="#cite_note-terada2013-3">[3]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-teishajo1_7-0"><a href="#cite_note-teishajo1-7">[7]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Passenger_statistics">Passenger statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kaina_Station&amp;action=edit&amp;section=5" title="Edit section: Passenger statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In fiscal 2011, the station was used by an average of 31 passengers daily.<sup class="reference" id="cite_ref-terada2013_3-2"><a href="#cite_note-terada2013-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kaina_Station&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_railway_stations_in_Japan" title="List of railway stations in Japan">List of railway stations in Japan</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kaina_Station&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-kuroshiomap-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-kuroshiomap_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://docs.wixstatic.com/ugd/06d37b_96461c6f552e4c4a8f292ceddcf5ec60.pdf" rel="nofollow">"路線図　四万十くろしおライン"</a> [Route Map Kuroshio Lines] <span class="cs1-format">(PDF)</span>. <a href="/wiki/Tosa_Kuroshio_Railway" title="Tosa Kuroshio Railway">Tosa Kuroshio Railway</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 November</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E8%B7%AF%E7%B7%9A%E5%9B%B3%E3%80%80%E5%9B%9B%E4%B8%87%E5%8D%81%E3%81%8F%E3%82%8D%E3%81%97%E3%81%8A%E3%83%A9%E3%82%A4%E3%83%B3&amp;rft.pub=Tosa+Kuroshio+Railway&amp;rft_id=http%3A%2F%2Fdocs.wixstatic.com%2Fugd%2F06d37b_96461c6f552e4c4a8f292ceddcf5ec60.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKaina+Station"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-hacchi-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-hacchi_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hacchi_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://hacchi-no-he.net/line/tosakuroshio/station/0020_kaina.htm" rel="nofollow">"荷稲"</a> [Kaina]. <i>hacchi-no-he.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=hacchi-no-he.net&amp;rft.atitle=%E8%8D%B7%E7%A8%B2&amp;rft_id=http%3A%2F%2Fhacchi-no-he.net%2Fline%2Ftosakuroshio%2Fstation%2F0020_kaina.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKaina+Station"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-terada2013-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-terada2013_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-terada2013_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-terada2013_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Terada, Hirokazu (19 January 2013).  <bdi lang="ja">データブック日本の私鉄</bdi> [<i>Databook: Japan's Private Railways</i>] (in Japanese). Japan: Neko Publishing. p. 173, 303. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-4-7770-1336-4" title="Special:BookSources/978-4-7770-1336-4"><bdi>978-4-7770-1336-4</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%E3%83%87%E3%83%BC%E3%82%BF%E3%83%96%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A7%81%E9%89%84&amp;rft.place=Japan&amp;rft.pages=173%2C+303&amp;rft.pub=Neko+Publishing&amp;rft.date=2013-01-19&amp;rft.isbn=978-4-7770-1336-4&amp;rft.aulast=Terada&amp;rft.aufirst=Hirokazu&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKaina+Station"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-tosasagatimetable-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-tosasagatimetable_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://docs.wixstatic.com/ugd/06d37b_3f1a26b9fbec4cacbbc9c65b7cd72c54.pdf" rel="nofollow">"土佐佐賀駅　発車時刻表"</a> [Kaina Station Timetable TK-28] <span class="cs1-format">(PDF)</span>. <a href="/wiki/Tosa_Kuroshio_Railway" title="Tosa Kuroshio Railway">Tosa Kuroshio Railway</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E5%9C%9F%E4%BD%90%E4%BD%90%E8%B3%80%E9%A7%85%E3%80%80%E7%99%BA%E8%BB%8A%E6%99%82%E5%88%BB%E8%A1%A8&amp;rft.pub=Tosa+Kuroshio+Railway&amp;rft_id=http%3A%2F%2Fdocs.wixstatic.com%2Fugd%2F06d37b_3f1a26b9fbec4cacbbc9c65b7cd72c54.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKaina+Station"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-sanyukai-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-sanyukai_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.sanyukai.sakura.ne.jp/kaina.html" rel="nofollow">"荷稲"</a> [Kaina]. <i>sanyukai.sakura.ne.jp</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=sanyukai.sakura.ne.jp&amp;rft.atitle=%E8%8D%B7%E7%A8%B2&amp;rft_id=http%3A%2F%2Fwww.sanyukai.sakura.ne.jp%2Fkaina.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKaina+Station"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book" id="CITEREFIshino1998">Ishino, Tetsu;  et al., eds. (1998).  <bdi lang="ja">停車場変遷大事典 国鉄・JR編</bdi> [<i>Station Transition Directory - JNR/JR</i>] (in Japanese). <b>I</b>. Tokyo: JTB Corporation. p. 218. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/4533029809" title="Special:BookSources/4533029809"><bdi>4533029809</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%A4%89%E9%81%B7%E5%A4%A7%E4%BA%8B%E5%85%B8+%E5%9B%BD%E9%89%84%E3%83%BBJR%E7%B7%A8&amp;rft.place=Tokyo&amp;rft.pages=218&amp;rft.pub=JTB+Corporation&amp;rft.date=1998&amp;rft.isbn=4533029809&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKaina+Station"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-teishajo1-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-teishajo1_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book" id="CITEREFIshino1998">Ishino, Tetsu;  et al., eds. (1998).  <bdi lang="ja">停車場変遷大事典 国鉄・JR編</bdi> [<i>Station Transition Directory - JNR/JR</i>] (in Japanese). <b>II</b>. Tokyo: JTB Corporation. p. 670. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/4533029809" title="Special:BookSources/4533029809"><bdi>4533029809</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%A4%89%E9%81%B7%E5%A4%A7%E4%BA%8B%E5%85%B8+%E5%9B%BD%E9%89%84%E3%83%BBJR%E7%B7%A8&amp;rft.place=Tokyo&amp;rft.pages=670&amp;rft.pub=JTB+Corporation&amp;rft.date=1998&amp;rft.isbn=4533029809&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKaina+Station"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Stations_of_the_Tosa_Kuroshio_Railway_Nakamura_Line" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="-moz-box-shadow: inset 2.7em 0 0 0 lightblue, inset -2.7em 0 0 0 lightblue; -webkit-box-shadow: inset 2.7em 0 0 0 lightblue, inset -2.7em 0 0 0 lightblue; box-shadow: inset 2.7em 0 0 0 lightblue, inset -2.7em 0 0 0 lightblue;; padding-left:3em; padding-right:3em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Tosa_Kuroshio_Railway_Nakamura_Line" title="Template:Tosa Kuroshio Railway Nakamura Line"><abbr style=";-moz-box-shadow: inset 2.7em 0 0 0 lightblue, inset -2.7em 0 0 0 lightblue; -webkit-box-shadow: inset 2.7em 0 0 0 lightblue, inset -2.7em 0 0 0 lightblue; box-shadow: inset 2.7em 0 0 0 lightblue, inset -2.7em 0 0 0 lightblue;; padding-left:3em; padding-right:3em;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Tosa_Kuroshio_Railway_Nakamura_Line" title="Template talk:Tosa Kuroshio Railway Nakamura Line"><abbr style=";-moz-box-shadow: inset 2.7em 0 0 0 lightblue, inset -2.7em 0 0 0 lightblue; -webkit-box-shadow: inset 2.7em 0 0 0 lightblue, inset -2.7em 0 0 0 lightblue; box-shadow: inset 2.7em 0 0 0 lightblue, inset -2.7em 0 0 0 lightblue;; padding-left:3em; padding-right:3em;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Tosa_Kuroshio_Railway_Nakamura_Line&amp;action=edit"><abbr style=";-moz-box-shadow: inset 2.7em 0 0 0 lightblue, inset -2.7em 0 0 0 lightblue; -webkit-box-shadow: inset 2.7em 0 0 0 lightblue, inset -2.7em 0 0 0 lightblue; box-shadow: inset 2.7em 0 0 0 lightblue, inset -2.7em 0 0 0 lightblue;; padding-left:3em; padding-right:3em;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Stations_of_the_Tosa_Kuroshio_Railway_Nakamura_Line" style="font-size:114%;margin:0 4em">Stations of the <a class="mw-redirect" href="/wiki/Tosa_Kuroshio_Railway_Nakamura_Line" title="Tosa Kuroshio Railway Nakamura Line">Tosa Kuroshio Railway Nakamura Line</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kubokawa_Station" title="Kubokawa Station">Kubokawa</a></li>
+<li><a href="/wiki/Wakai_Station" title="Wakai Station">Wakai</a></li>
+<li><a class="mw-selflink selflink">Kaina</a></li>
+<li><a href="/wiki/Iyoki_Station" title="Iyoki Station">Iyoki</a></li>
+<li><a href="/wiki/Tosa-Saga_Station" title="Tosa-Saga Station">Tosa-Saga</a></li>
+<li><a href="/wiki/Saga-K%C5%8Den_Station" title="Saga-Kōen Station">Saga-Kōen</a></li>
+<li><a href="/wiki/Tosa-Shirahama_Station" title="Tosa-Shirahama Station">Tosa-Shirahama</a></li>
+<li><a href="/wiki/Ariigawa_Station" title="Ariigawa Station">Ariigawa</a></li>
+<li><a href="/wiki/Tosa-Kamikawaguchi_Station" title="Tosa-Kamikawaguchi Station">Tosa-Kamikawaguchi</a></li>
+<li><a href="/wiki/Umino%C5%8Dmukae_Station" title="Uminoōmukae Station">Uminoōmukae</a></li>
+<li><a href="/wiki/Ukibuchi_Station" title="Ukibuchi Station">Ukibuchi</a></li>
+<li><a href="/wiki/Tosa-Irino_Station" title="Tosa-Irino Station">Tosa-Irino</a></li>
+<li><a href="/wiki/Nishi-%C5%8Cgata_Station" title="Nishi-Ōgata Station">Nishi-Ōgata</a></li>
+<li><a href="/wiki/Kotsuka_Station" title="Kotsuka Station">Kotsuka</a></li>
+<li><a href="/wiki/Nakamura_Station" title="Nakamura Station">Nakamura</a></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a class="image" href="/wiki/File:Train_station.svg"><img alt="Stub icon" data-file-height="98" data-file-width="300" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Train_station.svg/40px-Train_station.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Train_station.svg/60px-Train_station.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Train_station.svg/80px-Train_station.svg.png 2x" width="40"/></a></td><td><i>This <a href="/wiki/K%C5%8Dchi_Prefecture" title="Kōchi Prefecture">Kōchi Prefecture</a> <a class="mw-redirect" href="/wiki/Railroad_station" title="Railroad station">railroad station</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Kaina_Station&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:K%C5%8Dchi-railstation-stub" title="Template:Kōchi-railstation-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:K%C5%8Dchi-railstation-stub" title="Template talk:Kōchi-railstation-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:K%C5%8Dchi-railstation-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20191216210932
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.504 seconds
+Real time usage: 0.732 seconds
+Preprocessor visited node count: 2433/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54177/2097152 bytes
+Template argument size: 8504/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 16/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21283/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.253/10.000 seconds
+Lua memory usage: 5.6 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  671.802      1 -total
+ 40.69%  273.326      1 Template:Infobox_station
+ 40.45%  271.757      2 Template:Infobox
+ 26.75%  179.679      1 Template:Reflist
+ 18.41%  123.706      4 Template:Cite_web
+  8.03%   53.958      1 Template:Country_abbreviation
+  7.41%   49.769      1 Template:Use_dmy_dates
+  7.15%   48.037      1 Template:Tosa_Kuroshio_Railway_Nakamura_Line
+  6.73%   45.190     21 Template:STN
+  6.55%   43.990      1 Template:Nihongo
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:19215823-0!canonical and timestamp 20191216210931 and revision id 872288166
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Kaina_Station&amp;oldid=872288166">https://en.wikipedia.org/w/index.php?title=Kaina_Station&amp;oldid=872288166</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Stations_of_Tosa_Kuroshio_Railway" title="Category:Stations of Tosa Kuroshio Railway">Stations of Tosa Kuroshio Railway</a></li><li><a href="/wiki/Category:Railway_stations_in_K%C5%8Dchi_Prefecture" title="Category:Railway stations in Kōchi Prefecture">Railway stations in Kōchi Prefecture</a></li><li><a href="/wiki/Category:Railway_stations_opened_in_1963" title="Category:Railway stations opened in 1963">Railway stations opened in 1963</a></li><li><a href="/wiki/Category:K%C5%8Dchi_Prefecture_railway_station_stubs" title="Category:Kōchi Prefecture railway station stubs">Kōchi Prefecture railway station stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_uses_Japanese-language_script_(ja)" title="Category:CS1 uses Japanese-language script (ja)">CS1 uses Japanese-language script (ja)</a></li><li><a href="/wiki/Category:CS1_Japanese-language_sources_(ja)" title="Category:CS1 Japanese-language sources (ja)">CS1 Japanese-language sources (ja)</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_February_2018" title="Category:Use dmy dates from February 2018">Use dmy dates from February 2018</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_Japanese-language_text" title="Category:Articles containing Japanese-language text">Articles containing Japanese-language text</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Kaina+Station" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Kaina+Station" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Kaina_Station" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Kaina_Station" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Kaina_Station">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Kaina_Station&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Kaina_Station&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Kaina_Station" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Kaina_Station" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Kaina_Station&amp;oldid=872288166" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Kaina_Station&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q8188907" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Kaina_Station&amp;id=872288166" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Kaina_Station" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Kaina+Station">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Kaina+Station&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Kaina_Station&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Gare_de_Kaina" hreflang="fr" lang="fr" title="Gare de Kaina – French">Français</a></li><li class="interlanguage-link interwiki-my"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%81%E1%80%A1%E1%80%AD%E1%80%94%E1%80%98%E1%80%B0%E1%80%90%E1%80%AC" hreflang="my" lang="my" title="ခအိနဘူတာ – Burmese">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%8D%B7%E7%A8%B2%E9%A7%85" hreflang="ja" lang="ja" title="荷稲駅 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%8D%B7%E7%A8%BB%E7%AB%99" hreflang="zh" lang="zh" title="荷稻站 – Chinese">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q8188907#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 December 2018, at 12:13<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Kaina_Station&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.504","walltime":"0.732","ppvisitednodes":{"value":2433,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54177,"limit":2097152},"templateargumentsize":{"value":8504,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21283,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  671.802      1 -total"," 40.69%  273.326      1 Template:Infobox_station"," 40.45%  271.757      2 Template:Infobox"," 26.75%  179.679      1 Template:Reflist"," 18.41%  123.706      4 Template:Cite_web","  8.03%   53.958      1 Template:Country_abbreviation","  7.41%   49.769      1 Template:Use_dmy_dates","  7.15%   48.037      1 Template:Tosa_Kuroshio_Railway_Nakamura_Line","  6.73%   45.190     21 Template:STN","  6.55%   43.990      1 Template:Nihongo"]},"scribunto":{"limitreport-timeusage":{"value":"0.253","limit":"10.000"},"limitreport-memusage":{"value":5873050,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20191216210932","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Kaina Station","url":"https:\/\/en.wikipedia.org\/wiki\/Kaina_Station","sameAs":"http:\/\/www.wikidata.org\/entity\/Q8188907","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q8188907","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-09-07T10:40:08Z","dateModified":"2018-12-06T12:13:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6c\/Kaina_station_01.jpg","headline":"railway station in Kuroshio, Hata district, Kochi prefecture, Japan"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":246,"wgHostname":"mw1264"});});</script>
+
+
+</body></html>

@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Bonnard, Yonne - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfp96wpAMEwAADPX-M8AAADJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Bonnard,_Yonne","wgTitle":"Bonnard, Yonne","wgCurRevisionId":904267064,"wgRevisionId":904267064,"wgArticleId":15893897,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Infobox mapframe without OSM relation ID on Wikidata","Coordinates on Wikidata","Commons category link is on Wikidata","All stub articles",
+"Pages using the Kartographer extension","Communes of Yonne","Yonne geography stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Bonnard,_Yonne","wgRelevantArticleId":15893897,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgKartographerLiveData":{"_b5ccea420fdfe377beb7eb12f31852b146d3147c":[{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q74824","properties":{"stroke-width":3,"stroke":
+"#FF0000","title":"Bonnard, Yonne","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q74824","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Bonnard, Yonne"}},{"type":"Feature","geometry":{"coordinates":[3.5227777777778,47.926111111111],"type":"Point"},"properties":{"title":"Bonnard, Yonne","marker-color":"#5E74F3"}},{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q74824","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Bonnard, Yonne","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q74824","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Bonnard, Yonne"}},{"type":"Feature","geometry":{"coordinates":[3.5227777777778,47.926111111111],"type":"Point"},"properties":{"title":"Bonnard, Yonne","marker-color":"#5E74F3"}}]},"wgCoordinates":{"lat":
+47.9269,"lon":3.5236},"wgWikibaseItemId":"Q74824","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice",
+"ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bonnard-FR-89-%C3%A9glise-01.jpg/1200px-Bonnard-FR-89-%C3%A9glise-01.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bonnard,_Yonne" rel="alternate"/>
+<link href="/w/index.php?title=Bonnard,_Yonne&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Bonnard,_Yonne&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Bonnard,_Yonne" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bonnard_Yonne rootpage-Bonnard_Yonne skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Bonnard, Yonne</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Commune in Bourgogne-Franche-Comté, France</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div class="fn org" style="display:inline">Bonnard</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category"><a href="/wiki/Communes_of_France" title="Communes of France">Commune</a></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Bonnard-FR-89-%C3%A9glise-01.jpg" title="The church in Bonnard"><img alt="The church in Bonnard" data-file-height="3024" data-file-width="4032" decoding="async" height="203" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bonnard-FR-89-%C3%A9glise-01.jpg/270px-Bonnard-FR-89-%C3%A9glise-01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bonnard-FR-89-%C3%A9glise-01.jpg/405px-Bonnard-FR-89-%C3%A9glise-01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bonnard-FR-89-%C3%A9glise-01.jpg/540px-Bonnard-FR-89-%C3%A9glise-01.jpg 2x" width="270"/></a><div style="padding:0.4em 0 0 0;">The church in Bonnard</div></td></tr><tr class="mergedrow"><td colspan="2" style="text-align:center"><div class="mw-collapsible mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:center;;height:5px;">Location of Bonnard</div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;">
+<div class="center" style="margin-top:1em"><a class="mw-kartographer-map mw-kartographer-container center" data-height="200" data-mw="interface" data-overlays='["_b5ccea420fdfe377beb7eb12f31852b146d3147c"]' data-style="osm-intl" data-width="270" data-zoom="12" href="/wiki/Special:Map/12/a/a/en" style="background-image: url(https://maps.wikimedia.org/img/osm-intl,12,a,a,270x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Bonnard%2C+Yonne&amp;groups=_b5ccea420fdfe377beb7eb12f31852b146d3147c); width: 270px; height: 200px;"></a></div></div></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><div class="switcher-container"><div class="center"><div style="width:270px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:270px;padding:0"><div style="position:relative;width:270px"><a class="image" href="/wiki/File:France_location_map-Regions_and_departements-2016.svg" title="Bonnard is located in France"><img alt="Bonnard is located in France" data-file-height="1922" data-file-width="2000" decoding="async" height="259" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/405px-France_location_map-Regions_and_departements-2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/540px-France_location_map-Regions_and_departements-2016.svg.png 2x" width="270"/></a><div style="position:absolute;top:34.03%;left:59.01%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Bonnard" data-file-height="64" data-file-width="64" decoding="async" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" title="Bonnard" width="6"/></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right"><div style="display:inline;padding:1px;float:right">Bonnard</div></div></div></div><div></div><span class="switcher-label" style="display:none">Show map of France</span></div></div></div><div class="center"><div style="width:270px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:270px;padding:0"><div style="position:relative;width:270px"><a class="image" href="/wiki/File:Bourgogne-Franche-Comt%C3%A9_region_location_map.svg" title="Bonnard is located in Bourgogne-Franche-Comté"><img alt="Bonnard is located in Bourgogne-Franche-Comté" data-file-height="782" data-file-width="1024" decoding="async" height="206" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bourgogne-Franche-Comt%C3%A9_region_location_map.svg/270px-Bourgogne-Franche-Comt%C3%A9_region_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bourgogne-Franche-Comt%C3%A9_region_location_map.svg/405px-Bourgogne-Franche-Comt%C3%A9_region_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bourgogne-Franche-Comt%C3%A9_region_location_map.svg/540px-Bourgogne-Franche-Comt%C3%A9_region_location_map.svg.png 2x" width="270"/></a><div style="position:absolute;top:23.531%;left:18.508%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Bonnard" data-file-height="64" data-file-width="64" decoding="async" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" title="Bonnard" width="6"/></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right"><div style="display:inline;padding:1px;float:right">Bonnard</div></div></div></div><div></div><span class="switcher-label" style="display:none">Show map of Bourgogne-Franche-Comté</span></div></div></div></div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Bonnard,_Yonne&amp;params=47.9269_N_3.5236_E_type:city(902)_region:FR-BFC"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">47°55′37″N</span> <span class="longitude">3°31′25″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">47.9269°N 3.5236°E</span><span style="display:none">﻿ / <span class="geo">47.9269; 3.5236</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Bonnard,_Yonne&amp;params=47.9269_N_3.5236_E_type:city(902)_region:FR-BFC"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">47°55′37″N</span> <span class="longitude">3°31′25″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">47.9269°N 3.5236°E</span><span style="display:none">﻿ / <span class="geo">47.9269; 3.5236</span></span></span></a></span></span></span></td></tr><tr class="mergedtoprow"><th scope="row">Country</th><td><a href="/wiki/France" title="France">France</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Regions_of_France" title="Regions of France">Region</a></th><td><a href="/wiki/Bourgogne-Franche-Comt%C3%A9" title="Bourgogne-Franche-Comté">Bourgogne-Franche-Comté</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Departments_of_France" title="Departments of France">Department</a></th><td><a href="/wiki/Yonne" title="Yonne">Yonne</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Arrondissements_of_France" title="Arrondissements of France">Arrondissement</a></th><td><a href="/wiki/Arrondissement_of_Auxerre" title="Arrondissement of Auxerre">Auxerre</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Cantons_of_France" title="Cantons of France">Canton</a></th><td><a href="/wiki/Canton_of_Migennes" title="Canton of Migennes">Migennes</a></td></tr><tr class="mergedtoprow"><th scope="row">Area<div style="font-weight:normal;display:inline;"><sup><small><b>1</b></small></sup></div></th><td>4.02 km<sup>2</sup> (1.55 sq mi)</td></tr><tr class="mergedtoprow"><th scope="row">Population<div style="font-weight:normal;display:inline;"><span class="nowrap"> </span>(2016-01-01)<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></div></th><td>902</td></tr><tr class="mergedrow"><th scope="row"> • Density</th><td>220/km<sup>2</sup> (580/sq mi)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a href="/wiki/UTC%2B01:00" title="UTC+01:00">UTC+01:00</a> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td></tr><tr class="mergedrow"><th scope="row"><span style="white-space:nowrap"> • Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th><td><a href="/wiki/UTC%2B02:00" title="UTC+02:00">UTC+02:00</a> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/INSEE_code" title="INSEE code">INSEE</a>/Postal code</th><td class="adr"><div class="postal-code"><a class="external text" href="https://www.insee.fr/fr/statistiques/1405599?geo=COM-89050" rel="nofollow">89050</a> /89400</div></td></tr><tr class="mergedtoprow"><th scope="row">Elevation</th><td>83–104 m (272–341 ft)</td></tr><tr><td colspan="2" style="text-align:center;text-align:left;"><sup><b>1</b></sup> French Land Register data, which excludes lakes, ponds, glaciers &gt; 1 km<sup>2</sup> (0.386 sq mi or 247 acres) and river estuaries.</td></tr></tbody></table>
+<p><b>Bonnard</b> is a <a href="/wiki/Communes_of_France" title="Communes of France">commune</a> in the <a href="/wiki/Yonne" title="Yonne">Yonne</a> <a href="/wiki/Departments_of_France" title="Departments of France">department</a> in <a href="/wiki/Bourgogne-Franche-Comt%C3%A9" title="Bourgogne-Franche-Comté">Bourgogne-Franche-Comté</a> in north-central <a href="/wiki/France" title="France">France</a>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bonnard,_Yonne&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Communes_of_the_Yonne_department" title="Communes of the Yonne department">Communes of the Yonne department</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bonnard,_Yonne&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.insee.fr/en/home/home_page.asp" rel="nofollow">INSEE</a></li></ul>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.insee.fr/fr/statistiques/3681328?geo=COM-89050" rel="nofollow">"Populations légales 2016"</a>. <a href="/wiki/Institut_national_de_la_statistique_et_des_%C3%A9tudes_%C3%A9conomiques" title="Institut national de la statistique et des études économiques">INSEE</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Populations+l%C3%A9gales+2016&amp;rft.pub=INSEE&amp;rft_id=https%3A%2F%2Fwww.insee.fr%2Ffr%2Fstatistiques%2F3681328%3Fgeo%3DCOM-89050&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABonnard%2C+Yonne"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Bonnard_(Yonne)" title="commons:Category:Bonnard (Yonne)"><span style="">Bonnard (Yonne)</span></a></b></i>.</td></tr>
+</tbody></table>
+<div aria-labelledby="Communes_of_the_Yonne_department_23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Yonne_communes" title="Template:Yonne communes"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Yonne_communes" title="Template talk:Yonne communes"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Yonne_communes&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Communes_of_the_Yonne_department_23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=" style="font-size:114%;margin:0 4em"><a href="/wiki/Communes_of_the_Yonne_department" title="Communes of the Yonne department">Communes</a> of the <a href="/wiki/Yonne" title="Yonne">Yonne</a> department <span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" width="23"/></span></div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aigremont,_Yonne" title="Aigremont, Yonne">Aigremont</a></li>
+<li><a href="/wiki/Aisy-sur-Arman%C3%A7on" title="Aisy-sur-Armançon">Aisy-sur-Armançon</a></li>
+<li><a href="/wiki/Ancy-le-Franc" title="Ancy-le-Franc">Ancy-le-Franc</a></li>
+<li><a href="/wiki/Ancy-le-Libre" title="Ancy-le-Libre">Ancy-le-Libre</a></li>
+<li><a href="/wiki/Andryes" title="Andryes">Andryes</a></li>
+<li><a href="/wiki/Angely,_Yonne" title="Angely, Yonne">Angely</a></li>
+<li><a href="/wiki/Annay-la-C%C3%B4te" title="Annay-la-Côte">Annay-la-Côte</a></li>
+<li><a href="/wiki/Annay-sur-Serein" title="Annay-sur-Serein">Annay-sur-Serein</a></li>
+<li><a href="/wiki/Ann%C3%A9ot" title="Annéot">Annéot</a></li>
+<li><a href="/wiki/Annoux" title="Annoux">Annoux</a></li>
+<li><a href="/wiki/Appoigny" title="Appoigny">Appoigny</a></li>
+<li><a href="/wiki/Arces-Dilo" title="Arces-Dilo">Arces-Dilo</a></li>
+<li><a href="/wiki/Arcy-sur-Cure" title="Arcy-sur-Cure">Arcy-sur-Cure</a></li>
+<li><a href="/wiki/Argentenay" title="Argentenay">Argentenay</a></li>
+<li><a href="/wiki/Argenteuil-sur-Arman%C3%A7on" title="Argenteuil-sur-Armançon">Argenteuil-sur-Armançon</a></li>
+<li><a href="/wiki/Armeau" title="Armeau">Armeau</a></li>
+<li><a href="/wiki/Arthonnay" title="Arthonnay">Arthonnay</a></li>
+<li><a href="/wiki/Asni%C3%A8res-sous-Bois" title="Asnières-sous-Bois">Asnières-sous-Bois</a></li>
+<li><a href="/wiki/Asquins" title="Asquins">Asquins</a></li>
+<li><a href="/wiki/Athie,_Yonne" title="Athie, Yonne">Athie</a></li>
+<li><a href="/wiki/Augy,_Yonne" title="Augy, Yonne">Augy</a></li>
+<li><a href="/wiki/Auxerre" title="Auxerre">Auxerre</a></li>
+<li><a href="/wiki/Avallon" title="Avallon">Avallon</a></li>
+<li><a href="/wiki/Bagneaux" title="Bagneaux">Bagneaux</a></li>
+<li><a href="/wiki/Baon" title="Baon">Baon</a></li>
+<li><a href="/wiki/Bassou" title="Bassou">Bassou</a></li>
+<li><a href="/wiki/Bazarnes" title="Bazarnes">Bazarnes</a></li>
+<li><a href="/wiki/Beaumont,_Yonne" title="Beaumont, Yonne">Beaumont</a></li>
+<li><a href="/wiki/Beauvilliers,_Yonne" title="Beauvilliers, Yonne">Beauvilliers</a></li>
+<li><a href="/wiki/Beauvoir,_Yonne" title="Beauvoir, Yonne">Beauvoir</a></li>
+<li><a href="/wiki/Beine" title="Beine">Beine</a></li>
+<li><a href="/wiki/Bellechaume" title="Bellechaume">Bellechaume</a></li>
+<li><a href="/wiki/La_Belliole" title="La Belliole">La Belliole</a></li>
+<li><a href="/wiki/B%C3%A9on,_Yonne" title="Béon, Yonne">Béon</a></li>
+<li><a href="/wiki/Bernouil" title="Bernouil">Bernouil</a></li>
+<li><a href="/wiki/B%C3%A9ru" title="Béru">Béru</a></li>
+<li><a href="/wiki/Bessy-sur-Cure" title="Bessy-sur-Cure">Bessy-sur-Cure</a></li>
+<li><a href="/wiki/Beugnon" title="Beugnon">Beugnon</a></li>
+<li><a href="/wiki/Bierry-les-Belles-Fontaines" title="Bierry-les-Belles-Fontaines">Bierry-les-Belles-Fontaines</a></li>
+<li><a href="/wiki/Blacy,_Yonne" title="Blacy, Yonne">Blacy</a></li>
+<li><a href="/wiki/Blannay" title="Blannay">Blannay</a></li>
+<li><a href="/wiki/Bleigny-le-Carreau" title="Bleigny-le-Carreau">Bleigny-le-Carreau</a></li>
+<li><a href="/wiki/Bl%C3%A9neau" title="Bléneau">Bléneau</a></li>
+<li><a href="/wiki/B%C5%93urs-en-Othe" title="Bœurs-en-Othe">Bœurs-en-Othe</a></li>
+<li><a href="/wiki/Bois-d%27Arcy,_Yonne" title="Bois-d'Arcy, Yonne">Bois-d'Arcy</a></li>
+<li><a class="mw-selflink selflink">Bonnard</a></li>
+<li><a href="/wiki/Les_Bordes,_Yonne" title="Les Bordes, Yonne">Les Bordes</a></li>
+<li><a href="/wiki/Branches,_Yonne" title="Branches, Yonne">Branches</a></li>
+<li><a href="/wiki/Brannay" title="Brannay">Brannay</a></li>
+<li><a href="/wiki/Brienon-sur-Arman%C3%A7on" title="Brienon-sur-Armançon">Brienon-sur-Armançon</a></li>
+<li><a href="/wiki/Brion,_Yonne" title="Brion, Yonne">Brion</a></li>
+<li><a href="/wiki/Brosses" title="Brosses">Brosses</a></li>
+<li><a href="/wiki/Bussi%C3%A8res,_Yonne" title="Bussières, Yonne">Bussières</a></li>
+<li><a href="/wiki/Bussy-en-Othe" title="Bussy-en-Othe">Bussy-en-Othe</a></li>
+<li><a href="/wiki/Bussy-le-Repos,_Yonne" title="Bussy-le-Repos, Yonne">Bussy-le-Repos</a></li>
+<li><a href="/wiki/Butteaux" title="Butteaux">Butteaux</a></li>
+<li><a href="/wiki/Carisey" title="Carisey">Carisey</a></li>
+<li><a href="/wiki/La_Celle-Saint-Cyr" title="La Celle-Saint-Cyr">La Celle-Saint-Cyr</a></li>
+<li><a href="/wiki/Censy" title="Censy">Censy</a></li>
+<li><a href="/wiki/C%C3%A9rilly,_Yonne" title="Cérilly, Yonne">Cérilly</a></li>
+<li><a href="/wiki/Cerisiers" title="Cerisiers">Cerisiers</a></li>
+<li><a href="/wiki/C%C3%A9zy" title="Cézy">Cézy</a></li>
+<li><a href="/wiki/Chablis" title="Chablis">Chablis</a></li>
+<li><a href="/wiki/Chailley" title="Chailley">Chailley</a></li>
+<li><a href="/wiki/Chamoux,_Yonne" title="Chamoux, Yonne">Chamoux</a></li>
+<li><a href="/wiki/Champcevrais" title="Champcevrais">Champcevrais</a></li>
+<li><a href="/wiki/Champignelles" title="Champignelles">Champignelles</a></li>
+<li><a href="/wiki/Champigny,_Yonne" title="Champigny, Yonne">Champigny</a></li>
+<li><a href="/wiki/Champlay" title="Champlay">Champlay</a></li>
+<li><a href="/wiki/Champlost" title="Champlost">Champlost</a></li>
+<li><a href="/wiki/Champs-sur-Yonne" title="Champs-sur-Yonne">Champs-sur-Yonne</a></li>
+<li><a href="/wiki/Chamvres" title="Chamvres">Chamvres</a></li>
+<li><a href="/wiki/La_Chapelle-sur-Oreuse" title="La Chapelle-sur-Oreuse">La Chapelle-sur-Oreuse</a></li>
+<li><a href="/wiki/La_Chapelle-Vaupelteigne" title="La Chapelle-Vaupelteigne">La Chapelle-Vaupelteigne</a></li>
+<li><a href="/wiki/Charbuy" title="Charbuy">Charbuy</a></li>
+<li><a href="/wiki/Charentenay" title="Charentenay">Charentenay</a></li>
+<li><a href="/wiki/Charmoy,_Yonne" title="Charmoy, Yonne">Charmoy</a></li>
+<li><a href="/wiki/Charny-Or%C3%A9e-de-Puisaye" title="Charny-Orée-de-Puisaye">Charny-Orée-de-Puisaye</a></li>
+<li><a href="/wiki/Chassignelles" title="Chassignelles">Chassignelles</a></li>
+<li><a href="/wiki/Chassy,_Yonne" title="Chassy, Yonne">Chassy</a></li>
+<li><a href="/wiki/Chastellux-sur-Cure" title="Chastellux-sur-Cure">Chastellux-sur-Cure</a></li>
+<li><a href="/wiki/Ch%C3%A2tel-Censoir" title="Châtel-Censoir">Châtel-Censoir</a></li>
+<li><a href="/wiki/Ch%C3%A2tel-G%C3%A9rard" title="Châtel-Gérard">Châtel-Gérard</a></li>
+<li><a href="/wiki/Chaumont,_Yonne" title="Chaumont, Yonne">Chaumont</a></li>
+<li><a href="/wiki/Chaumot,_Yonne" title="Chaumot, Yonne">Chaumot</a></li>
+<li><a href="/wiki/Chemilly-sur-Serein" title="Chemilly-sur-Serein">Chemilly-sur-Serein</a></li>
+<li><a href="/wiki/Chemilly-sur-Yonne" title="Chemilly-sur-Yonne">Chemilly-sur-Yonne</a></li>
+<li><a href="/wiki/Cheney,_Yonne" title="Cheney, Yonne">Cheney</a></li>
+<li><a href="/wiki/Cheny" title="Cheny">Cheny</a></li>
+<li><a href="/wiki/Ch%C3%A9roy" title="Chéroy">Chéroy</a></li>
+<li><a href="/wiki/Ch%C3%A9u" title="Chéu">Chéu</a></li>
+<li><a href="/wiki/Chevannes,_Yonne" title="Chevannes, Yonne">Chevannes</a></li>
+<li><a href="/wiki/Chich%C3%A9e" title="Chichée">Chichée</a></li>
+<li><a href="/wiki/Chichery" title="Chichery">Chichery</a></li>
+<li><a href="/wiki/Chitry" title="Chitry">Chitry</a></li>
+<li><a href="/wiki/Les_Cl%C3%A9rimois" title="Les Clérimois">Les Clérimois</a></li>
+<li><a href="/wiki/Collan" title="Collan">Collan</a></li>
+<li><a href="/wiki/Collemiers" title="Collemiers">Collemiers</a></li>
+<li><a href="/wiki/Compigny" title="Compigny">Compigny</a></li>
+<li><a href="/wiki/Cornant" title="Cornant">Cornant</a></li>
+<li><a href="/wiki/Coulangeron" title="Coulangeron">Coulangeron</a></li>
+<li><a href="/wiki/Coulanges-la-Vineuse" title="Coulanges-la-Vineuse">Coulanges-la-Vineuse</a></li>
+<li><a href="/wiki/Coulanges-sur-Yonne" title="Coulanges-sur-Yonne">Coulanges-sur-Yonne</a></li>
+<li><a href="/wiki/Coulours" title="Coulours">Coulours</a></li>
+<li><a href="/wiki/Courgenay,_Yonne" title="Courgenay, Yonne">Courgenay</a></li>
+<li><a href="/wiki/Courgis" title="Courgis">Courgis</a></li>
+<li><a href="/wiki/Courlon-sur-Yonne" title="Courlon-sur-Yonne">Courlon-sur-Yonne</a></li>
+<li><a href="/wiki/Courson-les-Carri%C3%A8res" title="Courson-les-Carrières">Courson-les-Carrières</a></li>
+<li><a href="/wiki/Courtoin" title="Courtoin">Courtoin</a></li>
+<li><a href="/wiki/Courtois-sur-Yonne" title="Courtois-sur-Yonne">Courtois-sur-Yonne</a></li>
+<li><a href="/wiki/Coutarnoux" title="Coutarnoux">Coutarnoux</a></li>
+<li><a href="/wiki/Crain,_Yonne" title="Crain, Yonne">Crain</a></li>
+<li><a href="/wiki/Cruzy-le-Ch%C3%A2tel" title="Cruzy-le-Châtel">Cruzy-le-Châtel</a></li>
+<li><a href="/wiki/Cry,_Yonne" title="Cry, Yonne">Cry</a></li>
+<li><a href="/wiki/Cudot" title="Cudot">Cudot</a></li>
+<li><a href="/wiki/Cussy-les-Forges" title="Cussy-les-Forges">Cussy-les-Forges</a></li>
+<li><a href="/wiki/Cuy,_Yonne" title="Cuy, Yonne">Cuy</a></li>
+<li><a href="/wiki/Dannemoine" title="Dannemoine">Dannemoine</a></li>
+<li><a href="/wiki/Deux_Rivi%C3%A8res" title="Deux Rivières">Deux Rivières</a></li>
+<li><a href="/wiki/Diges" title="Diges">Diges</a></li>
+<li><a href="/wiki/Dissangis" title="Dissangis">Dissangis</a></li>
+<li><a href="/wiki/Dixmont,_Yonne" title="Dixmont, Yonne">Dixmont</a></li>
+<li><a href="/wiki/Dollot" title="Dollot">Dollot</a></li>
+<li><a href="/wiki/Domats" title="Domats">Domats</a></li>
+<li><a href="/wiki/Domecy-sur-Cure" title="Domecy-sur-Cure">Domecy-sur-Cure</a></li>
+<li><a href="/wiki/Domecy-sur-le-Vault" title="Domecy-sur-le-Vault">Domecy-sur-le-Vault</a></li>
+<li><a href="/wiki/Dracy" title="Dracy">Dracy</a></li>
+<li><a href="/wiki/Druyes-les-Belles-Fontaines" title="Druyes-les-Belles-Fontaines">Druyes-les-Belles-Fontaines</a></li>
+<li><a href="/wiki/Dy%C3%A9" title="Dyé">Dyé</a></li>
+<li><a href="/wiki/%C3%89gleny" title="Égleny">Égleny</a></li>
+<li><a href="/wiki/%C3%89griselles-le-Bocage" title="Égriselles-le-Bocage">Égriselles-le-Bocage</a></li>
+<li><a href="/wiki/%C3%89pineau-les-Voves" title="Épineau-les-Voves">Épineau-les-Voves</a></li>
+<li><a href="/wiki/%C3%89pineuil" title="Épineuil">Épineuil</a></li>
+<li><a href="/wiki/Escamps,_Yonne" title="Escamps, Yonne">Escamps</a></li>
+<li><a href="/wiki/Escolives-Sainte-Camille" title="Escolives-Sainte-Camille">Escolives-Sainte-Camille</a></li>
+<li><a href="/wiki/Esnon" title="Esnon">Esnon</a></li>
+<li><a href="/wiki/%C3%89tais-la-Sauvin" title="Étais-la-Sauvin">Étais-la-Sauvin</a></li>
+<li><a href="/wiki/%C3%89taule" title="Étaule">Étaule</a></li>
+<li><a href="/wiki/%C3%89tigny" title="Étigny">Étigny</a></li>
+<li><a href="/wiki/%C3%89tivey" title="Étivey">Étivey</a></li>
+<li><a href="/wiki/%C3%89vry,_Yonne" title="Évry, Yonne">Évry</a></li>
+<li><a href="/wiki/La_Fert%C3%A9-Loupi%C3%A8re" title="La Ferté-Loupière">La Ferté-Loupière</a></li>
+<li><a href="/wiki/Festigny,_Yonne" title="Festigny, Yonne">Festigny</a></li>
+<li><a href="/wiki/Flacy" title="Flacy">Flacy</a></li>
+<li><a href="/wiki/Fleury-la-Vall%C3%A9e" title="Fleury-la-Vallée">Fleury-la-Vallée</a></li>
+<li><a href="/wiki/Fleys" title="Fleys">Fleys</a></li>
+<li><a href="/wiki/Flogny-la-Chapelle" title="Flogny-la-Chapelle">Flogny-la-Chapelle</a></li>
+<li><a href="/wiki/Foissy-l%C3%A8s-V%C3%A9zelay" title="Foissy-lès-Vézelay">Foissy-lès-Vézelay</a></li>
+<li><a href="/wiki/Foissy-sur-Vanne" title="Foissy-sur-Vanne">Foissy-sur-Vanne</a></li>
+<li><a href="/wiki/Fontaine-la-Gaillarde" title="Fontaine-la-Gaillarde">Fontaine-la-Gaillarde</a></li>
+<li><a href="/wiki/Fontaines,_Yonne" title="Fontaines, Yonne">Fontaines</a></li>
+<li><a href="/wiki/Fontenay-pr%C3%A8s-Chablis" title="Fontenay-près-Chablis">Fontenay-près-Chablis</a></li>
+<li><a href="/wiki/Fontenay-pr%C3%A8s-V%C3%A9zelay" title="Fontenay-près-Vézelay">Fontenay-près-Vézelay</a></li>
+<li><a href="/wiki/Fontenay-sous-Fouronnes" title="Fontenay-sous-Fouronnes">Fontenay-sous-Fouronnes</a></li>
+<li><a href="/wiki/Fontenoy,_Yonne" title="Fontenoy, Yonne">Fontenoy</a></li>
+<li><a href="/wiki/Fouch%C3%A8res,_Yonne" title="Fouchères, Yonne">Fouchères</a></li>
+<li><a href="/wiki/Fournaudin" title="Fournaudin">Fournaudin</a></li>
+<li><a href="/wiki/Fouronnes" title="Fouronnes">Fouronnes</a></li>
+<li><a href="/wiki/Fresnes,_Yonne" title="Fresnes, Yonne">Fresnes</a></li>
+<li><a href="/wiki/Fulvy" title="Fulvy">Fulvy</a></li>
+<li><a href="/wiki/Germigny,_Yonne" title="Germigny, Yonne">Germigny</a></li>
+<li><a href="/wiki/Gigny,_Yonne" title="Gigny, Yonne">Gigny</a></li>
+<li><a href="/wiki/Girolles,_Yonne" title="Girolles, Yonne">Girolles</a></li>
+<li><a href="/wiki/Gisy-les-Nobles" title="Gisy-les-Nobles">Gisy-les-Nobles</a></li>
+<li><a href="/wiki/Givry,_Yonne" title="Givry, Yonne">Givry</a></li>
+<li><a href="/wiki/Gland,_Yonne" title="Gland, Yonne">Gland</a></li>
+<li><a href="/wiki/Grimault" title="Grimault">Grimault</a></li>
+<li><a href="/wiki/Gron,_Yonne" title="Gron, Yonne">Gron</a></li>
+<li><a href="/wiki/Guillon-Terre-Plaine" title="Guillon-Terre-Plaine">Guillon-Terre-Plaine</a></li>
+<li><a href="/wiki/Gurgy" title="Gurgy">Gurgy</a></li>
+<li><a href="/wiki/Gy-l%27%C3%89v%C3%AAque" title="Gy-l'Évêque">Gy-l'Évêque</a></li>
+<li><a href="/wiki/Hauterive,_Yonne" title="Hauterive, Yonne">Hauterive</a></li>
+<li><a href="/wiki/Les_Hauts_de_Forterre" title="Les Hauts de Forterre">Les Hauts de Forterre</a></li>
+<li><a href="/wiki/H%C3%A9ry,_Yonne" title="Héry, Yonne">Héry</a></li>
+<li><a href="/wiki/Irancy" title="Irancy">Irancy</a></li>
+<li><a href="/wiki/Island,_Yonne" title="Island, Yonne">Island</a></li>
+<li><a href="/wiki/L%27Isle-sur-Serein" title="L'Isle-sur-Serein">L'Isle-sur-Serein</a></li>
+<li><a href="/wiki/Jaulges" title="Jaulges">Jaulges</a></li>
+<li><a href="/wiki/Joigny" title="Joigny">Joigny</a></li>
+<li><a href="/wiki/Jouancy" title="Jouancy">Jouancy</a></li>
+<li><a href="/wiki/Joux-la-Ville" title="Joux-la-Ville">Joux-la-Ville</a></li>
+<li><a href="/wiki/Jouy,_Yonne" title="Jouy, Yonne">Jouy</a></li>
+<li><a href="/wiki/Jully" title="Jully">Jully</a></li>
+<li><a href="/wiki/Junay" title="Junay">Junay</a></li>
+<li><a href="/wiki/Jussy,_Yonne" title="Jussy, Yonne">Jussy</a></li>
+<li><a href="/wiki/Lailly" title="Lailly">Lailly</a></li>
+<li><a href="/wiki/Lain,_Yonne" title="Lain, Yonne">Lain</a></li>
+<li><a href="/wiki/Lainsecq" title="Lainsecq">Lainsecq</a></li>
+<li><a href="/wiki/Lalande,_Yonne" title="Lalande, Yonne">Lalande</a></li>
+<li><a href="/wiki/Laroche-Saint-Cydroine" title="Laroche-Saint-Cydroine">Laroche-Saint-Cydroine</a></li>
+<li><a href="/wiki/Lasson,_Yonne" title="Lasson, Yonne">Lasson</a></li>
+<li><a href="/wiki/Lavau,_Yonne" title="Lavau, Yonne">Lavau</a></li>
+<li><a href="/wiki/Leugny,_Yonne" title="Leugny, Yonne">Leugny</a></li>
+<li><a href="/wiki/Levis,_Yonne" title="Levis, Yonne">Levis</a></li>
+<li><a href="/wiki/L%C3%A9zinnes" title="Lézinnes">Lézinnes</a></li>
+<li><a href="/wiki/Lich%C3%A8res-pr%C3%A8s-Aigremont" title="Lichères-près-Aigremont">Lichères-près-Aigremont</a></li>
+<li><a href="/wiki/Lich%C3%A8res-sur-Yonne" title="Lichères-sur-Yonne">Lichères-sur-Yonne</a></li>
+<li><a href="/wiki/Lignorelles" title="Lignorelles">Lignorelles</a></li>
+<li><a href="/wiki/Ligny-le-Ch%C3%A2tel" title="Ligny-le-Châtel">Ligny-le-Châtel</a></li>
+<li><a href="/wiki/Lindry" title="Lindry">Lindry</a></li>
+<li><a href="/wiki/Lixy" title="Lixy">Lixy</a></li>
+<li><a href="/wiki/Looze" title="Looze">Looze</a></li>
+<li><a href="/wiki/Lucy-le-Bois" title="Lucy-le-Bois">Lucy-le-Bois</a></li>
+<li><a href="/wiki/Lucy-sur-Cure" title="Lucy-sur-Cure">Lucy-sur-Cure</a></li>
+<li><a href="/wiki/Lucy-sur-Yonne" title="Lucy-sur-Yonne">Lucy-sur-Yonne</a></li>
+<li><a href="/wiki/Magny,_Yonne" title="Magny, Yonne">Magny</a></li>
+<li><a href="/wiki/Maillot,_Yonne" title="Maillot, Yonne">Maillot</a></li>
+<li><a href="/wiki/Mailly-la-Ville" title="Mailly-la-Ville">Mailly-la-Ville</a></li>
+<li><a href="/wiki/Mailly-le-Ch%C3%A2teau" title="Mailly-le-Château">Mailly-le-Château</a></li>
+<li><a href="/wiki/Malay-le-Grand" title="Malay-le-Grand">Malay-le-Grand</a></li>
+<li><a href="/wiki/Malay-le-Petit" title="Malay-le-Petit">Malay-le-Petit</a></li>
+<li><a href="/wiki/Maligny,_Yonne" title="Maligny, Yonne">Maligny</a></li>
+<li><a href="/wiki/Marmeaux" title="Marmeaux">Marmeaux</a></li>
+<li><a href="/wiki/Marsangy" title="Marsangy">Marsangy</a></li>
+<li><a href="/wiki/Massangis" title="Massangis">Massangis</a></li>
+<li><a href="/wiki/M%C3%A9lisey,_Yonne" title="Mélisey, Yonne">Mélisey</a></li>
+<li><a href="/wiki/Menades" title="Menades">Menades</a></li>
+<li><a href="/wiki/Mercy,_Yonne" title="Mercy, Yonne">Mercy</a></li>
+<li><a href="/wiki/M%C3%A9r%C3%A9,_Yonne" title="Méré, Yonne">Méré</a></li>
+<li><a href="/wiki/Merry-la-Vall%C3%A9e" title="Merry-la-Vallée">Merry-la-Vallée</a></li>
+<li><a href="/wiki/Merry-Sec" title="Merry-Sec">Merry-Sec</a></li>
+<li><a href="/wiki/Merry-sur-Yonne" title="Merry-sur-Yonne">Merry-sur-Yonne</a></li>
+<li><a href="/wiki/M%C3%A9zilles" title="Mézilles">Mézilles</a></li>
+<li><a href="/wiki/Michery" title="Michery">Michery</a></li>
+<li><a href="/wiki/Mig%C3%A9" title="Migé">Migé</a></li>
+<li><a href="/wiki/Migennes" title="Migennes">Migennes</a></li>
+<li><a href="/wiki/M%C3%B4lay" title="Môlay">Môlay</a></li>
+<li><a href="/wiki/Molinons" title="Molinons">Molinons</a></li>
+<li><a href="/wiki/Molosmes" title="Molosmes">Molosmes</a></li>
+<li><a href="/wiki/Mon%C3%A9teau" title="Monéteau">Monéteau</a></li>
+<li><a href="/wiki/Montacher-Villegardin" title="Montacher-Villegardin">Montacher-Villegardin</a></li>
+<li><a href="/wiki/Montholon" title="Montholon">Montholon</a></li>
+<li><a href="/wiki/Montigny-la-Resle" title="Montigny-la-Resle">Montigny-la-Resle</a></li>
+<li><a href="/wiki/Montillot" title="Montillot">Montillot</a></li>
+<li><a href="/wiki/Montr%C3%A9al,_Yonne" title="Montréal, Yonne">Montréal</a></li>
+<li><a href="/wiki/Mont-Saint-Sulpice" title="Mont-Saint-Sulpice">Mont-Saint-Sulpice</a></li>
+<li><a href="/wiki/Mouffy" title="Mouffy">Mouffy</a></li>
+<li><a href="/wiki/Moulins-en-Tonnerrois" title="Moulins-en-Tonnerrois">Moulins-en-Tonnerrois</a></li>
+<li><a href="/wiki/Moulins-sur-Ouanne" title="Moulins-sur-Ouanne">Moulins-sur-Ouanne</a></li>
+<li><a href="/wiki/Moutiers-en-Puisaye" title="Moutiers-en-Puisaye">Moutiers-en-Puisaye</a></li>
+<li><a href="/wiki/Nailly" title="Nailly">Nailly</a></li>
+<li><a href="/wiki/Neuvy-Sautour" title="Neuvy-Sautour">Neuvy-Sautour</a></li>
+<li><a href="/wiki/Nitry" title="Nitry">Nitry</a></li>
+<li><a href="/wiki/No%C3%A9,_Yonne" title="Noé, Yonne">Noé</a></li>
+<li><a href="/wiki/Noyers,_Yonne" title="Noyers, Yonne">Noyers</a></li>
+<li><a href="/wiki/Nuits" title="Nuits">Nuits</a></li>
+<li><a href="/wiki/Les_Ormes,_Yonne" title="Les Ormes, Yonne">Les Ormes</a></li>
+<li><a href="/wiki/Ormoy,_Yonne" title="Ormoy, Yonne">Ormoy</a></li>
+<li><a href="/wiki/Ouanne" title="Ouanne">Ouanne</a></li>
+<li><a href="/wiki/Pacy-sur-Arman%C3%A7on" title="Pacy-sur-Armançon">Pacy-sur-Armançon</a></li>
+<li><a href="/wiki/Pailly,_Yonne" title="Pailly, Yonne">Pailly</a></li>
+<li><a href="/wiki/Parly" title="Parly">Parly</a></li>
+<li><a href="/wiki/Paron,_Yonne" title="Paron, Yonne">Paron</a></li>
+<li><a href="/wiki/Paroy-en-Othe" title="Paroy-en-Othe">Paroy-en-Othe</a></li>
+<li><a href="/wiki/Paroy-sur-Tholon" title="Paroy-sur-Tholon">Paroy-sur-Tholon</a></li>
+<li><a href="/wiki/Pasilly" title="Pasilly">Pasilly</a></li>
+<li><a href="/wiki/Passy,_Yonne" title="Passy, Yonne">Passy</a></li>
+<li><a href="/wiki/Perceneige" title="Perceneige">Perceneige</a></li>
+<li><a href="/wiki/Percey" title="Percey">Percey</a></li>
+<li><a href="/wiki/Perrigny,_Yonne" title="Perrigny, Yonne">Perrigny</a></li>
+<li><a href="/wiki/Perrigny-sur-Arman%C3%A7on" title="Perrigny-sur-Armançon">Perrigny-sur-Armançon</a></li>
+<li><a href="/wiki/Pierre-Perthuis" title="Pierre-Perthuis">Pierre-Perthuis</a></li>
+<li><a href="/wiki/Piffonds" title="Piffonds">Piffonds</a></li>
+<li><a href="/wiki/Pimelles" title="Pimelles">Pimelles</a></li>
+<li><a href="/wiki/Pisy" title="Pisy">Pisy</a></li>
+<li><a href="/wiki/Plessis-Saint-Jean" title="Plessis-Saint-Jean">Plessis-Saint-Jean</a></li>
+<li><a href="/wiki/Poilly-sur-Serein" title="Poilly-sur-Serein">Poilly-sur-Serein</a></li>
+<li><a href="/wiki/Poilly-sur-Tholon" title="Poilly-sur-Tholon">Poilly-sur-Tholon</a></li>
+<li><a href="/wiki/Pontaubert" title="Pontaubert">Pontaubert</a></li>
+<li><a href="/wiki/Pontigny" title="Pontigny">Pontigny</a></li>
+<li><a href="/wiki/Pont-sur-Vanne" title="Pont-sur-Vanne">Pont-sur-Vanne</a></li>
+<li><a href="/wiki/Pont-sur-Yonne" title="Pont-sur-Yonne">Pont-sur-Yonne</a></li>
+<li><a href="/wiki/La_Postolle" title="La Postolle">La Postolle</a></li>
+<li><a href="/wiki/Pourrain" title="Pourrain">Pourrain</a></li>
+<li><a href="/wiki/Pr%C3%A9cy-le-Sec" title="Précy-le-Sec">Précy-le-Sec</a></li>
+<li><a href="/wiki/Pr%C3%A9cy-sur-Vrin" title="Précy-sur-Vrin">Précy-sur-Vrin</a></li>
+<li><a href="/wiki/Pr%C3%A9gilbert" title="Prégilbert">Prégilbert</a></li>
+<li><a href="/wiki/Pr%C3%A9hy" title="Préhy">Préhy</a></li>
+<li><a href="/wiki/Provency" title="Provency">Provency</a></li>
+<li><a href="/wiki/Quarr%C3%A9-les-Tombes" title="Quarré-les-Tombes">Quarré-les-Tombes</a></li>
+<li><a href="/wiki/Quenne" title="Quenne">Quenne</a></li>
+<li><a href="/wiki/Quincerot,_Yonne" title="Quincerot, Yonne">Quincerot</a></li>
+<li><a href="/wiki/Ravi%C3%A8res" title="Ravières">Ravières</a></li>
+<li><a href="/wiki/Roffey,_Yonne" title="Roffey, Yonne">Roffey</a></li>
+<li><a href="/wiki/Rogny-les-Sept-%C3%89cluses" title="Rogny-les-Sept-Écluses">Rogny-les-Sept-Écluses</a></li>
+<li><a href="/wiki/Ronch%C3%A8res,_Yonne" title="Ronchères, Yonne">Ronchères</a></li>
+<li><a href="/wiki/Rousson,_Yonne" title="Rousson, Yonne">Rousson</a></li>
+<li><a href="/wiki/Rouvray,_Yonne" title="Rouvray, Yonne">Rouvray</a></li>
+<li><a href="/wiki/Rugny" title="Rugny">Rugny</a></li>
+<li><a href="/wiki/Sainpuits" title="Sainpuits">Sainpuits</a></li>
+<li><a href="/wiki/Saint-Agnan,_Yonne" title="Saint-Agnan, Yonne">Saint-Agnan</a></li>
+<li><a href="/wiki/Saint-Andr%C3%A9-en-Terre-Plaine" title="Saint-André-en-Terre-Plaine">Saint-André-en-Terre-Plaine</a></li>
+<li><a href="/wiki/Saint-Aubin-sur-Yonne" title="Saint-Aubin-sur-Yonne">Saint-Aubin-sur-Yonne</a></li>
+<li><a href="/wiki/Saint-Brancher" title="Saint-Brancher">Saint-Brancher</a></li>
+<li><a href="/wiki/Saint-Bris-le-Vineux" title="Saint-Bris-le-Vineux">Saint-Bris-le-Vineux</a></li>
+<li><a href="/wiki/Saint-Cl%C3%A9ment,_Yonne" title="Saint-Clément, Yonne">Saint-Clément</a></li>
+<li><a href="/wiki/Saint-Cyr-les-Colons" title="Saint-Cyr-les-Colons">Saint-Cyr-les-Colons</a></li>
+<li><a href="/wiki/Saint-Denis-l%C3%A8s-Sens" title="Saint-Denis-lès-Sens">Saint-Denis-lès-Sens</a></li>
+<li><a href="/wiki/Sainte-Colombe,_Yonne" title="Sainte-Colombe, Yonne">Sainte-Colombe</a></li>
+<li><a href="/wiki/Sainte-Magnance" title="Sainte-Magnance">Sainte-Magnance</a></li>
+<li><a href="/wiki/Sainte-Pallaye" title="Sainte-Pallaye">Sainte-Pallaye</a></li>
+<li><a href="/wiki/Sainte-Vertu" title="Sainte-Vertu">Sainte-Vertu</a></li>
+<li><a href="/wiki/Saint-Fargeau" title="Saint-Fargeau">Saint-Fargeau</a></li>
+<li><a href="/wiki/Saint-Florentin,_Yonne" title="Saint-Florentin, Yonne">Saint-Florentin</a></li>
+<li><a href="/wiki/Saint-Georges-sur-Baulche" title="Saint-Georges-sur-Baulche">Saint-Georges-sur-Baulche</a></li>
+<li><a href="/wiki/Saint-Germain-des-Champs" title="Saint-Germain-des-Champs">Saint-Germain-des-Champs</a></li>
+<li><a href="/wiki/Saint-Julien-du-Sault" title="Saint-Julien-du-Sault">Saint-Julien-du-Sault</a></li>
+<li><a href="/wiki/Saint-L%C3%A9ger-Vauban" title="Saint-Léger-Vauban">Saint-Léger-Vauban</a></li>
+<li><a href="/wiki/Saint-Loup-d%27Ordon" title="Saint-Loup-d'Ordon">Saint-Loup-d'Ordon</a></li>
+<li><a href="/wiki/Saint-Martin-des-Champs,_Yonne" title="Saint-Martin-des-Champs, Yonne">Saint-Martin-des-Champs</a></li>
+<li><a href="/wiki/Saint-Martin-d%27Ordon" title="Saint-Martin-d'Ordon">Saint-Martin-d'Ordon</a></li>
+<li><a href="/wiki/Saint-Martin-du-Tertre,_Yonne" title="Saint-Martin-du-Tertre, Yonne">Saint-Martin-du-Tertre</a></li>
+<li><a href="/wiki/Saint-Martin-sur-Arman%C3%A7on" title="Saint-Martin-sur-Armançon">Saint-Martin-sur-Armançon</a></li>
+<li><a href="/wiki/Saint-Maurice-aux-Riches-Hommes" title="Saint-Maurice-aux-Riches-Hommes">Saint-Maurice-aux-Riches-Hommes</a></li>
+<li><a href="/wiki/Saint-Maurice-le-Vieil" title="Saint-Maurice-le-Vieil">Saint-Maurice-le-Vieil</a></li>
+<li><a href="/wiki/Saint-Maurice-Thizouaille" title="Saint-Maurice-Thizouaille">Saint-Maurice-Thizouaille</a></li>
+<li><a href="/wiki/Saint-Mor%C3%A9" title="Saint-Moré">Saint-Moré</a></li>
+<li><a href="/wiki/Saint-P%C3%A8re,_Yonne" title="Saint-Père, Yonne">Saint-Père</a></li>
+<li><a href="/wiki/Saint-Priv%C3%A9,_Yonne" title="Saint-Privé, Yonne">Saint-Privé</a></li>
+<li><a href="/wiki/Saints-en-Puisaye" title="Saints-en-Puisaye">Saints-en-Puisaye</a></li>
+<li><a href="/wiki/Saint-Sauveur-en-Puisaye" title="Saint-Sauveur-en-Puisaye">Saint-Sauveur-en-Puisaye</a></li>
+<li><a href="/wiki/Saint-S%C3%A9rotin" title="Saint-Sérotin">Saint-Sérotin</a></li>
+<li><a href="/wiki/Saint-Val%C3%A9rien,_Yonne" title="Saint-Valérien, Yonne">Saint-Valérien</a></li>
+<li><a href="/wiki/Saligny,_Yonne" title="Saligny, Yonne">Saligny</a></li>
+<li><a href="/wiki/Sambourg" title="Sambourg">Sambourg</a></li>
+<li><a href="/wiki/Santigny" title="Santigny">Santigny</a></li>
+<li><a href="/wiki/Sarry,_Yonne" title="Sarry, Yonne">Sarry</a></li>
+<li><a href="/wiki/Sauvigny-le-Beur%C3%A9al" title="Sauvigny-le-Beuréal">Sauvigny-le-Beuréal</a></li>
+<li><a href="/wiki/Sauvigny-le-Bois" title="Sauvigny-le-Bois">Sauvigny-le-Bois</a></li>
+<li><a href="/wiki/Savigny-en-Terre-Plaine" title="Savigny-en-Terre-Plaine">Savigny-en-Terre-Plaine</a></li>
+<li><a href="/wiki/Savigny-sur-Clairis" title="Savigny-sur-Clairis">Savigny-sur-Clairis</a></li>
+<li><a href="/wiki/Seignelay" title="Seignelay">Seignelay</a></li>
+<li><a href="/wiki/Sementron" title="Sementron">Sementron</a></li>
+<li><a href="/wiki/Senan,_Yonne" title="Senan, Yonne">Senan</a></li>
+<li><a href="/wiki/Sennevoy-le-Bas" title="Sennevoy-le-Bas">Sennevoy-le-Bas</a></li>
+<li><a href="/wiki/Sennevoy-le-Haut" title="Sennevoy-le-Haut">Sennevoy-le-Haut</a></li>
+<li><a href="/wiki/Sens" title="Sens">Sens</a></li>
+<li><a href="/wiki/S%C3%A9peaux-Saint-Romain" title="Sépeaux-Saint-Romain">Sépeaux-Saint-Romain</a></li>
+<li><a href="/wiki/Serbonnes" title="Serbonnes">Serbonnes</a></li>
+<li><a href="/wiki/Sergines" title="Sergines">Sergines</a></li>
+<li><a href="/wiki/Sermizelles" title="Sermizelles">Sermizelles</a></li>
+<li><a href="/wiki/Serrigny" title="Serrigny">Serrigny</a></li>
+<li><a href="/wiki/Sery,_Yonne" title="Sery, Yonne">Sery</a></li>
+<li><a href="/wiki/Les_Si%C3%A8ges" title="Les Sièges">Les Sièges</a></li>
+<li><a href="/wiki/Sommecaise" title="Sommecaise">Sommecaise</a></li>
+<li><a href="/wiki/Sormery" title="Sormery">Sormery</a></li>
+<li><a href="/wiki/Soucy,_Yonne" title="Soucy, Yonne">Soucy</a></li>
+<li><a href="/wiki/Soug%C3%A8res-en-Puisaye" title="Sougères-en-Puisaye">Sougères-en-Puisaye</a></li>
+<li><a href="/wiki/Soumaintrain" title="Soumaintrain">Soumaintrain</a></li>
+<li><a href="/wiki/Stigny" title="Stigny">Stigny</a></li>
+<li><a href="/wiki/Subligny,_Yonne" title="Subligny, Yonne">Subligny</a></li>
+<li><a href="/wiki/Talcy,_Yonne" title="Talcy, Yonne">Talcy</a></li>
+<li><a href="/wiki/Tanlay" title="Tanlay">Tanlay</a></li>
+<li><a href="/wiki/Tannerre-en-Puisaye" title="Tannerre-en-Puisaye">Tannerre-en-Puisaye</a></li>
+<li><a href="/wiki/Tharoiseau" title="Tharoiseau">Tharoiseau</a></li>
+<li><a href="/wiki/Tharot" title="Tharot">Tharot</a></li>
+<li><a href="/wiki/Thizy,_Yonne" title="Thizy, Yonne">Thizy</a></li>
+<li><a href="/wiki/Thorey" title="Thorey">Thorey</a></li>
+<li><a href="/wiki/Thorigny-sur-Oreuse" title="Thorigny-sur-Oreuse">Thorigny-sur-Oreuse</a></li>
+<li><a href="/wiki/Thory,_Yonne" title="Thory, Yonne">Thory</a></li>
+<li><a href="/wiki/Thury,_Yonne" title="Thury, Yonne">Thury</a></li>
+<li><a href="/wiki/Tissey" title="Tissey">Tissey</a></li>
+<li><a href="/wiki/Tonnerre,_Yonne" title="Tonnerre, Yonne">Tonnerre</a></li>
+<li><a href="/wiki/Toucy" title="Toucy">Toucy</a></li>
+<li><a href="/wiki/Treigny-Perreuse-Sainte-Colombe" title="Treigny-Perreuse-Sainte-Colombe">Treigny-Perreuse-Sainte-Colombe</a></li>
+<li><a href="/wiki/Trichey" title="Trichey">Trichey</a></li>
+<li><a href="/wiki/Tronchoy" title="Tronchoy">Tronchoy</a></li>
+<li><a href="/wiki/Trucy-sur-Yonne" title="Trucy-sur-Yonne">Trucy-sur-Yonne</a></li>
+<li><a href="/wiki/Turny" title="Turny">Turny</a></li>
+<li><a href="/wiki/Val-de-Mercy" title="Val-de-Mercy">Val-de-Mercy</a></li>
+<li><a href="/wiki/Le_Val-d%27Ocre" title="Le Val-d'Ocre">Le Val-d'Ocre</a></li>
+<li><a href="/wiki/Vallan" title="Vallan">Vallan</a></li>
+<li><a href="/wiki/Les_Vall%C3%A9es-de-la-Vanne" title="Les Vallées-de-la-Vanne">Les Vallées-de-la-Vanne</a></li>
+<li><a href="/wiki/Vallery" title="Vallery">Vallery</a></li>
+<li><a href="/wiki/Valravillon" title="Valravillon">Valravillon</a></li>
+<li><a href="/wiki/Varennes,_Yonne" title="Varennes, Yonne">Varennes</a></li>
+<li><a href="/wiki/Vassy-sous-Pisy" title="Vassy-sous-Pisy">Vassy-sous-Pisy</a></li>
+<li><a href="/wiki/Vaudeurs" title="Vaudeurs">Vaudeurs</a></li>
+<li><a href="/wiki/Vault-de-Lugny" title="Vault-de-Lugny">Vault-de-Lugny</a></li>
+<li><a href="/wiki/Vaumort" title="Vaumort">Vaumort</a></li>
+<li><a href="/wiki/Venizy" title="Venizy">Venizy</a></li>
+<li><a href="/wiki/Venouse" title="Venouse">Venouse</a></li>
+<li><a href="/wiki/Venoy" title="Venoy">Venoy</a></li>
+<li><a href="/wiki/Vergigny" title="Vergigny">Vergigny</a></li>
+<li><a href="/wiki/Verlin" title="Verlin">Verlin</a></li>
+<li><a href="/wiki/Vermenton" title="Vermenton">Vermenton</a></li>
+<li><a href="/wiki/Vernoy,_Yonne" title="Vernoy, Yonne">Vernoy</a></li>
+<li><a href="/wiki/V%C3%A9ron" title="Véron">Véron</a></li>
+<li><a href="/wiki/V%C3%A9zannes" title="Vézannes">Vézannes</a></li>
+<li><a href="/wiki/V%C3%A9zelay" title="Vézelay">Vézelay</a></li>
+<li><a href="/wiki/V%C3%A9zinnes" title="Vézinnes">Vézinnes</a></li>
+<li><a href="/wiki/Villeblevin" title="Villeblevin">Villeblevin</a></li>
+<li><a href="/wiki/Villebougis" title="Villebougis">Villebougis</a></li>
+<li><a href="/wiki/Villech%C3%A9tive" title="Villechétive">Villechétive</a></li>
+<li><a href="/wiki/Villecien" title="Villecien">Villecien</a></li>
+<li><a href="/wiki/Villefargeau" title="Villefargeau">Villefargeau</a></li>
+<li><a href="/wiki/Villemanoche" title="Villemanoche">Villemanoche</a></li>
+<li><a href="/wiki/Villenavotte" title="Villenavotte">Villenavotte</a></li>
+<li><a href="/wiki/Villeneuve-la-Dondagre" title="Villeneuve-la-Dondagre">Villeneuve-la-Dondagre</a></li>
+<li><a href="/wiki/Villeneuve-la-Guyard" title="Villeneuve-la-Guyard">Villeneuve-la-Guyard</a></li>
+<li><a href="/wiki/Villeneuve-l%27Archev%C3%AAque" title="Villeneuve-l'Archevêque">Villeneuve-l'Archevêque</a></li>
+<li><a href="/wiki/Villeneuve-les-Gen%C3%AAts" title="Villeneuve-les-Genêts">Villeneuve-les-Genêts</a></li>
+<li><a href="/wiki/Villeneuve-Saint-Salves" title="Villeneuve-Saint-Salves">Villeneuve-Saint-Salves</a></li>
+<li><a href="/wiki/Villeneuve-sur-Yonne" title="Villeneuve-sur-Yonne">Villeneuve-sur-Yonne</a></li>
+<li><a href="/wiki/Villeperrot" title="Villeperrot">Villeperrot</a></li>
+<li><a href="/wiki/Villeroy,_Yonne" title="Villeroy, Yonne">Villeroy</a></li>
+<li><a href="/wiki/Villethierry" title="Villethierry">Villethierry</a></li>
+<li><a href="/wiki/Villevallier" title="Villevallier">Villevallier</a></li>
+<li><a href="/wiki/Villiers-les-Hauts" title="Villiers-les-Hauts">Villiers-les-Hauts</a></li>
+<li><a href="/wiki/Villiers-Louis" title="Villiers-Louis">Villiers-Louis</a></li>
+<li><a href="/wiki/Villiers-Saint-Beno%C3%AEt" title="Villiers-Saint-Benoît">Villiers-Saint-Benoît</a></li>
+<li><a href="/wiki/Villiers-Vineux" title="Villiers-Vineux">Villiers-Vineux</a></li>
+<li><a href="/wiki/Villon,_Yonne" title="Villon, Yonne">Villon</a></li>
+<li><a href="/wiki/Villy,_Yonne" title="Villy, Yonne">Villy</a></li>
+<li><a href="/wiki/Vincelles,_Yonne" title="Vincelles, Yonne">Vincelles</a></li>
+<li><a href="/wiki/Vincelottes" title="Vincelottes">Vincelottes</a></li>
+<li><a href="/wiki/Vinneuf" title="Vinneuf">Vinneuf</a></li>
+<li><a href="/wiki/Vireaux" title="Vireaux">Vireaux</a></li>
+<li><a href="/wiki/Viviers,_Yonne" title="Viviers, Yonne">Viviers</a></li>
+<li><a href="/wiki/Voisines,_Yonne" title="Voisines, Yonne">Voisines</a></li>
+<li><a href="/wiki/Voutenay-sur-Cure" title="Voutenay-sur-Cure">Voutenay-sur-Cure</a></li>
+<li><a href="/wiki/Yrouerre" title="Yrouerre">Yrouerre</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br/>
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a class="image" href="/wiki/File:Blason_d%C3%A9partement_fr_Yonne_Officiel.svg"><img alt="Stub icon" data-file-height="660" data-file-width="600" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blason_d%C3%A9partement_fr_Yonne_Officiel.svg/27px-Blason_d%C3%A9partement_fr_Yonne_Officiel.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blason_d%C3%A9partement_fr_Yonne_Officiel.svg/41px-Blason_d%C3%A9partement_fr_Yonne_Officiel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blason_d%C3%A9partement_fr_Yonne_Officiel.svg/54px-Blason_d%C3%A9partement_fr_Yonne_Officiel.svg.png 2x" width="27"/></a></td><td><i>This Yonne geographical article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Bonnard,_Yonne&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Yonne-geo-stub" title="Template:Yonne-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Yonne-geo-stub" title="Template talk:Yonne-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Yonne-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20191217213454
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.844 seconds
+Real time usage: 1.140 seconds
+Preprocessor visited node count: 5608/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 92530/2097152 bytes
+Template argument size: 19364/2097152 bytes
+Highest expansion depth: 27/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3328/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.477/10.000 seconds
+Lua memory usage: 8.81 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1006.315      1 -total
+ 91.28%  918.604      1 Template:Infobox_French_commune
+ 89.66%  902.235      1 Template:Infobox_settlement
+ 73.93%  743.977      1 Template:Infobox
+ 23.41%  235.616      7 Template:Wikidata
+ 23.16%  233.025      3 Template:France_metadata_Wikidata
+ 12.34%  124.152      5 Template:Main_other
+  7.08%   71.215      7 Template:Both
+  5.04%   50.683      1 Template:Coord
+  4.83%   48.652      3 Template:Str_find
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15893897-0!canonical and timestamp 20191217213453 and revision id 904267064
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bonnard,_Yonne&amp;oldid=904267064">https://en.wikipedia.org/w/index.php?title=Bonnard,_Yonne&amp;oldid=904267064</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Communes_of_Yonne" title="Category:Communes of Yonne">Communes of Yonne</a></li><li><a href="/wiki/Category:Yonne_geography_stubs" title="Category:Yonne geography stubs">Yonne geography stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Infobox_mapframe_without_OSM_relation_ID_on_Wikidata" title="Category:Infobox mapframe without OSM relation ID on Wikidata">Infobox mapframe without OSM relation ID on Wikidata</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li><li><a href="/wiki/Category:Pages_using_the_Kartographer_extension" title="Category:Pages using the Kartographer extension">Pages using the Kartographer extension</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bonnard%2C+Yonne" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Bonnard%2C+Yonne" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Bonnard,_Yonne" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Bonnard,_Yonne" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Bonnard,_Yonne">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Bonnard,_Yonne&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Bonnard,_Yonne&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Bonnard,_Yonne" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Bonnard,_Yonne" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bonnard,_Yonne&amp;oldid=904267064" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bonnard,_Yonne&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q74824" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bonnard%2C_Yonne&amp;id=904267064" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Bonnard_(Yonne)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bonnard%2C+Yonne">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bonnard%2C+Yonne&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Bonnard,_Yonne&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Bonnard_(Yonne)" hreflang="nan" lang="nan" title="Bonnard (Yonne) – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Bonnard_(Yonne)" hreflang="ca" lang="ca" title="Bonnard (Yonne) – Catalan">Català</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Bonnard" hreflang="ceb" lang="ceb" title="Bonnard – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Bonnard" hreflang="de" lang="de" title="Bonnard – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Bonnard_(Yonne)" hreflang="es" lang="es" title="Bonnard (Yonne) – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Bonnard_(Yonne)" hreflang="eo" lang="eo" title="Bonnard (Yonne) – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Bonnard_(Yonne)" hreflang="eu" lang="eu" title="Bonnard (Yonne) – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Bonnard_(Yonne)" hreflang="fr" lang="fr" title="Bonnard (Yonne) – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Bonnard_(Yonne)" hreflang="it" lang="it" title="Bonnard (Yonne) – Italian">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%91%D0%BE%D0%BD%D0%BD%D0%B0%D1%80_(%D0%99%D0%BE%D0%BD%D0%BD%D0%B0)" hreflang="kk" lang="kk" title="Боннар (Йонна) – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Bonnard_(Icauna)" hreflang="la" lang="la" title="Bonnard (Icauna) – Latin">Latina</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Bonnard_(Yonne)" hreflang="hu" lang="hu" title="Bonnard (Yonne) – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Bonnard,_Yonne" hreflang="ms" lang="ms" title="Bonnard, Yonne – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Bonnard" hreflang="nl" lang="nl" title="Bonnard – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ce"><a class="interlanguage-link-target" href="https://ce.wikipedia.org/wiki/%D0%91%D0%BE%D0%BD%D0%BD%D0%B0%D1%80_(%D0%99%D0%BE%D0%BD%D0%BD%D0%B0)" hreflang="ce" lang="ce" title="Боннар (Йонна) – Chechen">Нохчийн</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Bonnard_(Yonne)" hreflang="oc" lang="oc" title="Bonnard (Yonne) – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Bonnard" hreflang="uz" lang="uz" title="Bonnard – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pms"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Bonnard" hreflang="pms" lang="pms" title="Bonnard – Piedmontese">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Bonnard" hreflang="pl" lang="pl" title="Bonnard – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Bonnard" hreflang="pt" lang="pt" title="Bonnard – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Bonnard,_Yonne" hreflang="ro" lang="ro" title="Bonnard, Yonne – Romanian">Română</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Bonnard,_Yonne" hreflang="en-simple" lang="en-simple" title="Bonnard, Yonne – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Bonnard_(Yonne)" hreflang="sk" lang="sk" title="Bonnard (Yonne) – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D0%BD%D0%B0%D1%80" hreflang="sr" lang="sr" title="Бонар – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Bonnard" hreflang="sh" lang="sh" title="Bonnard – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Bonnard,_Yonne" hreflang="sv" lang="sv" title="Bonnard, Yonne – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-bug"><a class="interlanguage-link-target" href="https://bug.wikipedia.org/wiki/Bonnard,_Yonne" hreflang="bug" lang="bug" title="Bonnard, Yonne – Buginese">ᨅᨔ ᨕᨘᨁᨗ</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D0%BD%D0%BD%D0%B0%D1%80_(%D0%99%D0%BE%D0%BD%D0%BD%D0%B0)" hreflang="uk" lang="uk" title="Боннар (Йонна) – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Bonnard,_Yonne" hreflang="vi" lang="vi" title="Bonnard, Yonne – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a class="interlanguage-link-target" href="https://vo.wikipedia.org/wiki/Bonnard_(Yonne)" hreflang="vo" lang="vo" title="Bonnard (Yonne) – Volapük">Volapük</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Bonnard,_Yonne" hreflang="war" lang="war" title="Bonnard, Yonne – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8D%9A%E7%BA%B3%E5%B0%94" hreflang="zh" lang="zh" title="博纳尔 – Chinese">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q74824#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 1 July 2019, at 01:57<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Bonnard,_Yonne&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.844","walltime":"1.140","ppvisitednodes":{"value":5608,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":92530,"limit":2097152},"templateargumentsize":{"value":19364,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3328,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1006.315      1 -total"," 91.28%  918.604      1 Template:Infobox_French_commune"," 89.66%  902.235      1 Template:Infobox_settlement"," 73.93%  743.977      1 Template:Infobox"," 23.41%  235.616      7 Template:Wikidata"," 23.16%  233.025      3 Template:France_metadata_Wikidata"," 12.34%  124.152      5 Template:Main_other","  7.08%   71.215      7 Template:Both","  5.04%   50.683      1 Template:Coord","  4.83%   48.652      3 Template:Str_find"]},"scribunto":{"limitreport-timeusage":{"value":"0.477","limit":"10.000"},"limitreport-memusage":{"value":9242218,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20191217213454","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bonnard, Yonne","url":"https:\/\/en.wikipedia.org\/wiki\/Bonnard,_Yonne","sameAs":"http:\/\/www.wikidata.org\/entity\/Q74824","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q74824","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-02-22T12:43:17Z","dateModified":"2019-07-01T01:57:20Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/34\/Bonnard-FR-89-%C3%A9glise-01.jpg","headline":"commune in Yonne, France"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":141,"wgHostname":"mw1241"});});</script>
+
+
+</body></html>

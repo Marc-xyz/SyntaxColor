@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Text Santa - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfiongpAADwAAB2oilIAAAAY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Text_Santa","wgTitle":"Text Santa","wgCurRevisionId":926814299,"wgRevisionId":926814299,"wgArticleId":33778909,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","Webarchive template wayback links","Use dmy dates from August 2014","Use British English from August 2014","Pages using deprecated image syntax","2010s British television series",
+"2011 British television series debuts","2015 British television series endings","2011 establishments in the United Kingdom","2015 disestablishments in the United Kingdom","British telethons","Donation","ITV television programmes","Television series by ITV Studios","Organizations established in 2011","Organizations disestablished in 2015","Christmas organizations"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Text_Santa","wgRelevantArticleId":33778909,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,
+"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7708404","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert",
+"ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Text_Santa.svg/1200px-Text_Santa.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Text_Santa" rel="alternate"/>
+<link href="/w/index.php?title=Text_Santa&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Text_Santa&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Text_Santa" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Text_Santa rootpage-Text_Santa skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en"><i>Text Santa</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vevent" style="width:22em"><tbody><tr><th class="summary" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em; line-height: normal;">Text Santa</th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Text_Santa.svg"><img alt="Text Santa.svg" data-file-height="294" data-file-width="250" decoding="async" height="235" src="//upload.wikimedia.org/wikipedia/en/thumb/9/91/Text_Santa.svg/200px-Text_Santa.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/91/Text_Santa.svg/300px-Text_Santa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/91/Text_Santa.svg/400px-Text_Santa.svg.png 2x" width="200"/></a></td></tr><tr><th scope="row">Presented by</th><td class="attendee"><a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a><br/><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a><br/><a href="/wiki/Declan_Donnelly" title="Declan Donnelly">Declan Donnelly</a><br/><a href="/wiki/Anthony_McPartlin" title="Anthony McPartlin">Anthony McPartlin</a><br/><a href="/wiki/Christine_Lampard" title="Christine Lampard">Christine Lampard</a><br/><a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a><br/><a href="/wiki/Alesha_Dixon" title="Alesha Dixon">Alesha Dixon</a><br/><a href="/wiki/Amanda_Holden" title="Amanda Holden">Amanda Holden</a><br/><a href="/wiki/Caroline_Flack" title="Caroline Flack">Caroline Flack</a><br/><a href="/wiki/Olly_Murs" title="Olly Murs">Olly Murs</a></td></tr><tr><th scope="row">Opening theme</th><td>"Text Santa" theme by A-MNEMONIC Music</td></tr><tr><th scope="row">Country of origin</th><td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td></tr><tr><th class="summary" colspan="2" style="text-align:center;background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em;">Production</th></tr><tr><th scope="row">Production location(s)</th><td><a href="/wiki/The_London_Studios" title="The London Studios">The London Studios</a></td></tr><tr><th scope="row">Production <span class="nowrap">company(s)</span></th><td><a href="/wiki/ITV_Studios" title="ITV Studios">ITV Studios</a></td></tr><tr><th class="summary" colspan="2" style="text-align:center;background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em;">Release</th></tr><tr><th scope="row">Original network</th><td><a href="/wiki/ITV_(TV_channel)" title="ITV (TV channel)">ITV</a></td></tr><tr><th scope="row">Picture format</th><td><a class="mw-redirect" href="/wiki/16:9" title="16:9">16:9</a>: <a href="/wiki/1080i" title="1080i">1080i</a> (<a href="/wiki/High-definition_television" title="High-definition television">HDTV</a>)</td></tr><tr><th scope="row">Original release</th><td>11 December 2011<span style="display:none"> (<span class="bday dtstart published updated">2011-12-11</span>)</span> –<br/>18 December 2015<span style="display:none"> (<span class="dtend">2015-12-18</span>)</span></td></tr><tr><th class="summary" colspan="2" style="text-align:center;background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em;">Chronology</th></tr><tr><th scope="row">Related shows</th><td><i><a href="/wiki/From_the_Heart_(TV_campaign)" title="From the Heart (TV campaign)">From the Heart</a></i></td></tr><tr><th class="summary" colspan="2" style="text-align:center;background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em;">External links</th></tr><tr><td class="url" colspan="2" style="text-align:center"><a class="external text" href="http://www.textsanta.co.uk" rel="nofollow">Website</a></td></tr></tbody></table>
+<p><i><b>Text Santa</b></i> was a charity initiative set up in 2011 by <a href="/wiki/ITV_(TV_network)" title="ITV (TV network)">ITV</a> to support UK-based charities during the Christmas period.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> The appeal to the public is to donate money mainly via text donation and profits from merchandise.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> The telethons have been hosted by popular <a href="/wiki/ITV_(TV_channel)" title="ITV (TV channel)">ITV</a> presenters including <a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a>, <a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a> and <a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> The 2015 appeal show was the last after <a href="/wiki/ITV_(TV_network)" title="ITV (TV network)">ITV</a> decided to axe the show to make way for an all-year appeal.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Music"><span class="tocnumber">1</span> <span class="toctext">Music</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Official_single"><span class="tocnumber">1.1</span> <span class="toctext">Official single</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Charities"><span class="tocnumber">2</span> <span class="toctext">Charities</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Overview"><span class="tocnumber">3</span> <span class="toctext">Overview</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Presenters"><span class="tocnumber">3.1</span> <span class="toctext">Presenters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#2011_appeal"><span class="tocnumber">4</span> <span class="toctext">2011 appeal</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#2012_appeal"><span class="tocnumber">5</span> <span class="toctext">2012 appeal</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#2013_appeal"><span class="tocnumber">6</span> <span class="toctext">2013 appeal</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#2014_appeal"><span class="tocnumber">7</span> <span class="toctext">2014 appeal</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#2015_appeal"><span class="tocnumber">8</span> <span class="toctext">2015 appeal</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Text_Santa&amp;action=edit&amp;section=1" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <i>Text Santa</i> 2015 appeal theme music was created by London-based music production company A-MNEMONIC Music <a class="external text" href="http://www.a-mnemonic.com" rel="nofollow">Official Website</a>.
+</p><p>In previous years the theme music that was used was created by British composer <a href="/wiki/Leigh_Haggerwood" title="Leigh Haggerwood">Leigh Haggerwood</a> of <a class="mw-redirect" href="/wiki/The_Florin_Street_Band" title="The Florin Street Band">The Florin Street Band</a>, who re-worked his Christmas song "<a href="/wiki/My_Favourite_Time_of_Year" title="My Favourite Time of Year">My Favourite Time of Year</a>" especially for the appeal, creating theme and background music along with various other original compositions. The song – with its sweeping string melodies and critically acclaimed Victorian-themed music video<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> has gained worldwide popularity and was recently performed by the United States Army Band in Washington D.C. Leigh Haggerwood is proud of the songs association with the <i>Text Santa</i> campaign and has pledged to support it each year.
+</p><p>"My Favourite Time of Year"  was not used for the 2015 appeal.
+</p>
+<h3><span class="mw-headline" id="Official_single">Official single</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Text_Santa&amp;action=edit&amp;section=2" title="Edit section: Official single">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2013, the cast of <i><a href="/wiki/The_Big_Reunion" title="The Big Reunion">The Big Reunion</a></i> released a cover of "<a href="/wiki/I_Wish_It_Could_Be_Christmas_Everyday#The_Big_Reunion_version" title="I Wish It Could Be Christmas Everyday">I Wish It Could Be Christmas Everyday</a>", with all proceeds going to the <i>Text Santa</i> charities. The single peaked at 21 in the UK singles charts.
+</p>
+<h2><span class="mw-headline" id="Charities">Charities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Text_Santa&amp;action=edit&amp;section=3" title="Edit section: Charities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>All of the money raised gets split between the <a href="/wiki/Charitable_organization" title="Charitable organization">charities</a> supported by the appeal. In 2011, there were nine chosen charities, in 2012, 2013 and 2014, there were six and in 2015, there were three. 
+</p>
+<table class="wikitable" style="text-align:center; font-size:96%;">
+
+<tbody><tr>
+<th>2011</th>
+<th>2012</th>
+<th>2013</th>
+<th>2014</th>
+<th>2015
+</th></tr>
+<tr>
+<td colspan="4"><a href="/wiki/Age_UK" title="Age UK">Age UK</a></td>
+<td><a href="/wiki/Macmillan_Cancer_Support" title="Macmillan Cancer Support">Macmillan Cancer Support</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crisis_(charity)" title="Crisis (charity)">Crisis</a></td>
+<td><a href="/wiki/Anthony_Nolan" title="Anthony Nolan">Anthony Nolan</a></td>
+<td><a href="/wiki/BeatBullying" title="BeatBullying">BeatBullying</a></td>
+<td><a href="/wiki/The_Guide_Dogs_for_the_Blind_Association" title="The Guide Dogs for the Blind Association">The Guide Dogs for the Blind Association</a></td>
+<td><a href="/wiki/Make-A-Wish_Foundation" title="Make-A-Wish Foundation">Make-A-Wish Foundation</a>
+</td></tr>
+<tr>
+<td colspan="2"><a href="/wiki/Carers_UK" title="Carers UK">Carers UK</a></td>
+<td><a href="/wiki/Save_the_Children" title="Save the Children">Save the Children</a></td>
+<td><a href="/wiki/Carers_UK" title="Carers UK">Carers UK</a></td>
+<td><a href="/wiki/Save_the_Children" title="Save the Children">Save the Children</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Samaritans_(charity)" title="Samaritans (charity)">Samaritans</a></td>
+<td><a class="mw-redirect" href="/wiki/Marie_Curie_Cancer_Care" title="Marie Curie Cancer Care">Marie Curie Cancer Care</a></td>
+<td><a href="/wiki/British_Heart_Foundation" title="British Heart Foundation">British Heart Foundation</a></td>
+<td><a href="/wiki/Teenage_Cancer_Trust" title="Teenage Cancer Trust">Teenage Cancer Trust</a></td>
+<td class="table-na" data-sort-value="" rowspan="6" style="background: #ececec; color: #2C2C2C; vertical-align: middle; font-size: smaller; text-align: center;">N/A
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/WRVS" title="WRVS">WRVS</a></td>
+<td>Together for Short Lives</td>
+<td><a href="/wiki/CLIC_Sargent" title="CLIC Sargent">CLIC Sargent</a></td>
+<td>Together for Short Lives
+</td></tr>
+<tr>
+<td><a href="/wiki/Great_Ormond_Street_Hospital" title="Great Ormond Street Hospital">Great Ormond Street Hospital</a></td>
+<td>Whizz-Kidz</td>
+<td>Help the Hospices</td>
+<td>WellChild
+</td></tr>
+<tr>
+<td>The Noah's Ark Appeal</td>
+<td class="table-na" data-sort-value="" rowspan="3" style="background: #ececec; color: #2C2C2C; vertical-align: middle; font-size: smaller; text-align: center;">N/A</td>
+<td class="table-na" data-sort-value="" rowspan="3" style="background: #ececec; color: #2C2C2C; vertical-align: middle; font-size: smaller; text-align: center;">N/A</td>
+<td class="table-na" data-sort-value="" rowspan="3" style="background: #ececec; color: #2C2C2C; vertical-align: middle; font-size: smaller; text-align: center;">N/A
+</td></tr>
+<tr>
+<td>Helping Hand
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Royal_Hospital_for_Sick_Children,_Glasgow" title="Royal Hospital for Sick Children, Glasgow">Yorkhill Children's Foundation</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Text_Santa&amp;action=edit&amp;section=4" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Presenters">Presenters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Text_Santa&amp;action=edit&amp;section=5" title="Edit section: Presenters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align:center; font-size:90%;">
+
+<tbody><tr>
+<th scope="col">No.
+</th>
+<th scope="col">Broadcast date
+</th>
+<th scope="col">Total raised
+</th>
+<th scope="col">Presenters
+</th>
+<th scope="col">ITV rating (millions)
+</th></tr>
+<tr>
+<th scope="row">1
+</th>
+<td>11 December 2011 <small>(launch show)</small><br/>24 December 2011 <small>(main show)</small>
+</td>
+<td>£4,200,000
+</td>
+<td><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a> <small>(launch show)</small><br/><a href="/wiki/Christine_Lampard" title="Christine Lampard">Christine Lampard</a> <small>(launch show)</small><br/><a href="/wiki/Anthony_McPartlin" title="Anthony McPartlin">Anthony McPartlin</a><br/><a href="/wiki/Declan_Donnelly" title="Declan Donnelly">Declan Donnelly</a><br/><a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a>
+</td>
+<td>3.79 <small>(launch show)</small><br/>3.87
+</td></tr>
+<tr>
+<th scope="row">2
+</th>
+<td><span class="nowrap">21 December 2012</span>
+</td>
+<td>£5,500,000
+</td>
+<td rowspan="2"><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a><br/><a href="/wiki/Christine_Lampard" title="Christine Lampard">Christine Lampard</a><br/><a href="/wiki/Anthony_McPartlin" title="Anthony McPartlin">Anthony McPartlin</a><br/><a href="/wiki/Declan_Donnelly" title="Declan Donnelly">Declan Donnelly</a><br/><a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a><br/><a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a>
+</td>
+<td>4.82
+</td></tr>
+<tr>
+<th scope="row">3
+</th>
+<td><span class="nowrap">20 December 2013</span>
+</td>
+<td>£5,100,000<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</td>
+<td>4.41
+</td></tr>
+<tr>
+<th scope="row">4
+</th>
+<td><span class="nowrap">19 December 2014</span>
+</td>
+<td>£6,200,000<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</td>
+<td><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a><br/><a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a><br/><a href="/wiki/Anthony_McPartlin" title="Anthony McPartlin">Anthony McPartlin</a><br/><a href="/wiki/Declan_Donnelly" title="Declan Donnelly">Declan Donnelly</a><br/><a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a><br/><a href="/wiki/Alesha_Dixon" title="Alesha Dixon">Alesha Dixon</a>
+</td>
+<td>3.86
+</td></tr>
+<tr>
+<th scope="row">5
+</th>
+<td><span class="nowrap">18 December 2015</span>
+</td>
+<td>£11,000,000<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</td>
+<td><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a><br/><a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a><br/><a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a><br/><a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a><br/><a href="/wiki/Alesha_Dixon" title="Alesha Dixon">Alesha Dixon</a><br/><a href="/wiki/Stephen_Mulhern" title="Stephen Mulhern">Stephen Mulhern</a><br/><a href="/wiki/Amanda_Holden" title="Amanda Holden">Amanda Holden</a><br/><a href="/wiki/Caroline_Flack" title="Caroline Flack">Caroline Flack</a><br/><a href="/wiki/Olly_Murs" title="Olly Murs">Olly Murs</a>
+</td>
+<td>3.23
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="2011_appeal">2011 appeal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Text_Santa&amp;action=edit&amp;section=6" title="Edit section: 2011 appeal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 2011 appeal aired in two parts. The launch show aired on 11 December 2011 and was hosted by <a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a> and <a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a>. The main show aired on Christmas Eve (24 December 2011) with <a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a> and <a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a> as presenters.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Show</th>
+<th>Date</th>
+<th>Time Slots</th>
+<th>Presenters
+</th></tr>
+<tr>
+<td style="width:100px;"><b>Launch Show</b></td>
+<td style="width:205px;">11 December 2011</td>
+<td style="width:75px;">21:30–22:35</td>
+<td><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a><br/><a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a>
+</td></tr>
+<tr>
+<td rowspan="2"><b>Main Show</b></td>
+<td rowspan="2">24 December 2011</td>
+<td>19:30–21:00</td>
+<td><a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a>
+</td></tr>
+<tr>
+<td>21:00–22:00</td>
+<td><a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a>
+</td></tr></tbody></table>
+<dl><dt>Events</dt></dl>
+<ul><li>On 27 November 2011, at <a class="mw-redirect" href="/wiki/The_Kia_Oval" title="The Kia Oval">The Kia Oval Cricket Ground</a>, thousands of people attempted a <a class="mw-redirect" href="/wiki/Guinness_World_Record" title="Guinness World Record">Guinness World Record</a> for the largest Santa gathering. <a href="/wiki/Stephen_Mulhern" title="Stephen Mulhern">Stephen Mulhern</a> and <a href="/wiki/Diversity_(dance_troupe)" title="Diversity (dance troupe)">Diversity</a> entertained the participants. However, not enough people turned out for the record attempt of 13,200 Santas.</li></ul>
+<h2><span class="mw-headline" id="2012_appeal">2012 appeal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Text_Santa&amp;action=edit&amp;section=7" title="Edit section: 2012 appeal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 2012 telethon aired live on 21 December 2012. The first hour of the telethon was hosted by <a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a>, the second by <a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a> and <a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a>, and the third by <a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a> and <a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a>, all from <a href="/wiki/The_London_Studios" title="The London Studios">The London Studios</a>.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Show</th>
+<th>Date</th>
+<th>Timeslots</th>
+<th>Presenters
+</th></tr>
+<tr>
+<td style="width:150px;"><b><i>Text Santa Starts Here</i><br/><small>(launch show)</small></b></td>
+<td rowspan="5">21 December 2012</td>
+<td style="width:75px;">18:55–19:00</td>
+<td rowspan="2"><a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a>
+</td></tr>
+<tr>
+<td rowspan="3"><b>Main show</b></td>
+<td>20:00–21:00
+</td></tr>
+<tr>
+<td>21:00–22:00</td>
+<td><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a><br/><a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a>
+</td></tr>
+<tr>
+<td>22:00–23:00</td>
+<td><a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a><br/><a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a>
+</td></tr>
+<tr>
+<td><b><i>Text Santa: One More Time</i><br/><small>(highlights show)</small></b></td>
+<td>00:00–01:15</td>
+<td><a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a><br/><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a><br/><a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a><br/><a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a> <br/><a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a>
+</td></tr></tbody></table>
+<dl><dt>Within other shows</dt></dl>
+<ul><li>A special edition of <i><a href="/wiki/The_Jeremy_Kyle_Show" title="The Jeremy Kyle Show">The Jeremy Kyle Show</a></i> aired at 09:25 featuring people with many disabilities and talked about how the <i>Text Santa</i> charities helped them and their families get through their difficulties. Kyle treated these people with special trips and featured a guest appearance from <a href="/wiki/Only_Boys_Aloud" title="Only Boys Aloud">Only Boys Aloud</a>.</li>
+<li>A special edition of <i><a href="/wiki/Dickinson%27s_Real_Deal" title="Dickinson's Real Deal">Dickinson's Real Deal</a></i> from <a href="/wiki/Ilford" title="Ilford">Ilford</a> aired at 15:00 for <i>Text Santa</i>.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></li>
+<li>A celebrity special of <i><a class="mw-redirect" href="/wiki/The_Chase_(UK_game_show)" title="The Chase (UK game show)">The Chase</a></i> aired at 17:00 on 21 December for <i>Text Santa</i>, featuring <a href="/wiki/Bradley_Walsh" title="Bradley Walsh">Bradley Walsh</a> as host with contestants <a href="/wiki/Lorraine_Kelly" title="Lorraine Kelly">Lorraine Kelly</a>, <a href="/wiki/Craig_Charles" title="Craig Charles">Craig Charles</a>, <a href="/wiki/Jamelia" title="Jamelia">Jamelia</a> and <a href="/wiki/Dom_Joly" title="Dom Joly">Dom Joly</a>. Together they raised £22,000 for the <i>Text Santa</i> charities.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></li>
+<li>A special edition of <i><a href="/wiki/Celebrity_Juice" title="Celebrity Juice">Celebrity Juice</a></i> aired on <a href="/wiki/ITV_(TV_channel)" title="ITV (TV channel)">ITV</a> &amp; <a href="/wiki/UTV_(TV_channel)" title="UTV (TV channel)">UTV</a> at 23.15 and on <a class="mw-redirect" href="/wiki/STV_(TV_network)" title="STV (TV network)">STV</a> at 00:00 on 21 December and was once again presented by <a class="mw-redirect" href="/wiki/Keith_Lemon" title="Keith Lemon">Keith Lemon</a>, <a href="/wiki/Fearne_Cotton" title="Fearne Cotton">Fearne Cotton</a> and <a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a> with panellists <a href="/wiki/Davina_McCall" title="Davina McCall">Davina McCall</a>, <a href="/wiki/Louis_Smith_(gymnast)" title="Louis Smith (gymnast)">Louis Smith</a>, <a href="/wiki/Aston_Merrygold" title="Aston Merrygold">Aston Merrygold</a>, <a href="/wiki/Stacey_Solomon" title="Stacey Solomon">Stacey Solomon</a> and <a href="/wiki/Simon_Gregson" title="Simon Gregson">Simon Gregson</a>.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></li>
+<li><a href="/wiki/Laura_Hamilton" title="Laura Hamilton">Laura Hamilton</a> and <a href="/wiki/Jeff_Brazier" title="Jeff Brazier">Jeff Brazier</a> presented a special 45-minute <a href="/wiki/CITV" title="CITV">CITV</a> programme at 16:00 on 21 December called <i>Text Santa: CITV Special</i>.</li></ul>
+<dl><dt>Events</dt></dl>
+<ul><li>On 2 December 2012, around 8,500 people took part in a 'Santa Dash' in <a href="/wiki/Liverpool" title="Liverpool">Liverpool</a>, attempting a <a class="mw-redirect" href="/wiki/Guinness_World_Record" title="Guinness World Record">Guinness World Record</a> for the largest Santa gathering whilst raising money for <i>Text Santa</i>, however they didn't break the record of 13,200 santas.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup></li>
+<li>On 6 December 2012, the <i>Biggest Bag Pack Ever</i> took place in 200 <a href="/wiki/Asda" title="Asda">Asda</a> stores nationwide,<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> celebrities including <a href="/wiki/Eamonn_Holmes" title="Eamonn Holmes">Eamonn Holmes</a> and <a href="/wiki/Ruth_Langsford" title="Ruth Langsford">Ruth Langsford</a> helped out in the <a href="/wiki/Watford" title="Watford">Watford</a> branch.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></li>
+<li><a href="/wiki/EBay" title="EBay">eBay</a> auctions took place to raise money for <i>Text Santa</i>, items sold included <i><a href="/wiki/This_Morning_(TV_programme)" title="This Morning (TV programme)">This Morning's</a></i> sofa which sold for £1,200 and a tour of the <i><a class="mw-redirect" href="/wiki/Daybreak_(2010_TV_series)" title="Daybreak (2010 TV series)">Daybreak</a></i> studios in <a href="/wiki/The_London_Studios" title="The London Studios">London</a> which sold for £510.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup></li></ul>
+<h2><span class="mw-headline" id="2013_appeal">2013 appeal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Text_Santa&amp;action=edit&amp;section=8" title="Edit section: 2013 appeal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 2013 telethon aired live on 20 December 2013. The first hour of the telethon was hosted by <a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a>, the second by <a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a> and <a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a>, and the third and final hour by <a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a> and <a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a>, all broadcast live from <a href="/wiki/The_London_Studios" title="The London Studios">The London Studios</a>.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</p><p>Morrisons, Santander and Vodafone were <i>Text Santa'</i>s official partners for the 2013 appeal.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup><sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup><sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup>
+</p><p>An official charity single by the cast of <i><a href="/wiki/The_Big_Reunion" title="The Big Reunion">The Big Reunion</a></i>, performing a cover of "<a href="/wiki/I_Wish_It_Could_Be_Christmas_Everyday" title="I Wish It Could Be Christmas Everyday">I Wish It Could Be Christmas Everyday</a>" was released in December 2013 to raise money for <i>Text Santa</i>.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Show</th>
+<th>Date</th>
+<th>Timeslots</th>
+<th>Presenters
+</th></tr>
+<tr>
+<td style="width:150px;"><b><i>Text Santa Starts Here</i><br/><small>(launch show)</small></b></td>
+<td rowspan="5">20 December 2013</td>
+<td style="width:75px;">18:55–19:00</td>
+<td rowspan="2"><a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a>
+</td></tr>
+<tr>
+<td rowspan="3"><b>Main show</b></td>
+<td>20:00–21:00
+</td></tr>
+<tr>
+<td>21:00–22:00</td>
+<td><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a><br/><a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a>
+</td></tr>
+<tr>
+<td>22:00–23:05</td>
+<td><a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a><br/><a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a>
+</td></tr>
+<tr>
+<td><b>Highlights show</b></td>
+<td>23:50–01:05</td>
+<td><a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a><br/><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a><br/><a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a><br/><a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a><br/><a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a>
+</td></tr>
+</tbody></table>
+<dl><dt>Within other shows</dt></dl>
+<ul><li>15p from each vote on the entertainment show <i><a class="mw-redirect" href="/wiki/Stepping_Out_(UK_TV_series)" title="Stepping Out (UK TV series)">Stepping Out</a></i>, went to the <i>Text Santa</i> charities.</li>
+<li><i>This Morning's</i> 'Take a Moment' campaign raised £250,000 for the <i>Text Santa</i> appeal. The total was announced live on <i><a href="/wiki/This_Morning_(TV_programme)" title="This Morning (TV programme)">This Morning</a></i> in December 2013 by <a href="/wiki/Ruth_Langsford" title="Ruth Langsford">Ruth Langsford</a>, <a href="/wiki/Andi_Peters" title="Andi Peters">Andi Peters</a> and <a href="/wiki/Eamonn_Holmes" title="Eamonn Holmes">Eamonn Holmes</a>.</li>
+<li>On 20 December, there was a <i>Text Santa</i> 'takeover' on ITV, with some of the daytime programmes showing donation clips throughout the daytime schedule.</li>
+<li>A <i>Text Santa</i> special of <i><a href="/wiki/The_Jeremy_Kyle_Show" title="The Jeremy Kyle Show">The Jeremy Kyle Show</a></i> aired at 09:25 on 20 December. It starred <a href="/wiki/Jeremy_Kyle" title="Jeremy Kyle">Jeremy Kyle</a> who gave deserving children a once-in-a-lifetime opportunity to visit <a href="/wiki/Lapland_(Finland)" title="Lapland (Finland)">Lapland</a>.</li>
+<li>A <i>Text Santa</i> special of <i><a href="/wiki/60_Minute_Makeover" title="60 Minute Makeover">Peter Andre's 60 Minute Makeover</a></i> aired from <a href="/wiki/Burgess_Hill" title="Burgess Hill">Burgess Hill</a> in <a href="/wiki/West_Sussex" title="West Sussex">West Sussex</a> at 14:00 on 20 December, where the team performed a makeover of the lounge at The Cherry Tree Activity Centre, run by the <i>Text Santa</i> charity <a href="/wiki/Age_UK" title="Age UK">Age UK</a>.</li>
+<li>A <i>Text Santa</i> special of <i><a href="/wiki/Dickinson%27s_Real_Deal" title="Dickinson's Real Deal">Dickinson's Real Deal</a></i> aired from <a href="/wiki/Edgbaston" title="Edgbaston">Edgbaston</a> in <a href="/wiki/Birmingham" title="Birmingham">Birmingham</a> at 15:00 on 20 December.</li>
+<li>A <i>Text Santa</i> special of <i><a href="/wiki/Show_Me_the_Telly" title="Show Me the Telly">Show Me the Telly</a></i> aired at 16:00 on 20 December. The show, presented by <a href="/wiki/Richard_Bacon_(broadcaster)" title="Richard Bacon (broadcaster)">Richard Bacon</a> featured "legends" <a href="/wiki/Chris_Tarrant" title="Chris Tarrant">Chris Tarrant</a>, <a href="/wiki/Simon_Gregson" title="Simon Gregson">Simon Gregson</a> and <a href="/wiki/Vanessa_Feltz" title="Vanessa Feltz">Vanessa Feltz</a> and television critics <a href="/wiki/Boyd_Hilton" title="Boyd Hilton">Boyd Hilton</a>, <a href="/wiki/Ian_Hyland" title="Ian Hyland">Ian Hyland</a> and <a href="/wiki/Kevin_O%27Sullivan_(journalist)" title="Kevin O'Sullivan (journalist)">Kevin O'Sullivan</a> who won £3,000 for <i>Text Santa</i>.</li>
+<li>A celebrity special of <i><a class="mw-redirect" href="/wiki/The_Chase_(UK_game_show)" title="The Chase (UK game show)">The Chase</a></i> aired at 17:00 on 20 December, featuring <a href="/wiki/Bradley_Walsh" title="Bradley Walsh">Bradley Walsh</a> as host with celebrity contestants from the <a href="/wiki/ITV_News" title="ITV News">ITV News</a>, <a href="/wiki/Matt_Barbet" title="Matt Barbet">Matt Barbet</a>, <a href="/wiki/Alastair_Stewart" title="Alastair Stewart">Alastair Stewart</a>, <a href="/wiki/Romilly_Weeks" title="Romilly Weeks">Romilly Weeks</a> and <a href="/wiki/Charlene_White" title="Charlene White">Charlene White</a>. Together they raised £55,000 for the <i>Text Santa</i> appeal.</li></ul>
+<dl><dt>Events</dt></dl>
+<ul><li>On 5 December 2013, <i>Text Santa</i> broke the <a href="/wiki/Guinness_World_Records" title="Guinness World Records">Guinness World Record</a> for the largest number of pantomime horses in a race over 100 metres.</li>
+<li><a href="/wiki/EBay" title="EBay">eBay</a> auctions took place to raise money for <i>Text Santa</i>, items sold included <a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield's</a> face made of chocolate.</li></ul>
+<h2><span class="mw-headline" id="2014_appeal">2014 appeal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Text_Santa&amp;action=edit&amp;section=9" title="Edit section: 2014 appeal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In May 2014, it was announced that <i>Text Santa</i> would return for a fourth year  in December 2014. The telethon aired live on 19 December 2014, a couple of weeks after the launch show, hosted by <a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a>.
+</p><p>The presenting line-up changed slightly. With Holly Willoughby off on maternity leave, <a href="/wiki/Alesha_Dixon" title="Alesha Dixon">Alesha Dixon</a> joined <a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a> for a segment of the show, while <a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a> was reunited with his former <i><a href="/wiki/Dancing_on_Ice" title="Dancing on Ice">Dancing on Ice</a></i> co-host <a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a>. <a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a> returned to the show as well.
+</p><p>On 19 December, the  first part of <i>Text Santa</i> was hosted by <a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a>, the second by <a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a> and <a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a>, and the remainder of the show by <a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a> and <a href="/wiki/Alesha_Dixon" title="Alesha Dixon">Alesha Dixon</a>.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup> It was broadcast from <a href="/wiki/The_London_Studios" title="The London Studios">The London Studios</a>.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Show</th>
+<th>Date</th>
+<th>Timeslots</th>
+<th>Presenters
+</th></tr>
+<tr>
+<td rowspan="2"><b><i>Phillip's Live 24 Hour TV Marathon</i><br/><small>(launch show)</small></b></td>
+<td>1 December 2014</td>
+<td style="width:75px;">11:00–23:59</td>
+<td rowspan="2"><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a>
+</td></tr>
+<tr>
+<td>2 December 2014</td>
+<td>00:00–11:00
+</td></tr>
+<tr>
+<td rowspan="3"><b>Main show</b></td>
+<td rowspan="4">19 December 2014</td>
+<td>20:00–21:20</td>
+<td><a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a>
+</td></tr>
+<tr>
+<td>21:20–22:15</td>
+<td><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a><br/><a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a>
+</td></tr>
+<tr>
+<td>22:15–23:20</td>
+<td><a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a><br/><a href="/wiki/Alesha_Dixon" title="Alesha Dixon">Alesha Dixon</a>
+</td></tr>
+<tr>
+<td><b>Highlights show</b></td>
+<td>00:05–01:25</td>
+<td><a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a><br/><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a><br/><a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a><br/><a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a><br/><a href="/wiki/Alesha_Dixon" title="Alesha Dixon">Alesha Dixon</a>
+</td></tr>
+</tbody></table>
+<dl><dt>Within other shows</dt></dl>
+<ul><li>15p from each vote on <i><a class="mw-redirect" href="/wiki/I%27m_a_Celebrity...Get_Me_Out_of_Here!_(UK_TV_series)" title="I'm a Celebrity...Get Me Out of Here! (UK TV series)">I'm a Celebrity...Get Me Out of Here!</a></i>, went to the 2014 <i>Text Santa</i> charities.</li>
+<li>A <i>Text Santa</i> special of <i><a href="/wiki/The_Jeremy_Kyle_Show" title="The Jeremy Kyle Show">The Jeremy Kyle Show</a></i> aired at 09:25 on 19 December. It saw <a href="/wiki/Jeremy_Kyle" title="Jeremy Kyle">Jeremy Kyle</a> giving deserving children a once-in-a-lifetime opportunity to visit <a href="/wiki/Lapland_(Finland)" title="Lapland (Finland)">Lapland</a>.</li>
+<li>A <i>Text Santa</i> special of <i><a href="/wiki/60_Minute_Makeover" title="60 Minute Makeover">Peter Andre's 60 Minute Makeover</a></i> aired from Woodford Green in Essex at 14:00 on 19 December, where the team performed a makeover of the Buddy Hut at Haven House Children's Hospice, which is supported by <i>Text Santa</i>.</li>
+<li>On 18 November 2014, a <i>Text Santa</i> edition of <i><a href="/wiki/Tipping_Point_(game_show)" title="Tipping Point (game show)">Tipping Point</a></i> was recorded. It featured <i><a href="/wiki/Good_Morning_Britain_(2014_TV_programme)" title="Good Morning Britain (2014 TV programme)">Good Morning Britain</a></i> presenters <a href="/wiki/Charlotte_Hawkins" title="Charlotte Hawkins">Charlotte Hawkins</a>, <a href="/wiki/Susanna_Reid" title="Susanna Reid">Susanna Reid</a>, <a href="/wiki/Andi_Peters" title="Andi Peters">Andi Peters</a> and <a class="mw-redirect" href="/wiki/Richard_Arnold_(TV_presenter)" title="Richard Arnold (TV presenter)">Richard Arnold</a>, with normal host <a href="/wiki/Ben_Shephard" title="Ben Shephard">Ben Shephard</a> as the host. It was aired on 19 December at 16:00.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> They raised a combined total of over £13,000 for the <i>Text Santa</i> charities.</li>
+<li>There was a <i>Text Santa</i> celebrity special of the game show <i><a href="/wiki/The_Cube_(game_show)" title="The Cube (game show)">The Cube</a></i>, hosted by <a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a>. It aired during the live telethon on 19 December and starred <a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a> and <a href="/wiki/Alesha_Dixon" title="Alesha Dixon">Alesha Dixon</a>. They were the first ever people to take on <i>The Cube</i> together. <a href="/wiki/Leigh_Francis" title="Leigh Francis">Leigh Francis</a>' alter ego <a class="mw-redirect" href="/wiki/Keith_Lemon" title="Keith Lemon">Keith Lemon</a> also made a guest appearance as 'The Body' as well as guests <a class="mw-redirect" href="/wiki/The_Chuckle_Brothers" title="The Chuckle Brothers">The Chuckle Brothers</a>. They won £100,000 for the charities.</li>
+<li><a href="/wiki/Mel_B" title="Mel B">Mel B</a> and <a href="/wiki/Warwick_Davis" title="Warwick Davis">Warwick Davis</a> guest starred in a <i><a href="/wiki/Coronation_Street" title="Coronation Street">Coronation Street</a></i> sketch.</li>
+<li>There was a <i><a href="/wiki/Birds_of_a_Feather" title="Birds of a Feather">Birds of a Feather</a></i> sketch for <i>Text Santa</i> starring regular cast including <a href="/wiki/Lesley_Joseph" title="Lesley Joseph">Lesley Joseph</a>, <a href="/wiki/Linda_Robson" title="Linda Robson">Linda Robson</a> and <a href="/wiki/Pauline_Quirke" title="Pauline Quirke">Pauline Quirke</a> as well as a guest appearance from <a href="/wiki/Paul_O%27Grady" title="Paul O'Grady">Paul O'Grady</a>, playing Santa Claus.</li>
+<li>The <i><a href="/wiki/Downton_Abbey" title="Downton Abbey">Downton Abbey</a></i> sketch for <i>Text Santa</i> guest starred <a href="/wiki/George_Clooney" title="George Clooney">George Clooney</a>, <a href="/wiki/Jeremy_Piven" title="Jeremy Piven">Jeremy Piven</a> and <a href="/wiki/Joanna_Lumley" title="Joanna Lumley">Joanna Lumley</a>.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup></li></ul>
+<dl><dt>Events</dt></dl>
+<ul><li><a href="/wiki/EBay" title="EBay">eBay</a> auctions took place to raise money for Text Santa, items sold included tickets to <i><a class="mw-redirect" href="/wiki/The_X_Factor_(UK_TV_series)" title="The X Factor (UK TV series)">The X Factor</a></i> final at <a href="/wiki/Wembley_Arena" title="Wembley Arena">Wembley Arena</a> and a set tour of <i><a href="/wiki/Downton_Abbey" title="Downton Abbey">Downton Abbey</a></i>.</li></ul>
+<dl><dt><i>Phillip's Live 24 Hour TV Marathon</i></dt></dl>
+<p><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a> presented a live 24-hour long programme on <a href="/wiki/ITV3" title="ITV3">ITV3</a> for <i>Text Santa</i>. It was broadcast on 1 December through to 2 December 2014 and recorded in Studio 3 at <a href="/wiki/The_London_Studios" title="The London Studios">The London Studios</a>.
+</p><p><a class="external text" href="http://www.justgiving.com/textsanta-phillipschofield" rel="nofollow">Phillip's JustGiving page</a> has raised £101,924 for the <i>Text Santa</i> charities.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup>
+</p><p>He also abseiled the tower at <a href="/wiki/The_London_Studios" title="The London Studios">The London Studios</a> for <i>Text Santa</i>.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup>
+</p><p>The 24 hour show was nominated for a 2015 Broadcast Digital Award in the category of "Best Sports or Live Event Coverage".<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup>
+</p>
+<dl><dt>Running order</dt></dl>
+<p><b>1 December 2014</b>
+</p>
+<ul><li><b>11:00</b> – TV marathon begins, Phillip co-hosts <i><a href="/wiki/This_Morning_(TV_programme)" title="This Morning (TV programme)">This Morning</a></i> with <a href="/wiki/Amanda_Holden" title="Amanda Holden">Amanda Holden</a>.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup></li>
+<li><b>12:30</b> – Phillip is a guest panellist on <i><a href="/wiki/Loose_Women" title="Loose Women">Loose Women</a></i> alongside <a href="/wiki/Ruth_Langsford" title="Ruth Langsford">Ruth Langsford</a>, <a href="/wiki/Penny_Lancaster" title="Penny Lancaster">Penny Lancaster</a> and <a href="/wiki/Jane_Moore" title="Jane Moore">Jane Moore</a>.</li>
+<li><b>13:20</b> – Phillip travels to <a href="/wiki/ITV_News" title="ITV News">ITN</a> with <a href="/wiki/Chris_Moyles" title="Chris Moyles">Chris Moyles</a>, and chats to <a href="/wiki/Mary_Nightingale" title="Mary Nightingale">Mary Nightingale</a> on the <a class="mw-redirect" href="/wiki/Mobile_Phone" title="Mobile Phone">Mobile Phone</a>.</li>
+<li><b>13:30</b> – Phillip is given a tour of <a href="/wiki/ITV_News" title="ITV News">ITV News</a> office by <a href="/wiki/Mary_Nightingale" title="Mary Nightingale">Mary Nightingale</a> before being interviewed by <a href="/wiki/Steve_Scott_(journalist)" title="Steve Scott (journalist)">Steve Scott</a> on the <i><a href="/wiki/ITV_Lunchtime_News" title="ITV Lunchtime News">ITV Lunchtime News</a></i>.</li>
+<li><b>14:10</b> – Phillip returns to <a href="/wiki/The_London_Studios" title="The London Studios">Kent House</a> to have a rehearsal for his national weather forecast with <a href="/wiki/Lucy_Verasamy" title="Lucy Verasamy">Lucy Verasamy</a>.</li>
+<li><b>14:25</b> – Phillip sees his <i>Text Santa</i> studio for the first time.</li>
+<li><b>14:30</b> – Phillip discovers his next big challenge for <i>Text Santa</i>, where he has to abseil down the side of <a href="/wiki/The_London_Studios" title="The London Studios">Kent House</a> seeing <a href="/wiki/Chris_Moyles" title="Chris Moyles">Chris Moyles</a>, <a href="/wiki/Ruth_Langsford" title="Ruth Langsford">Ruth Langsford</a>, <a href="/wiki/Gemma_Collins" title="Gemma Collins">Gemma Collins</a>, <a href="/wiki/Lucy_Verasamy" title="Lucy Verasamy">Lucy Verasamy</a>, and the <a href="/wiki/This_Morning_(TV_programme)" title="This Morning (TV programme)">This Morning</a> crew in the various offices.</li>
+<li><b>15:30</b> – Phillip is joined by <a href="/wiki/Penny_Lancaster" title="Penny Lancaster">Penny Lancaster</a> to meet some of the people who <i>Text Santa</i> help.</li>
+<li><b>16:00</b> – Phillip is joined by his former <i><a href="/wiki/Dancing_on_Ice" title="Dancing on Ice">Dancing on Ice</a></i> co-host <a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a> as well as dancers <a href="/wiki/Vincent_Simone" title="Vincent Simone">Vincent Simone</a> and <a href="/wiki/Flavia_Cacace" title="Flavia Cacace">Flavia Cacace</a>. There is also an exclusive look at the brand new <a href="/wiki/CITV" title="CITV">CITV</a> animation with footballer <a href="/wiki/Frank_Lampard" title="Frank Lampard">Frank Lampard</a>.</li>
+<li><b>17:11</b> – There is a special performance of <a class="mw-redirect" href="/wiki/Always_Look_On_The_Bright_Side_Of_Life" title="Always Look On The Bright Side Of Life">Always Look On The Bright Side Of Life</a> from <i>Spamalot</i> with <a href="/wiki/Joe_Pasquale" title="Joe Pasquale">Joe Pasquale</a> and <a href="/wiki/Todd_Carty" title="Todd Carty">Todd Carty</a>.</li>
+<li><b>17:32</b> – Phillip looks at some fundraising ideas with <a href="/wiki/Myleene_Klass" title="Myleene Klass">Myleene Klass</a> and <a href="/wiki/Rav_Wilding" title="Rav Wilding">Rav Wilding</a>.</li>
+<li><b>17:45</b> – <a href="/wiki/Myleene_Klass" title="Myleene Klass">Myleene Klass</a> joined Phillip to look at some celebrity outfits the public could bid on to raise money for <i>Text Santa</i>.</li>
+<li><b>18:00</b> – Phillip is joined by <a href="/wiki/Peter_Dickson_(announcer)" title="Peter Dickson (announcer)">Peter Dickson</a> as they take a train ride along London's South Bank, to the Christmas Market, meeting some of the <a class="mw-redirect" href="/wiki/The_X_Factor_(UK_series_11)" title="The X Factor (UK series 11)">X Factor finalists</a> along the way as well as <i>Xtra Factor</i> presenter <a class="mw-redirect" href="/wiki/Sarah_Jane_Crawford" title="Sarah Jane Crawford">Sarah Jane Crawford</a>, before helping turn the <a href="/wiki/London_Eye" title="London Eye">London Eye</a> red, one of the <i>Text Santa</i> colours.</li>
+<li><b>18:55</b> – Phillip's live national weather forecast for <i>Text Santa</i>, broadcast live from the <i><a href="/wiki/Good_Morning_Britain_(2014_TV_programme)" title="Good Morning Britain (2014 TV programme)">Good Morning Britain</a></i> studio and under guidance from <a href="/wiki/Lucy_Verasamy" title="Lucy Verasamy">Lucy Verasamy</a>.</li>
+<li><b>19:00</b> – Phillip is joined by <a href="/wiki/Andi_Peters" title="Andi Peters">Andi Peters</a> who gives reactions to his Weather Forecast.</li>
+<li><b>19:23</b> – Phillip is joined in the studio by <a href="/wiki/Patti_Clare" title="Patti Clare">Patti Clare</a> to talk about the <a href="/wiki/Coronation_Street" title="Coronation Street">Coronation Street</a> v <a href="/wiki/Emmerdale" title="Emmerdale">Emmerdale</a> Netball game and what <a href="/wiki/Coronation_Street" title="Coronation Street">Coronation Street</a> has in store for <i>Text Santa</i>.</li>
+<li><b>19:28</b> – Phillip does a live continuity announcement on <a href="/wiki/ITV_(TV_channel)" title="ITV (TV channel)">ITV</a> to <i><a href="/wiki/Coronation_Street" title="Coronation Street">Coronation Street</a></i>.</li>
+<li><b>19:30</b> – Phillip chats to <a href="/wiki/Mark_Labbett" title="Mark Labbett">Mark Labbett</a>, who talks about the Text Santa Quiz night, then he speaks to <a href="/wiki/Linda_Robson" title="Linda Robson">Linda Robson</a> who talks about one of the <i>Text Santa</i> charities <a class="mw-redirect" href="/wiki/Marie_Curie_Cancer_Care" title="Marie Curie Cancer Care">Marie Curie</a>.</li>
+<li><b>19:40</b> – <a class="mw-redirect" href="/wiki/Michael_Ball_(singer)" title="Michael Ball (singer)">Michael Ball</a> dropped by to talk to Phillip about his new album.</li>
+<li><b>19:45</b> – Phillip does a live trail on <a href="/wiki/ITV_(TV_channel)" title="ITV (TV channel)">ITV</a>.</li>
+<li><b>19:49</b> – <a href="/wiki/Amanda_Holden" title="Amanda Holden">Amanda Holden</a> joined Phillip live in the studio in her <a class="mw-redirect" href="/wiki/Pyjamas" title="Pyjamas">Pyjamas</a>, to brief him on the following day's <i><a href="/wiki/This_Morning_(TV_programme)" title="This Morning (TV programme)">This Morning</a></i>.</li>
+<li><b>20:00</b> – There was a world exclusive of <a href="/wiki/George_Clooney" title="George Clooney">George Clooney</a>'s cameo in <a href="/wiki/Downton_Abbey" title="Downton Abbey">Downton Abbey</a>'s Text Santa special.</li>
+<li><b>20:03</b> – Phillip chats to <a href="/wiki/ITV_News_Central" title="ITV News Central">ITV News Central</a>'s <a href="/wiki/Sameena_Ali-Khan" title="Sameena Ali-Khan">Sameena Ali-Khan</a> at <a href="/wiki/Villa_Park" title="Villa Park">Villa Park</a> who is hosting a Text Santa Curry Night.</li>
+<li><b>20:07</b> – Phillip ordered the food for the <i><a class="mw-redirect" href="/wiki/I%27m_a_Celebrity...Get_Me_Out_of_Here!_(UK_TV_series)" title="I'm a Celebrity...Get Me Out of Here! (UK TV series)">I'm a Celebrity...Get Me Out of Here!</a></i> curry night.</li>
+<li><b>20:12</b> – Phillip went live to <a class="mw-redirect" href="/wiki/Ant_and_Dec" title="Ant and Dec">Ant and Dec</a> in Australia ahead of the latest episode of <i><a class="mw-redirect" href="/wiki/I%27m_a_Celebrity...Get_Me_Out_of_Here!_(UK_TV_series)" title="I'm a Celebrity...Get Me Out of Here! (UK TV series)">I'm a Celebrity...Get Me Out of Here!</a></i>, then former campmates <a href="/wiki/Ashley_Roberts" title="Ashley Roberts">Ashley Roberts</a>, <a href="/wiki/Christopher_Biggins" title="Christopher Biggins">Christopher Biggins</a>, <a href="/wiki/Kerry_Katona" title="Kerry Katona">Kerry Katona</a>, <a href="/wiki/Tony_Blackburn" title="Tony Blackburn">Tony Blackburn</a>, <a href="/wiki/Amy_Willerton" title="Amy Willerton">Amy Willerton</a>, <a href="/wiki/Janet_Street-Porter" title="Janet Street-Porter">Janet Street-Porter</a> and <a href="/wiki/Joe_Pasquale" title="Joe Pasquale">Joe Pasquale</a> arrived to watch the latest episode of <i><a class="mw-redirect" href="/wiki/I%27m_a_Celebrity...Get_Me_Out_of_Here!_(UK_TV_series)" title="I'm a Celebrity...Get Me Out of Here! (UK TV series)">I'm a Celebrity...Get Me Out of Here!</a></i>.</li>
+<li><b>20:24</b> – Phillip spoke to Jason Wouhra from <a href="/wiki/East_End_Foods" title="East End Foods">East End Foods</a> as he delivered the curry for the <i><a class="mw-redirect" href="/wiki/I%27m_a_Celebrity...Get_Me_Out_of_Here!_(UK_TV_series)" title="I'm a Celebrity...Get Me Out of Here! (UK TV series)">I'm a Celebrity...Get Me Out of Here!</a></i> curry night.</li>
+<li><b>20:27</b> – Phillip does a continuity announcement for <i><a class="mw-redirect" href="/wiki/I%27m_a_Celebrity...Get_Me_Out_of_Here!_(UK_TV_series)" title="I'm a Celebrity...Get Me Out of Here! (UK TV series)">I'm a Celebrity...Get Me Out of Here!</a></i> on <a href="/wiki/ITV_(TV_channel)" title="ITV (TV channel)">ITV</a>, before he re-joined the former campmates who shared their experiences in the jungle, while they watched the latest episode live, in their own edition of <i><a href="/wiki/Gogglebox" title="Gogglebox">Gogglebox</a></i> with a curry.</li>
+<li><b>20:59</b> – During <i><a class="mw-redirect" href="/wiki/I%27m_a_Celebrity...Get_Me_Out_of_Here!_(UK_TV_series)" title="I'm a Celebrity...Get Me Out of Here! (UK TV series)">I'm a Celebrity...Get Me Out of Here!</a></i>, Phillip took a <a href="/wiki/Skype" title="Skype">Skype</a> call from <a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a>.</li>
+<li><b>22:00</b> – After doing a <a href="/wiki/Continuity_announcers_in_the_United_Kingdom" title="Continuity announcers in the United Kingdom">Continuity announcement</a> for the <i><a href="/wiki/ITV_News_at_Ten" title="ITV News at Ten">News At Ten</a></i>, Phillip chats to <a href="/wiki/Laura_Whitmore" title="Laura Whitmore">Laura Whitmore</a>, <a href="/wiki/Joe_Swash" title="Joe Swash">Joe Swash</a>, and <a href="/wiki/Rob_Beckett" title="Rob Beckett">Rob Beckett</a> on <i><a class="mw-redirect" href="/wiki/I%27m_a_Celebrity...Get_Me_Out_of_Here!_(UK_TV_series)" title="I'm a Celebrity...Get Me Out of Here! (UK TV series)">I'm A Celebrity...Get Me Out Of Here Now</a></i> before he does the Fish Eyes Challenge, and Phillip's hosts his own celebrity pub quiz with celebrities including <a href="/wiki/Wayne_Sleep" title="Wayne Sleep">Wayne Sleep</a>, <a href="/wiki/Chico_Slimani" title="Chico Slimani">Chico Slimani</a>, <a href="/wiki/Ashleigh_and_Pudsey" title="Ashleigh and Pudsey">Ashleigh and Pudsey</a>, <a href="/wiki/Liz_McClarnon" title="Liz McClarnon">Liz McClarnon</a>, <a href="/wiki/Heidi_Range" title="Heidi Range">Heidi Range</a>, <a class="mw-redirect" href="/wiki/Lydia_Rose_Bright" title="Lydia Rose Bright">Lydia Rose Bright</a>, <a href="/wiki/Ferne_McCann" title="Ferne McCann">Ferne McCann</a>, <a href="/wiki/Rav_Wilding" title="Rav Wilding">Rav Wilding</a>, <a href="/wiki/Lauren_Goodger" title="Lauren Goodger">Lauren Goodger</a> and <a class="mw-redirect" href="/wiki/Bobby-Cole_Norris" title="Bobby-Cole Norris">Bobby-Cole Norris</a>.</li>
+<li><b>23:15</b> – <a href="/wiki/Pixie_Lott" title="Pixie Lott">Pixie Lott</a> chats to Phillip.</li>
+<li><b>23:34</b> – After Phillip made his last continuity announcement on <a href="/wiki/ITV_(TV_channel)" title="ITV (TV channel)">ITV</a>, Phillip's daughters, Ruby and Molly surprised him on <a href="/wiki/Skype" title="Skype">Skype</a>, then <a href="/wiki/Pixie_Lott" title="Pixie Lott">Pixie Lott</a> gave a special performance.</li>
+<li><b>23:41</b> – Magician and star of <a href="/wiki/ITV2" title="ITV2">ITV2</a>'s <i><a href="/wiki/Tricked_(British_TV_series)" title="Tricked (British TV series)">Tricked</a></i>, <a href="/wiki/Ben_Hanlin" title="Ben Hanlin">Ben Hanlin</a> challenges Phillip to walk on glass.</li></ul>
+<p><b>2 December 2014</b>
+</p>
+<ul><li><b>00:00</b> – Phillip is joined by <a href="/wiki/Davina_McCall" title="Davina McCall">Davina McCall</a> who have a midnight feast on the roof of <a href="/wiki/The_London_Studios" title="The London Studios">Kent house</a>.</li>
+<li><b>00:30</b> – Phillip is joined by the cast of <i><a href="/wiki/Made_in_Chelsea" title="Made in Chelsea">Made in Chelsea</a></i> who are giving the lifts in the Reception of <a href="/wiki/The_London_Studios" title="The London Studios">ITV Towers</a> a makeover.</li>
+<li><b>00:40</b> – Phillip is joined by <i>This Morning</i> agony aunt <a href="/wiki/Denise_Robertson" title="Denise Robertson">Denise Robertson</a>, as she answers the dilemmas of some familiar faces.</li>
+<li><b>02:15</b> – Phillip is joined by the third series of <i><a href="/wiki/The_Great_British_Bake_Off" title="The Great British Bake Off">The Great British Bake Off</a></i> winner <a href="/wiki/John_Whaite" title="John Whaite">John Whaite</a> to make some <a class="mw-redirect" href="/wiki/Hot_Chocolate" title="Hot Chocolate">Hot Chocolate</a>.</li>
+<li><b>02:28</b> – Ian Wallace, a dream expert joins Phillip to discuss people's dreams.</li>
+<li><b>03:19</b> – Phillip talks to <a href="/wiki/Olly_Mann" title="Olly Mann">Olly Mann</a> live on <a href="/wiki/LBC" title="LBC">LBC</a>, and then <a href="/wiki/Jenni_Falconer" title="Jenni Falconer">Jenni Falconer</a> before her show on <a href="/wiki/Heart_London" title="Heart London">Heart</a>.</li>
+<li><b>04:00</b> – <a href="/wiki/Ben_Shephard" title="Ben Shephard">Ben Shephard</a> arrives at <a href="/wiki/The_London_Studios" title="The London Studios">ITV Towers</a> to speak to Phillip and judge the ITV lifts makeover.</li>
+<li><b>04:26</b> – Phillip talks to <a href="/wiki/Eamonn_Holmes" title="Eamonn Holmes">Eamonn Holmes</a> as he gets ready to appear on <i><a class="mw-redirect" href="/wiki/Sunrise_(Sky_News)" title="Sunrise (Sky News)">Sunrise</a></i> on <a href="/wiki/Sky_News" title="Sky News">Sky News</a>.</li>
+<li><b>05:00</b> – Phillip gets ready to appear on <i><a href="/wiki/Good_Morning_Britain_(2014_TV_programme)" title="Good Morning Britain (2014 TV programme)">Good Morning Britain</a></i></li>
+<li><b>06:00-07:30</b> – Phillip joined the team on <i><a href="/wiki/Good_Morning_Britain_(2014_TV_programme)" title="Good Morning Britain (2014 TV programme)">Good Morning Britain</a></i>.</li>
+<li><b>07:30</b> – Phillip prepares to meet Prime Minister <a href="/wiki/David_Cameron" title="David Cameron">David Cameron</a></li>
+<li><b>08:00</b> – Phillip interviewed <a href="/wiki/David_Cameron" title="David Cameron">David Cameron</a> live from 10 Downing Street.</li>
+<li><b>08:30</b> – Phillip cooks breakfast for <a href="/wiki/Lorraine_Kelly" title="Lorraine Kelly">Lorraine Kelly</a> and joins her on her show, <i><a href="/wiki/Lorraine_(TV_programme)" title="Lorraine (TV programme)">Lorraine</a></i>.</li>
+<li><b>10:00</b> – Phillip starts his rehearsals for <i>This Morning</i> programme.</li>
+<li><b>10:30</b> – Phillip goes live on <i>This Morning</i>, co-hosting with <a href="/wiki/Amanda_Holden" title="Amanda Holden">Amanda Holden</a>.</li>
+<li><b>11:00</b> – TV marathon ends on ITV's <i>This Morning</i> programme.</li></ul>
+<h2><span class="mw-headline" id="2015_appeal">2015 appeal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Text_Santa&amp;action=edit&amp;section=10" title="Edit section: 2015 appeal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Text Santa</i> returned to <a href="/wiki/ITV_(TV_network)" title="ITV (TV network)">ITV</a> on 18 December 2015,<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup> with a new line-up with <a href="/wiki/Stephen_Mulhern" title="Stephen Mulhern">Stephen Mulhern</a>, <a href="/wiki/Amanda_Holden" title="Amanda Holden">Amanda Holden</a>, <a href="/wiki/Caroline_Flack" title="Caroline Flack">Caroline Flack</a> and <a href="/wiki/Olly_Murs" title="Olly Murs">Olly Murs</a> joining the presenting team.
+</p><p><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a>, <a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a>, <a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a>, <a href="/wiki/Alesha_Dixon" title="Alesha Dixon">Alesha Dixon</a> and <a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a> all returned this year.<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup> <a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a> didn't return to host <i>Text Santa</i> in 2015. The 2015 show was the last ever after <i>Text Santa's</i> cancellation in 2016.
+</p><p>Appeal videos were hosted by <a href="/wiki/Ant_%26_Dec" title="Ant &amp; Dec">Ant &amp; Dec</a>, <a href="/wiki/Bradley_Walsh" title="Bradley Walsh">Bradley Walsh</a>, <a href="/wiki/Julie_Walters" title="Julie Walters">Julie Walters</a>, <a href="/wiki/Martin_Clunes" title="Martin Clunes">Martin Clunes</a> and <a href="/wiki/Myleene_Klass" title="Myleene Klass">Myleene Klass</a>.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Show</th>
+<th>Date</th>
+<th>Timeslots</th>
+<th>Presenters
+</th></tr>
+<tr>
+<td><i><b>Pip Knit</b></i><br/><small>(launch show)</small></td>
+<td>1 December 2015</td>
+<td>06:00–22:30</td>
+<td><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a><sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup>
+</td></tr>
+<tr>
+<td rowspan="9"><b>Main show</b></td>
+<td rowspan="9">18 December 2015</td>
+<td>20:00–20:30</td>
+<td><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a><br/><a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a>
+</td></tr>
+<tr>
+<td>20:30–20:50</td>
+<td><a href="/wiki/Caroline_Flack" title="Caroline Flack">Caroline Flack</a><br/><a href="/wiki/Olly_Murs" title="Olly Murs">Olly Murs</a>
+</td></tr>
+<tr>
+<td>20:50–21:20</td>
+<td><a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a><br/><a href="/wiki/Alesha_Dixon" title="Alesha Dixon">Alesha Dixon</a>
+</td></tr>
+<tr>
+<td>21:20–21:35</td>
+<td><a href="/wiki/Amanda_Holden" title="Amanda Holden">Amanda Holden</a>
+</td></tr>
+<tr>
+<td>21:35–21:50</td>
+<td><a href="/wiki/Stephen_Mulhern" title="Stephen Mulhern">Stephen Mulhern</a>
+</td></tr>
+<tr>
+<td>21:50–22:20</td>
+<td><a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a><br/><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a>
+</td></tr>
+<tr>
+<td>22:20–22:40</td>
+<td><a href="/wiki/Amanda_Holden" title="Amanda Holden">Amanda Holden</a><br/><a href="/wiki/Alesha_Dixon" title="Alesha Dixon">Alesha Dixon</a>
+</td></tr>
+<tr>
+<td>22:40–22:55</td>
+<td><a class="mw-redirect" href="/wiki/Christine_Bleakley" title="Christine Bleakley">Christine Bleakley</a><br/><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a>
+</td></tr>
+<tr>
+<td>22:55–23:05</td>
+<td rowspan="2"><a href="/wiki/Paddy_McGuinness" title="Paddy McGuinness">Paddy McGuinness</a><br/><a href="/wiki/Alesha_Dixon" title="Alesha Dixon">Alesha Dixon</a>
+</td></tr>
+<tr>
+<td><i><b>Text Santa 2015 – The Best Bits</b></i><br/><small>(Highlights show)</small></td>
+<td>18–19 December 2015</td>
+<td>23:55–01:10
+</td></tr>
+<tr>
+<td><i><b>Text Santa Update</b></i></td>
+<td>25 December 2015</td>
+<td>13:35–14:45</td>
+<td><a href="/wiki/Holly_Willoughby" title="Holly Willoughby">Holly Willoughby</a>
+</td></tr>
+</tbody></table>
+<dl><dt>Within other shows</dt></dl>
+<ul><li>15p from each vote on <i><a class="mw-redirect" href="/wiki/I%27m_a_Celebrity...Get_Me_Out_of_Here!_(UK_TV_series)" title="I'm a Celebrity...Get Me Out of Here! (UK TV series)">I'm a Celebrity...Get Me Out of Here!</a></i>, went to the 2015 <i>Text Santa</i> charities.</li>
+<li>A <i>Text Santa</i> edition of <i><a href="/wiki/The_Jeremy_Kyle_Show" title="The Jeremy Kyle Show">The Jeremy Kyle Show</a></i> aired at 09:25 on 18 December 2015.</li>
+<li>A <i>Text Santa</i> edition of <i><a href="/wiki/Judge_Rinder" title="Judge Rinder">Judge Rinder</a></i> aired on 18 December 2015 at 14:00.</li>
+<li>A celebrity <i>Text Santa</i> edition of <i><a href="/wiki/1000_Heartbeats" title="1000 Heartbeats">1000 Heartbeats</a></i> aired on 18 December 2015 at 15:00. <a class="mw-redirect" href="/wiki/Keith_Lemon" title="Keith Lemon">Keith Lemon</a> and <a href="/wiki/Tess_Daly" title="Tess Daly">Tess Daly</a> took part in the episode and collectively won £7,500 for <i>Text Santa</i>.</li>
+<li>A celebrity <i>Text Santa</i> edition of <i><a href="/wiki/Tipping_Point_(game_show)" title="Tipping Point (game show)">Tipping Point</a></i> aired on 18 December 2015 at 16:00 with <a href="/wiki/Mark_Foster_(swimmer)" title="Mark Foster (swimmer)">Mark Foster</a>, <a href="/wiki/Tanni_Grey-Thompson" title="Tanni Grey-Thompson">Tanni Grey-Thompson</a>, <a href="/wiki/Chris_Kamara" title="Chris Kamara">Chris Kamara</a> and <a href="/wiki/Bobby_George" title="Bobby George">Bobby George</a>. Together, they raised a combined total of £4,850</li>
+<li>A <i>Text Santa</i> celebrity edition of <i><a class="mw-redirect" href="/wiki/The_Chase_(UK_game_show)" title="The Chase (UK game show)">The Chase</a></i> was recorded in October 2015. The celebrities who took part were <a href="/wiki/Robert_Rinder" title="Robert Rinder">Robert Rinder</a>, <a href="/wiki/Brian_McFadden" title="Brian McFadden">Brian McFadden</a>, <a href="/wiki/Denise_Robertson" title="Denise Robertson">Denise Robertson</a> and <a href="/wiki/Andrea_McLean" title="Andrea McLean">Andrea McLean</a>. The chaser was <a href="/wiki/Mark_Labbett" title="Mark Labbett">Mark Labbett</a> who beat the contestants. They still took away £6,000 for the <i>Text Santa</i> charities.</li>
+<li><a href="/wiki/Phillip_Schofield" title="Phillip Schofield">Phillip Schofield</a> appeared in <i>Pip Knit</i> on 1 December 2015. It saw him make guest appearances in every <a href="/wiki/ITV_(TV_network)" title="ITV (TV network)">ITV</a> show broadcast from 06:00 until 22:30.</li>
+<li>The <i><a href="/wiki/Downton_Abbey" title="Downton Abbey">Downton Abbey</a></i> sketch for <i>Text Santa</i> guest starred <a href="/wiki/Bruce_Forsyth" title="Bruce Forsyth">Bruce Forsyth</a>, <a href="/wiki/Gordon_Ramsay" title="Gordon Ramsay">Gordon Ramsay</a>, <a href="/wiki/Gok_Wan" title="Gok Wan">Gok Wan</a>, <a href="/wiki/Brenda_Blethyn" title="Brenda Blethyn">Brenda Blethyn</a>, <a href="/wiki/Jim_Broadbent" title="Jim Broadbent">Jim Broadbent</a>, <a href="/wiki/Michelle_Keegan" title="Michelle Keegan">Michelle Keegan</a><sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup> and <a href="/wiki/Warwick_Davis" title="Warwick Davis">Warwick Davis</a> and aired during the telethon on 18 December.<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup><sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup></li>
+<li>A special edition of <i><a href="/wiki/Benidorm_(TV_series)" title="Benidorm (TV series)">Benidorm</a></i> for <i>Text Santa</i> starred <a href="/wiki/Joan_Collins" title="Joan Collins">Joan Collins</a> and aired during the <i>Update</i> show on 25 December.</li>
+<li>A <i>Coronation Street</i> sketch aired during the live telethon on 18 December. The special edition guest starred <a href="/wiki/Richard_Branson" title="Richard Branson">Richard Branson</a>.<sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup><sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[39]</a></sup></li>
+<li>A celebrity edition of <i><a href="/wiki/Ninja_Warrior_UK" title="Ninja Warrior UK">Ninja Warrior UK</a></i> aired during the telethon on 18 December. The celebrities who took part were <a href="/wiki/Ryan_Thomas" title="Ryan Thomas">Ryan Thomas</a>, <a href="/wiki/Kimberly_Wyatt" title="Kimberly Wyatt">Kimberly Wyatt</a>, <a href="/wiki/Mark_Wright_(TV_personality)" title="Mark Wright (TV personality)">Mark Wright</a>, <a href="/wiki/Marvin_Humes" title="Marvin Humes">Marvin Humes</a>, <a href="/wiki/Gemma_Atkinson" title="Gemma Atkinson">Gemma Atkinson</a>, <a href="/wiki/Jayne_Torvill" title="Jayne Torvill">Jayne Torvill</a>, <a href="/wiki/Christopher_Dean" title="Christopher Dean">Christopher Dean</a>, Philip Olivier, <a href="/wiki/Louise_Hazel" title="Louise Hazel">Louise Hazel</a>, <a href="/wiki/Ugo_Monye" title="Ugo Monye">Ugo Monye</a> and <a href="/wiki/Carl_Froch" title="Carl Froch">Carl Froch</a>.<sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup><sup class="reference" id="cite_ref-41"><a href="#cite_note-41">[41]</a></sup></li>
+<li>A special <i>Text Santa</i> edition of <i><a href="/wiki/Big_Star%27s_Little_Star" title="Big Star's Little Star">Big Star's Little Star</a></i> called <i>Big Star's Bigger Star</i> aired during the telethon and was presented by <a href="/wiki/Stephen_Mulhern" title="Stephen Mulhern">Stephen Mulhern</a>. The celebrities who took part were <a href="/wiki/Emma_Willis" title="Emma Willis">Emma Willis</a>, <a href="/wiki/George_Shelley_(singer)" title="George Shelley (singer)">George Shelley</a> and <a href="/wiki/Jennie_McAlpine" title="Jennie McAlpine">Jennie McAlpine</a>.</li></ul>
+<dl><dt>Events</dt></dl>
+<ul><li><a href="/wiki/EBay" title="EBay">eBay</a> auctions took place to raise money for <i>Text Santa</i>. Items for sale included a <i><a href="/wiki/Ninja_Warrior_UK" title="Ninja Warrior UK">Ninja Warrior UK</a></i> foam finger, signed by the presenters and a VIP <i><a href="/wiki/Loose_Women" title="Loose Women">Loose Women</a></i> studio experience.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Text_Santa&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.fundraising.co.uk/news/2011/09/22/nine-charities-benefit-itv1039s-text-santa-campaign" rel="nofollow">"Nine charities to benefit from ITV1's Text Santa campaign"</a>. <i>UK Fundraising</i>. 22 September 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UK+Fundraising&amp;rft.atitle=Nine+charities+to+benefit+from+ITV1%27s+Text+Santa+campaign&amp;rft.date=2011-09-22&amp;rft_id=http%3A%2F%2Fwww.fundraising.co.uk%2Fnews%2F2011%2F09%2F22%2Fnine-charities-benefit-itv1039s-text-santa-campaign&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.fundraising.co.uk/news/2011/11/17/justtextgiving-power-itv039s-text-santa-campaign" rel="nofollow">"JustTextGiving to power ITV's Text Santa campaign"</a>. <i>UK Fundraising</i>. 17 November 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UK+Fundraising&amp;rft.atitle=JustTextGiving+to+power+ITV%27s+Text+Santa+campaign&amp;rft.date=2011-11-17&amp;rft_id=http%3A%2F%2Fwww.fundraising.co.uk%2Fnews%2F2011%2F11%2F17%2Fjusttextgiving-power-itv039s-text-santa-campaign&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20111127163239/http://your.asda.com/2011/11/26/asda-text-santa-hats" rel="nofollow">"Archived copy"</a>. Archived from <a class="external text" href="http://your.asda.com/2011/11/26/asda-text-santa-hats" rel="nofollow">the original</a> on 27 November 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fyour.asda.com%2F2011%2F11%2F26%2Fasda-text-santa-hats&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.digitalspy.co.uk/tv/news/a434392/paddy-mcguinness-joins-ant--dec-schofield-for-second-text-santa.html" rel="nofollow">"Paddy McGuinness joins Ant &amp; Dec, Schofield for second 'Text Santa<span class="cs1-kern-right">'</span>"</a>. <i>Digital Spy</i>. 6 November 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Spy&amp;rft.atitle=Paddy+McGuinness+joins+Ant+%26+Dec%2C+Schofield+for+second+%27Text+Santa%27&amp;rft.date=2012-11-06&amp;rft_id=http%3A%2F%2Fwww.digitalspy.co.uk%2Ftv%2Fnews%2Fa434392%2Fpaddy-mcguinness-joins-ant--dec-schofield-for-second-text-santa.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20121116151955/http://www.itv.com/presscentre/pressreleases/programmepressreleases/textsanta2012/default.html" rel="nofollow">"Archived copy"</a>. Archived from <a class="external text" href="http://www.itv.com/presscentre/pressreleases/programmepressreleases/textsanta2012/default.html" rel="nofollow">the original</a> on 16 November 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.itv.com%2Fpresscentre%2Fpressreleases%2Fprogrammepressreleases%2Ftextsanta2012%2Fdefault.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.itv.com/textsanta/text-santa" rel="nofollow">"Text Santa"</a>. itv.com. 28 April 2018.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Text+Santa&amp;rft.pub=itv.com&amp;rft.date=2018-04-28&amp;rft_id=https%3A%2F%2Fwww.itv.com%2Ftextsanta%2Ftext-santa&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">florinstreet (12 November 2010). <a class="external text" href="https://www.youtube.com/watch?v=H10f2w7T5CU" rel="nofollow">"(New Christmas Songs) My Favourite Time of Year - The Florin Street Band"</a> – via YouTube.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%28New+Christmas+Songs%29+My+Favourite+Time+of+Year+-+The+Florin+Street+Band&amp;rft.date=2010-11-12&amp;rft.au=florinstreet&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH10f2w7T5CU&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.textsanta.co.uk/about/legacy/february-2014/" rel="nofollow">"Text Santa - The time of year to help those near"</a>. <i>Text Santa</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Text+Santa&amp;rft.atitle=Text+Santa+-+The+time+of+year+to+help+those+near&amp;rft_id=http%3A%2F%2Fwww.textsanta.co.uk%2Fabout%2Flegacy%2Ffebruary-2014%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.itv.com/presscentre/press-releases/text-santa-raises-highest-ever-total" rel="nofollow">"Text Santa raises highest-ever total"</a>. <i>itv.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=itv.com&amp;rft.atitle=Text+Santa+raises+highest-ever+total&amp;rft_id=http%3A%2F%2Fwww.itv.com%2Fpresscentre%2Fpress-releases%2Ftext-santa-raises-highest-ever-total&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.itv.com/presscentre/press-releases/itvs-text-santa-raises-highest-ever-total" rel="nofollow">"ITV's Text Santa raises highest ever total"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ITV%27s+Text+Santa+raises+highest+ever+total&amp;rft_id=http%3A%2F%2Fwww.itv.com%2Fpresscentre%2Fpress-releases%2Fitvs-text-santa-raises-highest-ever-total&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://digiguide.tv/programme-details/ITV1+London/21+December+2012/15:00/Dickinson%27s+Real+Deal/Consumer/" rel="nofollow">"Dickinson's Real Deal"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dickinson%27s+Real+Deal&amp;rft_id=http%3A%2F%2Fdigiguide.tv%2Fprogramme-details%2FITV1%2BLondon%2F21%2BDecember%2B2012%2F15%3A00%2FDickinson%2527s%2BReal%2BDeal%2FConsumer%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://digiguide.tv/programme-details/ITV1+London/21+December+2012/17:00/The+Chase/Quiz+Show/" rel="nofollow">"The Chase"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Chase&amp;rft_id=http%3A%2F%2Fdigiguide.tv%2Fprogramme-details%2FITV1%2BLondon%2F21%2BDecember%2B2012%2F17%3A00%2FThe%2BChase%2FQuiz%2BShow%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20121212022443/http://www.itv.com/presscentre/celebrityjuice/ep15week51/default.html" rel="nofollow">"Archived copy"</a>. Archived from <a class="external text" href="http://www.itv.com/presscentre/celebrityjuice/ep15week51/default.html" rel="nofollow">the original</a> on 12 December 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">26 November</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.itv.com%2Fpresscentre%2Fcelebrityjuice%2Fep15week51%2Fdefault.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://digiguide.tv/pick-of-the-day/21+December+2012/comedy-celebrity-juice-text-santa-christmas-special/" rel="nofollow">"Celebrity Juice"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Celebrity+Juice&amp;rft_id=http%3A%2F%2Fdigiguide.tv%2Fpick-of-the-day%2F21%2BDecember%2B2012%2Fcomedy-celebrity-juice-text-santa-christmas-special%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.itv.com/news/granada/update/2012-12-02/thousands-turn-out-for-liverpool-santa-dash/" rel="nofollow">"Thousands turn out for Liverpool Santa dash"</a>. <i>ITV News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ITV+News&amp;rft.atitle=Thousands+turn+out+for+Liverpool+Santa+dash&amp;rft_id=http%3A%2F%2Fwww.itv.com%2Fnews%2Fgranada%2Fupdate%2F2012-12-02%2Fthousands-turn-out-for-liverpool-santa-dash%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.itv.com/textsanta/partners-and-suppliers/asda/biggest-bag-pack-ever/" rel="nofollow">The Biggest Bag Pack Ever! - ASDA and Text Santa - ITV</a> <a class="external text" href="https://web.archive.org/web/20121204075409/http://www.itv.com/textsanta/partners-and-suppliers/asda/biggest-bag-pack-ever/" rel="nofollow">Archived</a> 4 December 2012 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.officialruthlangsford.com/news/2012/12/12/eamonn_and_ruth_pack_it_in_for_charity-219" rel="nofollow">"Official Ruth Langsford"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Official+Ruth+Langsford&amp;rft_id=http%3A%2F%2Fwww.officialruthlangsford.com%2Fnews%2F2012%2F12%2F12%2Feamonn_and_ruth_pack_it_in_for_charity-219&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://archive.today/20130130165522/http://www.officialeamonnholmes.com/news/2012/12/12/eamonn_and_ruth_pack_it_in_for_charity-242" rel="nofollow">"Official Eamonn Holmes"</a>. 30 January 2013. Archived from <a class="external text" href="http://www.officialeamonnholmes.com/news/2012/12/12/eamonn_and_ruth_pack_it_in_for_charity-242" rel="nofollow">the original</a> on 30 January 2013.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Official+Eamonn+Holmes&amp;rft.date=2013-01-30&amp;rft_id=http%3A%2F%2Fwww.officialeamonnholmes.com%2Fnews%2F2012%2F12%2F12%2Feamonn_and_ruth_pack_it_in_for_charity-242&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.itv.com/news/meridian/update/2012-12-19/text-santa-bidding-for-tv-history/" rel="nofollow">"Text Santa: Bidding for TV history"</a>. <i>ITV News</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ITV+News&amp;rft.atitle=Text+Santa%3A+Bidding+for+TV+history&amp;rft_id=http%3A%2F%2Fwww.itv.com%2Fnews%2Fmeridian%2Fupdate%2F2012-12-19%2Ftext-santa-bidding-for-tv-history%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.itv.com/presscentre/press-releases/itv%E2%80%99s-star-line-bigger-and-better-text-santa#.Un0O5HDwlLc" rel="nofollow">"ITV's star line-up for bigger and better Text Santa"</a>. <i>itv.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=itv.com&amp;rft.atitle=ITV%27s+star+line-up+for+bigger+and+better+Text+Santa&amp;rft_id=http%3A%2F%2Fwww.itv.com%2Fpresscentre%2Fpress-releases%2Fitv%25E2%2580%2599s-star-line-bigger-and-better-text-santa%23.Un0O5HDwlLc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.itv.com/presscentre/press-releases/morrisons-santander-and-vodafone-pledge-text-santa-itv#.UkGezGRNQyA" rel="nofollow">"Morrisons, Santander and Vodafone pledge to Text Santa on ITV"</a>. <i>itv.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=itv.com&amp;rft.atitle=Morrisons%2C+Santander+and+Vodafone+pledge+to+Text+Santa+on+ITV&amp;rft_id=http%3A%2F%2Fwww.itv.com%2Fpresscentre%2Fpress-releases%2Fmorrisons-santander-and-vodafone-pledge-text-santa-itv%23.UkGezGRNQyA&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.itv.com/presscentre/press-releases/text-santa-will-return-its-third-year-christmas-2013" rel="nofollow">"Text Santa will return for its third year this Christmas 2013"</a>. <i>itv.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=itv.com&amp;rft.atitle=Text+Santa+will+return+for+its+third+year+this+Christmas+2013&amp;rft_id=http%3A%2F%2Fwww.itv.com%2Fpresscentre%2Fpress-releases%2Ftext-santa-will-return-its-third-year-christmas-2013&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.digitalspy.co.uk/tv/news/a492736/text-santa-will-return-to-itv-for-third-series.html" rel="nofollow">"<span class="cs1-kern-left">'</span>Text Santa' will return to ITV for third series"</a>. <i>Digital Spy</i>. 24 June 2013.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Spy&amp;rft.atitle=%27Text+Santa%27+will+return+to+ITV+for+third+series&amp;rft.date=2013-06-24&amp;rft_id=http%3A%2F%2Fwww.digitalspy.co.uk%2Ftv%2Fnews%2Fa492736%2Ftext-santa-will-return-to-itv-for-third-series.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.digitalspy.co.uk/music/news/a525701/itv2s-the-big-reunion-cast-record-christmas-charity-single.html" rel="nofollow">"ITV2's 'The Big Reunion' cast record Christmas charity single"</a>. <i>Digital Spy</i>. 23 October 2013.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Spy&amp;rft.atitle=ITV2%27s+%27The+Big+Reunion%27+cast+record+Christmas+charity+single&amp;rft.date=2013-10-23&amp;rft_id=http%3A%2F%2Fwww.digitalspy.co.uk%2Fmusic%2Fnews%2Fa525701%2Fitv2s-the-big-reunion-cast-record-christmas-charity-single.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.digitalspy.co.uk/tv/news/a599248/alesha-dixon-joins-this-years-text-santa-as-a-presenter.html" rel="nofollow">"Alesha Dixon joins this year's Text Santa as a presenter"</a>. <i>Digital Spy</i>. 25 September 2014.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Spy&amp;rft.atitle=Alesha+Dixon+joins+this+year%27s+Text+Santa+as+a+presenter&amp;rft.date=2014-09-25&amp;rft_id=http%3A%2F%2Fwww.digitalspy.co.uk%2Ftv%2Fnews%2Fa599248%2Falesha-dixon-joins-this-years-text-santa-as-a-presenter.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.itv.com/presscentre/press-releases/text-santa-tipping-point-special" rel="nofollow">"Text Santa Tipping Point special"</a>. <i>itv.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=itv.com&amp;rft.atitle=Text+Santa+Tipping+Point+special&amp;rft_id=http%3A%2F%2Fwww.itv.com%2Fpresscentre%2Fpress-releases%2Ftext-santa-tipping-point-special&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.itv.com/presscentre/press-releases/downton-abbey-text-santa-special-full-video" rel="nofollow">"Downton Abbey Text Santa special (full video)"</a>. <i>itv.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=itv.com&amp;rft.atitle=Downton+Abbey+Text+Santa+special+%28full+video%29&amp;rft_id=http%3A%2F%2Fwww.itv.com%2Fpresscentre%2Fpress-releases%2Fdownton-abbey-text-santa-special-full-video&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web">Eames, Tom (23 October 2014). <a class="external text" href="http://www.digitalspy.co.uk/tv/news/a605366/phillip-schofield-to-attempt-24-hour-tv-broadcast-for-text-santa.html#~oTwPnazc4256kM" rel="nofollow">"Phillip Schofield to attempt 24-hour TV broadcast for Text Santa"</a>. <i><a href="/wiki/Digital_Spy" title="Digital Spy">Digital Spy</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 October</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Spy&amp;rft.atitle=Phillip+Schofield+to+attempt+24-hour+TV+broadcast+for+Text+Santa&amp;rft.date=2014-10-23&amp;rft.aulast=Eames&amp;rft.aufirst=Tom&amp;rft_id=http%3A%2F%2Fwww.digitalspy.co.uk%2Ftv%2Fnews%2Fa605366%2Fphillip-schofield-to-attempt-24-hour-tv-broadcast-for-text-santa.html%23~oTwPnazc4256kM&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.digitalspy.co.uk/showbiz/news/a613633/phillip-schofield-abseils-down-itv-tower-for-text-santa-challenge.html#~oXdEGpA6C0Y2Pz" rel="nofollow">"Phillip Schofield abseils down ITV Tower for Text Santa challenge"</a>. <i>Digital Spy</i>. December 2014.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Spy&amp;rft.atitle=Phillip+Schofield+abseils+down+ITV+Tower+for+Text+Santa+challenge&amp;rft.date=2014-12&amp;rft_id=http%3A%2F%2Fwww.digitalspy.co.uk%2Fshowbiz%2Fnews%2Fa613633%2Fphillip-schofield-abseils-down-itv-tower-for-text-santa-challenge.html%23~oXdEGpA6C0Y2Pz&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.broadcastdigitalawards.co.uk/shortlist" rel="nofollow">"Shortlist - Broadcast Digital Awards"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Shortlist+-+Broadcast+Digital+Awards&amp;rft_id=http%3A%2F%2Fwww.broadcastdigitalawards.co.uk%2Fshortlist&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.digitalspy.co.uk/tv/news/a613494/phillip-schofield-starts-24-hour-live-television-broadcast-for-text-santa.html#~oXdEOMXyDDhJIZ" rel="nofollow">"Phillip Schofield starts 24-hour live television broadcast for Text Santa"</a>. <i>Digital Spy</i>. December 2014.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Spy&amp;rft.atitle=Phillip+Schofield+starts+24-hour+live+television+broadcast+for+Text+Santa&amp;rft.date=2014-12&amp;rft_id=http%3A%2F%2Fwww.digitalspy.co.uk%2Ftv%2Fnews%2Fa613494%2Fphillip-schofield-starts-24-hour-live-television-broadcast-for-text-santa.html%23~oXdEOMXyDDhJIZ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.digitalspy.com/tv/news/a777723/itvs-text-santa-2015-total-is-a-record-83-million/" rel="nofollow">"ITV's Text Santa 2015 total is a record £8.3 million"</a>. 18 December 2015.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ITV%27s+Text+Santa+2015+total+is+a+record+%C2%A38.3+million&amp;rft.date=2015-12-18&amp;rft_id=http%3A%2F%2Fwww.digitalspy.com%2Ftv%2Fnews%2Fa777723%2Fitvs-text-santa-2015-total-is-a-record-83-million%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.itv.com/presscentre/press-releases/phillip-schofield-and-itv-stars-do-their-bit-christmas-knit-text-santa" rel="nofollow">"Phillip Schofield and ITV stars do their bit in a Christmas Knit for Text Santa"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Phillip+Schofield+and+ITV+stars+do+their+bit+in+a+Christmas+Knit+for+Text+Santa&amp;rft_id=http%3A%2F%2Fwww.itv.com%2Fpresscentre%2Fpress-releases%2Fphillip-schofield-and-itv-stars-do-their-bit-christmas-knit-text-santa&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation news">Baillie, Katie (1 December 2015). <a class="external text" href="https://metro.co.uk/2015/12/01/phillip-schofield-is-appearing-on-every-itv-show-today-in-the-pipknit-challenge-for-text-santa-have-you-spotted-him-5536731/" rel="nofollow">"Phillip Schofield appears on every ITV show today in #PipKnit Text Santa challenge"</a>. <i><a href="/wiki/Metro_(British_newspaper)" title="Metro (British newspaper)">Metro</a></i>. <a href="/wiki/DMG_Media" title="DMG Media">DMG Media</a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 August</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Metro&amp;rft.atitle=Phillip+Schofield+appears+on+every+ITV+show+today+in+%23PipKnit+Text+Santa+challenge&amp;rft.date=2015-12-01&amp;rft.aulast=Baillie&amp;rft.aufirst=Katie&amp;rft_id=https%3A%2F%2Fmetro.co.uk%2F2015%2F12%2F01%2Fphillip-schofield-is-appearing-on-every-itv-show-today-in-the-pipknit-challenge-for-text-santa-have-you-spotted-him-5536731%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.dailymail.co.uk/tvshowbiz/article-3344130/Michelle-Keegan-oozes-retro-glamour-heads-Downton-Abbey-flapper-girl-period-drama-s-Text-Santa-skit.html" rel="nofollow">"Michelle Keegan to appear in Downton Abbey for Text Santa skit"</a>. 3 December 2015.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Michelle+Keegan+to+appear+in+Downton+Abbey+for+Text+Santa+skit&amp;rft.date=2015-12-03&amp;rft_id=http%3A%2F%2Fwww.dailymail.co.uk%2Ftvshowbiz%2Farticle-3344130%2FMichelle-Keegan-oozes-retro-glamour-heads-Downton-Abbey-flapper-girl-period-drama-s-Text-Santa-skit.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web">Greenwood, Carl (3 December 2015). <a class="external text" href="https://www.mirror.co.uk/tv/tv-news/sir-bruce-forsyth-joins-downton-6944189" rel="nofollow">"Sir Bruce Forsyth joins Downton Abbey for Text Santa special"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sir+Bruce+Forsyth+joins+Downton+Abbey+for+Text+Santa+special&amp;rft.date=2015-12-03&amp;rft.aulast=Greenwood&amp;rft.aufirst=Carl&amp;rft_id=https%3A%2F%2Fwww.mirror.co.uk%2Ftv%2Ftv-news%2Fsir-bruce-forsyth-joins-downton-6944189&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.itv.com/presscentre/press-releases/text-santa-downton-abbey-video" rel="nofollow">"Text Santa – Downton Abbey (video)"</a>. <i>itv.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 December</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=itv.com&amp;rft.atitle=Text+Santa+%E2%80%93+Downton+Abbey+%28video%29&amp;rft_id=http%3A%2F%2Fwww.itv.com%2Fpresscentre%2Fpress-releases%2Ftext-santa-downton-abbey-video&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.digitalspy.com/showbiz/coronation-street/news/a777714/richard-branson-is-doc-brown-in-the-brilliant-back-to-the-future-coronation-street-sketch-for-text-santa/" rel="nofollow">"Richard Branson goes Back to the Future for Corrie skit"</a>. 18 December 2015.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Richard+Branson+goes+Back+to+the+Future+for+Corrie+skit&amp;rft.date=2015-12-18&amp;rft_id=http%3A%2F%2Fwww.digitalspy.com%2Fshowbiz%2Fcoronation-street%2Fnews%2Fa777714%2Frichard-branson-is-doc-brown-in-the-brilliant-back-to-the-future-coronation-street-sketch-for-text-santa%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.digitalspy.com/tv/news/a776046/text-santa-corrie-stars-go-back-to-the-future-and-lord-grantham-auditions-for-a-downton-santa-claus/" rel="nofollow">"Text Santa: Corrie stars are going back to the future"</a>. 3 December 2015.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Text+Santa%3A+Corrie+stars+are+going+back+to+the+future&amp;rft.date=2015-12-03&amp;rft_id=http%3A%2F%2Fwww.digitalspy.com%2Ftv%2Fnews%2Fa776046%2Ftext-santa-corrie-stars-go-back-to-the-future-and-lord-grantham-auditions-for-a-downton-santa-claus%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.digitalspy.com/tv/news/a777709/mark-wright-and-torvill-dean-take-on-the-ninja-warrior-course-for-itvs-text-santa/" rel="nofollow">"Mark Wright and Torvill &amp; Dean take on Ninja Warrior"</a>. 18 December 2015.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mark+Wright+and+Torvill+%26+Dean+take+on+Ninja+Warrior&amp;rft.date=2015-12-18&amp;rft_id=http%3A%2F%2Fwww.digitalspy.com%2Ftv%2Fnews%2Fa777709%2Fmark-wright-and-torvill-dean-take-on-the-ninja-warrior-course-for-itvs-text-santa%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web">Fitzpatrick, Katie (26 August 2015). <a class="external text" href="http://www.manchestereveningnews.co.uk/news/showbiz-news/host-stars-film-tv-special-9936235" rel="nofollow">"A host of stars film TV special for Text Santa"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+host+of+stars+film+TV+special+for+Text+Santa&amp;rft.date=2015-08-26&amp;rft.aulast=Fitzpatrick&amp;rft.aufirst=Katie&amp;rft_id=http%3A%2F%2Fwww.manchestereveningnews.co.uk%2Fnews%2Fshowbiz-news%2Fhost-stars-film-tv-special-9936235&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AText+Santa"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Text_Santa&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.itv.com/textsanta" rel="nofollow">Text Santa </a> at <a href="/wiki/Itv.com" title="Itv.com">itv.com</a></li>
+<li><a class="external text" href="http://www.stv.tv/textsanta" rel="nofollow">Text Santa </a> at <a href="/wiki/Stv.tv" title="Stv.tv">stv.tv</a></li>
+<li><a class="external text" href="http://www.u.tv/textsanta" rel="nofollow">Text Santa </a> at <a href="/wiki/U.tv" title="U.tv">u.tv</a></li>
+<li><a class="external text" href="https://www.facebook.com/TextSantaITV" rel="nofollow">Text Santa</a> on <a href="/wiki/Facebook" title="Facebook">Facebook</a></li>
+<li><a class="external text" href="https://twitter.com/ITVTextSanta" rel="nofollow">Text Santa</a> on <a href="/wiki/Twitter" title="Twitter">Twitter</a> <a href="https://www.wikidata.org/wiki/Q7708404#P2002" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" style="vertical-align: text-top" width="10"/></a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20191214161936
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.840 seconds
+Real time usage: 1.224 seconds
+Preprocessor visited node count: 2993/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 69014/2097152 bytes
+Template argument size: 2082/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 115403/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.399/10.000 seconds
+Lua memory usage: 5.58 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1011.808      1 -total
+ 54.29%  549.270      1 Template:Reflist
+ 41.96%  424.575     39 Template:Cite_web
+ 20.23%  204.650      1 Template:Infobox_television
+ 18.36%  185.765      1 Template:Infobox
+  8.17%   82.689      1 Template:Use_dmy_dates
+  7.63%   77.198      1 Template:Twitter
+  5.35%   54.106      1 Template:Webarchive
+  4.77%   48.313      6 Template:If_empty
+  4.33%   43.806      2 Template:EditAtWikidata
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:33778909-0!canonical and timestamp 20191214161935 and revision id 926814299
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Text_Santa&amp;oldid=926814299">https://en.wikipedia.org/w/index.php?title=Text_Santa&amp;oldid=926814299</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2010s_British_television_series" title="Category:2010s British television series">2010s British television series</a></li><li><a href="/wiki/Category:2011_British_television_series_debuts" title="Category:2011 British television series debuts">2011 British television series debuts</a></li><li><a href="/wiki/Category:2015_British_television_series_endings" title="Category:2015 British television series endings">2015 British television series endings</a></li><li><a href="/wiki/Category:2011_establishments_in_the_United_Kingdom" title="Category:2011 establishments in the United Kingdom">2011 establishments in the United Kingdom</a></li><li><a href="/wiki/Category:2015_disestablishments_in_the_United_Kingdom" title="Category:2015 disestablishments in the United Kingdom">2015 disestablishments in the United Kingdom</a></li><li><a href="/wiki/Category:British_telethons" title="Category:British telethons">British telethons</a></li><li><a href="/wiki/Category:Donation" title="Category:Donation">Donation</a></li><li><a href="/wiki/Category:ITV_television_programmes" title="Category:ITV television programmes">ITV television programmes</a></li><li><a href="/wiki/Category:Television_series_by_ITV_Studios" title="Category:Television series by ITV Studios">Television series by ITV Studios</a></li><li><a href="/wiki/Category:Organizations_established_in_2011" title="Category:Organizations established in 2011">Organizations established in 2011</a></li><li><a href="/wiki/Category:Organizations_disestablished_in_2015" title="Category:Organizations disestablished in 2015">Organizations disestablished in 2015</a></li><li><a href="/wiki/Category:Christmas_organizations" title="Category:Christmas organizations">Christmas organizations</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_August_2014" title="Category:Use dmy dates from August 2014">Use dmy dates from August 2014</a></li><li><a href="/wiki/Category:Use_British_English_from_August_2014" title="Category:Use British English from August 2014">Use British English from August 2014</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Text+Santa" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Text+Santa" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Text_Santa" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Text_Santa" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Text_Santa">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Text_Santa&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Text_Santa&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Text_Santa" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Text_Santa" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Text_Santa&amp;oldid=926814299" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Text_Santa&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7708404" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Text_Santa&amp;id=926814299" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Text+Santa">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Text+Santa&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Text_Santa&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7708404#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 18 November 2019, at 21:37<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Text_Santa&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.840","walltime":"1.224","ppvisitednodes":{"value":2993,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":69014,"limit":2097152},"templateargumentsize":{"value":2082,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":115403,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1011.808      1 -total"," 54.29%  549.270      1 Template:Reflist"," 41.96%  424.575     39 Template:Cite_web"," 20.23%  204.650      1 Template:Infobox_television"," 18.36%  185.765      1 Template:Infobox","  8.17%   82.689      1 Template:Use_dmy_dates","  7.63%   77.198      1 Template:Twitter","  5.35%   54.106      1 Template:Webarchive","  4.77%   48.313      6 Template:If_empty","  4.33%   43.806      2 Template:EditAtWikidata"]},"scribunto":{"limitreport-timeusage":{"value":"0.399","limit":"10.000"},"limitreport-memusage":{"value":5852396,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20191214161936","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Text Santa","url":"https:\/\/en.wikipedia.org\/wiki\/Text_Santa","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7708404","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7708404","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-11-17T17:55:34Z","dateModified":"2019-11-18T21:37:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/91\/Text_Santa.svg","headline":"television series"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1265"});});</script>
+
+
+</body></html>
