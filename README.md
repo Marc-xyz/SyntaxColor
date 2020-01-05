@@ -54,8 +54,56 @@
 ```
 * **En resum:** encara queden per fer els fitxers `*.txt` i els `*.csv`. 
 
+### 31/12/2019
+
+``` python
+import pyfiglet
+     _                                 
+  /\| |/\                              
+  \ ` ' /                              
+ |_     _|                             
+  / , . \                              
+  \/|_|\/                              
+ |  _ \                                
+ | |_) | ___  _ __   __ _              
+ |  _ < / _ \| '_ \ / _` |             
+ | |_) | (_) | | | | (_| |             
+ |____/ \___/|_| |_|\__,_|     _       
+            | |               | |      
+   ___ _ __ | |_ _ __ __ _  __| | __ _ 
+  / _ \ '_ \| __| '__/ _` |/ _` |/ _` |
+ |  __/ | | | |_| | | (_| | (_| | (_| |
+  \___|_| |_|\__|_|  \__,_|\__,_|\__,_|
+  (_)                                  
+   _                                   
+  | |            _   _     _           
+  | |           | | (_)   | |          
+  |_|  ___  _ __| |_ _  __| | __ _     
+ / __|/ _ \| '__| __| |/ _` |/ _` |    
+ \__ \ (_) | |  | |_| | (_| | (_| |    
+ |___/\___/|_|   \__|_|\__,_|\__,_|    
+     | ( )   /\                        
+   __| |/   /  \   _ __  _   _         
+  / _` |   / /\ \ | '_ \| | | |        
+ | (_| |  / ____ \| | | | |_| |        
+  \__,_| /_/    \_\_| |_|\__, |        
+                          __/ |        
+              _      _  _|___/         
+     /\      | |    (_) \_\            
+    /  \   __| |_ __ _  __ _           
+   / /\ \ / _` | '__| |/ _` |          
+  / ____ \ (_| | |  | | (_| |          
+ /_/ _  \_\__,_|_|  |_|\__,_|          
+  /\| |/\                              
+  \ ` ' /                              
+ |_     _|                             
+  / , . \                              
+  \/|_|\/  
+
+```
 ### 19/12/2019
-[Aqui FOTO]
+commit: In this picture you can see a pseudo code to extract html as csv file. 
+![Foto Pantalla](./Pictures_for_README/pizarra19_12_2019.jpeg)
 
 ### 18/12/2019
 
@@ -204,11 +252,11 @@ for tr in soup.find_all("tr"):
 ### --- NoneDateOf
 * El que et comentava era algo tipus això, la wikipedia té diguem 4 clases de contingut, en negreta en blau per les referencies, formules i text normal
 
-![Foto Pantalla](./Backpropagation.jpeg)
+![Foto Pantalla](./Pictures_for_README/Backpropagation.jpeg)
 
 * Extreure el codi html es senzill i hi han moduls de python que tel parsejen;
 
-![Foto Pantalla](./parsejen.mp4)
+![Foto Pantalla](./Pictures_for_README/parsejen.mp4)
 
 ~~Bones Adrià, vale ja miraré quin paquet haig de importar per fer-ho. Però aleshores de conjunts {X,Y} com a dataset que faig servir. La Wikipedia mateixa ?~~
 
