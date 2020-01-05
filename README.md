@@ -58,6 +58,12 @@
 
 ``` python
 import pyfiglet
+ ...
+ print pyfiglet.figlet_format("Hola!", font="big")
+ ...
+ 
+```
+```
      _                                 
   /\| |/\                              
   \ ` ' /                              
