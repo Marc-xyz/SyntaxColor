@@ -1,7 +1,7 @@
 # SyntaxColor
 ## Llista de tasques a fer
  - [x] Fitxer ```*.txt``` amb 10 mil link a la Wikipedia (com a mínim)
- - [ ] Fitxer ```*.txt``` amb 50 mil link a la Wikipedia (com a mínim)
+ - [x] Fitxer ```*.txt``` amb 50 mil link a la Wikipedia (com a mínim)
  - [ ] 10 mil fitxers ```*.txt``` amb  el codi html del article (com ```NomDelArticle_X.txt```)
  - [ ] 10 mil fitxers ```*.csv``` amb _vectr=(paraula,tipus, ... , paraula,tipus)_ (com ```NomDelArticle_Y.cvs```)
 ## ~~Em queda una estona fins arribar als 10 000~~
@@ -109,7 +109,7 @@ import pyfiglet
 ```
 ### 19/12/2019
 commit: In this picture you can see a pseudo code to extract html as csv file. 
-![Foto Pantalla](./Pictures_for_README/pizarra19_12_2019.jpeg)
+![In this picture you can see a pseudo code to extract html as csv file.](./Pictures_for_README/pizarra19_12_2019.jpeg)
 
 ### 18/12/2019
 
