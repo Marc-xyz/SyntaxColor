@@ -15,14 +15,14 @@
 |3''.| Hi ha mòduls de python per fer fitxers ```*.cvs```, _commma separated vaules_|
 ## Historial de treball
 ### 04/01/2020 
-* Elimino la redundància dels arxius `*.dat`
- és  a dir `https://en.wikipedia.org/wiki/Hessian_matrix` passa a ser `Hessian_matrix` amb `redundanceDelate.py`
+* Elimino la redundància dels arxius `*.dat`,
+ ,és  a dir, `https://en.wikipedia.org/wiki/Hessian_matrix`, passa a ser: `Hessian_matrix` amb `redundanceDelate.py`.
 
-* Els aproximadament 50 mil (potser ni ha de repetits per això n'hi ha 55 ) noms d'articles és troben a el subdirectori `./SyntaxColor/data_articles`en cada arxiu `*.dat` n'hi ha mil noms.
+* Els aproximadament 50 mil (potser ni ha de repetits per això n'hi ha 55 ) noms d'articles és troben a el subdirectori `./SyntaxColor/data_articles`on a cada arxiu `*.dat` n'hi ha mil noms d'articles del la Wikipedia (en).
 
 * En els subdirectori `./SyntaxColor/article_like_text_X` hi ha alguns exemples dels fitxers `*.txt` que és volen extreure però en molts articles dóna error. El arxiu `articles_like_text.py`  a vegades funciona i a vegades no. No he trobat solució encara.
 
-* Si fem `ls` en el directori dels poc articles fets per alguna raó alguns surten amb  cometes dobles o comentes. 
+* Si fem `ls` en el directori dels poc articles fets per alguna raó alguns surten amb  cometes dobles o comentes.
 
 ```
 "2010_IAAF_World_Indoor_Championships_–_Women's_long_jump_X.txt"
@@ -52,7 +52,7 @@
  Zethalia_zelandica_X.txt
 
 ```
-* En resum encara queden fer els fitxers `*.txt` i els `*.csv`. 
+* **En resum:** encara queden per fer els fitxers `*.txt` i els `*.csv`. 
 
 ### 19/12/2019
 [Aqui FOTO]
