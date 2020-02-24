@@ -4,16 +4,8 @@
  - [x] Fitxer ```*.txt``` amb 50 mil link a la Wikipedia (com a mínim)
  - [ ] 10 mil fitxers ```*.txt``` amb  el codi html del article (com ```NomDelArticle_X.txt```)
  - [ ] 10 mil fitxers ```*.csv``` amb _vectr=(paraula,tipus, ... , paraula,tipus)_ (com ```NomDelArticle_Y.cvs```)
-## ~~Em queda una estona fins arribar als 10 000~~
-|Índex  del concepte|Tots els detalls resumits|
-|----------------------------|---------------------------------|
-|1.|Wikipedia té que diguem  4 classes de contingut (negreta, blau, fórmules,text normal)|
-|2.|Extreure el codi `html`, hi ha mòduls de python que ho parsejen|
-|2'.|Mòduls per fer scrapping a wikipedia [wikipedia, re, request,beautiful Soup (*)]|
-|3.|X: El text tal qual sense _labels_ (etiquetes) Y:Vector:= (paraula, tipus,...,paraula,tipus)|
-|3'.| X:```NomDelArticle_X.txt```, Y:```NomDelArticle_Y.cvs```|
-|3''.| Hi ha mòduls de python per fer fitxers ```*.cvs```, _commma separated vaules_|
-## Historial de treball
+
+## Historial de treball (El més recent adalt)
 ### 04/01/2020 
 * Elimino la redundància dels arxius `*.dat`,
  ,és  a dir, `https://en.wikipedia.org/wiki/Hessian_matrix`, passa a ser: `Hessian_matrix` amb `redundanceDelate.py`.
@@ -109,7 +101,7 @@ import pyfiglet
 ```
 ### 19/12/2019
 commit: In this picture you can see a pseudo code to extract html as csv file. 
-![In this picture you can see a pseudo code to extract html as csv file.](./Pictures_for_README/pizarra19_12_2019.jpeg)
+![In this picture you can see a pseudo code to extract html as csv file.](./pictures_for_README/pizarra19_12_2019.jpeg)
 
 ### 18/12/2019
 
@@ -255,14 +247,14 @@ for tr in soup.find_all("tr"):
         print("Inserting data: {}".format(','.join(data)))
         csv_writer.writerow(data)
 ```
-### --- NoneDateOf
+### 24/11/2019
 * El que et comentava era algo tipus això, la wikipedia té diguem 4 clases de contingut, en negreta en blau per les referencies, formules i text normal
 
-![Foto Pantalla](./Pictures_for_README/Backpropagation.jpeg)
+![Foto Pantalla](./pictures_for_README/Backpropagation.jpeg)
 
 * Extreure el codi html es senzill i hi han moduls de python que tel parsejen;
 
-![Foto Pantalla](./Pictures_for_README/parsejen.mp4)
+![Foto Pantalla](./pictures_for_README/parsejen.mp4)
 
 ~~Bones Adrià, vale ja miraré quin paquet haig de importar per fer-ho. Però aleshores de conjunts {X,Y} com a dataset que faig servir. La Wikipedia mateixa ?~~
 
@@ -293,3 +285,13 @@ for tr in soup.find_all("tr"):
 
 
 I :black_heart: https://linuxhint.com/bash_for_loop/
+
+## ~~Em queda una estona fins arribar als 10 000~~
+|Índex  del concepte|Tots els detalls resumits|
+|----------------------------|---------------------------------|
+|1.|Wikipedia té que diguem  4 classes de contingut (negreta, blau, fórmules,text normal)|
+|2.|Extreure el codi `html`, hi ha mòduls de python que ho parsejen|
+|2'.|Mòduls per fer scrapping a wikipedia [wikipedia, re, request,beautiful Soup (*)]|
+|3.|X: El text tal qual sense _labels_ (etiquetes) Y:Vector:= (paraula, tipus,...,paraula,tipus)|
+|3'.| X:```NomDelArticle_X.txt```, Y:```NomDelArticle_Y.cvs```|
+|3''.| Hi ha mòduls de python per fer fitxers ```*.cvs```, _commma separated vaules_|
