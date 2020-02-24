@@ -6,6 +6,14 @@
  - [ ] 10 mil fitxers ```*.csv``` amb _vectr=(paraula,tipus, ... , paraula,tipus)_ (com ```NomDelArticle_Y.cvs```)
 
 ## Historial de treball (El més recent adalt)
+### 24/02/2020
+* El problema de `ls` que imprimeix els arxius amb `""` o amb `''` és perquè contenen o bé espais, o bé algun caràcter que internament se li han de ficar cometes per a que el _Sistema_ no confongui el String amb el nom amb algun altre orde, potser algun caràcter reservat. En tot cas no ha de ser problema i en cas de ser-lo hi ha una _idea_ de com solucionar-ho.
+
+* El objectiu inicial és modifica lleugerament. L'objectiu actual, és elaborar  una IA tal que  _que aprengui a parlar lletra a lletra_. Programa primerament un codi (modul) que permeti passar un text (per exemple un dels arxius del tipus `NomDelArticle_X.txt`), lletra a lletra, a una llista (Recordar nombre<vector<matriu<"tensor"). Més que lletra hauria de ser caràcter a caràcter. Per exemple decidir si `ASCII` o `UTF-8`.  Per començar 5 lletres  (caràcters !)|-->  5 vectors. Fer-ho en paral·lel més endavant. Un com fet això entrenar la IA amb el dataset. Anirà ficant paraules  "a boleo" fins que trobi una estructura a "com escriu la Wikipedia".
+
+* Un objectiu que és manté és augmentar el cardinal del directori `article_like_text_X` fins a `10^5`. (Ja s'ha confirmat que el estil del que hi ha és correcte.)
+
+~~(P.D: Gener i Febrer examens grau.)~~
 ### 04/01/2020 
 * Elimino la redundància dels arxius `*.dat`,
  ,és  a dir, `https://en.wikipedia.org/wiki/Hessian_matrix`, passa a ser: `Hessian_matrix` amb `redundanceDelate.py`.
