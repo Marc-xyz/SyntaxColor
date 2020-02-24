@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Birth of the Cool - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfVNKwpAADoAAIqfyCUAAACB","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Birth_of_the_Cool","wgTitle":"Birth of the Cool","wgCurRevisionId":922566681,"wgRevisionId":922566681,"wgArticleId":1106132,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Use mdy dates from June 2012","Articles with hAudio microformats","1949 in American music","1950 in American music","1957 compilation albums",
+"Albums produced by Pete Rugolo","Capitol Records compilation albums","Cool jazz albums","Grammy Hall of Fame Award recipients","Miles Davis compilation albums"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Birth_of_the_Cool","wgRelevantArticleId":1106132,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q804018","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart",
+"ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/a/a8/Birth_of_the_Cool.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Birth_of_the_Cool" rel="alternate"/>
+<link href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Birth_of_the_Cool" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Birth_of_the_Cool rootpage-Birth_of_the_Cool skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en"><i>Birth of the Cool</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox vevent haudio" style="width:22em"><tbody><tr><th class="summary album" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: darkseagreen">Birth of the Cool</th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Birth_of_the_Cool.jpg"><img alt="Birth of the Cool.jpg" data-file-height="250" data-file-width="250" decoding="async" height="220" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a8/Birth_of_the_Cool.jpg/220px-Birth_of_the_Cool.jpg" srcset="//upload.wikimedia.org/wikipedia/en/a/a8/Birth_of_the_Cool.jpg 1.5x" width="220"/></a></td></tr><tr><th class="description" colspan="2" style="text-align:center;background-color: darkseagreen"><a href="/wiki/Compilation_album" title="Compilation album">Compilation album</a> by <div class="contributor" style="display:inline"><a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a></div></th></tr><tr><th scope="row">Released</th><td class="published">1957</td></tr><tr><th scope="row">Recorded</th><td class="plainlist">January 21 and April 22, 1949; March 9, 1950; in <a href="/wiki/New_York_City" title="New York City">New York City</a></td></tr><tr><th scope="row"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th><td class="category hlist"><a href="/wiki/Cool_jazz" title="Cool jazz">Cool jazz</a></td></tr><tr><th scope="row">Length</th><td><span class="duration"><span class="min">35</span>:<span class="s">29</span></span></td></tr><tr><th scope="row"><a href="/wiki/Record_label" title="Record label">Label</a></th><td class="hlist"><a href="/wiki/Capitol_Records" title="Capitol Records">Capitol</a></td></tr><tr><th scope="row"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th><td class="hlist">Walter Rivers, <a href="/wiki/Pete_Rugolo" title="Pete Rugolo">Pete Rugolo</a></td></tr><tr><th class="description" colspan="2" style="text-align:center;background-color: darkseagreen"><a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a> chronology</th></tr><tr><td colspan="2" style="text-align:center">
+<table style="background: transparent; width: 100%; min-width: 100%; border-collapse: collapse">
+
+<tbody><tr style="line-height: 1.4em;">
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0"><i><a href="/wiki/%27Round_About_Midnight" title="'Round About Midnight">'Round About Midnight</a></i><br/>(1957)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em"><i><b>Birth of the Cool</b></i><br/>(1957)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em"><i><a href="/wiki/Miles_Ahead_(album)" title="Miles Ahead (album)">Miles Ahead</a></i><br/>(1957)
+</td></tr></tbody></table></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background: darkseagreen"><a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a> compilation chronology</th></tr><tr><td colspan="2" style="text-align:center">
+<table style="background: transparent; width: 100%; min-width: 100%; border-collapse: collapse">
+
+<tbody><tr style="line-height: 1.4em;">
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0"><i><a href="/wiki/Miles_Davis_Volume_2" title="Miles Davis Volume 2">Miles Davis Volume 2</a></i><br/>(1955)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em"><i><b>Birth of the Cool</b></i><br/>(1957)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em"><i><a class="mw-redirect" href="/wiki/Basic_Miles" title="Basic Miles">Basic Miles</a></i><br/>(1973)
+</td></tr>
+</tbody></table></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><i><b>Birth of the Cool</b></i> is a <a href="/wiki/Compilation_album" title="Compilation album">compilation album</a> by American <a href="/wiki/Jazz" title="Jazz">jazz</a> musician <a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a>, released in 1957 on <a href="/wiki/Capitol_Records" title="Capitol Records">Capitol Records</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> It compiles eleven tracks recorded by Davis's <a href="/wiki/Nonet_(music)" title="Nonet (music)">nonet</a> for the label over the course of three sessions during 1949 and 1950.<sup class="reference" id="cite_ref-Smith_3-0"><a href="#cite_note-Smith-3">[3]</a></sup>
+</p><p>Featuring unusual instrumentation and several notable musicians, the music consisted of innovative arrangements influenced by <a href="/wiki/Classical_music" title="Classical music">classical music</a> techniques such as <a href="/wiki/Polyphony" title="Polyphony">polyphony</a>, and marked a major development in post-<a href="/wiki/Bebop" title="Bebop">bebop</a> jazz. As the title suggests, these recordings are considered seminal in the history of <a href="/wiki/Cool_jazz" title="Cool jazz">cool jazz</a>. Most of them were originally released in the 10-inch 78-rpm format and are all approximately three minutes long. As of 2019, <a href="/wiki/Lee_Konitz" title="Lee Konitz">Lee Konitz</a> is the only surviving member of the Birth of the Cool sessions.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Davis's_nonet"><span class="tocnumber">1.1</span> <span class="toctext">Davis's nonet</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Recording"><span class="tocnumber">2</span> <span class="toctext">Recording</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Composition"><span class="tocnumber">3</span> <span class="toctext">Composition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Music_and_style"><span class="tocnumber">3.1</span> <span class="toctext">Music and style</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Thornhill's_influence"><span class="tocnumber">3.2</span> <span class="toctext">Thornhill's influence</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Release_history"><span class="tocnumber">4</span> <span class="toctext">Release history</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Reception_and_aftermath"><span class="tocnumber">5</span> <span class="toctext">Reception and aftermath</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Track_listings"><span class="tocnumber">6</span> <span class="toctext">Track listings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href='#Birth_of_the_Cool_(1957_12"_LP,_Capitol_T-762)'><span class="tocnumber">6.1</span> <span class="toctext"><i>Birth of the Cool</i> (1957 12" LP, Capitol T-762)</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Birth_of_the_Cool_(1989_CD,_Capitol)"><span class="tocnumber">6.2</span> <span class="toctext"><i>Birth of the Cool</i> (1989 CD, Capitol)</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#The_Complete_Birth_of_the_Cool_(1998_CD,_Capitol)"><span class="tocnumber">6.3</span> <span class="toctext"><i>The Complete Birth of the Cool</i> (1998 CD, Capitol)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#The_Studio_Sessions"><span class="tocnumber">6.3.1</span> <span class="toctext">The Studio Sessions</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#The_Live_Sessions"><span class="tocnumber">6.3.2</span> <span class="toctext">The Live Sessions</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Personnel"><span class="tocnumber">7</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Charlie_Parker,_Tommy_Potter,_Miles_Davis,_Duke_Jordan,_Max_Roach_(Gottlieb_06851).jpg"><img alt="" class="thumbimage" data-file-height="3613" data-file-width="4813" decoding="async" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg/250px-Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg/375px-Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg/500px-Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg 2x" width="250"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Charlie_Parker,_Tommy_Potter,_Miles_Davis,_Duke_Jordan,_Max_Roach_(Gottlieb_06851).jpg" title="Enlarge"></a></div>Davis (right center) playing in <a href="/wiki/Charlie_Parker" title="Charlie Parker">Charlie Parker</a>'s quintet, 1947.</div></div></div>
+<p>From 1945 to 1948, <a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a> played in <a href="/wiki/Charlie_Parker" title="Charlie Parker">Charlie Parker</a>'s quintet. Davis recorded several albums worth of material with Parker during this period, including <a class="mw-redirect" href="/wiki/Charlie_Parker%27s_Savoy_and_Dial_Sessions" title="Charlie Parker's Savoy and Dial Sessions">Parker's Sessions for the Savoy and Dial labels</a>. Davis' <a href="/wiki/First_Miles" title="First Miles">first records</a> released under his own name were recorded with Parker's band, in 1947, and were more arranged and rehearsed than Parker's usual approach to recording.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> By 1948, Davis had three years of <a href="/wiki/Bebop" title="Bebop">bebop</a> playing under his belt, but he struggled to match the speed and ranges of the likes of Gillespie and Parker, choosing instead to play in the mid range of his instrument.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> In 1948, Davis, becoming increasingly concerned about growing tensions within the Parker quintet, left the group and began looking for a new band to work with.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p><p>At the same time, <a href="/wiki/Arrangement" title="Arrangement">arranger</a> <a href="/wiki/Gil_Evans" title="Gil Evans">Gil Evans</a> began hosting gatherings of like-minded, forward-looking musicians at his small basement apartment, located on 55th Street in Manhattan, three blocks away from the jazz nightclubs of <a href="/wiki/52nd_Street_(Manhattan)" title="52nd Street (Manhattan)">52nd Street</a>. Evans had gained a reputation in the jazz world for his orchestration of bebop tunes for the <a href="/wiki/Claude_Thornhill" title="Claude Thornhill">Claude Thornhill</a> orchestra in the mid-1940s. Keeping an open door policy, Evans' apartment came to host many of the young jazz artists of late-1940s <a href="/wiki/New_York_City" title="New York City">New York</a>. The participants engaged in discussions about the future of jazz, including a proposed group with a new sound. According to jazz historian <a href="/wiki/Ted_Gioia" title="Ted Gioia">Ted Gioia</a>: 
+</p>
+<blockquote><p>[The participants] were developing a range of tools that would change the sound of contemporary music. In their work together, they relied on a rich palette of harmonies, many of them drawn from European impressionist composers. They explored new instrumental textures, preferring to blend the voices of the horns like a choir rather than pit them against each other as the big bands had traditionally done with their thrusting and parrying sections. They brought down the tempos of their music ... they adopted a more lyrical approach to improvisation ...<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p></blockquote>
+<h3><span id="Davis.27s_nonet"></span><span class="mw-headline" id="Davis's_nonet">Davis's nonet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=2" title="Edit section: Davis's nonet">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While Evans had originally hoped to work with Charlie Parker on this project, Evans felt that Parker was too dedicated to his own solo voice and not an ensemble sound that Evans was hoping to tap into.<sup class="reference" id="cite_ref-ReferenceA_8-0"><a href="#cite_note-ReferenceA-8">[8]</a></sup> With Parker out of the picture, Davis took the lead on the project; Davis and Evans met in the summer of 1947, discovering a mutual respect for each other's work.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> The two men decided to draw from the members of the discussion group for the new band, this group eventually becoming the Miles Davis Nonet. Arranger, and baritone saxophonist <a href="/wiki/Gerry_Mulligan" title="Gerry Mulligan">Gerry Mulligan</a> joined the project, having previously written for <a href="/wiki/Gene_Krupa" title="Gene Krupa">Gene Krupa</a>'s orchestra, as it was felt he could bring a lighter sound that Davis and Evans were looking for.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p><p>The arrangers came to the conclusion that the ensemble should feature two saxophones, four brass, and rhythm section for a total of nine players. Evans and Mulligan spent the winter working out instrumentation, augmenting the traditional bop quintet of saxophone (in this case, <a href="/wiki/Alto_saxophone" title="Alto saxophone">alto saxophone</a>), <a href="/wiki/Trumpet" title="Trumpet">trumpet</a>, and <a href="/wiki/Rhythm_section" title="Rhythm section">rhythm section</a>, with <a href="/wiki/Baritone_saxophone" title="Baritone saxophone">baritone saxophone</a>, <a href="/wiki/Trombone" title="Trombone">trombone</a>, <a href="/wiki/French_horn" title="French horn">French horn</a>, and <a href="/wiki/Tuba" title="Tuba">tuba</a>. The two men looked to create pairings within the ensemble, Mulligan stating: "We picked instruments [with matching timbres] ... and one of each. We had a high section with a trumpet and the alto, we had a middle section with the trombone and the French horn, and a low section with the baritone and tuba. So we had those ... basic colors to work with."<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> The omission of tenor saxophone was seen as highly unusual, as it was seen as one of the standard jazz instruments.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p><p>Davis, Evans, and Mulligan then went about assembling the members of the nonet, Davis and Mulligan taking trumpet and baritone saxophone respectively. For alto saxophone, Davis originally wanted <a href="/wiki/Sonny_Stitt" title="Sonny Stitt">Sonny Stitt</a> for the part, but it was decided that Stitt's sound, much like Parkers, was too bop for what the nonet was pursuing.<sup class="reference" id="cite_ref-Chambers,_101_14-0"><a href="#cite_note-Chambers,_101-14">[14]</a></sup> On Gerry Mulligan's suggestion, Davis asked alto saxist <a href="/wiki/Lee_Konitz" title="Lee Konitz">Lee Konitz</a> to join the group. Konitz had played with Mulligan in <a href="/wiki/Claude_Thornhill" title="Claude Thornhill">Claude Thornhill</a>'s orchestra, and was seen by some as a stylistic alternative to Parker, with a much lighter and airier sound.<sup class="reference" id="cite_ref-Chambers,_101_14-1"><a href="#cite_note-Chambers,_101-14">[14]</a></sup>  Tuba player <a href="/wiki/Bill_Barber_(musician)" title="Bill Barber (musician)">Bill Barber</a> and French hornist Sandy Siegelstein came to the nonet via the brass section of the Thornhill band, Siegelstein to be later replaced by <a href="/wiki/Junior_Collins" title="Junior Collins">Junior Collins</a>. Trombonist  <a href="/wiki/J._J._Johnson" title="J. J. Johnson">J. J. Johnson</a> was the first choice for the band, but due to engagements with the <a href="/wiki/Illinois_Jacquet" title="Illinois Jacquet">Illinois Jacquet</a> band could not originally play with the nonet, though he was able to record with the group on the final two sessions.  Both bassist <a href="/wiki/Al_McKibbon" title="Al McKibbon">Al McKibbon</a> and pianist and arranger <a href="/wiki/John_Lewis_(pianist)" title="John Lewis (pianist)">John Lewis</a> had known Davis as members of <a href="/wiki/Dizzy_Gillespie" title="Dizzy Gillespie">Dizzy Gillespie</a>'s orchestra. Drummer <a href="/wiki/Max_Roach" title="Max Roach">Max Roach</a> had been a member of Parker's quintet with Davis and was a natural choice for the group due to his enthusiastic engagement in the ideals of the nonet.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p><p>Davis was able to secure a two-week engagement in September 1948 for the nonet opening for <a href="/wiki/Count_Basie" title="Count Basie">Count Basie</a> at the <a href="/wiki/Royal_Roost" title="Royal Roost">Royal Roost</a> in <a href="/wiki/New_York_City" title="New York City">New York</a>. For the band's book, Mulligan contributed six arrangements, Lewis three, Evans two, and composer <a href="/wiki/John_Carisi" title="John Carisi">John Carisi</a> arranged his own composition, "<a href="/wiki/Israel_(composition)" title="Israel (composition)">Israel</a>", for the band. On Davis's insistence, a sign was placed outside the Roost saying, "Arrangements by Gerry Mulligan, Gil Evans, and John Lewis," an unusual advertisement that highlighted the collaborative nature of the venture.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> The band played at the Roost from August 30 to September 18. For these live dates, <a href="/wiki/Mike_Zwerin" title="Mike Zwerin">Mike Zwerin</a> played trombone and former <a href="/wiki/Dizzy_Gillespie" title="Dizzy Gillespie">Dizzy Gillespie</a> vocalist <a href="/wiki/Kenny_Hagood" title="Kenny Hagood">Kenny Hagood</a> sang on "Darn That Dream" and "Why Do I Love You". There was a further short residency the following year at the Clique Club, these three sets making up the nonet's only live appearances. Arranger and <a href="/wiki/Capitol_Records" title="Capitol Records">Capitol Records</a> <a href="/wiki/Artists_and_repertoire" title="Artists and repertoire">talent scout</a> <a href="/wiki/Pete_Rugolo" title="Pete Rugolo">Pete Rugolo</a> heard the nonet at the Royal Roost and offered them a chance to make a record.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Recording">Recording</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=3" title="Edit section: Recording">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Pete_Rugolo,_New_York,_N.Y.,_between_1946_and_1948_(William_P._Gottlieb_07531).jpg"><img alt="" class="thumbimage" data-file-height="1248" data-file-width="928" decoding="async" height="269" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pete_Rugolo%2C_New_York%2C_N.Y.%2C_between_1946_and_1948_%28William_P._Gottlieb_07531%29.jpg/200px-Pete_Rugolo%2C_New_York%2C_N.Y.%2C_between_1946_and_1948_%28William_P._Gottlieb_07531%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pete_Rugolo%2C_New_York%2C_N.Y.%2C_between_1946_and_1948_%28William_P._Gottlieb_07531%29.jpg/300px-Pete_Rugolo%2C_New_York%2C_N.Y.%2C_between_1946_and_1948_%28William_P._Gottlieb_07531%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pete_Rugolo%2C_New_York%2C_N.Y.%2C_between_1946_and_1948_%28William_P._Gottlieb_07531%29.jpg/400px-Pete_Rugolo%2C_New_York%2C_N.Y.%2C_between_1946_and_1948_%28William_P._Gottlieb_07531%29.jpg 2x" width="200"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Pete_Rugolo,_New_York,_N.Y.,_between_1946_and_1948_(William_P._Gottlieb_07531).jpg" title="Enlarge"></a></div><a href="/wiki/Pete_Rugolo" title="Pete Rugolo">Pete Rugolo</a> produced the sessions for <i>Birth of the Cool</i>.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></div></div></div>
+<p>The nonet recorded twelve tracks for Capitol during three sessions over the course of nearly a year and a half. Davis, Konitz, Mulligan and Barber were the only musicians who played on all three sessions, though the instrumental lineup was constant (excepting the omission of piano on a few songs and the addition of Hagood on "Darn That Dream").  The first session occurred on January 21, 1949, recording four tracks: Mulligan's "Jeru" and "Godchild" as well as Lewis's "Move" and "Budo".  Jazz critic <a href="/wiki/Richard_Cook_(journalist)" title="Richard Cook (journalist)">Richard Cook</a> hypothesizes that Capitol, wanting to get a good start, recorded these numbers first because they were the most catchy tunes in the nonet's small repertoire.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> That date <a href="/wiki/Kai_Winding" title="Kai Winding">Kai Winding</a> replaced Zwerin on trombone, <a href="/wiki/Al_Haig" title="Al Haig">Al Haig</a> replaced Lewis on piano, and <a href="/wiki/Joe_Shulman" title="Joe Shulman">Joe Shulman</a> replaced McKibbon on bass.
+</p><p>The second recording date came three months later on April 22, 1949 with Davis filling in for <a href="/wiki/Fats_Navarro" title="Fats Navarro">Fats Navarro</a> in <a href="/wiki/Tadd_Dameron" title="Tadd Dameron">Tadd Dameron</a>'s band with Charlie Parker during the interim. The band returned to the studio with five substitutions in personnel: <a href="/wiki/J._J._Johnson" title="J. J. Johnson">J. J. Johnson</a> on trombone, Sandy Siegelstein on French horn, <a href="/wiki/Nelson_Boyd" title="Nelson Boyd">Nelson Boyd</a> on bass, and <a href="/wiki/Kenny_Clarke" title="Kenny Clarke">Kenny Clarke</a> on drums, and <a href="/wiki/John_Lewis_(pianist)" title="John Lewis (pianist)">John Lewis</a> returning to piano. At this session, the nonet recorded Mulligan's "Venus de Milo", Lewis's "Rouge", Carisi's "Israel", and "Boplicity", a collaboration between Davis and Evans, credited to the <a href="/wiki/Pseudonym" title="Pseudonym">pseudonym</a> "Cleo Henry".<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</p><p>The band did not return to the studio again until March 9, 1950. Davis did not call the band for any rehearsals or live performances between the second and third recording dates. The March 1950 date featured Mulligan's "Darn That Dream", "Rocker", and "Deception", and Evans's arrangement of <a href="/wiki/Chummy_MacGregor" title="Chummy MacGregor">Chummy MacGregor</a>'s "<a href="/wiki/Moon_Dreams" title="Moon Dreams">Moon Dreams</a>", which had been released in a jazz arrangement by <a href="/wiki/Glenn_Miller" title="Glenn Miller">Glenn Miller</a> and the AAF Band in 1944 on <a href="/wiki/V-Disc" title="V-Disc">V-Disc</a>. The band saw more substitutions, with <a href="/wiki/Gunther_Schuller" title="Gunther Schuller">Gunther Schuller</a> on French horn and <a href="/wiki/Al_McKibbon" title="Al McKibbon">Al McKibbon</a> on bass. <a href="/wiki/Kenny_Hagood" title="Kenny Hagood">Kenny Hagood</a> returned for vocals on "Darn That Dream".
+</p>
+<h2><span class="mw-headline" id="Composition">Composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=4" title="Edit section: Composition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Music_and_style">Music and style</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=5" title="Edit section: Music and style">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One of the features of the Davis Nonet was the use of paired instrumentation. An example of this can be heard on the <a href="/wiki/John_Lewis_(pianist)" title="John Lewis (pianist)">John Lewis</a> arrangement "Move". In "Move", Lewis gives the melody to the pairing of trumpet and alto saxophone, baritone saxophone and tuba supply counterpoint, and trombone and French horn provide harmonies.<sup class="reference" id="cite_ref-Cook,_p.18_21-0"><a href="#cite_note-Cook,_p.18-21">[21]</a></sup> <a href="/wiki/Gerry_Mulligan" title="Gerry Mulligan">Gerry Mulligan</a>'s "Jeru" demonstrates another Nonet hallmark: the use of a <a href="/wiki/Unison" title="Unison">unison</a> sound and rich <a href="/wiki/Harmony" title="Harmony">harmony</a> throughout the horns.<sup class="reference" id="cite_ref-Cook,_p.18_21-1"><a href="#cite_note-Cook,_p.18-21">[21]</a></sup> Davis said, "I wanted the instruments to sound  like human voices singing ... and they did."<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> Though the album is seen as a departure from traditional bop,<sup class="reference" id="cite_ref-Gioia,_The_History_of_Jazz._281_23-0"><a href="#cite_note-Gioia,_The_History_of_Jazz._281-23">[23]</a></sup> the recordings do feature tunes that are considered close to the bop style, such as "Budo" which has the band bookending solos by Davis, Mulligan, Konitz, and Winding, similar to a bebop <a class="mw-redirect" href="/wiki/Head_arrangement" title="Head arrangement">head arrangement</a>.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>
+</p>
+<h3><span id="Thornhill.27s_influence"></span><span class="mw-headline" id="Thornhill's_influence">Thornhill's influence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=6" title="Edit section: Thornhill's influence">edit</a><span class="mw-editsection-bracket">]</span></span></h3><p>
+One of the largest stated influences on the sound of <i>The Birth of the Cool</i> was band leader <a href="/wiki/Claude_Thornhill" title="Claude Thornhill">Claude Thornhill</a> and his orchestra.<sup class="reference" id="cite_ref-ReferenceA_8-1"><a href="#cite_note-ReferenceA-8">[8]</a></sup><sup class="reference" id="cite_ref-Chambers,_94_25-0"><a href="#cite_note-Chambers,_94-25">[25]</a></sup><sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> Out of Thornhill's band came <a href="/wiki/Lee_Konitz" title="Lee Konitz">Lee Konitz</a>, <a href="/wiki/Gerry_Mulligan" title="Gerry Mulligan">Gerry Mulligan</a>, and <a href="/wiki/Gil_Evans" title="Gil Evans">Gil Evans</a>, <a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a> calling the Konitz-Mulligan-Evans incarnation "the greatest band" only after "the <a href="/wiki/Billy_Eckstine" title="Billy Eckstine">Billy Eckstine</a> band with <a href="/wiki/Charlie_Parker" title="Charlie Parker">Bird</a>."<sup class="reference" id="cite_ref-Chambers,_94_25-1"><a href="#cite_note-Chambers,_94-25">[25]</a></sup> The Thornhill band was known for its <a class="mw-redirect" href="/wiki/Impressionist_music" title="Impressionist music">impressionistic style</a>, innovative use of <a href="/wiki/Instrumentation_(music)" title="Instrumentation (music)">instrumentation</a>, such as the use of tuba and French horn, and a non-<a href="/wiki/Vibrato" title="Vibrato">vibrato</a> playing style, hallmarks that the Miles Davis Nonet adopted for <i>The Birth of the Cool</i>.<sup class="reference" id="cite_ref-ReferenceA_8-2"><a href="#cite_note-ReferenceA-8">[8]</a></sup><sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup> According to Evans: </p><blockquote><p>Miles had liked some of what Gerry and I had written for Claude. The instrumentation for the Miles session was caused by the fact that this was the smallest number of instruments that could get the sound and still express all the harmonies the Thornhill band used. Miles wanted to play his idiom with that kind of sound.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></p></blockquote>
+<p>Davis saw the full 18-piece Thornhill orchestra as cumbersome and thus decided to split the group in half for his desired sound.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> As arrangers, both Evans and Mulligan gave Thornhill credit for crafting their sound.<sup class="reference" id="cite_ref-ReferenceA_8-3"><a href="#cite_note-ReferenceA-8">[8]</a></sup><sup class="reference" id="cite_ref-Gioia,_The_History_of_Jazz._281_23-1"><a href="#cite_note-Gioia,_The_History_of_Jazz._281-23">[23]</a></sup> Thornhill's band gave Evans the opportunity to try his hand at arranging small-group bebop tunes for <a href="/wiki/Big_band" title="Big band">big band</a>, a practice few others were participating in. Mulligan recalls Thornhill teaching him "the greatest lesson in dynamics, the art of underblowing." <sup class="reference" id="cite_ref-Gioia,_The_History_of_Jazz._281_23-2"><a href="#cite_note-Gioia,_The_History_of_Jazz._281-23">[23]</a></sup> Thornhill has also been credited with launching the move away from call and response between sections and the move towards unison harmonies.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Release_history">Release history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=7" title="Edit section: Release history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox vevent haudio" style="width:22em"><tbody><tr><th class="summary album" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: darkseagreen">Classics in Jazz: Miles Davis</th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:MilesClassicsInJazz.jpg"><img alt="MilesClassicsInJazz.jpg" data-file-height="301" data-file-width="306" decoding="async" height="216" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d5/MilesClassicsInJazz.jpg/220px-MilesClassicsInJazz.jpg" srcset="//upload.wikimedia.org/wikipedia/en/d/d5/MilesClassicsInJazz.jpg 1.5x" width="220"/></a></td></tr><tr><th class="description" colspan="2" style="text-align:center;background-color: darkseagreen"><a href="/wiki/Compilation_album" title="Compilation album">Compilation album</a> by <div class="contributor" style="display:inline"><a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a></div></th></tr><tr><th scope="row">Released</th><td class="published">1954</td></tr><tr><th scope="row"><a href="/wiki/Record_label" title="Record label">Label</a></th><td class="hlist">Capitol</td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background: darkseagreen"><a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a> 10" LP chronology</th></tr><tr><td colspan="2" style="text-align:center">
+<table style="background: transparent; width: 100%; min-width: 100%; border-collapse: collapse">
+
+<tbody><tr style="line-height: 1.4em;">
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0"><i><a class="mw-redirect" href="/wiki/Miles_Davis_All-Star_Sextet" title="Miles Davis All-Star Sextet">Miles Davis All-Star Sextet</a></i><br/>(1954)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em"><i><b>Classics in Jazz: Miles Davis</b></i><br/>(1954)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em"><i><a href="/wiki/Miles_Davis_Quintet_(album)" title="Miles Davis Quintet (album)">Miles Davis Quintet</a></i><br/>(1954)
+</td></tr>
+</tbody></table></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p>The tracks from the January 1949 session were released soon after recording as two pairs of singles. From the April 1949 date, "Israel" and "Boplicity" were doubled together on a <a class="mw-redirect" href="/wiki/78_rpm" title="78 rpm">78</a> and released as well. Of the twelve tracks recorded, Capitol released relatively few. In 1954, after persuasion from Rugolo, Capitol released eight of the tracks on a 10" record titled <i>Classics in Jazz—Miles Davis</i> (H-459). In 1957 eleven of the tracks (all except for "Darn That Dream") were released by Capitol as <i>Birth of the Cool</i>. The final track, "Darn That Dream" (the only song with vocals, by Hagood), was included with the other eleven on a 1972 LP <i>Capitol Jazz Classics, Vol. 1: The Complete Birth Of The Cool</i> (M-11026). Subsequent releases have been based on this last arrangement. The album has since been reissued many times in various formats.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup> The recordings of the nonet from its time at the Royal Roost were released as <i>Cool Boppin</i>.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup> In 1998, Capitol Records released <i>The Complete Birth of the Cool</i>, which was remastered by <a href="/wiki/Mark_Levinson_(audio_equipment_designer)" title="Mark Levinson (audio equipment designer)">Mark Levinson</a> and collected the nonet's live and studio tracks onto a single CD.
+</p><p>Note from the 2000 Capitol CD reissue producer <a href="/wiki/Michael_Cuscuna" title="Michael Cuscuna">Michael Cuscuna</a>:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886047036">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>All previous reissues of this material have been derived from the 1957 12-inch LP master, which turns out to be second or third generation. The original tapes of each tune were filed individually and sound considerably better. <a href="/wiki/Rudy_Van_Gelder" title="Rudy Van Gelder">Rudy Van Gelder</a> returned to these masters, transferred them in 24-bit to digital and worked his sonic magic. The result is a clearer and more present sound than ever before on these classic recordings. <sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup>
+</p></blockquote>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Reception_and_aftermath">Reception and aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=8" title="Edit section: Reception and aftermath">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable floatright" style="float:right;clear:right;width:24.2em;font-size:80%;text-align:center;margin:0.5em 0 0.5em 1em;padding:0;border-spacing:0"><tbody><tr><th colspan="2" scope="col" style="font-size:120%">Retrospective professional reviews</th></tr><tr><th colspan="2" scope="col" style="text-align:center;background:#d1dbdf;font-size:120%">Review scores</th></tr><tr><th scope="col">Source</th><th scope="col">Rating</th></tr><tr><td style="text-align:center;vertical-align:middle"><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></td><td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" title="5/5 stars" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/></span><sup class="reference" id="cite_ref-Erlewine_34-0"><a href="#cite_note-Erlewine-34">[34]</a></sup></td></tr><tr><td style="text-align:center;vertical-align:middle"><i><a href="/wiki/Encyclopedia_of_Popular_Music" title="Encyclopedia of Popular Music">Encyclopedia of Popular Music</a></i></td><td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" title="5/5 stars" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/></span><sup class="reference" id="cite_ref-acclaimed_35-0"><a href="#cite_note-acclaimed-35">[35]</a></sup></td></tr><tr><td style="text-align:center;vertical-align:middle"><i><a class="mw-redirect" href="/wiki/The_Great_Rock_Discography" title="The Great Rock Discography">The Great Rock Discography</a></i></td><td style="text-align:center;vertical-align:middle">9/10<sup class="reference" id="cite_ref-acclaimed_35-1"><a href="#cite_note-acclaimed-35">[35]</a></sup></td></tr><tr><td style="text-align:center;vertical-align:middle"><i><a href="/wiki/MusicHound" title="MusicHound">MusicHound Jazz</a></i></td><td style="text-align:center;vertical-align:middle">5/5<sup class="reference" id="cite_ref-acclaimed_35-2"><a href="#cite_note-acclaimed-35">[35]</a></sup></td></tr><tr><td style="text-align:center;vertical-align:middle"><i><a href="/wiki/The_Penguin_Guide_to_Jazz" title="The Penguin Guide to Jazz">The Penguin Guide to Jazz</a></i></td><td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="4/4 stars"><img alt="4/4 stars" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" title="4/4 stars" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/></span><sup class="reference" id="cite_ref-acclaimed_35-3"><a href="#cite_note-acclaimed-35">[35]</a></sup></td></tr><tr><td style="text-align:center;vertical-align:middle"><i><a href="/wiki/Q_(magazine)" title="Q (magazine)">Q</a></i></td><td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" title="4/5 stars" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" width="11"/></span><sup class="reference" id="cite_ref-notes_36-0"><a href="#cite_note-notes-36">[36]</a></sup></td></tr><tr><td style="text-align:center;vertical-align:middle"><i><a href="/wiki/The_Rolling_Stone_Album_Guide" title="The Rolling Stone Album Guide">The Rolling Stone Album Guide</a></i></td><td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="5/5 stars"><img alt="5/5 stars" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" title="5/5 stars" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/><img alt="" data-file-height="110" data-file-width="108" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" width="11"/></span><sup class="reference" id="cite_ref-acclaimed_35-4"><a href="#cite_note-acclaimed-35">[35]</a></sup></td></tr></tbody></table>
+<p>The band's debut performance at the <a href="/wiki/Royal_Roost" title="Royal Roost">Royal Roost</a> received positive, but reserved reactions.<sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup> <a href="/wiki/Count_Basie" title="Count Basie">Count Basie</a>, the Roost's headliner during the Nonet's brief tenure, however, was more open to the group's sound, saying, "Those slow things sounded strange and good. I didn't always know what they were doing, but I listened, and I liked it."<sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup> <a href="/wiki/Winthrop_Sargeant" title="Winthrop Sargeant">Winthrop Sargeant</a>, classical music critic at <i><a href="/wiki/The_New_Yorker" title="The New Yorker">The New Yorker</a></i>, compared the band's sound to the work of an "impressionist composer with a great sense of aural poetry and a very fastidious feeling for tone color... The music sounds more like that of a new <a href="/wiki/Maurice_Ravel" title="Maurice Ravel">Maurice Ravel</a> than it does like jazz ... it is not really jazz."<sup class="reference" id="cite_ref-Gioia,_p._283_39-0"><a href="#cite_note-Gioia,_p._283-39">[39]</a></sup> Though he did not recognize the record as jazz, Sargeant acknowledged that he found the record "charming and exciting".<sup class="reference" id="cite_ref-Gioia,_p._283_39-1"><a href="#cite_note-Gioia,_p._283-39">[39]</a></sup> 
+In the short term the reaction to the band was little to none,<sup class="reference" id="cite_ref-Gioia,_p._283_39-2"><a href="#cite_note-Gioia,_p._283-39">[39]</a></sup> but in the long term the recordings' effects have been great and lasting. They have been credited with starting the <a href="/wiki/Cool_jazz" title="Cool jazz">cool jazz</a> movement<sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup> as well as creating a new and viable alternative to <a href="/wiki/Bebop" title="Bebop">bebop</a>.<sup class="reference" id="cite_ref-41"><a href="#cite_note-41">[41]</a></sup>
+</p><p>In 1957, after the release of <i>Birth of the Cool</i>, <i><a class="mw-redirect" href="/wiki/Down_Beat" title="Down Beat">Down Beat</a></i> magazine wrote that <i>Birth of the Cool</i> "[influenced] deeply one important direction of modern chamber jazz."<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup> Several tunes from the album, such as Carisi's "Israel", have gone on to become <a class="mw-redirect" href="/wiki/Jazz_standards" title="Jazz standards">jazz standards</a>.<sup class="reference" id="cite_ref-43"><a href="#cite_note-43">[43]</a></sup>  The album was included in the book <i><a href="/wiki/1001_Albums_You_Must_Hear_Before_You_Die" title="1001 Albums You Must Hear Before You Die">1001 Albums You Must Hear Before You Die</a></i>.<sup class="reference" id="cite_ref-44"><a href="#cite_note-44">[44]</a></sup> <i>Birth of the Cool</i> was voted number 349 in <a class="mw-redirect" href="/wiki/Colin_Larkin_(writer)" title="Colin Larkin (writer)">Colin Larkin</a>'s <a href="/wiki/All_Time_Top_1000_Albums" title="All Time Top 1000 Albums">All Time Top 1000 Albums</a> 3rd Edition (2000).
+<sup class="reference" id="cite_ref-Larkin_45-0"><a href="#cite_note-Larkin-45">[45]</a></sup>
+</p><p>Many members of the Miles Davis Nonet went on to have successful careers in cool jazz, notably <a href="/wiki/Gerry_Mulligan" title="Gerry Mulligan">Gerry Mulligan</a>, <a href="/wiki/John_Lewis_(pianist)" title="John Lewis (pianist)">John Lewis</a>, and <a href="/wiki/Lee_Konitz" title="Lee Konitz">Lee Konitz</a>. Mulligan moved to California and joined forces with trumpeter <a href="/wiki/Chet_Baker" title="Chet Baker">Chet Baker</a> in a piano-less quartet, before creating his Concert Jazz Band<sup class="reference" id="cite_ref-46"><a href="#cite_note-46">[46]</a></sup> Lewis would become music director of the <a href="/wiki/Modern_Jazz_Quartet" title="Modern Jazz Quartet">Modern Jazz Quartet</a>, which would become one of the most influential cool jazz groups.<sup class="reference" id="cite_ref-47"><a href="#cite_note-47">[47]</a></sup> Evans would go on to collaborate with Davis again on the Davis albums <i><a href="/wiki/Miles_Ahead_(album)" title="Miles Ahead (album)">Miles Ahead</a></i> and <i><a href="/wiki/Sketches_of_Spain" title="Sketches of Spain">Sketches of Spain</a></i>.<sup class="reference" id="cite_ref-48"><a href="#cite_note-48">[48]</a></sup> Capitol Records were at the time disappointed with the sales of the nonet recordings, and did not offer Davis more work. Instead, Davis signed with the new jazz specialty record label, <a href="/wiki/Prestige_Records" title="Prestige Records">Prestige</a>, for whom he would record his <a class="mw-redirect" href="/wiki/The_New_Sounds_(Miles_Davis_album)" title="The New Sounds (Miles Davis album)">first album</a> in 1951.<sup class="reference" id="cite_ref-49"><a href="#cite_note-49">[49]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Track_listings">Track listings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=9" title="Edit section: Track listings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Arrangements by the composer unless otherwise noted.</i>
+</p>
+<h3><span id="Birth_of_the_Cool_.281957_12.22_LP.2C_Capitol_T-762.29"></span><span class="mw-headline" id='Birth_of_the_Cool_(1957_12"_LP,_Capitol_T-762)'><i>Birth of the Cool</i> (1957 12" LP, Capitol T-762)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=10" title='Edit section: Birth of the Cool (1957 12" LP, Capitol T-762)'>edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Side A
+</p>
+<ol><li>(1) "Move" (<a href="/wiki/Denzil_Best" title="Denzil Best">Denzil Best</a>) – 2:29</li>
+<li>(2) "Jeru" (<a href="/wiki/Gerry_Mulligan" title="Gerry Mulligan">Gerry Mulligan</a>, arranged by John Lewis) – 3:10</li>
+<li>(3) "Moon Dreams" (<a href="/wiki/Chummy_MacGregor" title="Chummy MacGregor">Chummy MacGregor</a>, <a href="/wiki/Johnny_Mercer" title="Johnny Mercer">Johnny Mercer</a>, arranged by Gil Evans) – 3:13</li>
+<li>(4) "Venus De Milo" (Mulligan) - 3:10</li>
+<li>(5) "Budo" (Miles Davis, Bud Powell) – 2:31</li>
+<li>(6) "Deception" (Davis) – 2:46</li></ol>
+<p>Side B
+</p>
+<ol><li>(7) "Godchild" (George Wallington) - 3:08</li>
+<li>(8) "Boplicity" (Cleo Henry) – 2:58</li>
+<li>(9) "Rocker" (Mulligan) – 3:04</li>
+<li>(10) "Israel" (Johnny Carisi) – 2:15</li>
+<li>(11) "Rouge" (<a href="/wiki/John_Lewis_(pianist)" title="John Lewis (pianist)">John Lewis</a>) - 3:13</li></ol>
+<dl><dt>Recording dates</dt></dl>
+<ul><li>Tracks  1, 2, 5, 7 on January 21, 1949</li>
+<li>Tracks  4, 8, 10, 11 on April 22, 1949</li>
+<li>Tracks  3, 6, 9 on March 9, 1950</li></ul>
+<p>Recorded at WOR Studios, New York, New York.
+</p>
+<h3><span id="Birth_of_the_Cool_.281989_CD.2C_Capitol.29"></span><span class="mw-headline" id="Birth_of_the_Cool_(1989_CD,_Capitol)"><i>Birth of the Cool</i> (1989 CD, Capitol)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=11" title="Edit section: Birth of the Cool (1989 CD, Capitol)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ol><li>"Move" (<a href="/wiki/Denzil_Best" title="Denzil Best">Denzil Best</a>, arranged by John Lewis) – 2:32</li>
+<li>"Jeru" (<a href="/wiki/Gerry_Mulligan" title="Gerry Mulligan">Gerry Mulligan</a>) – 3:10</li>
+<li>"<a href="/wiki/Moon_Dreams" title="Moon Dreams">Moon Dreams</a>" (<a href="/wiki/Chummy_MacGregor" title="Chummy MacGregor">Chummy MacGregor</a>, <a href="/wiki/Johnny_Mercer" title="Johnny Mercer">Johnny Mercer</a>, arranged by Gil Evans) – 3:17</li>
+<li>"Venus de Milo" (Mulligan) – 3:10</li>
+<li>"Budo" (<a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a>, <a href="/wiki/Bud_Powell" title="Bud Powell">Bud Powell</a>, arranged by Lewis) – 2:32</li>
+<li>"Deception" (Davis, arranged by Mulligan) – 2:45</li>
+<li>"Godchild" (<a href="/wiki/George_Wallington" title="George Wallington">George Wallington</a>, arranged by Mulligan) – 3:07</li>
+<li>"Boplicity" (Cleo Henry (i.e. Davis and <a href="/wiki/Gil_Evans" title="Gil Evans">Gil Evans</a>), arranged by Evans) – 2:59</li>
+<li>"Rocker" (Mulligan) – 3:03</li>
+<li>"Israel" (<a href="/wiki/John_Carisi" title="John Carisi">Johnny Carisi</a>) – 2:15</li>
+<li>"Rouge" (<a href="/wiki/John_Lewis_(pianist)" title="John Lewis (pianist)">John Lewis</a>) – 3:13</li>
+<li>"<a href="/wiki/Darn_That_Dream" title="Darn That Dream">Darn That Dream</a>" (<a href="/wiki/Eddie_DeLange" title="Eddie DeLange">Eddie DeLange</a>, <a href="/wiki/Jimmy_Van_Heusen" title="Jimmy Van Heusen">Jimmy Van Heusen</a>, arranged by Mulligan) – 3:26</li></ol>
+<dl><dt>Recording dates</dt></dl>
+<ul><li>Tracks 1, 2, 5, 7 on January 21, 1949</li>
+<li>Tracks 4, 8, 10, 11 on April 22, 1949</li>
+<li>Tracks 3, 6, 9, 12 on March 9, 1950</li></ul>
+<p>Recorded at WOR Studios, New York, New York.
+</p>
+<h3><span id="The_Complete_Birth_of_the_Cool_.281998_CD.2C_Capitol.29"></span><span class="mw-headline" id="The_Complete_Birth_of_the_Cool_(1998_CD,_Capitol)"><i>The Complete Birth of the Cool</i> (1998 CD, Capitol)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=12" title="Edit section: The Complete Birth of the Cool (1998 CD, Capitol)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="The_Studio_Sessions">The Studio Sessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=13" title="Edit section: The Studio Sessions">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ol><li>"Move" (<a href="/wiki/Denzil_Best" title="Denzil Best">Denzil Best</a>, arranged by John Lewis) – 2:32</li>
+<li>"Jeru" (<a href="/wiki/Gerry_Mulligan" title="Gerry Mulligan">Gerry Mulligan</a>) – 3:10</li>
+<li>"<a href="/wiki/Moon_Dreams" title="Moon Dreams">Moon Dreams</a>" (<a href="/wiki/Chummy_MacGregor" title="Chummy MacGregor">Chummy MacGregor</a>, <a href="/wiki/Johnny_Mercer" title="Johnny Mercer">Johnny Mercer</a>, arranged by Gil Evans) – 3:17</li>
+<li>"Venus de Milo" (Mulligan) – 3:10</li>
+<li>"Budo" (<a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a>, <a href="/wiki/Bud_Powell" title="Bud Powell">Bud Powell</a>, arranged by Mulligan)<sup class="reference" id="cite_ref-Sultanof_50-0"><a href="#cite_note-Sultanof-50">[50]</a></sup> – 2:32</li>
+<li>"Deception" (Davis, arranged by Mulligan) – 2:45</li>
+<li>"Godchild" (<a href="/wiki/George_Wallington" title="George Wallington">George Wallington</a>, arranged by Mulligan) – 3:07</li>
+<li>"Boplicity" (Cleo Henry (i.e. Davis and <a href="/wiki/Gil_Evans" title="Gil Evans">Gil Evans</a>),<sup class="reference" id="cite_ref-51"><a href="#cite_note-51">[51]</a></sup> arranged by Evans) – 2:59</li>
+<li>"Rocker" (Mulligan) – 3:03</li>
+<li>"Israel" (<a href="/wiki/John_Carisi" title="John Carisi">Johnny Carisi</a>) – 2:15</li>
+<li>"Rouge" (<a href="/wiki/John_Lewis_(pianist)" title="John Lewis (pianist)">John Lewis</a>) – 3:13</li>
+<li>"<a href="/wiki/Darn_That_Dream" title="Darn That Dream">Darn That Dream</a>" (<a href="/wiki/Eddie_DeLange" title="Eddie DeLange">Eddie DeLange</a>, <a href="/wiki/Jimmy_Van_Heusen" title="Jimmy Van Heusen">Jimmy Van Heusen</a>, arranged by Mulligan) – 3:26</li></ol>
+<dl><dt>Recording dates</dt></dl>
+<ul><li>Tracks 1, 2, 5, 7 on January 21, 1949</li>
+<li>Tracks 4, 8, 10, 11 on April 22, 1949</li>
+<li>Tracks 3, 6, 9, 12 on March 9, 1950</li></ul>
+<p>Recorded at WOR Studios, New York, New York.
+</p>
+<h4><span class="mw-headline" id="The_Live_Sessions">The Live Sessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=14" title="Edit section: The Live Sessions">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ol><li>"Birth of the Cool Theme" (Gil Evans) – 0:19</li>
+<li>"<a href="/wiki/Symphony_Sid" title="Symphony Sid">Symphony Sid</a> announces the band" – 1:02</li>
+<li>"Move" (Denzil Best, arranged by John Lewis) – 3:40</li>
+<li>"<a href="/wiki/Show_Boat" title="Show Boat">Why Do I love You?</a>" (<a href="/wiki/Oscar_Hammerstein_II" title="Oscar Hammerstein II">Oscar Hammerstein II</a>, <a href="/wiki/Jerome_Kern" title="Jerome Kern">Jerome Kern</a>, arranged by John Lewis) – 3:41</li>
+<li>"Godchild" (George Wallington, arranged by Gerry Mulligan) – 5:51</li>
+<li>"Symphony Sid introduction" – 0:27</li>
+<li>"S'il vous plait" (John Lewis) – 4:22</li>
+<li>"Moon Dreams" (Chummy MacGregor, Johnny Mercer, arranged by Gil Evans) – 5:06</li>
+<li>"Budo (Hallucinations)" (Miles Davis, Bud Powell, arranged by John Lewis) – 1:25</li>
+<li>"Darn That Dream" (Eddie DeLange, Jimmy Van Heusen, arranged by Gerry Mulligan) – 4:25</li>
+<li>"Move" (Denzil Best, arranged by John Lewis) – 4:48</li>
+<li>"Moon Dreams" (Chummy MacGregor, Johnny Mercer, arranged by Gil Evans) – 3:46</li>
+<li>"Budo (Hallucinations)" (Miles Davis, Bud Powell, arranged by John Lewis) – 4:23</li></ol>
+<dl><dt>Recording dates</dt></dl>
+<ul><li>Tracks 1–9 on September 4, 1948</li>
+<li>Tracks 10–13 on September 18, 1948</li></ul>
+<p>Recorded live at <a href="/wiki/Royal_Roost" title="Royal Roost">Royal Roost</a> in <a href="/wiki/New_York_City" title="New York City">New York</a> for <a href="/wiki/WMCA_(AM)" title="WMCA (AM)">WMCA</a> radio broadcast.
+</p>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=15" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>January 21, 1949</b> – "Jeru", "Move", "Godchild", "Budo" (matrix numbers: 3395, 3396, 3397, 3398)
+</p>
+<ul><li><a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a> – <a href="/wiki/Trumpet" title="Trumpet">trumpet</a></li>
+<li><a href="/wiki/Kai_Winding" title="Kai Winding">Kai Winding</a> – <a href="/wiki/Trombone" title="Trombone">trombone</a></li>
+<li><a href="/wiki/Junior_Collins" title="Junior Collins">Junior Collins</a> – <a href="/wiki/French_horn" title="French horn">French horn</a></li>
+<li><a href="/wiki/Bill_Barber_(musician)" title="Bill Barber (musician)">Bill Barber</a> – <a href="/wiki/Tuba" title="Tuba">tuba</a></li>
+<li><a href="/wiki/Lee_Konitz" title="Lee Konitz">Lee Konitz</a> – <a href="/wiki/Alto_saxophone" title="Alto saxophone">alto saxophone</a></li>
+<li><a href="/wiki/Gerry_Mulligan" title="Gerry Mulligan">Gerry Mulligan</a> – <a href="/wiki/Baritone_saxophone" title="Baritone saxophone">baritone saxophone</a></li>
+<li><a href="/wiki/Al_Haig" title="Al Haig">Al Haig</a> – <a href="/wiki/Piano" title="Piano">piano</a></li>
+<li><a href="/wiki/Joe_Shulman" title="Joe Shulman">Joe Shulman</a> – <a href="/wiki/Double_bass" title="Double bass">bass</a></li>
+<li><a href="/wiki/Max_Roach" title="Max Roach">Max Roach</a> – <a href="/wiki/Drum_kit" title="Drum kit">drums</a></li></ul>
+<p><b>April 22, 1949</b> – "Venus De Milo", "Rouge", "Boplicity", "Israel" (matrix numbers: 3764, 3765, 3766, 3767)
+</p>
+<ul><li>Miles Davis – trumpet</li>
+<li><a href="/wiki/J._J._Johnson" title="J. J. Johnson">J. J. Johnson</a> – trombone</li>
+<li>Sandy Siegelstein – French horn</li>
+<li>Bill Barber – tuba</li>
+<li>Lee Konitz – alto saxophone</li>
+<li>Gerry Mulligan – baritone saxophone</li>
+<li><a href="/wiki/John_Lewis_(pianist)" title="John Lewis (pianist)">John Lewis</a> – piano</li>
+<li><a href="/wiki/Nelson_Boyd" title="Nelson Boyd">Nelson Boyd</a> – bass</li>
+<li><a href="/wiki/Kenny_Clarke" title="Kenny Clarke">Kenny Clarke</a> – drums</li></ul>
+<p><b>March 9, 1950</b> – "Deception", "Rocker", "Moon Dreams", "Darn That Dream" (matrix numbers: 4346, 4347, 4348, 4349)
+</p>
+<ul><li>Miles Davis – trumpet</li>
+<li>J. J. Johnson – trombone</li>
+<li><a href="/wiki/Gunther_Schuller" title="Gunther Schuller">Gunther Schuller</a> – French horn</li>
+<li>Bill Barber – tuba</li>
+<li>Lee Konitz – alto saxophone</li>
+<li>Gerry Mulligan – baritone saxophone</li>
+<li>John Lewis – piano</li>
+<li><a href="/wiki/Al_McKibbon" title="Al McKibbon">Al McKibbon</a> – bass</li>
+<li>Max Roach – drums</li>
+<li><a href="/wiki/Kenny_Hagood" title="Kenny Hagood">Kenny Hagood</a> – vocal (on "Darn That Dream" only)</li></ul>
+<p>All tracks recorded at WOR Studios, New York, New York
+</p><p><br/>
+<b><i>The Complete Birth of the Cool:</i> The Live Sessions</b>
+</p>
+<ul><li>Miles Davis – trumpet</li>
+<li><a href="/wiki/Mike_Zwerin" title="Mike Zwerin">Mike Zwerin</a> – trombone</li>
+<li>Junior Collins – French horn</li>
+<li>Bill Barber – tuba</li>
+<li>Lee Konitz – alto saxophone</li>
+<li>Gerry Mulligan – baritone saxophone</li>
+<li>John Lewis – piano</li>
+<li>Al McKibbon – bass</li>
+<li>Max Roach – drums</li>
+<li>Kenny Hagood – vocal  (on "Why Do I Love You?" and "Darn That Dream" only)</li></ul>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Saxo_Boca1.JPG"><img alt="icon" class="noviewer thumbborder" data-file-height="230" data-file-width="219" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Saxo_Boca1.JPG/27px-Saxo_Boca1.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Saxo_Boca1.JPG/40px-Saxo_Boca1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Saxo_Boca1.JPG/53px-Saxo_Boca1.JPG 2x" width="27"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Jazz" title="Portal:Jazz">Jazz portal</a></span></li></ul></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Smith, Chris (2009). <a class="external text" href="https://books.google.com/books?id=Jk5fPOyRIXEC&amp;pg=PA9&amp;dq=" rel="nofollow"><i>101 Albums That Changed Popular Music</i></a>. US: <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>. p. 9. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-537371-4" title="Special:BookSources/978-0-19-537371-4"><bdi>978-0-19-537371-4</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=101+Albums+That+Changed+Popular+Music&amp;rft.place=US&amp;rft.pages=9&amp;rft.pub=Oxford+University+Press&amp;rft.date=2009&amp;rft.isbn=978-0-19-537371-4&amp;rft.aulast=Smith&amp;rft.aufirst=Chris&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DJk5fPOyRIXEC%26pg%3DPA9%26dq%3D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABirth+of+the+Cool"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Miles_Davis" title="Miles Davis">Davis, Miles</a>; Jeff Sultanof (2002). <a class="external text" href="https://web.archive.org/web/20121106162232/http://www.scribd.com/doc/35654619/Miles-Davis-Birth-of-the-Cool-Hal-Leonard" rel="nofollow"><i>Miles Davis – Birth of the Cool Complete Score Book</i></a>. US: <a class="mw-redirect" href="/wiki/Hal_Leonard_Corporation" title="Hal Leonard Corporation">Hal Leonard</a>. pp. 2–3. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-634-00682-1" title="Special:BookSources/978-0-634-00682-1"><bdi>978-0-634-00682-1</bdi></a>. Archived from <a class="external text" href="https://www.scribd.com/doc/35654619/Miles-Davis-Birth-of-the-Cool-Hal-Leonard" rel="nofollow">the original</a> on November 6, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Miles+Davis+%E2%80%93+Birth+of+the+Cool+Complete+Score+Book&amp;rft.place=US&amp;rft.pages=2-3&amp;rft.pub=Hal+Leonard&amp;rft.date=2002&amp;rft.isbn=978-0-634-00682-1&amp;rft.aulast=Davis&amp;rft.aufirst=Miles&amp;rft.au=Jeff+Sultanof&amp;rft_id=https%3A%2F%2Fwww.scribd.com%2Fdoc%2F35654619%2FMiles-Davis-Birth-of-the-Cool-Hal-Leonard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABirth+of+the+Cool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Smith-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Smith_3-0">^</a></b></span> <span class="reference-text">Smith, Chris. "<a class="external text" href="https://books.google.com/books?id=Jk5fPOyRIXEC&amp;pg=PA9&amp;dq=" rel="nofollow">101 Albums That Changed Popular Music: <i>Birth of the Cool</i></a>". <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>: 7–9. 2009.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">"Miles: the Autobiography", Miles Davis with Quincy Troupe, 1989, pg.105</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Cook, Richard. <i>It's About That Time: Miles Davis On and Off Record</i>. New York: Oxford University Press, 2005. pg 10</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Chambers, Jack. <i>Milestones 1: The Music and Times of Miles Davis to 1960</i>. New York: Beech Tree Books (<a href="/wiki/William_Morrow_and_Company" title="William Morrow and Company">William Morrow and Company</a>), 1983. p. 98.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Gioia, Ted. <i>The Birth (And Death) of the Cool</i>. Golden, Colo.: Speck Press, 2009. 83.</span>
+</li>
+<li id="cite_note-ReferenceA-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ReferenceA_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ReferenceA_8-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Hentoff, Nat. "The Birth of the Cool." <i>Down Beat</i>, May 2, 1957: 15–16</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Chambers, p. 97</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Klinkowitz, Jerome. <i>Listen: Gerry Mulligan, An Aural Narrative In Jazz</i>. New York: Schirmer Books, 1991. p.38</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Berrett, Joshua and Louis G. Bourgois. <i>The Musical World of J.J. Johnson</i>. Scarecrow Press, 1999. 64</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Cook, Richard. <i>It's About That Time: Miles Davis On and Off Record</i>. New York: Oxford University Press, 2005 p. 16</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Gioia, Ted. <i>The History of Jazz</i>. 282</span>
+</li>
+<li id="cite_note-Chambers,_101-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Chambers,_101_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Chambers,_101_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Chambers, 101.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Chambers, 102.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">"By the time the band opened at the Roost, Zwerin and everyone else should have been fully aware of their collaborative nature, if only because of the billing they were given on the sidewalk sign outside the club ... Evans recall. "Miles had it put in front, no one before had ever done that, given credit that way to arrangers." Chambers, 103.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Cook, p.17</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news">McLellan, Dennis (October 18, 2011). <a class="external text" href="http://articles.latimes.com/2011/oct/18/local/la-me-pete-rugolo-20111018" rel="nofollow">"Pete Rugolo obituary: Jazz composer, arranger wrote TV themes"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. Los Angeles: <a class="mw-redirect" href="/wiki/Tribune_Company" title="Tribune Company">Tribune Company</a><span class="reference-accessdate">. Retrieved <span class="nowrap">April 26,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=Pete+Rugolo+obituary%3A+Jazz+composer%2C+arranger+wrote+TV+themes&amp;rft.date=2011-10-18&amp;rft.aulast=McLellan&amp;rft.aufirst=Dennis&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F2011%2Foct%2F18%2Flocal%2Fla-me-pete-rugolo-20111018&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABirth+of+the+Cool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Cook, Richard. <i>It's About That Time: Miles Davis On and Off Record</i>. New York: Oxford University Press, 2005. p. 17</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Cook, p. 20</span>
+</li>
+<li id="cite_note-Cook,_p.18-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cook,_p.18_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cook,_p.18_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Cook, p.18</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Gioia, "The History of Jazz". p. 282.</span>
+</li>
+<li id="cite_note-Gioia,_The_History_of_Jazz._281-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gioia,_The_History_of_Jazz._281_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gioia,_The_History_of_Jazz._281_23-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gioia,_The_History_of_Jazz._281_23-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Gioia, "The History of Jazz". 281</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Cook, p. 19</span>
+</li>
+<li id="cite_note-Chambers,_94-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Chambers,_94_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Chambers,_94_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Chambers, 94</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Gioia, Ted. <i>The History of Jazz</i>. 281–282.</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Crease, Stephanie. "Gil Evans: Forever Cool." <i>Down Beat</i>, May 2012. p. 33</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Hentoff, p. 16</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Chambers, p. 98-99</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Klinkowitz, p. 27</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Davis, Miles. <i>Miles Davis-Birth of the Cool: Scores from the Original Parts</i>. Ed. Jeff B. Sultanof. Milwaukee, WI.: Hal Leonard Corporation, 2002. p. 2</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Cook, 16–17</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Birth of the Cool, 2000 reissue CD booklet</span>
+</li>
+<li id="cite_note-Erlewine-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-Erlewine_34-0">^</a></b></span> <span class="reference-text">Erlewine, Stephen Thomas (November 1, 2001). <a class="external text" href="http://www.allmusic.com/album/birth-of-the-cool-r104727/review" rel="nofollow">Review: <i>Birth of the Cool</i></a>. <a class="mw-redirect" href="/wiki/Allmusic" title="Allmusic">Allmusic</a>. Retrieved on 2011-01-02.</span>
+</li>
+<li id="cite_note-acclaimed-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-acclaimed_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-acclaimed_35-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-acclaimed_35-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-acclaimed_35-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-acclaimed_35-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.acclaimedmusic.net/Current/A1788.htm" rel="nofollow">Acclaimed Music – Classics in Jazz/Birth of the Cool</a> <a class="external text" href="https://web.archive.org/web/20080704202120/http://www.acclaimedmusic.net/Current/A1788.htm" rel="nofollow">Archived</a> July 4, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <a href="/wiki/Acclaimed_Music" title="Acclaimed Music">Acclaimed Music</a>. Retrieved on 2011-01-02.</span>
+</li>
+<li id="cite_note-notes-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-notes_36-0">^</a></b></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20100418200813/http://www.cduniverse.com/search/xx/music/pid/1578474/a/Birth+Of+The+Cool.htm" rel="nofollow">Product Notes – <i>Birth of the Cool</i></a>. <a href="/wiki/Muze" title="Muze">Muze</a>. Retrieved on 2011-01-02.</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">Cook, p. 17</span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">Chambers, p. 106</span>
+</li>
+<li id="cite_note-Gioia,_p._283-39"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gioia,_p._283_39-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gioia,_p._283_39-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gioia,_p._283_39-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Gioia, <i>The History of Jazz</i>. p. 283</span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">Kernfeld, Barry. "Miles Davis." Grove Music Online. Web. Apr 24, 2012. 2. Music. &lt;<a class="external free" href="http://www.oxfordmusiconline.com/subscriber/article/grove/music/07310?q=miles+davis&amp;search=quick&amp;pos=1&amp;_start=1#firsthit" rel="nofollow">http://www.oxfordmusiconline.com/subscriber/article/grove/music/07310?q=miles+davis&amp;search=quick&amp;pos=1&amp;_start=1#firsthit</a>&gt;.</span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">Chambers, p. 105</span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text">Henthoff, p.15</span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text">Davis, p.4</span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation book">Robert Dimery; Michael Lydon (February 7, 2006). <i>1001 Albums You Must Hear Before You Die: Revised and Updated Edition</i>. Universe. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7893-1371-5" title="Special:BookSources/0-7893-1371-5"><bdi>0-7893-1371-5</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=1001+Albums+You+Must+Hear+Before+You+Die%3A+Revised+and+Updated+Edition&amp;rft.pub=Universe&amp;rft.date=2006-02-07&amp;rft.isbn=0-7893-1371-5&amp;rft.au=Robert+Dimery&amp;rft.au=Michael+Lydon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABirth+of+the+Cool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Larkin-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-Larkin_45-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a class="mw-redirect" href="/wiki/Colin_Larkin_(writer)" title="Colin Larkin (writer)">Colin Larkin</a>, ed. (2000). <i><a href="/wiki/All_Time_Top_1000_Albums" title="All Time Top 1000 Albums">All Time Top 1000 Albums</a></i> (3rd ed.). <a href="/wiki/Virgin_Books" title="Virgin Books">Virgin Books</a>. p. 138. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7535-0493-6" title="Special:BookSources/0-7535-0493-6"><bdi>0-7535-0493-6</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=All+Time+Top+1000+Albums&amp;rft.pages=138&amp;rft.edition=3rd&amp;rft.pub=Virgin+Books&amp;rft.date=2000&amp;rft.isbn=0-7535-0493-6&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABirth+of+the+Cool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text">Klinkowitz, p. 6-12</span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text">Gioia, "The Birth and Death of the Cool". p. 86</span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text">Crease, p. 35</span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text">"Miles: The Autobiography", Miles Davis with Quincy Troupe, 1989, pg.140</span>
+</li>
+<li id="cite_note-Sultanof-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sultanof_50-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sultanof, Jeffrey (Fall 2011). <a class="external text" href="https://docs.google.com/viewer?a=v&amp;q=cache:VAr4up5wYMQJ:jjs.libraries.rutgers.edu/index.php/jjs/article/view/14/25+&amp;hl=en&amp;gl=us&amp;pid=bl&amp;srcid=ADGEEShZg5Msggy7-NyDc2iHUlZIkfkcHRAwuEy-Tlr-MDpWl8W_GKdfj8N4JfNI6tVLf3f0JKuIiahRc4plHlCmkWFo75VV1lQHoQwizGZu7DipTvWrqPBaHDrPx0r0D_jwi2Sp2Kok&amp;sig=AHIEtbRjXPpV13p74yCJthUE1dsRzh6msw" rel="nofollow">"The Miles Davis Nonet Manuscripts Lost and Found: From Manuscript to Publication"</a>. <i>Journal of Jazz Studies</i>. <b>7</b> (2): 208<span class="reference-accessdate">. Retrieved <span class="nowrap">April 1,</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Jazz+Studies&amp;rft.atitle=The+Miles+Davis+Nonet+Manuscripts+Lost+and+Found%3A+From+Manuscript+to+Publication&amp;rft.ssn=fall&amp;rft.volume=7&amp;rft.issue=2&amp;rft.pages=208&amp;rft.date=2011&amp;rft.aulast=Sultanof&amp;rft.aufirst=Jeffrey&amp;rft_id=https%3A%2F%2Fdocs.google.com%2Fviewer%3Fa%3Dv%26q%3Dcache%3AVAr4up5wYMQJ%3Ajjs.libraries.rutgers.edu%2Findex.php%2Fjjs%2Farticle%2Fview%2F14%2F25%2B%26hl%3Den%26gl%3Dus%26pid%3Dbl%26srcid%3DADGEEShZg5Msggy7-NyDc2iHUlZIkfkcHRAwuEy-Tlr-MDpWl8W_GKdfj8N4JfNI6tVLf3f0JKuIiahRc4plHlCmkWFo75VV1lQHoQwizGZu7DipTvWrqPBaHDrPx0r0D_jwi2Sp2Kok%26sig%3DAHIEtbRjXPpV13p74yCJthUE1dsRzh6msw&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABirth+of+the+Cool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sultanof, Jeffrey (Fall 2011). "The Miles Davis Nonet Manuscripts Lost and Found: From Manuscript to Publication". <i>Journal of Jazz Studies</i>. <b>7</b> (2): 204.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Jazz+Studies&amp;rft.atitle=The+Miles+Davis+Nonet+Manuscripts+Lost+and+Found%3A+From+Manuscript+to+Publication&amp;rft.ssn=fall&amp;rft.volume=7&amp;rft.issue=2&amp;rft.pages=204&amp;rft.date=2011&amp;rft.aulast=Sultanof&amp;rft.aufirst=Jeffrey&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABirth+of+the+Cool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<p><b>Sources</b>
+</p>
+<ul><li>Berrett, Joshua and Louis G. Bourgois. <i>The Musical World of J.J. Johnson.</i> Scarecrow Press, 1999. <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-8108-3648-8" title="Special:BookSources/978-0-8108-3648-8">978-0-8108-3648-8</a>.</li>
+<li>Chambers, Jack. <i>Milestones 1: The Music and Times of Miles Davis to 1960.</i> New York: Beach Tree Books, 1983. <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-688-02635-6" title="Special:BookSources/978-0-688-02635-6">978-0-688-02635-6</a>.</li>
+<li><a href="/wiki/Richard_Cook_(journalist)" title="Richard Cook (journalist)">Cook, Richard</a>. <i>It's About That Time: Miles Davis On and Off Record.</i> New York: Oxford University Press, 2005. <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-532266-8" title="Special:BookSources/978-0-19-532266-8">978-0-19-532266-8</a>.</li>
+<li>Crease, Stephanie. "Gil Evans: Forever Cool." <i>Down Beat,</i> May 2012. p. 33-35.</li>
+<li>Davis, Miles. <i>Miles Davis-Birth of the Cool: Scores from the Original Parts.</i> Ed. Jeff B. Sultanof. Milwaukee, WI.: Hal Leonard Corporation, 2002. <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-634-00682-1" title="Special:BookSources/978-0-634-00682-1">978-0-634-00682-1</a>.</li>
+<li>Fordham, John. <a class="external text" href="https://www.theguardian.com/music/musicblog/2009/nov/02/birth-cool-jazz" rel="nofollow">"50 Great Moments in Jazz: Birth of the Cool"</a>, <i>The Guardian.</i> Posted November 2, 2009. Retrieved April 24, 2012.</li>
+<li><a href="/wiki/Ted_Gioia" title="Ted Gioia">Gioia, Ted</a>. <i>The History of Jazz.</i> New York: Oxford University Press, 1997. <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-512653-2" title="Special:BookSources/978-0-19-512653-2">978-0-19-512653-2</a>.</li>
+<li>Gioia, Ted. <a class="external text" href="https://web.archive.org/web/20081012063305/http://www.jazz.com/jazz-blog/2008/9/3/birth-of-cool" rel="nofollow">"Miles Davis's Memorable Nonet."</a> Jazz.com. Posted September 3, 2008.</li>
+<li>Gioia, Ted. <i>The Birth (and Death) of the Cool.</i> Golden, Colo.: Speck Press, 2009. <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-933108-31-5" title="Special:BookSources/978-1-933108-31-5">978-1-933108-31-5</a>.</li>
+<li>Gridley, Mark C. <i>Jazz Styles.</i> Tenth Edition. Prentice Hall, 2009.</li>
+<li>Hamilton, Andy. <i>Lee Konitz, Conversations on the Improviser's Art.</i> Ann Arbor, Mich.: The University of Michigan Press, 2007. <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-472-03217-4" title="Special:BookSources/978-0-472-03217-4">978-0-472-03217-4</a>.</li>
+<li><a href="/wiki/Nat_Hentoff" title="Nat Hentoff">Hentoff, Nat</a>. "The Birth of the Cool." <i>Down Beat,</i> May 2, 1957: 15–16. Print.</li>
+<li>Kernfeld, Barry. "Miles Davis." Grove Music Online. Web. Apr 24, 2012.</li>
+<li>Klinkowitz, Jerome. <i>Listen: Gerry Mulligan. An Aural Narrative in Jazz.</i> New York: Schirmer Books, 1991. <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-02-871265-9" title="Special:BookSources/978-0-02-871265-9">978-0-02-871265-9</a>.</li>
+<li>Sultanof, Jeff. <a class="external text" href="https://web.archive.org/web/20080924120325/http://www.jazz.com/dozens/the-dozens-the-birth-of-the-cool" rel="nofollow">"The Dozens: The Birth of the Cool."</a> Jazz.com. (No date, prbl. 1998).</li></ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=17" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Davis, Miles; Troupe, Quincy, <a class="external text" href="https://books.google.com/books?id=xgAVXHhuNYgC&amp;printsec=frontcover" rel="nofollow">Miles, the autobiography</a>, Simon and Schuster, 1990. <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-671-72582-2" title="Special:BookSources/978-0-671-72582-2">978-0-671-72582-2</a>. Cf. <a class="external text" href="https://books.google.com/books?id=xgAVXHhuNYgC&amp;printsec=frontcover#PPA117,M1" rel="nofollow">pp.117–118</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a class="external text" href="http://www.discogs.com/Miles-Davis-Birth-Of-The-Cool/master/62308" rel="nofollow">Birth of the Cool</a></i> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li></ul>
+<div aria-labelledby="Miles_Davis" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background: #f4bf92;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Miles_Davis" title="Template:Miles Davis"><abbr style=";background: #f4bf92;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Miles_Davis" title="Template talk:Miles Davis"><abbr style=";background: #f4bf92;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Miles_Davis&amp;action=edit"><abbr style=";background: #f4bf92;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div class="fn" id="Miles_Davis" style="font-size:114%;margin:0 4em"><a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="Discography"><a href="/wiki/Miles_Davis_discography" title="Miles Davis discography">Discography</a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks vcard navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Prestige era</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_New_Sounds" title="The New Sounds">The New Sounds</a></i></li>
+<li><i><a href="/wiki/Young_Man_with_a_Horn_(Miles_Davis_album)" title="Young Man with a Horn (Miles Davis album)">Young Man with a Horn</a></i></li>
+<li><i><a href="/wiki/Blue_Period_(album)" title="Blue Period (album)">Blue Period</a></i></li>
+<li><i><a href="/wiki/The_Compositions_Of_Al_Cohn" title="The Compositions Of Al Cohn">The Compositions Of Al Cohn</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_Volume_2" title="Miles Davis Volume 2">Miles Davis Volume 2</a></i></li>
+<li><i><a href="/wiki/Miles_Davis,_Volume_3" title="Miles Davis, Volume 3">Miles Davis, Volume 3</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_Quartet_(album)" title="Miles Davis Quartet (album)">Miles Davis Quartet</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_All-Star_Sextet_(album)" title="Miles Davis All-Star Sextet (album)">Miles Davis All-Star Sextet</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_Quintet_(album)" title="Miles Davis Quintet (album)">Miles Davis Quintet</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_with_Sonny_Rollins" title="Miles Davis with Sonny Rollins">Miles Davis with Sonny Rollins</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_All_Stars,_Volume_1" title="Miles Davis All Stars, Volume 1">Miles Davis All Stars, Volume 1</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_All_Stars,_Volume_2" title="Miles Davis All Stars, Volume 2">Miles Davis All Stars, Volume 2</a></i></li>
+<li><i><a href="/wiki/The_Musings_of_Miles" title="The Musings of Miles">The Musings of Miles</a></i></li>
+<li><i><a href="/wiki/Blue_Moods" title="Blue Moods">Blue Moods</a></i></li>
+<li><i><a href="/wiki/Dig_(Miles_Davis_album)" title="Dig (Miles Davis album)">Dig</a></i></li>
+<li><i><a href="/wiki/Miles:_The_New_Miles_Davis_Quintet" title="Miles: The New Miles Davis Quintet">Miles: The New Miles Davis Quintet</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_and_Horns" title="Miles Davis and Horns">Miles Davis and Horns</a></i></li>
+<li><i><a href="/wiki/Quintet/Sextet" title="Quintet/Sextet">Quintet/Sextet</a></i></li>
+<li><i><a href="/wiki/Collectors%27_Items" title="Collectors' Items">Collectors' Items</a></i></li>
+<li><i><a href="/wiki/Blue_Haze" title="Blue Haze">Blue Haze</a></i></li>
+<li><i><a href="/wiki/Walkin%27" title="Walkin'">Walkin'</a></i></li>
+<li><i><a href="/wiki/Bags%27_Groove" title="Bags' Groove">Bags' Groove</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_and_the_Modern_Jazz_Giants" title="Miles Davis and the Modern Jazz Giants">Miles Davis and the Modern Jazz Giants</a></i></li>
+<li><i><a href="/wiki/Cookin%27_with_the_Miles_Davis_Quintet" title="Cookin' with the Miles Davis Quintet">Cookin' with the Miles Davis Quintet</a></i></li>
+<li><i><a href="/wiki/Relaxin%27_with_the_Miles_Davis_Quintet" title="Relaxin' with the Miles Davis Quintet">Relaxin' with the Miles Davis Quintet</a></i></li>
+<li><i><a href="/wiki/Workin%27_with_the_Miles_Davis_Quintet" title="Workin' with the Miles Davis Quintet">Workin' with the Miles Davis Quintet</a></i></li>
+<li><i><a href="/wiki/Steamin%27_with_the_Miles_Davis_Quintet" title="Steamin' with the Miles Davis Quintet">Steamin' with the Miles Davis Quintet</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Columbia era</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/%27Round_About_Midnight" title="'Round About Midnight">'Round About Midnight</a></i></li>
+<li><i><a href="/wiki/Miles_Ahead_(album)" title="Miles Ahead (album)">Miles Ahead</a></i></li>
+<li><i><a href="/wiki/Milestones_(Miles_Davis_album)" title="Milestones (Miles Davis album)">Milestones</a></i></li>
+<li><i><a href="/wiki/Jazz_Track" title="Jazz Track">Jazz Track</a></i></li>
+<li><i><a href="/wiki/Porgy_and_Bess_(Miles_Davis_album)" title="Porgy and Bess (Miles Davis album)">Porgy and Bess</a></i></li>
+<li><i><a href="/wiki/Kind_of_Blue" title="Kind of Blue">Kind of Blue</a></i></li>
+<li><i><a href="/wiki/Sketches_of_Spain" title="Sketches of Spain">Sketches of Spain</a></i></li>
+<li><i><a href="/wiki/Someday_My_Prince_Will_Come_(Miles_Davis_album)" title="Someday My Prince Will Come (Miles Davis album)">Someday My Prince Will Come</a></i></li>
+<li><i><a href="/wiki/Seven_Steps_to_Heaven" title="Seven Steps to Heaven">Seven Steps to Heaven</a></i></li>
+<li><i><a href="/wiki/Quiet_Nights_(Miles_Davis_and_Gil_Evans_album)" title="Quiet Nights (Miles Davis and Gil Evans album)">Quiet Nights</a></i></li>
+<li><i><a href="/wiki/E.S.P._(Miles_Davis_album)" title="E.S.P. (Miles Davis album)">E.S.P.</a></i></li>
+<li><i><a href="/wiki/Miles_Smiles" title="Miles Smiles">Miles Smiles</a></i></li>
+<li><i><a href="/wiki/Sorcerer_(Miles_Davis_album)" title="Sorcerer (Miles Davis album)">Sorcerer</a></i></li>
+<li><i><a href="/wiki/Nefertiti_(Miles_Davis_album)" title="Nefertiti (Miles Davis album)">Nefertiti</a></i></li>
+<li><i><a href="/wiki/Miles_in_the_Sky" title="Miles in the Sky">Miles in the Sky</a></i></li>
+<li><i><a href="/wiki/Filles_de_Kilimanjaro" title="Filles de Kilimanjaro">Filles de Kilimanjaro</a></i></li>
+<li><i><a href="/wiki/In_a_Silent_Way" title="In a Silent Way">In a Silent Way</a></i></li>
+<li><i><a href="/wiki/Bitches_Brew" title="Bitches Brew">Bitches Brew</a></i></li>
+<li><i><a href="/wiki/Jack_Johnson_(album)" title="Jack Johnson (album)">Jack Johnson</a></i></li>
+<li><i><a href="/wiki/Live-Evil_(Miles_Davis_album)" title="Live-Evil (Miles Davis album)">Live-Evil</a></i></li>
+<li><i><a href="/wiki/On_the_Corner" title="On the Corner">On the Corner</a></i></li>
+<li><i><a href="/wiki/The_Man_with_the_Horn" title="The Man with the Horn">The Man with the Horn</a></i></li>
+<li><i><a href="/wiki/Star_People" title="Star People">Star People</a></i></li>
+<li><i><a href="/wiki/Decoy_(album)" title="Decoy (album)">Decoy</a></i></li>
+<li><i><a href="/wiki/You%27re_Under_Arrest_(Miles_Davis_album)" title="You're Under Arrest (Miles Davis album)">You're Under Arrest</a></i></li>
+<li><i><a href="/wiki/Aura_(Miles_Davis_album)" title="Aura (Miles Davis album)">Aura</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Warner Bros. era</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Rubberband_(Miles_Davis_album)" title="Rubberband (Miles Davis album)">Rubberband</a></i></li>
+<li><i><a href="/wiki/Tutu_(album)" title="Tutu (album)">Tutu</a></i></li>
+<li><i><a href="/wiki/Amandla_(album)" title="Amandla (album)">Amandla</a></i></li>
+<li><i><a href="/wiki/Doo-Bop" title="Doo-Bop">Doo-Bop</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Live<br/>recordings</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Birdland_1951" title="Birdland 1951">Birdland 1951</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_at_Newport_1955%E2%80%931975:_The_Bootleg_Series_Vol._4" title="Miles Davis at Newport 1955–1975: The Bootleg Series Vol. 4">Miles Davis at Newport 1955–1975: The Bootleg Series Vol. 4</a></i></li>
+<li><i><a href="/wiki/Miles_%26_Coltrane" title="Miles &amp; Coltrane">Miles &amp; Coltrane</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_Quintet_at_Peacock_Alley" title="Miles Davis Quintet at Peacock Alley">Miles Davis Quintet at Peacock Alley</a></i></li>
+<li><i><a href="/wiki/Amsterdam_Concert" title="Amsterdam Concert">Amsterdam Concert</a></i></li>
+<li><i><a href="/wiki/At_Newport_1958" title="At Newport 1958">At Newport 1958</a></i></li>
+<li><i><a href="/wiki/Jazz_at_the_Plaza_Vol._I" title="Jazz at the Plaza Vol. I">Jazz at the Plaza Vol. I</a></i></li>
+<li><i><a href="/wiki/In_Person_Friday_and_Saturday_Nights_at_the_Blackhawk,_Complete" title="In Person Friday and Saturday Nights at the Blackhawk, Complete">In Person: At the Blackhawk, San Francisco</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_at_Carnegie_Hall" title="Miles Davis at Carnegie Hall">Miles Davis at Carnegie Hall</a></i></li>
+<li><i><a href="/wiki/Miles_%26_Monk_at_Newport" title="Miles &amp; Monk at Newport">Miles &amp; Monk at Newport</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_in_Europe" title="Miles Davis in Europe">Miles Davis in Europe</a></i></li>
+<li><i><a href="/wiki/Live_at_the_1963_Monterey_Jazz_Festival" title="Live at the 1963 Monterey Jazz Festival">Live at the 1963 Monterey Jazz Festival</a></i></li>
+<li><i><a href="/wiki/My_Funny_Valentine_(Miles_Davis_album)" title="My Funny Valentine (Miles Davis album)">My Funny Valentine</a></i></li>
+<li><i><a href="/wiki/Four_%26_More" title="Four &amp; More">Four &amp; More</a></i></li>
+<li><i><a href="/wiki/Miles_in_Tokyo" title="Miles in Tokyo">Miles in Tokyo</a></i></li>
+<li><i><a href="/wiki/Miles_in_Berlin" title="Miles in Berlin">Miles in Berlin</a></i></li>
+<li><i><a href="/wiki/The_Complete_Live_at_the_Plugged_Nickel_1965" title="The Complete Live at the Plugged Nickel 1965">The Complete Live at the Plugged Nickel 1965</a></i></li>
+<li><i><a href="/wiki/Live_in_Europe_1967:_The_Bootleg_Series_Vol._1" title="Live in Europe 1967: The Bootleg Series Vol. 1">Live in Europe 1967: The Bootleg Series Vol. 1</a></i></li>
+<li><i><a href="/wiki/1969_Miles_%E2%80%93_Festiva_De_Juan_Pins" title="1969 Miles – Festiva De Juan Pins">1969 Miles – Festiva De Juan Pins</a></i></li>
+<li><i><a href="/wiki/Live_in_Europe_1969:_The_Bootleg_Series_Vol._2" title="Live in Europe 1969: The Bootleg Series Vol. 2">Live in Europe 1969: The Bootleg Series Vol. 2</a></i></li>
+<li><i><a href="/wiki/Live_at_the_Fillmore_East,_March_7,_1970:_It%27s_About_that_Time" title="Live at the Fillmore East, March 7, 1970: It's About that Time">Live at the Fillmore East, March 7, 1970: It's About that Time</a></i></li>
+<li><i><a href="/wiki/Bitches_Brew_Live" title="Bitches Brew Live">Bitches Brew Live</a></i></li>
+<li><i><a href="/wiki/Black_Beauty:_Miles_Davis_at_Fillmore_West" title="Black Beauty: Miles Davis at Fillmore West">Black Beauty: Miles Davis at Fillmore West</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_at_Fillmore" title="Miles Davis at Fillmore">Miles Davis at Fillmore</a></i></li>
+<li><i><a href="/wiki/Miles_at_the_Fillmore_%E2%80%93_Miles_Davis_1970:_The_Bootleg_Series_Vol._3" title="Miles at the Fillmore – Miles Davis 1970: The Bootleg Series Vol. 3">Miles at the Fillmore – Miles Davis 1970: The Bootleg Series Vol. 3</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/The_Cellar_Door_Sessions" title="The Cellar Door Sessions">The Cellar Door Sessions</a></i></li>
+<li><i><a href="/wiki/Live-Evil_(Miles_Davis_album)" title="Live-Evil (Miles Davis album)">Live-Evil</a></i></li>
+<li><i><a href="/wiki/In_Concert_(Miles_Davis_album)" title="In Concert (Miles Davis album)">In Concert</a></i></li>
+<li><i><a href="/wiki/Dark_Magus" title="Dark Magus">Dark Magus</a></i></li>
+<li><i><a href="/wiki/Agharta_(album)" title="Agharta (album)">Agharta</a></i></li>
+<li><i><a href="/wiki/Pangaea_(album)" title="Pangaea (album)">Pangaea</a></i></li>
+<li><i><a href="/wiki/Miles!_Miles!_Miles!" title="Miles! Miles! Miles!">Miles! Miles! Miles!</a></i></li>
+<li><i><a href="/wiki/We_Want_Miles" title="We Want Miles">We Want Miles</a></i></li>
+<li><i><a href="/wiki/Live_Around_the_World_(Miles_Davis_album)" title="Live Around the World (Miles Davis album)">Live Around the World</a></i></li>
+<li><i><a href="/wiki/Miles_%26_Quincy_Live_at_Montreux" title="Miles &amp; Quincy Live at Montreux">Miles &amp; Quincy Live at Montreux</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Soundtracks</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Ascenseur_pour_l%27%C3%A9chafaud_(soundtrack)" title="Ascenseur pour l'échafaud (soundtrack)">Ascenseur pour l'échafaud</a></i></li>
+<li><i><a href="/wiki/Music_from_Siesta" title="Music from Siesta">Music from Siesta</a></i></li>
+<li><i><a href="/wiki/The_Hot_Spot#Soundtrack" title="The Hot Spot">The Hot Spot</a></i></li>
+<li><i><a href="/wiki/Dingo_(soundtrack)" title="Dingo (soundtrack)">Dingo</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Compilations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a class="mw-selflink selflink">Birth of the Cool</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_Volume_1" title="Miles Davis Volume 1">Miles Davis Volume 1</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_Volume_2" title="Miles Davis Volume 2">Miles Davis Volume 2</a></i></li>
+<li><i><a href="/wiki/Miles_Davis%27_Greatest_Hits" title="Miles Davis' Greatest Hits">Miles Davis' Greatest Hits</a></i></li>
+<li><i><a href="/wiki/Basic_Miles:_The_Classic_Performances_of_Miles_Davis" title="Basic Miles: The Classic Performances of Miles Davis">Basic Miles: The Classic Performances of Miles Davis</a></i></li>
+<li><i><a href="/wiki/1958_Miles" title="1958 Miles">1958 Miles</a></i></li>
+<li><i><a href="/wiki/Big_Fun_(Miles_Davis_album)" title="Big Fun (Miles Davis album)">Big Fun</a></i></li>
+<li><i><a href="/wiki/Get_Up_with_It" title="Get Up with It">Get Up with It</a></i></li>
+<li><i><a href="/wiki/Water_Babies_(album)" title="Water Babies (album)">Water Babies</a></i></li>
+<li><i><a href="/wiki/Circle_in_the_Round" title="Circle in the Round">Circle in the Round</a></i></li>
+<li><i><a href="/wiki/Directions_(Miles_Davis_album)" title="Directions (Miles Davis album)">Directions</a></i></li>
+<li><i><a href="/wiki/The_Columbia_Years_1955%E2%80%931985" title="The Columbia Years 1955–1985">The Columbia Years 1955–1985</a></i></li>
+<li><i><a href="/wiki/Super_Hits_(Miles_Davis_album)" title="Super Hits (Miles Davis album)">Super Hits</a></i></li>
+<li><i><a href="/wiki/The_Essential_Miles_Davis" title="The Essential Miles Davis">The Essential Miles Davis</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Box-sets</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Complete_Columbia_Recordings_of_Miles_Davis_with_John_Coltrane" title="The Complete Columbia Recordings of Miles Davis with John Coltrane">The Complete Columbia Recordings of Miles Davis with John Coltrane</a></i></li>
+<li><i><a href="/wiki/Miles_Davis_%26_Gil_Evans:_The_Complete_Columbia_Studio_Recordings" title="Miles Davis &amp; Gil Evans: The Complete Columbia Studio Recordings">Miles Davis &amp; Gil Evans: The Complete Columbia Studio Recordings</a></i></li>
+<li><i><a href="/wiki/Seven_Steps:_The_Complete_Columbia_Recordings_of_Miles_Davis_1963%E2%80%931964" title="Seven Steps: The Complete Columbia Recordings of Miles Davis 1963–1964">Seven Steps: The Complete Columbia Recordings of Miles Davis 1963–1964</a></i></li>
+<li><i><a href="/wiki/The_Complete_Studio_Recordings_of_The_Miles_Davis_Quintet_1965%E2%80%931968" title="The Complete Studio Recordings of The Miles Davis Quintet 1965–1968">The Complete Studio Recordings of The Miles Davis Quintet 1965–1968</a></i></li>
+<li><i><a href="/wiki/The_Complete_In_a_Silent_Way_Sessions" title="The Complete In a Silent Way Sessions">The Complete In a Silent Way Sessions</a></i></li>
+<li><i><a href="/wiki/The_Complete_Bitches_Brew_Sessions" title="The Complete Bitches Brew Sessions">The Complete Bitches Brew Sessions</a></i></li>
+<li><i><a href="/wiki/The_Complete_Jack_Johnson_Sessions" title="The Complete Jack Johnson Sessions">The Complete Jack Johnson Sessions</a></i></li>
+<li><i><a href="/wiki/The_Complete_On_the_Corner_Sessions" title="The Complete On the Corner Sessions">The Complete On the Corner Sessions</a></i></li>
+<li><i><a href="/wiki/In_Person_Friday_and_Saturday_Nights_at_the_Blackhawk,_Complete" title="In Person Friday and Saturday Nights at the Blackhawk, Complete">In Person Friday and Saturday Nights at the Blackhawk, Complete</a></i></li>
+<li><i><a href="/wiki/The_Complete_Live_at_the_Plugged_Nickel_1965" title="The Complete Live at the Plugged Nickel 1965">The Complete Live at the Plugged Nickel 1965</a></i></li>
+<li><i><a href="/wiki/The_Complete_Miles_Davis_at_Montreux" title="The Complete Miles Davis at Montreux">The Complete Miles Davis at Montreux</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/The_Cellar_Door_Sessions" title="The Cellar Door Sessions">The Cellar Door Sessions</a></i></li>
+<li><i><a href="/wiki/Miles_Davis:_The_Complete_Columbia_Album_Collection" title="Miles Davis: The Complete Columbia Album Collection">Miles Davis: The Complete Columbia Album Collection</a></i></li>
+<li><i><a href="/wiki/The_Legendary_Prestige_Quintet_Sessions" title="The Legendary Prestige Quintet Sessions">The Legendary Prestige Quintet Sessions</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Remix albums</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Panthalassa:_The_Music_of_Miles_Davis_1969%E2%80%931974" title="Panthalassa: The Music of Miles Davis 1969–1974">Panthalassa: The Music of Miles Davis 1969–1974</a></i></li>
+<li><i><a href="/wiki/Panthalassa:_The_Remixes" title="Panthalassa: The Remixes">Panthalassa: The Remixes</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Evolution_of_the_Groove" title="Evolution of the Groove">Evolution of the Groove</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Compositions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/All_Blues" title="All Blues">All Blues</a>"</li>
+<li>"<a href="/wiki/Blue_in_Green" title="Blue in Green">Blue in Green</a>"</li>
+<li>"<a href="/wiki/Boplicity" title="Boplicity">Boplicity</a>"</li>
+<li>"<a href="/wiki/Dig_(composition)" title="Dig (composition)">Dig</a>"</li>
+<li>"<a href="/wiki/Donna_Lee" title="Donna Lee">Donna Lee</a>"</li>
+<li>"<a href="/wiki/Four_(composition)" title="Four (composition)">Four</a>"</li>
+<li>"<a href="/wiki/Flamenco_Sketches" title="Flamenco Sketches">Flamenco Sketches</a>"</li>
+<li>"<a href="/wiki/Freddie_Freeloader" title="Freddie Freeloader">Freddie Freeloader</a>"</li>
+<li>"<a href="/wiki/Milestones_(instrumental_composition)" title="Milestones (instrumental composition)">Milestones</a>"</li>
+<li>"<a href="/wiki/Nardis_(composition)" title="Nardis (composition)">Nardis</a>"</li>
+<li>"<a href="/wiki/Seven_Steps_to_Heaven_(composition)" title="Seven Steps to Heaven (composition)">Seven Steps to Heaven</a>"</li>
+<li>"<a href="/wiki/So_What_(Miles_Davis_composition)" title="So What (Miles Davis composition)">So What</a>"</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Miles_Dewey_Davis_Jr." title="Miles Dewey Davis Jr.">Miles Dewey Davis Jr.</a> (father)</li>
+<li><i><a href="/wiki/Miles!_The_Definitive_Miles_Davis_at_Montreux_DVD_Collection" title="Miles! The Definitive Miles Davis at Montreux DVD Collection">Miles! The Definitive Miles Davis at Montreux DVD Collection</a></i></li>
+<li><i><a href="/wiki/That%27s_What_Happened:_Live_in_Germany_1987" title="That's What Happened: Live in Germany 1987">That's What Happened: Live in Germany 1987</a></i></li>
+<li><i><a href="/wiki/Miles_from_India" title="Miles from India">Miles from India</a></i></li>
+<li><i><a href="/wiki/A_Different_Kind_of_Blue" title="A Different Kind of Blue">A Different Kind of Blue</a></i> (2004 documentary)</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><img alt="Wikipedia book" data-file-height="185" data-file-width="180" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/> <a href="/wiki/Book:Miles_Davis" title="Book:Miles Davis">Book</a></b></li>
+<li><b><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Miles_Davis" title="Category:Miles Davis">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div><div aria-labelledby="J.J._Johnson" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks vcard mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background: #f4bf92;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:J._J._Johnson" title="Template:J. J. Johnson"><abbr style=";background: #f4bf92;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:J._J._Johnson" title="Template talk:J. J. Johnson"><abbr style=";background: #f4bf92;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:J._J._Johnson&amp;action=edit"><abbr style=";background: #f4bf92;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div class="fn" id="J.J._Johnson" style="font-size:114%;margin:0 4em"><a href="/wiki/J._J._Johnson" title="J. J. Johnson">J.J. Johnson</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="Years_indicated_are_for_the_recording(s),_not_first_release(except_for_the_film_scores)"><i>Years indicated are for the recording(s), not first release<br/>(except for the film scores)</i></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">As<br/>leader or<br/>co-leader</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/J._J._Johnson%27s_Jazz_Quintets" title="J. J. Johnson's Jazz Quintets">J. J. Johnson's Jazz Quintets</a></i> (1946–49)</li>
+<li><i><a href="/wiki/Jay_Jay_Johnson_with_Clifford_Brown" title="Jay Jay Johnson with Clifford Brown">Jay Jay Johnson with Clifford Brown</a></i>/<i><a href="/wiki/The_Eminent_Jay_Jay_Johnson_Volume_1" title="The Eminent Jay Jay Johnson Volume 1">The Eminent Jay Jay Johnson Volume 1</a></i>/<br/><i><a href="/wiki/The_Eminent_Jay_Jay_Johnson_Volume_2" title="The Eminent Jay Jay Johnson Volume 2">The Eminent Jay Jay Johnson Volume 2</a></i> (1953–55)</li>
+<li><i><a href="/wiki/The_Eminent_Jay_Jay_Johnson_Volume_3" title="The Eminent Jay Jay Johnson Volume 3">The Eminent Jay Jay Johnson Volume 3</a></i> (1955)</li>
+<li><i><a href="/wiki/J_Is_for_Jazz" title="J Is for Jazz">J Is for Jazz</a></i> (1956)</li>
+<li><i><a href="/wiki/First_Place" title="First Place">First Place</a></i> (1957)</li>
+<li><i><a href="/wiki/Blue_Trombone" title="Blue Trombone">Blue Trombone</a></i> (1957)</li>
+<li><i><a href="/wiki/Dial_J._J._5" title="Dial J. J. 5">Dial J. J. 5</a></i> (1957)</li>
+<li><i><a href="/wiki/Stan_Getz_and_J._J._Johnson_at_the_Opera_House" title="Stan Getz and J. J. Johnson at the Opera House">Stan Getz and J. J. Johnson at the Opera House</a></i> (1957)</li>
+<li><i><a href="/wiki/J._J._in_Person!" title="J. J. in Person!">J. J. in Person!</a></i> (1957)</li>
+<li><i><a href="/wiki/Really_Livin%27" title="Really Livin'">Really Livin'</a></i> (1959)</li>
+<li><i><a href="/wiki/Trombone_and_Voices" title="Trombone and Voices">Trombone and Voices</a></i> (1960)</li>
+<li><i><a href="/wiki/J.J._Inc." title="J.J. Inc.">J.J. Inc.</a></i> (1960)</li>
+<li><i><a href="/wiki/A_Touch_of_Satin" title="A Touch of Satin">A Touch of Satin</a></i> (1960–61)</li>
+<li><i><a href="/wiki/Andr%C3%A9_Previn_and_J._J._Johnson" title="André Previn and J. J. Johnson">André Previn and J. J. Johnson</a></i> (1961)</li>
+<li><i><a href="/wiki/J.J.%27s_Broadway" title="J.J.'s Broadway">J.J.'s Broadway</a></i> (1963)</li>
+<li><i><a href="/wiki/Proof_Positive_(album)" title="Proof Positive (album)">Proof Positive</a></i> (1964)</li>
+<li><i><a href="/wiki/J.J.!" title="J.J.!">J.J.!</a></i> (1964)</li>
+<li><i><a href="/wiki/Goodies_(J._J._Johnson_album)" title="Goodies (J. J. Johnson album)">Goodies</a></i> (1965)</li>
+<li><i><a href="/wiki/Broadway_Express_(album)" title="Broadway Express (album)">Broadway Express</a></i> (1965)</li>
+<li><i><a href="/wiki/The_Total_J.J._Johnson" title="The Total J.J. Johnson">The Total J.J. Johnson</a></i> (1966)</li>
+<li><i><a href="/wiki/The_Yokohama_Concert" title="The Yokohama Concert">The Yokohama Concert</a></i> (with <a href="/wiki/Nat_Adderley" title="Nat Adderley">Nat Adderley</a>, 1977)</li>
+<li><i><a href="/wiki/Chain_Reaction:_Yokohama_Concert,_Vol._2" title="Chain Reaction: Yokohama Concert, Vol. 2">Chain Reaction: Yokohama Concert, Vol. 2</a></i> (with Nat Adderley, 1977)</li>
+<li><i><a href="/wiki/Pinnacles_(album)" title="Pinnacles (album)">Pinnacles</a></i> (1979)</li>
+<li><i><a href="/wiki/Concepts_in_Blue" title="Concepts in Blue">Concepts in Blue</a></i> (1980)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">With<br/><a href="/wiki/Kai_Winding" title="Kai Winding">Kai Winding</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/K_%2B_J.J." title="K + J.J.">K + J.J.</a></i> (aka, <i>Nuf Said</i>, 1955)</li>
+<li><i><a href="/wiki/Trombone_for_Two" title="Trombone for Two">Trombone for Two</a></i> (1955)</li>
+<li><i><a href="/wiki/Dave_Brubeck_and_Jay_%26_Kai_at_Newport" title="Dave Brubeck and Jay &amp; Kai at Newport">Dave Brubeck and Jay &amp; Kai at Newport</a></i> (one side each, 1956)</li>
+<li><i><a href="/wiki/Jay_and_Kai_%2B_6" title="Jay and Kai + 6">Jay and Kai + 6</a></i> (1956)</li>
+<li><i><a href="/wiki/Jay_and_Kai" title="Jay and Kai">Jay and Kai</a></i> (1955–57)</li>
+<li><i><a href="/wiki/The_Great_Kai_%26_J._J." title="The Great Kai &amp; J. J.">The Great Kai &amp; J. J.</a></i> (1960)</li>
+<li><i><a href="/wiki/Israel_(album)" title="Israel (album)">Israel</a></i> (1968)</li>
+<li><i><a href="/wiki/Betwixt_%26_Between" title="Betwixt &amp; Between">Betwixt &amp; Between</a></i> (1968)</li>
+<li><i><a href="/wiki/Stonebone" title="Stonebone">Stonebone</a></i> (1969)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Albums<br/>as<br/>sideman or<br/>arranger/<br/>composer</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Julian_%22Cannonball%22_Adderley_(album)" title='Julian "Cannonball" Adderley (album)'>Julian "Cannonball" Adderley</a></i> (1955)</li>
+<li><i><a href="/wiki/Sayin%27_Somethin%27" title="Sayin' Somethin'">Sayin' Somethin'</a></i> (<a href="/wiki/Nat_Adderley" title="Nat Adderley">Nat Adderley</a>, 1966)</li>
+<li><i><a href="/wiki/The_Soul_of_the_City" title="The Soul of the City">The Soul of the City</a></i> (<a href="/wiki/Manny_Albam" title="Manny Albam">Manny Albam</a>, 1966)</li>
+<li><i><a href="/wiki/Basie_Jam" title="Basie Jam">Basie Jam</a></i> (<a href="/wiki/Count_Basie" title="Count Basie">Count Basie</a>, 1973)</li>
+<li><i><a href="/wiki/The_Bosses" title="The Bosses">The Bosses</a></i> (Count Basie/<a href="/wiki/Big_Joe_Turner" title="Big Joe Turner">"Big Joe" Turner</a>, 1973)</li>
+<li><i><a href="/wiki/Night_Song_(Kenny_Burrell_album)" title="Night Song (Kenny Burrell album)">Night Song</a></i> (<a href="/wiki/Kenny_Burrell" title="Kenny Burrell">Kenny Burrell</a>, 1969)</li>
+<li><i><a href="/wiki/I%27m_Tryin%27_to_Get_Home" title="I'm Tryin' to Get Home">I'm Tryin' to Get Home</a></i> (<a href="/wiki/Donald_Byrd" title="Donald Byrd">Donald Byrd</a>, 1964)</li>
+<li><i><a href="/wiki/New_York_Slick" title="New York Slick">New York Slick</a></i> (<a href="/wiki/Ron_Carter" title="Ron Carter">Ron Carter</a>, 1979)</li>
+<li><i><a class="mw-selflink selflink">Birth of the Cool</a></i> (<a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a>, 1949–50)</li>
+<li><i><a href="/wiki/Young_Man_with_a_Horn_(Miles_Davis_album)" title="Young Man with a Horn (Miles Davis album)">Young Man with a Horn</a></i>/<i><a href="/wiki/Miles_Davis_Volume_1" title="Miles Davis Volume 1">Miles Davis Volume 1</a></i>/<i><a href="/wiki/Miles_Davis_Volume_2" title="Miles Davis Volume 2">Miles Davis Volume 2</a></i> (1952)</li>
+<li><i><a href="/wiki/Summertime_(Paul_Desmond_album)" title="Summertime (Paul Desmond album)">Summertime</a></i> (<a href="/wiki/Paul_Desmond" title="Paul Desmond">Paul Desmond</a>, 1968)</li>
+<li><i><a href="/wiki/Afro-Cuban_(album)" title="Afro-Cuban (album)">Afro-Cuban</a></i> (<a href="/wiki/Kenny_Dorham" title="Kenny Dorham">Kenny Dorham</a>, 1955)</li>
+<li><i><a href="/wiki/At_the_Opera_House" title="At the Opera House">At the Opera House</a></i> (<a href="/wiki/Ella_Fitzgerald" title="Ella Fitzgerald">Ella Fitzgerald</a>, 1957)</li>
+<li><i><a href="/wiki/The_Complete_RCA_Victor_Recordings" title="The Complete RCA Victor Recordings">The Complete RCA Victor Recordings</a></i> (<a href="/wiki/Dizzy_Gillespie" title="Dizzy Gillespie">Dizzy Gillespie</a>, 1949)</li>
+<li><i><a href="/wiki/Dee_Gee_Days:_The_Savoy_Sessions" title="Dee Gee Days: The Savoy Sessions">Dee Gee Days: The Savoy Sessions</a></i> (<a href="/wiki/Dizzy_Gillespie" title="Dizzy Gillespie">Dizzy Gillespie</a>, 1951)</li>
+<li><i><a href="/wiki/Afro_(album)" title="Afro (album)">Afro</a></i> (Dizzy Gillespie, 1954)</li>
+<li><i><a href="/wiki/Dizzy_and_Strings" title="Dizzy and Strings">Dizzy and Strings</a></i> (Dizzy Gillespie, 1954)</li>
+<li><i><a href="/wiki/Perceptions_(Dizzy_Gillespie_album)" title="Perceptions (Dizzy Gillespie album)">Perceptions</a></i> (Dizzy Gillespie, a/c only, 1960)</li>
+<li><i><a href="/wiki/The_Modern_Touch" title="The Modern Touch">The Modern Touch</a></i> (<a href="/wiki/Benny_Golson" title="Benny Golson">Benny Golson</a>, 1957)</li>
+<li><i><a href="/wiki/The_Hawk_Flies_High" title="The Hawk Flies High">The Hawk Flies High</a></i> (<a href="/wiki/Coleman_Hawkins" title="Coleman Hawkins">Coleman Hawkins</a>, 1957)</li>
+<li><i><a href="/wiki/Lady_in_Satin" title="Lady in Satin">Lady in Satin</a></i> (<a href="/wiki/Billie_Holiday" title="Billie Holiday">Billie Holiday</a>, 1958)</li>
+<li><i><a href="/wiki/And_Then_Again" title="And Then Again">And Then Again</a></i> (<a href="/wiki/Elvin_Jones" title="Elvin Jones">Elvin Jones</a>, 1965)</li>
+<li><i><a href="/wiki/The_Modern_Jazz_Society_Presents_a_Concert_of_Contemporary_Music" title="The Modern Jazz Society Presents a Concert of Contemporary Music">The Modern Jazz Society Presents a Concert of Contemporary Music</a></i> (<a href="/wiki/John_Lewis_(pianist)" title="John Lewis (pianist)">John Lewis</a>, 1955)</li>
+<li><i><a href="/wiki/The_Big_Band" title="The Big Band">The Big Band</a></i> (<a href="/wiki/Jimmy_McGriff" title="Jimmy McGriff">Jimmy McGriff</a>, 1966)</li>
+<li><i><a href="/wiki/Happenings_(Hank_Jones_and_Oliver_Nelson_album)" title="Happenings (Hank Jones and Oliver Nelson album)">Happenings</a></i> (<a href="/wiki/Hank_Jones" title="Hank Jones">Hank Jones</a> &amp; <a href="/wiki/Oliver_Nelson" title="Oliver Nelson">Oliver Nelson</a>, 1966)</li>
+<li><i><a href="/wiki/Encyclopedia_of_Jazz" title="Encyclopedia of Jazz">Encyclopedia of Jazz</a></i> (<a href="/wiki/Oliver_Nelson" title="Oliver Nelson">Oliver Nelson</a>, 1965–66)</li>
+<li><i><a href="/wiki/Nine_Flags" title="Nine Flags">Nine Flags</a></i> (<a href="/wiki/Chico_O%27Farrill" title="Chico O'Farrill">Chico O'Farrill</a>, 1966)</li>
+<li><i><a href="/wiki/Charlie_Parker_on_Dial" title="Charlie Parker on Dial">Charlie Parker on Dial</a></i> (1947)</li>
+<li><i><a href="/wiki/Sonny_Rollins,_Vol._2" title="Sonny Rollins, Vol. 2">Sonny Rollins, Vol. 2</a></i> (1957)</li>
+<li><i><a href="/wiki/Alfie_(Sonny_Rollins_album)" title="Alfie (Sonny Rollins album)">Alfie</a></i> (<a href="/wiki/Sonny_Rollins" title="Sonny Rollins">Sonny Rollins</a>, 1966)</li>
+<li><i><a href="/wiki/Carnival_of_the_Spirits" title="Carnival of the Spirits">Carnival of the Spirits</a></i> (<a href="/wiki/Moacir_Santos" title="Moacir Santos">Moacir Santos</a>, 1975)</li>
+<li><i><a href="/wiki/New_Fantasy" title="New Fantasy">New Fantasy</a></i> (<a href="/wiki/Lalo_Schifrin" title="Lalo Schifrin">Lalo Schifrin</a>, 1964)</li>
+<li><i><a href="/wiki/Once_a_Thief_and_Other_Themes" title="Once a Thief and Other Themes">Once a Thief and Other Themes</a></i> (Lalo Schifrin, 1965)</li>
+<li><i><a href="/wiki/The_Cape_Verdean_Blues" title="The Cape Verdean Blues">The Cape Verdean Blues</a></i> (<a href="/wiki/Horace_Silver" title="Horace Silver">Horace Silver</a>, 1965)</li>
+<li><i><a href="/wiki/Sonny_Stitt_Plays_Arrangements_from_the_Pen_of_Quincy_Jones" title="Sonny Stitt Plays Arrangements from the Pen of Quincy Jones">Sonny Stitt Plays Arrangements from the Pen of Quincy Jones</a></i> (1955)</li>
+<li><i><a href="/wiki/The_Matadors_Meet_the_Bull" title="The Matadors Meet the Bull">The Matadors Meet the Bull</a></i> (<a href="/wiki/Sonny_Stitt" title="Sonny Stitt">Sonny Stitt</a>, 1965)</li>
+<li><i><a href="/wiki/What%27s_New!!!" title="What's New!!!">What's New!!!</a></i> (Sonny Stitt, 1966)</li>
+<li><i><a href="/wiki/Joyride_(Stanley_Turrentine_album)" title="Joyride (Stanley Turrentine album)">Joyride</a></i> (<a href="/wiki/Stanley_Turrentine" title="Stanley Turrentine">Stanley Turrentine</a>, 1965)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Film<br/> scores</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Man_and_Boy_(1971_film)" title="Man and Boy (1971 film)">Man and Boy</a></i> (1971)</li>
+<li><i><a href="/wiki/Across_110th_Street" title="Across 110th Street">Across 110th Street</a></i> (1972)</li>
+<li><i><a href="/wiki/Top_of_the_Heap_(film)" title="Top of the Heap (film)">Top of the Heap</a></i> (1972)</li>
+<li><i><a href="/wiki/Cleopatra_Jones" title="Cleopatra Jones">Cleopatra Jones</a></i> (1973)</li>
+<li><i><a href="/wiki/Willie_Dynamite" title="Willie Dynamite">Willie Dynamite</a></i> (1974)</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div><a href="/wiki/J._J._Johnson_discography" title="J. J. Johnson discography">Discography</a></div></td></tr></tbody></table></div>
+<div aria-labelledby="Gerry_Mulligan" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks vcard mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background: #f4bf92;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Gerry_Mulligan" title="Template:Gerry Mulligan"><abbr style=";background: #f4bf92;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gerry_Mulligan" title="Template talk:Gerry Mulligan"><abbr style=";background: #f4bf92;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Gerry_Mulligan&amp;action=edit"><abbr style=";background: #f4bf92;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div class="fn" id="Gerry_Mulligan" style="font-size:114%;margin:0 4em"><a href="/wiki/Gerry_Mulligan" title="Gerry Mulligan">Gerry Mulligan</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="Years_given_are_for_the_recording(s),_including_the_soundtrack_albums,_not_first_release._Some_of_the_titles_have_been_shortened."><i>Years given are for the recording(s), including the soundtrack albums, not first release. Some of the titles have been shortened.</i></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Albums<br/>as<br/>leader<br/>or<br/>co-leader</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Lee_Konitz_Plays_with_the_Gerry_Mulligan_Quartet" title="Lee Konitz Plays with the Gerry Mulligan Quartet">Lee Konitz Plays with the Gerry Mulligan Quartet</a></i> (1953)</li>
+<li><i><a href="/wiki/Paris_Concert_(Gerry_Mulligan_album)" title="Paris Concert (Gerry Mulligan album)">Paris Concert</a></i> (with <a href="/wiki/Bob_Brookmeyer" title="Bob Brookmeyer">Bob Brookmeyer</a>, 1954)</li>
+<li><i><a href="/wiki/California_Concerts" title="California Concerts">California Concerts</a></i> (1954)</li>
+<li><i><a href="/wiki/Presenting_the_Gerry_Mulligan_Sextet" title="Presenting the Gerry Mulligan Sextet">Presenting the Gerry Mulligan Sextet</a></i> (1955)</li>
+<li><i><a href="/wiki/Mainstream_of_Jazz" title="Mainstream of Jazz">Mainstream of Jazz</a></i> (1956)</li>
+<li><i><a href="/wiki/Recorded_in_Boston_at_Storyville" title="Recorded in Boston at Storyville">At Storyville</a></i> (1956)</li>
+<li><i><a href="/wiki/The_Teddy_Wilson_Trio_%26_Gerry_Mulligan_Quartet_with_Bob_Brookmeyer_at_Newport" title="The Teddy Wilson Trio &amp; Gerry Mulligan Quartet with Bob Brookmeyer at Newport">The Teddy Wilson Trio &amp;<br/>Gerry Mulligan Quartet with Bob Brookmeyer at Newport</a></i> (split album, 1957)</li>
+<li><i><a href="/wiki/Jazz_Giants_%2758" title="Jazz Giants '58">Jazz Giants '58</a></i> (with <a href="/wiki/Harry_Edison" title="Harry Edison">Harry Edison</a>, <a href="/wiki/Stan_Getz" title="Stan Getz">Stan Getz</a>, 1958)</li>
+<li><i><a href="/wiki/Mulligan_Meets_Monk" title="Mulligan Meets Monk">Mulligan Meets Monk</a></i> (with <a href="/wiki/Thelonious_Monk" title="Thelonious Monk">Thelonious Monk</a>, 1957)</li>
+<li><i><a href="/wiki/Blues_in_Time" title="Blues in Time">Blues in Time</a></i> (with <a href="/wiki/Paul_Desmond" title="Paul Desmond">Paul Desmond</a>, 1957)</li>
+<li><i><a href="/wiki/Gerry_Mulligan_Meets_Stan_Getz" title="Gerry Mulligan Meets Stan Getz">Gerry Mulligan Meets Stan Getz</a></i></li>
+<li><i><a href="/wiki/Jazz_Concerto_Grosso" title="Jazz Concerto Grosso">Jazz Concerto Grosso</a></i> (with Bob Brookmeyer, 1957)</li>
+<li><i><a href="/wiki/The_Gerry_Mulligan_Songbook" title="The Gerry Mulligan Songbook">The Gerry Mulligan Songbook</a></i> (1957)</li>
+<li><i><a href="/wiki/Annie_Ross_Sings_a_Song_with_Mulligan!" title="Annie Ross Sings a Song with Mulligan!">Annie Ross Sings a Song with Mulligan!</a></i> (1957–58)</li>
+<li><i><a href="/wiki/What_Is_There_to_Say%3F" title="What Is There to Say?">What Is There to Say?</a></i> (1958–59)</li>
+<li><i><a href="/wiki/Gerry_Mulligan_Meets_Johnny_Hodges" title="Gerry Mulligan Meets Johnny Hodges">Meets Johnny Hodges</a></i> (1959)</li>
+<li><i><a href="/wiki/Gerry_Mulligan_Meets_Ben_Webster" title="Gerry Mulligan Meets Ben Webster">Gerry Mulligan Meets Ben Webster</a></i> (1959)</li>
+<li><i><a href="/wiki/The_Concert_Jazz_Band" title="The Concert Jazz Band">The Concert Jazz Band</a></i> (1960)</li>
+<li><i><a href="/wiki/Gerry_Mulligan_and_the_Concert_Jazz_Band_on_Tour" title="Gerry Mulligan and the Concert Jazz Band on Tour">The Concert Jazz Band on Tour</a></i> (1960)</li>
+<li><i><a href="/wiki/Gerry_Mulligan_and_the_Concert_Jazz_Band_at_the_Village_Vanguard" title="Gerry Mulligan and the Concert Jazz Band at the Village Vanguard">The Concert Jazz Band at the Village Vanguard</a></i> (1960)</li>
+<li><i><a href="/wiki/Holliday_with_Mulligan" title="Holliday with Mulligan">Holliday with Mulligan</a></i> (with <a href="/wiki/Judy_Holliday" title="Judy Holliday">Judy Holliday</a>, 1961)</li>
+<li><i><a href="/wiki/Gerry_Mulligan_Presents_a_Concert_in_Jazz" title="Gerry Mulligan Presents a Concert in Jazz">Presents a Concert in Jazz</a></i> (1961)</li>
+<li><i><a href="/wiki/The_Gerry_Mulligan_Quartet_(1962_album)" title="The Gerry Mulligan Quartet (1962 album)">The Gerry Mulligan Quartet</a></i> (with Bob Brookmeyer, 1962)</li>
+<li><i><a href="/wiki/Jeru_(album)" title="Jeru (album)">Jeru</a></i> (1962)</li>
+<li><i><a href="/wiki/Two_of_a_Mind" title="Two of a Mind">Two of a Mind</a></i> (with Paul Desmond, 1962)</li>
+<li><i><a href="/wiki/Spring_Is_Sprung" title="Spring Is Sprung">Spring Is Sprung</a></i> (1962)</li>
+<li><i><a href="/wiki/Gerry_Mulligan_%2763" title="Gerry Mulligan '63">Gerry Mulligan '63</a></i> (1962)</li>
+<li><i><a href="/wiki/Night_Lights_(Gerry_Mulligan_album)" title="Night Lights (Gerry Mulligan album)">Night Lights</a></i> (1963)</li>
+<li><i><a href="/wiki/Butterfly_with_Hiccups" title="Butterfly with Hiccups">Butterfly with Hiccups</a></i> (1963–64)</li>
+<li><i><a href="/wiki/If_You_Can%27t_Beat_%27Em,_Join_%27Em!" title="If You Can't Beat 'Em, Join 'Em!">If You Can't Beat 'Em, Join 'Em!</a></i> (1965)</li>
+<li><i><a href="/wiki/Feelin%27_Good_(Gerry_Mulligan_album)" title="Feelin' Good (Gerry Mulligan album)">Feelin' Good</a></i> (1965)</li>
+<li><i><a href="/wiki/Something_Borrowed_-_Something_Blue" title="Something Borrowed - Something Blue">Something Borrowed - Something Blue</a></i> (1966)</li>
+<li><i><a href="/wiki/Summit_(album)" title="Summit (album)">Summit</a></i> (with <a href="/wiki/Astor_Piazzolla" title="Astor Piazzolla">Astor Piazzolla</a>, 1974)</li>
+<li><i><a href="/wiki/Walk_on_the_Water_(album)" title="Walk on the Water (album)">Walk on the Water</a></i> (1980)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">With<br/><a href="/wiki/Chet_Baker" title="Chet Baker">Chet<br/>Baker</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Gerry_Mulligan_Quartet_Volume_1" title="Gerry Mulligan Quartet Volume 1">Gerry Mulligan Quartet Volume 1</a></i> (1952)</li>
+<li><i><a href="/wiki/Gerry_Mulligan_Quartet_Volume_2" title="Gerry Mulligan Quartet Volume 2">Gerry Mulligan Quartet Volume 2</a></i> (1953)</li>
+<li><i><a href="/wiki/Gene_Norman_Presents_the_Original_Gerry_Mulligan_Tentet_and_Quartet" title="Gene Norman Presents the Original Gerry Mulligan Tentet and Quartet">Gene Norman Presents the<br/>Original Gerry Mulligan Tentet and Quartet</a></i> (1953)</li>
+<li><i><a href="/wiki/Reunion_with_Chet_Baker" title="Reunion with Chet Baker">Reunion</a></i> (1957)</li>
+<li><i><a href="/wiki/Carnegie_Hall_Concert_(Gerry_Mulligan_and_Chet_Baker_album)" title="Carnegie Hall Concert (Gerry Mulligan and Chet Baker album)">Carnegie Hall Concert</a></i> (1974)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">With<br/><a href="/wiki/Dave_Brubeck" title="Dave Brubeck">Dave<br/>Brubeck</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Live_at_the_Berlin_Philharmonie" title="Live at the Berlin Philharmonie">Live at the Berlin Philharmonie</a></i> (1970)</li>
+<li><i><a href="/wiki/The_Last_Set_at_Newport" title="The Last Set at Newport">The Last Set at Newport</a></i> (1971)</li>
+<li><i><a href="/wiki/We%27re_All_Together_Again_for_the_First_Time" title="We're All Together Again for the First Time">We're All Together Again for the First Time</a></i> (1972)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">With<br/>others</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a class="mw-selflink selflink">Birth of the Cool</a></i> (<a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a>, 1949–50)</li>
+<li><i><a href="/wiki/2:00_AM_Paradise_Cafe" title="2:00 AM Paradise Cafe">2:00 AM Paradise Cafe</a></i> (<a href="/wiki/Barry_Manilow" title="Barry Manilow">Barry Manilow</a>, 1984)</li>
+<li><i><a href="/wiki/Pel%C3%A9_(album)" title="Pelé (album)">Pelé</a></i> (<a href="/wiki/S%C3%A9rgio_Mendes" title="Sérgio Mendes">Sérgio Mendes</a> &amp; <a href="/wiki/Pel%C3%A9" title="Pelé">Pelé</a>, 1977)</li>
+<li><i><a href="/wiki/Charles_Mingus_and_Friends_in_Concert" title="Charles Mingus and Friends in Concert">Charles Mingus and Friends in Concert</a></i> (1972)</li>
+<li><i><a href="/wiki/The_Classic_Concert_Live" title="The Classic Concert Live">The Classic Concert Live</a></i> (with <a href="/wiki/Mel_Torm%C3%A9" title="Mel Tormé">Mel Tormé</a> &amp; <a href="/wiki/George_Shearing" title="George Shearing">George Shearing</a>, 1982)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Soundtracks</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Sound_of_Jazz" title="The Sound of Jazz">The Sound of Jazz</a></i> (1957)</li>
+<li><i><a href="/wiki/I_Want_to_Live!#Musical_score_and_soundtrack" title="I Want to Live!">I Want to Live!</a></i> (1958)</li>
+<li><i><a href="/wiki/The_Subterraneans_(film)#Musical_score_and_soundtrack" title="The Subterraneans (film)">The Subterraneans</a></i> (1960)</li>
+<li><i><a href="/wiki/The_Hot_Rock_(film)#Musical_score_and_soundtrack" title="The Hot Rock (film)">The Hot Rock</a></i> (<a href="/wiki/Quincy_Jones" title="Quincy Jones">Quincy Jones</a>, 1971)</li></ul>
+</div></td></tr></tbody></table></div><div aria-labelledby="Max_Roach" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks vcard mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background: #f4bf92;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Max_Roach" title="Template:Max Roach"><abbr style=";background: #f4bf92;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Max_Roach" title="Template talk:Max Roach"><abbr style=";background: #f4bf92;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Max_Roach&amp;action=edit"><abbr style=";background: #f4bf92;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div class="fn" id="Max_Roach" style="font-size:114%;margin:0 4em"><a href="/wiki/Max_Roach" title="Max Roach">Max Roach</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Albums</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Max_Roach_Quartet_featuring_Hank_Mobley" title="The Max Roach Quartet featuring Hank Mobley">The Max Roach Quartet featuring Hank Mobley</a></i> (1953)</li>
+<li><i><a href="/wiki/Max_Roach_%2B_4" title="Max Roach + 4">Max Roach + 4</a></i> (1956)</li>
+<li><i><a href="/wiki/Jazz_in_3/4_Time" title="Jazz in 3/4 Time">Jazz in 3/4 Time</a></i> (1956–57)</li>
+<li><i><a href="/wiki/The_Max_Roach_4_Plays_Charlie_Parker" title="The Max Roach 4 Plays Charlie Parker">The Max Roach 4 Plays Charlie Parker</a></i> (1957–58)</li>
+<li><i><a href="/wiki/Award-Winning_Drummer" title="Award-Winning Drummer">Award-Winning Drummer</a></i> (1958)</li>
+<li><i><a href="/wiki/Booker_Little_4_and_Max_Roach" title="Booker Little 4 and Max Roach">Booker Little 4 and Max Roach</a></i> (1958)</li>
+<li><i><a href="/wiki/MAX_(album)" title="MAX (album)">MAX</a></i> (1958)</li>
+<li><i><a href="/wiki/Max_Roach_%2B_4_on_the_Chicago_Scene" title="Max Roach + 4 on the Chicago Scene">Max Roach + 4 on the Chicago Scene</a></i> (1958)</li>
+<li><i><a href="/wiki/Max_Roach_%2B_4_at_Newport" title="Max Roach + 4 at Newport">Max Roach + 4 at Newport</a></i> (1958)</li>
+<li><i><a href="/wiki/Max_Roach_with_the_Boston_Percussion_Ensemble" title="Max Roach with the Boston Percussion Ensemble">Max Roach with the Boston Percussion Ensemble</a></i> (1958)</li>
+<li><i><a href="/wiki/Deeds,_Not_Words" title="Deeds, Not Words">Deeds, Not Words</a></i> (1958)</li>
+<li><i><a href="/wiki/Moon_Faced_and_Starry_Eyed" title="Moon Faced and Starry Eyed">Moon Faced and Starry Eyed</a></i> (with <a href="/wiki/Abbey_Lincoln" title="Abbey Lincoln">Abbey Lincoln</a>, 1959)</li>
+<li><i><a href="/wiki/Quiet_as_It%27s_Kept" title="Quiet as It's Kept">Quiet as It's Kept</a></i> (1959)</li>
+<li><i><a href="/wiki/Rich_Versus_Roach" title="Rich Versus Roach">Rich Versus Roach</a></i> (and <a href="/wiki/Buddy_Rich" title="Buddy Rich">Buddy Rich</a>, 1959)</li>
+<li><i><a href="/wiki/The_Many_Sides_of_Max" title="The Many Sides of Max">The Many Sides of Max</a></i> (1959)</li>
+<li><i><a href="/wiki/Long_as_You%27re_Living" title="Long as You're Living">Long as You're Living</a></i> (1960)</li>
+<li><i><a href="/wiki/Parisian_Sketches" title="Parisian Sketches">Parisian Sketches</a></i> (1960)</li>
+<li><i><a href="/wiki/We_Insist!" title="We Insist!">We Insist!</a></i> (1960)</li>
+<li><i><a href="/wiki/Percussion_Bitter_Sweet" title="Percussion Bitter Sweet">Percussion Bitter Sweet</a></i> (1961)</li>
+<li><i><a href="/wiki/It%27s_Time_(Max_Roach_album)" title="It's Time (Max Roach album)">It's Time</a></i> (1962)</li>
+<li><i><a href="/wiki/Money_Jungle" title="Money Jungle">Money Jungle</a></i> (and <a href="/wiki/Duke_Ellington" title="Duke Ellington">Duke Ellington</a>, <a href="/wiki/Charles_Mingus" title="Charles Mingus">Charles Mingus</a>, 1962)</li>
+<li><i><a href="/wiki/Speak,_Brother,_Speak!" title="Speak, Brother, Speak!">Speak, Brother, Speak!</a></i> (1962)</li>
+<li><i><a href="/wiki/The_Max_Roach_Trio_Featuring_the_Legendary_Hasaan" title="The Max Roach Trio Featuring the Legendary Hasaan">The Max Roach Trio Featuring the Legendary Hasaan</a></i> (and <a href="/wiki/Hasaan_Ibn_Ali" title="Hasaan Ibn Ali">Hasaan Ibn Ali</a>, 1964)</li>
+<li><i><a href="/wiki/Drums_Unlimited" title="Drums Unlimited">Drums Unlimited</a></i> (1965)</li>
+<li><i><a href="/wiki/Members,_Don%27t_Git_Weary" title="Members, Don't Git Weary">Members, Don't Git Weary</a></i> (1968)</li>
+<li><i><a href="/wiki/Lift_Every_Voice_and_Sing_(album)" title="Lift Every Voice and Sing (album)">Lift Every Voice and Sing</a></i> (1971)</li>
+<li><i><a href="/wiki/Re:_Percussion" title="Re: Percussion">Re: Percussion</a></i> (<a href="/wiki/M%27Boom" title="M'Boom">M'Boom</a>, <a href="/wiki/Strata-East_Records" title="Strata-East Records">Strata-East</a>, 1973)</li>
+<li><i><a href="/wiki/Birth_and_Rebirth" title="Birth and Rebirth">Birth and Rebirth</a></i> (and <a href="/wiki/Anthony_Braxton" title="Anthony Braxton">Anthony Braxton</a>, 1978)</li>
+<li><i><a href="/wiki/Historic_Concerts" title="Historic Concerts">Historic Concerts</a></i> (and <a href="/wiki/Cecil_Taylor" title="Cecil Taylor">Cecil Taylor</a>, 1979)</li>
+<li><i><a href="/wiki/M%27Boom_(album)" title="M'Boom (album)">M'Boom</a></i> (1979)</li>
+<li><i><a href="/wiki/One_in_Two_%E2%80%93_Two_in_One" title="One in Two – Two in One">One in Two – Two in One</a></i> (and <a href="/wiki/Anthony_Braxton" title="Anthony Braxton">Anthony Braxton</a>, 1979)</li>
+<li><i><a href="/wiki/Pictures_in_a_Frame" title="Pictures in a Frame">Pictures in a Frame</a></i> (1979)</li>
+<li><i><a href="/wiki/The_Long_March_(album)" title="The Long March (album)">The Long March</a></i> (and <a href="/wiki/Archie_Shepp" title="Archie Shepp">Archie Shepp</a>, 1979)</li>
+<li><i><a href="/wiki/In_the_Light_(Max_Roach_album)" title="In the Light (Max Roach album)">In the Light</a></i> (1982)</li>
+<li><i><a href="/wiki/Live_at_Vielharmonie" title="Live at Vielharmonie">Live at Vielharmonie</a></i> (1983)</li>
+<li><i><a href="/wiki/Collage_(M%27Boom_album)" title="Collage (M'Boom album)">Collage</a></i> (M'Boom, 1984)</li>
+<li><i><a href="/wiki/It%27s_Christmas_Again" title="It's Christmas Again">It's Christmas Again</a></i> (1984)</li>
+<li><i><a href="/wiki/Scott_Free_(album)" title="Scott Free (album)">Scott Free</a></i> (1984)</li>
+<li><i><a href="/wiki/Survivors_(Max_Roach_album)" title="Survivors (Max Roach album)">Survivors</a></i> (1984)</li>
+<li><i><a href="/wiki/Easy_Winners_(album)" title="Easy Winners (album)">Easy Winners</a></i> (1985)</li>
+<li><i><a href="/wiki/Bright_Moments_(Max_Roach_album)" title="Bright Moments (Max Roach album)">Bright Moments</a></i> (1986)</li>
+<li><i><a href="/wiki/Max_%2B_Dizzy:_Paris_1989" title="Max + Dizzy: Paris 1989">Max + Dizzy: Paris 1989</a></i> (and <a href="/wiki/Dizzy_Gillespie" title="Dizzy Gillespie">Dizzy Gillespie</a>, 1989)</li>
+<li><i><a href="/wiki/To_the_Max!" title="To the Max!">To the Max!</a></i> (1990–91)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">With <a href="/wiki/Clifford_Brown" title="Clifford Brown">Clifford Brown</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Best_Coast_Jazz" title="Best Coast Jazz">Best Coast Jazz</a></i> (1954)</li>
+<li><i><a href="/wiki/Brown_and_Roach_Incorporated" title="Brown and Roach Incorporated">Brown and Roach Incorporated</a></i> (1954)</li>
+<li><i><a href="/wiki/Clifford_Brown_All_Stars" title="Clifford Brown All Stars">Clifford Brown All Stars</a></i> (1954)</li>
+<li><i><a href="/wiki/Clifford_Brown_%26_Max_Roach" title="Clifford Brown &amp; Max Roach">Clifford Brown &amp; Max Roach</a></i> (1954–55)</li>
+<li><i><a href="/wiki/Daahoud" title="Daahoud">Daahoud</a></i> (1954)</li>
+<li><i><a href="/wiki/Jam_Session_(album)" title="Jam Session (album)">Jam Session</a></i> (and <a href="/wiki/Clark_Terry" title="Clark Terry">Clark Terry</a>, <a href="/wiki/Maynard_Ferguson" title="Maynard Ferguson">Maynard Ferguson</a>, 1954)</li>
+<li><i><a href="/wiki/Clifford_Brown_with_Strings" title="Clifford Brown with Strings">Clifford Brown with Strings</a></i> (1955)</li>
+<li><i><a href="/wiki/Study_in_Brown" title="Study in Brown">Study in Brown</a></i> (1955)</li>
+<li><i><a href="/wiki/Clifford_Brown_and_Max_Roach_at_Basin_Street" title="Clifford Brown and Max Roach at Basin Street">Clifford Brown and Max Roach at Basin Street</a></i> (1956)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Compilations</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Alone_Together:_The_Best_of_the_Mercury_Years" title="Alone Together: The Best of the Mercury Years">Alone Together: The Best of the Mercury Years</a></i> (1954–60)</li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20191214154124
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.004 seconds
+Real time usage: 1.700 seconds
+Preprocessor visited node count: 7185/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 193413/2097152 bytes
+Template argument size: 31478/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 55812/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.315/10.000 seconds
+Lua memory usage: 6.14 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1328.236      1 -total
+ 26.11%  346.783      2 Template:Infobox_album
+ 18.88%  250.715      1 Template:Reflist
+ 18.67%  248.027      4 Template:Infobox
+ 14.60%  193.974      5 Template:Navbox_musical_artist
+ 14.13%  187.692      5 Template:Navbox
+ 13.66%  181.467      9 Template:ISBN
+  9.26%  123.057      1 Template:Album_ratings
+  8.95%  118.897      1 Template:Miles_Davis
+  8.84%  117.394      4 Template:Cite_book
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1106132-0!canonical and timestamp 20191214154123 and revision id 922566681
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Birth_of_the_Cool&amp;oldid=922566681">https://en.wikipedia.org/w/index.php?title=Birth_of_the_Cool&amp;oldid=922566681</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1949_in_American_music" title="Category:1949 in American music">1949 in American music</a></li><li><a href="/wiki/Category:1950_in_American_music" title="Category:1950 in American music">1950 in American music</a></li><li><a href="/wiki/Category:1957_compilation_albums" title="Category:1957 compilation albums">1957 compilation albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Pete_Rugolo" title="Category:Albums produced by Pete Rugolo">Albums produced by Pete Rugolo</a></li><li><a href="/wiki/Category:Capitol_Records_compilation_albums" title="Category:Capitol Records compilation albums">Capitol Records compilation albums</a></li><li><a href="/wiki/Category:Cool_jazz_albums" title="Category:Cool jazz albums">Cool jazz albums</a></li><li><a href="/wiki/Category:Grammy_Hall_of_Fame_Award_recipients" title="Category:Grammy Hall of Fame Award recipients">Grammy Hall of Fame Award recipients</a></li><li><a href="/wiki/Category:Miles_Davis_compilation_albums" title="Category:Miles Davis compilation albums">Miles Davis compilation albums</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_June_2012" title="Category:Use mdy dates from June 2012">Use mdy dates from June 2012</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Birth+of+the+Cool" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Birth+of+the+Cool" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Birth_of_the_Cool" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Birth_of_the_Cool" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Birth_of_the_Cool">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Birth_of_the_Cool&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Birth_of_the_Cool&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Birth_of_the_Cool" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Birth_of_the_Cool" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Birth_of_the_Cool&amp;oldid=922566681" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Birth_of_the_Cool&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q804018" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Birth_of_the_Cool&amp;id=922566681" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Birth+of+the+Cool">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Birth+of+the+Cool&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Birth_of_the_Cool&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Birth_of_the_Cool" hreflang="ca" lang="ca" title="Birth of the Cool – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Birth_of_the_Cool" hreflang="cs" lang="cs" title="Birth of the Cool – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Birth_of_the_Cool" hreflang="da" lang="da" title="Birth of the Cool – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Birth_of_the_Cool" hreflang="de" lang="de" title="Birth of the Cool – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Birth_of_the_Cool" hreflang="es" lang="es" title="Birth of the Cool – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Birth_of_the_Cool" hreflang="eo" lang="eo" title="Birth of the Cool – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Birth_of_the_Cool" hreflang="fr" lang="fr" title="Birth of the Cool – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Birth_of_the_Cool" hreflang="it" lang="it" title="Birth of the Cool – Italian">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Birth_of_the_Cool" hreflang="hu" lang="hu" title="Birth of the Cool – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Birth_of_the_Cool" hreflang="no" lang="no" title="Birth of the Cool – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Birth_of_the_Cool" hreflang="pl" lang="pl" title="Birth of the Cool – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Birth_of_the_Cool" hreflang="pt" lang="pt" title="Birth of the Cool – Portuguese">Português</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Birth_of_the_Cool" hreflang="sv" lang="sv" title="Birth of the Cool – Swedish">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q804018#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 October 2019, at 22:45<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Birth_of_the_Cool&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.004","walltime":"1.700","ppvisitednodes":{"value":7185,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":193413,"limit":2097152},"templateargumentsize":{"value":31478,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":55812,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1328.236      1 -total"," 26.11%  346.783      2 Template:Infobox_album"," 18.88%  250.715      1 Template:Reflist"," 18.67%  248.027      4 Template:Infobox"," 14.60%  193.974      5 Template:Navbox_musical_artist"," 14.13%  187.692      5 Template:Navbox"," 13.66%  181.467      9 Template:ISBN","  9.26%  123.057      1 Template:Album_ratings","  8.95%  118.897      1 Template:Miles_Davis","  8.84%  117.394      4 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.315","limit":"10.000"},"limitreport-memusage":{"value":6436302,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20191214154124","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Birth of the Cool","url":"https:\/\/en.wikipedia.org\/wiki\/Birth_of_the_Cool","sameAs":"http:\/\/www.wikidata.org\/entity\/Q804018","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q804018","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-10-26T21:16:58Z","dateModified":"2019-10-22T22:45:59Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a8\/Birth_of_the_Cool.jpg","headline":"Miles Davis album"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":233,"wgHostname":"mw1263"});});</script>
+
+
+</body></html>

@@ -1,0 +1,1022 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>BizPaL - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfquDwpAICkAAItgkwUAAACY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"BizPaL","wgTitle":"BizPaL","wgCurRevisionId":918344862,"wgRevisionId":918344862,"wgArticleId":18329875,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from May 2019","Articles with permanently dead external links","Articles with dead external links from November 2016",
+"Innovation, Science and Economic Development Canada","2005 establishments in Canada"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"BizPaL","wgRelevantArticleId":18329875,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4919332","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user"
+:"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/BizPaL" rel="alternate"/>
+<link href="/w/index.php?title=BizPaL&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=BizPaL&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/BizPaL" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-BizPaL rootpage-BizPaL skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">BizPaL</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>BizPaL</b> is a web service for <a href="/wiki/Canada" title="Canada">Canadian</a> businesses provided by the federal, and participating provincial/territorial, and municipal governments in Canada.
+</p><p>Based on information provided by the user, it generates a customized list of the necessary permits and licenses from the municipal, provincial/territorial and federal levels of government.
+</p><p>BizPaL is currently active in ten provinces and two territories.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Participating_governments"><span class="tocnumber">2</span> <span class="toctext">Participating governments</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Federal"><span class="tocnumber">2.1</span> <span class="toctext">Federal</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Alberta"><span class="tocnumber">2.2</span> <span class="toctext">Alberta</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#British_Columbia"><span class="tocnumber">2.3</span> <span class="toctext">British Columbia</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Manitoba"><span class="tocnumber">2.4</span> <span class="toctext">Manitoba</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#New_Brunswick"><span class="tocnumber">2.5</span> <span class="toctext">New Brunswick</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Newfoundland_and_Labrador"><span class="tocnumber">2.6</span> <span class="toctext">Newfoundland and Labrador</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Northwest_Territories"><span class="tocnumber">2.7</span> <span class="toctext">Northwest Territories</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Nova_Scotia"><span class="tocnumber">2.8</span> <span class="toctext">Nova Scotia</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Ontario"><span class="tocnumber">2.9</span> <span class="toctext">Ontario</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Prince_Edward_Island"><span class="tocnumber">2.10</span> <span class="toctext">Prince Edward Island</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Saskatchewan"><span class="tocnumber">2.11</span> <span class="toctext">Saskatchewan</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Yukon"><span class="tocnumber">2.12</span> <span class="toctext">Yukon</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>BizPaL is an online service providing information about permit and licensing requirements from the three levels of government in Canada. It is an integrated response by all levels of government to the problems entrepreneurs sometimes encounter when starting up or growing a business.
+</p><p>BizPaL generates a personalized list of the business documents needed from the three levels of government- local, provincial/territorial, and federal- that a new entrepreneur or small business owner may have to deal with in order to start up or grow a business. If the business is already operating, entrepreneurs can use BizPaL to verify that all the correct permits and licences have been obtained.
+</p><p>BizPaL was launched as a pilot project with a lead group of participating governments in December 2005 through the first half of 2006.  The BizPaL service is currently available in more than 1,000 jurisdictions across Canada.
+</p><p>The program is available in provinces, territories, and municipalities which have entered into an agreement between themselves and the federal government.
+</p><p>While the service is an initiative of the federal government, each jurisdiction is responsible for maintaining their own data within the system.
+</p>
+<h2><span class="mw-headline" id="Participating_governments">Participating governments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=2" title="Edit section: Participating governments">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As of January 1, 2018, the Territory of Nunavut is not participating in BizPaL.
+</p><p>The following is a list of participating provinces/territories and municipalities as listed on the BizPaL federal website.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Federal">Federal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=3" title="Edit section: Federal">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Government_of_Canada" title="Government of Canada">Government of Canada</a>
+<ul><li><a class="mw-redirect" href="/wiki/Industry_Canada" title="Industry Canada">Industry Canada</a><a class="external autonumber" href="http://www.canadabusiness.ca/eng/page/2843/" rel="nofollow">[1]</a></li>
+<li><a href="/wiki/Natural_Resources_Canada" title="Natural Resources Canada">Natural Resources Canada</a><a class="external autonumber" href="https://web.archive.org/web/20110706181708/http://www2.nrcan.gc.ca/bizpal/index-eng.cfm" rel="nofollow">[2]</a></li></ul></li></ul>
+<h3><span class="mw-headline" id="Alberta">Alberta</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=4" title="Edit section: Alberta">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a class="mw-redirect" href="/wiki/Government_of_Alberta" title="Government of Alberta">Government of Alberta</a><a class="external autonumber" href="http://www.bizpal.alberta.ca/" rel="nofollow">[3]</a></li></ul>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Airdrie,_Alberta" title="Airdrie, Alberta">Airdrie</a></li>
+<li><a href="/wiki/Amisk,_Alberta" title="Amisk, Alberta">Amisk</a></li>
+<li><a href="/wiki/Arrowwood,_Alberta" title="Arrowwood, Alberta">Arrowwood</a></li>
+<li><a href="/wiki/Banff,_Alberta" title="Banff, Alberta">Banff</a></li>
+<li><a href="/wiki/Barrhead,_Alberta" title="Barrhead, Alberta">Barrhead</a></li>
+<li><a href="/wiki/County_of_Barrhead_No._11" title="County of Barrhead No. 11">Barrhead No. 11, County of</a></li>
+<li><a href="/wiki/Beaumont,_Alberta" title="Beaumont, Alberta">Beaumont</a></li>
+<li><a href="/wiki/Beaver_County,_Alberta" title="Beaver County, Alberta">Beaver County</a></li>
+<li><a href="/wiki/Bittern_Lake" title="Bittern Lake">Bittern Lake</a></li>
+<li><a href="/wiki/Black_Diamond,_Alberta" title="Black Diamond, Alberta">Black Diamond</a></li>
+<li><a class="mw-redirect" href="/wiki/Bonnyville,_Alberta" title="Bonnyville, Alberta">Bonnyville</a></li>
+<li><a href="/wiki/Brazeau_County" title="Brazeau County">Brazeau County</a></li>
+<li><a href="/wiki/Brooks,_Alberta" title="Brooks, Alberta">Brooks</a></li>
+<li><a href="/wiki/Calgary" title="Calgary">Calgary</a></li>
+<li><a href="/wiki/Camrose,_Alberta" title="Camrose, Alberta">Camrose</a></li>
+<li><a href="/wiki/Camrose_County" title="Camrose County">Camrose County</a></li>
+<li><a href="/wiki/Canmore,_Alberta" title="Canmore, Alberta">Canmore</a></li>
+<li><a class="mw-redirect" href="/wiki/Carmangay,_Alberta" title="Carmangay, Alberta">Carmangay</a></li>
+<li><a href="/wiki/Caroline,_Alberta" title="Caroline, Alberta">Caroline</a></li>
+<li><a href="/wiki/Carstairs,_Alberta" title="Carstairs, Alberta">Carstairs</a></li>
+<li><a href="/wiki/Castor,_Alberta" title="Castor, Alberta">Castor</a></li>
+<li><a href="/wiki/Champion,_Alberta" title="Champion, Alberta">Champion</a></li>
+<li><a href="/wiki/Clyde,_Alberta" title="Clyde, Alberta">Clyde</a></li>
+<li><a href="/wiki/Cochrane,_Alberta" title="Cochrane, Alberta">Cochrane</a></li>
+<li><a href="/wiki/Cold_Lake,_Alberta" title="Cold Lake, Alberta">Cold Lake</a></li>
+<li><a href="/wiki/Coronation,_Alberta" title="Coronation, Alberta">Coronation</a></li>
+<li><a href="/wiki/Cremona,_Alberta" title="Cremona, Alberta">Cremona</a></li>
+<li><a href="/wiki/Crossfield,_Alberta" title="Crossfield, Alberta">Crossfield</a></li>
+<li><a href="/wiki/Czar,_Alberta" title="Czar, Alberta">Czar</a></li>
+<li><a href="/wiki/Devon,_Alberta" title="Devon, Alberta">Devon</a></li>
+<li><a href="/wiki/Dewberry,_Alberta" title="Dewberry, Alberta">Dewberry</a></li>
+<li><a href="/wiki/Didsbury,_Alberta" title="Didsbury, Alberta">Didsbury</a></li>
+<li><a href="/wiki/Drayton_Valley" title="Drayton Valley">Drayton Valley</a></li>
+<li><a href="/wiki/Edmonton" title="Edmonton">Edmonton</a></li>
+<li><a href="/wiki/Elnora,_Alberta" title="Elnora, Alberta">Elnora</a></li>
+<li><a href="/wiki/Flagstaff_County" title="Flagstaff County">Flagstaff County</a></li>
+<li><a class="mw-redirect" href="/wiki/Municipal_District_of_Foothills_No._31" title="Municipal District of Foothills No. 31">Foothills No. 31, Municipal District of</a></li>
+<li><a href="/wiki/Fort_Saskatchewan" title="Fort Saskatchewan">Fort Saskatchewan</a></li>
+<li><a href="/wiki/Grande_Cache" title="Grande Cache">Grande Cache</a></li>
+<li><a href="/wiki/Grande_Prairie" title="Grande Prairie">Grande Prairie</a></li>
+<li><a href="/wiki/Halkirk,_Alberta" title="Halkirk, Alberta">Halkirk</a></li>
+<li><a href="/wiki/Hanna,_Alberta" title="Hanna, Alberta">Hanna</a></li>
+<li><a class="mw-redirect" href="/wiki/High_Level,_Alberta" title="High Level, Alberta">High Level</a></li>
+<li><a href="/wiki/High_River" title="High River">High River</a></li>
+<li><a href="/wiki/Hinton,_Alberta" title="Hinton, Alberta">Hinton</a></li>
+<li><a href="/wiki/Hughenden,_Alberta" title="Hughenden, Alberta">Hughenden</a></li>
+<li><a href="/wiki/Lac_La_Biche_County" title="Lac La Biche County">Lac La Biche County</a></li>
+<li><a href="/wiki/Lac_Ste._Anne_County" title="Lac Ste. Anne County">Lac Ste. Anne County</a></li>
+<li><a href="/wiki/Lacombe,_Alberta" title="Lacombe, Alberta">Lacombe</a></li>
+<li><a href="/wiki/Leduc,_Alberta" title="Leduc, Alberta">Leduc</a></li>
+<li><a href="/wiki/Municipal_District_of_Lesser_Slave_River_No._124" title="Municipal District of Lesser Slave River No. 124">Lesser Slave River No. 124, Municipal District of</a></li>
+<li><a href="/wiki/Lethbridge" title="Lethbridge">Lethbridge</a></li>
+<li><a href="/wiki/Lloydminster" title="Lloydminster">Lloydminster</a></li>
+<li><a href="/wiki/Lomond,_Alberta" title="Lomond, Alberta">Lomond</a></li>
+<li><a class="mw-redirect" href="/wiki/Marwayne,_Alberta" title="Marwayne, Alberta">Marwayne</a></li>
+<li><a href="/wiki/Medicine_Hat" title="Medicine Hat">Medicine Hat</a></li>
+<li><a href="/wiki/Milo,_Alberta" title="Milo, Alberta">Milo</a></li>
+<li><a href="/wiki/County_of_Newell" title="County of Newell">Newell, County of</a></li>
+<li><a href="/wiki/County_of_Northern_Lights" title="County of Northern Lights">Northern Lights, County of</a></li>
+<li><a href="/wiki/Northern_Sunrise_County" title="Northern Sunrise County">Northern Sunrise County</a></li>
+<li><a href="/wiki/Okotoks" title="Okotoks">Okotoks</a></li>
+<li><a href="/wiki/Olds,_Alberta" title="Olds, Alberta">Olds</a></li>
+<li><a href="/wiki/County_of_Paintearth_No._18" title="County of Paintearth No. 18">Paintearth No. 18, County of</a></li>
+<li><a href="/wiki/Parkland_County" title="Parkland County">Parkland County</a></li>
+<li><a href="/wiki/Peace_River,_Alberta" title="Peace River, Alberta">Peace River</a></li>
+<li><a class="mw-redirect" href="/wiki/Penhold,_Alberta" title="Penhold, Alberta">Penhold</a></li>
+<li><a href="/wiki/Ponoka,_Alberta" title="Ponoka, Alberta">Ponoka</a></li>
+<li><a href="/wiki/Provost,_Alberta" title="Provost, Alberta">Provost</a></li>
+<li><a href="/wiki/Municipal_District_of_Provost_No._52" title="Municipal District of Provost No. 52">Provost No. 52, Municipal District of</a></li>
+<li><a href="/wiki/Red_Deer,_Alberta" title="Red Deer, Alberta">Red Deer</a></li>
+<li><a href="/wiki/Redwater,_Alberta" title="Redwater, Alberta">Redwater</a></li>
+<li><a href="/wiki/Rocky_Mountain_House" title="Rocky Mountain House">Rocky Mountain House</a></li>
+<li><a href="/wiki/Rocky_View_County" title="Rocky View County">Rocky View County</a></li>
+<li><a class="mw-redirect" href="/wiki/Slave_Lake,_Alberta" title="Slave Lake, Alberta">Slave Lake</a></li>
+<li><a href="/wiki/Smoky_Lake_County" title="Smoky Lake County">Smoky Lake County</a></li>
+<li><a href="/wiki/Municipal_District_of_Spirit_River_No._133" title="Municipal District of Spirit River No. 133">Spirit River No. 133, Municipal District of</a></li>
+<li><a href="/wiki/Spruce_Grove" title="Spruce Grove">Spruce Grove</a></li>
+<li><a href="/wiki/St._Albert,_Alberta" title="St. Albert, Alberta">St. Albert</a></li>
+<li><a href="/wiki/County_of_St._Paul_No._19" title="County of St. Paul No. 19">St. Paul No. 19, County of</a></li>
+<li><a href="/wiki/Stony_Plain,_Alberta" title="Stony Plain, Alberta">Stony Plain</a></li>
+<li><a href="/wiki/Strathcona_County" title="Strathcona County">Strathcona County</a></li>
+<li><a class="mw-redirect" href="/wiki/Sundre,_Alberta" title="Sundre, Alberta">Sundre</a></li>
+<li><a class="mw-redirect" href="/wiki/Swan_Hills,_Alberta" title="Swan Hills, Alberta">Swan Hills</a></li>
+<li><a href="/wiki/Thorhild_County" title="Thorhild County">Thorhild County</a></li>
+<li><a href="/wiki/Two_Hills,_Alberta" title="Two Hills, Alberta">Two Hills</a></li>
+<li><a href="/wiki/County_of_Two_Hills_No._21" title="County of Two Hills No. 21">Two Hills No. 21, County of</a></li>
+<li><a href="/wiki/Vermilion,_Alberta" title="Vermilion, Alberta">Vermilion</a></li>
+<li><a href="/wiki/County_of_Vermilion_River" title="County of Vermilion River">Vermilion River, County of</a></li>
+<li><a href="/wiki/Vulcan,_Alberta" title="Vulcan, Alberta">Vulcan</a></li>
+<li><a href="/wiki/Vulcan_County" title="Vulcan County">Vulcan County</a></li>
+<li><a href="/wiki/Wainwright,_Alberta" title="Wainwright, Alberta">Wainwright</a></li>
+<li><a class="mw-redirect" href="/wiki/Westlock,_Alberta" title="Westlock, Alberta">Westlock</a></li>
+<li><a href="/wiki/Westlock_County" title="Westlock County">Westlock County</a></li>
+<li><a href="/wiki/Wetaskiwin" title="Wetaskiwin">Wetaskiwin</a></li>
+<li><a href="/wiki/Wheatland_County,_Alberta" title="Wheatland County, Alberta">Wheatland County</a></li>
+<li><a href="/wiki/Whitecourt" title="Whitecourt">Whitecourt</a></li>
+<li><a href="/wiki/Regional_Municipality_of_Wood_Buffalo" title="Regional Municipality of Wood Buffalo">Wood Buffalo</a></li>
+<li><a href="/wiki/Woodlands_County" title="Woodlands County">Woodlands County</a></li></ul>
+</div>
+<h3><span class="mw-headline" id="British_Columbia">British Columbia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=5" title="Edit section: British Columbia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a class="mw-redirect" href="/wiki/Government_of_British_Columbia" title="Government of British Columbia">Government of British Columbia</a><a class="external autonumber" href="http://www.bcbizpal.ca/" rel="nofollow">[4]</a></li></ul>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a class="mw-redirect" href="/wiki/100_Mile_House,_British_Columbia" title="100 Mile House, British Columbia">100 Mile House</a></li>
+<li><a href="/wiki/Abbotsford,_British_Columbia" title="Abbotsford, British Columbia">Abbotsford</a></li>
+<li><a href="/wiki/Armstrong,_British_Columbia" title="Armstrong, British Columbia">Armstrong</a></li>
+<li><a href="/wiki/Barriere,_British_Columbia" title="Barriere, British Columbia">Barriere</a></li>
+<li><a class="mw-redirect" href="/wiki/Burnaby,_British_Columbia" title="Burnaby, British Columbia">Burnaby</a></li>
+<li><a href="/wiki/Cache_Creek,_British_Columbia" title="Cache Creek, British Columbia">Cache Creek</a></li>
+<li><a href="/wiki/Campbell_River,_British_Columbia" title="Campbell River, British Columbia">Campbell River</a></li>
+<li><a href="/wiki/Castlegar,_British_Columbia" title="Castlegar, British Columbia">Castlegar</a></li>
+<li><a class="mw-redirect" href="/wiki/Regional_District_of_Central_Okanagan,_British_Columbia" title="Regional District of Central Okanagan, British Columbia">Central Okanagan Regional District</a></li>
+<li><a class="mw-redirect" href="/wiki/Central_Saanich,_British_Columbia" title="Central Saanich, British Columbia">Central Saanich</a></li>
+<li><a href="/wiki/Chetwynd,_British_Columbia" title="Chetwynd, British Columbia">Chetwynd</a></li>
+<li><a class="mw-redirect" href="/wiki/Chilliwack,_British_Columbia" title="Chilliwack, British Columbia">Chilliwack</a></li>
+<li><a href="/wiki/Coldstream,_British_Columbia" title="Coldstream, British Columbia">Coldstream</a></li>
+<li><a href="/wiki/Colwood,_British_Columbia" title="Colwood, British Columbia">Colwood</a></li>
+<li><a class="mw-redirect" href="/wiki/Coquitlam,_British_Columbia" title="Coquitlam, British Columbia">Coquitlam</a></li>
+<li><a href="/wiki/Creston,_British_Columbia" title="Creston, British Columbia">Creston</a></li>
+<li><a class="mw-redirect" href="/wiki/Dawson_Creek,_British_Columbia" title="Dawson Creek, British Columbia">Dawson Creek</a></li>
+<li><a href="/wiki/Delta,_British_Columbia" title="Delta, British Columbia">Delta</a></li>
+<li><a class="mw-redirect" href="/wiki/Elkford,_British_Columbia" title="Elkford, British Columbia">Elkford</a></li>
+<li><a href="/wiki/Enderby,_British_Columbia" title="Enderby, British Columbia">Enderby</a></li>
+<li><a class="mw-redirect" href="/wiki/Esquimalt,_British_Columbia" title="Esquimalt, British Columbia">Esquimalt</a></li>
+<li><a class="mw-redirect" href="/wiki/Fort_St._James,_British_Columbia" title="Fort St. James, British Columbia">Fort St. James</a></li>
+<li><a href="/wiki/Fort_St._John,_British_Columbia" title="Fort St. John, British Columbia">Fort St. John</a></li>
+<li><a class="mw-redirect" href="/wiki/Fraser_Lake,_British_Columbia" title="Fraser Lake, British Columbia">Fraser Lake</a></li>
+<li><a href="/wiki/Fruitvale,_British_Columbia" title="Fruitvale, British Columbia">Fruitvale</a></li>
+<li><a class="mw-redirect" href="/wiki/Gibsons,_British_Columbia" title="Gibsons, British Columbia">Gibsons</a></li>
+<li><a href="/wiki/Golden,_British_Columbia" title="Golden, British Columbia">Golden</a></li>
+<li><a href="/wiki/Grand_Forks,_British_Columbia" title="Grand Forks, British Columbia">Grand Forks</a></li>
+<li><a href="/wiki/Hazelton,_British_Columbia" title="Hazelton, British Columbia">Hazelton</a></li>
+<li><a href="/wiki/Hope,_British_Columbia" title="Hope, British Columbia">Hope</a></li>
+<li><a class="mw-redirect" href="/wiki/Hudson%27s_Hope,_British_Columbia" title="Hudson's Hope, British Columbia">Hudson's Hope</a></li>
+<li><a class="mw-redirect" href="/wiki/Kamloops,_British_Columbia" title="Kamloops, British Columbia">Kamloops</a></li>
+<li><a class="mw-redirect" href="/wiki/Kaslo,_British_Columbia" title="Kaslo, British Columbia">Kaslo</a></li>
+<li><a class="mw-redirect" href="/wiki/Kelowna,_British_Columbia" title="Kelowna, British Columbia">Kelowna</a></li>
+<li><a class="mw-redirect" href="/wiki/Keremeos,_British_Columbia" title="Keremeos, British Columbia">Keremeos</a></li>
+<li><a class="mw-redirect" href="/wiki/Kitimat,_British_Columbia" title="Kitimat, British Columbia">Kitimat</a></li>
+<li><a href="/wiki/Ladysmith,_British_Columbia" title="Ladysmith, British Columbia">Ladysmith</a></li>
+<li><a class="mw-redirect" href="/wiki/Lake_Country,_British_Columbia" title="Lake Country, British Columbia">Lake Country</a></li>
+<li><a class="mw-redirect" href="/wiki/Lake_Cowichan,_British_Columbia" title="Lake Cowichan, British Columbia">Lake Cowichan</a></li>
+<li><a href="/wiki/Langford,_British_Columbia" title="Langford, British Columbia">Langford</a></li>
+<li><a href="/wiki/Langley,_British_Columbia_(city)" title="Langley, British Columbia (city)">Langley</a></li>
+<li><a href="/wiki/Langley,_British_Columbia_(district_municipality)" title="Langley, British Columbia (district municipality)">Langley, Township of</a></li>
+<li><a class="mw-redirect" href="/wiki/Lillooet,_British_Columbia" title="Lillooet, British Columbia">Lillooet</a></li>
+<li><a class="mw-redirect" href="/wiki/Logan_Lake,_British_Columbia" title="Logan Lake, British Columbia">Logan Lake</a></li>
+<li><a href="/wiki/Lumby,_British_Columbia" title="Lumby, British Columbia">Lumby</a></li>
+<li><a href="/wiki/Mackenzie,_British_Columbia" title="Mackenzie, British Columbia">Mackenzie</a></li>
+<li><a href="/wiki/Maple_Ridge,_British_Columbia" title="Maple Ridge, British Columbia">Maple Ridge</a></li>
+<li><a href="/wiki/Merritt,_British_Columbia" title="Merritt, British Columbia">Merritt</a></li>
+<li><a href="/wiki/Mission,_British_Columbia" title="Mission, British Columbia">Mission</a></li>
+<li><a class="mw-redirect" href="/wiki/Nanaimo,_British_Columbia" title="Nanaimo, British Columbia">Nanaimo</a></li>
+<li><a href="/wiki/Nelson,_British_Columbia" title="Nelson, British Columbia">Nelson</a></li>
+<li><a class="mw-redirect" href="/wiki/New_Hazelton,_British_Columbia" title="New Hazelton, British Columbia">New Hazelton</a></li>
+<li><a class="mw-redirect" href="/wiki/New_Westminster,_British_Columbia" title="New Westminster, British Columbia">New Westminster</a></li>
+<li><a class="mw-redirect" href="/wiki/North_Cowichan,_British_Columbia" title="North Cowichan, British Columbia">North Cowichan</a></li>
+<li><a class="mw-redirect" href="/wiki/North_Saanich,_British_Columbia" title="North Saanich, British Columbia">North Saanich</a></li>
+<li><a href="/wiki/North_Vancouver_(city)" title="North Vancouver (city)">North Vancouver</a></li>
+<li><a class="mw-redirect" href="/wiki/North_Vancouver,_British_Columbia_(district_municipality)" title="North Vancouver, British Columbia (district municipality)">North Vancouver, District of</a></li>
+<li><a href="/wiki/Northern_Rockies_Regional_Municipality" title="Northern Rockies Regional Municipality">Northern Rockies Regional Municipality</a></li>
+<li><a href="/wiki/Oliver,_British_Columbia" title="Oliver, British Columbia">Oliver</a></li>
+<li><a class="mw-redirect" href="/wiki/Osoyoos,_British_Columbia" title="Osoyoos, British Columbia">Osoyoos</a></li>
+<li><a href="/wiki/Parksville,_British_Columbia" title="Parksville, British Columbia">Parksville</a></li>
+<li><a href="/wiki/Peachland,_British_Columbia" title="Peachland, British Columbia">Peachland</a></li>
+<li><a class="mw-redirect" href="/wiki/Penticton,_British_Columbia" title="Penticton, British Columbia">Penticton</a></li>
+<li><a class="mw-redirect" href="/wiki/Pitt_Meadows,_British_Columbia" title="Pitt Meadows, British Columbia">Pitt Meadows</a></li>
+<li><a class="mw-redirect" href="/wiki/Port_Alberni,_British_Columbia" title="Port Alberni, British Columbia">Port Alberni</a></li>
+<li><a class="mw-redirect" href="/wiki/Port_Coquitlam,_British_Columbia" title="Port Coquitlam, British Columbia">Port Coquitlam</a></li>
+<li><a class="mw-redirect" href="/wiki/Port_Hardy,_British_Columbia" title="Port Hardy, British Columbia">Port Hardy</a></li>
+<li><a class="mw-redirect" href="/wiki/Port_McNeill,_British_Columbia" title="Port McNeill, British Columbia">Port McNeill</a></li>
+<li><a class="mw-redirect" href="/wiki/Port_Moody,_British_Columbia" title="Port Moody, British Columbia">Port Moody</a></li>
+<li><a href="/wiki/Powell_River,_British_Columbia" title="Powell River, British Columbia">Powell River</a></li>
+<li><a href="/wiki/Prince_George,_British_Columbia" title="Prince George, British Columbia">Prince George</a></li>
+<li><a href="/wiki/Prince_Rupert,_British_Columbia" title="Prince Rupert, British Columbia">Prince Rupert</a></li>
+<li><a href="/wiki/Princeton,_British_Columbia" title="Princeton, British Columbia">Princeton</a></li>
+<li><a class="mw-redirect" href="/wiki/Qualicum_Beach,_British_Columbia" title="Qualicum Beach, British Columbia">Qualicum Beach</a></li>
+<li><a href="/wiki/Queen_Charlotte,_British_Columbia" title="Queen Charlotte, British Columbia">Queen Charlotte</a></li>
+<li><a href="/wiki/Quesnel,_British_Columbia" title="Quesnel, British Columbia">Quesnel</a></li>
+<li><a class="mw-redirect" href="/wiki/Radium_Hot_Springs,_British_Columbia" title="Radium Hot Springs, British Columbia">Radium Hot Springs</a></li>
+<li><a href="/wiki/Revelstoke,_British_Columbia" title="Revelstoke, British Columbia">Revelstoke</a></li>
+<li><a href="/wiki/Richmond,_British_Columbia" title="Richmond, British Columbia">Richmond</a></li>
+<li><a href="/wiki/Rossland,_British_Columbia" title="Rossland, British Columbia">Rossland</a></li>
+<li><a href="/wiki/Saanich,_British_Columbia" title="Saanich, British Columbia">Saanich</a></li>
+<li><a class="mw-redirect" href="/wiki/Salmon_Arm,_British_Columbia" title="Salmon Arm, British Columbia">Salmon Arm</a></li>
+<li><a class="mw-redirect" href="/wiki/Sayward,_British_Columbia" title="Sayward, British Columbia">Sayward</a></li>
+<li><a class="mw-redirect" href="/wiki/Sechelt,_British_Columbia" title="Sechelt, British Columbia">Sechelt</a></li>
+<li><a class="mw-redirect" href="/wiki/Sicamous,_British_Columbia" title="Sicamous, British Columbia">Sicamous</a></li>
+<li><a href="/wiki/Sidney,_British_Columbia" title="Sidney, British Columbia">Sidney</a></li>
+<li><a href="/wiki/Smithers,_British_Columbia" title="Smithers, British Columbia">Smithers</a></li>
+<li><a class="mw-redirect" href="/wiki/Sooke,_British_Columbia" title="Sooke, British Columbia">Sooke</a></li>
+<li><a class="mw-redirect" href="/wiki/Spallumcheen,_British_Columbia" title="Spallumcheen, British Columbia">Spallumcheen</a></li>
+<li><a class="mw-redirect" href="/wiki/Sparwood,_British_Columbia" title="Sparwood, British Columbia">Sparwood</a></li>
+<li><a href="/wiki/Squamish,_British_Columbia" title="Squamish, British Columbia">Squamish</a></li>
+<li><a href="/wiki/Summerland,_British_Columbia" title="Summerland, British Columbia">Summerland</a></li>
+<li><a class="mw-redirect" href="/wiki/Sunshine_Coast_Regional_District,_British_Columbia" title="Sunshine Coast Regional District, British Columbia">Sunshine Coast Regional District</a></li>
+<li><a href="/wiki/Surrey,_British_Columbia" title="Surrey, British Columbia">Surrey</a></li>
+<li><a href="/wiki/Terrace,_British_Columbia" title="Terrace, British Columbia">Terrace</a></li>
+<li><a class="mw-redirect" href="/wiki/Tofino,_British_Columbia" title="Tofino, British Columbia">Tofino</a></li>
+<li><a href="/wiki/Trail,_British_Columbia" title="Trail, British Columbia">Trail</a></li>
+<li><a class="mw-redirect" href="/wiki/Tumbler_Ridge,_British_Columbia" title="Tumbler Ridge, British Columbia">Tumbler Ridge</a></li>
+<li><a class="mw-redirect" href="/wiki/Ucluelet,_British_Columbia" title="Ucluelet, British Columbia">Ucluelet</a></li>
+<li><a class="mw-redirect" href="/wiki/Valemount,_British_Columbia" title="Valemount, British Columbia">Valemount</a></li>
+<li><a href="/wiki/Vancouver" title="Vancouver">Vancouver</a></li>
+<li><a href="/wiki/Vanderhoof,_British_Columbia" title="Vanderhoof, British Columbia">Vanderhoof</a></li>
+<li><a href="/wiki/Vernon,_British_Columbia" title="Vernon, British Columbia">Vernon</a></li>
+<li><a href="/wiki/Victoria,_British_Columbia" title="Victoria, British Columbia">Victoria</a></li>
+<li><a class="mw-redirect" href="/wiki/View_Royal,_British_Columbia" title="View Royal, British Columbia">View Royal</a></li>
+<li><a href="/wiki/West_Kelowna" title="West Kelowna">West Kelowna, District of</a></li>
+<li><a class="mw-redirect" href="/wiki/West_Vancouver,_British_Columbia" title="West Vancouver, British Columbia">West Vancouver</a></li>
+<li><a href="/wiki/Whistler,_British_Columbia" title="Whistler, British Columbia">Whistler</a></li>
+<li><a href="/wiki/White_Rock,_British_Columbia" title="White Rock, British Columbia">White Rock</a></li>
+<li><a href="/wiki/Williams_Lake,_British_Columbia" title="Williams Lake, British Columbia">Williams Lake</a></li></ul>
+</div>
+<h3><span class="mw-headline" id="Manitoba">Manitoba</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=6" title="Edit section: Manitoba">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a class="mw-redirect" href="/wiki/Government_of_Manitoba" title="Government of Manitoba">Government of Manitoba</a><a class="external autonumber" href="http://www.bizpalmanitoba.ca/eng/?b=46" rel="nofollow">[5]</a></li></ul>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a class="mw-redirect" href="/wiki/Alexander,_Manitoba_(rural_municipality)" title="Alexander, Manitoba (rural municipality)">Alexander, Rural Municipality of</a></li>
+<li><a href="/wiki/Arborg,_Manitoba" title="Arborg, Manitoba">Arborg</a></li>
+<li><a href="/wiki/Brandon,_Manitoba" title="Brandon, Manitoba">Brandon</a></li>
+<li><a href="/wiki/Carman,_Manitoba" title="Carman, Manitoba">Carman</a></li>
+<li><a href="/wiki/Cartwright,_Manitoba" title="Cartwright, Manitoba">Cartwright</a></li>
+<li><a class="mw-redirect" href="/wiki/Coldwell,_Manitoba" title="Coldwell, Manitoba">Coldwell</a></li>
+<li><a href="/wiki/Dauphin,_Manitoba" title="Dauphin, Manitoba">Dauphin</a></li>
+<li><a class="mw-redirect" href="/wiki/Dauphin,_Manitoba_(rural_municipality)" title="Dauphin, Manitoba (rural municipality)">Dauphin, Rural Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/De_Salaberry,_Manitoba" title="De Salaberry, Manitoba">De Salaberry</a></li>
+<li><a href="/wiki/Deloraine,_Manitoba" title="Deloraine, Manitoba">Deloraine</a></li>
+<li><a class="mw-redirect" href="/wiki/Dufferin,_Manitoba" title="Dufferin, Manitoba">Dufferin</a></li>
+<li><a class="mw-redirect" href="/wiki/Ellice,_Manitoba" title="Ellice, Manitoba">Ellice</a></li>
+<li><a href="/wiki/Eriksdale,_Manitoba" title="Eriksdale, Manitoba">Eriksdale</a></li>
+<li><a href="/wiki/Ethelbert,_Manitoba" title="Ethelbert, Manitoba">Ethelbert</a></li>
+<li><a class="mw-redirect" href="/wiki/Ethelbert,_Manitoba_(rural_municipality)" title="Ethelbert, Manitoba (rural municipality)">Ethelbert, Rural Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/Flin_Flon,_Manitoba" title="Flin Flon, Manitoba">Flin Flon</a></li>
+<li><a href="/wiki/Franklin,_Manitoba" title="Franklin, Manitoba">Franklin</a></li>
+<li><a class="mw-redirect" href="/wiki/Gilbert_Plains,_Manitoba" title="Gilbert Plains, Manitoba">Gilbert Plains</a></li>
+<li><a class="mw-redirect" href="/wiki/Gilbert_Plains,_Manitoba_(rural_municipality)" title="Gilbert Plains, Manitoba (rural municipality)">Gilbert Plains, Rural Municipality of</a></li>
+<li><a href="/wiki/Gillam,_Manitoba" title="Gillam, Manitoba">Gillam</a></li>
+<li><a href="/wiki/Gimli,_Manitoba" title="Gimli, Manitoba">Gimli, Rural Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/Glenwood,_Manitoba" title="Glenwood, Manitoba">Glenwood, Rural Municipality of</a></li>
+<li><a href="/wiki/Grandview,_Manitoba" title="Grandview, Manitoba">Grandview</a></li>
+<li><a class="mw-redirect" href="/wiki/Grandview,_Manitoba_(rural_municipality)" title="Grandview, Manitoba (rural municipality)">Grandview, Rural Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/Hillsburg,_Manitoba_(rural_municipality)" title="Hillsburg, Manitoba (rural municipality)">Hillsburg, Rural Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/Langford,_Manitoba" title="Langford, Manitoba">Langford</a></li>
+<li><a class="mw-redirect" href="/wiki/Lorne,_Manitoba" title="Lorne, Manitoba">Lorne</a></li>
+<li><a href="/wiki/Manitou,_Manitoba" title="Manitou, Manitoba">Manitou</a></li>
+<li><a href="/wiki/Minnedosa,_Manitoba" title="Minnedosa, Manitoba">Minnedosa</a></li>
+<li><a href="/wiki/Rural_Municipality_of_Minto" title="Rural Municipality of Minto">Minto, Rural Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/Montcalm,_Manitoba" title="Montcalm, Manitoba">Montcalm</a></li>
+<li><a href="/wiki/Morden,_Manitoba" title="Morden, Manitoba">Morden</a></li>
+<li><a href="/wiki/Morris,_Manitoba" title="Morris, Manitoba">Morris</a></li>
+<li><a class="mw-redirect" href="/wiki/Morris,_Manitoba_(rural_municipality)" title="Morris, Manitoba (rural municipality)">Morris, Rural Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/Neepawa,_Manitoba" title="Neepawa, Manitoba">Neepawa</a></li>
+<li><a href="/wiki/Notre-Dame-de-Lourdes,_Manitoba" title="Notre-Dame-de-Lourdes, Manitoba">Notre-Dame-de-Lourdes</a></li>
+<li><a class="mw-redirect" href="/wiki/Odanah,_Manitoba" title="Odanah, Manitoba">Odanah</a></li>
+<li><a class="mw-redirect" href="/wiki/Pembina,_Manitoba" title="Pembina, Manitoba">Pembina</a></li>
+<li><a class="mw-redirect" href="/wiki/Pinawa,_Manitoba" title="Pinawa, Manitoba">Pinawa, Rural Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/Portage_la_Prairie,_Manitoba" title="Portage la Prairie, Manitoba">Portage la Prairie</a></li>
+<li><a class="mw-redirect" href="/wiki/Portage_la_Prairie,_Manitoba_(rural_municipality)" title="Portage la Prairie, Manitoba (rural municipality)">Portage la Prairie, Rural Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/Powerview-Pine_Falls,_Manitoba" title="Powerview-Pine Falls, Manitoba">Powerview-Pine Falls</a></li>
+<li><a class="mw-redirect" href="/wiki/Reynolds,_Manitoba" title="Reynolds, Manitoba">Reynolds</a></li>
+<li><a class="mw-redirect" href="/wiki/Ritchot,_Manitoba" title="Ritchot, Manitoba">Ritchot</a></li>
+<li><a href="/wiki/Roblin,_Manitoba" title="Roblin, Manitoba">Roblin</a></li>
+<li><a class="mw-redirect" href="/wiki/Roblin,_Manitoba_(rural_municipality)" title="Roblin, Manitoba (rural municipality)">Roblin, Rural Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/Rosedale,_Manitoba" title="Rosedale, Manitoba">Rosedale</a></li>
+<li><a class="mw-redirect" href="/wiki/Saskatchewan,_Manitoba" title="Saskatchewan, Manitoba">Saskatchewan, Rural Municipality of</a></li>
+<li><a href="/wiki/Selkirk,_Manitoba" title="Selkirk, Manitoba">Selkirk</a></li>
+<li><a class="mw-redirect" href="/wiki/Shell_River,_Manitoba" title="Shell River, Manitoba">Shell River, Rural Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/Siglunes,_Manitoba" title="Siglunes, Manitoba">Siglunes</a></li>
+<li><a class="mw-redirect" href="/wiki/Silver_Creek,_Manitoba" title="Silver Creek, Manitoba">Silver Creek, Rural Municipality of</a></li>
+<li><a href="/wiki/Somerset,_Manitoba" title="Somerset, Manitoba">Somerset</a></li>
+<li><a href="/wiki/Souris,_Manitoba" title="Souris, Manitoba">Souris</a></li>
+<li><a class="mw-redirect" href="/wiki/South_Norfolk,_Manitoba" title="South Norfolk, Manitoba">South Norfolk</a></li>
+<li><a class="mw-redirect" href="/wiki/St._Lazare,_Manitoba" title="St. Lazare, Manitoba">St-Lazare</a></li>
+<li><a class="mw-redirect" href="/wiki/St._Pierre-Jolys,_Manitoba" title="St. Pierre-Jolys, Manitoba">St-Pierre-Jolys</a></li>
+<li><a class="mw-redirect" href="/wiki/St._Andrews,_Manitoba" title="St. Andrews, Manitoba">St. Andrews, Rural Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/St._Clements,_Manitoba" title="St. Clements, Manitoba">St. Clements, Rural Municipality of</a></li>
+<li><a href="/wiki/Rural_Municipality_of_St._Laurent" title="Rural Municipality of St. Laurent">St. Laurent, Rural Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/Stanley,_Manitoba" title="Stanley, Manitoba">Stanley, Rural Municipality of</a></li>
+<li><a href="/wiki/Steinbach,_Manitoba" title="Steinbach, Manitoba">Steinbach</a></li>
+<li><a class="mw-redirect" href="/wiki/Teulon,_Manitoba" title="Teulon, Manitoba">Teulon</a></li>
+<li><a href="/wiki/Thompson,_Manitoba" title="Thompson, Manitoba">Thompson</a></li>
+<li><a class="mw-redirect" href="/wiki/Thompson,_Manitoba_(rural_municipality)" title="Thompson, Manitoba (rural municipality)">Thompson, Rural Municipality of</a></li>
+<li><a href="/wiki/Treherne,_Manitoba" title="Treherne, Manitoba">Treherne</a></li>
+<li><a href="/wiki/Rural_Municipality_of_Victoria" title="Rural Municipality of Victoria">Victoria, Rural Municipality of</a></li>
+<li><a href="/wiki/Whitemouth,_Manitoba" title="Whitemouth, Manitoba">Whitemouth</a></li>
+<li><a class="mw-redirect" href="/wiki/Winchester,_Manitoba" title="Winchester, Manitoba">Winchester</a></li>
+<li><a href="/wiki/Winkler,_Manitoba" title="Winkler, Manitoba">Winkler</a></li>
+<li><a class="mw-redirect" href="/wiki/Winnipeg,_Manitoba" title="Winnipeg, Manitoba">Winnipeg</a></li>
+<li><a href="/wiki/Rural_Municipality_of_Woodlands" title="Rural Municipality of Woodlands">Woodlands, Rural Municipality of</a></li></ul>
+</div>
+<h3><span class="mw-headline" id="New_Brunswick">New Brunswick</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=7" title="Edit section: New Brunswick">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Government_of_New_Brunswick" title="Government of New Brunswick">Government of New Brunswick</a><a class="external autonumber" href="http://services.bizpal-perle.ca/eng/?b=13" rel="nofollow">[6]</a></li></ul>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Bathurst,_New_Brunswick" title="Bathurst, New Brunswick">Bathurst</a></li>
+<li><a href="/wiki/Blacks_Harbour,_New_Brunswick" title="Blacks Harbour, New Brunswick">Blacks Harbour</a></li>
+<li><a class="mw-redirect" href="/wiki/Bouctouche,_New_Brunswick" title="Bouctouche, New Brunswick">Bouctouche</a></li>
+<li><a href="/wiki/Campbellton,_New_Brunswick" title="Campbellton, New Brunswick">Campbellton</a></li>
+<li><a class="mw-redirect" href="/wiki/Caraquet,_New_Brunswick" title="Caraquet, New Brunswick">Caraquet</a></li>
+<li><a href="/wiki/Dalhousie,_New_Brunswick" title="Dalhousie, New Brunswick">Dalhousie</a></li>
+<li><a href="/wiki/Dieppe,_New_Brunswick" title="Dieppe, New Brunswick">Dieppe</a></li>
+<li><a class="mw-redirect" href="/wiki/Edmundston,_New_Brunswick" title="Edmundston, New Brunswick">Edmundston</a></li>
+<li><a class="mw-redirect" href="/wiki/Florenceville-Bristol,_New_Brunswick" title="Florenceville-Bristol, New Brunswick">Florenceville-Bristol</a></li>
+<li><a class="mw-redirect" href="/wiki/Fredericton,_New_Brunswick" title="Fredericton, New Brunswick">Fredericton</a></li>
+<li><a class="mw-redirect" href="/wiki/Grand_Bay-Westfield,_New_Brunswick" title="Grand Bay-Westfield, New Brunswick">Grand Bay-Westfield</a></li>
+<li><a href="/wiki/Grand_Falls,_New_Brunswick" title="Grand Falls, New Brunswick">Grand Falls</a></li>
+<li><a href="/wiki/Hampton,_New_Brunswick" title="Hampton, New Brunswick">Hampton</a></li>
+<li><a href="/wiki/Hartland,_New_Brunswick" title="Hartland, New Brunswick">Hartland</a></li>
+<li><a href="/wiki/Miramichi,_New_Brunswick" title="Miramichi, New Brunswick">Miramichi</a></li>
+<li><a class="mw-redirect" href="/wiki/Moncton,_New_Brunswick" title="Moncton, New Brunswick">Moncton</a></li>
+<li><a href="/wiki/Neguac,_New_Brunswick" title="Neguac, New Brunswick">Neguac</a></li>
+<li><a class="mw-redirect" href="/wiki/Oromocto,_New_Brunswick" title="Oromocto, New Brunswick">Oromocto</a></li>
+<li><a class="mw-redirect" href="/wiki/Perth-Andover,_New_Brunswick" title="Perth-Andover, New Brunswick">Perth-Andover</a></li>
+<li><a class="mw-redirect" href="/wiki/Quispamsis,_New_Brunswick" title="Quispamsis, New Brunswick">Quispamsis</a></li>
+<li><a href="/wiki/Rexton,_New_Brunswick" title="Rexton, New Brunswick">Rexton</a></li>
+<li><a class="mw-redirect" href="/wiki/Richibucto,_New_Brunswick" title="Richibucto, New Brunswick">Richibucto</a></li>
+<li><a href="/wiki/Riverview,_New_Brunswick" title="Riverview, New Brunswick">Riverview</a></li>
+<li><a href="/wiki/Rothesay,_New_Brunswick" title="Rothesay, New Brunswick">Rothesay</a></li>
+<li><a href="/wiki/Sackville,_New_Brunswick" title="Sackville, New Brunswick">Sackville</a></li>
+<li><a class="mw-redirect" href="/wiki/Saint_Andrews,_New_Brunswick" title="Saint Andrews, New Brunswick">Saint Andrews</a></li>
+<li><a href="/wiki/Saint_John,_New_Brunswick" title="Saint John, New Brunswick">Saint John</a></li>
+<li><a href="/wiki/Sussex,_New_Brunswick" title="Sussex, New Brunswick">Sussex</a></li>
+<li><a class="mw-redirect" href="/wiki/Tracadie-Sheila,_New_Brunswick" title="Tracadie-Sheila, New Brunswick">Tracadie-Sheila</a></li></ul>
+</div>
+<h3><span class="mw-headline" id="Newfoundland_and_Labrador">Newfoundland and Labrador</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=8" title="Edit section: Newfoundland and Labrador">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Government_of_Newfoundland_and_Labrador" title="Government of Newfoundland and Labrador">Government of Newfoundland and Labrador</a><a class="external autonumber" href="http://www.bizpal.gov.nl.ca/?b=10" rel="nofollow">[7]</a></li></ul>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Badger,_Newfoundland_and_Labrador" title="Badger, Newfoundland and Labrador">Badger</a></li>
+<li><a href="/wiki/Bay_Bulls,_Newfoundland_and_Labrador" title="Bay Bulls, Newfoundland and Labrador">Bay Bulls</a></li>
+<li><a class="mw-redirect" href="/wiki/Bay_Roberts,_Newfoundland_and_Labrador" title="Bay Roberts, Newfoundland and Labrador">Bay Roberts</a></li>
+<li><a href="/wiki/Bonavista,_Newfoundland_and_Labrador" title="Bonavista, Newfoundland and Labrador">Bonavista</a></li>
+<li><a class="mw-redirect" href="/wiki/Buchans,_Newfoundland_and_Labrador" title="Buchans, Newfoundland and Labrador">Buchans</a></li>
+<li><a href="/wiki/Burin,_Newfoundland_and_Labrador" title="Burin, Newfoundland and Labrador">Burin</a></li>
+<li><a class="mw-redirect" href="/wiki/Centreville-Wareham-Trinity,_Newfoundland_and_Labrador" title="Centreville-Wareham-Trinity, Newfoundland and Labrador">Centreville-Wareham-Trinity</a></li>
+<li><a class="mw-redirect" href="/wiki/Channel-Port_aux_Basques,_Newfoundland_and_Labrador" title="Channel-Port aux Basques, Newfoundland and Labrador">Channel-Port aux Basques</a></li>
+<li><a class="mw-redirect" href="/wiki/Clarenville,_Newfoundland_and_Labrador" title="Clarenville, Newfoundland and Labrador">Clarenville</a></li>
+<li><a class="mw-redirect" href="/wiki/Conception_Bay_South,_Newfoundland_and_Labrador" title="Conception Bay South, Newfoundland and Labrador">Conception Bay South</a></li>
+<li><a href="/wiki/Cormack,_Newfoundland_and_Labrador" title="Cormack, Newfoundland and Labrador">Cormack</a></li>
+<li><a class="mw-redirect" href="/wiki/Corner_Brook,_Newfoundland_and_Labrador" title="Corner Brook, Newfoundland and Labrador">Corner Brook</a></li>
+<li><a href="/wiki/Deer_Lake,_Newfoundland_and_Labrador" title="Deer Lake, Newfoundland and Labrador">Deer Lake</a></li>
+<li><a class="mw-redirect" href="/wiki/Ferryland,_Newfoundland_and_Labrador" title="Ferryland, Newfoundland and Labrador">Ferryland</a></li>
+<li><a href="/wiki/Flatrock,_Newfoundland_and_Labrador" title="Flatrock, Newfoundland and Labrador">Flatrock</a></li>
+<li><a href="/wiki/Gambo,_Newfoundland_and_Labrador" title="Gambo, Newfoundland and Labrador">Gambo</a></li>
+<li><a href="/wiki/Gander,_Newfoundland_and_Labrador" title="Gander, Newfoundland and Labrador">Gander</a></li>
+<li><a href="/wiki/Garnish,_Newfoundland_and_Labrador" title="Garnish, Newfoundland and Labrador">Garnish</a></li>
+<li><a class="mw-redirect" href="/wiki/Glovertown,_Newfoundland_and_Labrador" title="Glovertown, Newfoundland and Labrador">Glovertown</a></li>
+<li><a class="mw-redirect" href="/wiki/Grand_Bank,_Newfoundland_and_Labrador" title="Grand Bank, Newfoundland and Labrador">Grand Bank</a></li>
+<li><a class="mw-redirect" href="/wiki/Grand_Falls-Windsor,_Newfoundland_and_Labrador" title="Grand Falls-Windsor, Newfoundland and Labrador">Grand Falls-Windsor</a></li>
+<li><a class="mw-redirect" href="/wiki/Happy_Valley-Goose_Bay,_Newfoundland_and_Labrador" title="Happy Valley-Goose Bay, Newfoundland and Labrador">Happy Valley-Goose Bay</a></li>
+<li><a href="/wiki/Holyrood,_Newfoundland_and_Labrador" title="Holyrood, Newfoundland and Labrador">Holyrood</a></li>
+<li><a class="mw-redirect" href="/wiki/Humber_Arm_South,_Newfoundland_and_Labrador" title="Humber Arm South, Newfoundland and Labrador">Humber Arm South</a></li>
+<li><a class="mw-redirect" href="/wiki/Kippens,_Newfoundland_and_Labrador" title="Kippens, Newfoundland and Labrador">Kippens</a></li>
+<li><a class="mw-redirect" href="/wiki/Labrador_City,_Newfoundland_and_Labrador" title="Labrador City, Newfoundland and Labrador">Labrador City</a></li>
+<li><a class="mw-redirect" href="/wiki/Lewisporte,_Newfoundland_and_Labrador" title="Lewisporte, Newfoundland and Labrador">Lewisporte</a></li>
+<li><a class="mw-redirect" href="/wiki/Marystown,_Newfoundland_and_Labrador" title="Marystown, Newfoundland and Labrador">Marystown</a></li>
+<li><a class="mw-redirect" href="/wiki/Massey_Drive,_Newfoundland_and_Labrador" title="Massey Drive, Newfoundland and Labrador">Massey Drive</a></li>
+<li><a class="mw-redirect" href="/wiki/Mount_Pearl,_Newfoundland_and_Labrador" title="Mount Pearl, Newfoundland and Labrador">Mount Pearl</a></li>
+<li><a class="mw-redirect" href="/wiki/Musgrave_Harbour,_Newfoundland_and_Labrador" title="Musgrave Harbour, Newfoundland and Labrador">Musgrave Harbour</a></li>
+<li><a class="mw-redirect" href="/wiki/Musgravetown,_Newfoundland_and_Labrador" title="Musgravetown, Newfoundland and Labrador">Musgravetown</a></li>
+<li><a href="/wiki/Paradise,_Newfoundland_and_Labrador" title="Paradise, Newfoundland and Labrador">Paradise</a></li>
+<li><a href="/wiki/Pasadena,_Newfoundland_and_Labrador" title="Pasadena, Newfoundland and Labrador">Pasadena</a></li>
+<li><a href="/wiki/Placentia,_Newfoundland_and_Labrador" title="Placentia, Newfoundland and Labrador">Placentia</a></li>
+<li><a class="mw-redirect" href="/wiki/Port_Blandford,_Newfoundland_and_Labrador" title="Port Blandford, Newfoundland and Labrador">Port Blandford</a></li>
+<li><a class="mw-redirect" href="/wiki/Port_Saunders,_Newfoundland_and_Labrador" title="Port Saunders, Newfoundland and Labrador">Port Saunders</a></li>
+<li><a class="mw-redirect" href="/wiki/Portugal_Cove-St._Philip%27s,_Newfoundland_and_Labrador" title="Portugal Cove-St. Philip's, Newfoundland and Labrador">Portugal Cove-St. Philip's</a></li>
+<li><a href="/wiki/Rocky_Harbour,_Newfoundland_and_Labrador" title="Rocky Harbour, Newfoundland and Labrador">Rocky Harbour</a></li>
+<li><a href="/wiki/St._Alban%27s,_Newfoundland_and_Labrador" title="St. Alban's, Newfoundland and Labrador">St. Alban's</a></li>
+<li><a href="/wiki/St._Anthony,_Newfoundland_and_Labrador" title="St. Anthony, Newfoundland and Labrador">St. Anthony</a></li>
+<li><a href="/wiki/St._John%27s,_Newfoundland_and_Labrador" title="St. John's, Newfoundland and Labrador">St. John's</a></li>
+<li><a class="mw-redirect" href="/wiki/Steady_Brook,_Newfoundland_and_Labrador" title="Steady Brook, Newfoundland and Labrador">Steady Brook</a></li>
+<li><a href="/wiki/Stephenville,_Newfoundland_and_Labrador" title="Stephenville, Newfoundland and Labrador">Stephenville</a></li>
+<li><a href="/wiki/Summerford,_Newfoundland_and_Labrador" title="Summerford, Newfoundland and Labrador">Summerford</a></li>
+<li><a href="/wiki/Torbay,_Newfoundland_and_Labrador" title="Torbay, Newfoundland and Labrador">Torbay</a></li>
+<li><a href="/wiki/Wabana,_Newfoundland_and_Labrador" title="Wabana, Newfoundland and Labrador">Wabana</a></li>
+<li><a href="/wiki/Whitbourne,_Newfoundland_and_Labrador" title="Whitbourne, Newfoundland and Labrador">Whitbourne</a></li>
+<li><a class="mw-redirect" href="/wiki/Witless_Bay,_Newfoundland_and_Labrador" title="Witless Bay, Newfoundland and Labrador">Witless Bay</a></li></ul>
+</div>
+<h3><span class="mw-headline" id="Northwest_Territories">Northwest Territories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=9" title="Edit section: Northwest Territories">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a class="mw-redirect" href="/wiki/Government_of_the_Northwest_Territories" title="Government of the Northwest Territories">Government of the Northwest Territories</a><a class="external autonumber" href="https://web.archive.org/web/20130110042029/http://www.iti.gov.nt.ca/businesseconomicdevelopment/nwtbizpal.shtml" rel="nofollow">[8]</a></li></ul>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Colville_Lake,_Northwest_Territories" title="Colville Lake, Northwest Territories">Colville Lake</a></li>
+<li><a class="mw-redirect" href="/wiki/Dettah,_Northwest_Territories" title="Dettah, Northwest Territories">Dettah</a></li>
+<li><a class="mw-redirect" href="/wiki/Fort_Resolution,_Northwest_Territories" title="Fort Resolution, Northwest Territories">Fort Resolution</a></li>
+<li><a class="mw-redirect" href="/wiki/Fort_Simpson,_Northwest_Territories" title="Fort Simpson, Northwest Territories">Fort Simpson</a></li>
+<li><a href="/wiki/Fort_Smith,_Northwest_Territories" title="Fort Smith, Northwest Territories">Fort Smith</a></li>
+<li><a class="mw-redirect" href="/wiki/Gam%C3%A8ti,_Northwest_Territories" title="Gamèti, Northwest Territories">Gamèti</a></li>
+<li><a href="/wiki/Hay_River,_Northwest_Territories" title="Hay River, Northwest Territories">Hay River</a></li>
+<li><a class="mw-redirect" href="/wiki/Jean_Marie_River,_Northwest_Territories" title="Jean Marie River, Northwest Territories">Jean Marie River</a></li>
+<li><a class="mw-redirect" href="/wiki/Kakisa,_Northwest_Territories" title="Kakisa, Northwest Territories">Kakisa</a></li>
+<li><a class="mw-redirect" href="/wiki/Lutselk%27e,_Northwest_Territories" title="Lutselk'e, Northwest Territories">Lutselk'e</a></li>
+<li><a class="mw-redirect" href="/wiki/Nahanni_Butte,_Northwest_Territories" title="Nahanni Butte, Northwest Territories">Nahanni Butte</a></li>
+<li><a class="mw-redirect" href="/wiki/Trout_Lake,_Northwest_Territories" title="Trout Lake, Northwest Territories">Trout Lake</a></li>
+<li><a class="mw-redirect" href="/wiki/Tsiigehtchic,_Northwest_Territories" title="Tsiigehtchic, Northwest Territories">Tsiigehtchic</a></li>
+<li><a class="mw-redirect" href="/wiki/Wekweeti,_Northwest_Territories" title="Wekweeti, Northwest Territories">Wekweeti</a></li></ul>
+</div>
+<h3><span class="mw-headline" id="Nova_Scotia">Nova Scotia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=10" title="Edit section: Nova Scotia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Government_of_Nova_Scotia" title="Government of Nova Scotia">Government of Nova Scotia</a><a class="external autonumber" href="http://www.gov.ns.ca/snsmr/bizpal/" rel="nofollow">[9]</a></li></ul>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Amherst,_Nova_Scotia" title="Amherst, Nova Scotia">Amherst</a></li>
+<li><a href="/wiki/Annapolis_County,_Nova_Scotia" title="Annapolis County, Nova Scotia">Annapolis County</a></li>
+<li><a class="mw-redirect" href="/wiki/Annapolis_Royal,_Nova_Scotia" title="Annapolis Royal, Nova Scotia">Annapolis Royal</a></li>
+<li><a href="/wiki/Antigonish,_Nova_Scotia" title="Antigonish, Nova Scotia">Antigonish</a></li>
+<li><a href="/wiki/Antigonish_County,_Nova_Scotia" title="Antigonish County, Nova Scotia">Antigonish County</a></li>
+<li><a href="/wiki/Municipality_of_the_District_of_Barrington" title="Municipality of the District of Barrington">Barrington, Municipality of the District of</a></li>
+<li><a href="/wiki/Bridgetown,_Nova_Scotia" title="Bridgetown, Nova Scotia">Bridgetown</a></li>
+<li><a class="mw-redirect" href="/wiki/Cape_Breton_Regional_Municipality,_Nova_Scotia" title="Cape Breton Regional Municipality, Nova Scotia">Cape Breton Regional Municipality</a></li>
+<li><a class="mw-redirect" href="/wiki/Clare,_Nova_Scotia" title="Clare, Nova Scotia">Clare</a></li>
+<li><a class="mw-redirect" href="/wiki/Colchester_County,_Nova_Scotia" title="Colchester County, Nova Scotia">Colchester County</a></li>
+<li><a href="/wiki/Cumberland_County,_Nova_Scotia" title="Cumberland County, Nova Scotia">Cumberland County</a></li>
+<li><a class="mw-redirect" href="/wiki/Digby,_Nova_Scotia_(municipal_district)" title="Digby, Nova Scotia (municipal district)">Digby, Municipality of the District of</a></li>
+<li><a class="mw-redirect" href="/wiki/East_Hants,_Nova_Scotia" title="East Hants, Nova Scotia">East Hants</a></li>
+<li><a class="mw-redirect" href="/wiki/Guysborough,_Nova_Scotia" title="Guysborough, Nova Scotia">Guysborough</a></li>
+<li><a class="mw-redirect" href="/wiki/Halifax_Regional_Municipality,_Nova_Scotia" title="Halifax Regional Municipality, Nova Scotia">Halifax Regional Municipality</a></li>
+<li><a class="mw-redirect" href="/wiki/Kentville,_Nova_Scotia" title="Kentville, Nova Scotia">Kentville</a></li>
+<li><a href="/wiki/Kings_County,_Nova_Scotia" title="Kings County, Nova Scotia">Kings County</a></li>
+<li><a href="/wiki/Lunenburg,_Nova_Scotia" title="Lunenburg, Nova Scotia">Lunenburg</a></li>
+<li><a class="mw-redirect" href="/wiki/Lunenburg,_Nova_Scotia_(municipal_district)" title="Lunenburg, Nova Scotia (municipal district)">Lunenburg, Municipality of the District of</a></li>
+<li><a href="/wiki/Middleton,_Nova_Scotia" title="Middleton, Nova Scotia">Middleton</a></li>
+<li><a href="/wiki/New_Glasgow,_Nova_Scotia" title="New Glasgow, Nova Scotia">New Glasgow</a></li>
+<li><a class="mw-redirect" href="/wiki/Pictou_County,_Nova_Scotia" title="Pictou County, Nova Scotia">Pictou County</a></li>
+<li><a href="/wiki/Queens_County,_Nova_Scotia" title="Queens County, Nova Scotia">Queens County</a></li>
+<li><a href="/wiki/Richmond_County,_Nova_Scotia" title="Richmond County, Nova Scotia">Richmond County</a></li>
+<li><a class="mw-redirect" href="/wiki/Shelburne,_Nova_Scotia_(municipal_district)" title="Shelburne, Nova Scotia (municipal district)">Shelburne, Municipality of the District of</a></li>
+<li><a class="mw-redirect" href="/wiki/Stellarton,_Nova_Scotia" title="Stellarton, Nova Scotia">Stellarton</a></li>
+<li><a href="/wiki/Trenton,_Nova_Scotia" title="Trenton, Nova Scotia">Trenton</a></li>
+<li><a href="/wiki/Truro,_Nova_Scotia" title="Truro, Nova Scotia">Truro</a></li>
+<li><a href="/wiki/Westville,_Nova_Scotia" title="Westville, Nova Scotia">Westville</a></li>
+<li><a href="/wiki/Windsor,_Nova_Scotia" title="Windsor, Nova Scotia">Windsor</a></li>
+<li><a class="mw-redirect" href="/wiki/Wolfville,_Nova_Scotia" title="Wolfville, Nova Scotia">Wolfville</a></li>
+<li><a href="/wiki/Yarmouth,_Nova_Scotia" title="Yarmouth, Nova Scotia">Yarmouth</a></li>
+<li><a class="mw-redirect" href="/wiki/Yarmouth,_Nova_Scotia_(municipal_district)" title="Yarmouth, Nova Scotia (municipal district)">Yarmouth, Municipality of the District of</a></li></ul>
+</div>
+<h3><span class="mw-headline" id="Ontario">Ontario</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=11" title="Edit section: Ontario">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Government_of_Ontario" title="Government of Ontario">Government of Ontario</a><a class="external autonumber" href="https://www.appmybizaccount.gov.on.ca/wps/poc/mba_pub?uri=pagelink:osb.portal.public.non.navigable.search.wizard&amp;act=plStepOne&amp;lang=en" rel="nofollow">[10]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since May 2019">permanent dead link</span></a></i>]</span></sup></li></ul>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Ajax,_Ontario" title="Ajax, Ontario">Ajax</a></li>
+<li><a href="/wiki/Aurora,_Ontario" title="Aurora, Ontario">Aurora</a></li>
+<li><a href="/wiki/Aylmer,_Ontario" title="Aylmer, Ontario">Aylmer</a></li>
+<li><a class="mw-redirect" href="/wiki/Bayham,_Ontario" title="Bayham, Ontario">Bayham</a></li>
+<li><a class="mw-redirect" href="/wiki/Black_River-Matheson,_Ontario" title="Black River-Matheson, Ontario">Black River-Matheson</a></li>
+<li><a href="/wiki/Blind_River,_Ontario" title="Blind River, Ontario">Blind River</a></li>
+<li><a href="/wiki/Bonfield,_Ontario" title="Bonfield, Ontario">Bonfield</a></li>
+<li><a href="/wiki/Bracebridge,_Ontario" title="Bracebridge, Ontario">Bracebridge</a></li>
+<li><a class="mw-redirect" href="/wiki/Bradford_West_Gwillimbury,_Ontario" title="Bradford West Gwillimbury, Ontario">Bradford West Gwillimbury</a></li>
+<li><a class="mw-redirect" href="/wiki/Brampton,_Ontario" title="Brampton, Ontario">Brampton</a></li>
+<li><a class="mw-redirect" href="/wiki/Brantford,_Ontario" title="Brantford, Ontario">Brantford</a></li>
+<li><a class="mw-redirect" href="/wiki/Brockville,_Ontario" title="Brockville, Ontario">Brockville</a></li>
+<li><a class="mw-redirect" href="/wiki/Bruce_Mines,_Ontario" title="Bruce Mines, Ontario">Bruce Mine</a></li>
+<li><a href="/wiki/Burlington,_Ontario" title="Burlington, Ontario">Burlington</a></li>
+<li><a href="/wiki/Calvin,_Ontario" title="Calvin, Ontario">Calvin</a></li>
+<li><a href="/wiki/Cambridge,_Ontario" title="Cambridge, Ontario">Cambridge</a></li>
+<li><a class="mw-redirect" href="/wiki/Carlow/Mayo,_Ontario" title="Carlow/Mayo, Ontario">Carlow/Mayo</a></li>
+<li><a class="mw-redirect" href="/wiki/Central_Elgin,_Ontario" title="Central Elgin, Ontario">Central Elgin</a></li>
+<li><a href="/wiki/Champlain,_Ontario" title="Champlain, Ontario">Champlain</a></li>
+<li><a class="mw-redirect" href="/wiki/Chatham-Kent,_Ontario" title="Chatham-Kent, Ontario">Chatham-Kent</a></li>
+<li><a class="mw-redirect" href="/wiki/Clarington,_Ontario" title="Clarington, Ontario">Clarington</a></li>
+<li><a class="mw-redirect" href="/wiki/Cobourg,_Ontario" title="Cobourg, Ontario">Cobourg</a></li>
+<li><a href="/wiki/Cochrane,_Ontario" title="Cochrane, Ontario">Cochrane</a></li>
+<li><a href="/wiki/Collingwood,_Ontario" title="Collingwood, Ontario">Collingwood</a></li>
+<li><a href="/wiki/Conmee,_Ontario" title="Conmee, Ontario">Conmee (Township)</a></li>
+<li><a class="mw-redirect" href="/wiki/Deseronto,_Ontario" title="Deseronto, Ontario">Deseronto</a></li>
+<li><a href="/wiki/Dryden,_Ontario" title="Dryden, Ontario">Dryden</a></li>
+<li><a class="mw-redirect" href="/wiki/Dutton/Dunwich,_Ontario" title="Dutton/Dunwich, Ontario">Dutton/Dunwich</a></li>
+<li><a class="mw-redirect" href="/wiki/East_Gwillimbury,_Ontario" title="East Gwillimbury, Ontario">East Gwillimbury</a></li>
+<li><a class="mw-redirect" href="/wiki/Edwardsburgh/Cardinal,_Ontario" title="Edwardsburgh/Cardinal, Ontario">Edwardsburgh/Cardinal</a></li>
+<li><a href="/wiki/Enniskillen,_Ontario" title="Enniskillen, Ontario">Enniskillen</a></li>
+<li><a href="/wiki/Essa,_Ontario" title="Essa, Ontario">Essa</a></li>
+<li><a href="/wiki/Faraday,_Ontario" title="Faraday, Ontario">Faraday</a></li>
+<li><a class="mw-redirect" href="/wiki/Fort_Frances,_Ontario" title="Fort Frances, Ontario">Fort Frances</a></li>
+<li><a class="mw-redirect" href="/wiki/Frontenac_Islands,_Ontario" title="Frontenac Islands, Ontario">Frontenac Islands</a></li>
+<li><a class="mw-redirect" href="/wiki/Georgian_Bluffs,_Ontario" title="Georgian Bluffs, Ontario">Georgian Bluffs, Township of</a></li>
+<li><a href="/wiki/Georgina,_Ontario" title="Georgina, Ontario">Georgina</a></li>
+<li><a href="/wiki/Gillies,_Ontario" title="Gillies, Ontario">Gillies, Township of</a></li>
+<li><a href="/wiki/Gravenhurst,_Ontario" title="Gravenhurst, Ontario">Gravenhurst</a></li>
+<li><a href="/wiki/Grimsby,_Ontario" title="Grimsby, Ontario">Grimsby</a></li>
+<li><a class="mw-redirect" href="/wiki/Guelph,_Ontario" title="Guelph, Ontario">Guelph</a></li>
+<li><a class="mw-redirect" href="/wiki/Haldimand_County,_Ontario" title="Haldimand County, Ontario">Haldimand County</a></li>
+<li><a class="mw-redirect" href="/wiki/Regional_Municipality_of_Halton,_Ontario" title="Regional Municipality of Halton, Ontario">Halton Region</a></li>
+<li><a class="mw-redirect" href="/wiki/Halton_Hills,_Ontario" title="Halton Hills, Ontario">Halton Hills</a></li>
+<li><a href="/wiki/Hamilton,_Ontario" title="Hamilton, Ontario">Hamilton</a></li>
+<li><a href="/wiki/Hanover,_Ontario" title="Hanover, Ontario">Hanover</a></li>
+<li><a class="mw-redirect" href="/wiki/Hastings_Highlands,_Ontario" title="Hastings Highlands, Ontario">Hastings Highlands Township</a></li>
+<li><a href="/wiki/Hearst,_Ontario" title="Hearst, Ontario">Hearst</a></li>
+<li><a href="/wiki/Hilton,_Ontario" title="Hilton, Ontario">Hilton</a></li>
+<li><a class="mw-redirect" href="/wiki/Hilton_Beach,_Ontario" title="Hilton Beach, Ontario">Hilton Beach</a></li>
+<li><a class="mw-redirect" href="/wiki/Hornepayne,_Ontario" title="Hornepayne, Ontario">Hornepayne</a></li>
+<li><a href="/wiki/Huntsville,_Ontario" title="Huntsville, Ontario">Huntsville</a></li>
+<li><a class="mw-redirect" href="/wiki/Huron_Shores,_Ontario" title="Huron Shores, Ontario">Huron Shores</a></li>
+<li><a class="mw-redirect" href="/wiki/Innisfil,_Ontario" title="Innisfil, Ontario">Innisfil</a></li>
+<li><a href="/wiki/Jocelyn,_Ontario" title="Jocelyn, Ontario">Jocelyn</a></li>
+<li><a href="/wiki/Johnson,_Ontario" title="Johnson, Ontario">Johnson</a></li>
+<li><a class="mw-redirect" href="/wiki/Kapuskasing,_Ontario" title="Kapuskasing, Ontario">Kapuskasing</a></li>
+<li><a class="mw-redirect" href="/wiki/Kawartha_Lakes,_Ontario" title="Kawartha Lakes, Ontario">Kawartha Lakes</a></li>
+<li><a class="mw-redirect" href="/wiki/Kenora,_Ontario" title="Kenora, Ontario">Kenora</a></li>
+<li><a href="/wiki/King,_Ontario" title="King, Ontario">King Township</a></li>
+<li><a href="/wiki/Kingston,_Ontario" title="Kingston, Ontario">Kingston</a></li>
+<li><a href="/wiki/Kitchener,_Ontario" title="Kitchener, Ontario">Kitchener</a></li>
+<li><a class="mw-redirect" href="/wiki/Lake_of_Bays,_Ontario" title="Lake of Bays, Ontario">Lake of Bays</a></li>
+<li><a href="/wiki/Lake_of_the_Woods,_Ontario" title="Lake of the Woods, Ontario">Lake of the Woods Township</a></li>
+<li><a href="/wiki/Lakeshore,_Ontario" title="Lakeshore, Ontario">Lakeshore</a></li>
+<li><a href="/wiki/London,_Ontario" title="London, Ontario">London</a></li>
+<li><a class="mw-redirect" href="/wiki/Lucan_Biddulph,_Ontario" title="Lucan Biddulph, Ontario">Lucan Biddulph</a></li>
+<li><a href="/wiki/Malahide,_Ontario" title="Malahide, Ontario">Malahide</a></li>
+<li><a href="/wiki/Markham,_Ontario" title="Markham, Ontario">Markham</a></li>
+<li><a class="mw-redirect" href="/wiki/Marmora_and_Lake,_Ontario" title="Marmora and Lake, Ontario">Marmora and Lake</a></li>
+<li><a href="/wiki/Mattawa,_Ontario" title="Mattawa, Ontario">Mattawa</a></li>
+<li><a href="/wiki/McKellar,_Ontario" title="McKellar, Ontario">McKellar Township</a></li>
+<li><a href="/wiki/Midland,_Ontario" title="Midland, Ontario">Midland</a></li>
+<li><a href="/wiki/Milton,_Ontario" title="Milton, Ontario">Milton</a></li>
+<li><a class="mw-redirect" href="/wiki/Mississauga,_Ontario" title="Mississauga, Ontario">Mississauga</a></li>
+<li><a class="mw-redirect" href="/wiki/Moosonee,_Ontario" title="Moosonee, Ontario">Moosonee</a></li>
+<li><a href="/wiki/District_Municipality_of_Muskoka" title="District Municipality of Muskoka">Muskoka, District Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/Muskoka_Lakes,_Ontario" title="Muskoka Lakes, Ontario">Muskoka Lakes, Township of</a></li>
+<li><a href="/wiki/Neebing,_Ontario" title="Neebing, Ontario">Neebing</a></li>
+<li><a class="mw-redirect" href="/wiki/New_Tecumseth,_Ontario" title="New Tecumseth, Ontario">New Tecumseth</a></li>
+<li><a href="/wiki/Newmarket,_Ontario" title="Newmarket, Ontario">Newmarket</a></li>
+<li><a class="mw-redirect" href="/wiki/Regional_Municipality_of_Niagara,_Ontario" title="Regional Municipality of Niagara, Ontario">Niagara, Regional Municipality of</a></li>
+<li><a class="mw-redirect" href="/wiki/Niagara-on-the-Lake,_Ontario" title="Niagara-on-the-Lake, Ontario">Niagara-on-the-Lake</a></li>
+<li><a class="mw-redirect" href="/wiki/Norfolk,_Ontario" title="Norfolk, Ontario">Norfolk</a></li>
+<li><a href="/wiki/North_Frontenac,_Ontario" title="North Frontenac, Ontario">North Frontenac</a></li>
+<li><a class="mw-redirect" href="/wiki/North_Grenville,_Ontario" title="North Grenville, Ontario">North Grenville</a></li>
+<li><a class="mw-redirect" href="/wiki/North_Shore,_Ontario" title="North Shore, Ontario">North Shore</a></li>
+<li><a href="/wiki/Oakville,_Ontario" title="Oakville, Ontario">Oakville</a></li>
+<li><a href="/wiki/Oil_Springs,_Ontario" title="Oil Springs, Ontario">Oil Springs</a></li>
+<li><a class="mw-redirect" href="/wiki/Oliver_Paipoonge,_Ontario" title="Oliver Paipoonge, Ontario">Oliver Paipoonge</a></li>
+<li><a class="mw-redirect" href="/wiki/Orillia,_Ontario" title="Orillia, Ontario">Orillia</a></li>
+<li><a class="mw-redirect" href="/wiki/Oshawa,_Ontario" title="Oshawa, Ontario">Oshawa</a></li>
+<li><a href="/wiki/Ottawa" title="Ottawa">Ottawa</a></li>
+<li><a class="mw-redirect" href="/wiki/Owen_Sound,_Ontario" title="Owen Sound, Ontario">Owen Sound</a></li>
+<li><a class="mw-redirect" href="/wiki/Regional_Municipality_of_Peel,_Ontario" title="Regional Municipality of Peel, Ontario">Peel Region</a></li>
+<li><a class="mw-redirect" href="/wiki/Penetanguishene,_Ontario" title="Penetanguishene, Ontario">Penetanguishene</a></li>
+<li><a href="/wiki/Petrolia,_Ontario" title="Petrolia, Ontario">Petrolia</a></li>
+<li><a href="/wiki/Pickering,_Ontario" title="Pickering, Ontario">Pickering</a></li>
+<li><a class="mw-redirect" href="/wiki/Plummer_Additional,_Ontario" title="Plummer Additional, Ontario">Plummer Additional</a></li>
+<li><a href="/wiki/Red_Rock,_Ontario" title="Red Rock, Ontario">Red Rock</a></li>
+<li><a href="/wiki/Richmond_Hill,_Ontario" title="Richmond Hill, Ontario">Richmond Hill</a></li>
+<li><a href="/wiki/Rideau_Lakes,_Ontario" title="Rideau Lakes, Ontario">Rideau Lakes</a></li>
+<li><a href="/wiki/Sault_Ste._Marie,_Ontario" title="Sault Ste. Marie, Ontario">Sault Ste. Marie</a></li>
+<li><a href="/wiki/Schreiber,_Ontario" title="Schreiber, Ontario">Schreiber</a></li>
+<li><a class="mw-redirect" href="/wiki/Smooth_Rock_Falls,_Ontario" title="Smooth Rock Falls, Ontario">Smooth Rock Falls</a></li>
+<li><a class="mw-redirect" href="/wiki/South_Algonquin,_Ontario" title="South Algonquin, Ontario">South Algonquin</a></li>
+<li><a href="/wiki/Southwold,_Ontario" title="Southwold, Ontario">Southwold</a></li>
+<li><a class="mw-redirect" href="/wiki/St._Catharines,_Ontario" title="St. Catharines, Ontario">St. Catharines</a></li>
+<li><a class="mw-redirect" href="/wiki/Stirling-Rawdon,_Ontario" title="Stirling-Rawdon, Ontario">Stirling-Rawdon</a></li>
+<li><a href="/wiki/Stratford,_Ontario" title="Stratford, Ontario">Stratford</a></li>
+<li><a class="mw-redirect" href="/wiki/Greater_Sudbury,_Ontario" title="Greater Sudbury, Ontario">Sudbury (Greater)</a></li>
+<li><a href="/wiki/Tay,_Ontario" title="Tay, Ontario">Tay Township</a></li>
+<li><a class="mw-redirect" href="/wiki/Thunder_Bay,_Ontario" title="Thunder Bay, Ontario">Thunder Bay</a></li>
+<li><a class="mw-redirect" href="/wiki/Timmins,_Ontario" title="Timmins, Ontario">Timmins</a></li>
+<li><a href="/wiki/Toronto" title="Toronto">Toronto</a></li>
+<li><a class="mw-redirect" href="/wiki/Tudor_and_Cashel,_Ontario" title="Tudor and Cashel, Ontario">Tudor and Cashel</a></li>
+<li><a href="/wiki/Uxbridge,_Ontario" title="Uxbridge, Ontario">Uxbridge</a></li>
+<li><a class="mw-redirect" href="/wiki/Vaughan,_Ontario" title="Vaughan, Ontario">Vaughan</a></li>
+<li><a href="/wiki/Waterloo,_Ontario" title="Waterloo, Ontario">Waterloo</a></li>
+<li><a class="mw-redirect" href="/wiki/Regional_Municipality_of_Waterloo,_Ontario" title="Regional Municipality of Waterloo, Ontario">Waterloo, Regional Municipality of</a></li>
+<li><a href="/wiki/Wawa,_Ontario" title="Wawa, Ontario">Wawa</a></li>
+<li><a class="mw-redirect" href="/wiki/Welland,_Ontario" title="Welland, Ontario">Welland</a></li>
+<li><a href="/wiki/Wellesley,_Ontario" title="Wellesley, Ontario">Wellesley, Township of</a></li>
+<li><a href="/wiki/West_Elgin,_Ontario" title="West Elgin, Ontario">West Elgin</a></li>
+<li><a class="mw-redirect" href="/wiki/West_Grey,_Ontario" title="West Grey, Ontario">West Grey</a></li>
+<li><a href="/wiki/Whitby,_Ontario" title="Whitby, Ontario">Whitby</a></li>
+<li><a class="mw-redirect" href="/wiki/Whitchurch-Stouffville,_Ontario" title="Whitchurch-Stouffville, Ontario">Whitchurch-Stouffville</a></li>
+<li><a href="/wiki/White_River,_Ontario" title="White River, Ontario">White River</a></li>
+<li><a href="/wiki/Windsor,_Ontario" title="Windsor, Ontario">Windsor</a></li>
+<li><a href="/wiki/Wollaston,_Ontario" title="Wollaston, Ontario">Wollaston</a></li></ul>
+</div>
+<h3><span class="mw-headline" id="Prince_Edward_Island">Prince Edward Island</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=12" title="Edit section: Prince Edward Island">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Government_of_Prince_Edward_Island" title="Government of Prince Edward Island">Government of Prince Edward Island</a><a class="external autonumber" href="http://www.innovationpei.com/BizPaL" rel="nofollow">[11]</a></li></ul>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Afton,_Prince_Edward_Island" title="Afton, Prince Edward Island">Afton</a></li>
+<li><a href="/wiki/Alberton,_Prince_Edward_Island" title="Alberton, Prince Edward Island">Alberton</a></li>
+<li><a href="/wiki/Alexandra,_Prince_Edward_Island" title="Alexandra, Prince Edward Island">Alexandra</a></li>
+<li><a class="new" href="/w/index.php?title=Annandale,_Prince_Edward_Island&amp;action=edit&amp;redlink=1" title="Annandale, Prince Edward Island (page does not exist)">Annandale</a></li>
+<li><a class="mw-redirect" href="/wiki/Bedeque,_Prince_Edward_Island" title="Bedeque, Prince Edward Island">Bedeque</a></li>
+<li><a href="/wiki/Belfast,_Prince_Edward_Island" title="Belfast, Prince Edward Island">Belfast</a></li>
+<li><a class="mw-redirect" href="/wiki/Bideford,_Prince_Edward_Island" title="Bideford, Prince Edward Island">Bideford</a></li>
+<li><a href="/wiki/Bonshaw,_Prince_Edward_Island" title="Bonshaw, Prince Edward Island">Bonshaw</a></li>
+<li><a class="mw-redirect" href="/wiki/Borden-Carleton,_Prince_Edward_Island" title="Borden-Carleton, Prince Edward Island">Borden-Carleton</a></li>
+<li><a href="/wiki/Breadalbane,_Prince_Edward_Island" title="Breadalbane, Prince Edward Island">Breadalbane</a></li>
+<li><a href="/wiki/Cardigan,_Prince_Edward_Island" title="Cardigan, Prince Edward Island">Cardigan</a></li>
+<li><a class="mw-redirect" href="/wiki/Central_Bedeque,_Prince_Edward_Island" title="Central Bedeque, Prince Edward Island">Central Bedeque</a></li>
+<li><a href="/wiki/Central_Kings,_Prince_Edward_Island" title="Central Kings, Prince Edward Island">Central Kings</a></li>
+<li><a class="mw-redirect" href="/wiki/Charlottetown,_Prince_Edward_Island" title="Charlottetown, Prince Edward Island">Charlottetown</a></li>
+<li><a href="/wiki/Clyde_River,_Prince_Edward_Island" title="Clyde River, Prince Edward Island">Clyde River</a></li>
+<li><a href="/wiki/Cornwall,_Prince_Edward_Island" title="Cornwall, Prince Edward Island">Cornwall</a></li>
+<li><a href="/wiki/Crapaud,_Prince_Edward_Island" title="Crapaud, Prince Edward Island">Crapaud</a></li>
+<li><a href="/wiki/Darlington,_Prince_Edward_Island" title="Darlington, Prince Edward Island">Darlington</a></li>
+<li><a class="mw-redirect" href="/wiki/Eastern_Kings,_Prince_Edward_Island" title="Eastern Kings, Prince Edward Island">Eastern Kings</a></li>
+<li><a class="mw-redirect" href="/wiki/Ellerslie,_Prince_Edward_Island" title="Ellerslie, Prince Edward Island">Ellerslie</a></li>
+<li><a href="/wiki/Georgetown,_Prince_Edward_Island" title="Georgetown, Prince Edward Island">Georgetown</a></li>
+<li><a href="/wiki/Grand_Tracadie,_Prince_Edward_Island" title="Grand Tracadie, Prince Edward Island">Grand Tracadie</a></li>
+<li><a class="mw-redirect" href="/wiki/Greenmount-Montrose,_Prince_Edward_Island" title="Greenmount-Montrose, Prince Edward Island">Greenmount-Montrose</a></li>
+<li><a class="new" href="/w/index.php?title=Howe_Bay,_Prince_Edward_Island&amp;action=edit&amp;redlink=1" title="Howe Bay, Prince Edward Island (page does not exist)">Howe Bay</a></li>
+<li><a href="/wiki/Hunter_River,_Prince_Edward_Island" title="Hunter River, Prince Edward Island">Hunter River</a></li>
+<li><a href="/wiki/Kensington,_Prince_Edward_Island" title="Kensington, Prince Edward Island">Kensington</a></li>
+<li><a href="/wiki/Lady_Slipper,_Prince_Edward_Island" title="Lady Slipper, Prince Edward Island">Lady Slipper</a></li>
+<li><a href="/wiki/Little_Pond,_Prince_Edward_Island" title="Little Pond, Prince Edward Island">Little Pond</a></li>
+<li><a href="/wiki/Lot_11_and_Area,_Prince_Edward_Island" title="Lot 11 and Area, Prince Edward Island">Lot 11 and area</a></li>
+<li><a href="/wiki/Malpeque_Bay,_Prince_Edward_Island" title="Malpeque Bay, Prince Edward Island">Malpeque Bay</a></li>
+<li><a href="/wiki/Meadowbank,_Prince_Edward_Island" title="Meadowbank, Prince Edward Island">Meadowbank</a></li>
+<li><a class="mw-redirect" href="/wiki/Miltonvale_Park,_Prince_Edward_Island" title="Miltonvale Park, Prince Edward Island">Miltonvale Park</a></li>
+<li><a href="/wiki/Miminegash,_Prince_Edward_Island" title="Miminegash, Prince Edward Island">Miminegash</a></li>
+<li><a class="mw-redirect" href="/wiki/Miscouche,_Prince_Edward_Island" title="Miscouche, Prince Edward Island">Miscouche</a></li>
+<li><a href="/wiki/Montague,_Prince_Edward_Island" title="Montague, Prince Edward Island">Montague</a></li>
+<li><a href="/wiki/Morell,_Prince_Edward_Island" title="Morell, Prince Edward Island">Morell</a></li>
+<li><a href="/wiki/Montague,_Prince_Edward_Island" title="Montague, Prince Edward Island">Montague</a></li>
+<li><a href="/wiki/Murray_Harbour,_Prince_Edward_Island" title="Murray Harbour, Prince Edward Island">Murray Harbour</a></li>
+<li><a class="mw-redirect" href="/wiki/New_Haven,_Prince_Edward_Island" title="New Haven, Prince Edward Island">New Haven</a></li>
+<li><a href="/wiki/Northport,_Prince_Edward_Island" title="Northport, Prince Edward Island">Northport</a></li>
+<li><a class="new" href="/w/index.php?title=Riverdale,_Prince_Edward_Island&amp;action=edit&amp;redlink=1" title="Riverdale, Prince Edward Island (page does not exist)">Riverdale</a></li>
+<li><a href="/wiki/Souris,_Prince_Edward_Island" title="Souris, Prince Edward Island">Souris</a></li>
+<li><a class="mw-redirect" href="/wiki/Souris_West,_Prince_Edward_Island" title="Souris West, Prince Edward Island">Souris West</a></li>
+<li><a href="/wiki/St._Felix,_Prince_Edward_Island" title="St. Felix, Prince Edward Island">St. Felix</a></li>
+<li><a href="/wiki/St._Louis,_Prince_Edward_Island" title="St. Louis, Prince Edward Island">St. Louis</a></li>
+<li><a href="/wiki/St._Nicholas,_Prince_Edward_Island" title="St. Nicholas, Prince Edward Island">St. Nicholas</a></li>
+<li><a href="/wiki/St._Peters_Bay,_Prince_Edward_Island" title="St. Peters Bay, Prince Edward Island">St. Peters Bay</a></li>
+<li><a href="/wiki/Stratford,_Prince_Edward_Island" title="Stratford, Prince Edward Island">Stratford</a></li>
+<li><a href="/wiki/Victoria,_Prince_Edward_Island" title="Victoria, Prince Edward Island">Victoria</a></li>
+<li><a class="mw-redirect" href="/wiki/Warren_Grove,_Prince_Edward_Island" title="Warren Grove, Prince Edward Island">Warren Grove</a></li>
+<li><a href="/wiki/Wellington,_Prince_Edward_Island" title="Wellington, Prince Edward Island">Wellington</a></li>
+<li><a href="/wiki/West_River,_Prince_Edward_Island" title="West River, Prince Edward Island">West River</a></li>
+<li><a class="mw-redirect" href="/wiki/Winsloe_South,_Prince_Edward_Island" title="Winsloe South, Prince Edward Island">Winsloe South</a></li></ul>
+</div>
+<h3><span class="mw-headline" id="Saskatchewan">Saskatchewan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=13" title="Edit section: Saskatchewan">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a class="mw-redirect" href="/wiki/Government_of_Saskatchewan" title="Government of Saskatchewan">Government of Saskatchewan</a><a class="external autonumber" href="https://web.archive.org/web/20080801181311/http://www.bizpal.gov.sk.ca/Wizard/welcome.aspx" rel="nofollow">[12]</a></li></ul>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Arcola,_Saskatchewan" title="Arcola, Saskatchewan">Arcola</a></li>
+<li><a href="/wiki/Asquith,_Saskatchewan" title="Asquith, Saskatchewan">Asquith</a></li>
+<li><a href="/wiki/Assiniboia,_Saskatchewan" title="Assiniboia, Saskatchewan">Assiniboia</a></li>
+<li><a href="/wiki/Balcarres,_Saskatchewan" title="Balcarres, Saskatchewan">Balcarres</a></li>
+<li><a class="mw-redirect" href="/wiki/Battleford,_Saskatchewan" title="Battleford, Saskatchewan">Battleford</a></li>
+<li><a class="mw-redirect" href="/wiki/Bienfait,_Saskatchewan" title="Bienfait, Saskatchewan">Bienfait</a></li>
+<li><a href="/wiki/Big_River,_Saskatchewan" title="Big River, Saskatchewan">Big River</a></li>
+<li><a href="/wiki/Biggar,_Saskatchewan" title="Biggar, Saskatchewan">Biggar</a></li>
+<li><a href="/wiki/Broadview,_Saskatchewan" title="Broadview, Saskatchewan">Broadview</a></li>
+<li><a href="/wiki/Bruno,_Saskatchewan" title="Bruno, Saskatchewan">Bruno</a></li>
+<li><a href="/wiki/Canora,_Saskatchewan" title="Canora, Saskatchewan">Canora</a></li>
+<li><a href="/wiki/Carlyle,_Saskatchewan" title="Carlyle, Saskatchewan">Carlyle</a></li>
+<li><a class="mw-redirect" href="/wiki/Carnduff,_Saskatchewan" title="Carnduff, Saskatchewan">Carnduff</a></li>
+<li><a href="/wiki/Carrot_River,_Saskatchewan" title="Carrot River, Saskatchewan">Carrot River</a></li>
+<li><a href="/wiki/Churchbridge,_Saskatchewan" title="Churchbridge, Saskatchewan">Churchbridge</a></li>
+<li><a class="mw-redirect" href="/wiki/Corman_Park_No._344,_Saskatchewan" title="Corman Park No. 344, Saskatchewan">Corman Park No. 344, Rural Municipality of</a></li>
+<li><a href="/wiki/Coronach,_Saskatchewan" title="Coronach, Saskatchewan">Coronach</a></li>
+<li><a href="/wiki/Cudworth,_Saskatchewan" title="Cudworth, Saskatchewan">Cudworth</a></li>
+<li><a href="/wiki/Cupar,_Saskatchewan" title="Cupar, Saskatchewan">Cupar</a></li>
+<li><a href="/wiki/Cut_Knife,_Saskatchewan" title="Cut Knife, Saskatchewan">Cut Knife</a></li>
+<li><a href="/wiki/Dalmeny,_Saskatchewan" title="Dalmeny, Saskatchewan">Dalmeny</a></li>
+<li><a href="/wiki/Davidson,_Saskatchewan" title="Davidson, Saskatchewan">Davidson</a></li>
+<li><a href="/wiki/Delisle,_Saskatchewan" title="Delisle, Saskatchewan">Delisle</a></li>
+<li><a href="/wiki/Duck_Lake,_Saskatchewan" title="Duck Lake, Saskatchewan">Duck Lake</a></li>
+<li><a href="/wiki/Dundurn,_Saskatchewan" title="Dundurn, Saskatchewan">Dundurn</a></li>
+<li><a class="mw-redirect" href="/wiki/Edenwold_No._158,_Saskatchewan" title="Edenwold No. 158, Saskatchewan">Edenwold No. 158, Rural Municipality of</a></li>
+<li><a href="/wiki/Esterhazy,_Saskatchewan" title="Esterhazy, Saskatchewan">Esterhazy</a></li>
+<li><a class="mw-redirect" href="/wiki/Estevan,_Saskatchewan" title="Estevan, Saskatchewan">Estevan</a></li>
+<li><a class="mw-redirect" href="/wiki/Estevan_No._5,_Saskatchewan" title="Estevan No. 5, Saskatchewan">Estevan No. 5, Rural Municipality of</a></li>
+<li><a href="/wiki/Eston,_Saskatchewan" title="Eston, Saskatchewan">Eston</a></li>
+<li><a class="mw-redirect" href="/wiki/Fort_Qu%27Appelle,_Saskatchewan" title="Fort Qu'Appelle, Saskatchewan">Fort Qu'Appelle</a></li>
+<li><a class="mw-redirect" href="/wiki/Gravelbourg,_Saskatchewan" title="Gravelbourg, Saskatchewan">Gravelbourg</a></li>
+<li><a href="/wiki/Grenfell,_Saskatchewan" title="Grenfell, Saskatchewan">Grenfell</a></li>
+<li><a href="/wiki/Gull_Lake,_Saskatchewan" title="Gull Lake, Saskatchewan">Gull Lake</a></li>
+<li><a href="/wiki/Hague,_Saskatchewan" title="Hague, Saskatchewan">Hague</a></li>
+<li><a href="/wiki/Herbert,_Saskatchewan" title="Herbert, Saskatchewan">Herbert</a></li>
+<li><a href="/wiki/Hudson_Bay,_Saskatchewan" title="Hudson Bay, Saskatchewan">Hudson Bay</a></li>
+<li><a href="/wiki/Humboldt,_Saskatchewan" title="Humboldt, Saskatchewan">Humboldt</a></li>
+<li><a href="/wiki/Indian_Head,_Saskatchewan" title="Indian Head, Saskatchewan">Indian Head</a></li>
+<li><a class="mw-redirect" href="/wiki/Kamsack,_Saskatchewan" title="Kamsack, Saskatchewan">Kamsack</a></li>
+<li><a href="/wiki/Kelvington,_Saskatchewan" title="Kelvington, Saskatchewan">Kelvington</a></li>
+<li><a class="mw-redirect" href="/wiki/Kerrobert,_Saskatchewan" title="Kerrobert, Saskatchewan">Kerrobert</a></li>
+<li><a class="mw-redirect" href="/wiki/Kindersley,_Saskatchewan" title="Kindersley, Saskatchewan">Kindersley</a></li>
+<li><a class="mw-redirect" href="/wiki/Kinistino,_Saskatchewan" title="Kinistino, Saskatchewan">Kinistino</a></li>
+<li><a href="/wiki/Kipling,_Saskatchewan" title="Kipling, Saskatchewan">Kipling</a></li>
+<li><a class="mw-redirect" href="/wiki/Lampman,_Saskatchewan" title="Lampman, Saskatchewan">Lampman</a></li>
+<li><a href="/wiki/Langenburg,_Saskatchewan" title="Langenburg, Saskatchewan">Langenburg</a></li>
+<li><a href="/wiki/Langham,_Saskatchewan" title="Langham, Saskatchewan">Langham</a></li>
+<li><a href="/wiki/Lanigan,_Saskatchewan" title="Lanigan, Saskatchewan">Lanigan</a></li>
+<li><a class="mw-redirect" href="/wiki/Lashburn,_Saskatchewan" title="Lashburn, Saskatchewan">Lashburn</a></li>
+<li><a href="/wiki/Leader,_Saskatchewan" title="Leader, Saskatchewan">Leader</a></li>
+<li><a class="mw-redirect" href="/wiki/Lloydminster,_Saskatchewan" title="Lloydminster, Saskatchewan">Lloydminster</a></li>
+<li><a href="/wiki/Lumsden,_Saskatchewan" title="Lumsden, Saskatchewan">Lumsden</a></li>
+<li><a class="mw-redirect" href="/wiki/Luseland,_Saskatchewan" title="Luseland, Saskatchewan">Luseland</a></li>
+<li><a href="/wiki/Macklin,_Saskatchewan" title="Macklin, Saskatchewan">Macklin</a></li>
+<li><a href="/wiki/Maidstone,_Saskatchewan" title="Maidstone, Saskatchewan">Maidstone</a></li>
+<li><a href="/wiki/Maple_Creek,_Saskatchewan" title="Maple Creek, Saskatchewan">Maple Creek</a></li>
+<li><a class="mw-redirect" href="/wiki/Martensville,_Saskatchewan" title="Martensville, Saskatchewan">Martensville</a></li>
+<li><a href="/wiki/Meadow_Lake,_Saskatchewan" title="Meadow Lake, Saskatchewan">Meadow Lake</a></li>
+<li><a href="/wiki/Melfort,_Saskatchewan" title="Melfort, Saskatchewan">Melfort</a></li>
+<li><a href="/wiki/Melville,_Saskatchewan" title="Melville, Saskatchewan">Melville</a></li>
+<li><a class="mw-redirect" href="/wiki/Moose_Jaw,_Saskatchewan" title="Moose Jaw, Saskatchewan">Moose Jaw</a></li>
+<li><a href="/wiki/Moosomin,_Saskatchewan" title="Moosomin, Saskatchewan">Moosomin</a></li>
+<li><a class="mw-redirect" href="/wiki/Nipawin,_Saskatchewan" title="Nipawin, Saskatchewan">Nipawin</a></li>
+<li><a class="mw-redirect" href="/wiki/North_Battleford,_Saskatchewan" title="North Battleford, Saskatchewan">North Battleford</a></li>
+<li><a class="new" href="/w/index.php?title=Northern_Saskatchewan_Administration_District,_Saskatchewan&amp;action=edit&amp;redlink=1" title="Northern Saskatchewan Administration District, Saskatchewan (page does not exist)">Northern Administration District</a></li>
+<li><a href="/wiki/Osler,_Saskatchewan" title="Osler, Saskatchewan">Osler</a></li>
+<li><a href="/wiki/Outlook,_Saskatchewan" title="Outlook, Saskatchewan">Outlook</a></li>
+<li><a href="/wiki/Oxbow,_Saskatchewan" title="Oxbow, Saskatchewan">Oxbow</a></li>
+<li><a href="/wiki/Pilot_Butte,_Saskatchewan" title="Pilot Butte, Saskatchewan">Pilot Butte</a></li>
+<li><a class="mw-redirect" href="/wiki/Porcupine_Plain,_Saskatchewan" title="Porcupine Plain, Saskatchewan">Porcupine Plain</a></li>
+<li><a class="mw-redirect" href="/wiki/Preeceville,_Saskatchewan" title="Preeceville, Saskatchewan">Preeceville</a></li>
+<li><a href="/wiki/Prince_Albert,_Saskatchewan" title="Prince Albert, Saskatchewan">Prince Albert</a></li>
+<li><a class="mw-redirect" href="/wiki/Radville,_Saskatchewan" title="Radville, Saskatchewan">Radville</a></li>
+<li><a class="mw-redirect" href="/wiki/Redvers,_Saskatchewan" title="Redvers, Saskatchewan">Redvers</a></li>
+<li><a href="/wiki/Regina,_Saskatchewan" title="Regina, Saskatchewan">Regina</a></li>
+<li><a class="mw-redirect" href="/wiki/Regina_Beach,_Saskatchewan" title="Regina Beach, Saskatchewan">Regina Beach</a></li>
+<li><a class="mw-redirect" href="/wiki/Rosetown,_Saskatchewan" title="Rosetown, Saskatchewan">Rosetown</a></li>
+<li><a class="mw-redirect" href="/wiki/Rosthern,_Saskatchewan" title="Rosthern, Saskatchewan">Rosthern</a></li>
+<li><a class="mw-redirect" href="/wiki/Saskatoon,_Saskatchewan" title="Saskatoon, Saskatchewan">Saskatoon</a></li>
+<li><a href="/wiki/Shaunavon,_Saskatchewan" title="Shaunavon, Saskatchewan">Shaunavon</a></li>
+<li><a href="/wiki/Shellbrook,_Saskatchewan" title="Shellbrook, Saskatchewan">Shellbrook</a></li>
+<li><a href="/wiki/Southey,_Saskatchewan" title="Southey, Saskatchewan">Southey</a></li>
+<li><a class="mw-redirect" href="/wiki/Spiritwood,_Saskatchewan" title="Spiritwood, Saskatchewan">Spiritwood</a></li>
+<li><a href="/wiki/Stoughton,_Saskatchewan" title="Stoughton, Saskatchewan">Stoughton</a></li>
+<li><a href="/wiki/Strasbourg,_Saskatchewan" title="Strasbourg, Saskatchewan">Strasbourg</a></li>
+<li><a href="/wiki/Sturgis,_Saskatchewan" title="Sturgis, Saskatchewan">Sturgis</a></li>
+<li><a class="mw-redirect" href="/wiki/Swift_Current,_Saskatchewan" title="Swift Current, Saskatchewan">Swift Current</a></li>
+<li><a href="/wiki/Tisdale,_Saskatchewan" title="Tisdale, Saskatchewan">Tisdale</a></li>
+<li><a href="/wiki/Unity,_Saskatchewan" title="Unity, Saskatchewan">Unity</a></li>
+<li><a class="mw-redirect" href="/wiki/Wakaw,_Saskatchewan" title="Wakaw, Saskatchewan">Wakaw</a></li>
+<li><a href="/wiki/Waldheim,_Saskatchewan" title="Waldheim, Saskatchewan">Waldheim</a></li>
+<li><a href="/wiki/Warman,_Saskatchewan" title="Warman, Saskatchewan">Warman</a></li>
+<li><a href="/wiki/Watrous,_Saskatchewan" title="Watrous, Saskatchewan">Watrous</a></li>
+<li><a class="mw-redirect" href="/wiki/Weyburn,_Saskatchewan" title="Weyburn, Saskatchewan">Weyburn</a></li>
+<li><a href="/wiki/White_City,_Saskatchewan" title="White City, Saskatchewan">White City</a></li>
+<li><a href="/wiki/Whitewood,_Saskatchewan" title="Whitewood, Saskatchewan">Whitewood</a></li>
+<li><a href="/wiki/Wilkie,_Saskatchewan" title="Wilkie, Saskatchewan">Wilkie</a></li>
+<li><a href="/wiki/Wolseley,_Saskatchewan" title="Wolseley, Saskatchewan">Wolseley</a></li>
+<li><a href="/wiki/Wynyard,_Saskatchewan" title="Wynyard, Saskatchewan">Wynyard</a></li>
+<li><a class="mw-redirect" href="/wiki/Yorkton,_Saskatchewan" title="Yorkton, Saskatchewan">Yorkton</a></li></ul>
+</div>
+<h3><span class="mw-headline" id="Yukon">Yukon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=14" title="Edit section: Yukon">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a class="mw-redirect" href="/wiki/Government_of_Yukon" title="Government of Yukon">Government of Yukon</a></li></ul>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Carmacks,_Yukon" title="Carmacks, Yukon">Carmacks</a></li>
+<li><a class="mw-redirect" href="/wiki/Dawson_City,_Yukon" title="Dawson City, Yukon">Dawson City</a></li>
+<li><a href="/wiki/Faro,_Yukon" title="Faro, Yukon">Faro</a></li>
+<li><a class="mw-redirect" href="/wiki/Haines_Junction,_Yukon" title="Haines Junction, Yukon">Haines Junction</a></li>
+<li><a href="/wiki/Mayo,_Yukon" title="Mayo, Yukon">Mayo</a></li>
+<li><a href="/wiki/Teslin,_Yukon" title="Teslin, Yukon">Teslin</a></li>
+<li><a href="/wiki/Watson_Lake,_Yukon" title="Watson Lake, Yukon">Watson Lake</a></li>
+<li><a href="/wiki/Whitehorse,_Yukon" title="Whitehorse, Yukon">Whitehorse</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BizPaL&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20130112044612/http://www.bizpal.ca/en/page/partners" rel="nofollow">"BizPaL Participants"</a>. Archived from <a class="external text" href="http://www.bizpal.ca/en/page/partners" rel="nofollow">the original</a> on 2013-01-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-12-05</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=BizPaL+Participants&amp;rft_id=http%3A%2F%2Fwww.bizpal.ca%2Fen%2Fpage%2Fpartners&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABizPaL"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div> 
+<ul><li><a class="external text" href="http://www.bizpal.ca" rel="nofollow">BizPaL - official website</a></li>
+<li><a class="external text" href="http://www.ic.gc.ca/eic/site/021.nsf/eng/home#tab1" rel="nofollow">BizPaL Initiative on Industry Canada Website</a></li>
+<li><a class="external text" href="http://www.canadabusiness.ca/eng/search/stp1/" rel="nofollow">Canada Business Website, BizPaL search engine</a></li>
+<li><a class="external text" href="http://cgi.bowesonline.com/pedro.php?id=71&amp;x=story&amp;xid=403125" rel="nofollow">Ducatel, S. (2008-05-21) <i>Website Geared Towards Facilitating Businesses Launched</i>, Vulcan Advocate</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since November 2016">permanent dead link</span></a></i>]</span></sup></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1334
+Cached time: 20191128091031
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.284 seconds
+Real time usage: 0.349 seconds
+Preprocessor visited node count: 1848/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10242/2097152 bytes
+Template argument size: 2693/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 2887/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.099/10.000 seconds
+Lua memory usage: 2 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  208.517      1 -total
+ 49.36%  102.934      1 Template:Reflist
+ 45.79%   95.489      1 Template:Cite_web
+ 24.85%   51.824      2 Template:Dead_link
+ 23.11%   48.184     11 Template:Div_col
+ 20.57%   42.884      2 Template:Fix
+ 18.26%   38.066      4 Template:Category_handler
+  3.91%    8.153     16 Template:Main_other
+  3.36%    7.009      2 Template:Fix/category
+  1.79%    3.724     11 Template:Column-width
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18329875-0!canonical and timestamp 20191128091031 and revision id 918344862
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=BizPaL&amp;oldid=918344862">https://en.wikipedia.org/w/index.php?title=BizPaL&amp;oldid=918344862</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Innovation,_Science_and_Economic_Development_Canada" title="Category:Innovation, Science and Economic Development Canada">Innovation, Science and Economic Development Canada</a></li><li><a href="/wiki/Category:2005_establishments_in_Canada" title="Category:2005 establishments in Canada">2005 establishments in Canada</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_May_2019" title="Category:Articles with dead external links from May 2019">Articles with dead external links from May 2019</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_November_2016" title="Category:Articles with dead external links from November 2016">Articles with dead external links from November 2016</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=BizPaL" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=BizPaL" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/BizPaL" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:BizPaL" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/BizPaL">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=BizPaL&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=BizPaL&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/BizPaL" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/BizPaL" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=BizPaL&amp;oldid=918344862" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=BizPaL&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4919332" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=BizPaL&amp;id=918344862" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=BizPaL">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=BizPaL&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=BizPaL&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4919332#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 28 September 2019, at 06:22<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=BizPaL&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.349","ppvisitednodes":{"value":1848,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10242,"limit":2097152},"templateargumentsize":{"value":2693,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":2887,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  208.517      1 -total"," 49.36%  102.934      1 Template:Reflist"," 45.79%   95.489      1 Template:Cite_web"," 24.85%   51.824      2 Template:Dead_link"," 23.11%   48.184     11 Template:Div_col"," 20.57%   42.884      2 Template:Fix"," 18.26%   38.066      4 Template:Category_handler","  3.91%    8.153     16 Template:Main_other","  3.36%    7.009      2 Template:Fix/category","  1.79%    3.724     11 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.099","limit":"10.000"},"limitreport-memusage":{"value":2099157,"limit":52428800}},"cachereport":{"origin":"mw1334","timestamp":"20191128091031","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"BizPaL","url":"https:\/\/en.wikipedia.org\/wiki\/BizPaL","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4919332","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4919332","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-07-07T16:03:24Z","dateModified":"2019-09-28T06:22:17Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1320"});});</script>
+
+
+</body></html>

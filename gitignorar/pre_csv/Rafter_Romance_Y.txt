@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Rafter Romance - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfls-wpAAEYAABHytTAAAAAW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Rafter_Romance","wgTitle":"Rafter Romance","wgCurRevisionId":925443965,"wgRevisionId":925443965,"wgArticleId":11381074,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Use mdy dates from July 2015","1933 films","English-language films","1930s romantic comedy films","American romantic comedy films","American films",
+"American black-and-white films","Films scored by Max Steiner","Films directed by William A. Seiter","Films made before the MPAA Production Code","Films set in New York City","Films based on American novels"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Rafter_Romance","wgRelevantArticleId":11381074,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7282739","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/a/aa/Rafter_Romance_poster.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Rafter_Romance" rel="alternate"/>
+<link href="/w/index.php?title=Rafter_Romance&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Rafter_Romance&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Rafter_Romance" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Rafter_Romance rootpage-Rafter_Romance skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en"><i>Rafter Romance</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">1933 comedy film directed by William A. Seiter</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox vevent" style="width:22em;font-size:90%;"><tbody><tr><th class="summary" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:110%;font-style:italic;">Rafter Romance</th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Rafter_Romance_poster.jpg"><img alt="Rafter Romance poster.jpg" class="thumbborder" data-file-height="320" data-file-width="235" decoding="async" height="300" src="//upload.wikimedia.org/wikipedia/en/thumb/a/aa/Rafter_Romance_poster.jpg/220px-Rafter_Romance_poster.jpg" srcset="//upload.wikimedia.org/wikipedia/en/a/aa/Rafter_Romance_poster.jpg 1.5x" width="220"/></a><div style="font-size:95%;padding:0.35em 0.35em 0.25em;line-height:1.25em;">theatrical release poster</div></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Directed by</th><td><a href="/wiki/William_A._Seiter" title="William A. Seiter">William A. Seiter</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Produced by</th><td><a href="/wiki/Merian_C._Cooper" title="Merian C. Cooper">Merian C. Cooper</a><br/><a href="/wiki/Kenneth_Macgowan" title="Kenneth Macgowan">Kenneth Macgowan</a><br/>Alexander McGaig <i>(uncredited)</i></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Written by</th><td><a href="/wiki/Glenn_Tryon" title="Glenn Tryon">Glenn Tryon</a> <i>(adaptation)</i><br/>H.W. Hanemann<br/><a href="/wiki/Sam_Mintz" title="Sam Mintz">Sam Mintz</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Based on</th><td><i>Rafter Romance</i><br/>1932 novel<br/>by John Wells</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Starring</th><td><a href="/wiki/Ginger_Rogers" title="Ginger Rogers">Ginger Rogers</a><br/><a href="/wiki/Norman_Foster_(director)" title="Norman Foster (director)">Norman Foster</a><br/>George Sidney</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Music by</th><td><a href="/wiki/Max_Steiner" title="Max Steiner">Max Steiner</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Cinematography</th><td><a href="/wiki/David_Abel_(cinematographer)" title="David Abel (cinematographer)">David Abel</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Edited by</th><td>James B. Morley</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Distributed by</th><td><a href="/wiki/RKO_Pictures" title="RKO Pictures">RKO Radio Pictures</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><div style="padding:0.1em 0;line-height:1.2em;white-space:normal;">Release date</div></th><td><div class="plainlist">
+<ul><li>September 1, 1933<span style="display:none"> (<span class="bday dtstart published updated">1933-09-01</span>)</span></li></ul>
+</div></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><div style="padding:0.1em 0;line-height:1.2em;white-space:normal;">Running time</div></th><td>72 minutes</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Country</th><td>United States</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Language</th><td>English</td></tr></tbody></table>
+<p><i><b>Rafter Romance</b></i> is an American 1933 <a class="mw-redirect" href="/wiki/Pre-Code" title="Pre-Code">pre-Code</a> <a href="/wiki/Romantic_comedy" title="Romantic comedy">romantic comedy</a> film directed by <a href="/wiki/William_A._Seiter" title="William A. Seiter">William A. Seiter</a> and released by <a class="mw-redirect" href="/wiki/RKO_Radio_Pictures" title="RKO Radio Pictures">RKO Radio Pictures</a>. The film, which was based on the 1932 novel of the same name by John Wells, stars <a href="/wiki/Ginger_Rogers" title="Ginger Rogers">Ginger Rogers</a>, <a href="/wiki/Norman_Foster_(director)" title="Norman Foster (director)">Norman Foster</a> and George Sidney, and features <a href="/wiki/Robert_Benchley" title="Robert Benchley">Robert Benchley</a>, <a href="/wiki/Laura_Hope_Crews" title="Laura Hope Crews">Laura Hope Crews</a> and <a class="mw-redirect" href="/wiki/Guinn_Williams_(actor)" title="Guinn Williams (actor)">Guinn Williams</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Plot"><span class="tocnumber">1</span> <span class="toctext">Plot</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cast"><span class="tocnumber">2</span> <span class="toctext">Cast</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Production"><span class="tocnumber">3</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Plot">Plot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rafter_Romance&amp;action=edit&amp;section=1" title="Edit section: Plot">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mary Carroll (<a href="/wiki/Ginger_Rogers" title="Ginger Rogers">Ginger Rogers</a>) is a young woman from upstate who came to New York City to find a job and a career, but whose money has almost run out. Both she and Jack Bacon (<a href="/wiki/Norman_Foster_(director)" title="Norman Foster (director)">Norman Foster</a>), an aspiring artist who lives in the same <a href="/wiki/Greenwich_Village" title="Greenwich Village">Greenwich Village</a> building, are behind on their rent and their landlord, Max Eckbaum (George Sidney), a good-natured soul who nevertheless has expenses to meet, comes up with a solution: Move Mary into Jack's loft and have them share the apartment on a shift basis. They would never see each other or know who the other is, since Jack is out all night and sleeps during the day, and Mary is taking a job selling refrigerators by telephone, which keeps her out all day.
+</p><p>However, both manage to get a very bad impression of each other after realizing the other is of the opposite sex from articles of clothing lying about. A series of misunderstandings leads to a series of pranks aimed at each other: Jack places a bucket in the shower, and when Mary goes in it falls on her head. Then she places Jack's suit in the shower, so that it gets wet. In retaliation, he saws Mary's bed in half so that it would come apart when she sits on it.
+</p><p>The situation gets complicated when the couple accidentally meet outside their apartment and, not knowing who the other is, begin to fall in love. Matters get worse when Mary's boss, lecherous H. Harrington Hubbell (<a href="/wiki/Robert_Benchley" title="Robert Benchley">Robert Benchley</a>), tries to invite her out for dinner, while Jack's would-be "patron", a lonely, libidinous, rich older woman, Elise Peabody Willington Smythe (<a href="/wiki/Laura_Hope_Crews" title="Laura Hope Crews">Laura Hope Crews</a>), tries to maintain her monopoly over Jack.
+</p><p>When Jack accompanies Mary to a company picnic, they slip away from the group together and miss the bus back to town, forcing them to take a taxi. When they arrive at Jack's home, Mary realizes that Jack is her roommate. Trying to allay what he assumes are her suspicions about the arrangement, and unaware Mary is the person with whom he has been sharing the attic loft, Jack strongly denounces his co-tenant to her until the landlord comes and explains all.
+</p><p>Elise and Hubbell also arrive at the apartment, where Elise tries to bribe Mary, while a protective cabdriver, Fritzie (<a class="mw-redirect" href="/wiki/Guinn_Williams_(actor)" title="Guinn Williams (actor)">Guinn Williams</a>), punches Hubbell, mistaking him for Jack. Realizing his mistake, Fritzie then goes to his cab where Jack is pleading with Mary. Fritzie is about to punch Jack when Mary intervenes, and the cab drives off with Jack and Mary kissing in the backseat. Asked if they will get married, the landlord says, "I arranged it."
+</p>
+<h2><span class="mw-headline" id="Cast">Cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rafter_Romance&amp;action=edit&amp;section=2" title="Edit section: Cast">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Rafter-Romance-LC-1.jpg"><img alt="" class="thumbimage" data-file-height="1036" data-file-width="1326" decoding="async" height="172" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rafter-Romance-LC-1.jpg/220px-Rafter-Romance-LC-1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rafter-Romance-LC-1.jpg/330px-Rafter-Romance-LC-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rafter-Romance-LC-1.jpg/440px-Rafter-Romance-LC-1.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Rafter-Romance-LC-1.jpg" title="Enlarge"></a></div><a href="/wiki/Norman_Foster_(director)" title="Norman Foster (director)">Norman Foster</a> and <a href="/wiki/Ginger_Rogers" title="Ginger Rogers">Ginger Rogers</a> in <i>Rafter Romance</i></div></div></div>
+<ul><li><a href="/wiki/Ginger_Rogers" title="Ginger Rogers">Ginger Rogers</a> as Mary Carroll</li>
+<li><a href="/wiki/Norman_Foster_(director)" title="Norman Foster (director)">Norman Foster</a> as Jack Bacon</li>
+<li>George Sidney as Max Eckbaum</li>
+<li><a href="/wiki/Robert_Benchley" title="Robert Benchley">Robert Benchley</a> as H. Harrington Hubbell</li>
+<li><a href="/wiki/Laura_Hope_Crews" title="Laura Hope Crews">Laura Hope Crews</a> as Elise Peabody Whittington Smythe</li>
+<li><a class="mw-redirect" href="/wiki/Guinn_Williams_(actor)" title="Guinn Williams (actor)">Guinn Williams</a> as Fritzie</li>
+<li><a href="/wiki/Sidney_Miller_(actor)" title="Sidney Miller (actor)">Sidney Miller</a> as Julius Eckbaum</li></ul>
+<h2><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rafter_Romance&amp;action=edit&amp;section=3" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Production on <i>Rafter Romance</i> began in mid-June 1933.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> RKO initially announced that <a href="/wiki/Joel_McCrea" title="Joel McCrea">Joel McCrea</a> and <a class="mw-redirect" href="/wiki/Dorothy_Jordan_(film_actress)" title="Dorothy Jordan (film actress)">Dorothy Jordan</a> would star in the film, and then paired <a href="/wiki/Lew_Ayres" title="Lew Ayres">Lew Ayres</a> with Ginger Rogers, before casting Norman Foster as the male lead.<sup class="reference" id="cite_ref-tcmnotes_2-0"><a href="#cite_note-tcmnotes-2">[2]</a></sup> Foster and Rogers had been teamed before on <i><a href="/wiki/Young_Man_of_Manhattan" title="Young Man of Manhattan">Young Man of Manhattan</a></i> in 1930, and also made <i>Professional Sweetheart</i> together later in 1933.<sup class="reference" id="cite_ref-tcmart_3-0"><a href="#cite_note-tcmart-3">[3]</a></sup>
+</p><p>Four years after the release of <i>Rafter Romance</i>, producer <a href="/wiki/Merian_C._Cooper" title="Merian C. Cooper">Merian C. Cooper</a> re-made it as <i><a href="/wiki/Living_on_Love" title="Living on Love">Living on Love</a></i>, with <a href="/wiki/James_Dunn_(actor)" title="James Dunn (actor)">James Dunn</a> and <a href="/wiki/Whitney_Bourne" title="Whitney Bourne">Whitney Bourne</a>, also for RKO.  The plots of other films, including the German film <i><a href="/wiki/I_by_Day,_You_by_Night" title="I by Day, You by Night">Ich bei Tag und du bei Nacht</a></i> (1932), the French film <i>A Moi le jour, à toi nuit</i> (1932) and the British <i><a href="/wiki/Early_to_Bed_(1933_film)" title="Early to Bed (1933 film)">Early to Bed</a></i> (1933) have similarities to <i>Rafter Romance</i>, but are actually based on a completely separate screenplay by <a href="/wiki/Robert_Liebmann" title="Robert Liebmann">Robert Liebmann</a> and <a href="/wiki/J%C3%A1nos_Sz%C3%A9kely_(writer)" title="János Székely (writer)">János Székely</a>.<sup class="reference" id="cite_ref-tcmnotes_2-1"><a href="#cite_note-tcmnotes-2">[2]</a></sup>
+</p><p>Merian C. Cooper accused RKO of not paying him all the money contractually due for the films he produced in the 1930s. A settlement was reached in 1946, giving Cooper complete ownership of six RKO titles: 
+</p>
+<ul><li><i>Rafter Romance</i></li>
+<li><i><a href="/wiki/Double_Harness" title="Double Harness">Double Harness</a></i> (1933) with <a href="/wiki/Ann_Harding" title="Ann Harding">Ann Harding</a> and <a href="/wiki/William_Powell" title="William Powell">William Powell</a></li>
+<li><i><a href="/wiki/The_Right_to_Romance" title="The Right to Romance">The Right to Romance</a></i> (1933) with Ann Harding and <a href="/wiki/Robert_Young_(actor)" title="Robert Young (actor)">Robert Young</a></li>
+<li><i><a href="/wiki/One_Man%27s_Journey" title="One Man's Journey">One Man's Journey</a></i> (1933) with <a href="/wiki/Lionel_Barrymore" title="Lionel Barrymore">Lionel Barrymore</a></li>
+<li><i><a href="/wiki/Living_on_Love" title="Living on Love">Living on Love</a></i> (1937)</li>
+<li><i><a href="/wiki/A_Man_to_Remember" title="A Man to Remember">A Man to Remember</a></i> (1938)</li></ul>
+<p>According to an interview with a retired RKO executive, Cooper withdrew the films, only allowing them to be shown on television in 1955-1956 in <a href="/wiki/New_York_City" title="New York City">New York City</a>.  In 2007 the films were shown at the <i><a href="/wiki/Film_Forum" title="Film Forum">Film Forum</a></i> in New York, and <a href="/wiki/Turner_Classic_Movies" title="Turner Classic Movies">Turner Classic Movies</a>, which had acquired the rights to the six films after extensive legal negotiations, broadcast them, their first full public exhibition in over 70 years. TCM, in association with the <a href="/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a> and the <a href="/wiki/Brigham_Young_University" title="Brigham Young University">Brigham Young University</a> Motion Picture Archive, had searched many film archives throughout the world to find copies of the films in order to create new 35mm prints.<sup class="reference" id="cite_ref-tcmnotes_2-2"><a href="#cite_note-tcmnotes-2">[2]</a></sup><sup class="reference" id="cite_ref-tcmart_3-1"><a href="#cite_note-tcmart-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rafter_Romance&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">TCM <a class="external text" href="http://www.tcm.com/tcmdb/title.jsp?stid=87568" rel="nofollow">Overview</a></span>
+</li>
+<li id="cite_note-tcmnotes-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-tcmnotes_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tcmnotes_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-tcmnotes_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">TCM <a class="external text" href="http://www.tcm.com/tcmdb/title.jsp?stid=87568&amp;category=Notes" rel="nofollow"><i>Rafter Romance</i>: Notes</a>, tcm.com; accessed July 23, 2015.</span>
+</li>
+<li id="cite_note-tcmart-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-tcmart_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tcmart_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Fristoe, Roger. <a class="external text" href="http://www.tcm.com/tcmdb/title.jsp?stid=87568&amp;category=Articles" rel="nofollow">"Rafter Romance" (TCM article)</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/Robert_Osborne" title="Robert Osborne">Osborne, Robert</a>. <a href="/wiki/Turner_Classic_Movies" title="Turner Classic Movies">Turner Classic Movies</a> broadcast on April 4 &amp; 11, 2007.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Eder, Bruce <a class="external text" href="http://www.allmovie.com/work/rafter-romance-107133/review" rel="nofollow">"Rafter Romance" (AMG review)</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rafter_Romance&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://catalog.afi.com/Catalog/moviedetails/1157" rel="nofollow"><i>Rafter Romance</i></a> at the <a href="/wiki/AFI_Catalog_of_Feature_Films" title="AFI Catalog of Feature Films">American Film Institute Catalog</a></li>
+<li><a class="external text" href="https://www.imdb.com/title/tt0024484/" rel="nofollow"><i>Rafter Romance</i></a> on <a href="/wiki/IMDb" title="IMDb">IMDb</a></li>
+<li><a class="external text" href="http://www.tcm.turner.com/tcmdb/title/title.jsp?stid=87568" rel="nofollow"><i>Rafter Romance</i></a> at the <a href="/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+<li><a class="external text" href="https://www.allmovie.com/movie/v107133" rel="nofollow"><i>Rafter Romance</i></a> at <a href="/wiki/AllMovie" title="AllMovie">AllMovie</a></li></ul>
+<div aria-labelledby="Films_directed_by_William_A._Seiter" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:William_A._Seiter" title="Template:William A. Seiter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:William_A._Seiter" title="Template talk:William A. Seiter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:William_A._Seiter&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Films_directed_by_William_A._Seiter" style="font-size:114%;margin:0 4em">Films directed by <a href="/wiki/William_A._Seiter" title="William A. Seiter">William A. Seiter</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Passing_Through_(film)" title="Passing Through (film)">Passing Through</a></i>  (1921)</li>
+<li><i><a href="/wiki/Boy_Crazy_(film)" title="Boy Crazy (film)">Boy Crazy</a></i> (1922)</li>
+<li><i><a href="/wiki/Up_and_at_%27Em" title="Up and at 'Em">Up and at 'Em</a></i> (1922)</li>
+<li><i><a href="/wiki/The_Beautiful_and_Damned_(film)" title="The Beautiful and Damned (film)">The Beautiful and Damned</a></i> (1922)</li>
+<li><i><a href="/wiki/Little_Church_Around_the_Corner_(film)" title="Little Church Around the Corner (film)">Little Church Around the Corner</a></i> (1923)</li>
+<li><i><a href="/wiki/Daddies_(film)" title="Daddies (film)">Daddies</a></i> (1924)</li>
+<li><i><a href="/wiki/The_White_Sin" title="The White Sin">The White Sin</a></i> (1924)</li>
+<li><i><a href="/wiki/Listen_Lester_(film)" title="Listen Lester (film)">Listen Lester</a></i> (1924)</li>
+<li><i><a href="/wiki/The_Family_Secret_(1924_film)" title="The Family Secret (1924 film)">The Family Secret</a></i> (1924)</li>
+<li><i><a href="/wiki/Helen%27s_Babies_(film)" title="Helen's Babies (film)">Helen's Babies</a></i> (1924)</li>
+<li><i><a href="/wiki/The_Fast_Worker" title="The Fast Worker">The Fast Worker</a></i> (1924)</li>
+<li><i><a href="/wiki/The_Mad_Whirl" title="The Mad Whirl">The Mad Whirl</a></i> (1925)</li>
+<li><i><a href="/wiki/Dangerous_Innocence" title="Dangerous Innocence">Dangerous Innocence</a></i> (1925)</li>
+<li><i><a href="/wiki/The_Teaser" title="The Teaser">The Teaser</a></i> (1925)</li>
+<li><i><a href="/wiki/Where_Was_I%3F_(film)" title="Where Was I? (film)">Where Was I?</a></i> (1925)</li>
+<li><i><a href="/wiki/What_Happened_to_Jones_(1926_film)" title="What Happened to Jones (1926 film)">What Happened to Jones</a></i> (1926)</li>
+<li><i><a href="/wiki/Skinner%27s_Dress_Suit" title="Skinner's Dress Suit">Skinner's Dress Suit</a></i> (1926)</li>
+<li><i><a href="/wiki/Rolling_Home_(1926_film)" title="Rolling Home (1926 film)">Rolling Home</a></i> (1926)</li>
+<li><i><a href="/wiki/Take_It_from_Me_(1926_film)" title="Take It from Me (1926 film)">Take It from Me</a></i> (1926)</li>
+<li><i><a href="/wiki/The_Cheerful_Fraud" title="The Cheerful Fraud">The Cheerful Fraud</a></i> (1927)</li>
+<li><i><a href="/wiki/The_Small_Bachelor_(film)" title="The Small Bachelor (film)">The Small Bachelor</a></i> (1927)</li>
+<li><i><a href="/wiki/Thanks_for_the_Buggy_Ride" title="Thanks for the Buggy Ride">Thanks for the Buggy Ride</a></i> (1928)</li>
+<li><i><a href="/wiki/Good_Morning,_Judge_(1928_film)" title="Good Morning, Judge (1928 film)">Good Morning, Judge</a></i> (1928)</li>
+<li><i><a href="/wiki/Waterfront_(1928_film)" title="Waterfront (1928 film)">Waterfront</a></i> (1928)</li>
+<li><i><a href="/wiki/Outcast_(1928_film)" title="Outcast (1928 film)">Outcast</a></i> (1928)</li>
+<li><i><a href="/wiki/Why_Be_Good%3F" title="Why Be Good?">Why Be Good?</a></i> (1929)</li>
+<li><i><a href="/wiki/Smiling_Irish_Eyes" title="Smiling Irish Eyes">Smiling Irish Eyes</a></i> (1929)</li>
+<li><i><a href="/wiki/Footlights_and_Fools" title="Footlights and Fools">Footlights and Fools</a></i> (1929)</li>
+<li><i><a href="/wiki/The_Love_Racket" title="The Love Racket">The Love Racket</a></i> (1929)</li>
+<li><i><a href="/wiki/Strictly_Modern" title="Strictly Modern">Strictly Modern</a></i> (1930)</li>
+<li><i><a class="mw-redirect" href="/wiki/Back_Pay" title="Back Pay">Back Pay</a></i> (1930)</li>
+<li><i><a href="/wiki/The_Truth_About_Youth" title="The Truth About Youth">The Truth About Youth</a></i> (1930)</li>
+<li><i><a href="/wiki/Sunny_(1930_film)" title="Sunny (1930 film)">Sunny</a></i> (1930)</li>
+<li><i><a href="/wiki/Going_Wild" title="Going Wild">Going Wild</a></i> (1930)</li>
+<li><i><a href="/wiki/Kiss_Me_Again_(1931_film)" title="Kiss Me Again (1931 film)">Kiss Me Again</a></i> (1930)</li>
+<li><i><a href="/wiki/Big_Business_Girl" title="Big Business Girl">Big Business Girl</a></i> (1931)</li>
+<li><i><a href="/wiki/Too_Many_Cooks_(film)" title="Too Many Cooks (film)">Too Many Cooks</a></i> (1931)</li>
+<li><i><a href="/wiki/Caught_Plastered" title="Caught Plastered">Caught Plastered</a></i> (1931)</li>
+<li><i><a href="/wiki/Way_Back_Home_(1931_film)" title="Way Back Home (1931 film)">Way Back Home</a></i> (1931)</li>
+<li><i><a href="/wiki/Girl_Crazy_(1932_film)" title="Girl Crazy (1932 film)">Girl Crazy</a></i> (1932)</li>
+<li><i><a href="/wiki/Young_Bride" title="Young Bride">Young Bride</a></i> (1932)</li>
+<li><i><a href="/wiki/Is_My_Face_Red%3F" title="Is My Face Red?">Is My Face Red?</a></i> (1932)</li>
+<li><i><a href="/wiki/Hot_Saturday" title="Hot Saturday">Hot Saturday</a></i> (1932)</li>
+<li><i><a href="/wiki/Hello,_Everybody!" title="Hello, Everybody!">Hello, Everybody!</a></i> (1933)</li>
+<li><i><a class="mw-selflink selflink">Rafter Romance</a></i> (1933)</li>
+<li><i><a href="/wiki/Chance_at_Heaven" title="Chance at Heaven">Chance at Heaven</a></i> (1933)</li>
+<li><i><a href="/wiki/Sons_of_the_Desert" title="Sons of the Desert">Sons of the Desert</a></i> (1933)</li>
+<li><i><a href="/wiki/Love_Birds_(1934_film)" title="Love Birds (1934 film)">Love Birds</a></i> (1934)</li>
+<li><i><a href="/wiki/We%27re_Rich_Again" title="We're Rich Again">We're Rich Again</a></i> (1934)</li>
+<li><i><a href="/wiki/The_Richest_Girl_in_the_World_(1934_film)" title="The Richest Girl in the World (1934 film)">The Richest Girl in the World</a></i> (1934)</li>
+<li><i><a href="/wiki/Roberta_(1935_film)" title="Roberta (1935 film)">Roberta</a></i> (1935)</li>
+<li><i><a href="/wiki/The_Daring_Young_Man" title="The Daring Young Man">The Daring Young Man</a></i> (1935)</li>
+<li><i><a href="/wiki/If_You_Could_Only_Cook" title="If You Could Only Cook">If You Could Only Cook</a></i> (1935)</li>
+<li><i><a href="/wiki/The_Case_Against_Mrs._Ames" title="The Case Against Mrs. Ames">The Case Against Mrs. Ames</a></i> (1936)</li>
+<li><i><a href="/wiki/The_Moon%27s_Our_Home" title="The Moon's Our Home">The Moon's Our Home</a></i> (1936)</li>
+<li><i><a href="/wiki/Dimples_(1936_film)" title="Dimples (1936 film)">Dimples</a></i> (1936)</li>
+<li><i><a href="/wiki/Stowaway_(1936_film)" title="Stowaway (1936 film)">Stowaway</a></i> (1936)</li>
+<li><i><a href="/wiki/This_Is_My_Affair" title="This Is My Affair">This Is My Affair</a></i> (1937)</li>
+<li><i><a href="/wiki/Sally,_Irene_and_Mary_(1938_film)" title="Sally, Irene and Mary (1938 film)">Sally, Irene and Mary</a></i> (1938)</li>
+<li><i><a href="/wiki/Room_Service_(1938_film)" title="Room Service (1938 film)">Room Service</a></i> (1938)</li>
+<li><i><a href="/wiki/Thanks_for_Everything" title="Thanks for Everything">Thanks for Everything</a></i> (1938)</li>
+<li><i><a href="/wiki/Susannah_of_the_Mounties_(film)" title="Susannah of the Mounties (film)">Susannah of the Mounties</a></i> (1939)</li>
+<li><i><a href="/wiki/Allegheny_Uprising" title="Allegheny Uprising">Allegheny Uprising</a></i> (1939)</li>
+<li><i><a href="/wiki/It%27s_a_Date" title="It's a Date">It's a Date</a></i> (1940)</li>
+<li><i><a href="/wiki/Hired_Wife" title="Hired Wife">Hired Wife</a></i> (1940)</li>
+<li><i><a href="/wiki/Nice_Girl%3F" title="Nice Girl?">Nice Girl?</a></i> (1941)</li>
+<li><i><a href="/wiki/Appointment_for_Love" title="Appointment for Love">Appointment for Love</a></i> (1941)</li>
+<li><i><a href="/wiki/Broadway_(1942_film)" title="Broadway (1942 film)">Broadway</a></i> (1942)</li>
+<li><i><a href="/wiki/You_Were_Never_Lovelier" title="You Were Never Lovelier">You Were Never Lovelier</a></i> (1942)</li>
+<li><i><a href="/wiki/Destroyer_(1943_film)" title="Destroyer (1943 film)">Destroyer</a></i> (1943)</li>
+<li><i><a href="/wiki/A_Lady_Takes_a_Chance" title="A Lady Takes a Chance">A Lady Takes a Chance</a></i> (1943)</li>
+<li><i><a href="/wiki/Four_Jills_in_a_Jeep" title="Four Jills in a Jeep">Four Jills in a Jeep</a></i> (1944)</li>
+<li><i><a href="/wiki/Belle_of_the_Yukon" title="Belle of the Yukon">Belle of the Yukon</a></i> (1944)</li>
+<li><i><a href="/wiki/The_Affairs_of_Susan" title="The Affairs of Susan">The Affairs of Susan</a></i> (1945)</li>
+<li><i><a href="/wiki/That_Night_with_You" title="That Night with You">That Night with You</a></i> (1945)</li>
+<li><i><a href="/wiki/Little_Giant" title="Little Giant">Little Giant</a></i> (1946)</li>
+<li><i><a href="/wiki/I%27ll_Be_Yours" title="I'll Be Yours">I'll Be Yours</a></i> (1947)</li>
+<li><i><a href="/wiki/Up_in_Central_Park" title="Up in Central Park">Up in Central Park</a></i> (1948)</li>
+<li><i><a href="/wiki/One_Touch_of_Venus_(film)" title="One Touch of Venus (film)">One Touch of Venus</a></i> (1948)</li>
+<li><i><a href="/wiki/Borderline_(1950_film)" title="Borderline (1950 film)">Borderline</a></i> (1950)</li>
+<li><i><a href="/wiki/Dear_Brat" title="Dear Brat">Dear Brat</a></i> (1951)</li>
+<li><i><a href="/wiki/The_Lady_Wants_Mink" title="The Lady Wants Mink">The Lady Wants Mink</a></i> (1953)</li>
+<li><i><a href="/wiki/Champ_for_a_Day" title="Champ for a Day">Champ for a Day</a></i> (1953)</li>
+<li><i><a href="/wiki/Make_Haste_to_Live" title="Make Haste to Live">Make Haste to Live</a></i> (1954)</li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20191218000416
+Cache expiry: 3600
+Dynamic content: true
+Complications: []
+CPU time usage: 0.252 seconds
+Real time usage: 0.402 seconds
+Preprocessor visited node count: 1223/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 26863/2097152 bytes
+Template argument size: 2012/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2449/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.059/10.000 seconds
+Lua memory usage: 2.17 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  311.622      1 -total
+ 29.26%   91.182      1 Template:Infobox_film
+ 27.06%   84.326      1 Template:Infobox
+ 23.04%   71.785      1 Template:Short_description
+ 16.82%   52.420      1 Template:Pagetype
+ 12.44%   38.770      1 Template:Use_mdy_dates
+  9.00%   28.048      1 Template:IMDb_title
+  7.37%   22.977      1 Template:DMCA
+  7.03%   21.898      1 Template:Film_date
+  6.27%   19.552      1 Template:Dated_maintenance_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11381074-0!canonical and timestamp 20191218000415 and revision id 925443965
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Rafter_Romance&amp;oldid=925443965">https://en.wikipedia.org/w/index.php?title=Rafter_Romance&amp;oldid=925443965</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1933_films" title="Category:1933 films">1933 films</a></li><li><a href="/wiki/Category:English-language_films" title="Category:English-language films">English-language films</a></li><li><a href="/wiki/Category:1930s_romantic_comedy_films" title="Category:1930s romantic comedy films">1930s romantic comedy films</a></li><li><a href="/wiki/Category:American_romantic_comedy_films" title="Category:American romantic comedy films">American romantic comedy films</a></li><li><a href="/wiki/Category:American_films" title="Category:American films">American films</a></li><li><a href="/wiki/Category:American_black-and-white_films" title="Category:American black-and-white films">American black-and-white films</a></li><li><a href="/wiki/Category:Films_scored_by_Max_Steiner" title="Category:Films scored by Max Steiner">Films scored by Max Steiner</a></li><li><a href="/wiki/Category:Films_directed_by_William_A._Seiter" title="Category:Films directed by William A. Seiter">Films directed by William A. Seiter</a></li><li><a href="/wiki/Category:Films_made_before_the_MPAA_Production_Code" title="Category:Films made before the MPAA Production Code">Films made before the MPAA Production Code</a></li><li><a href="/wiki/Category:Films_set_in_New_York_City" title="Category:Films set in New York City">Films set in New York City</a></li><li><a href="/wiki/Category:Films_based_on_American_novels" title="Category:Films based on American novels">Films based on American novels</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_July_2015" title="Category:Use mdy dates from July 2015">Use mdy dates from July 2015</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rafter+Romance" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Rafter+Romance" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Rafter_Romance" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Rafter_Romance" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Rafter_Romance">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Rafter_Romance&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Rafter_Romance&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Rafter_Romance" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Rafter_Romance" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Rafter_Romance&amp;oldid=925443965" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Rafter_Romance&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7282739" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Rafter_Romance&amp;id=925443965" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Rafter_Romance" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Rafter+Romance">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Rafter+Romance&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Rafter_Romance&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Idylle_sous_les_toits" hreflang="fr" lang="fr" title="Idylle sous les toits – French">Français</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7282739#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 10 November 2019, at 04:19<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Rafter_Romance&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.252","walltime":"0.402","ppvisitednodes":{"value":1223,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":26863,"limit":2097152},"templateargumentsize":{"value":2012,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2449,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  311.622      1 -total"," 29.26%   91.182      1 Template:Infobox_film"," 27.06%   84.326      1 Template:Infobox"," 23.04%   71.785      1 Template:Short_description"," 16.82%   52.420      1 Template:Pagetype"," 12.44%   38.770      1 Template:Use_mdy_dates","  9.00%   28.048      1 Template:IMDb_title","  7.37%   22.977      1 Template:DMCA","  7.03%   21.898      1 Template:Film_date","  6.27%   19.552      1 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.059","limit":"10.000"},"limitreport-memusage":{"value":2270370,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20191218000416","ttl":3600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Rafter Romance","url":"https:\/\/en.wikipedia.org\/wiki\/Rafter_Romance","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7282739","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7282739","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-05-23T19:25:19Z","dateModified":"2019-11-10T04:19:03Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/aa\/Rafter_Romance_poster.jpg","headline":"1933 comedy film directed by William A. Seiter"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":540,"wgHostname":"mw1275"});});</script>
+
+
+</body></html>

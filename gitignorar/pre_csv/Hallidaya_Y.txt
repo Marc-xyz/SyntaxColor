@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Hallidaya - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfuANwpAMFoAAFGy@@gAAABP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hallidaya","wgTitle":"Hallidaya","wgCurRevisionId":924376219,"wgRevisionId":924376219,"wgArticleId":57678379,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Trilobozoa","Permian first appearances","Triassic extinctions","Ediacaran biota"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Hallidaya",
+"wgRelevantArticleId":57678379,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q21231169","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready",
+"mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/4/48/Tribrachiidae.JPG" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hallidaya" rel="alternate"/>
+<link href="/w/index.php?title=Hallidaya&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Hallidaya&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Hallidaya" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hallidaya rootpage-Hallidaya skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en"><i>Hallidaya</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Hallidaya brueri<br/><div style="font-size: 85%;">Temporal range: Late <a href="/wiki/Ediacaran" title="Ediacaran">Ediacaran</a>, around <span style="display:inline-block;"></span><span style="display:inline-block;">558–550 <a class="mw-redirect" href="/wiki/Megaannum" title="Megaannum">Ma</a></span> <span style="display:inline-block;"></span><div id="Timeline-row" style="margin: 4px auto 0; clear:both; width:220px; padding:0px; height:18px; overflow:visible; border:1px #666; border-style:solid none; position:relative; z-index:0; font-size:13px;">
+<div style="position:absolute; height:100%; left:0px; width:208.07692307692px; padding-left:5px; text-align:left; background-color:rgb(254,214,123); background-image: -moz-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: -o-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: -webkit-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: linear-gradient(to right, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1));"><a href="/wiki/Precambrian" title="Precambrian">PreЄ</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(129,170,114); left:36.892307692308px; width:18.818461538462px;"><a href="/wiki/Cambrian" title="Cambrian">Є</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(0,169,138); left:55.710769230769px; width:14.08px;"><a href="/wiki/Ordovician" title="Ordovician">O</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(166,223,197); left:69.790769230769px; width:8.3261538461539px;"><a href="/wiki/Silurian" title="Silurian">S</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(221,150,81); left:78.116923076923px; width:20.409230769231px;"><a href="/wiki/Devonian" title="Devonian">D</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(63,174,173); left:98.526153846154px; width:20.307692307692px;"><a href="/wiki/Carboniferous" title="Carboniferous">C</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(247,88,60); left:118.83384615385px; width:15.907015384615px;"><a href="/wiki/Permian" title="Permian">P</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(153,78,150); left:134.74086153846px; width:17.126830769231px;"><a href="/wiki/Triassic" title="Triassic">T</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(0,187,231); left:151.86769230769px; width:19.055384615385px;"><a href="/wiki/Jurassic" title="Jurassic">J</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(111,200,107); left:170.92307692308px; width:26.738461538462px;"><a href="/wiki/Cretaceous" title="Cretaceous">K</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(254,161,99); left:197.66153846154px; width:14.543692307692px;"><a href="/wiki/Paleogene" title="Paleogene"><small>Pg</small></a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(254,221,45); left:212.20523076923px; width:6.9215384615385px;"><a href="/wiki/Neogene" title="Neogene"><small>N</small></a></div>
+<div id="end-border" style="position:absolute; height:100%; background-color:#666; width:1px; left:219px"></div><div style="margin:0 auto; line-height:0; clear:both; width:220px; padding:0px; height:8px; overflow:visible; background-color:transparent; position:relative; top:-4px; z-index:100;"><div style="position:absolute; height:8px; left:31.138461538462px; width:2.7076923076923px; background-color:#360; opacity:0.42;"></div>
+<div style="position:absolute; height:8px; left:31.138461538462px; width:2.7076923076923px; background-color:#360; opacity:1;"></div>
+<div style="position:absolute; height:6px; top:1px; left:32.138461538462px; width:0.70769230769231px; background-color:#6c3;"></div>
+</div>
+</div></div>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><a class="image" href="/wiki/File:Tribrachiidae.JPG"><img alt="Tribrachiidae.JPG" data-file-height="825" data-file-width="600" decoding="async" height="303" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tribrachiidae.JPG/220px-Tribrachiidae.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tribrachiidae.JPG/330px-Tribrachiidae.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tribrachiidae.JPG/440px-Tribrachiidae.JPG 2x" width="220"/></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Different types of <i>Skinnera</i> including <i>Hallidaya brueri</i>, in  yellow at the center bottom, and <i>Skinnera brooksi</i>, in yellow at the center of the circle, found near Mt. Skinner in Northern Territory, Australia.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</td></tr>
+
+
+
+
+
+<tr>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Hallidaya" title="edit"><img alt="edit" data-file-height="16" data-file-width="16" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" width="16"/></a></span>
+</th></tr>
+<tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
+<tr>
+<td>Phylum:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a href="/wiki/Trilobozoa" title="Trilobozoa">Trilobozoa</a>
+</td></tr>
+<tr>
+<td>Class:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a class="new" href="/w/index.php?title=Cyclozoa&amp;action=edit&amp;redlink=1" title="Cyclozoa (page does not exist)">Cyclozoa</a>
+</td></tr>
+<tr>
+<td>Genus:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a class="mw-selflink selflink"><i>Hallidaya</i></a><br/><small>J.J. Sepkoski 2002</small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>Species:
+</td>
+<td><div class="species" style="display:inline">†<i><b>H. brueri</b></i></div>
+</td></tr>
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><span style="font-weight:normal;">†</span><i>Hallidaya brueri</i></span></b><br/><div style="font-size: 85%;">Wade 1969</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<p>The Ediacaran fossil <i><b>Hallidaya</b></i>, a close relative of <i><a href="/wiki/Skinnera" title="Skinnera">Skinnera</a></i> lived in <a class="mw-redirect" href="/wiki/Belomorian" title="Belomorian">Belomorian</a> (559-550 Ma) of the Late <a href="/wiki/Ediacaran" title="Ediacaran">Ediacaran</a> period prior to the <a href="/wiki/Cambrian_explosion" title="Cambrian explosion">Cambrian explosion</a> and thrived in the marine strata on the ocean floor of what is now considered Australia. These fossils were disk-shaped organisms that were slightly dome shaped with tri-radial symmetry. These Ediacaran organisms thrived by living in low-energy inner shelf, in the wave- and current-agitated shoreface, and in the high-energy distributary systems.<sup class="reference" id="cite_ref-:0_2-0"><a href="#cite_note-:0-2">[2]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Environmental_conditions"><span class="tocnumber">2</span> <span class="toctext">Environmental conditions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Taxonomy"><span class="tocnumber">3</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Discovery"><span class="tocnumber">4</span> <span class="toctext">Discovery</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Taphonomy"><span class="tocnumber">4.1</span> <span class="toctext">Taphonomy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hallidaya&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <i>Hallidaya</i> is a species of <i>Skinnera</i> which has the shape of small circular-shaped fossils preserved as a mold.  They are soft-bodied creatures approximately 4-32mm in diameter with an average of 10mm with a height of 2mm shaped like a dome. They have three central depressions that are connected to smaller pouch-shaped depressions around the perimeter of the disk by canals. Thee center depressions are speculated to be their stomach.<sup class="reference" id="cite_ref-:1_3-0"><a href="#cite_note-:1-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Environmental_conditions">Environmental conditions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hallidaya&amp;action=edit&amp;section=2" title="Edit section: Environmental conditions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the Belomorian of the Late <a href="/wiki/Ediacaran" title="Ediacaran">Ediacaran</a> other organisms who lived on the ocean floor diversified their appearances through frondomorphs, tribrachiomorphs, and bilateralomorphs. Also vendobionts began migrating from the inner shelf into higher energy environments. Hallidaya became extinct in the Kotlinian (550-540 Ma) of the Late <a href="/wiki/Ediacaran" title="Ediacaran">Ediacaran</a> after there was an increase of migration to high-energy areas by burrowing animals. These Ediacaran organisms were progressively outcompeted by <a class="mw-redirect" href="/wiki/Bilaterians" title="Bilaterians">bilaterians</a> who anchored into the microbial mat of the ocean floor with their basal bulbs and possibly evolved a symbiosis with photoautotrphic or chemoautophrophic microorganisms.
+<sup class="reference" id="cite_ref-:0_2-1"><a href="#cite_note-:0-2">[2]</a></sup> 
+<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>There were also Ediacara fan-shaped sets of paired scratches found from the Eidacara Member of the Rawnsley Quartzite in South Australia, <i>Kimberichnus teruzzii</i>. This fossil showed signs of a <i>Kimerella quadrata's</i> trace maker whose death occurs at the same time as the mat excavation traces in South Australia and Russia. Their co-occurrence and systematic feeding traces in the Ediacara biota record supports the theory that bilaterians existed globally before the <a href="/wiki/Cambrian_explosion" title="Cambrian explosion">Cambrian explosion</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:124px;"><a class="image" href="/wiki/File:Hallidaya.jpg"><img alt="" class="thumbimage" data-file-height="103" data-file-width="122" decoding="async" height="103" src="//upload.wikimedia.org/wikipedia/commons/a/af/Hallidaya.jpg" width="122"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Hallidaya.jpg" title="Enlarge"></a></div>Ediacaran fossil <i>Hallidaya brueri</i> from the Ediacara Member of the Rawnsley Quartzite in Crisp Gorge, Flinder Ranges, South Australia (Retallack 2018)<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></div></div></div>
+<h2><span class="mw-headline" id="Taxonomy">Taxonomy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hallidaya&amp;action=edit&amp;section=3" title="Edit section: Taxonomy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Hallidaya is a genus of the <a href="/wiki/Trilobozoa" title="Trilobozoa">Trilobozoa</a> taxon, but their further relationships are <a href="/wiki/Incertae_sedis" title="Incertae sedis">incertae sedis</a>. These fossils were mainly disk-shaped organisms with tri-radial symmetry.
+</p>
+<h2><span class="mw-headline" id="Discovery">Discovery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hallidaya&amp;action=edit&amp;section=4" title="Edit section: Discovery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>They were found by A.L. Halliday and M.M Bruner near Mt. Skinner in <a class="mw-redirect" href="/wiki/Northern_Territory,_Australia" title="Northern Territory, Australia">Northern Territory, Australia</a>. They marked off three locations and labelled them Mt. Skinner No. 1-3. Most of the fossils found were discovered between locations Mt. S2 and Mt. S3. These fossils were given to Mary Wade who worked in the  Department of Geology at the University of Adelaide. Wade was able to separate the fossils into two types, Form A and Form B with there being twice as many fossils that conformed to Form A when compared to Form B. Wade named Form A <i>Hallidaya brueri</i> and Form B <i>Skinnera brooksi</i>.<sup class="reference" id="cite_ref-:1_3-1"><a href="#cite_note-:1-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Taphonomy">Taphonomy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hallidaya&amp;action=edit&amp;section=5" title="Edit section: Taphonomy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The fossils were found flattened in a bedding of maroon and green shale with subgreywacks, impure siltstone, and claystones. They were parallel to the bedding plane and emerged with their dorsal surface facing upwards. 
+<sup class="reference" id="cite_ref-:1_3-2"><a href="#cite_note-:1-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hallidaya&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Apokryltaros at English Wikipedia (2006). <a class="external text" href="https://commons.wikimedia.org/wiki/File:Hallidaya.jpg">"Tribrachiidae.jpg"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tribrachiidae.jpg&amp;rft.date=2006&amp;rft.au=Apokryltaros+at+English+Wikipedia&amp;rft_id=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHallidaya.jpg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHallidaya"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-:0-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Grazhdankin, Dmitriy (2014). "Patterns of Evolution of the Ediacaran Soft-Bodied Biota". <i>Journal of Paleontology</i>. <b>88</b> (2): 269–283. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1666%2F13-072" rel="nofollow">10.1666/13-072</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Paleontology&amp;rft.atitle=Patterns+of+Evolution+of+the+Ediacaran+Soft-Bodied+Biota&amp;rft.volume=88&amp;rft.issue=2&amp;rft.pages=269-283&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1666%2F13-072&amp;rft.au=Grazhdankin%2C+Dmitriy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHallidaya"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:1-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:1_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Wade, M (1969). "Medusae from uppermost Precambrian or Cambrian sandstones, central Australia". <i>Palaeontology</i>. <b>12</b>: 351–365.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Palaeontology&amp;rft.atitle=Medusae+from+uppermost+Precambrian+or+Cambrian+sandstones%2C+central+Australia&amp;rft.volume=12&amp;rft.pages=351-365&amp;rft.date=1969&amp;rft.aulast=Wade&amp;rft.aufirst=M&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHallidaya"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dzik, Jerzy (2003). <a class="external text" href="http://icb.oxfordjournals.org/cgi/content/full/43/1/114" rel="nofollow">"Anatomical Information Content in the Ediacaran Fossils and Their Possible Zoological Affinities"</a>. <i>Integrative and Comparative Biology</i>. <b>43</b> (1): 114–126. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1093%2Ficb%2F43.1.114" rel="nofollow">10.1093/icb/43.1.114</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21680416" rel="nofollow">21680416</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Integrative+and+Comparative+Biology&amp;rft.atitle=Anatomical+Information+Content+in+the+Ediacaran+Fossils+and+Their+Possible+Zoological+Affinities&amp;rft.volume=43&amp;rft.issue=1&amp;rft.pages=114-126&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1093%2Ficb%2F43.1.114&amp;rft_id=info%3Apmid%2F21680416&amp;rft.aulast=Dzik&amp;rft.aufirst=Jerzy&amp;rft_id=http%3A%2F%2Ficb.oxfordjournals.org%2Fcgi%2Fcontent%2Ffull%2F43%2F1%2F114&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHallidaya"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gehling, James G. (2014). "Scratch Traces of Large Ediacara Bilaterian Animals". <i>Journal of Paleontology</i>. <b>88</b> (2): 284–298. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1666%2F13-054" rel="nofollow">10.1666/13-054</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Paleontology&amp;rft.atitle=Scratch+Traces+of+Large+Ediacara+Bilaterian+Animals&amp;rft.volume=88&amp;rft.issue=2&amp;rft.pages=284-298&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1666%2F13-054&amp;rft.au=Gehling%2C+James+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHallidaya"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Retallack, Gregory J. (2018). <a class="external text" href="https://commons.wikimedia.org/wiki/File:Hallidaya.jpg">"Hallidaya.jpg"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hallidaya.jpg&amp;rft.date=2018&amp;rft.au=Retallack%2C+Gregory+J.&amp;rft_id=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHallidaya.jpg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHallidaya"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hallidaya&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&amp;taxon_no=4527#/" rel="nofollow">Fossil Works Taxon Info</a></li>
+<li><a class="external text" href="http://palaeo.gly.bris.ac.uk/palaeofiles/lagerstatten/Ediacara/title.htm" rel="nofollow">Ediacara Assemblage/University of Bristol</a></li></ul>
+<div aria-labelledby="Taxon_identifiers" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Taxon_identifiers" scope="row" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a class="extiw" href="https://www.wikidata.org/wiki/Q21231169" title="wikidata:Q21231169">Q21231169</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a class="extiw" href="https://species.wikimedia.org/wiki/Hallidaya" title="wikispecies:Hallidaya">Hallidaya</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a class="external text" href="http://fossilworks.org/bridge.pl?a=taxonInfo&amp;taxon_no=4527" rel="nofollow">4527</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a class="external text" href="https://www.gbif.org/species/4878882" rel="nofollow">4878882</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a class="external text" href="http://www.irmng.org/aphia.php?p=taxdetails&amp;id=1060628" rel="nofollow">1060628</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20191122150038
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.032 seconds
+Real time usage: 1.448 seconds
+Preprocessor visited node count: 22767/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 179993/2097152 bytes
+Template argument size: 128340/2097152 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 17704/5000000 bytes
+Number of Wikibase entities loaded: 5/400
+Lua time usage: 0.548/10.000 seconds
+Lua memory usage: 3.68 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1402.027      1 -total
+ 78.21% 1096.476      1 Template:Speciesbox
+ 76.56% 1073.392      1 Template:Taxobox/core
+ 29.75%  417.098     72 Template:Period_start
+ 22.48%  315.113      2 Template:Phanerozoic_220px
+ 21.52%  301.708     72 Template:Period_id
+ 19.51%  273.499      1 Template:Geological_range
+ 19.43%  272.374     22 Template:Fossil_range/bar
+ 17.99%  252.277      1 Template:Fossil_range
+ 17.04%  238.945     72 Template:MultiReplace
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:57678379-0!canonical and timestamp 20191122150037 and revision id 924376219
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hallidaya&amp;oldid=924376219">https://en.wikipedia.org/w/index.php?title=Hallidaya&amp;oldid=924376219</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Trilobozoa" title="Category:Trilobozoa">Trilobozoa</a></li><li><a href="/wiki/Category:Permian_first_appearances" title="Category:Permian first appearances">Permian first appearances</a></li><li><a href="/wiki/Category:Triassic_extinctions" title="Category:Triassic extinctions">Triassic extinctions</a></li><li><a href="/wiki/Category:Ediacaran_biota" title="Category:Ediacaran biota">Ediacaran biota</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hallidaya" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Hallidaya" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Hallidaya" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Hallidaya" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Hallidaya">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Hallidaya&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Hallidaya&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Hallidaya" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Hallidaya" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hallidaya&amp;oldid=924376219" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hallidaya&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q21231169" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hallidaya&amp;id=924376219" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Hallidaya" hreflang="en">Wikispecies</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hallidaya">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hallidaya&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Hallidaya&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q21231169#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 3 November 2019, at 13:49<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Hallidaya&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.032","walltime":"1.448","ppvisitednodes":{"value":22767,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":179993,"limit":2097152},"templateargumentsize":{"value":128340,"limit":2097152},"expansiondepth":{"value":28,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17704,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00% 1402.027      1 -total"," 78.21% 1096.476      1 Template:Speciesbox"," 76.56% 1073.392      1 Template:Taxobox/core"," 29.75%  417.098     72 Template:Period_start"," 22.48%  315.113      2 Template:Phanerozoic_220px"," 21.52%  301.708     72 Template:Period_id"," 19.51%  273.499      1 Template:Geological_range"," 19.43%  272.374     22 Template:Fossil_range/bar"," 17.99%  252.277      1 Template:Fossil_range"," 17.04%  238.945     72 Template:MultiReplace"]},"scribunto":{"limitreport-timeusage":{"value":"0.548","limit":"10.000"},"limitreport-memusage":{"value":3859336,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20191122150038","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hallidaya","url":"https:\/\/en.wikipedia.org\/wiki\/Hallidaya","sameAs":"http:\/\/www.wikidata.org\/entity\/Q21231169","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q21231169","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2018-06-14T06:03:55Z","dateModified":"2019-11-03T13:49:12Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/48\/Tribrachiidae.JPG"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1255"});});</script>
+
+
+</body></html>

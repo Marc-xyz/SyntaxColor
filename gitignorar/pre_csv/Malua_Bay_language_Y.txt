@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Malua Bay language - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfijXApAMFUAAGlGz2MAAAAP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Malua_Bay_language","wgTitle":"Malua Bay language","wgCurRevisionId":917562537,"wgRevisionId":917562537,"wgArticleId":38568969,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Language articles citing Ethnologue 18","All stub articles","Malekula languages","Languages of Vanuatu","Oceanic language stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Malua_Bay_language","wgRelevantArticleId":38568969,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6744946","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Malua_Bay_language" rel="alternate"/>
+<link href="/w/index.php?title=Malua_Bay_language&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Malua_Bay_language&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Malua_Bay_language" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Malua_Bay_language rootpage-Malua_Bay_language skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Malua Bay language</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox vevent" style="width:22em"><tbody><tr><th class="above" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%; color: black; background-color: pink;">Malua Bay</th></tr><tr><td colspan="2" style="text-align:center;font-size:110%; color: black; background-color: pink;">Middle Nambas</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Native to</th><td style="line-height:1.3em;"><a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Region</th><td style="line-height:1.3em;"><a class="mw-redirect" href="/wiki/Malekula" title="Malekula">Malekula</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Ethnicity</th><td style="line-height:1.3em;">720 (2001)<sup class="reference" id="cite_ref-e18_1-0"><a href="#cite_note-e18-1">[1]</a></sup></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><div style="padding:0.1em 0;line-height:1.2em;">Native speakers</div></th><td style="line-height:1.3em;">500 (2001)<sup class="reference" id="cite_ref-e18_1-1"><a href="#cite_note-e18-1">[1]</a></sup></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><div style="padding:0.1em 0;line-height:1.2em;"><span class="wrap"><a href="/wiki/Language_family" title="Language family">Language family</a></span></div></th><td style="line-height:1.3em;"><div style="text-align:left;"><a href="/wiki/Austronesian_languages" title="Austronesian languages">Austronesian</a>
+<ul style="line-height:100%; margin-left:1.35em;padding-left:0"><li>
+<a href="/wiki/Malayo-Polynesian_languages" title="Malayo-Polynesian languages">Malayo-Polynesian</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Oceanic_languages" title="Oceanic languages">Oceanic</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Southern_Oceanic_languages" title="Southern Oceanic languages">Southern Oceanic</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Central_Vanuatu_languages" title="Central Vanuatu languages">Central Vanuatu</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Malakula_languages" title="Malakula languages">Malakula</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li>Northern<ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><b>Malua Bay</b></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></div></td></tr><tr><th colspan="2" style="text-align:center;color: black; background-color: pink;">Language codes</th></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td style="line-height:1.3em;"><code><a class="extiw" href="https://iso639-3.sil.org/code/mll" title="iso639-3:mll">mll</a></code></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></th><td style="line-height:1.3em;"><code><a class="external text" href="http://glottolog.org/resource/languoid/id/malu1245" rel="nofollow">malu1245</a></code><sup class="reference" id="cite_ref-Glottolog_2-0"><a href="#cite_note-Glottolog-2">[2]</a></sup></td></tr></tbody></table>
+<p><b>Malua Bay</b> (also called <b>Middle Nambas</b>) is an <a href="/wiki/Oceanic_languages" title="Oceanic languages">Oceanic language</a> spoken in northwest <a class="mw-redirect" href="/wiki/Malekula" title="Malekula">Malekula</a>, <a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a>.
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Malua_Bay_language&amp;action=edit&amp;section=1" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Paradisec" title="Paradisec">Paradisec</a> has <a class="external text" href="http://catalog.paradisec.org.au/collections/search?language_code=mll" rel="nofollow">a number of collections that include Malua Bay language materials</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Malua_Bay_language&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-e18-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-e18_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-e18_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="https://www.ethnologue.com/18/language/mll/" rel="nofollow">Malua Bay</a> at <i><a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a></i> (18th ed., 2015)</span>
+</li>
+<li id="cite_note-Glottolog-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Glottolog_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book" id="CITEREFGlottolog2017">Hammarström, Harald; Forkel, Robert; Haspelmath, Martin, eds. (2017). <a class="external text" href="http://glottolog.org/resource/languoid/id/malu1245" rel="nofollow">"Malua Bay"</a>. <i><a href="/wiki/Glottolog" title="Glottolog">Glottolog 3.0</a></i>. Jena, Germany: Max Planck Institute for the Science of Human History.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Malua+Bay&amp;rft.btitle=Glottolog+3.0&amp;rft.place=Jena%2C+Germany&amp;rft.pub=Max+Planck+Institute+for+the+Science+of+Human+History&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fglottolog.org%2Fresource%2Flanguoid%2Fid%2Fmalu1245&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMalua+Bay+language"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Vanuatu" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Vanuatu" title="Template:Languages of Vanuatu"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Vanuatu" title="Template talk:Languages of Vanuatu"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_Vanuatu&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Vanuatu" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" class="thumbborder" data-file-height="360" data-file-width="600" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/23px-Flag_of_Vanuatu.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/35px-Flag_of_Vanuatu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/46px-Flag_of_Vanuatu.svg.png 2x" width="23"/></span> <a href="/wiki/Languages_of_Vanuatu" title="Languages of Vanuatu">Languages</a> of <a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Official languages</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bislama" title="Bislama">Bislama</a></li>
+<li><a href="/wiki/English_language" title="English language">English</a></li>
+<li><a href="/wiki/French_language" title="French language">French</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Indigenous languages<br/>(<a href="/wiki/Southern_Oceanic_languages" title="Southern Oceanic languages">Southern Oceanic</a><br/>and <a href="/wiki/Polynesian_languages" title="Polynesian languages">Polynesian</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/North_Vanuatu_languages" title="North Vanuatu languages">North Vanuatu</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Torres%E2%80%93Banks_languages" title="Torres–Banks languages">Torres–Banks</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alo-Teqel_language" title="Alo-Teqel language">Alo-Teqel</a></li>
+<li><a href="/wiki/Dorig_language" title="Dorig language">Dorig</a></li>
+<li><a href="/wiki/Hiw_language" title="Hiw language">Hiw</a></li>
+<li><a href="/wiki/Koro_language_(Vanuatu)" title="Koro language (Vanuatu)">Koro</a></li>
+<li><a href="/wiki/Lakon_language" title="Lakon language">Lakon</a></li>
+<li><a href="/wiki/Lehali_language" title="Lehali language">Lehali</a></li>
+<li><a href="/wiki/Lemerig_language" title="Lemerig language">Lemerig</a></li>
+<li><a href="/wiki/Lo-Toga_language" title="Lo-Toga language">Lo-Toga</a></li>
+<li><a href="/wiki/L%C3%B6y%C3%B6p_language" title="Löyöp language">Löyöp</a></li>
+<li><a href="/wiki/Mota_language" title="Mota language">Mota</a></li>
+<li><a href="/wiki/Mwerlap_language" title="Mwerlap language">Mwerlap</a></li>
+<li><a href="/wiki/Mwesen_language" title="Mwesen language">Mwesen</a></li>
+<li><a href="/wiki/Mwotlap_language" title="Mwotlap language">Mwotlap</a></li>
+<li><a href="/wiki/Nume_language" title="Nume language">Nume</a></li>
+<li><a href="/wiki/Olrat_language" title="Olrat language">Olrat</a></li>
+<li><a href="/wiki/Vera%27a_language" title="Vera'a language">Vera'a</a></li>
+<li><a href="/wiki/Volow_language" title="Volow language">Volow</a></li>
+<li><a href="/wiki/Vur%C3%ABs_language" title="Vurës language">Vurës</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Penama_Province" title="Penama Province">Penama</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/East_Ambae_language" title="East Ambae language">East Ambae</a></li>
+<li><a href="/wiki/West_Ambae_language" title="West Ambae language">West Ambae</a></li>
+<li><a href="/wiki/North_Ambrym_language" title="North Ambrym language">North Ambrym</a></li>
+<li><a href="/wiki/Apma_language" title="Apma language">Apma</a></li>
+<li><a href="/wiki/Baetora_language" title="Baetora language">Baetora</a></li>
+<li><a href="/wiki/Fanbak_language" title="Fanbak language">Fanbak</a></li>
+<li><a href="/wiki/Raga_language" title="Raga language">Raga</a></li>
+<li><a href="/wiki/Saa_language" title="Saa language">Saa</a></li>
+<li><a href="/wiki/Ske_language" title="Ske language">Ske</a></li>
+<li><a href="/wiki/Sowa_language" title="Sowa language">Sowa</a></li>
+<li><a href="/wiki/Sungwadaga_language" title="Sungwadaga language">Sungwadaga</a></li>
+<li><a href="/wiki/Sungwadia_language" title="Sungwadia language">Sungwadia</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Espiritu_Santo_languages" title="Espiritu Santo languages">Espiritu Santo</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akei_language" title="Akei language">Akei</a></li>
+<li><a href="/wiki/Amblong_language" title="Amblong language">Amblong</a></li>
+<li><a href="/wiki/Ande_language" title="Ande language">Ande</a></li>
+<li><a href="/wiki/Aore_language" title="Aore language">Aore</a></li>
+<li><a href="/wiki/Araki_language" title="Araki language">Araki</a></li>
+<li><a href="/wiki/Butmas_language" title="Butmas language">Butmas</a></li>
+<li><a href="/wiki/Kiai_language" title="Kiai language">Kiai</a></li>
+<li><a href="/wiki/Mavea_language" title="Mavea language">Mavea</a></li>
+<li><a href="/wiki/Merei-Tiale_language" title="Merei-Tiale language">Merei-Tiale</a></li>
+<li><a href="/wiki/Mores_language" title="Mores language">Mores</a></li>
+<li><a href="/wiki/Narango_language" title="Narango language">Narango</a></li>
+<li><a href="/wiki/Navut_language" title="Navut language">Navut</a></li>
+<li><a href="/wiki/Nethalp_language" title="Nethalp language">Nethalp</a></li>
+<li><a href="/wiki/Ngen_language" title="Ngen language">Ngen</a></li>
+<li><a href="/wiki/Nokuku_language" title="Nokuku language">Nokuku</a></li>
+<li><a href="/wiki/Piamatsina_language" title="Piamatsina language">Piamatsina</a></li>
+<li><a href="/wiki/Polonombauk_language" title="Polonombauk language">Polonombauk</a></li>
+<li><a href="/wiki/Sakao_language" title="Sakao language">Sakao</a></li>
+<li><a href="/wiki/Tamambo_language" title="Tamambo language">Tamambo</a></li>
+<li><a href="/wiki/Tambotalo_language" title="Tambotalo language">Tambotalo</a></li>
+<li><a href="/wiki/Tangoa_language" title="Tangoa language">Tangoa</a></li>
+<li><a href="/wiki/Tasmate_language" title="Tasmate language">Tasmate</a></li>
+<li><a href="/wiki/Toksiki_language" title="Toksiki language">Toksiki</a></li>
+<li><a href="/wiki/Tolomako_language" title="Tolomako language">Tolomako</a></li>
+<li><a href="/wiki/Tutuba_language" title="Tutuba language">Tutuba</a></li>
+<li><a href="/wiki/Valpei_language" title="Valpei language">Valpei</a></li>
+<li><a href="/wiki/Vunapu_language" title="Vunapu language">Vunapu</a></li>
+<li><a href="/wiki/Wailapa_language" title="Wailapa language">Wailapa</a></li>
+<li><a href="/wiki/Wusi_language" title="Wusi language">Wusi</a></li>
+<li><a href="/wiki/Moiso_language" title="Moiso language">Moiso</a></li>
+<li><a href="/wiki/Kene_language" title="Kene language">Kene</a></li>
+<li><a href="/wiki/Daruru_language" title="Daruru language">Daruru</a></li>
+<li><a href="/wiki/Retlatur_language" title="Retlatur language">Retlatur</a></li>
+<li><a href="/wiki/Atin_language" title="Atin language">Atin</a></li>
+<li><a href="/wiki/Farnanto_language" title="Farnanto language">Farnanto</a></li>
+<li><a href="/wiki/Fanafo_language" title="Fanafo language">Fanafo</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Central_Vanuatu_languages" title="Central Vanuatu languages">Central Vanuatu</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/North_Efate_language" title="North Efate language">North Efate</a></li>
+<li><a href="/wiki/Nafsan_language" title="Nafsan language">Nafsan</a></li>
+<li><a href="/wiki/Efatese_language" title="Efatese language">Efatese</a></li>
+<li><a href="/wiki/Eton_language_(Vanuatu)" title="Eton language (Vanuatu)">Eton</a></li>
+<li><a href="/wiki/Lelepa_language" title="Lelepa language">Lelepa</a></li>
+<li><a href="/wiki/Makura_language" title="Makura language">Makura</a></li>
+<li><a href="/wiki/Daakaka_language" title="Daakaka language">Daakaka</a></li>
+<li><a href="/wiki/Dalkalaen_language" title="Dalkalaen language">Dalkalaen</a></li>
+<li><a href="/wiki/Lonwolwol_language" title="Lonwolwol language">Lonwolwol</a></li>
+<li><a href="/wiki/Paamese_language" title="Paamese language">Paamese</a></li>
+<li><a href="/wiki/Port_Vato_language" title="Port Vato language">Port Vato</a></li>
+<li><a href="/wiki/Southeast_Ambrym_language" title="Southeast Ambrym language">Southeast Ambrym</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Epi_languages" title="Epi languages">Epi</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baki_language" title="Baki language">Baki</a></li>
+<li><a href="/wiki/Bierebo_language" title="Bierebo language">Bierebo</a></li>
+<li><a href="/wiki/Bieria_language" title="Bieria language">Bieria</a></li>
+<li><a href="/wiki/Lamen_language" title="Lamen language">Lamen</a></li>
+<li><a href="/wiki/Lewo_language" title="Lewo language">Lewo</a></li>
+<li><a href="/wiki/Maii_language" title="Maii language">Maii</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Malakula_languages" title="Malakula languages">Malakula</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aulua_language" title="Aulua language">Aulua</a></li>
+<li><a href="/wiki/Avava_language" title="Avava language">Avava</a></li>
+<li><a href="/wiki/Aveteian_language" title="Aveteian language">Aveteian</a></li>
+<li><a href="/wiki/Axamb_language" title="Axamb language">Axamb</a></li>
+<li><a href="/wiki/Big_Nambas_language" title="Big Nambas language">Big Nambas</a></li>
+<li><a href="/wiki/Botovro_language" title="Botovro language">Botovro</a></li>
+<li><a href="/wiki/Burmbar_language" title="Burmbar language">Burmbar</a></li>
+<li><a href="/wiki/Bwenelang_language" title="Bwenelang language">Bwenelang</a></li>
+<li><a href="/wiki/Lar%C3%ABvat_language" title="Larëvat language">Larëvat</a></li>
+<li><a href="/wiki/Lendamboi_language" title="Lendamboi language">Lendamboi</a></li>
+<li><a href="/wiki/Litzlitz_language" title="Litzlitz language">Litzlitz</a></li>
+<li><a href="/wiki/Malfaxal_language" title="Malfaxal language">Malfaxal</a></li>
+<li><a class="mw-selflink selflink">Malua Bay</a></li>
+<li><a href="/wiki/Maskelynes_language" title="Maskelynes language">Maskelynes</a></li>
+<li><a href="/wiki/Nahavaq_language" title="Nahavaq language">Nahavaq</a></li>
+<li><a href="/wiki/Nasarian_language" title="Nasarian language">Nasarian</a></li>
+<li><a href="/wiki/Nasvang_language" title="Nasvang language">Nasvang</a></li>
+<li><a href="/wiki/N%C4%81ti_language" title="Nāti language">Nāti</a></li>
+<li><a href="/wiki/Navwien_language" title="Navwien language">Navwien</a></li>
+<li><a href="/wiki/Nese_language" title="Nese language">Nese</a></li>
+<li><a href="/wiki/Neve%27ei_language" title="Neve'ei language">Neve'ei</a></li>
+<li><a href="/wiki/Neverver_language" title="Neverver language">Neverver</a></li>
+<li><a href="/wiki/Ninde_language" title="Ninde language">Ninde</a></li>
+<li><a href="/wiki/Nisvai_language" title="Nisvai language">Nisvai</a></li>
+<li><a href="/wiki/Nitita_language" title="Nitita language">Nitita</a></li>
+<li><a href="/wiki/Port_Sandwich_language" title="Port Sandwich language">Port Sandwich</a></li>
+<li><a href="/wiki/Rerep_language" title="Rerep language">Rerep</a></li>
+<li><a href="/wiki/S%C3%B6rs%C3%B6rian_language" title="Sörsörian language">Sörsörian</a></li>
+<li><a href="/wiki/Tape_language" title="Tape language">Tape</a></li>
+<li><a href="/wiki/Tirax_language" title="Tirax language">Tirax</a></li>
+<li><a href="/wiki/Unua_language" title="Unua language">Unua</a></li>
+<li><a href="/wiki/Northeast_Malakula_language" title="Northeast Malakula language">Northeast Malakula</a></li>
+<li><a href="/wiki/Vao_language" title="Vao language">Vao</a></li>
+<li><a href="/wiki/Vivti_language" title="Vivti language">Vivti</a></li>
+<li><a href="/wiki/Rutan_language" title="Rutan language">Rutan</a></li>
+<li><a href="/wiki/Alovas_language" title="Alovas language">Alovas</a></li>
+<li><a href="/wiki/Najit_language" title="Najit language">Najit</a></li>
+<li><a href="/wiki/Njav_language" title="Njav language">Njav</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/South_Vanuatu_languages" title="South Vanuatu languages">South Vanuatu</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aneityum_language" title="Aneityum language">Aneityum</a></li>
+<li><a class="mw-redirect" href="/wiki/Ifo_language" title="Ifo language">Ifo</a></li>
+<li><a href="/wiki/Kwamera_language" title="Kwamera language">Kwamera</a></li>
+<li><a href="/wiki/Lenakel_language" title="Lenakel language">Lenakel</a></li>
+<li><a href="/wiki/North_Tanna_language" title="North Tanna language">North Tanna</a></li>
+<li><a class="mw-redirect" href="/wiki/Sie_language" title="Sie language">Sie</a></li>
+<li><a href="/wiki/Sorung_language" title="Sorung language">Sorung</a></li>
+<li><a href="/wiki/Southwest_Tanna_language" title="Southwest Tanna language">Southwest Tanna</a></li>
+<li><a href="/wiki/Ura_language_(Vanuatu)" title="Ura language (Vanuatu)">Ura</a></li>
+<li><a href="/wiki/Whitesands_language" title="Whitesands language">Whitesands</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Polynesian_languages" title="Polynesian languages">Polynesian</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Emae_language" title="Emae language">Emae</a></li>
+<li><a href="/wiki/Futuna-Aniwa_language" title="Futuna-Aniwa language">Futuna-Aniwa</a></li>
+<li><a href="/wiki/Mele-Fila_language" title="Mele-Fila language">Mele-Fila</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div aria-labelledby="Southern_Oceanic_languages" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Southern_Oceanic_languages" title="Template:Southern Oceanic languages"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Southern_Oceanic_languages" title="Template talk:Southern Oceanic languages"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Southern_Oceanic_languages&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Southern_Oceanic_languages" style="font-size:114%;margin:0 4em"><a href="/wiki/Southern_Oceanic_languages" title="Southern Oceanic languages">Southern Oceanic languages</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/North_Vanuatu_languages" title="North Vanuatu languages">North Vanuatu</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Torres%E2%80%93Banks_languages" title="Torres–Banks languages">Torres–Banks</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alo-Teqel_language" title="Alo-Teqel language">Alo-Teqel</a></li>
+<li><a href="/wiki/Dorig_language" title="Dorig language">Dorig</a></li>
+<li><a href="/wiki/Hiw_language" title="Hiw language">Hiw</a></li>
+<li><a href="/wiki/Koro_language_(Vanuatu)" title="Koro language (Vanuatu)">Koro</a></li>
+<li><a href="/wiki/Lakon_language" title="Lakon language">Lakon</a></li>
+<li><a href="/wiki/Lehali_language" title="Lehali language">Lehali</a></li>
+<li><a href="/wiki/Lemerig_language" title="Lemerig language">Lemerig</a></li>
+<li><a href="/wiki/Lo-Toga_language" title="Lo-Toga language">Lo-Toga</a></li>
+<li><a href="/wiki/L%C3%B6y%C3%B6p_language" title="Löyöp language">Löyöp</a></li>
+<li><a href="/wiki/Mota_language" title="Mota language">Mota</a></li>
+<li><a href="/wiki/Mwerlap_language" title="Mwerlap language">Mwerlap</a></li>
+<li><a href="/wiki/Mwesen_language" title="Mwesen language">Mwesen</a></li>
+<li><a href="/wiki/Mwotlap_language" title="Mwotlap language">Mwotlap</a></li>
+<li><a href="/wiki/Nume_language" title="Nume language">Nume</a></li>
+<li><a href="/wiki/Olrat_language" title="Olrat language">Olrat</a></li>
+<li><a href="/wiki/Vera%27a_language" title="Vera'a language">Vera'a</a></li>
+<li><a href="/wiki/Volow_language" title="Volow language">Volow</a></li>
+<li><a href="/wiki/Vur%C3%ABs_language" title="Vurës language">Vurës</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Penama_Province" title="Penama Province">Penama</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/East_Ambae_language" title="East Ambae language">East Ambae</a></li>
+<li><a href="/wiki/West_Ambae_language" title="West Ambae language">West Ambae</a></li>
+<li><a href="/wiki/North_Ambrym_language" title="North Ambrym language">North Ambrym</a></li>
+<li><a href="/wiki/Apma_language" title="Apma language">Apma</a></li>
+<li><a href="/wiki/Baetora_language" title="Baetora language">Baetora</a></li>
+<li><a href="/wiki/Fanbak_language" title="Fanbak language">Fanbak</a></li>
+<li><a href="/wiki/Raga_language" title="Raga language">Raga</a></li>
+<li><a href="/wiki/Saa_language" title="Saa language">Saa</a></li>
+<li><a href="/wiki/Ske_language" title="Ske language">Ske</a></li>
+<li><a href="/wiki/Sowa_language" title="Sowa language">Sowa</a></li>
+<li><a href="/wiki/Sungwadaga_language" title="Sungwadaga language">Sungwadaga</a></li>
+<li><a href="/wiki/Sungwadia_language" title="Sungwadia language">Sungwadia</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Espiritu_Santo_languages" title="Espiritu Santo languages">Espiritu Santo</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akei_language" title="Akei language">Akei</a></li>
+<li><a href="/wiki/Amblong_language" title="Amblong language">Amblong</a></li>
+<li><a href="/wiki/Ande_language" title="Ande language">Ande</a></li>
+<li><a href="/wiki/Aore_language" title="Aore language">Aore</a></li>
+<li><a href="/wiki/Araki_language" title="Araki language">Araki</a></li>
+<li><a href="/wiki/Butmas_language" title="Butmas language">Butmas</a></li>
+<li><a href="/wiki/Kiai_language" title="Kiai language">Kiai</a></li>
+<li><a href="/wiki/Mavea_language" title="Mavea language">Mavea</a></li>
+<li><a href="/wiki/Merei-Tiale_language" title="Merei-Tiale language">Merei-Tiale</a></li>
+<li><a href="/wiki/Mores_language" title="Mores language">Mores</a></li>
+<li><a href="/wiki/Narango_language" title="Narango language">Narango</a></li>
+<li><a href="/wiki/Navut_language" title="Navut language">Navut</a></li>
+<li><a href="/wiki/Nethalp_language" title="Nethalp language">Nethalp</a></li>
+<li><a href="/wiki/Ngen_language" title="Ngen language">Ngen</a></li>
+<li><a href="/wiki/Nokuku_language" title="Nokuku language">Nokuku</a></li>
+<li><a href="/wiki/Piamatsina_language" title="Piamatsina language">Piamatsina</a></li>
+<li><a href="/wiki/Polonombauk_language" title="Polonombauk language">Polonombauk</a></li>
+<li><a href="/wiki/Sakao_language" title="Sakao language">Sakao</a></li>
+<li><a href="/wiki/Tamambo_language" title="Tamambo language">Tamambo</a></li>
+<li><a href="/wiki/Tambotalo_language" title="Tambotalo language">Tambotalo</a></li>
+<li><a href="/wiki/Tangoa_language" title="Tangoa language">Tangoa</a></li>
+<li><a href="/wiki/Tasmate_language" title="Tasmate language">Tasmate</a></li>
+<li><a href="/wiki/Toksiki_language" title="Toksiki language">Toksiki</a></li>
+<li><a href="/wiki/Tolomako_language" title="Tolomako language">Tolomako</a></li>
+<li><a href="/wiki/Tutuba_language" title="Tutuba language">Tutuba</a></li>
+<li><a href="/wiki/Valpei_language" title="Valpei language">Valpei</a></li>
+<li><a href="/wiki/Vunapu_language" title="Vunapu language">Vunapu</a></li>
+<li><a href="/wiki/Wailapa_language" title="Wailapa language">Wailapa</a></li>
+<li><a href="/wiki/Wusi_language" title="Wusi language">Wusi</a></li>
+<li><a href="/wiki/Moiso_language" title="Moiso language">Moiso</a></li>
+<li><a href="/wiki/Kene_language" title="Kene language">Kene</a></li>
+<li><a href="/wiki/Daruru_language" title="Daruru language">Daruru</a></li>
+<li><a href="/wiki/Retlatur_language" title="Retlatur language">Retlatur</a></li>
+<li><a href="/wiki/Atin_language" title="Atin language">Atin</a></li>
+<li><a href="/wiki/Farnanto_language" title="Farnanto language">Farnanto</a></li>
+<li><a href="/wiki/Fanafo_language" title="Fanafo language">Fanafo</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Central_Vanuatu_languages" title="Central Vanuatu languages">Central Vanuatu</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/North_Efate_language" title="North Efate language">North Efate</a></li>
+<li><a href="/wiki/Nafsan_language" title="Nafsan language">Nafsan</a></li>
+<li><a href="/wiki/Efatese_language" title="Efatese language">Efatese</a></li>
+<li><a href="/wiki/Eton_language_(Vanuatu)" title="Eton language (Vanuatu)">Eton</a></li>
+<li><a href="/wiki/Lelepa_language" title="Lelepa language">Lelepa</a></li>
+<li><a href="/wiki/Makura_language" title="Makura language">Makura</a></li>
+<li><a href="/wiki/Daakaka_language" title="Daakaka language">Daakaka</a></li>
+<li><a href="/wiki/Dalkalaen_language" title="Dalkalaen language">Dalkalaen</a></li>
+<li><a href="/wiki/Lonwolwol_language" title="Lonwolwol language">Lonwolwol</a></li>
+<li><a href="/wiki/Paamese_language" title="Paamese language">Paamese</a></li>
+<li><a href="/wiki/Port_Vato_language" title="Port Vato language">Port Vato</a></li>
+<li><a href="/wiki/Southeast_Ambrym_language" title="Southeast Ambrym language">Southeast Ambrym</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Epi_languages" title="Epi languages">Epi</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baki_language" title="Baki language">Baki</a></li>
+<li><a href="/wiki/Bierebo_language" title="Bierebo language">Bierebo</a></li>
+<li><a href="/wiki/Bieria_language" title="Bieria language">Bieria</a></li>
+<li><a href="/wiki/Lamen_language" title="Lamen language">Lamen</a></li>
+<li><a href="/wiki/Lewo_language" title="Lewo language">Lewo</a></li>
+<li><a href="/wiki/Maii_language" title="Maii language">Maii</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Malakula_languages" title="Malakula languages">Malakula</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aulua_language" title="Aulua language">Aulua</a></li>
+<li><a href="/wiki/Avava_language" title="Avava language">Avava</a></li>
+<li><a href="/wiki/Aveteian_language" title="Aveteian language">Aveteian</a></li>
+<li><a href="/wiki/Axamb_language" title="Axamb language">Axamb</a></li>
+<li><a href="/wiki/Big_Nambas_language" title="Big Nambas language">Big Nambas</a></li>
+<li><a href="/wiki/Botovro_language" title="Botovro language">Botovro</a></li>
+<li><a href="/wiki/Burmbar_language" title="Burmbar language">Burmbar</a></li>
+<li><a href="/wiki/Bwenelang_language" title="Bwenelang language">Bwenelang</a></li>
+<li><a href="/wiki/Lar%C3%ABvat_language" title="Larëvat language">Larëvat</a></li>
+<li><a href="/wiki/Lendamboi_language" title="Lendamboi language">Lendamboi</a></li>
+<li><a href="/wiki/Litzlitz_language" title="Litzlitz language">Litzlitz</a></li>
+<li><a href="/wiki/Malfaxal_language" title="Malfaxal language">Malfaxal</a></li>
+<li><a class="mw-selflink selflink">Malua Bay</a></li>
+<li><a href="/wiki/Maskelynes_language" title="Maskelynes language">Maskelynes</a></li>
+<li><a href="/wiki/Nahavaq_language" title="Nahavaq language">Nahavaq</a></li>
+<li><a href="/wiki/Nasarian_language" title="Nasarian language">Nasarian</a></li>
+<li><a href="/wiki/Nasvang_language" title="Nasvang language">Nasvang</a></li>
+<li><a href="/wiki/N%C4%81ti_language" title="Nāti language">Nāti</a></li>
+<li><a href="/wiki/Navwien_language" title="Navwien language">Navwien</a></li>
+<li><a href="/wiki/Nese_language" title="Nese language">Nese</a></li>
+<li><a href="/wiki/Neve%27ei_language" title="Neve'ei language">Neve'ei</a></li>
+<li><a href="/wiki/Neverver_language" title="Neverver language">Neverver</a></li>
+<li><a href="/wiki/Ninde_language" title="Ninde language">Ninde</a></li>
+<li><a href="/wiki/Nisvai_language" title="Nisvai language">Nisvai</a></li>
+<li><a href="/wiki/Nitita_language" title="Nitita language">Nitita</a></li>
+<li><a href="/wiki/Port_Sandwich_language" title="Port Sandwich language">Port Sandwich</a></li>
+<li><a href="/wiki/Rerep_language" title="Rerep language">Rerep</a></li>
+<li><a href="/wiki/S%C3%B6rs%C3%B6rian_language" title="Sörsörian language">Sörsörian</a></li>
+<li><a href="/wiki/Tape_language" title="Tape language">Tape</a></li>
+<li><a href="/wiki/Tirax_language" title="Tirax language">Tirax</a></li>
+<li><a href="/wiki/Unua_language" title="Unua language">Unua</a></li>
+<li><a href="/wiki/Northeast_Malakula_language" title="Northeast Malakula language">Northeast Malakula</a></li>
+<li><a href="/wiki/Vao_language" title="Vao language">Vao</a></li>
+<li><a href="/wiki/Vivti_language" title="Vivti language">Vivti</a></li>
+<li><a href="/wiki/Rutan_language" title="Rutan language">Rutan</a></li>
+<li><a href="/wiki/Alovas_language" title="Alovas language">Alovas</a></li>
+<li><a href="/wiki/Najit_language" title="Najit language">Najit</a></li>
+<li><a href="/wiki/Njav_language" title="Njav language">Njav</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/South_Vanuatu_languages" title="South Vanuatu languages">South Vanuatu</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aneityum_language" title="Aneityum language">Aneityum</a></li>
+<li><a href="/wiki/Utaha_language" title="Utaha language">Ifo</a></li>
+<li><a href="/wiki/Kwamera_language" title="Kwamera language">Kwamera</a></li>
+<li><a href="/wiki/Lenakel_language" title="Lenakel language">Lenakel</a></li>
+<li><a href="/wiki/North_Tanna_language" title="North Tanna language">North Tanna</a></li>
+<li><a href="/wiki/Erromanga_language" title="Erromanga language">Sie</a></li>
+<li><a href="/wiki/Sorung_language" title="Sorung language">Sorung</a></li>
+<li><a href="/wiki/Southwest_Tanna_language" title="Southwest Tanna language">Southwest Tanna</a></li>
+<li><a href="/wiki/Ura_language_(Vanuatu)" title="Ura language (Vanuatu)">Ura</a></li>
+<li><a href="/wiki/Whitesands_language" title="Whitesands language">Whitesands</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/New_Caledonian_languages" title="New Caledonian languages">New Caledonian</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Northern</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Caac_language" title="Caac language">Caac</a></li>
+<li><a href="/wiki/C%C3%A8muh%C3%AE_language" title="Cèmuhî language">Cèmuhî</a></li>
+<li><a href="/wiki/Drehu_language" title="Drehu language">Drehu</a></li>
+<li><a href="/wiki/Fw%C3%A2i_language" title="Fwâi language">Fwâi</a></li>
+<li><a href="/wiki/Haveke_language" title="Haveke language">Haveke</a></li>
+<li><a href="/wiki/Iaai_language" title="Iaai language">Iaai</a></li>
+<li><a href="/wiki/Jawe_language" title="Jawe language">Jawe</a></li>
+<li><a href="/wiki/Kumak_language" title="Kumak language">Kumak</a></li>
+<li><a href="/wiki/Nemi_language" title="Nemi language">Nemi</a></li>
+<li><a href="/wiki/Nengone_language" title="Nengone language">Nengone</a></li>
+<li><a href="/wiki/Ny%C3%A2layu_language" title="Nyâlayu language">Nyâlayu</a></li>
+<li><a href="/wiki/Paic%C3%AE_language" title="Paicî language">Paicî</a></li>
+<li><a href="/wiki/Pije_language" title="Pije language">Pije</a></li>
+<li><a href="/wiki/Pwaamei_language" title="Pwaamei language">Pwaamei</a></li>
+<li><a href="/wiki/Pwapw%C3%A2_language" title="Pwapwâ language">Pwapwâ</a></li>
+<li><a href="/wiki/Vamale_language" title="Vamale language">Vamale</a></li>
+<li><a href="/wiki/Yuanga_language" title="Yuanga language">Yuanga</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Southern</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aji%C3%AB_language" title="Ajië language">Ajië</a></li>
+<li><a href="/wiki/Arh%C3%A2_language" title="Arhâ language">Arhâ</a></li>
+<li><a href="/wiki/Arh%C3%B6_language" title="Arhö language">Arhö</a></li>
+<li><a href="/wiki/Ndrumbea_language" title="Ndrumbea language">Ndrumbea</a></li>
+<li><a href="/wiki/Neku_language" title="Neku language">Neku</a></li>
+<li><a href="/wiki/Num%C3%A8%C3%A8_language" title="Numèè language">Numèè</a></li>
+<li><a href="/wiki/Orowe_language" title="Orowe language">Orowe</a></li>
+<li><a href="/wiki/Zire_language" title="Zire language">Sîchë</a></li>
+<li><a href="/wiki/T%C3%AEr%C3%AE_language" title="Tîrî language">Tîrî</a></li>
+<li><a href="/wiki/X%C3%A2r%C3%A2c%C3%B9%C3%B9" title="Xârâcùù">Xârâcùù</a></li>
+<li><a href="/wiki/X%C3%A2r%C3%A2gur%C3%A8_language" title="Xârâgurè language">Xârâgurè</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Others</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Haeke_language" title="Haeke language">Haeke</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<p><br/>
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><i>This article about <a href="/wiki/Southern_Oceanic_languages" title="Southern Oceanic languages">Southern Oceanic languages</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Malua_Bay_language&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:SOceanic-lang-stub" title="Template:SOceanic-lang-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:SOceanic-lang-stub" title="Template talk:SOceanic-lang-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:SOceanic-lang-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1324
+Cached time: 20191216213216
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.316 seconds
+Real time usage: 0.452 seconds
+Preprocessor visited node count: 2211/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 114523/2097152 bytes
+Template argument size: 1582/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3584/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.108/10.000 seconds
+Lua memory usage: 3.03 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  362.347      1 -total
+ 79.80%  289.143      1 Template:Infobox_language
+ 66.62%  241.407      1 Template:Infobox
+ 25.81%   93.516      1 Template:Glottolog
+ 24.83%   89.980      1 Template:Cite_book
+ 14.53%   52.665      8 Template:Navbox
+  9.62%   34.842      1 Template:Sigfig
+  9.01%   32.657      2 Template:Main_other
+  8.86%   32.111      1 Template:Languages_of_Vanuatu
+  8.02%   29.072      1 Template:Significant_figures/rnd
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:38568969-0!canonical and timestamp 20191216213215 and revision id 917562537
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Malua_Bay_language&amp;oldid=917562537">https://en.wikipedia.org/w/index.php?title=Malua_Bay_language&amp;oldid=917562537</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Malekula_languages" title="Category:Malekula languages">Malekula languages</a></li><li><a href="/wiki/Category:Languages_of_Vanuatu" title="Category:Languages of Vanuatu">Languages of Vanuatu</a></li><li><a href="/wiki/Category:Oceanic_language_stubs" title="Category:Oceanic language stubs">Oceanic language stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Language_articles_citing_Ethnologue_18" title="Category:Language articles citing Ethnologue 18">Language articles citing Ethnologue 18</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Malua+Bay+language" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Malua+Bay+language" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Malua_Bay_language" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Malua_Bay_language" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Malua_Bay_language">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Malua_Bay_language&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Malua_Bay_language&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Malua_Bay_language" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Malua_Bay_language" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Malua_Bay_language&amp;oldid=917562537" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Malua_Bay_language&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6744946" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Malua_Bay_language&amp;id=917562537" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Malua+Bay+language">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Malua+Bay+language&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Malua_Bay_language&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ilo"><a class="interlanguage-link-target" href="https://ilo.wikipedia.org/wiki/Pagsasao_a_Luek_Malua" hreflang="ilo" lang="ilo" title="Pagsasao a Luek Malua – Iloko">Ilokano</a></li><li class="interlanguage-link interwiki-pms"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Lenga_Malua_Bay" hreflang="pms" lang="pms" title="Lenga Malua Bay – Piedmontese">Piemontèis</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%83%D0%B0_(%D1%8F%D0%B7%D1%8B%D0%BA)" hreflang="ru" lang="ru" title="Малуа (язык) – Russian">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6744946#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 September 2019, at 11:42<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Malua_Bay_language&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.452","ppvisitednodes":{"value":2211,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":114523,"limit":2097152},"templateargumentsize":{"value":1582,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3584,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  362.347      1 -total"," 79.80%  289.143      1 Template:Infobox_language"," 66.62%  241.407      1 Template:Infobox"," 25.81%   93.516      1 Template:Glottolog"," 24.83%   89.980      1 Template:Cite_book"," 14.53%   52.665      8 Template:Navbox","  9.62%   34.842      1 Template:Sigfig","  9.01%   32.657      2 Template:Main_other","  8.86%   32.111      1 Template:Languages_of_Vanuatu","  8.02%   29.072      1 Template:Significant_figures/rnd"]},"scribunto":{"limitreport-timeusage":{"value":"0.108","limit":"10.000"},"limitreport-memusage":{"value":3173141,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20191216213216","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Malua Bay language","url":"https:\/\/en.wikipedia.org\/wiki\/Malua_Bay_language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6744946","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6744946","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-02-19T01:50:13Z","dateModified":"2019-09-24T11:42:07Z","headline":"language"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1250"});});</script>
+
+
+</body></html>

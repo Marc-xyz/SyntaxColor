@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Llanwrtyd Wells - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XflhJApAADsAAHdELJYAAACN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Llanwrtyd_Wells","wgTitle":"Llanwrtyd Wells","wgCurRevisionId":922250181,"wgRevisionId":922250181,"wgArticleId":621956,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Use dmy dates from October 2019","Articles with OS grid coordinates","Coordinates on Wikidata","Articles containing Welsh-language text",
+"All articles with unsourced statements","Articles with unsourced statements from November 2012","Articles with unsourced statements from October 2018","Llanwrtyd Wells","Towns in Powys","Communities in Powys"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Llanwrtyd_Wells","wgRelevantArticleId":621956,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":52.10539,"lon":-3.6411},"wgWikibaseItemId":"Q2214089","wgCentralAuthMobileDomain"
+:!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons",
+"ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/5/52/Llanwrtyd_Wells.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Llanwrtyd_Wells" rel="alternate"/>
+<link href="/w/index.php?title=Llanwrtyd_Wells&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Llanwrtyd_Wells&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Llanwrtyd_Wells" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Llanwrtyd_Wells rootpage-Llanwrtyd_Wells skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Llanwrtyd Wells</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">Llanwrtyd Wells<div class="plainlist"><ul><li><span style="font-size:78%"> Llanwrtyd</span></li></ul></div></th></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Llanwrtyd_Wells.jpg"><img alt="Llanwrtyd Wells.jpg" data-file-height="480" data-file-width="640" decoding="async" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Llanwrtyd_Wells.jpg/240px-Llanwrtyd_Wells.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Llanwrtyd_Wells.jpg/360px-Llanwrtyd_Wells.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Llanwrtyd_Wells.jpg/480px-Llanwrtyd_Wells.jpg 2x" width="240"/></a></td></tr><tr><td colspan="2" style="text-align:center"><div class="center"><div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:240px;padding:0"><div style="position:relative;width:240px"><a class="image" href="/wiki/File:Powys_UK_location_map.svg" title="Llanwrtyd Wells is located in Powys"><img alt="Llanwrtyd Wells is located in Powys" data-file-height="1305" data-file-width="924" decoding="async" height="339" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Powys_UK_location_map.svg/240px-Powys_UK_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Powys_UK_location_map.svg/360px-Powys_UK_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Powys_UK_location_map.svg/480px-Powys_UK_location_map.svg.png 2x" width="240"/></a><div style="position:absolute;top:67.884%;left:41.35%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Llanwrtyd Wells" data-file-height="64" data-file-width="64" decoding="async" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" title="Llanwrtyd Wells" width="6"/></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Llanwrtyd Wells</div></div></div></div><div>Location within <a href="/wiki/Powys" title="Powys">Powys</a></div></div></div></div></td></tr><tr><th scope="row" style="width: 40%">Population</th><td>850 (2011) <sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/Ordnance_Survey_National_Grid" title="Ordnance Survey National Grid">OS grid reference</a></th><td><span class="plainlinks nourlexpansion"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/52.105394297942;-3.6410954595023_region:GB_scale:25000?pagename=Llanwrtyd_Wells">SN877465</a></span></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%">• <a href="/wiki/Cardiff" title="Cardiff">Cardiff</a></th><td>65.1 miles (104.8 km)</td></tr><tr class="mergedbottomrow"><th scope="row" style="width: 40%">• <a href="/wiki/London" title="London">London</a></th><td>198 miles (319 km)</td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a class="mw-redirect" href="/wiki/Administrative_divisions_of_Wales" title="Administrative divisions of Wales">Principal area</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Powys" title="Powys">Powys</a></li></ul></div></td></tr><tr class="mergedrow adr"><th scope="row" style="width: 40%"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Country</a></th><td><span class="country-name"><a href="/wiki/Wales" title="Wales">Wales</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign state</a></th><td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/Post_town" title="Post town">Post town</a></th><td><span style="font-size:80%;"><style data-mw-deduplicate="TemplateStyles:r920968872">.mw-parser-output span.allcaps{text-transform:uppercase}</style><span class="allcaps">LLANWRTYD WELLS</span></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Postcodes_in_the_United_Kingdom" title="Postcodes in the United Kingdom">Postcode district</a></th><td><span style="font-size:100%;"><a href="/wiki/LD_postcode_area" title="LD postcode area">LD5</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Telephone_numbers_in_the_United_Kingdom" title="Telephone numbers in the United Kingdom">Dialling code</a></th><td><span style="font-size:100%;">01591</span></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><a class="mw-redirect" href="/wiki/List_of_law_enforcement_agencies_in_the_United_Kingdom" title="List of law enforcement agencies in the United Kingdom">Police</a></th><td><a href="/wiki/Dyfed%E2%80%93Powys_Police" title="Dyfed–Powys Police">Dyfed-Powys</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Fire_services_in_the_United_Kingdom" title="Fire services in the United Kingdom">Fire</a></th><td><a href="/wiki/Mid_and_West_Wales_Fire_and_Rescue_Service" title="Mid and West Wales Fire and Rescue Service">Mid and West Wales</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Emergency_medical_services_in_the_United_Kingdom" title="Emergency medical services in the United Kingdom">Ambulance</a></th><td><a href="/wiki/Welsh_Ambulance_Service" title="Welsh Ambulance Service">Welsh</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_members_of_the_European_Parliament_for_the_United_Kingdom,_2019%E2%80%9324" title="List of members of the European Parliament for the United Kingdom, 2019–24">EU Parliament</a></th><td><a href="/wiki/Wales_(European_Parliament_constituency)" title="Wales (European Parliament constituency)">Wales</a></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a class="mw-redirect" href="/wiki/List_of_United_Kingdom_Parliament_constituencies" title="List of United Kingdom Parliament constituencies">UK Parliament</a></th><td><div class="plainlist"><ul><li><a class="mw-redirect" href="/wiki/Brecon_%26_Radnorshire_(UK_Parliament_constituency)" title="Brecon &amp; Radnorshire (UK Parliament constituency)">Brecon &amp; Radnorshire</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a class="mw-redirect" href="/wiki/Welsh_Assembly" title="Welsh Assembly">Welsh Assembly</a></th><td><div class="plainlist"><ul><li><a class="mw-redirect" href="/wiki/Brecon_%26_Radnorshire_(UK_Parliament_constituency)" title="Brecon &amp; Radnorshire (UK Parliament constituency)">Brecon &amp; Radnorshire</a></li></ul></div></td></tr><tr><td class="hlist noprint nowrap" colspan="2" style="text-align:center;border-top: 1px solid #aaa; padding-top: 3px; font-size:85%;">
+<dl><dt><span style="font-weight:normal;">List of places</span></dt>
+<dd><a href="/wiki/List_of_United_Kingdom_locations" title="List of United Kingdom locations">UK</a></dd>
+<dd><a class="mw-redirect" href="/wiki/List_of_places_in_Wales" title="List of places in Wales">Wales</a></dd>
+<dd><a href="/wiki/List_of_places_in_Powys" title="List of places in Powys">Powys</a></dd></dl>
+<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Llanwrtyd_Wells&amp;params=52.10539_N_3.6411_W_region:GB_type:city(850)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°06′19″N</span> <span class="longitude">3°38′28″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.10539°N 3.64110°W</span><span style="display:none">﻿ / <span class="geo">52.10539; -3.64110</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Llanwrtyd_Wells&amp;params=52.10539_N_3.6411_W_region:GB_type:city(850)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°06′19″N</span> <span class="longitude">3°38′28″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.10539°N 3.64110°W</span><span style="display:none">﻿ / <span class="geo">52.10539; -3.64110</span></span></span></a></span></span></span></td></tr></tbody></table>
+<p><b>Llanwrtyd Wells</b> (<a href="/wiki/Welsh_language" title="Welsh language">Welsh</a>: <i lang="cy">Llanwrtyd</i>) is a small town and <a href="/wiki/Community_(Wales)" title="Community (Wales)">community</a> in mid <a href="/wiki/Powys" title="Powys">Powys</a>, <a href="/wiki/Wales" title="Wales">Wales</a>, in the <a href="/wiki/Historic_counties_of_Wales" title="Historic counties of Wales">historic county</a> of <a href="/wiki/Brecknockshire" title="Brecknockshire">Brecknockshire</a> (Breconshire) on the <a href="/wiki/Afon_Irfon" title="Afon Irfon">Afon Irfon</a>. The town is on the <a href="/wiki/A483_road" title="A483 road">A483</a> between <a href="/wiki/Llandovery" title="Llandovery">Llandovery</a> and <a href="/wiki/Builth_Wells" title="Builth Wells">Builth Wells</a> and is located near the pass between the Tywi and Irfon valleys.
+</p><p>The community also includes the smaller settlements of <a href="/wiki/Llanwrtyd" title="Llanwrtyd">Llanwrtyd</a> and <a href="/wiki/Abergwesyn" title="Abergwesyn">Abergwesyn</a>, the valley of the <a href="/wiki/Afon_Irfon" title="Afon Irfon">Afon Irfon</a>, and a large part of the "<a href="/wiki/Desert_of_Wales" title="Desert of Wales">Desert of Wales</a>".
+</p><p>With a population of 850 (<a class="mw-redirect" href="/wiki/United_Kingdom_Census_2011" title="United Kingdom Census 2011">United Kingdom Census 2011</a>), it claims to be the smallest town in Britain,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2012)">citation needed</span></a></i>]</sup> although <a href="/wiki/Fordwich" title="Fordwich">Fordwich</a> in <a href="/wiki/Kent" title="Kent">Kent</a> has a smaller population.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cambrian_Mill"><span class="tocnumber">2</span> <span class="toctext">Cambrian Mill</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Spa"><span class="tocnumber">3</span> <span class="toctext">Spa</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Modern_times"><span class="tocnumber">4</span> <span class="toctext">Modern times</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Governance"><span class="tocnumber">5</span> <span class="toctext">Governance</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Famous_residents"><span class="tocnumber">6</span> <span class="toctext">Famous residents</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Town_twinning"><span class="tocnumber">7</span> <span class="toctext">Town twinning</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Llanwrtyd_Wells&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Llanwrtyd Wells grew in the 19th century as a <a href="/wiki/Spa_town" title="Spa town">spa town</a> around the <i>Ffynnon Ddrewllyd</i> ("stinking <a class="mw-redirect" href="/wiki/Water_well" title="Water well">well</a>"), 1.5 miles from the much older settlement of Llanwrtyd. The town was also known as an <a href="/wiki/Eisteddfod" title="Eisteddfod">eisteddfod</a> site, and is the site of both the World <a class="mw-redirect" href="/wiki/Bog_Snorkelling" title="Bog Snorkelling">Bog Snorkelling</a> Championships and the annual <a href="/wiki/Man_versus_Horse_Marathon" title="Man versus Horse Marathon">Man versus Horse Marathon</a>, as well as other annual events.
+</p><p>The Abernant Lake Hotel<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> was built on the site of an old farm, to cater for the many visitors, keen to take the spa waters. The hotel grounds include a 5 acres (2 ha) lake created in 1903 by damming an <a href="/wiki/Oxbow_lake" title="Oxbow lake">oxbow</a> of the Irfon. During <a href="/wiki/World_War_II" title="World War II">World War II</a>, the hotel was home to <a href="/wiki/Bromsgrove_School" title="Bromsgrove School">Bromsgrove School</a>, evacuated from <a href="/wiki/Worcestershire" title="Worcestershire">Worcestershire</a>, and from 1943-45 to the <a href="/wiki/Czechoslovakia" title="Czechoslovakia">Czechoslovak</a> State School for Refugee Children. It remained as a hotel until 2007 when it became home to a multi-activity centre for school groups and families.
+</p><p>Llanwrtyd Wells had two golf clubs and courses during the 20th century, both now defunct. The early course was at the Dol-y-coed Hotel and the later one at Abernant Lake Hotel.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Cambrian_Mill">Cambrian Mill</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Llanwrtyd_Wells&amp;action=edit&amp;section=2" title="Edit section: Cambrian Mill">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Cambrian_Woollen_Mill" title="Cambrian Woollen Mill">Cambrian Woollen Mill</a></div>
+<p>Built in 1852, the <a href="/wiki/Cambrian_Woollen_Mill" title="Cambrian Woollen Mill">Cambrian Woollen Mill</a> was the largest <a href="/wiki/Textile_manufacturing" title="Textile manufacturing">woolen mill</a> in the <a href="/wiki/Llanidloes" title="Llanidloes">Llanidloes</a> area, employing over 250 workers at its peak.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> It was reduced to an empty shell by a fire in November 1889, but rebuilt in 1902 and has been in continuous operation since then.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> It is one of very few woolen mills still operating in Wales. According to the mill's website, visitors can experience "700 years of weaving history".
+</p>
+<h2><span class="mw-headline" id="Spa">Spa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Llanwrtyd_Wells&amp;action=edit&amp;section=3" title="Edit section: Spa">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Following the discovery in 1732 by the Rev. Theophilus Evans of waters claimed to have healing properties, Llanwrtyd Wells became a spa town. (In 1740 Wales' most famous hymn-writer, <a href="/wiki/William_Williams_Pantycelyn" title="William Williams Pantycelyn">William Williams Pantycelyn</a><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> was appointed curate to Evans.) 
+The spa was referred to as <i>Ffynnon Ddrewllyd</i> "Stinking Well" because of the strong smell of <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">hydrogen sulfide</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2012)">citation needed</span></a></i>]</sup> The spa is located at the site of the Dol-y-Coed Hotel,<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> now the home of Charcroft Electronics.
+</p><p>The fashion for spas reached its peak in the <a href="/wiki/Victorian_era" title="Victorian era">Victorian era</a> and many of the hotels in the town date back to that time. The Belle Vue Hotel,<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> the only purpose-built hotel in Llanwrtyd, was built in 1843.
+</p>
+<h2><span class="mw-headline" id="Modern_times">Modern times</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Llanwrtyd_Wells&amp;action=edit&amp;section=4" title="Edit section: Modern times">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In contrast to its past history as a spa town, when hundreds flocked to take the waters for their claimed medicinal effects, the area is now better known for recreations such as pony trekking, mountain biking, walking and birdwatching, and for its annual <a href="/wiki/Man_versus_Horse_Marathon" title="Man versus Horse Marathon">Man versus Horse Marathon</a>, Beer Festival and World Bog Snorkeling Championship. The town's largest employer Charcroft Electronics<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> is located in buildings which were previously the Dol-y-Coed Hotel. The hotel, on the banks of the Irfon, dates from about 1535.
+</p>
+<h2><span class="mw-headline" id="Governance">Governance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Llanwrtyd_Wells&amp;action=edit&amp;section=5" title="Edit section: Governance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A <a href="/wiki/Llanwrtyd_Wells_(electoral_ward)" title="Llanwrtyd Wells (electoral ward)">Llanwrtyd Wells</a> <a href="/wiki/Wards_and_electoral_divisions_of_the_United_Kingdom" title="Wards and electoral divisions of the United Kingdom">electoral ward</a> exists, which also includes the neighbouring communities of <a class="mw-redirect" href="/wiki/Llangamarch" title="Llangamarch">Llangamarch</a> and <a href="/wiki/Treflys" title="Treflys">Treflys</a>. This ward had a population of 1,875 at the 2011 Census.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p><p>Unlike many small towns in rural Wales, <a href="/wiki/Llanwrtyd_railway_station" title="Llanwrtyd railway station">Llanwrtyd station</a> still has a passenger train service. <a href="/wiki/Heart_of_Wales_line" title="Heart of Wales line">Heart of Wales line</a> trains between <a href="/wiki/Swansea" title="Swansea">Swansea</a> and <a href="/wiki/Shrewsbury" title="Shrewsbury">Shrewsbury</a> call four times a day each way Monday to Saturday and twice each way on Sunday (2013 timetable).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2018)">citation needed</span></a></i>]</sup>
+</p>
+<h2><span class="mw-headline" id="Famous_residents">Famous residents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Llanwrtyd_Wells&amp;action=edit&amp;section=6" title="Edit section: Famous residents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The town is the home of <a href="/wiki/Robin_Kevan" title="Robin Kevan">Robin Kevan</a>, also known as "Rob the Rubbish", who has become famous for his efforts to clean up Britain's countryside.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Town_twinning">Town twinning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Llanwrtyd_Wells&amp;action=edit&amp;section=7" title="Edit section: Town twinning">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Llanwrtyd Wells is twinned with:
+</p>
+<ul><li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" width="23"/></a></span>  <a href="/wiki/M%C3%A9riel" title="Mériel">Mériel</a>, <a href="/wiki/France" title="France">France</a></li>
+<li><span class="flagicon"><a href="/wiki/Czech_Republic" title="Czech Republic"><img alt="Czech Republic" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" width="23"/></a></span>  <a href="/wiki/%C4%8Cesk%C3%BD_Krumlov" title="Český Krumlov">Český Krumlov</a>, <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Llanwrtyd_Wells&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.neighbourhood.statistics.gov.uk/dissemination/LeadKeyFigures.do?a=7&amp;b=11126001&amp;c=LD5+4RA&amp;d=16&amp;e=62&amp;g=6491143&amp;i=1001x1003x1032x1004&amp;m=0&amp;r=0&amp;s=1447429769386&amp;enc=1" rel="nofollow">"Community population 2011"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Community+population+2011&amp;rft_id=http%3A%2F%2Fwww.neighbourhood.statistics.gov.uk%2Fdissemination%2FLeadKeyFigures.do%3Fa%3D7%26b%3D11126001%26c%3DLD5%2B4RA%26d%3D16%26e%3D62%26g%3D6491143%26i%3D1001x1003x1032x1004%26m%3D0%26r%3D0%26s%3D1447429769386%26enc%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALlanwrtyd+Wells"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.abernantlakehotel.co.uk" rel="nofollow">Abernant Lake Hotel</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.golfsmissinglinks.co.uk/index.php/wales-64/1062-llanwrtyd-wells-powy" rel="nofollow">Llanyrtyd Wells Golf Clubs”</a>, "Golf's Missing Links".</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.gtj.org.uk/en/item1/25175" rel="nofollow">Cambrian Mill, Llanidloes, which was destroyed by fire in November 1889 :: Gathering the Jewels</a> <a class="external text" href="https://web.archive.org/web/20071010083547/http://www.gtj.org.uk/en/item1/25175" rel="nofollow">Archived</a> 2007-10-10 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="http://en.erih.net/index.php?pageId=82&amp;anchor=146&amp;filter=gb" rel="nofollow">European Route of Industrial Heritage</a> <a class="external text" href="https://web.archive.org/web/20110719145152/http://en.erih.net/index.php?pageId=82&amp;anchor=146&amp;filter=gb" rel="nofollow">Archived</a> 2011-07-19 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.llgc.org.uk/index.php?id=williamspantycelynnlwms77a" rel="nofollow">"Poetry by William Williams, Pantycelyn (NLW MS 77A)" at llgc.org.uk</a> <a class="external text" href="https://web.archive.org/web/20120507214806/http://www.llgc.org.uk/index.php?id=williamspantycelynnlwms77a" rel="nofollow">Archived</a> 2012-05-07 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.llandrindod-wells.com/spas.html" rel="nofollow">Dolycoed Spa</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.powys-hotel.co.uk" rel="nofollow">Belle Vue Hotel</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.charcroft.com" rel="nofollow">Charcroft Electronics</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.ukcensusdata.com/llanwrtyd-wells-w05000328#sthash.AHRs0Bcq.oAHICOuE.dpbs" rel="nofollow">"Ward population 2011"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ward+population+2011&amp;rft_id=http%3A%2F%2Fwww.ukcensusdata.com%2Fllanwrtyd-wells-w05000328%23sthash.AHRs0Bcq.oAHICOuE.dpbs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALlanwrtyd+Wells"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Nigel Bunyan (4 September 2006). <a class="external text" href="https://www.telegraph.co.uk/news/1527987/After-Snowdonia-Rob-the-Rubbish-heads-for-Everest.html" rel="nofollow">"After Snowdonia, Rob the Rubbish heads for Everest"</a>. telegraph.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">9 March</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=After+Snowdonia%2C+Rob+the+Rubbish+heads+for+Everest&amp;rft.pub=telegraph.co.uk&amp;rft.date=2006-09-04&amp;rft.au=Nigel+Bunyan&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F1527987%2FAfter-Snowdonia-Rob-the-Rubbish-heads-for-Everest.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALlanwrtyd+Wells"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Llanwrtyd_Wells&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.geograph.org.uk/search.php?i=5975173" rel="nofollow">Photos of Llanwrtyd Wells and surrounding area on geograph.org.uk</a></li></ul>
+<div aria-labelledby="Powys" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Powys" title="Template:Powys"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Powys" title="Template talk:Powys"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Powys&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Powys" style="font-size:114%;margin:0 4em"><a href="/wiki/Powys" title="Powys">Powys</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Principal settlements</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brecon" title="Brecon">Brecon</a></li>
+<li><a href="/wiki/Builth_Wells" title="Builth Wells">Builth Wells</a></li>
+<li><a href="/wiki/Crickhowell" title="Crickhowell">Crickhowell</a></li>
+<li><a href="/wiki/Hay-on-Wye" title="Hay-on-Wye">Hay-on-Wye</a></li>
+<li><a href="/wiki/Knighton,_Powys" title="Knighton, Powys">Knighton</a></li>
+<li><a href="/wiki/Llandrindod_Wells" title="Llandrindod Wells">Llandrindod Wells</a></li>
+<li><a href="/wiki/Llanfair_Caereinion" title="Llanfair Caereinion">Llanfair Caereinion</a></li>
+<li><a href="/wiki/Llanfyllin" title="Llanfyllin">Llanfyllin</a></li>
+<li><a href="/wiki/Llanidloes" title="Llanidloes">Llanidloes</a></li>
+<li><a class="mw-selflink selflink">Llanwrtyd Wells</a></li>
+<li><a href="/wiki/Machynlleth" title="Machynlleth">Machynlleth</a></li>
+<li><a href="/wiki/Montgomery,_Powys" title="Montgomery, Powys">Montgomery</a></li>
+<li><a href="/wiki/Newtown,_Powys" title="Newtown, Powys">Newtown</a></li>
+<li><a href="/wiki/Presteigne" title="Presteigne">Presteigne</a></li>
+<li><a href="/wiki/Rhayader" title="Rhayader">Rhayader</a></li>
+<li><a href="/wiki/Talgarth" title="Talgarth">Talgarth</a></li>
+<li><a href="/wiki/Welshpool" title="Welshpool">Welshpool</a></li>
+<li><a href="/wiki/Ystradgynlais" title="Ystradgynlais">Ystradgynlais</a></li></ul>
+</div></td><td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Wales_Powys_locator_map.svg"><img alt="Wales Powys locator map.svg" data-file-height="1251" data-file-width="1047" decoding="async" height="179" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wales_Powys_locator_map.svg/150px-Wales_Powys_locator_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wales_Powys_locator_map.svg/225px-Wales_Powys_locator_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wales_Powys_locator_map.svg/300px-Wales_Powys_locator_map.svg.png 2x" width="150"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Communities</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Abbey_Cwmhir" title="Abbey Cwmhir">Abbey Cwmhir</a></li>
+<li><a href="/wiki/Aberedw" title="Aberedw">Aberedw</a></li>
+<li><a href="/wiki/Aberhafesp" title="Aberhafesp">Aberhafesp</a></li>
+<li><a href="/wiki/Banwy" title="Banwy">Banwy</a></li>
+<li><a href="/wiki/Bausley_with_Criggion" title="Bausley with Criggion">Bausley with Criggion</a></li>
+<li><a href="/wiki/Beguildy" title="Beguildy">Beguildy</a></li>
+<li><a href="/wiki/Berriew" title="Berriew">Berriew</a></li>
+<li><a href="/wiki/Bettws_Cedewain" title="Bettws Cedewain">Bettws</a></li>
+<li><a href="/wiki/Brecon" title="Brecon">Brecon</a></li>
+<li><a href="/wiki/Bronllys" title="Bronllys">Bronllys</a></li>
+<li><a class="mw-redirect" href="/wiki/Builth" title="Builth">Builth</a></li>
+<li><a href="/wiki/Cadfarch" title="Cadfarch">Cadfarch</a></li>
+<li><a href="/wiki/Caersws" title="Caersws">Caersws</a></li>
+<li><a href="/wiki/Carno" title="Carno">Carno</a></li>
+<li><a href="/wiki/Carreghofa" title="Carreghofa">Carreghofa</a></li>
+<li><a href="/wiki/Castle_Caereinion" title="Castle Caereinion">Castle Caereinion</a></li>
+<li><a href="/wiki/Church_Stoke" title="Church Stoke">Churchstoke</a></li>
+<li><a class="mw-redirect" href="/wiki/Cilmery" title="Cilmery">Cilmery</a></li>
+<li><a href="/wiki/Clyro" title="Clyro">Clyro</a></li>
+<li><a href="/wiki/Cray,_Powys" title="Cray, Powys">Cray</a></li>
+<li><a href="/wiki/Crickhowell" title="Crickhowell">Crickhowell</a></li>
+<li><a href="/wiki/Disserth_and_Trecoed" title="Disserth and Trecoed">Disserth and Trecoed</a></li>
+<li><a href="/wiki/Duhonw" title="Duhonw">Duhonw</a></li>
+<li><a href="/wiki/Dwyriw" title="Dwyriw">Dwyriw</a></li>
+<li><a href="/wiki/Erwood" title="Erwood">Erwood</a></li>
+<li><a href="/wiki/Felin-fach" title="Felin-fach">Felin-fach</a></li>
+<li><a class="new" href="/w/index.php?title=Forden_with_Leighton_and_Trelystan&amp;action=edit&amp;redlink=1" title="Forden with Leighton and Trelystan (page does not exist)">Forden with Leighton and Trelystan</a></li>
+<li><a href="/wiki/Gladestry" title="Gladestry">Gladestry</a></li>
+<li><a href="/wiki/Glantwymyn" title="Glantwymyn">Glantwymyn</a></li>
+<li><a href="/wiki/Glasbury" title="Glasbury">Glasbury</a></li>
+<li><a href="/wiki/Glascwm" title="Glascwm">Glascwm</a></li>
+<li><a href="/wiki/Glyn_Tarell" title="Glyn Tarell">Glyn Tarell</a></li>
+<li><a href="/wiki/Guilsfield" title="Guilsfield">Guilsfield</a></li>
+<li><a href="/wiki/Gwernyfed" title="Gwernyfed">Gwernyfed</a></li>
+<li><a href="/wiki/Hay-on-Wye" title="Hay-on-Wye">Hay</a></li>
+<li><a href="/wiki/Honddu_Isaf" title="Honddu Isaf">Honddu Isaf</a></li>
+<li><a href="/wiki/Kerry,_Powys" title="Kerry, Powys">Kerry</a></li>
+<li><a href="/wiki/Knighton,_Powys" title="Knighton, Powys">Knighton</a></li>
+<li><a href="/wiki/Llanafan_Fawr" title="Llanafan Fawr">Llanafan Fawr</a></li>
+<li><a href="/wiki/Llanbadarn_Fawr,_Powys" title="Llanbadarn Fawr, Powys">Llanbadarn Fawr</a></li>
+<li><a href="/wiki/Llanbadarn_Fynydd" title="Llanbadarn Fynydd">Llanbadarn Fynydd</a></li>
+<li><a href="/wiki/Llanbister" title="Llanbister">Llanbister</a></li>
+<li><a href="/wiki/Llanbrynmair" title="Llanbrynmair">Llanbrynmair</a></li>
+<li><a href="/wiki/Llanddew" title="Llanddew">Llanddew</a></li>
+<li><a href="/wiki/Llanddewi_Ystradenny" title="Llanddewi Ystradenny">Llanddewi Ystradenny</a></li>
+<li><a href="/wiki/Llandinam" title="Llandinam">Llandinam</a></li>
+<li><a href="/wiki/Llandrindod_Wells" title="Llandrindod Wells">Llandrindod Wells</a></li>
+<li><a href="/wiki/Llandrinio" title="Llandrinio">Llandrinio</a></li>
+<li><a href="/wiki/Llandysilio" title="Llandysilio">Llandysilio</a></li>
+<li><a href="/wiki/Llandyssil" title="Llandyssil">Llandyssil</a></li>
+<li><a href="/wiki/Llanelwedd" title="Llanelwedd">Llanelwedd</a></li>
+<li><a href="/wiki/Llanerfyl" title="Llanerfyl">Llanerfyl</a></li>
+<li><a href="/wiki/Llanfair_Caereinion" title="Llanfair Caereinion">Llanfair Caereinion</a></li>
+<li><a href="/wiki/Llanfechain" title="Llanfechain">Llanfechain</a></li>
+<li><a href="/wiki/Llanfihangel-yng-Ngwynfa" title="Llanfihangel-yng-Ngwynfa">Llanfihangel</a></li>
+<li><a class="new" href="/w/index.php?title=Llanfihangel_Cwmdu_with_Bwlch_and_Cathedine&amp;action=edit&amp;redlink=1" title="Llanfihangel Cwmdu with Bwlch and Cathedine (page does not exist)">Llanfihangel Cwmdu with Bwlch and Cathedine</a></li>
+<li><a href="/wiki/Llanfihangel_Rhydithon" title="Llanfihangel Rhydithon">Llanfihangel Rhydithon</a></li>
+<li><a href="/wiki/Llanfrynach" title="Llanfrynach">Llanfrynach</a></li>
+<li><a href="/wiki/Llanfyllin" title="Llanfyllin">Llanfyllin</a></li>
+<li><a class="mw-redirect" href="/wiki/Llangamarch" title="Llangamarch">Llangamarch</a></li>
+<li><a class="mw-redirect" href="/wiki/Llangattock" title="Llangattock">Llangattock</a></li>
+<li><a href="/wiki/Llangedwyn" title="Llangedwyn">Llangedwyn</a></li>
+<li><a href="/wiki/Llangors" title="Llangors">Llangors</a></li>
+<li><a href="/wiki/Llangunllo" title="Llangunllo">Llangunllo</a></li>
+<li><a href="/wiki/Llangurig" title="Llangurig">Llangurig</a></li>
+<li><a href="/wiki/Llangynidr" title="Llangynidr">Llangynidr</a></li>
+<li><a class="mw-redirect" href="/wiki/Llangyniew" title="Llangyniew">Llangyniew</a></li>
+<li><a href="/wiki/Llangynog" title="Llangynog">Llangynog</a></li>
+<li><a href="/wiki/Llanidloes" title="Llanidloes">Llanidloes</a></li>
+<li><a href="/wiki/Llanidloes_Without" title="Llanidloes Without">Llanidloes Without</a></li>
+<li><a href="/wiki/Llanigon" title="Llanigon">Llanigon</a></li>
+<li><a href="/wiki/Llanrhaeadr-ym-Mochnant" title="Llanrhaeadr-ym-Mochnant">Llanrhaeadr-ym-Mochnant</a></li>
+<li><a class="mw-redirect" href="/wiki/Llansanffraid-ym-Mechain" title="Llansanffraid-ym-Mechain">Llansantffraid</a></li>
+<li><a href="/wiki/Llansilin" title="Llansilin">Llansilin</a></li>
+<li><a href="/wiki/Llanwddyn" title="Llanwddyn">Llanwddyn</a></li>
+<li><a href="/wiki/Llanwrthwl" title="Llanwrthwl">Llanwrthwl</a></li>
+<li><a class="mw-selflink selflink">Llanwrtyd Wells</a></li>
+<li><a href="/wiki/Llanyre" title="Llanyre">Llanyre</a></li>
+<li><a href="/wiki/Llywel" title="Llywel">Llywel</a></li>
+<li><a href="/wiki/Machynlleth" title="Machynlleth">Machynlleth</a></li>
+<li><a href="/wiki/Maescar" title="Maescar">Maescar</a></li>
+<li><a href="/wiki/Manafon" title="Manafon">Manafon</a></li>
+<li><a href="/wiki/Meifod" title="Meifod">Meifod</a></li>
+<li><a href="/wiki/Merthyr_Cynog" title="Merthyr Cynog">Merthyr Cynog</a></li>
+<li><a href="/wiki/Mochdre,_Powys" title="Mochdre, Powys">Mochdre</a></li>
+<li><a href="/wiki/Montgomery,_Powys" title="Montgomery, Powys">Montgomery</a></li>
+<li><a href="/wiki/Nantmel" title="Nantmel">Nantmel</a></li>
+<li><a href="/wiki/New_Radnor" title="New Radnor">New Radnor</a></li>
+<li><a href="/wiki/Newtown_and_Llanllwchaiarn" title="Newtown and Llanllwchaiarn">Newtown and Llanllwchaiarn</a></li>
+<li><a href="/wiki/Old_Radnor" title="Old Radnor">Old Radnor</a></li>
+<li><a href="/wiki/Painscastle" title="Painscastle">Painscastle</a></li>
+<li><a href="/wiki/Pen-y-Bont-Fawr" title="Pen-y-Bont-Fawr">Pen-y-bont-fawr</a></li>
+<li><a href="/wiki/Penybont" title="Penybont">Penybont</a></li>
+<li><a href="/wiki/Presteigne" title="Presteigne">Presteigne</a></li>
+<li><a href="/wiki/Rhayader" title="Rhayader">Rhayader</a></li>
+<li><a class="mw-redirect" href="/wiki/St._Harmon" title="St. Harmon">St Harmon</a></li>
+<li><a href="/wiki/Talgarth" title="Talgarth">Talgarth</a></li>
+<li><a href="/wiki/Talybont-on-Usk" title="Talybont-on-Usk">Talybont-on-Usk</a></li>
+<li><a href="/wiki/Tawe-Uchaf" title="Tawe-Uchaf">Tawe-Uchaf</a></li>
+<li><a class="mw-redirect" href="/wiki/The_Vale_of_Grwyney" title="The Vale of Grwyney">The Vale of Grwyney</a></li>
+<li><a href="/wiki/Trallong" title="Trallong">Trallong</a></li>
+<li><a href="/wiki/Trefeglwys" title="Trefeglwys">Trefeglwys</a></li>
+<li><a href="/wiki/Treflys" title="Treflys">Treflys</a></li>
+<li><a href="/wiki/Tregynon" title="Tregynon">Tregynon</a></li>
+<li><a href="/wiki/Trewern" title="Trewern">Trewern</a></li>
+<li><a href="/wiki/Welshpool" title="Welshpool">Welshpool</a></li>
+<li><a href="/wiki/Whitton,_Powys" title="Whitton, Powys">Whitton</a></li>
+<li><a href="/wiki/Yscir" title="Yscir">Yscir</a></li>
+<li><a href="/wiki/Ystradfellte" title="Ystradfellte">Ystradfellte</a></li>
+<li><a href="/wiki/Ystradgynlais" title="Ystradgynlais">Ystradgynlais</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Towns and villages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abbeycwmhir" title="Abbeycwmhir">Abbeycwmhir</a></li>
+<li><a class="mw-redirect" href="/wiki/Aber_Clydach" title="Aber Clydach">Aber Clydach</a></li>
+<li><a href="/wiki/Aberbechan" title="Aberbechan">Aberbechan</a></li>
+<li><a class="mw-redirect" href="/wiki/Aberbran" title="Aberbran">Aberbran</a></li>
+<li><a href="/wiki/Abercegir" title="Abercegir">Abercegir</a></li>
+<li><a href="/wiki/Abercraf" title="Abercraf">Abercraf</a></li>
+<li><a href="/wiki/Abercynllaith" title="Abercynllaith">Abercynllaith</a></li>
+<li><a href="/wiki/Aberedw" title="Aberedw">Aberedw</a></li>
+<li><a href="/wiki/Abergwesyn" title="Abergwesyn">Abergwesyn</a></li>
+<li><a href="/wiki/Abergwydol" title="Abergwydol">Abergwydol</a></li>
+<li><a href="/wiki/Aberhafesp" title="Aberhafesp">Aberhafesp</a></li>
+<li><a href="/wiki/Aberhosan" title="Aberhosan">Aberhosan</a></li>
+<li><a href="/wiki/Abermule" title="Abermule">Abermule</a></li>
+<li><a href="/wiki/Abernant,_Powys" title="Abernant, Powys">Abernant</a></li>
+<li><a href="/wiki/Abertridwr,_Powys" title="Abertridwr, Powys">Abertridwr</a></li>
+<li><a href="/wiki/Aberyscir" title="Aberyscir">Aberyscir</a></li>
+<li><a href="/wiki/Adfa,_Powys" title="Adfa, Powys">Adfa</a></li>
+<li><a href="/wiki/Aithnen" title="Aithnen">Aithnen</a></li>
+<li><a href="/wiki/Arddlin" title="Arddlin">Arddlin</a></li>
+<li><a href="/wiki/Bacheldre" title="Bacheldre">Bacheldre</a></li>
+<li><a href="/wiki/Beguildy" title="Beguildy">Beguildy</a></li>
+<li><a href="/wiki/Berriew" title="Berriew">Berriew</a></li>
+<li><a href="/wiki/Bettws_Cedewain" title="Bettws Cedewain">Bettws Cedewain</a></li>
+<li><a href="/wiki/Beulah,_Powys" title="Beulah, Powys">Beulah</a></li>
+<li><a href="/wiki/Bont_Dolgadfan" title="Bont Dolgadfan">Bont Dolgadfan</a></li>
+<li><a href="/wiki/Boughrood" title="Boughrood">Boughrood</a></li>
+<li><a href="/wiki/Bronllys" title="Bronllys">Bronllys</a></li>
+<li><a href="/wiki/Builth_Wells" title="Builth Wells">Builth Wells</a></li>
+<li><a href="/wiki/Burgedin" title="Burgedin">Burgedin</a></li>
+<li><a href="/wiki/Buttington" title="Buttington">Buttington</a></li>
+<li><a href="/wiki/Bwlch" title="Bwlch">Bwlch</a></li>
+<li><a href="/wiki/Caehopkin" title="Caehopkin">Caehopkin</a></li>
+<li><a href="/wiki/Caersws" title="Caersws">Caersws</a></li>
+<li><a href="/wiki/Capel-y-ffin" title="Capel-y-ffin">Capel-y-ffin</a></li>
+<li><a href="/wiki/Carno" title="Carno">Carno</a></li>
+<li><a href="/wiki/Cathedine" title="Cathedine">Cathedine</a></li>
+<li><a href="/wiki/Cemmaes_Road" title="Cemmaes Road">Cemmaes Road</a></li>
+<li><a href="/wiki/Church_Stoke" title="Church Stoke">Church Stoke</a></li>
+<li><a class="mw-redirect" href="/wiki/Cilmery" title="Cilmery">Cilmery</a></li>
+<li><a href="/wiki/Clatter,_Powys" title="Clatter, Powys">Clatter</a></li>
+<li><a href="/wiki/Clyro" title="Clyro">Clyro</a></li>
+<li><a href="/wiki/Coelbren,_Powys" title="Coelbren, Powys">Coelbren</a></li>
+<li><a href="/wiki/Commins_Coch" title="Commins Coch">Commins Coch</a></li>
+<li><a href="/wiki/Crickhowell" title="Crickhowell">Crickhowell</a></li>
+<li><a href="/wiki/Criggion" title="Criggion">Criggion</a></li>
+<li><a href="/wiki/Crossgates,_Powys" title="Crossgates, Powys">Crossgates</a></li>
+<li><a href="/wiki/Cwmdauddwr" title="Cwmdauddwr">Cwmdauddwr</a></li>
+<li><a href="/wiki/Cwmdu,_Powys" title="Cwmdu, Powys">Cwmdu</a></li>
+<li><a href="/wiki/Cwmtwrch" title="Cwmtwrch">Cwmtwrch</a></li>
+<li><a href="/wiki/Cwmwysg" title="Cwmwysg">Cwmwysg</a></li>
+<li><a href="/wiki/Cwrt_y_Gollen" title="Cwrt y Gollen">Cwrt y Gollen</a></li>
+<li><a href="/wiki/Derwenlas" title="Derwenlas">Derwenlas</a></li>
+<li><a href="/wiki/Dolanog" title="Dolanog">Dolanog</a></li>
+<li><a href="/wiki/Dolfach" title="Dolfach">Dolfach</a></li>
+<li><a href="/wiki/Dolyhir" title="Dolyhir">Dolyhir</a></li>
+<li><a href="/wiki/Dylife" title="Dylife">Dylife</a></li>
+<li><a href="/wiki/Erwood" title="Erwood">Erwood</a></li>
+<li><a href="/wiki/Esgairgeiliog" title="Esgairgeiliog">Esgairgeiliog</a></li>
+<li><a href="/wiki/Forge,_Powys" title="Forge, Powys">Forge</a></li>
+<li><a href="/wiki/Four_Crosses,_Powys" title="Four Crosses, Powys">Four Crosses</a></li>
+<li><a href="/wiki/Gladestry" title="Gladestry">Gladestry</a></li>
+<li><a href="/wiki/Glasbury" title="Glasbury">Glasbury</a></li>
+<li><a href="/wiki/Hay-on-Wye" title="Hay-on-Wye">Hay-on-Wye</a></li>
+<li><a href="/wiki/Heartsease,_Powys" title="Heartsease, Powys">Heartsease</a></li>
+<li><a href="/wiki/Heol_Senni" title="Heol Senni">Heol Senni</a></li>
+<li><a href="/wiki/Kerry,_Powys" title="Kerry, Powys">Kerry</a></li>
+<li><a href="/wiki/Knucklas" title="Knucklas">Knucklas</a></li>
+<li><a href="/wiki/Libanus,_Powys" title="Libanus, Powys">Libanus</a></li>
+<li><a href="/wiki/Llan,_Powys" title="Llan, Powys">Llan</a></li>
+<li><a href="/wiki/Llanafan_Fawr" title="Llanafan Fawr">Llanafan Fawr</a></li>
+<li><a href="/wiki/Llanbrynmair" title="Llanbrynmair">Llanbrynmair</a></li>
+<li><a href="/wiki/Llanddew" title="Llanddew">Llanddew</a></li>
+<li><a href="/wiki/Llandinam" title="Llandinam">Llandinam</a></li>
+<li><a href="/wiki/Llandrinio" title="Llandrinio">Llandrinio</a></li>
+<li><a href="/wiki/Llandysilio" title="Llandysilio">Llandysilio</a></li>
+<li><a href="/wiki/Llanelwedd" title="Llanelwedd">Llanelwedd</a></li>
+<li><a href="/wiki/Llanfair_Caereinion" title="Llanfair Caereinion">Llanfair Caereinion</a></li>
+<li><a href="/wiki/Llanfechain" title="Llanfechain">Llanfechain</a></li>
+<li><a class="mw-redirect" href="/wiki/Llanfihangel_Nant_Bran" title="Llanfihangel Nant Bran">Llanfihangel Nant Bran</a></li>
+<li><a href="/wiki/Llanfihangel_Talyllyn" title="Llanfihangel Talyllyn">Llanfihangel Talyllyn</a></li>
+<li><a href="/wiki/Llanfyllin" title="Llanfyllin">Llanfyllin</a></li>
+<li><a href="/wiki/Llangadfan" title="Llangadfan">Llangadfan</a></li>
+<li><a href="/wiki/Llangammarch_Wells" title="Llangammarch Wells">Llangammarch Wells</a></li>
+<li><a href="/wiki/Llangedwyn" title="Llangedwyn">Llangedwyn</a></li>
+<li><a href="/wiki/Llangors" title="Llangors">Llangors</a></li>
+<li><a href="/wiki/Llangurig" title="Llangurig">Llangurig</a></li>
+<li><a href="/wiki/Llangynidr" title="Llangynidr">Llangynidr</a></li>
+<li><a href="/wiki/Llangynog" title="Llangynog">Llangynog</a></li>
+<li><a href="/wiki/Llangynyw" title="Llangynyw">Llangynyw</a></li>
+<li><a href="/wiki/Llanllwchaiarn" title="Llanllwchaiarn">Llanllwchaiarn</a></li>
+<li><a href="/wiki/Llanrhaeadr-ym-Mochnant" title="Llanrhaeadr-ym-Mochnant">Llanrhaeadr-ym-Mochnant</a></li>
+<li><a href="/wiki/Llansantffraed" title="Llansantffraed">Llansantffraed</a></li>
+<li><a class="mw-redirect" href="/wiki/Llansanffraid-ym-Mechain" title="Llansanffraid-ym-Mechain">Llansanffraid-ym-Mechain</a></li>
+<li><a href="/wiki/Llansilin" title="Llansilin">Llansilin</a></li>
+<li><a class="mw-redirect" href="/wiki/Llanwchaiarn" title="Llanwchaiarn">Llanwchaiarn</a></li>
+<li><a href="/wiki/Llanwrin" title="Llanwrin">Llanwrin</a></li>
+<li><a href="/wiki/Llanwrthwl" title="Llanwrthwl">Llanwrthwl</a></li>
+<li><a class="mw-selflink selflink">Llanwrtyd Wells</a></li>
+<li><a href="/wiki/Llanwrtyd" title="Llanwrtyd">Llanwrtyd</a></li>
+<li><a href="/wiki/Llanymynech" title="Llanymynech">Llanymynech</a></li>
+<li><a href="/wiki/Llanyre" title="Llanyre">Llanyre</a></li>
+<li><a href="/wiki/Llawryglyn" title="Llawryglyn">Llawryglyn</a></li>
+<li><a href="/wiki/Llyswen" title="Llyswen">Llyswen</a></li>
+<li><a href="/wiki/Llywel" title="Llywel">Llywel</a></li>
+<li><a href="/wiki/Meifod" title="Meifod">Meifod</a></li>
+<li><a href="/wiki/Milebrook" title="Milebrook">Milebrook</a></li>
+<li><a href="/wiki/Morben" title="Morben">Morben</a></li>
+<li><a href="/wiki/Nant_Glas" title="Nant Glas">Nant Glas</a></li>
+<li><a href="/wiki/New_Radnor" title="New Radnor">New Radnor</a></li>
+<li><a href="/wiki/Newbridge-on-Wye" title="Newbridge-on-Wye">Newbridge-on-Wye</a></li>
+<li><a href="/wiki/Old_Church_Stoke" title="Old Church Stoke">Old Church Stoke</a></li>
+<li><a href="/wiki/Painscastle" title="Painscastle">Painscastle</a></li>
+<li><a class="mw-redirect" href="/wiki/Pandy_(Powys)" title="Pandy (Powys)">Pandy</a></li>
+<li><a class="new" href="/w/index.php?title=Pant-y-Dwr&amp;action=edit&amp;redlink=1" title="Pant-y-Dwr (page does not exist)">Pant-y-Dwr</a></li>
+<li><a href="/wiki/Partrishow" title="Partrishow">Partrishow</a></li>
+<li><a href="/wiki/Penegoes" title="Penegoes">Penegoes</a></li>
+<li><a href="/wiki/Pennant,_Powys" title="Pennant, Powys">Pennant</a></li>
+<li><a href="/wiki/Penwyllt" title="Penwyllt">Penwyllt</a></li>
+<li><a href="/wiki/Penybont" title="Penybont">Penybont</a></li>
+<li><a href="/wiki/Pilleth" title="Pilleth">Pilleth</a></li>
+<li><a class="new" href="/w/index.php?title=Plas_Esgair&amp;action=edit&amp;redlink=1" title="Plas Esgair (page does not exist)">Plas Esgair</a></li>
+<li><a class="new" href="/w/index.php?title=Pont_Crugnant&amp;action=edit&amp;redlink=1" title="Pont Crugnant (page does not exist)">Pont Crugnant</a></li>
+<li><a href="/wiki/Pontdolgoch" title="Pontdolgoch">Pontdolgoch</a></li>
+<li><a href="/wiki/Pontrobert" title="Pontrobert">Pontrobert</a></li>
+<li><a href="/wiki/Sarn,_Powys" title="Sarn, Powys">Sarn</a></li>
+<li><a href="/wiki/Sennybridge" title="Sennybridge">Sennybridge</a></li>
+<li><a href="/wiki/Soar,_Powys" title="Soar, Powys">Soar</a></li>
+<li><a href="/wiki/St_Harmon" title="St Harmon">St Harmon</a></li>
+<li><a href="/wiki/Staylittle" title="Staylittle">Staylittle</a></li>
+<li><a href="/wiki/Sycharth" title="Sycharth">Sycharth</a></li>
+<li><a href="/wiki/Talerddig" title="Talerddig">Talerddig</a></li>
+<li><a href="/wiki/Talgarth" title="Talgarth">Talgarth</a></li>
+<li><a href="/wiki/Talybont-on-Usk" title="Talybont-on-Usk">Talybont-on-Usk</a></li>
+<li><a href="/wiki/Three_Cocks" title="Three Cocks">Three Cocks</a></li>
+<li><a href="/wiki/Tirabad" title="Tirabad">Tirabad</a></li>
+<li><a href="/wiki/Trecastle" title="Trecastle">Trecastle</a></li>
+<li><a href="/wiki/Trefeglwys" title="Trefeglwys">Trefeglwys</a></li>
+<li><a href="/wiki/Tregynon" title="Tregynon">Tregynon</a></li>
+<li><a href="/wiki/Trewern" title="Trewern">Trewern</a></li>
+<li><a href="/wiki/Tylwch" title="Tylwch">Tylwch</a></li>
+<li><a href="/wiki/Van,_Llanidloes" title="Van, Llanidloes">Van, Llanidloes</a></li>
+<li><a href="/wiki/Ystradfellte" title="Ystradfellte">Ystradfellte</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Castles_in_Powys" title="Category:Castles in Powys">Castles</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aberysgir_Castle" title="Aberysgir Castle">Aberysgir Castle</a></li>
+<li><a href="/wiki/Aberedw_Castle" title="Aberedw Castle">Aberedw Castle</a></li>
+<li><a href="/wiki/Castell_Dinas" title="Castell Dinas">Castell Dinas</a></li>
+<li><a href="/wiki/Castell_Du" title="Castell Du">Castell Du</a></li>
+<li><a href="/wiki/Cefnllys" title="Cefnllys">Cefnllys</a></li>
+<li><a href="/wiki/Colwyn_Castle" title="Colwyn Castle">Colwyn Castle</a></li>
+<li><a href="/wiki/Dolforwyn_Castle" title="Dolforwyn Castle">Dolforwyn Castle</a></li>
+<li><a href="/wiki/Llangoed_Hall" title="Llangoed Hall">Llangoed Hall</a></li>
+<li><a href="/wiki/Caersws_Roman_Forts" title="Caersws Roman Forts">Mediomanum</a></li>
+<li><a href="/wiki/Montgomery_Castle" title="Montgomery Castle">Montgomery Castle</a></li>
+<li><a href="/wiki/Painscastle" title="Painscastle">Painscastle</a></li>
+<li><a href="/wiki/Powis_Castle" title="Powis Castle">Powis Castle</a></li>
+<li><a href="/wiki/Tretower_Castle" title="Tretower Castle">Tretower Castle</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Reservoirs and lakes</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Beacons_Reservoir" title="Beacons Reservoir">Beacons Reservoir</a></li>
+<li><a href="/wiki/Cantref_Reservoir" title="Cantref Reservoir">Cantref Reservoir</a></li>
+<li><a class="mw-redirect" href="/wiki/Clywedog_reservoir" title="Clywedog reservoir">Clywedog reservoir</a></li>
+<li><a href="/wiki/Elan_Valley_Reservoirs" title="Elan Valley Reservoirs">Elan Valley Reservoirs</a></li>
+<li><a href="/wiki/Llangorse_Lake" title="Llangorse Lake">Llangorse Lake</a></li>
+<li><a href="/wiki/Lake_Vyrnwy" title="Lake Vyrnwy">Lake Vyrnwy</a></li>
+<li><a href="/wiki/Talybont_Reservoir" title="Talybont Reservoir">Talybont Reservoir</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Topics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Parliamentary_constituencies_in_Powys" title="List of Parliamentary constituencies in Powys">Parliamentary constituencies</a></li>
+<li><a href="/wiki/List_of_electoral_wards_in_Powys" title="List of electoral wards in Powys">Electoral wards</a></li>
+<li><a href="/wiki/List_of_places_in_Powys" title="List of places in Powys">Places</a></li>
+<li><a href="/wiki/List_of_schools_in_Powys" title="List of schools in Powys">Schools</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Powys" title="List of Sites of Special Scientific Interest in Powys">SSSIs</a></li>
+<li><a href="/wiki/Scheduled_Monuments_in_Powys" title="Scheduled Monuments in Powys">Scheduled Monuments</a></li>
+<li><a href="/wiki/Category:Country_houses_in_Powys" title="Category:Country houses in Powys">Country houses</a></li>
+<li><a href="/wiki/Grade_I_listed_buildings_in_Powys" title="Grade I listed buildings in Powys">Grade I listed buildings</a></li>
+<li><a href="/wiki/Grade_II*_listed_buildings_in_Powys" title="Grade II* listed buildings in Powys">Grade II* listed buildings</a></li>
+<li><a href="/wiki/Lord_Lieutenant_of_Powys" title="Lord Lieutenant of Powys">Lord Lieutenants</a></li>
+<li><a href="/wiki/High_Sheriff_of_Powys" title="High Sheriff of Powys">High Sheriffs</a></li>
+<li><a href="/wiki/Category:Museums_in_Powys" title="Category:Museums in Powys">Museums</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20191214163357
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.896 seconds
+Real time usage: 1.235 seconds
+Preprocessor visited node count: 3023/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 74364/2097152 bytes
+Template argument size: 10277/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 12455/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.501/10.000 seconds
+Lua memory usage: 13.66 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1083.366      1 -total
+ 36.20%  392.209      1 Template:Infobox_UK_place
+ 35.95%  389.422      2 Template:Infobox
+ 25.71%  278.566      1 Template:Lang-cy
+ 15.19%  164.530      1 Template:Reflist
+  9.76%  105.760      3 Template:Cite_web
+  8.22%   89.051      1 Template:Use_dmy_dates
+  7.86%   85.100      3 Template:Citation_needed
+  7.16%   77.623      3 Template:Fix
+  6.53%   70.788     26 Template:Ubl
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:621956-0!canonical and timestamp 20191214163355 and revision id 922250181
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Llanwrtyd_Wells&amp;oldid=922250181">https://en.wikipedia.org/w/index.php?title=Llanwrtyd_Wells&amp;oldid=922250181</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Llanwrtyd_Wells" title="Category:Llanwrtyd Wells">Llanwrtyd Wells</a></li><li><a href="/wiki/Category:Towns_in_Powys" title="Category:Towns in Powys">Towns in Powys</a></li><li><a href="/wiki/Category:Communities_in_Powys" title="Category:Communities in Powys">Communities in Powys</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_October_2019" title="Category:Use dmy dates from October 2019">Use dmy dates from October 2019</a></li><li><a href="/wiki/Category:Articles_with_OS_grid_coordinates" title="Category:Articles with OS grid coordinates">Articles with OS grid coordinates</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_Welsh-language_text" title="Category:Articles containing Welsh-language text">Articles containing Welsh-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2012" title="Category:Articles with unsourced statements from November 2012">Articles with unsourced statements from November 2012</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2018" title="Category:Articles with unsourced statements from October 2018">Articles with unsourced statements from October 2018</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Llanwrtyd+Wells" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Llanwrtyd+Wells" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Llanwrtyd_Wells" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Llanwrtyd_Wells" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Llanwrtyd_Wells">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Llanwrtyd_Wells&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Llanwrtyd_Wells&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Llanwrtyd_Wells" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Llanwrtyd_Wells" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Llanwrtyd_Wells&amp;oldid=922250181" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Llanwrtyd_Wells&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2214089" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Llanwrtyd_Wells&amp;id=922250181" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Llanwrtyd_Wells" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Llanwrtyd_Wells" hreflang="en">Wikivoyage</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Llanwrtyd+Wells">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Llanwrtyd+Wells&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Llanwrtyd_Wells&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Llanwrtyd_Wells" hreflang="nan" lang="nan" title="Llanwrtyd Wells – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D1%83%D1%80%D1%82%D0%B8%D0%B4_%D0%A3%D0%B5%D0%BB%D1%81" hreflang="bg" lang="bg" title="Лануртид Уелс – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Llanwrtyd" hreflang="br" lang="br" title="Llanwrtyd – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Llanwrtyd_Wells_(lungsod)" hreflang="ceb" lang="ceb" title="Llanwrtyd Wells (lungsod) – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Llanwrtyd_Wells" hreflang="cs" lang="cs" title="Llanwrtyd Wells – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Llanwrtyd" hreflang="cy" lang="cy" title="Llanwrtyd – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Llanwrtyd_Wells" hreflang="es" lang="es" title="Llanwrtyd Wells – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Llanwrtyd_Wells" hreflang="eo" lang="eo" title="Llanwrtyd Wells – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Llanwrtyd_Wells" hreflang="eu" lang="eu" title="Llanwrtyd Wells – Basque">Euskara</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Llanwrtyd" hreflang="ga" lang="ga" title="Llanwrtyd – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/Llanwrtyd" hreflang="gd" lang="gd" title="Llanwrtyd – Scottish Gaelic">Gàidhlig</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Llanwrtyd_Wells" hreflang="it" lang="it" title="Llanwrtyd Wells – Italian">Italiano</a></li><li class="interlanguage-link interwiki-kw"><a class="interlanguage-link-target" href="https://kw.wikipedia.org/wiki/Llanwrtyd" hreflang="kw" lang="kw" title="Llanwrtyd – Cornish">Kernowek</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Llanwrtyd_Wells" hreflang="nl" lang="nl" title="Llanwrtyd Wells – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Llanwrtyd_Wells" hreflang="sv" lang="sv" title="Llanwrtyd Wells – Swedish">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2214089#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 October 2019, at 23:08<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Llanwrtyd_Wells&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.896","walltime":"1.235","ppvisitednodes":{"value":3023,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":74364,"limit":2097152},"templateargumentsize":{"value":10277,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12455,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1083.366      1 -total"," 36.20%  392.209      1 Template:Infobox_UK_place"," 35.95%  389.422      2 Template:Infobox"," 25.71%  278.566      1 Template:Lang-cy"," 15.19%  164.530      1 Template:Reflist","  9.76%  105.760      3 Template:Cite_web","  8.22%   89.051      1 Template:Use_dmy_dates","  7.86%   85.100      3 Template:Citation_needed","  7.16%   77.623      3 Template:Fix","  6.53%   70.788     26 Template:Ubl"]},"scribunto":{"limitreport-timeusage":{"value":"0.501","limit":"10.000"},"limitreport-memusage":{"value":14326006,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20191214163357","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Llanwrtyd Wells","url":"https:\/\/en.wikipedia.org\/wiki\/Llanwrtyd_Wells","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2214089","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2214089","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-27T19:02:08Z","dateModified":"2019-10-20T23:08:20Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/52\/Llanwrtyd_Wells.jpg","headline":"town in Powys, Wales"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1264"});});</script>
+
+
+</body></html>

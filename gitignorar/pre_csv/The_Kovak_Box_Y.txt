@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>The Kovak Box - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfuBHQpAMFgAAHFRAtYAAAAK","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"The_Kovak_Box","wgTitle":"The Kovak Box","wgCurRevisionId":931163745,"wgRevisionId":931163745,"wgArticleId":18822912,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from March 2016","All stub articles","2006 films","English-language films","British films","British thriller films","Films about suicide","Films about writers","Films about organized crime",
+"2000s psychological thriller films","Films shot in Majorca","Films shot in Madrid","Spanish films","Spanish thriller films","2000s mystery thriller films","Films set in Spain","Films scored by Roque Baños","Films with screenplays by Jorge Guerricaechevarría","2000s science fiction film stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"The_Kovak_Box","wgRelevantArticleId":18822912,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
+"wgWikibaseItemId":"Q2740346","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons",
+"ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/1/13/The_Kovak_Box.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Kovak_Box" rel="alternate"/>
+<link href="/w/index.php?title=The_Kovak_Box&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=The_Kovak_Box&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/The_Kovak_Box" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-The_Kovak_Box rootpage-The_Kovak_Box skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en"><i>The Kovak Box</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox vevent" style="width:22em;font-size:90%;"><tbody><tr><th class="summary" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:110%;font-style:italic;">The Kovak Box</th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:The_Kovak_Box.jpg"><img alt="The Kovak Box.jpg" class="thumbborder" data-file-height="376" data-file-width="265" decoding="async" height="312" src="//upload.wikimedia.org/wikipedia/en/thumb/1/13/The_Kovak_Box.jpg/220px-The_Kovak_Box.jpg" srcset="//upload.wikimedia.org/wikipedia/en/1/13/The_Kovak_Box.jpg 1.5x" width="220"/></a><div style="font-size:95%;padding:0.35em 0.35em 0.25em;line-height:1.25em;">DVD cover</div></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Directed by</th><td><a href="/wiki/Daniel_Monz%C3%B3n" title="Daniel Monzón">Daniel Monzón</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Produced by</th><td>Álvaro Augustín</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Written by</th><td>Daniel Monzón<br/><a href="/wiki/Jorge_Guerricaechevarr%C3%ADa" title="Jorge Guerricaechevarría">Jorge Guerricaechevarría</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Starring</th><td><a href="/wiki/Timothy_Hutton" title="Timothy Hutton">Timothy Hutton</a><br/><a href="/wiki/Luc%C3%ADa_Jim%C3%A9nez" title="Lucía Jiménez">Lucía Jiménez</a><br/><a href="/wiki/Annette_Badland" title="Annette Badland">Annette Badland</a><br/><a href="/wiki/David_Kelly_(actor)" title="David Kelly (actor)">David Kelly</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Music by</th><td>Roque Baños</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Cinematography</th><td>Carles Gusi</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Edited by</th><td>Simon Cozens</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Distributed by</th><td><a href="/wiki/First_Look_Studios" title="First Look Studios">First Look Studios</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><div style="padding:0.1em 0;line-height:1.2em;white-space:normal;">Release date</div></th><td><div class="plainlist">
+<ul><li>18 July 2006<span style="display:none"> (<span class="bday dtstart published updated">2006-07-18</span>)</span> (Montréal Fantasia Festival)</li>
+<li>12 January 2007<span style="display:none"> (<span class="bday dtstart published updated">2007-01-12</span>)</span> (Spain)</li></ul>
+</div></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><div style="padding:0.1em 0;line-height:1.2em;white-space:normal;">Running time</div></th><td>102 minutes</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Country</th><td>Spain<br/>United Kingdom</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Language</th><td>English</td></tr></tbody></table>
+<p><i><b>The Kovak Box</b></i> is a 2006 <a href="/wiki/Psychological_thriller" title="Psychological thriller">psychological thriller</a> <a href="/wiki/Film" title="Film">film</a> directed by <a href="/wiki/Daniel_Monz%C3%B3n" title="Daniel Monzón">Daniel Monzón</a> and starring <a href="/wiki/Timothy_Hutton" title="Timothy Hutton">Timothy Hutton</a>, <a href="/wiki/Luc%C3%ADa_Jim%C3%A9nez" title="Lucía Jiménez">Lucía Jiménez</a>, <a href="/wiki/Annette_Badland" title="Annette Badland">Annette Badland</a> and <a href="/wiki/David_Kelly_(actor)" title="David Kelly (actor)">David Kelly</a>. The film concerns an American <a href="/wiki/Horror_fiction" title="Horror fiction">horror</a>/<a href="/wiki/Science_fiction" title="Science fiction">science fiction</a> novelist who finds the plot of one of his stories unfold around him after a conference in <a href="/wiki/Spain" title="Spain">Spain</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Synopsis"><span class="tocnumber">1</span> <span class="toctext">Synopsis</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cast"><span class="tocnumber">2</span> <span class="toctext">Cast</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Synopsis">Synopsis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Kovak_Box&amp;action=edit&amp;section=1" title="Edit section: Synopsis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On the island city of <a href="/wiki/Palma_de_Mallorca" title="Palma de Mallorca">Palma de Mallorca</a>, David Norton (Hutton) promotes his latest book, <i>The Kovak Box</i>, before a small private gathering of European fans. While nothing comes across as unusual, one of the audience members has a distinctive <a class="mw-redirect" href="/wiki/Russian_Mafia" title="Russian Mafia">Russian Mafia</a> arm tattoo and the hotel <a href="/wiki/Concierge" title="Concierge">concierges</a> are subtly condescending towards him, despite the writer's mannered patronage and celebrity status.
+</p><p>Later in the evening, Norton's fiancee, Jane, receives an anonymous phone call and <a href="/wiki/Jumper_(person)" title="Jumper (person)">jumps off</a> their hotel balcony. After dying from her injuries in the hospital, Norton discovers a nearby patient, Silvia Mendez (Jiménez), did the same thing on the same night: While taking a shower, Silvia answered a call on her cellphone consisting only of the 1933 song <i><a href="/wiki/Gloomy_Sunday" title="Gloomy Sunday">Gloomy Sunday</a></i> by composer <a href="/wiki/Rezs%C5%91_Seress" title="Rezső Seress">Rezső Seress</a>. After jumping from her window, she only remembers waking up nude under a crushed bar canopy. Silvia is a young nightclub debutante with no enemies or connections to the American couple. While recuperating in her apartment, a mysterious man attempts to stab her in the back of the neck but flees during a struggle. After surviving the attack, Silvia reunites with Norton, who is also being pursued by unknown assailants.
+</p><p>As he begins piecing answers together, Norton finds that the events coincide with the plot of his latest book, which is based on a real individual: Frank Kovak (Kelly), a disgraced <a href="/wiki/Hungary" title="Hungary">Hungarian</a> doctor who was driven to exile after his experiments were passed off as <a href="/wiki/Psychological_warfare" title="Psychological warfare">psychological warfare</a>. Kovak has used <a class="mw-redirect" href="/wiki/Neural_implants" title="Neural implants">neural implants</a> and paid a network of criminals to emulate the experiment on Norton, in which everyone takes their lives (or suffers a brutal death) while the <i>Gloomy Sunday</i> song plays. Ailing from a terminal <a href="/wiki/Brain_tumor" title="Brain tumor">brain tumor</a>, Kovak has nothing to lose except Norton winning his deadly game.
+</p>
+<h2><span class="mw-headline" id="Cast">Cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Kovak_Box&amp;action=edit&amp;section=2" title="Edit section: Cast">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Timothy_Hutton" title="Timothy Hutton">Timothy Hutton</a> as David Norton<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></li>
+<li><a href="/wiki/Luc%C3%ADa_Jim%C3%A9nez" title="Lucía Jiménez">Lucía Jiménez</a> as Silvia Mendez</li>
+<li><a href="/wiki/David_Kelly_(actor)" title="David Kelly (actor)">David Kelly</a> as Frank Kovak</li>
+<li><a href="/wiki/Georgia_Mackenzie" title="Georgia Mackenzie">Georgia Mackenzie</a> as Jane Graham (as Georgia MacKenzie)</li>
+<li><a href="/wiki/Gary_Piquer" title="Gary Piquer">Gary Piquer</a> as Jaume</li>
+<li><a href="/wiki/Annette_Badland" title="Annette Badland">Annette Badland</a> as Kathy</li>
+<li><a class="new" href="/w/index.php?title=Isabel_Abarraga&amp;action=edit&amp;redlink=1" title="Isabel Abarraga (page does not exist)">Isabel Abarraga</a> as Judy</li>
+<li><a class="new" href="/w/index.php?title=Jorge_Aguado_de_Gabriel&amp;action=edit&amp;redlink=1" title="Jorge Aguado de Gabriel (page does not exist)">Jorge Aguado de Gabriel</a> as Man with Umbilical Cord</li>
+<li><a class="new" href="/w/index.php?title=Ralph_Angrick&amp;action=edit&amp;redlink=1" title="Ralph Angrick (page does not exist)">Ralph Angrick</a> as Lift Passenger</li>
+<li><a href="/wiki/Ana_Asensio" title="Ana Asensio">Ana Asensio</a> as CNW Announcer</li>
+<li><a class="new" href="/w/index.php?title=Nina_Bagusat&amp;action=edit&amp;redlink=1" title="Nina Bagusat (page does not exist)">Nina Bagusat</a> as  Hostess</li>
+<li><a class="new" href="/w/index.php?title=Keith_Bartlett&amp;action=edit&amp;redlink=1" title="Keith Bartlett (page does not exist)">Keith Bartlett</a>  as Admirer</li>
+<li><a class="new" href="/w/index.php?title=Julio_Bastida&amp;action=edit&amp;redlink=1" title="Julio Bastida (page does not exist)">Julio Bastida</a> as Telecinco Announcer</li>
+<li><a class="new" href="/w/index.php?title=Jorge_Bosch&amp;action=edit&amp;redlink=1" title="Jorge Bosch (page does not exist)">Jorge Bosch</a> as Forensic</li>
+<li><a class="new" href="/w/index.php?title=Nicholas_Boulton_(actor)&amp;action=edit&amp;redlink=1" title="Nicholas Boulton (actor) (page does not exist)">Nicholas Boulton</a> as Consulate Employee</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Kovak_Box&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.filmweb.pl/film/Kovak+Box-2006-181718" rel="nofollow">Kovak Box (2006) — Filmweb</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Kovak_Box&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.imdb.com/title/tt0455584/" rel="nofollow"><i>The Kovak Box</i></a> on <a href="/wiki/IMDb" title="IMDb">IMDb</a></li></ul>
+<p><br/>
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a class="image" href="/wiki/File:Scififilm.svg"><img alt="Stub icon" data-file-height="60" data-file-width="60" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Scififilm.svg/40px-Scififilm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Scififilm.svg/60px-Scififilm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Scififilm.svg/80px-Scififilm.svg.png 2x" width="40"/></a></td><td><i>This 2000s science fiction film–related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=The_Kovak_Box&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:2000s-sf-film-stub" title="Template:2000s-sf-film-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:2000s-sf-film-stub" title="Template talk:2000s-sf-film-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:2000s-sf-film-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1333
+Cached time: 20191219132838
+Cache expiry: 3600
+Dynamic content: true
+Complications: []
+CPU time usage: 0.196 seconds
+Real time usage: 0.300 seconds
+Preprocessor visited node count: 1012/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 13613/2097152 bytes
+Template argument size: 2104/2097152 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 415/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.047/10.000 seconds
+Lua memory usage: 1.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  261.686      1 -total
+ 42.57%  111.397      1 Template:Infobox_film
+ 39.39%  103.087      1 Template:Infobox
+ 20.84%   54.544      1 Template:Use_dmy_dates
+ 20.63%   53.979      1 Template:IMDb_title
+ 13.33%   34.874      1 Template:Film_date
+ 11.38%   29.777      1 Template:Plainlist
+  9.93%   25.991      2 Template:Start_date
+  9.39%   24.579      1 Template:2000s-sf-film-stub
+  8.24%   21.574      1 Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18822912-0!canonical and timestamp 20191219132837 and revision id 931163745
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_Kovak_Box&amp;oldid=931163745">https://en.wikipedia.org/w/index.php?title=The_Kovak_Box&amp;oldid=931163745</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2006_films" title="Category:2006 films">2006 films</a></li><li><a href="/wiki/Category:English-language_films" title="Category:English-language films">English-language films</a></li><li><a href="/wiki/Category:British_films" title="Category:British films">British films</a></li><li><a href="/wiki/Category:British_thriller_films" title="Category:British thriller films">British thriller films</a></li><li><a href="/wiki/Category:Films_about_suicide" title="Category:Films about suicide">Films about suicide</a></li><li><a href="/wiki/Category:Films_about_writers" title="Category:Films about writers">Films about writers</a></li><li><a href="/wiki/Category:Films_about_organized_crime" title="Category:Films about organized crime">Films about organized crime</a></li><li><a href="/wiki/Category:2000s_psychological_thriller_films" title="Category:2000s psychological thriller films">2000s psychological thriller films</a></li><li><a href="/wiki/Category:Films_shot_in_Majorca" title="Category:Films shot in Majorca">Films shot in Majorca</a></li><li><a href="/wiki/Category:Films_shot_in_Madrid" title="Category:Films shot in Madrid">Films shot in Madrid</a></li><li><a href="/wiki/Category:Spanish_films" title="Category:Spanish films">Spanish films</a></li><li><a href="/wiki/Category:Spanish_thriller_films" title="Category:Spanish thriller films">Spanish thriller films</a></li><li><a href="/wiki/Category:2000s_mystery_thriller_films" title="Category:2000s mystery thriller films">2000s mystery thriller films</a></li><li><a href="/wiki/Category:Films_set_in_Spain" title="Category:Films set in Spain">Films set in Spain</a></li><li><a href="/wiki/Category:Films_scored_by_Roque_Ba%C3%B1os" title="Category:Films scored by Roque Baños">Films scored by Roque Baños</a></li><li><a href="/wiki/Category:Films_with_screenplays_by_Jorge_Guerricaechevarr%C3%ADa" title="Category:Films with screenplays by Jorge Guerricaechevarría">Films with screenplays by Jorge Guerricaechevarría</a></li><li><a href="/wiki/Category:2000s_science_fiction_film_stubs" title="Category:2000s science fiction film stubs">2000s science fiction film stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_March_2016" title="Category:Use dmy dates from March 2016">Use dmy dates from March 2016</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Kovak+Box" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Kovak+Box" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/The_Kovak_Box" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:The_Kovak_Box" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/The_Kovak_Box">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=The_Kovak_Box&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=The_Kovak_Box&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/The_Kovak_Box" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/The_Kovak_Box" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=The_Kovak_Box&amp;oldid=931163745" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=The_Kovak_Box&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2740346" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Kovak_Box&amp;id=931163745" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Kovak+Box">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=The+Kovak+Box&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=The_Kovak_Box&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/La_caixa_Kovak" hreflang="ca" lang="ca" title="La caixa Kovak – Catalan">Català</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/La_caja_Kovak" hreflang="es" lang="es" title="La caja Kovak – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/The_Kovak_Box" hreflang="fr" lang="fr" title="The Kovak Box – French">Français</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%AF%D1%89%D0%B8%D0%BA_%D0%9A%D0%BE%D0%B2%D0%B0%D0%BA%D0%B0" hreflang="ru" lang="ru" title="Ящик Ковака – Russian">Русский</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B2%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0_%D0%BA%D1%83%D1%82%D0%B8%D1%98%D0%B0" hreflang="sr" lang="sr" title="Ковакова кутија – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/The_Kovak_Box" hreflang="sv" lang="sv" title="The Kovak Box – Swedish">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2740346#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 17 December 2019, at 10:05<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=The_Kovak_Box&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.300","ppvisitednodes":{"value":1012,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":13613,"limit":2097152},"templateargumentsize":{"value":2104,"limit":2097152},"expansiondepth":{"value":24,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":415,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  261.686      1 -total"," 42.57%  111.397      1 Template:Infobox_film"," 39.39%  103.087      1 Template:Infobox"," 20.84%   54.544      1 Template:Use_dmy_dates"," 20.63%   53.979      1 Template:IMDb_title"," 13.33%   34.874      1 Template:Film_date"," 11.38%   29.777      1 Template:Plainlist","  9.93%   25.991      2 Template:Start_date","  9.39%   24.579      1 Template:2000s-sf-film-stub","  8.24%   21.574      1 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.047","limit":"10.000"},"limitreport-memusage":{"value":1707330,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20191219132838","ttl":3600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"The Kovak Box","url":"https:\/\/en.wikipedia.org\/wiki\/The_Kovak_Box","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2740346","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2740346","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-08-12T07:41:39Z","dateModified":"2019-12-17T10:05:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/13\/The_Kovak_Box.jpg","headline":"2006 film by Daniel Monz\u00f3n"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1253"});});</script>
+
+
+</body></html>

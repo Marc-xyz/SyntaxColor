@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Tenkai Knights - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XftybgpAMFQAAIILKLMAAAAV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Tenkai_Knights","wgTitle":"Tenkai Knights","wgCurRevisionId":918389657,"wgRevisionId":918389657,"wgArticleId":39752364,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","Articles with short description","Use mdy dates from April 2014","Articles containing Japanese-language text","Anime series","Manga series","2014 manga",
+"2013 anime television series","2013 Canadian television series debuts","2014 anime television series","Anime with original screenplays","Bones (studio)","Canadian children's animated action television series","Anime and manga about parallel universes","Shogakukan franchises","Shōnen manga","Television series set in the future","Television series set in the 2030s","Television series about shapeshifting","TV Tokyo shows","2010s Canadian animated television series"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Tenkai_Knights","wgRelevantArticleId":39752364,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0
+,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q15883847","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible",
+"mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/3/30/TenkaiKnightsDVD1.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tenkai_Knights" rel="alternate"/>
+<link href="/w/index.php?title=Tenkai_Knights&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Tenkai_Knights&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Tenkai_Knights" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Tenkai_Knights rootpage-Tenkai_Knights skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en"><i>Tenkai Knights</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">2013 Canadian Japanese anime series</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox" style="width: 22em"><tbody><tr><td colspan="2" style="text-align:center;background:#CCF; font-size:125%; font-style:italic; font-weight:bold;">Tenkai Knights</td></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:TenkaiKnightsDVD1.jpg"><img alt="TenkaiKnightsDVD1.jpg" data-file-height="375" data-file-width="264" decoding="async" height="313" src="//upload.wikimedia.org/wikipedia/en/thumb/3/30/TenkaiKnightsDVD1.jpg/220px-TenkaiKnightsDVD1.jpg" srcset="//upload.wikimedia.org/wikipedia/en/3/30/TenkaiKnightsDVD1.jpg 1.5x" width="220"/></a><div>Cover for the show's first rental DVD volume featuring Guren Ōgami and Bravenwolf.</div></td></tr><tr><th colspan="2" style="text-align:center;background:#DDF; padding:0.3em; line-height:1.3em; font-weight:normal;"><span class="t_nihongo_kanji"><span lang="ja" title="Japanese language text"><span style="font-size:110%;">テンカイナイト</span></span></span><br/>(<i>Tenkai Naito</i>)</th></tr><tr><th scope="row">Genre</th><td><a class="mw-redirect" href="/wiki/Action_(fiction)" title="Action (fiction)">Action</a>, <a href="/wiki/Mecha" title="Mecha">Mecha</a>, <a class="mw-redirect" href="/wiki/Science_Fantasy" title="Science Fantasy">Science Fantasy</a></td></tr><tr><th scope="row">Created by</th><td><a href="/wiki/Spin_Master" title="Spin Master">Spin Master</a></td></tr>
+<tr><td colspan="2" style="text-align:center;background:#CCF; font-weight:bold;">Anime television series</td></tr><tr><th scope="row">Directed by</th><td><a href="/wiki/Mitsuru_Hongo" title="Mitsuru Hongo">Mitsuru Hongo</a></td></tr><tr><th scope="row">Produced by</th><td>Tsutomu Mori<br/>Ryo Sasaki<br/>Tomoya Negishi</td></tr><tr><th scope="row">Written by</th><td>Jin Kanada (1–26)<br/><a href="/wiki/Hiroshi_%C5%8Cnogi" title="Hiroshi Ōnogi">Hiroshi Ōnogi</a> (27–51)</td></tr><tr><th scope="row">Music by</th><td>MONACA</td></tr><tr><th scope="row">Studio</th><td><a href="/wiki/Bones_(studio)" title="Bones (studio)">Bones</a></td></tr><tr><th scope="row">Licensed by</th><td><div style="overflow:hidden; width:100%;"><div style="width:2.8em; float:left;"><sup style="font-style:normal;">NA</sup></div>                    <div style="margin-left:2.8em;"><a href="/wiki/Cartoon_Network_Studios" title="Cartoon Network Studios">Cartoon Network Studios</a><br/><a href="/wiki/Spin_Master" title="Spin Master">Spin Master Entertainment</a></div></div></td></tr><tr><th scope="row">Original network</th><td><a href="/wiki/TV_Tokyo" title="TV Tokyo">TV Tokyo</a></td></tr><tr><th scope="row">English network</th><td><div style="overflow:hidden; width:100%;"><div style="width:2.8em; float:left;"><sup style="font-style:normal;">US</sup></div>                    <div style="margin-left:2.8em;"><a href="/wiki/Cartoon_Network" title="Cartoon Network">Cartoon Network</a></div></div></td></tr><tr><th scope="row">Original run</th><td><span class="nowrap"> August 24, 2013 (US/Canada broadcast)<br/>April 5, 2014 (Japan broadcast) </span> – <span class="nowrap"> December 6, 2014 (US/Canada broadcast)<br/>March 28, 2015 (Japan broadcast)</span></td></tr><tr><th scope="row">Episodes</th><td>51 <span class="noprint">(<a href="/wiki/List_of_Tenkai_Knights_episodes" title="List of Tenkai Knights episodes">List of episodes</a>)</span></td></tr>
+<tr><td colspan="2" style="text-align:center;background:#CCF; font-weight:bold;">Manga</td></tr><tr><th scope="row">Written by</th><td><a href="/wiki/Ryo_Takamisaki" title="Ryo Takamisaki">Ryo Takamisaki</a></td></tr><tr><th scope="row">Published by</th><td><a href="/wiki/Shogakukan" title="Shogakukan">Shogakukan</a></td></tr><tr><th scope="row">Demographic</th><td><i><a href="/wiki/Sh%C5%8Dnen_manga" title="Shōnen manga">Shōnen</a></i></td></tr><tr><th scope="row">Magazine</th><td><i><a href="/wiki/CoroCoro_Comic" title="CoroCoro Comic">CoroCoro Ichiban!</a></i></td></tr><tr><th scope="row">Original run</th><td><span class="nowrap">April 21, 2014</span> – <span class="nowrap">March 27, 2015</span></td></tr><tr><th scope="row">Volumes</th><td>2</td></tr>
+<tr><td colspan="2" style="text-align:center;background:#CCF; font-weight: bold;">Game</td></tr><tr><th colspan="2" style="text-align:center;background:#EEF; font-weight: normal;"><i><a href="/wiki/Tenkai_Knights:_Brave_Battle" title="Tenkai Knights: Brave Battle">Tenkai Knights: Brave Battle</a></i></th></tr><tr><th scope="row"><a href="/wiki/Video_game_developer" title="Video game developer">Developer</a></th><td><a class="mw-redirect" href="/wiki/Namco_Bandai_Games" title="Namco Bandai Games">Namco Bandai Games</a></td></tr><tr><th scope="row"><a href="/wiki/Video_game_publisher" title="Video game publisher">Publisher</a></th><td><a class="mw-redirect" href="/wiki/Namco_Bandai_Games" title="Namco Bandai Games">Namco Bandai Games</a></td></tr><tr><th scope="row"><a href="/wiki/Video_game_genre" title="Video game genre">Genre</a></th><td><a class="mw-redirect" href="/wiki/Action_(genre)" title="Action (genre)">Action</a></td></tr><tr><th scope="row"><a href="/wiki/Video_game#Gaming_platforms" title="Video game">Platform</a></th><td><a href="/wiki/Nintendo_3DS" title="Nintendo 3DS">Nintendo 3DS</a></td></tr><tr><th scope="row">Released</th><td><div class="plainlist"><ul><li><span style="font-size:95%;"><a href="/wiki/North_America" title="North America">NA</a>:</span> October 7, 2014</li><li><span style="font-size:95%;"><a href="/wiki/Japan" title="Japan">JP</a>:</span> September 25, 2014</li><li><span style="font-size:95%;"><a href="/wiki/Europe" title="Europe">EU</a>:</span> September 26, 2014</li></ul></div></td></tr>
+<tr class="noprint"><td colspan="2" style="text-align:center;background:#CCF; font-weight:bold"><a class="image" href="/wiki/File:Wikipe-tan_face.svg"><img alt="Wikipe-tan face.svg" class="noviewer" data-file-height="440" data-file-width="440" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wikipe-tan_face.svg/16px-Wikipe-tan_face.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wikipe-tan_face.svg/24px-Wikipe-tan_face.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wikipe-tan_face.svg/32px-Wikipe-tan_face.svg.png 2x" width="16"/></a> <a href="/wiki/Portal:Anime_and_manga" title="Portal:Anime and manga">Anime and manga portal</a></td></tr></tbody></table>
+<p><i><b>Tenkai Knights</b></i><span style="font-weight: normal"> (<a href="/wiki/Japanese_language" title="Japanese language">Japanese</a>: <span lang="ja">テンカイナイト</span><span style="display:none">,</span> <a href="/wiki/Hepburn_romanization" title="Hepburn romanization">Hepburn</a>: <i>Tenkai Naito</i>)</span> is a 2013 <a href="/wiki/Canada" title="Canada">Canadian</a>-<a href="/wiki/Japan" title="Japan">Japanese</a> anime series, produced by <a href="/wiki/Shogakukan-Shueisha_Productions" title="Shogakukan-Shueisha Productions">Shogakukan-Shueisha Productions</a> and <a href="/wiki/Spin_Master" title="Spin Master">Spin Master</a><sup class="reference" id="cite_ref-Tenkai_Knights_Coming_to_Cartoon_Network_1-0"><a href="#cite_note-Tenkai_Knights_Coming_to_Cartoon_Network-1">[1]</a></sup> and animated by <a href="/wiki/Bones_(studio)" title="Bones (studio)">Bones</a><sup class="reference" id="cite_ref-Bones_2-0"><a href="#cite_note-Bones-2">[2]</a></sup> and Shogakukan Music &amp; Digital Entertainment. It officially aired in <a href="/wiki/Cartoon_Network" title="Cartoon Network">Cartoon Network</a> in the United States on August 24, 2013 and in Canada on <a href="/wiki/Teletoon" title="Teletoon">Teletoon</a> on September 28, 2013.<sup class="reference" id="cite_ref-Tenkai_Knights_Coming_to_Cartoon_Network_1-1"><a href="#cite_note-Tenkai_Knights_Coming_to_Cartoon_Network-1">[1]</a></sup> After a year, the series premiered in <a href="/wiki/TV_Tokyo" title="TV Tokyo">TV Tokyo</a> and its Japanese affiliates on April 5, 2014.<sup class="reference" id="cite_ref-crunchyroll_cast_3-0"><a href="#cite_note-crunchyroll_cast-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p><i>Tenkai Knights</i> is released to promote Spin Master's line of <a href="/wiki/Lego_clone" title="Lego clone">Ionix</a> brand of construction bricks.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Story"><span class="tocnumber">1</span> <span class="toctext">Story</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Characters"><span class="tocnumber">2</span> <span class="toctext">Characters</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Media"><span class="tocnumber">3</span> <span class="toctext">Media</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Animation"><span class="tocnumber">3.1</span> <span class="toctext">Animation</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Toys"><span class="tocnumber">3.2</span> <span class="toctext">Toys</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Print"><span class="tocnumber">3.3</span> <span class="toctext">Print</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Home_video"><span class="tocnumber">3.4</span> <span class="toctext">Home video</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Music"><span class="tocnumber">3.5</span> <span class="toctext">Music</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Video_games"><span class="tocnumber">3.6</span> <span class="toctext">Video games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Story">Story</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tenkai_Knights&amp;action=edit&amp;section=1" title="Edit section: Story">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Eons ago, a cube–like peaceful planet named Quarton, populated by shape–shifting living bricks called Tenkai, was ravaged by a war between two opposite factions: the Corekai Soldiers, led by the valiant and fearless Commander Beagle ("Beag"); and the Corrupted Army, led by the ruthless Lord Vilius, who desired to obtain the source of Tenkai energy for his own purposes. However, the only ones who were strong enough to defeat him were the  4 Legendary Tenkai Knights of Quarton: Bravenwolf, Tributon, Valorn and Lydendor. Facing defeat, Vilius unleashed the mighty Tenkai Dragon, who was later defeated by the 4 Knights, its fragments scattered across the planet. These heroes were never seen again, but now, a year later, Lord Vilius and the infamous Corrupted Army have returned, more powerful than ever before.
+</p><p>Now, on planet Earth, in the year 2034, within Benham City, four young teenage boys Guren, Ceylan, Toxsa, and Chooki find an interdimensional portal to Quarton where they are chosen by Boreas of the Guardians to become the new generation of Tenkai Knights and prevent Lord Vilius and his Corrupted Army empire from taking control of both worlds.
+</p>
+<h2><span class="mw-headline" id="Characters">Characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tenkai_Knights&amp;action=edit&amp;section=2" title="Edit section: Characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/List_of_Tenkai_Knights_characters" title="List of Tenkai Knights characters">List of Tenkai Knights characters</a></div>
+<h2><span class="mw-headline" id="Media">Media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tenkai_Knights&amp;action=edit&amp;section=3" title="Edit section: Media">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Animation">Animation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tenkai_Knights&amp;action=edit&amp;section=4" title="Edit section: Animation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/List_of_Tenkai_Knights_episodes" title="List of Tenkai Knights episodes">List of Tenkai Knights episodes</a></div>
+<p>The series is first aired in the United States on the <a href="/wiki/Cable_television" title="Cable television">cable TV</a> channel <a href="/wiki/Cartoon_Network" title="Cartoon Network">Cartoon Network</a> on August 24, 2013, at 7:30 am, and in Canada on <a href="/wiki/Teletoon" title="Teletoon">Teletoon</a> on September 28, 2013.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> The English dub is produced by <a href="/wiki/Studiopolis" title="Studiopolis">Studiopolis</a>. To coincide with the launch of the property, Spin Master and Kickstart Entertainment produced a 10-episode prequel web-series entitled <i>Tenkai Knights Origins</i>. The series features music by John Majkut and was released onto <a href="/wiki/YouTube" title="YouTube">YouTube</a> as well as the brand's official website between September and December 2013. They also aired as <a href="/wiki/Interstitial_program" title="Interstitial program">interstitals</a> on Cartoon Network and Teletoon.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p><p>In Japan, the television series was delayed until April, where it would be aired on the <a class="mw-redirect" href="/wiki/TV_Tokyo_Network" title="TV Tokyo Network">TV Tokyo Network</a>, with the start of its broadcast on April 5, 2014, running at 9:00 am. It would then replace Shogakukan's Oha Coliseum block and <i><a href="/wiki/Robocar_Poli" title="Robocar Poli">Robocar Poli</a></i> that currently air in the half-hour slot. Several of the affiliates would have the show delayed and begin broadcast on April 12, 2014, airing at 7:00 am. BS-Japan would further delay its broadcast until April 15, 2014, and begin broadcasting at 5:30 pm.
+</p><p>A second season of the series was announced to be in development but was cancelled prior to entering production.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Toys">Toys</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tenkai_Knights&amp;action=edit&amp;section=5" title="Edit section: Toys">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Tenkai Knights toy line is produced by Spin Master under the <i>Ionix</i> brand of construction bricks, along with a new <a href="/wiki/Pok%C3%A9mon" title="Pokémon">Pokémon</a> line. Spin Master refers to Ionix as the next generation of construction, with "Bricks that shapeshift." Their line of products include bricks that look very similar to traditional construction bricks, but actually shapeshift and unfold into unique mini-figures. Spin Master distributes the toys in the United States and Canada while <a href="/wiki/Happinet" title="Happinet">Happinet</a> handles the distribution rights of the toys in Japan.
+</p>
+<h3><span class="mw-headline" id="Print">Print</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tenkai_Knights&amp;action=edit&amp;section=6" title="Edit section: Print">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A <a href="/wiki/Manga" title="Manga">manga</a> adaptation of the anime series by <a href="/wiki/Ryo_Takamisaki" title="Ryo Takamisaki">Ryo Takamisaki</a> was serialized in <a href="/wiki/CoroCoro_Comic" title="CoroCoro Comic">CoroCoro Ichiban!</a> beginning with its June 2014 issue, published April 21, 2014. The manga concluded shortly after and was later compiled into two <a href="/wiki/Tank%C5%8Dbon" title="Tankōbon">tankōbon</a> by <a href="/wiki/Shogakukan" title="Shogakukan">Shogakukan</a>, the last of which, released on March 27, 2015, featured an additional 20 pages of material.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> The series was not released in English.
+</p><p><a href="/wiki/Penguin_Random_House" title="Penguin Random House">Penguin Random House</a> published four <a href="/wiki/Novelization" title="Novelization">novelizations</a> written by <a href="/wiki/Brandon_T._Snider" title="Brandon T. Snider">Brandon T. Snider</a>, as well as two <a href="/wiki/Gamebook" title="Gamebook">choose your own adventure books</a> by Ray Santos in 2014 and 2015. iStoryTime released an interactive book on <a href="/wiki/IOS" title="IOS">iOS</a> in January 2014.
+</p>
+<h3><span class="mw-headline" id="Home_video">Home video</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tenkai_Knights&amp;action=edit&amp;section=7" title="Edit section: Home video">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Phase_4_Films" title="Phase 4 Films">Phase 4 Films</a> distributed a single home video release of the series in Canada and the United States, titled <i>Tenkai Knights: Rise of the Knights</i>. It presents the first several episodes of the show edited together into a movie and was released on <a href="/wiki/DVD" title="DVD">DVD</a> as well as digital platforms on February 4, 2014.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> A <a href="/wiki/Manufacture_on_demand" title="Manufacture on demand">manufacture on demand</a> <a class="mw-redirect" href="/wiki/Blu-Ray" title="Blu-Ray">Blu-Ray</a> version followed on May 4, 2016.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p><p>In Japan, Happinet and <a class="mw-redirect" href="/wiki/Victor_Entertainment" title="Victor Entertainment">Victor Entertainment</a> released the entire series over four DVD box sets between August 2, 2014, and May 2, 2015. The first 18 episodes were also released through six DVDs for the rental market.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tenkai_Knights&amp;action=edit&amp;section=8" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Four pieces of theme music are used for the episodes: one opening theme and three closing themes. The opening theme is "Get the Glory" by Ayako Nakanomori. The first ending theme is "Shunkan Diamond"<span style="font-weight: normal"> (<span lang="ja">瞬間Diamond</span><span style="display:none">,</span> <i>Shunkan Diamond</i>, lit. "Diamond Moment")</span> by <a href="/wiki/Rurika_Yokoyama" title="Rurika Yokoyama">Rurika Yokoyama</a>, while the second ending is "Shōri no Hanataba o -gonna gonna be hot!-"<span style="font-weight: normal"> (<span lang="ja">勝利の花束を-gonna gonna be hot!-</span><span style="display:none">,</span> <i>lit. "Victory Bouquet -gonna gonna be hot!-"</i>)</span> by <a href="/wiki/Cyntia" title="Cyntia">Cyntia</a>. The third ending, "Densetsu no FLARE"<span style="font-weight: normal"> (<span lang="ja">伝説のFLARE -</span><span style="display:none">,</span> <i>lit. "Legendary Flare"</i>)</span>, is sung by <a class="mw-redirect" href="/wiki/Pile_(voice_actress)" title="Pile (voice actress)">Pile</a>. For the English version, John Majkut composed its opening theme with an instrumental version of the same track used for the credits. The series' background score is composed by Majkut and <a class="new" href="/w/index.php?title=MONACA&amp;action=edit&amp;redlink=1" title="MONACA (page does not exist)">MONACA</a> of <i><a href="/wiki/Star_Driver" title="Star Driver">Star Driver</a></i> fame.
+</p><p>Happinet released an 82-song soundtrack on <a class="mw-redirect" href="/wiki/Compact_Disc" title="Compact Disc">CD</a> on March 25, 2015, in Japan.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Video_games">Video games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tenkai_Knights&amp;action=edit&amp;section=9" title="Edit section: Video games">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Tenkai_Knights:_Brave_Battle" title="Tenkai Knights: Brave Battle">Tenkai Knights: Brave Battle</a></div>
+<p>On January 30, 2014, <a class="mw-redirect" href="/wiki/Namco_Bandai_Games" title="Namco Bandai Games">Namco Bandai Games</a> announced a video game entitled <i>Tenkai Knights: Brave Battle</i><span style="font-weight: normal"> (<span lang="ja">テンカイナイト ブレイブバトル</span><span style="display:none">,</span> <i>Tenkai Naito Bureibu Batoru</i>)</span> for <a href="/wiki/Nintendo_3DS" title="Nintendo 3DS">Nintendo 3DS</a>, released in Japan on September 25, 2014, and in North America on October 7, 2014.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p><p>On February 27, 2014, Spin Master and Game Pill launched the <a href="/wiki/Free-to-play" title="Free-to-play">free-to-play</a> <i>Tenkai Knights: Battle for Quarton</i> game for <a href="/wiki/IOS" title="IOS">iOS</a> devices.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> The game was also available through <a class="mw-redirect" href="/wiki/Web_browsers" title="Web browsers">web browsers</a> via the <a href="/wiki/Unity_(game_engine)" title="Unity (game engine)">Unity</a> plug-in. Other browser titles include <i>Bravenwolf's Run</i>, <i>Race to Redemption</i> and <i>Tenkai Boost</i>.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tenkai_Knights&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Tenkai_Knights_Coming_to_Cartoon_Network-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tenkai_Knights_Coming_to_Cartoon_Network_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tenkai_Knights_Coming_to_Cartoon_Network_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="https://www.animenewsnetwork.com/news/2013-06-22/shopro-and-spin-master-tenkai-knights-to-run-on-cartoon-network" rel="nofollow">ShoPro &amp; Spin Master's Tenkai Knights to Run on Cartoon Network</a></span>
+</li>
+<li id="cite_note-Bones-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bones_2-0">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.animenewsnetwork.com/news/2013-05-25/anime-studio-bones-tenkai-knight-project-listed" rel="nofollow">Anime Studio Bones' "Tenkai Knight" Project Listed</a></span>
+</li>
+<li id="cite_note-crunchyroll_cast-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-crunchyroll_cast_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Komatsu, Mikikazu (February 20, 2014). <a class="external text" href="http://www.crunchyroll.com/anime-news/2014/02/20/bones-kids-anime-tenkai-knights-to-start-airing-in-japan-on-april-5" rel="nofollow">"Crunchyroll - Bones' Kids Anime "Tenkai Knights" to Start Airing in Japan on April 5"</a>. <i>Crunchyroll</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 24,</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Crunchyroll&amp;rft.atitle=Crunchyroll+-+Bones%27+Kids+Anime+%22Tenkai+Knights%22+to+Start+Airing+in+Japan+on+April+5&amp;rft.date=2014-02-20&amp;rft.aulast=Komatsu&amp;rft.aufirst=Mikikazu&amp;rft_id=http%3A%2F%2Fwww.crunchyroll.com%2Fanime-news%2F2014%2F02%2F20%2Fbones-kids-anime-tenkai-knights-to-start-airing-in-japan-on-april-5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATenkai+Knights"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://animeanime.jp/article/2014/02/21/17547.html" rel="nofollow">"制作はボンズ 「テンカイナイト」4月5日テレビ東京他放送開始、世界展開のキッズアニメ"</a>. <i>アニメ！アニメ！</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 24,</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=%E3%82%A2%E3%83%8B%E3%83%A1%EF%BC%81%E3%82%A2%E3%83%8B%E3%83%A1%EF%BC%81&amp;rft.atitle=%E5%88%B6%E4%BD%9C%E3%81%AF%E3%83%9C%E3%83%B3%E3%82%BA+%E3%80%8C%E3%83%86%E3%83%B3%E3%82%AB%E3%82%A4%E3%83%8A%E3%82%A4%E3%83%88%E3%80%8D4%E6%9C%885%E6%97%A5%E3%83%86%E3%83%AC%E3%83%93%E6%9D%B1%E4%BA%AC%E4%BB%96%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B%E3%80%81%E4%B8%96%E7%95%8C%E5%B1%95%E9%96%8B%E3%81%AE%E3%82%AD%E3%83%83%E3%82%BA%E3%82%A2%E3%83%8B%E3%83%A1&amp;rft_id=http%3A%2F%2Fanimeanime.jp%2Farticle%2F2014%2F02%2F21%2F17547.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATenkai+Knights"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Loveridge, Lynzee (August 14, 2013). <a class="external text" href="https://www.animenewsnetwork.com/news/2013-08-14/tenkai-knights-english-dubbed-trailer-streamed" rel="nofollow">"Tenkai Knights' English-Dubbed Trailer Streamed"</a>. <i><a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 10,</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Anime+News+Network&amp;rft.atitle=Tenkai+Knights%27+English-Dubbed+Trailer+Streamed&amp;rft.date=2013-08-14&amp;rft.aulast=Loveridge&amp;rft.aufirst=Lynzee&amp;rft_id=https%3A%2F%2Fwww.animenewsnetwork.com%2Fnews%2F2013-08-14%2Ftenkai-knights-english-dubbed-trailer-streamed&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATenkai+Knights"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Loveridge, Lynzee (September 26, 2013). <a class="external text" href="https://www.animenewsnetwork.com/news/2013-09-26/tenkai-knights-to-debut-on-canada-teletoon-on-saturday" rel="nofollow">"Tenkai Knights to Debut on Canada's Teletoon on Saturday"</a>. <i><a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 10,</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Anime+News+Network&amp;rft.atitle=Tenkai+Knights+to+Debut+on+Canada%27s+Teletoon+on+Saturday&amp;rft.date=2013-09-26&amp;rft.aulast=Loveridge&amp;rft.aufirst=Lynzee&amp;rft_id=https%3A%2F%2Fwww.animenewsnetwork.com%2Fnews%2F2013-09-26%2Ftenkai-knights-to-debut-on-canada-teletoon-on-saturday&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATenkai+Knights"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Majkut, John. <a class="external text" href="http://johnmajkut.com/news.html" rel="nofollow">"News"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">September 10,</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=News&amp;rft.aulast=Majkut&amp;rft.aufirst=John&amp;rft_id=http%3A%2F%2Fjohnmajkut.com%2Fnews.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATenkai+Knights"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">@TenkaiKnights (July 3, 2014). <a class="external text" href="https://twitter.com/TenkaiKnights/status/484813241155981312" rel="nofollow">"Second season is in development! More episodes still to come for Season 1!"</a> (Tweet)<span class="reference-accessdate">. Retrieved <span class="nowrap">September 10,</span> 2018</span> – via <a href="/wiki/Twitter" title="Twitter">Twitter</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Second+season+is+in+development%21+More+episodes+still+to+come+for+Season+1%21&amp;rft.date=2014-07-03&amp;rft.au=%40TenkaiKnights&amp;rft_id=https%3A%2F%2Ftwitter.com%2FTenkaiKnights%2Fstatus%2F484813241155981312&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATenkai+Knights"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>    </span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.facebook.com/TenkaiKnights/photos/a.630607413639154/880347321998494/?type=3&amp;theater" rel="nofollow">"We hope you all enjoyed the season finale of Tenkai Knights! Plans for season 2 will be announced next year. Stay tuned!"</a>. <i><a href="/wiki/Spin_Master" title="Spin Master">Spin Master</a></i>. December 8, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">September 10,</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Spin+Master&amp;rft.atitle=We+hope+you+all+enjoyed+the+season+finale+of+Tenkai+Knights%21+Plans+for+season+2+will+be+announced+next+year.+Stay+tuned%21&amp;rft.date=2014-12-08&amp;rft_id=https%3A%2F%2Fwww.facebook.com%2FTenkaiKnights%2Fphotos%2Fa.630607413639154%2F880347321998494%2F%3Ftype%3D3%26theater&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATenkai+Knights"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://tenkaiknight.jp/comic/" rel="nofollow">"本｜テンカイナイト オフィシャルサイト"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">September 10,</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E6%9C%AC%EF%BD%9C%E3%83%86%E3%83%B3%E3%82%AB%E3%82%A4%E3%83%8A%E3%82%A4%E3%83%88+%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88&amp;rft_id=http%3A%2F%2Ftenkaiknight.jp%2Fcomic%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATenkai+Knights"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20131203033657/http://www.phase4films.com/detail.aspx?projectId=022e96f6-242d-e311-a94e-d4ae527c3b65" rel="nofollow">"Archived copy"</a>. Archived from <a class="external text" href="http://www.phase4films.com/detail.aspx?projectId=022e96f6-242d-e311-a94e-d4ae527c3b65" rel="nofollow">the original</a> on December 3, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">December 1,</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.phase4films.com%2Fdetail.aspx%3FprojectId%3D022e96f6-242d-e311-a94e-d4ae527c3b65&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATenkai+Knights"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.amazon.com/Tenkai-Knights-Rise-Blu-ray/dp/B01F67P2XG" rel="nofollow">"Tenkai Knights - Rise of the Knights [Blu-Ray]"</a>. <a href="/wiki/Amazon_(company)" title="Amazon (company)">Amazon</a><span class="reference-accessdate">. Retrieved <span class="nowrap">September 10,</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tenkai+Knights+-+Rise+of+the+Knights+%5BBlu-Ray%5D&amp;rft.pub=Amazon&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2FTenkai-Knights-Rise-Blu-ray%2Fdp%2FB01F67P2XG&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATenkai+Knights"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://tenkaiknight.jp/music_dvd/" rel="nofollow">"アニメ「テンカイナイト」の音楽・DVD情報"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">September 10,</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%83%86%E3%83%B3%E3%82%AB%E3%82%A4%E3%83%8A%E3%82%A4%E3%83%88%E3%80%8D%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%BBDVD%E6%83%85%E5%A0%B1&amp;rft_id=http%3A%2F%2Ftenkaiknight.jp%2Fmusic_dvd%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATenkai+Knights"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://tenkaiknight.jp/music_dvd/music_05.php" rel="nofollow">"アニメ「テンカイナイト」の音楽・DVD情報"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">September 10,</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%83%86%E3%83%B3%E3%82%AB%E3%82%A4%E3%83%8A%E3%82%A4%E3%83%88%E3%80%8D%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%BBDVD%E6%83%85%E5%A0%B1&amp;rft_id=http%3A%2F%2Ftenkaiknight.jp%2Fmusic_dvd%2Fmusic_05.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATenkai+Knights"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://nintendoeverything.com/tenkai-knights-brave-battle-announced-for-3ds/" rel="nofollow">"Tenkai Knights: Brave Battle announced for 3DS"</a>. <i>Nintendo Everything</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 24,</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nintendo+Everything&amp;rft.atitle=Tenkai+Knights%3A+Brave+Battle+announced+for+3DS&amp;rft_id=http%3A%2F%2Fnintendoeverything.com%2Ftenkai-knights-brave-battle-announced-for-3ds%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATenkai+Knights"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://toyworldmag.co.uk/world-news/spin-master-launches-tenkai-knights-gaming-app-for-ios/" rel="nofollow">"Spin Master launches Tenkai Knights gaming app for iOS"</a>. <i>Toy World</i>. February 28, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">September 10,</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Toy+World&amp;rft.atitle=Spin+Master+launches+Tenkai+Knights+gaming+app+for+iOS&amp;rft.date=2014-02-28&amp;rft_id=https%3A%2F%2Ftoyworldmag.co.uk%2Fworld-news%2Fspin-master-launches-tenkai-knights-gaming-app-for-ios%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATenkai+Knights"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tenkai_Knights&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.tenkaiknights.com/" rel="nofollow">Official Website</a></li>
+<li><a class="external text" href="http://tenkaiknight.jp/" rel="nofollow">Official Japanese Website</a></li>
+<li><a class="external text" href="http://www.tv-tokyo.co.jp/anime/tenkaiknight/" rel="nofollow">Official TV Tokyo website</a></li>
+<li><a class="external text" href="http://tenkai.bngames.net/" rel="nofollow">Official Game Website</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20131120043918/http://www.cartoonnetwork.com/tv_shows/tenkai-knights/video/index.html?atclk_gn=picker_Tenkai_Knights" rel="nofollow">Cartoon Network Official Website</a></li>
+<li><a class="external text" href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15885" rel="nofollow"><i>Tenkai Knights</i></a> (anime) at <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a>'s encyclopedia</li>
+<li><i><a class="external text" href="https://www.bcdb.com/cartoons/Other_Studios/S/Spin_Master/Tenkai_Naito/" rel="nofollow">Tenkai Naito </a></i> at the <a href="/wiki/The_Big_Cartoon_DataBase" title="The Big Cartoon DataBase">Big Cartoon DataBase</a></li></ul>
+<div aria-labelledby="Works_of_Bones" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Bones_(studio)" title="Template:Bones (studio)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Bones_(studio)" title="Template talk:Bones (studio)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Bones_(studio)&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Works_of_Bones" style="font-size:114%;margin:0 4em">Works of <a href="/wiki/Bones_(studio)" title="Bones (studio)">Bones</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Television series</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Hiwou_War_Chronicles" title="Hiwou War Chronicles">Hiwou War Chronicles</a></i> (2000–2001)</li>
+<li><i><a href="/wiki/Angelic_Layer" title="Angelic Layer">Angelic Layer</a></i> (2001)</li>
+<li><i><a href="/wiki/RahXephon" title="RahXephon">RahXephon</a></i> (2002)</li>
+<li><i><a href="/wiki/Wolf%27s_Rain" title="Wolf's Rain">Wolf's Rain</a></i> (2003)</li>
+<li><i><a href="/wiki/Scrapped_Princess" title="Scrapped Princess">Scrapped Princess</a></i> (2003)</li>
+<li><i><a href="/wiki/Fullmetal_Alchemist_(TV_series)" title="Fullmetal Alchemist (TV series)">Fullmetal Alchemist</a></i> (2003–2004)</li>
+<li><i><a href="/wiki/Mars_Daybreak" title="Mars Daybreak">Mars Daybreak</a></i> (2004)</li>
+<li><i><a href="/wiki/Kurau_Phantom_Memory" title="Kurau Phantom Memory">Kurau Phantom Memory</a></i> (2004)</li>
+<li><i><a href="/wiki/Eureka_Seven" title="Eureka Seven">Eureka Seven</a></i> (2005–2006)</li>
+<li><i><a href="/wiki/Ouran_High_School_Host_Club" title="Ouran High School Host Club">Ouran High School Host Club</a></i> (2006)</li>
+<li><i><a href="/wiki/Jyu-Oh-Sei" title="Jyu-Oh-Sei">Jyu-Oh-Sei</a></i> (2006)</li>
+<li><i><a href="/wiki/Ghost_Slayers_Ayashi" title="Ghost Slayers Ayashi">Ghost Slayers Ayashi</a></i> (2006–2007)</li>
+<li><i><a href="/wiki/Darker_than_Black" title="Darker than Black">Darker than Black</a></i> (2007)</li>
+<li><i><a href="/wiki/Skull_Man" title="Skull Man">Skull Man</a></i> (2007)</li>
+<li><i><a href="/wiki/Soul_Eater_(manga)" title="Soul Eater (manga)">Soul Eater</a></i> (2008–2009)</li>
+<li><i><a href="/wiki/Nij%C5%AB_Mens%C5%8D_no_Musume" title="Nijū Mensō no Musume">Nijū Mensō no Musume</a></i> (2008)</li>
+<li><i><a href="/wiki/Fullmetal_Alchemist:_Brotherhood" title="Fullmetal Alchemist: Brotherhood">Fullmetal Alchemist: Brotherhood</a></i> (2009–2010)</li>
+<li><i><a href="/wiki/Tokyo_Magnitude_8.0" title="Tokyo Magnitude 8.0">Tokyo Magnitude 8.0</a></i> (2009)</li>
+<li><i><a href="/wiki/Darker_than_Black" title="Darker than Black">Darker than Black: Gemini of the Meteor</a></i> (2009)</li>
+<li><i><a href="/wiki/Heroman" title="Heroman">Heroman</a></i> (2010)</li>
+<li><i><a href="/wiki/Star_Driver" title="Star Driver">Star Driver</a></i> (2010–2011)</li>
+<li><i><a href="/wiki/Gosick" title="Gosick">Gosick</a></i> (2011)</li>
+<li><i><a href="/wiki/No._6" title="No. 6">No. 6</a></i> (2011)</li>
+<li><i><a href="/wiki/Un-Go" title="Un-Go">Un-Go</a></i> (2011)</li>
+<li><i><a href="/wiki/Eureka_Seven" title="Eureka Seven">Eureka Seven: AO</a></i> (2012)</li>
+<li><i><a href="/wiki/Blast_of_Tempest" title="Blast of Tempest">Blast of Tempest</a></i> (2012–2013)</li>
+<li><i><a class="mw-selflink selflink">Tenkai Knights</a></i> (2013–2015)</li>
+<li><i><a href="/wiki/Space_Dandy" title="Space Dandy">Space Dandy</a></i> (2014)</li>
+<li><i><a href="/wiki/Noragami" title="Noragami">Noragami</a></i> (2014)</li>
+<li><i><a href="/wiki/Captain_Earth" title="Captain Earth">Captain Earth</a></i> (2014)</li>
+<li><i><a href="/wiki/Soul_Eater_Not!" title="Soul Eater Not!">Soul Eater Not!</a></i> (2014)</li>
+<li><i><a href="/wiki/Chaika_-_The_Coffin_Princess" title="Chaika - The Coffin Princess">Chaika - The Coffin Princess</a></i> (2014)</li>
+<li><i><a href="/wiki/Chaika_-_The_Coffin_Princess" title="Chaika - The Coffin Princess">Chaika - The Coffin Princess: Avenging Battle</a></i> (2014)</li>
+<li><i><a href="/wiki/Blood_Blockade_Battlefront" title="Blood Blockade Battlefront">Blood Blockade Battlefront</a></i> (2015)</li>
+<li><i><a href="/wiki/Show_by_Rock!!" title="Show by Rock!!">Show by Rock!!</a></i> (2015)</li>
+<li><i><a href="/wiki/Snow_White_with_the_Red_Hair" title="Snow White with the Red Hair">Snow White with the Red Hair</a></i> (2015–2016)</li>
+<li><i><a href="/wiki/Noragami" title="Noragami">Noragami Aragoto</a></i> (2015)</li>
+<li><i><a href="/wiki/Concrete_Revolutio" title="Concrete Revolutio">Concrete Revolutio</a></i> (2015)</li>
+<li><i><a href="/wiki/Concrete_Revolutio" title="Concrete Revolutio">Concrete Revolutio: The Last Song</a></i> (2016)</li>
+<li><i><a href="/wiki/My_Hero_Academia" title="My Hero Academia">My Hero Academia</a></i> (2016–present)</li>
+<li><i><a href="/wiki/Bungo_Stray_Dogs" title="Bungo Stray Dogs">Bungo Stray Dogs</a></i> (2016–present)</li>
+<li><i><a href="/wiki/Show_by_Rock!!" title="Show by Rock!!">Show by Rock!! Short!!</a></i> (2016)</li>
+<li><i><a href="/wiki/Mob_Psycho_100" title="Mob Psycho 100">Mob Psycho 100</a></i> (2016–2019)</li>
+<li><i><a href="/wiki/Show_by_Rock!!" title="Show by Rock!!">Show by Rock!!♯</a></i> (2016)</li>
+<li><i><a href="/wiki/Blood_Blockade_Battlefront" title="Blood Blockade Battlefront">Blood Blockade Battlefront &amp; Beyond</a></i> (2017)</li>
+<li><i><a href="/wiki/Dragon_Pilot:_Hisone_and_Masotan" title="Dragon Pilot: Hisone and Masotan">Dragon Pilot: Hisone and Masotan</a></i> (2018)</li>
+<li><i><a href="/wiki/Carole_%26_Tuesday" title="Carole &amp; Tuesday">Carole &amp; Tuesday</a></i> (2019)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">OVAs/ONAs</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/RahXephon" title="RahXephon">RahXephon Interlude: Her and Herself/Thatness and Thereness</a></i> (2003)</li>
+<li><i><a href="/wiki/Wolf%27s_Rain" title="Wolf's Rain">Wolf's Rain</a></i> (2004)</li>
+<li><i><a href="/wiki/Fullmetal_Alchemist_(TV_series)" title="Fullmetal Alchemist (TV series)">Fullmetal Alchemist: Premium Collection</a></i> (2006)</li>
+<li><i><a href="/wiki/Ghost_Slayers_Ayashi" title="Ghost Slayers Ayashi">Ayashi Divine Comedy</a></i> (2007)</li>
+<li><i><a href="/wiki/Darker_than_Black" title="Darker than Black">Darker than Black: Beneath the Fully Bloomed Cherry Blossoms</a></i> (2008)</li>
+<li><i><a href="/wiki/Xam%27d:_Lost_Memories" title="Xam'd: Lost Memories">Xam'd: Lost Memories</a></i> (2008–2009)</li>
+<li><i><a href="/wiki/Fullmetal_Alchemist:_Brotherhood" title="Fullmetal Alchemist: Brotherhood">Fullmetal Alchemist: Brotherhood</a></i> (2009–2010)</li>
+<li><i><a href="/wiki/Halo_Legends" title="Halo Legends">Halo Legends</a></i> <span style="font-size:85%;">(animated sequence)</span> (2010)</li>
+<li><i><a href="/wiki/Darker_than_Black" title="Darker than Black">Darker than Black: Gaiden</a></i> (2010)</li>
+<li><i><a href="/wiki/Chaika_-_The_Coffin_Princess" title="Chaika - The Coffin Princess">Chaika - The Coffin Princess</a></i> (2015)</li>
+<li><i><a href="/wiki/Snow_White_with_the_Red_Hair" title="Snow White with the Red Hair">Snow White with the Red Hair</a></i> (2016)</li>
+<li><i><a href="/wiki/Blood_Blockade_Battlefront" title="Blood Blockade Battlefront">Blood Blockade Battlefront</a></i> (2016)</li>
+<li><i><a href="/wiki/My_Hero_Academia" title="My Hero Academia">My Hero Academia</a></i> (2017)</li>
+<li><i><a href="/wiki/Bungo_Stray_Dogs" title="Bungo Stray Dogs">Bungo Stray Dogs</a></i> (2017)</li>
+<li><i><a href="/wiki/A.I.C.O._-Incarnation-" title="A.I.C.O. -Incarnation-">A.I.C.O. -Incarnation-</a></i> (2018)</li>
+<li><i><a href="/wiki/Mob_Psycho_100" title="Mob Psycho 100">Mob Psycho 100 Reigen -The Miraculous Unknown Psychic-</a></i> (2018)</li>
+<li><i><a href="/wiki/Blood_Blockade_Battlefront" title="Blood Blockade Battlefront">Blood Blockade Battlefront &amp; Beyond</a></i> (2018)</li>
+<li><i><a href="/wiki/My_Hero_Academia" title="My Hero Academia">My Hero Academia - All Might: Rising</a></i> (2019)</li>
+<li><i><a href="/wiki/Mob_Psycho_100" title="Mob Psycho 100">Mob Psycho 100: The Spirits and Such Consultation Office's First Company Outing ~A Healing Trip that Warms the Heart~</a></i> (2019)</li>
+<li><i><a class="new" href="/w/index.php?title=Super_Crooks&amp;action=edit&amp;redlink=1" title="Super Crooks (page does not exist)">Super Crooks</a></i> (TBA)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Films</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Escaflowne_(film)" title="Escaflowne (film)">Escaflowne</a></i> (2000)</li>
+<li><i><a href="/wiki/Cowboy_Bebop:_The_Movie" title="Cowboy Bebop: The Movie">Cowboy Bebop: The Movie</a></i> (2001)</li>
+<li><i><a href="/wiki/RahXephon:_Pluralitas_Concentio" title="RahXephon: Pluralitas Concentio">RahXephon: Pluralitas Concentio</a></i> (2003)</li>
+<li><i><a href="/wiki/Fullmetal_Alchemist_the_Movie:_Conqueror_of_Shamballa" title="Fullmetal Alchemist the Movie: Conqueror of Shamballa">Fullmetal Alchemist the Movie: Conqueror of Shamballa</a></i> (2005)</li>
+<li><i><a href="/wiki/Sword_of_the_Stranger" title="Sword of the Stranger">Sword of the Stranger</a></i> (2007)</li>
+<li><i><a href="/wiki/Eureka_Seven" title="Eureka Seven">Eureka Seven: Pocketful of Rainbows</a></i> (2009)</li>
+<li><i><a href="/wiki/Towa_no_Quon" title="Towa no Quon">Towa no Quon</a></i> <span style="font-size:85%;">(film series)</span> (2011)</li>
+<li><i><a href="/wiki/Fullmetal_Alchemist:_The_Sacred_Star_of_Milos" title="Fullmetal Alchemist: The Sacred Star of Milos">Fullmetal Alchemist: The Sacred Star of Milos</a></i> (2011)</li>
+<li><i><a href="/wiki/Un-Go" title="Un-Go">Un-Go episode:0 Inga chapter</a></i> (2011)</li>
+<li><i><a href="/wiki/Star_Driver" title="Star Driver">Star Driver: The Movie</a></i> (2013)</li>
+<li><i><a href="/wiki/Eureka_Seven" title="Eureka Seven">Eureka Seven: Hi-Evolution</a></i> <span style="font-size:85%;">(film series)</span> (2017–2021)</li>
+<li><i><a href="/wiki/Bungo_Stray_Dogs:_Dead_Apple" title="Bungo Stray Dogs: Dead Apple">Bungo Stray Dogs: Dead Apple</a></i> (2018)</li>
+<li><i><a href="/wiki/My_Hero_Academia:_Two_Heroes" title="My Hero Academia: Two Heroes">My Hero Academia: Two Heroes</a></i> (2018)</li>
+<li><i><a class="new" href="/w/index.php?title=My_Hero_Academia:_Heroes_Rising&amp;action=edit&amp;redlink=1" title="My Hero Academia: Heroes Rising (page does not exist)">My Hero Academia: Heroes Rising</a></i> (2019)</li>
+<li><i><a href="/wiki/Josee,_the_Tiger_and_the_Fish" title="Josee, the Tiger and the Fish">Josee, the Tiger and the Fish</a></i> (2020)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Video games</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Robot_Alchemic_Drive" title="Robot Alchemic Drive">Robot Alchemic Drive</a></i> (2002)</li>
+<li><i><a href="/wiki/Fullmetal_Alchemist_and_the_Broken_Angel" title="Fullmetal Alchemist and the Broken Angel">Fullmetal Alchemist and the Broken Angel</a></i> (2003)</li>
+<li><i><a href="/wiki/Fullmetal_Alchemist_2:_Curse_of_the_Crimson_Elixir" title="Fullmetal Alchemist 2: Curse of the Crimson Elixir">Fullmetal Alchemist 2: Curse of the Crimson Elixir</a></i> (2004)</li>
+<li><i><a href="/wiki/Fullmetal_Alchemist_3:_Kami_o_Tsugu_Sh%C5%8Djo" title="Fullmetal Alchemist 3: Kami o Tsugu Shōjo">Fullmetal Alchemist 3: Kami o Tsugu Shōjo</a></i> (2005)</li>
+<li><i><a href="/wiki/Code_of_Princess" title="Code of Princess">Code of Princess</a></i> (2012)</li>
+<li><i><a href="/wiki/Liberation_Maiden" title="Liberation Maiden">Liberation Maiden</a></i> (2012)</li>
+<li><i><a href="/wiki/Professor_Layton_vs._Phoenix_Wright:_Ace_Attorney" title="Professor Layton vs. Phoenix Wright: Ace Attorney">Professor Layton vs. Phoenix Wright: Ace Attorney</a></i> (2012)</li>
+<li><i><a href="/wiki/Phoenix_Wright:_Ace_Attorney_%E2%88%92_Dual_Destinies" title="Phoenix Wright: Ace Attorney − Dual Destinies">Phoenix Wright: Ace Attorney − Dual Destinies</a></i> (2013)</li>
+<li><i><a href="/wiki/Persona_4:_Dancing_All_Night" title="Persona 4: Dancing All Night">Persona 4: Dancing All Night</a></i> (2015)</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Bones_(studio)" title="Category:Bones (studio)">Category</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1247
+Cached time: 20191219121233
+Cache expiry: 3600
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.780 seconds
+Real time usage: 1.202 seconds
+Preprocessor visited node count: 3287/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 71553/2097152 bytes
+Template argument size: 12525/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 42873/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.442/10.000 seconds
+Lua memory usage: 15.85 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1075.224      1 -total
+ 36.14%  388.615      5 Template:Infobox
+ 32.28%  347.122      1 Template:Reflist
+ 28.76%  309.231     14 Template:Cite_web
+ 27.93%  300.275      1 Template:Infobox_animanga/Header
+ 21.17%  227.598      1 Template:Nihongo2
+ 18.69%  200.929      1 Template:Lang
+  7.51%   80.798      1 Template:Short_description
+  6.19%   66.554      1 Template:Infobox_animanga/Video
+  5.40%   58.009      1 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:39752364-0!canonical and timestamp 20191219121231 and revision id 918389657
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tenkai_Knights&amp;oldid=918389657">https://en.wikipedia.org/w/index.php?title=Tenkai_Knights&amp;oldid=918389657</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Anime_series" title="Category:Anime series">Anime series</a></li><li><a href="/wiki/Category:Manga_series" title="Category:Manga series">Manga series</a></li><li><a href="/wiki/Category:2014_manga" title="Category:2014 manga">2014 manga</a></li><li><a href="/wiki/Category:2013_anime_television_series" title="Category:2013 anime television series">2013 anime television series</a></li><li><a href="/wiki/Category:2013_Canadian_television_series_debuts" title="Category:2013 Canadian television series debuts">2013 Canadian television series debuts</a></li><li><a href="/wiki/Category:2014_anime_television_series" title="Category:2014 anime television series">2014 anime television series</a></li><li><a href="/wiki/Category:Anime_with_original_screenplays" title="Category:Anime with original screenplays">Anime with original screenplays</a></li><li><a href="/wiki/Category:Bones_(studio)" title="Category:Bones (studio)">Bones (studio)</a></li><li><a href="/wiki/Category:Canadian_children%27s_animated_action_television_series" title="Category:Canadian children's animated action television series">Canadian children's animated action television series</a></li><li><a href="/wiki/Category:Anime_and_manga_about_parallel_universes" title="Category:Anime and manga about parallel universes">Anime and manga about parallel universes</a></li><li><a href="/wiki/Category:Shogakukan_franchises" title="Category:Shogakukan franchises">Shogakukan franchises</a></li><li><a href="/wiki/Category:Sh%C5%8Dnen_manga" title="Category:Shōnen manga">Shōnen manga</a></li><li><a href="/wiki/Category:Television_series_set_in_the_future" title="Category:Television series set in the future">Television series set in the future</a></li><li><a href="/wiki/Category:Television_series_set_in_the_2030s" title="Category:Television series set in the 2030s">Television series set in the 2030s</a></li><li><a href="/wiki/Category:Television_series_about_shapeshifting" title="Category:Television series about shapeshifting">Television series about shapeshifting</a></li><li><a href="/wiki/Category:TV_Tokyo_shows" title="Category:TV Tokyo shows">TV Tokyo shows</a></li><li><a href="/wiki/Category:2010s_Canadian_animated_television_series" title="Category:2010s Canadian animated television series">2010s Canadian animated television series</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_April_2014" title="Category:Use mdy dates from April 2014">Use mdy dates from April 2014</a></li><li><a href="/wiki/Category:Articles_containing_Japanese-language_text" title="Category:Articles containing Japanese-language text">Articles containing Japanese-language text</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tenkai+Knights" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Tenkai+Knights" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Tenkai_Knights" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Tenkai_Knights" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Tenkai_Knights">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Tenkai_Knights&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Tenkai_Knights&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Tenkai_Knights" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Tenkai_Knights" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tenkai_Knights&amp;oldid=918389657" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tenkai_Knights&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q15883847" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tenkai_Knights&amp;id=918389657" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tenkai+Knights">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tenkai+Knights&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Tenkai_Knights&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%81%D8%B1%D8%B3%D8%A7%D9%86_%D8%A7%D9%84%D8%AA%D9%86%D9%83%D8%A7%D9%8A" hreflang="ar" lang="ar" title="فرسان التنكاي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Tenkai_Knights" hreflang="de" lang="de" title="Tenkai Knights – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Tenkai_Knights" hreflang="es" lang="es" title="Tenkai Knights – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Tenkai_Knights" hreflang="fr" lang="fr" title="Tenkai Knights – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%85%90%EC%B9%B4%EC%9D%B4_%EB%82%98%EC%9D%B4%ED%8A%B8" hreflang="ko" lang="ko" title="텐카이 나이트 – Korean">한국어</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Tenkai_Knights" hreflang="id" lang="id" title="Tenkai Knights – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/I_cavalieri_Tenkai" hreflang="it" lang="it" title="I cavalieri Tenkai – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%82%AB%E3%82%A4%E3%83%8A%E3%82%A4%E3%83%88" hreflang="ja" lang="ja" title="テンカイナイト – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Tenkai_Knights" hreflang="pt" lang="pt" title="Tenkai Knights – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A0%D1%8B%D1%86%D0%B0%D1%80%D0%B8_%D0%A2%D0%B5%D0%BD%D0%BA%D0%B0%D0%B9" hreflang="ru" lang="ru" title="Рыцари Тенкай – Russian">Русский</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%A9%8D%E6%9C%A8%E6%88%B0%E5%A3%AB" hreflang="zh" lang="zh" title="積木戰士 – Chinese">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q15883847#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 28 September 2019, at 12:25<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Tenkai_Knights&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.780","walltime":"1.202","ppvisitednodes":{"value":3287,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":71553,"limit":2097152},"templateargumentsize":{"value":12525,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":42873,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1075.224      1 -total"," 36.14%  388.615      5 Template:Infobox"," 32.28%  347.122      1 Template:Reflist"," 28.76%  309.231     14 Template:Cite_web"," 27.93%  300.275      1 Template:Infobox_animanga/Header"," 21.17%  227.598      1 Template:Nihongo2"," 18.69%  200.929      1 Template:Lang","  7.51%   80.798      1 Template:Short_description","  6.19%   66.554      1 Template:Infobox_animanga/Video","  5.40%   58.009      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.442","limit":"10.000"},"limitreport-memusage":{"value":16616916,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1247","timestamp":"20191219121233","ttl":3600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tenkai Knights","url":"https:\/\/en.wikipedia.org\/wiki\/Tenkai_Knights","sameAs":"http:\/\/www.wikidata.org\/entity\/Q15883847","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q15883847","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-06-23T02:21:28Z","dateModified":"2019-09-28T12:25:03Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/30\/TenkaiKnightsDVD1.jpg","headline":"2013 Canadian Japanese anime series, produced by Shogakukan-Shueisha Productions and Spin Master and animated by Bones and Shogakukan Music & Digital Entertainment"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":130,"wgHostname":"mw1249"});});</script>
+
+
+</body></html>

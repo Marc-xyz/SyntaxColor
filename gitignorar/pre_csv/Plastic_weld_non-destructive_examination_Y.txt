@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Plastic weld non-destructive examination - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xft-AgpAAEIAAFwGYgQAAADU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Plastic_weld_non-destructive_examination","wgTitle":"Plastic weld non-destructive examination","wgCurRevisionId":921751001,"wgRevisionId":921751001,"wgArticleId":60061507,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: multiple names: authors list","Orphaned articles from October 2019","All orphaned articles","Quality assurance"],"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Plastic_weld_non-destructive_examination","wgRelevantArticleId":60061507,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q65076892","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
+"ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Plastic_weld_non-destructive_examination" rel="alternate"/>
+<link href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Plastic_weld_non-destructive_examination" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Plastic_weld_non-destructive_examination rootpage-Plastic_weld_non-destructive_examination skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Plastic weld non-destructive examination</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="box-Orphan plainlinks metadata ambox ambox-style ambox-Orphan" role="presentation" style="display: none"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Wiki_letter_w.svg"><img alt="Wiki letter w.svg" data-file-height="44" data-file-width="44" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" width="40"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>is an <a href="/wiki/Wikipedia:Orphan" title="Wikipedia:Orphan">orphan</a>, as no other articles <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:Whatlinkshere&amp;target=Plastic_weld_non-destructive_examination&amp;namespace=0">link to it</a></b>. Please <a href="/wiki/Help:Link" title="Help:Link">introduce links</a> to this page from <span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;redirs=1&amp;search=Plastic+weld+non-destructive+examination&amp;fulltext=Search&amp;ns0=1&amp;title=Special%3ASearch&amp;advanced=1&amp;fulltext=Plastic+weld+non-destructive+examination">related articles</a></span>; try the <a class="external text" href="//edwardbetts.com/find_link?q=Plastic_weld_non-destructive_examination" rel="nofollow">Find link tool</a> for suggestions.  <small class="date-container"><i>(<span class="date">October 2019</span>)</i></small></div></td></tr></tbody></table>
+<p>A variety of <a href="/wiki/Nondestructive_testing" title="Nondestructive testing">non-destructive examination</a> (NDE) techniques are available for inspecting plastic welds.  Many of these techniques are similar to the ones used for inspecting metal welds.  Traditional techniques include visual testing, radiography, and various ultrasonic techniques.<sup class="reference" id="cite_ref-:0_1-0"><a href="#cite_note-:0-1">[1]</a></sup>  Advanced ultrasonic techniques such as time of flight diffraction (<a href="/wiki/Time-of-flight_diffraction_ultrasonics" title="Time-of-flight diffraction ultrasonics">TOFD</a>) and phased-array ultrasonics (PAUT) are being increasingly studied and used for inspecting plastic pipeline welds.<sup class="reference" id="cite_ref-:1_2-0"><a href="#cite_note-:1-2">[2]</a></sup> Research in the use of <a href="/wiki/Optical_coherence_tomography" title="Optical coherence tomography">optical coherence tomography</a> (OCT) and microwave reflectrometry has also been conducted.<sup class="reference" id="cite_ref-:5_3-0"><a href="#cite_note-:5-3">[3]</a></sup><sup class="reference" id="cite_ref-:2_4-0"><a href="#cite_note-:2-4">[4]</a></sup>
+</p><p>The main purpose of NDE is to detect defects in the weld and the joint fit-up.  Examples include joint mismatch, cracks, porosity, voids, inclusions, lack of penetration and lack of fusion (cold joints).  However, the lack of defects does not necessarily mean the weld is adequate and thus NDE does not provide a good indication of weld strength, long term performance, or its ability to handle cyclic loading.<sup class="reference" id="cite_ref-:0_1-1"><a href="#cite_note-:0-1">[1]</a></sup>  Although destructive testing gives a better indication of actual joint strength, it's impractical to use on production welds since the sample is destroyed.  Hence, the need to use and develop NDE techniques to ensure sound welds are being produced during production welding.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Visual_Testing_(VT)"><span class="tocnumber">1</span> <span class="toctext">Visual Testing (VT)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Leak_Testing"><span class="tocnumber">2</span> <span class="toctext">Leak Testing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Radiography_(RT)"><span class="tocnumber">3</span> <span class="toctext">Radiography (RT)</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ultrasonic_Inspection"><span class="tocnumber">4</span> <span class="toctext">Ultrasonic Inspection</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Inspection_of_polyethylene_pipe_in_nuclear_power_plants"><span class="tocnumber">4.1</span> <span class="toctext">Inspection of polyethylene pipe in nuclear power plants</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Microwave_Reflectometry"><span class="tocnumber">5</span> <span class="toctext">Microwave Reflectometry</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Optical_Coherence_Tomography_(OCT)"><span class="tocnumber">6</span> <span class="toctext">Optical Coherence Tomography (OCT)</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Visual_Testing_.28VT.29"></span><span class="mw-headline" id="Visual_Testing_(VT)">Visual Testing (VT)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;action=edit&amp;section=1" title="Edit section: Visual Testing (VT)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Visual testing is one of the most basic and inexpensive methods.<sup class="reference" id="cite_ref-:0_1-2"><a href="#cite_note-:0-1">[1]</a></sup>  It consists of a technician visually observing the joint and comparing it to a set of acceptance criteria based on code of construction.  Its use is mainly limited to joint fit-up and detecting surface breaking flaws.  It can be done as an in-process inspection, while the welding is occurring, or on the completed weld.  In-process inspections can show problems with the weld such as discoloration, indicating thermal degradation, bubbles, scratches, and weld bead problems.  Visual inspection of the completed weld can detect joint fit-up and tool problems such as mismatch, angular misalignment, notches, and insufficient weld size as well as surface breaking weld defects like porosity, cracks, and excessive flash.  As with most NDE techniques, technical training, experience, and skill is important for a successful inspection.
+</p>
+<h2><span class="mw-headline" id="Leak_Testing">Leak Testing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;action=edit&amp;section=2" title="Edit section: Leak Testing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Leak testing is commonly used for piping and pressure vessels due to the safety, reliability, or environment consequences of a leak once in service.<sup class="reference" id="cite_ref-:0_1-3"><a href="#cite_note-:0-1">[1]</a></sup>  The part to be tested is filled with water, air, or other type of fluid.  Depending on the application, testing can be done at atmospheric pressure, under a positive pressure, or under vacuum.  Evidence of leak can either be visual or by observing a change in pressure.  When positive pressure is used, testing with non-compressible fluids is safer than using a gas.  Gasses under pressure contain a significantly higher amount of stored energy than liquids and a rupture can pose a significant safety risk.
+</p>
+<h2><span id="Radiography_.28RT.29"></span><span class="mw-headline" id="Radiography_(RT)">Radiography (RT)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;action=edit&amp;section=3" title="Edit section: Radiography (RT)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Radiography uses an X-ray tube or radioactive source to give an image of the weld.  Its use is similar to metal welds and provides a volumetric inspection which can show defects in the weld not visible from the surface.  For plastics, a lower radiation intensity is typically required than that for metal welds, due to the lower material density.<sup class="reference" id="cite_ref-:0_1-4"><a href="#cite_note-:0-1">[1]</a></sup>  Because of the higher cost, it's typically only used in critical applications like pipelines and not for commercial products.
+</p>
+<h2><span class="mw-headline" id="Ultrasonic_Inspection">Ultrasonic Inspection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;action=edit&amp;section=4" title="Edit section: Ultrasonic Inspection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Various forms of ultrasonic inspection are used for plastic welds.  Plastics have higher attenuation and a lower sound velocity compared to metals which can make these techniques more challenging.<sup class="reference" id="cite_ref-:1_2-1"><a href="#cite_note-:1-2">[2]</a></sup>  In 2010, a joint European project, TestPEP, was started to develop and validate ultrasonic NDE techniques on plastic welded pipe.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>  The use of plastic pipe is limited in safety critical applications due to the lack of accepted NDE techniques and acceptance criteria.  For butt welded plastic pipe, TestPEP proposed the use three different ultrasonic techniques.  TOFD with PAUT probes to inspect the majority of the weld, traditional PAUT to look for flaws in the middle of the fusion zone, and a creeping wave to inspect the top of the weld.<sup class="reference" id="cite_ref-:1_2-2"><a href="#cite_note-:1-2">[2]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Inspection_of_polyethylene_pipe_in_nuclear_power_plants">Inspection of polyethylene pipe in nuclear power plants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;action=edit&amp;section=5" title="Edit section: Inspection of polyethylene pipe in nuclear power plants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One area that has driven research on NDE of plastic welds is the use of <a href="/wiki/High-density_polyethylene" title="High-density polyethylene">High-density polyethylene</a> (HDPE) in nuclear power plants.  Metal piping has traditionally been used for cooling water piping; however, HDPE offers significant advantages due to its significantly longer service life and its strength to weight ratio.<sup class="reference" id="cite_ref-:3_6-0"><a href="#cite_note-:3-6">[6]</a></sup>  ASME Code Case N-755 covers the use of HDPE in Class 3 safety related piping; however it has not been endorsed by the US Nuclear Regulatory Commission (NRC).<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>  One of the concerns is that although N-755 requires that NDE be conducted on pipe welds, it does not specify the method or acceptance criteria.<sup class="reference" id="cite_ref-:3_6-1"><a href="#cite_note-:3-6">[6]</a></sup>  In 2009, the NRC began to allow the use of HDPE in safety related applications, but on a case by case basis with NRC approval.
+</p><p>In 2008, the Pacific Northwest National Laboratory published a report based on a project sponsored by the NCR to study NDE techniques for HDPE welds.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Microwave_Reflectometry">Microwave Reflectometry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;action=edit&amp;section=6" title="Edit section: Microwave Reflectometry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Research in the use of <a href="/wiki/Microwave" title="Microwave">Microwaves</a> (electromagnetic radiation in the frequency range of 300 MHz to 300 GHz) has been conducted on HDPE piping to inspect the fusion welds<sup class="reference" id="cite_ref-:4_9-0"><a href="#cite_note-:4-9">[9]</a></sup> as well as to scan the pipe wall via an internal crawler to find defects (similar to pipeline <a href="/wiki/Pigging" title="Pigging">pigging</a>).<sup class="reference" id="cite_ref-:2_4-1"><a href="#cite_note-:2-4">[4]</a></sup>  Microwave reflectometry works similar to ultrasonic inspection techniques in that the microwaves are reflected back towards the source (backscattered) as they pass through materials with different permittivity or encounter defects such as voids and cracks.
+</p><p>Zhu <i>et al.</i><sup class="reference" id="cite_ref-:4_9-1"><a href="#cite_note-:4-9">[9]</a></sup> experimented with the use of a 21.6 GHz probe to scan the fusion butt welds of HDPE pipe.  They compared a reference scan of a good weld with scans of welds with lack of fusion and cold welds.  These types of weld defects can be difficult to detect since they don't necessarily result in laminations that would strongly reflect a signal.  The defective welds were made by adding various delay times between the end of heating and start of fusion as well as welding with low temperature and pressure.  In the scan images, the good weld appeared as a uniform line.  The defective welds exhibited various discontinuities and a non-uniform appearance.  Mechanical testing of the welds showed a marked decrease in properties, with reductions in the yield stress of one-third to one-half the value of the good weld.  Their research did not include the development of quantitative acceptance criteria which would be needed for use in production applications.
+</p><p>Carrigan <i>et al.</i><sup class="reference" id="cite_ref-:2_4-2"><a href="#cite_note-:2-4">[4]</a></sup> used a pipe crawler operating in the <i>K</i>-band frequency range (18-16.5 GHz) to inspect HDPE pipe for various defects that would be commonly found in buried and undersea pipelines.  Three types of set-ups were used to model the conditions of above ground pipelines, plastic lined metal pipe, and undersea pipelines.  Defects were modeled using notches and holes in the outside of the pipe.  The crawler was design with the microwave probes on a rotating head and sensors on the wheels to measure travel distance of the crawler.  They were able to identify 1mm wide and 1mm deep defects on a 9.8 mm thick pipe wall for the above ground and undersea set-ups.  However, they were unable to identify small defects in the plastic lined metal pipe due to the strong reflection from the metal.  They also found that the probe frequency, standoff distance from the pipe wall, and orientation of the probe played a significant role in the ability to identify defects.
+</p>
+<h2><span id="Optical_Coherence_Tomography_.28OCT.29"></span><span class="mw-headline" id="Optical_Coherence_Tomography_(OCT)">Optical Coherence Tomography (OCT)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;action=edit&amp;section=7" title="Edit section: Optical Coherence Tomography (OCT)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Optical_coherence_tomography" title="Optical coherence tomography">OCT</a> has traditionally been used in the medical field but has found increased use in industrial NDE applications.  <i>K. Kim et al.</i><sup class="reference" id="cite_ref-:5_3-1"><a href="#cite_note-:5-3">[3]</a></sup> studied its ability to identify weld defects in laser welding polycarbonate to acrylonitrile butadiene styrene copolymer.  They used the maximum laser intensity of the system (10 times that required) in order to obtain a perfectly welded region and an imperfectively welded region.  During laser welding, air bubbles can form and cause a degradation in the mechanical properties of the joint.  Current inspection techniques are limited to finding air bubbles on the surface of the weld (optical and scanning electron microscopy).  Destructive testing is usually required to find volumetric flaws.  A 840-nm SD-OCT system with a broad band laser was used to scan the laser weld between the two samples.  800 A-scans were used to create a 2D image and 1000 images were put together to make the final 3D image.  By looking at the border region between the perfect and imperfect weld, they were able to evaluate the effectiveness of OCT in finding weld defects.  Air bubbles were visually apparent in the imperfectly welded region.  The cross section of the 3D always showed a distinct difference between the perfectly welded region and the border region and the gap between sample in the non-welded region could easily be seen.  By slicing the 3D image in different planes, additional quality information was obtained on the size and distribution of the various flaws.  Since this in an optical inspection technique, its use is limited in materials that allow laser light to be transmitted through it.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:0_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Grewell, Benetar, Park (2003). <i>Plastics and Composites Welding Handbook</i>. Hanser Gardener Publications. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-56990-313-1" title="Special:BookSources/1-56990-313-1"><bdi>1-56990-313-1</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Plastics+and+Composites+Welding+Handbook&amp;rft.pub=Hanser+Gardener+Publications&amp;rft.date=2003&amp;rft.isbn=1-56990-313-1&amp;rft.au=Grewell%2C+Benetar%2C+Park&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlastic+weld+non-destructive+examination"></span><span class="cs1-maint citation-comment">CS1 maint: multiple names: authors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">link</a>)</span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-:1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:1_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Hagglund F, Spicer M, Troughton M. Development and validation of an automated non-destructive evaluation (NDE) approach for testing welded joints in plastic pipes. <i>Insight (Northampton)</i>. 04/2011;53(4):201-204.  doi: 10.1784/insi.2011.53.4.201.</span>
+</li>
+<li id="cite_note-:5-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:5_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:5_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Kim K, Kim P, Lee J, Kim S, Park S. Non-destructive identification of weld-boundary and porosity formation during laser transmission welding by using optical coherence tomography. <i>IEEE access</i>. 2018;6:76768-76775.  doi: 10.1109/ACCESS.2018.2882527</span>
+</li>
+<li id="cite_note-:2-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:2_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Carrigan TD, Forrest BE, Andem HN, Gui K, Johnson L. Nondestructive testing of nonmetallic pipelines using microwave reflectometry on an in-line inspection robot. <i>IEEE transactions on instrumentation and measurement</i>. 02/2019;68(2):586-594.  doi: 10.1109/TIM.2018.2847780</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.testpep.eu/home/" rel="nofollow">"Home - TestPEP"</a>. <i>www.testpep.eu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-02-24</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.testpep.eu&amp;rft.atitle=Home+-+TestPEP&amp;rft_id=http%3A%2F%2Fwww.testpep.eu%2Fhome%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlastic+weld+non-destructive+examination"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:3-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-:3_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:3_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Zheng J, Zhang Y, Hou D, Qin Y, Guo W. A review of nondestructive examination technology for polyethylene pipe in nuclear power plant. <i>Frontiers of Mechanical Engineering</i>. 12/2018;13(4):535-545.  doi: 10.1007/s11465-018-0515-9.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.nrc.gov/public-involve/conference-symposia/ric/past/2011/docs/posters/04-hdpe-piping-final.pdf" rel="nofollow">"High Density Polyethylene (HDPE) Buried Piping for Class 3 Safety-Related Applications"</a> <span class="cs1-format">(PDF)</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=High+Density+Polyethylene+%28HDPE%29+Buried+Piping+for+Class+3+Safety-Related+Applications&amp;rft_id=https%3A%2F%2Fwww.nrc.gov%2Fpublic-involve%2Fconference-symposia%2Fric%2Fpast%2F2011%2Fdocs%2Fposters%2F04-hdpe-piping-final.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlastic+weld+non-destructive+examination"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-17584.pdf" rel="nofollow">"Preliminary Assessment of NDE Methods on Inspection of HDPE Butt Fusion Piping Joints for Lack of Fusion"</a> <span class="cs1-format">(PDF)</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Preliminary+Assessment+of+NDE+Methods+on+Inspection+of+HDPE+Butt+Fusion+Piping+Joints+for+Lack+of+Fusion&amp;rft_id=https%3A%2F%2Fwww.pnnl.gov%2Fmain%2Fpublications%2Fexternal%2Ftechnical_reports%2FPNNL-17584.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlastic+weld+non-destructive+examination"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:4-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-:4_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:4_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Zhu, X. W., Pan, J., &amp; Tan, L. (07/2013). <i>Microwave scan inspection of HDPE piping thermal fusion welds for lack of fusion defect</i> TRANS TECH PUBLICATIONS LTD. doi:10.4028/www.scientific.net/AMM.333-335.1523</span>
+</li>
+</ol></div></div>
+<p><br/>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20191219101015
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.168 seconds
+Real time usage: 0.226 seconds
+Preprocessor visited node count: 454/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 13219/2097152 bytes
+Template argument size: 1228/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15672/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 2.56 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  205.408      1 -total
+ 57.66%  118.440      1 Template:Reflist
+ 40.95%   84.107      1 Template:Cite_book
+ 35.88%   73.691      1 Template:Orphan
+ 23.62%   48.508      1 Template:Draft_other
+ 22.13%   45.462      1 Template:Ambox
+  6.40%   13.150      3 Template:Cite_web
+  1.24%    2.546      1 Template:Main_other
+  1.21%    2.493      2 Template:PAGENAMEU
+  1.20%    2.458      1 Template:Monthyear-1
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:60061507-0!canonical and timestamp 20191219101015 and revision id 921751001
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Plastic_weld_non-destructive_examination&amp;oldid=921751001">https://en.wikipedia.org/w/index.php?title=Plastic_weld_non-destructive_examination&amp;oldid=921751001</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Quality_assurance" title="Category:Quality assurance">Quality assurance</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">CS1 maint: multiple names: authors list</a></li><li><a href="/wiki/Category:Orphaned_articles_from_October_2019" title="Category:Orphaned articles from October 2019">Orphaned articles from October 2019</a></li><li><a href="/wiki/Category:All_orphaned_articles" title="Category:All orphaned articles">All orphaned articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Plastic+weld+non-destructive+examination" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Plastic+weld+non-destructive+examination" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Plastic_weld_non-destructive_examination" title="View the content page [c]">Article</a></li><li class="new" id="ca-talk"><a accesskey="t" href="/w/index.php?title=Talk:Plastic_weld_non-destructive_examination&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Plastic_weld_non-destructive_examination">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Plastic_weld_non-destructive_examination" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Plastic_weld_non-destructive_examination" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;oldid=921751001" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q65076892" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Plastic_weld_non-destructive_examination&amp;id=921751001" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Plastic+weld+non-destructive+examination">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Plastic+weld+non-destructive+examination&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Plastic_weld_non-destructive_examination&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q65076892#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 17 October 2019, at 17:34<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Plastic_weld_non-destructive_examination&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.168","walltime":"0.226","ppvisitednodes":{"value":454,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":13219,"limit":2097152},"templateargumentsize":{"value":1228,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15672,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  205.408      1 -total"," 57.66%  118.440      1 Template:Reflist"," 40.95%   84.107      1 Template:Cite_book"," 35.88%   73.691      1 Template:Orphan"," 23.62%   48.508      1 Template:Draft_other"," 22.13%   45.462      1 Template:Ambox","  6.40%   13.150      3 Template:Cite_web","  1.24%    2.546      1 Template:Main_other","  1.21%    2.493      2 Template:PAGENAMEU","  1.20%    2.458      1 Template:Monthyear-1"]},"scribunto":{"limitreport-timeusage":{"value":"0.090","limit":"10.000"},"limitreport-memusage":{"value":2680154,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20191219101015","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Plastic weld non-destructive examination","url":"https:\/\/en.wikipedia.org\/wiki\/Plastic_weld_non-destructive_examination","sameAs":"http:\/\/www.wikidata.org\/entity\/Q65076892","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q65076892","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2019-02-24T18:00:06Z","dateModified":"2019-10-17T17:34:33Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":127,"wgHostname":"mw1271"});});</script>
+
+
+</body></html>

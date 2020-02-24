@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Andris Biedriņš - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfrTJQpAICsAAKlawNMAAAAA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Andris_Biedriņš","wgTitle":"Andris Biedriņš","wgCurRevisionId":928283602,"wgRevisionId":928283602,"wgArticleId":1640462,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template webcite links","Webarchive template wayback links","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1986 births","Living people",
+"Centers (basketball)","Golden State Warriors draft picks","Golden State Warriors players","Latvian men's basketball players","Latvian expatriate basketball people in the United States","National Basketball Association players from Latvia","Sportspeople from Riga","Utah Jazz players"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Andris_Biedriņš","wgRelevantArticleId":1640462,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":
+"Q380812","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice",
+"ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Andris_Biedrins_cropped.jpg/1200px-Andris_Biedrins_cropped.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Andris_Biedri%C5%86%C5%A1" rel="alternate"/>
+<link href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Andris_Biedri%C5%86%C5%A1" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Andris_Biedriņš rootpage-Andris_Biedriņš skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Andris Biedriņš</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em;width:26em"><caption class="fn summary">Andris Biedriņš</caption><tbody><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Andris_Biedrins_cropped.jpg"><img alt="Andris Biedrins cropped.jpg" data-file-height="1978" data-file-width="1460" decoding="async" height="298" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Andris_Biedrins_cropped.jpg/220px-Andris_Biedrins_cropped.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Andris_Biedrins_cropped.jpg/330px-Andris_Biedrins_cropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Andris_Biedrins_cropped.jpg/440px-Andris_Biedrins_cropped.jpg 2x" width="220"/></a><div>Biedriņš with the Warriors</div></td></tr><tr><th colspan="2" style="text-align:center;background-color:#DCDCDC;color:#000000;border:2.5px solid #DCDCDC;">Personal information</th></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1986-04-02</span>) </span>April 2, 1986<span class="noprint ForceAgeToShow"> (age 33)</span><br/><a href="/wiki/Riga" title="Riga">Riga</a>, <a class="mw-redirect" href="/wiki/Latvian_SSR" title="Latvian SSR">Latvian SSR</a>, <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a></td></tr><tr><th scope="row">Nationality</th><td>Latvian</td></tr><tr><th scope="row">Listed height</th><td>7 ft 0 in (2.13 m)</td></tr><tr><th scope="row">Listed weight</th><td>250 lb (113 kg)</td></tr><tr><th colspan="2" style="text-align:center;background-color:#DCDCDC;color:#000000;border:2.5px solid #DCDCDC;">Career information</th></tr><tr><th scope="row"><a href="/wiki/NBA_draft" title="NBA draft">NBA draft</a></th><td><a href="/wiki/2004_NBA_draft" title="2004 NBA draft">2004</a> / Round: 1 / Pick: 11th overall</td></tr><tr><td colspan="2" style="text-align:center">Selected by the <a href="/wiki/Golden_State_Warriors" title="Golden State Warriors">Golden State Warriors</a></td></tr><tr><th scope="row">Playing career</th><td>2002–2014</td></tr><tr><th scope="row">Position</th><td><a href="/wiki/Center_(basketball)" title="Center (basketball)">Center</a></td></tr><tr><th scope="row">Number</th><td>15, 11</td></tr><tr><th colspan="2" style="text-align:center;background-color:#DCDCDC;color:#000000;border:2.5px solid #DCDCDC;">Career history</th></tr><tr><th scope="row" style="font-weight: normal;">2002–2004</th><td style="line-height: 1.2em;text-align: left;"><a href="/wiki/BK_Skonto" title="BK Skonto">BK Skonto</a></td></tr><tr><th scope="row" style="font-weight: normal;"><a href="/wiki/2004%E2%80%9305_NBA_season" title="2004–05 NBA season">2004</a>–<a href="/wiki/2012%E2%80%9313_NBA_season" title="2012–13 NBA season">2013</a></th><td style="line-height: 1.2em;text-align: left;"><a href="/wiki/Golden_State_Warriors" title="Golden State Warriors">Golden State Warriors</a></td></tr><tr><th scope="row" style="font-weight: normal;"><a href="/wiki/2013%E2%80%9314_NBA_season" title="2013–14 NBA season">2013–2014</a></th><td style="line-height: 1.2em;text-align: left;"><a href="/wiki/Utah_Jazz" title="Utah Jazz">Utah Jazz</a></td></tr><tr style="display:none"><th colspan="2">
+</th></tr><tr><td colspan="2" style="text-align:center"><span style="font-weight:bold"></span></td></tr><tr><td colspan="2" style="text-align:center"><span style="font-weight:bold"><a class="external text" href="https://www.basketball-reference.com/players/b/biedran01.html" rel="nofollow">Stats</a> at Basketball-Reference.com</span></td></tr></tbody></table>
+<p><b>Andris Biedriņš</b> (<small>Latvian pronunciation: </small><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA/Latvian" title="Help:IPA/Latvian">[ˈɐndris ˈbiædriɲʃ]</a></span>; born April 2, 1986) is a Latvian former professional <a href="/wiki/Basketball" title="Basketball">basketball</a> player. He was drafted by the <a href="/wiki/Golden_State_Warriors" title="Golden State Warriors">Golden State Warriors</a> with the 11th overall pick in the <a href="/wiki/2004_NBA_draft" title="2004 NBA draft">2004 NBA draft</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#European_career"><span class="tocnumber">1</span> <span class="toctext">European career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#NBA_career"><span class="tocnumber">2</span> <span class="toctext">NBA career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Golden_State_Warriors"><span class="tocnumber">2.1</span> <span class="toctext">Golden State Warriors</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#2006–2007"><span class="tocnumber">2.1.1</span> <span class="toctext">2006–2007</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#2008–2009"><span class="tocnumber">2.1.2</span> <span class="toctext">2008–2009</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#2009–2010"><span class="tocnumber">2.1.3</span> <span class="toctext">2009–2010</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#2010–2011"><span class="tocnumber">2.1.4</span> <span class="toctext">2010–2011</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#2011–2012"><span class="tocnumber">2.1.5</span> <span class="toctext">2011–2012</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#2012–2013"><span class="tocnumber">2.1.6</span> <span class="toctext">2012–2013</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Utah_Jazz"><span class="tocnumber">2.2</span> <span class="toctext">Utah Jazz</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#National_team_career"><span class="tocnumber">3</span> <span class="toctext">National team career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#International_stats"><span class="tocnumber">3.1</span> <span class="toctext">International stats</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Personal_life"><span class="tocnumber">4</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#NBA_career_statistics"><span class="tocnumber">5</span> <span class="toctext">NBA career statistics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Regular_season"><span class="tocnumber">5.1</span> <span class="toctext">Regular season</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Playoffs"><span class="tocnumber">5.2</span> <span class="toctext">Playoffs</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="European_career">European career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=1" title="Edit section: European career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Biedriņš's professional career started at the Latvian team <a href="/wiki/BK_Skonto" title="BK Skonto">BK Skonto</a> in the 2002–03 season, when he joined at age 16. He soon established himself as an impact player, appearing in 41 LBL games, averaging 2.9 points, 4.6 rebounds and 1.32 blocks, while shooting 59.8% from the field. For his feats, he was named Latvian League Newcomer of the Year. In eleven games for the <a class="mw-redirect" href="/wiki/International_Basketball_Federation" title="International Basketball Federation">FIBA</a> <a href="/wiki/Europe" title="Europe">European</a> league (2003–2004), he averaged 18.6 points, 8.2 rebounds and 1.82 blocks. In his second year, Biedriņš appeared in 28 LBL games, averaging 18.0 points, 8.9 rebounds, 1.3 assists and 1.86 blocks, while shooting 61.5% from the field.<sup class="reference" id="cite_ref-nbabio_1-0"><a href="#cite_note-nbabio-1">[1]</a></sup> After that season, Biedriņš made himself eligible for the 2004 NBA draft.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="NBA_career">NBA career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=2" title="Edit section: NBA career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Golden_State_Warriors">Golden State Warriors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=3" title="Edit section: Golden State Warriors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Biedriņš was drafted as the 11th pick in the first round by the Golden State Warriors. In his <a href="/wiki/Rookie" title="Rookie">rookie</a> season (<a class="mw-redirect" href="/wiki/2004-05_NBA_season" title="2004-05 NBA season">2004–05</a>), Biedriņš got little playing time, and often quickly got into foul trouble (3.6 points, 3.9 rebounds, 0.8 blocks and 2.9 fouls in 12.8 minutes, total 30 games).<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> He also was the youngest player in the league during his rookie year as he was 18 years old at the time.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> In his second year, the 2005–06 season, Biedriņš played in 68 games, posting 3.8 points and 4.2 rebounds, with 14.1 minutes per game. However, he failed to improve much, and was ridiculed for his poor free throw percentage (.306)<sup class="reference" id="cite_ref-nbastats_5-0"><a href="#cite_note-nbastats-5">[5]</a></sup> and his inability to stay out of foul trouble, committing 190 fouls in exactly 1,000 minutes of playing time.<sup class="reference" id="cite_ref-nbastats_5-1"><a href="#cite_note-nbastats-5">[5]</a></sup> The Golden State fan base was not kind to the sophomore; he was called "The One Minute Man" by the Golden State Warriors blog for his alleged inability to play without a foul for longer than these 60 seconds.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Biedriņš made some news when he was involved in a car accident on his way to a home game on the <a href="/wiki/Interstate_880_(California)" title="Interstate 880 (California)">880 freeway</a> in <a href="/wiki/Oakland,_California" title="Oakland, California">Oakland</a>. His <a href="/wiki/Porsche" title="Porsche">Porsche</a> <a href="/wiki/Porsche_Cayenne" title="Porsche Cayenne">Cayenne Turbo</a> was totalled in the accident, and he missed that night's game and the next game due to <a class="mw-redirect" href="/wiki/Back_spasm" title="Back spasm">back spasms</a>.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<h4><span id="2006.E2.80.932007"></span><span class="mw-headline" id="2006–2007">2006–2007</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=4" title="Edit section: 2006–2007">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In his third year, Biedriņš got a lucky break when the Warriors decided to replace coach <a href="/wiki/Mike_Montgomery" title="Mike Montgomery">Mike Montgomery</a> with ex-<a href="/wiki/Dallas_Mavericks" title="Dallas Mavericks">Dallas Mavericks</a> coach <a href="/wiki/Don_Nelson" title="Don Nelson">Don Nelson</a>, elected one of the <a href="/wiki/50_Greatest_Players_in_NBA_History#Coaches" title="50 Greatest Players in NBA History">NBA's "Greatest Coaches of All Time."</a> Nelson needed just five games to bench the Warriors' center <a href="/wiki/Adonal_Foyle" title="Adonal Foyle">Adonal Foyle</a> and give Biedriņš the starting spot at center, calling him "the best big man I've got." Biedriņš thrived in his new role, posting impressive averages of 10.3 points on an incredible .621 field goal percentage (1st in the NBA), 9.5 rebounds and 1.9 blocks per game and earning himself 28.9 minutes of playing time.<sup class="reference" id="cite_ref-nba.com_8-0"><a href="#cite_note-nba.com-8">[8]</a></sup> His breakthrough game came in November 2006, when the Warriors beat the title favorites <a href="/wiki/San_Antonio_Spurs" title="San Antonio Spurs">San Antonio Spurs</a> 119–111. In this game, Biedriņš asserted himself against Spurs superstar <a href="/wiki/Tim_Duncan" title="Tim Duncan">Tim Duncan</a>, only being narrowly outscored 18–22 and outrebounded 15–16,<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> but did block six shots, including three straight shot attempts by Duncan in the third quarter.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> During this season he set career highs in points (31 vs Denver 24 November 2006), rebounds (18 vs Charlotte 2 March 2007), blocks (7 vs Denver 22 November 2006), assists (5 vs Washington 23 March 2007) and steals (5 vs Lakers 22 January 2007). He also finished fifth in <a href="/wiki/NBA_Most_Improved_Player_Award" title="NBA Most Improved Player Award">Most Improved Player</a> voting, losing to teammate <a href="/wiki/Monta_Ellis" title="Monta Ellis">Monta Ellis</a>.
+</p>
+<h4><span id="2008.E2.80.932009"></span><span class="mw-headline" id="2008–2009">2008–2009</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=5" title="Edit section: 2008–2009">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In July 2008, Biedriņš agreed to a new six-year contract for $54 million ($62 million including incentives) with the Golden State Warriors. The final year was a player option, which if exercised would keep him a Warrior until 2014.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> Biedriņš was named co-captain alongside Stephen Jackson. On January 27, Biedriņš pulled down a career high 26 rebounds against <a href="/wiki/New_York_Knicks" title="New York Knicks">New York</a>. He had set a career high in assists on December 19 against <a href="/wiki/Atlanta_Hawks" title="Atlanta Hawks">Atlanta</a> with six. For the season, Biedriņš set career highs in points (11.9), rebounds (11.2), assists (two) and blocked shots (1.6) per game, starting in 58 of the 62 games in which he appeared.
+</p>
+<h4><span id="2009.E2.80.932010"></span><span class="mw-headline" id="2009–2010">2009–2010</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=6" title="Edit section: 2009–2010">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the 2009–10 season, Biedriņš appeared in only 33 games, starting 29, and was limited to 23.1 minutes per game, his lowest since his second season in the league (2005–2006). Injuries played a big role, as he was derailed with back and groin ailments that made him miss weeks at a time before he finally had groin surgery on March 10, ending his season. Biedriņš' free-throw percentage had dropped from 62% in 2007–08 to 55.1% in 2008–09; in 2009–10, he shot an appalling four-for-25 (16%). His other numbers dropped precipitously as well—five points, 7.8 rebounds and 1.3 blocks per game after career highs in all these stats in 2008–09. Additionally, Warriors coach Don Nelson repeatedly criticized Biedriņš for his lack of intensity and aggressiveness in his time on the floor. Biedriņš capped of the off-season by criticizing the team during an interview in his native Latvia.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<h4><span id="2010.E2.80.932011"></span><span class="mw-headline" id="2010–2011">2010–2011</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=7" title="Edit section: 2010–2011">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The 2010–2011 season may have begun with some renewed hope for a resurgence of Biedriņš, as 2009–10 coach Don Nelson was fired and the potential existed for new head coach <a href="/wiki/Keith_Smart" title="Keith Smart">Keith Smart</a> to unleash and reinvigorate the center's fragile confidence. Early returns were promising, as Biedriņš had several games in the early season with rebounding numbers at or around double-digits while averaging around thirty minutes per game, including 20 rebounds in a November 5 victory over the <a href="/wiki/Utah_Jazz" title="Utah Jazz">Utah Jazz</a>, 28 points and 20 rebounds in a November 26 loss to the <a href="/wiki/Memphis_Grizzlies" title="Memphis Grizzlies">Memphis Grizzlies</a>, and 18 rebounds in a November 30 loss to the <a href="/wiki/San_Antonio_Spurs" title="San Antonio Spurs">San Antonio Spurs</a>. However, the injury bug bit again, derailing Biedriņš from mid-December 2010 to early January 2011, and once again he found it difficult to regain his previous form. Biedriņš's slumping play and persistent foul issues convinced Smart to bench him in favor of rookie <a href="/wiki/Ekpe_Udoh" title="Ekpe Udoh">Ekpe Udoh</a> for four games in March. He was reinstated into the starting lineup for five games until spraining his ankle on March 16, resulting in his being sidelined for the remainder of the season. Biedriņš's averages for the 2010–11 season amounted to five points, 7.2 rebounds and 0.9 blocks (both a drop from 2009–10) on 53.4% field goal shooting and a modestly improved 32.3% free throw accuracy.
+</p>
+<h4><span id="2011.E2.80.932012"></span><span class="mw-headline" id="2011–2012">2011–2012</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=8" title="Edit section: 2011–2012">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the wake of the lockout which took away much of the 2011 NBA offseason and shortened the league's schedule considerably, the Warriors made a push to acquire restricted free agent <a href="/wiki/DeAndre_Jordan" title="DeAndre Jordan">DeAndre Jordan</a>, who would have automatically taken over as the starting center for Golden State. Biedriņš might have been a logical amnesty candidate under the provisions of the NBA's new collective bargaining agreement, but the Warriors instead chose to amnesty <a href="/wiki/Charlie_Bell_(basketball)" title="Charlie Bell (basketball)">Charlie Bell</a> while retaining Biedriņš. The Warriors' push to acquire Jordan fell through when the <a href="/wiki/Los_Angeles_Clippers" title="Los Angeles Clippers">Los Angeles Clippers</a> matched the Warriors' offer sheet to Jordan, so they instead signed free agent center <a href="/wiki/Kwame_Brown" title="Kwame Brown">Kwame Brown</a>. Biedriņš won the starting job to begin the year before being sidelined for three games with an ankle injury. When Brown was lost for the season with a torn <a href="/wiki/Pectoralis_major" title="Pectoralis major">pectoralis major</a> muscle in the third of those games, Biedriņš once again took over as starter, where he remained until his continued ineffectiveness prompted first-year coach <a class="mw-redirect" href="/wiki/Mark_Jackson_(basketball)" title="Mark Jackson (basketball)">Mark Jackson</a> to insert <a href="/wiki/Ekpe_Udoh" title="Ekpe Udoh">Ekpe Udoh</a> in as starter. A March 13 trade which shipped Udoh, Brown and <a href="/wiki/Monta_Ellis" title="Monta Ellis">Monta Ellis</a> to the <a href="/wiki/Milwaukee_Bucks" title="Milwaukee Bucks">Milwaukee Bucks</a> for <a href="/wiki/Stephen_Jackson" title="Stephen Jackson">Stephen Jackson</a> and the out-for-the-season <a href="/wiki/Andrew_Bogut" title="Andrew Bogut">Andrew Bogut</a> thrust Biedriņš back into the starting lineup, where he remained until Jackson decided to give rookie <a href="/wiki/Jeremy_Tyler" title="Jeremy Tyler">Jeremy Tyler</a> a chance to prove himself at the beginning of April. For the season, Biedriņš averaged 15.7 minutes (the lowest since his second year in the league), 1.7 points, 3.7 rebounds, 0.3 assists (all career lows), 1.0 blocks and 0.5 steals while shooting 60.9% from the floor and 11.1% from the free throw line (admittedly with the small sample size of one make in nine free throw attempts).
+</p>
+<h4><span id="2012.E2.80.932013"></span><span class="mw-headline" id="2012–2013">2012–2013</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=9" title="Edit section: 2012–2013">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Biedriņš's struggles intensified during the 2012–13 season. Relatively healthy, he appeared in 53 games for 9.3 minutes per game, but attempted a grand total of only 21 shots (making 10, a 47.6% mark) and 13 free throws (making four, a 30.8% mark). For the season, Biedriņš averaged 0.5 points, 2.9 rebounds, 0.3 assists, 0.3 steals and 0.8 blocks.
+</p>
+<h3><span class="mw-headline" id="Utah_Jazz">Utah Jazz</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=10" title="Edit section: Utah Jazz">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On July 5, 2013, the Warriors reportedly agreed to trade Biedriņš to the <a href="/wiki/Utah_Jazz" title="Utah Jazz">Utah Jazz</a> along with teammates <a href="/wiki/Brandon_Rush" title="Brandon Rush">Brandon Rush</a> and <a href="/wiki/Richard_Jefferson" title="Richard Jefferson">Richard Jefferson</a> in an attempt to clear salary cap space to acquire coveted free agent <a href="/wiki/Andre_Iguodala" title="Andre Iguodala">Andre Iguodala</a>.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> The trade became official on July 10.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> On April 5, 2014, Biedriņš was waived by the Jazz.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</p>
+<h2><span class="mw-headline" id="National_team_career">National team career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=11" title="Edit section: National team career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Biedriņš has been active for his native <a href="/wiki/Latvia_national_basketball_team" title="Latvia national basketball team">Latvia</a> since his teenage years. In 2001, the then-15-year-old Biedriņš was a member of the Latvian national team at the Euro Cadet Championship, where he finished 4th in scoring (16.3 ppg) and 3rd in rebounding (8.5 rpg). In 2002, Biedriņš participated in the Euro Junior Championship, where he averaged 6.6 points and 7.3 rebounds. He then competed in the 2004 Under-18 European Championship, averaging 21.8 points, 14.4 rebounds, 4.4 blocks and 3.8 steals. In a match against France, he played against fellow future NBA player <a href="/wiki/Johan_Petro" title="Johan Petro">Johan Petro</a>, and Biedriņš scored 21 points and 16 rebounds. Other notable games were against Georgia (28 points, 11 rebounds) and Italy (26 points, 20 rebounds).<sup class="reference" id="cite_ref-nbabio_1-1"><a href="#cite_note-nbabio-1">[1]</a></sup>
+</p>
+<h3><span class="mw-headline" id="International_stats">International stats</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=12" title="Edit section: International stats">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Tournament</th>
+<th>Games played</th>
+<th>Points per game</th>
+<th>Rebounds per game</th>
+<th>Assists per game
+</th></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/2007_EuroBasket" title="2007 EuroBasket">2007 EuroBasket</a></td>
+<td align="center">3</td>
+<td align="center">15.0</td>
+<td align="center">10.0</td>
+<td align="center">0.7
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/2009_EuroBasket" title="2009 EuroBasket">2009 EuroBasket</a></td>
+<td align="center">3</td>
+<td align="center">7.3</td>
+<td align="center">11.7</td>
+<td align="center">0.7
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=13" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Biedriņš has one son, named Emīls.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p><p>Biedriņš is well known for his involvement in several charities. He was active in Warriors community programs during his rookie season, participated in the team's Thanksgiving Food Serving at Patrick David's Cafe in <a href="/wiki/Danville,_California" title="Danville, California">Danville, California</a>, hosted a half-time holiday party for underprivileged children at the Warriors game versus <a href="/wiki/Memphis_Grizzlies" title="Memphis Grizzlies">Memphis</a> on December 22, attended the Warriors Kids Day celebration, as well as the Run With TMC Fantasy Camp reception, and also visited injured American troops just back from Iraq at the <a href="/wiki/Walter_Reed_National_Military_Medical_Center" title="Walter Reed National Military Medical Center">National Naval Medical Center</a> outside of <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a>, when the team was in the area in early March.<sup class="reference" id="cite_ref-nbabio_1-2"><a href="#cite_note-nbabio-1">[1]</a></sup> His English language skills were poor when he came to the U.S., but he taught himself to speak English in six months while training in <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a> prior to the 2004 NBA draft.<sup class="reference" id="cite_ref-nbabio_1-3"><a href="#cite_note-nbabio-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="NBA_career_statistics">NBA career statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=14" title="Edit section: NBA career statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" style="font-size: 90%; white-space: nowrap;">
+
+<tbody><tr>
+<th colspan="6" style="background-color: #F2F2F2; border: 1px solid #AAAAAA;">Legend
+</th></tr>
+<tr>
+<td style="background-color: #F2F2F2; border: 1px solid black;">  GP
+</td>
+<td>Games played
+</td>
+<td style="background-color: #F2F2F2; border: 1px solid black">  GS 
+</td>
+<td>Games started
+</td>
+<td style="background-color: #F2F2F2; border: 1px solid black"> MPG 
+</td>
+<td>Minutes per game
+</td></tr>
+<tr>
+<td style="background-color: #F2F2F2; border: 1px solid black;"> FG% 
+</td>
+<td style="padding-right: 8px"><a href="/wiki/Field_goal_(basketball)" title="Field goal (basketball)">Field goal</a> percentage
+</td>
+<td style="background-color: #F2F2F2; border: 1px solid black"> 3P% 
+</td>
+<td style="padding-right: 8px"><a href="/wiki/Three-point_field_goal" title="Three-point field goal">3-point field goal</a> percentage
+</td>
+<td style="background-color: #F2F2F2; border: 1px solid black"> FT% 
+</td>
+<td><a href="/wiki/Free_throw" title="Free throw">Free throw</a> percentage
+</td></tr>
+<tr>
+<td style="background-color: #F2F2F2; border: 1px solid black;"> RPG 
+</td>
+<td><a href="/wiki/Rebound_(basketball)" title="Rebound (basketball)">Rebounds</a> per game
+</td>
+<td style="background-color: #F2F2F2; border: 1px solid black"> APG 
+</td>
+<td><a href="/wiki/Assist_(basketball)" title="Assist (basketball)">Assists</a> per game
+</td>
+<td style="background-color: #F2F2F2; border: 1px solid black"> SPG 
+</td>
+<td><a href="/wiki/Steal_(basketball)" title="Steal (basketball)">Steals</a> per game
+</td></tr>
+<tr>
+<td style="background-color: #F2F2F2; border: 1px solid black;"> BPG 
+</td>
+<td><a href="/wiki/Block_(basketball)" title="Block (basketball)">Blocks</a> per game
+</td>
+<td style="background-color: #F2F2F2; border: 1px solid black"> PPG 
+</td>
+<td>Points per game
+</td>
+<td style="background-color: #F2F2F2; border: 1px solid black"> <b>Bold</b> 
+</td>
+<td>Career high
+</td></tr>
+</tbody></table>
+<table class="wikitable">
+<tbody><tr>
+<td data-ve-attributes='{"style":"background:#CFECEC; width:1em"}' style="background:#CFECEC; width:1em">*
+</td>
+<td>Led the league
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Regular_season">Regular season</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=15" title="Edit section: Regular season">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="font-size:95%; text-align:right;">
+<tbody><tr>
+<th>Year
+</th>
+<th>Team
+</th>
+<th><abbr title="Games played">GP</abbr>
+</th>
+<th><abbr title="Games started">GS</abbr>
+</th>
+<th><abbr title="Minutes per game">MPG</abbr>
+</th>
+<th><abbr title="Field goal percentage">FG%</abbr>
+</th>
+<th><abbr title="3-point field-goal percentage">3P%</abbr>
+</th>
+<th><abbr title="Free-throw percentage">FT%</abbr>
+</th>
+<th><abbr title="Rebounds per game">RPG</abbr>
+</th>
+<th><abbr title="Assists per game">APG</abbr>
+</th>
+<th><abbr title="Steals per game">SPG</abbr>
+</th>
+<th><abbr title="Blocks per game">BPG</abbr>
+</th>
+<th><abbr title="Points per game">PPG</abbr>
+</th></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2004%E2%80%9305_NBA_season" title="2004–05 NBA season">2004–05</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/2004%E2%80%9305_Golden_State_Warriors_season" title="2004–05 Golden State Warriors season">Golden State</a>
+</td>
+<td>30</td>
+<td>1</td>
+<td>12.8</td>
+<td>.577</td>
+<td>.000</td>
+<td>.475</td>
+<td>3.9</td>
+<td>.4</td>
+<td>.4</td>
+<td>.8</td>
+<td>3.6
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2005%E2%80%9306_NBA_season" title="2005–06 NBA season">2005–06</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/2005%E2%80%9306_Golden_State_Warriors_season" title="2005–06 Golden State Warriors season">Golden State</a>
+</td>
+<td>68</td>
+<td>2</td>
+<td>14.7</td>
+<td>.638</td>
+<td>.000</td>
+<td>.306</td>
+<td>4.2</td>
+<td>.4</td>
+<td>.3</td>
+<td>.7</td>
+<td>3.8
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2006%E2%80%9307_NBA_season" title="2006–07 NBA season">2006–07</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/2006%E2%80%9307_Golden_State_Warriors_season" title="2006–07 Golden State Warriors season">Golden State</a>
+</td>
+<td><b>82</b></td>
+<td><b>63</b></td>
+<td>29.0</td>
+<td>.599</td>
+<td>.000</td>
+<td>.521</td>
+<td>9.3</td>
+<td>1.1</td>
+<td>.8</td>
+<td><b>1.7</b></td>
+<td>9.5
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2007%E2%80%9308_NBA_season" title="2007–08 NBA season">2007–08</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/2007%E2%80%9308_Golden_State_Warriors_season" title="2007–08 Golden State Warriors season">Golden State</a>
+</td>
+<td>76</td>
+<td>59</td>
+<td>27.3</td>
+<td style="background:#cfecec;">.626*</td>
+<td>.000</td>
+<td><b>.620</b></td>
+<td>9.8</td>
+<td>1.0</td>
+<td>.7</td>
+<td>1.2</td>
+<td>10.5
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2008%E2%80%9309_NBA_season" title="2008–09 NBA season">2008–09</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/2008%E2%80%9309_Golden_State_Warriors_season" title="2008–09 Golden State Warriors season">Golden State</a>
+</td>
+<td>62</td>
+<td>58</td>
+<td><b>30.0</b></td>
+<td>.578</td>
+<td>.000</td>
+<td>.551</td>
+<td><b>11.2</b></td>
+<td><b>2.0</b></td>
+<td><b>1.0</b></td>
+<td>1.5</td>
+<td><b>11.9</b>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2009%E2%80%9310_NBA_season" title="2009–10 NBA season">2009–10</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/2009%E2%80%9310_Golden_State_Warriors_season" title="2009–10 Golden State Warriors season">Golden State</a>
+</td>
+<td>33</td>
+<td>29</td>
+<td>23.1</td>
+<td>.591</td>
+<td>.000</td>
+<td>.160</td>
+<td>7.8</td>
+<td>1.7</td>
+<td>.6</td>
+<td>1.3</td>
+<td>5.0
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2010%E2%80%9311_NBA_season" title="2010–11 NBA season">2010–11</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/2010%E2%80%9311_Golden_State_Warriors_season" title="2010–11 Golden State Warriors season">Golden State</a>
+</td>
+<td>59</td>
+<td>55</td>
+<td>23.7</td>
+<td>.534</td>
+<td>.000</td>
+<td>.323</td>
+<td>7.2</td>
+<td>1.0</td>
+<td>.9</td>
+<td>.9</td>
+<td>5.0
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2011%E2%80%9312_NBA_season" title="2011–12 NBA season">2011–12</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/2011%E2%80%9312_Golden_State_Warriors_season" title="2011–12 Golden State Warriors season">Golden State</a>
+</td>
+<td>47</td>
+<td>35</td>
+<td>15.7</td>
+<td>.609</td>
+<td>.000</td>
+<td>.111</td>
+<td>3.7</td>
+<td>.3</td>
+<td>.5</td>
+<td>1.0</td>
+<td>1.7
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2012%E2%80%9313_NBA_season" title="2012–13 NBA season">2012–13</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/2012%E2%80%9313_Golden_State_Warriors_season" title="2012–13 Golden State Warriors season">Golden State</a>
+</td>
+<td>53</td>
+<td>9</td>
+<td>9.3</td>
+<td>.476</td>
+<td>.000</td>
+<td>.308</td>
+<td>2.9</td>
+<td>.3</td>
+<td>.3</td>
+<td>.8</td>
+<td>.5
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2013%E2%80%9314_NBA_season" title="2013–14 NBA season">2013–14</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/2013%E2%80%9314_Utah_Jazz_season" title="2013–14 Utah Jazz season">Utah</a>
+</td>
+<td>6</td>
+<td>0</td>
+<td>7.5</td>
+<td><b>1.000</b></td>
+<td>.000</td>
+<td>.167</td>
+<td>2.8</td>
+<td>.0</td>
+<td>.0</td>
+<td>.0</td>
+<td>.5
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center;">Career
+</td>
+<td>516</td>
+<td>311</td>
+<td>21.6</td>
+<td>.594</td>
+<td>.000</td>
+<td>.500</td>
+<td>7.0</td>
+<td>.9</td>
+<td>.6</td>
+<td>1.1</td>
+<td>6.3
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Playoffs">Playoffs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=16" title="Edit section: Playoffs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="font-size:95%; text-align:right;">
+<tbody><tr>
+<th>Year
+</th>
+<th>Team
+</th>
+<th><abbr title="Games played">GP</abbr>
+</th>
+<th><abbr title="Games started">GS</abbr>
+</th>
+<th><abbr title="Minutes per game">MPG</abbr>
+</th>
+<th><abbr title="Field goal percentage">FG%</abbr>
+</th>
+<th><abbr title="3-point field-goal percentage">3P%</abbr>
+</th>
+<th><abbr title="Free-throw percentage">FT%</abbr>
+</th>
+<th><abbr title="Rebounds per game">RPG</abbr>
+</th>
+<th><abbr title="Assists per game">APG</abbr>
+</th>
+<th><abbr title="Steals per game">SPG</abbr>
+</th>
+<th><abbr title="Blocks per game">BPG</abbr>
+</th>
+<th><abbr title="Points per game">PPG</abbr>
+</th></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/2007_NBA_Playoffs" title="2007 NBA Playoffs">2007</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/2006%E2%80%9307_Golden_State_Warriors_season" title="2006–07 Golden State Warriors season">Golden State</a>
+</td>
+<td><b>11</b></td>
+<td><b>8</b></td>
+<td><b>24.3</b></td>
+<td style="background:#cfecec;"><b>.730*</b></td>
+<td>.000</td>
+<td><b>.533</b></td>
+<td><b>6.3</b></td>
+<td><b>.5</b></td>
+<td><b>.7</b></td>
+<td><b>1.5</b></td>
+<td><b>6.4</b>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/2013_NBA_Playoffs" title="2013 NBA Playoffs">2013</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/2012%E2%80%9313_Golden_State_Warriors_season" title="2012–13 Golden State Warriors season">Golden State</a>
+</td>
+<td>3</td>
+<td>0</td>
+<td>5.7</td>
+<td>.000</td>
+<td>.000</td>
+<td>.000</td>
+<td>2.3</td>
+<td>.3</td>
+<td>.0</td>
+<td>.7</td>
+<td>.0
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center;">Career
+</td>
+<td>14</td>
+<td>8</td>
+<td>20.3</td>
+<td>.730</td>
+<td>.000</td>
+<td>.533</td>
+<td>5.4</td>
+<td>.4</td>
+<td>.6</td>
+<td>1.4</td>
+<td>5.0
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="226" data-file-width="251" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sports_icon.png/31px-Sports_icon.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sports_icon.png/47px-Sports_icon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sports_icon.png/62px-Sports_icon.png 2x" width="31"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sports" title="Portal:Sports">Sports portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/List_of_National_Basketball_Association_annual_field_goal_percentage_leaders" title="List of National Basketball Association annual field goal percentage leaders">List of National Basketball Association annual field goal percentage leaders</a></li>
+<li><a href="/wiki/List_of_European_basketball_players_in_the_United_States" title="List of European basketball players in the United States">List of European basketball players in the United States</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-nbabio-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-nbabio_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nbabio_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nbabio_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-nbabio_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20091230024241/http://www.nba.com/playerfile/andris_biedrins/bio.html" rel="nofollow">"NBA.com: Andris Biedrins Bio Page"</a>. Archived from <a class="external text" href="http://www.nba.com/playerfile/andris_biedrins/bio.html" rel="nofollow">the original</a> on 2009-12-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-01-15</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NBA.com%3A+Andris+Biedrins+Bio+Page&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Fplayerfile%2Fandris_biedrins%2Fbio.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndris+Biedri%C5%86%C5%A1"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.nba.com/draft2004/early_040618.html" rel="nofollow">Fifty-Three Early Entry Candidates Withdraw</a> <a class="external text" href="https://www.webcitation.org/6AVK0cffj?url=http://www.nba.com/draft2004/early_040618.html" rel="nofollow">Archived</a> 2012-09-07 at <a href="/wiki/WebCite" title="WebCite">WebCite</a>. Nba.com. Retrieved on 2011-07-26.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.basketball-reference.com/players/b/biedran01.html" rel="nofollow">Andris Biedrins Statistics</a>. Basketball-Reference.com. Retrieved on 2011-07-26.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.nba.com/news/survey_age_2004.html" rel="nofollow">2004–05 NBA Player Survey Results: Age</a> <a class="external text" href="https://www.webcitation.org/6AVK1RvF6?url=http://www.nba.com/news/survey_age_2004.html" rel="nofollow">Archived</a> 2012-09-07 at <a href="/wiki/WebCite" title="WebCite">WebCite</a>. Nba.com. Retrieved on 2011-07-26.</span>
+</li>
+<li id="cite_note-nbastats-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-nbastats_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nbastats_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.nba.com/playerfile/andris_biedrins/career_stats.html" rel="nofollow">Andris Biedrins Career Stats Page</a> <a class="external text" href="https://web.archive.org/web/20101118212601/http://www.nba.com/playerfile/andris_biedrins/career_stats.html" rel="nofollow">Archived</a> 2010-11-18 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. NBA.com (1986-04-02). Retrieved on 2011-07-26.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Parham, Nate. (2006-02-02) <a class="external text" href="http://www.goldenstateofmind.com/story/2006/2/2/3643/55580" rel="nofollow">One Minute Man</a>. Golden State Of Mind. Retrieved on 2011-07-26.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/08/SPGBGMS1A41.DTL" rel="nofollow">WARRIOR A WORLD AWAY / Latvian Andris Biedrins has made a full transition to the American lifestyle – and to the NBA</a>. Sfgate.com (2006-12-08). Retrieved on 2011-07-26.</span>
+</li>
+<li id="cite_note-nba.com-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-nba.com_8-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.nba.com/playerfile/andris_biedrins/" rel="nofollow">Andris Biedrins Info Page</a>. NBA.com (1986-04-02). Retrieved on 2011-07-26.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a class="external text" href="http://espn.go.com/nba/recap?gameId=261127009" rel="nofollow">Duncan shines but big game is undercut with loss</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a class="external text" href="http://sportsline.com/nba/gamecenter/recap/NBA_20061127_SA@GS" rel="nofollow">Golden State Warriors, Jason Richardson, Tim Duncan, Andris Biedrins, National Basketball Association, San Antonio Spurs – CBSSports.com</a>  <a class="external text" href="https://web.archive.org/web/20070218141050/http://sportsline.com/nba/gamecenter/recap/NBA_20061127_SA%40GS" rel="nofollow">Archived</a> February 18, 2007, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Sportsline.com. Retrieved on 2011-07-26.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.sfgate.com/sports/article/Biedrins-agrees-to-6-year-contract-3203001.php" rel="nofollow">Biedrins agrees to 6-year contract</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.sfgate.com/sports/article/BIEDRINS-WARRIORS-TO-BE-FUN-3202469.php" rel="nofollow">BIEDRINS: WARRIORS TO BE FUN</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Malek, Rasheed (August 9, 2010). <a class="external text" href="http://www.warriorsworld.net/2010/08/09/andris-biedrins-speaks-out/" rel="nofollow">"ANDRIS BIEDRINS SPEAKS OUT"</a>. <i>warriorsworld.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 7,</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=warriorsworld.net&amp;rft.atitle=ANDRIS+BIEDRINS+SPEAKS+OUT&amp;rft.date=2010-08-09&amp;rft.aulast=Malek&amp;rft.aufirst=Rasheed&amp;rft_id=http%3A%2F%2Fwww.warriorsworld.net%2F2010%2F08%2F09%2Fandris-biedrins-speaks-out%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndris+Biedri%C5%86%C5%A1"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a class="external text" href="https://sports.yahoo.com/news/ap-sources-warriors-clear-space-211045146--nba.html" rel="nofollow">AP sources: Warriors clear space, acquire Iguodala</a> <a class="external text" href="https://web.archive.org/web/20130723171356/https://sports.yahoo.com/news/ap-sources-warriors-clear-space-211045146--nba.html" rel="nofollow">Archived</a> July 23, 2013, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nba.com/warriors/news/warriors-acquire-andre-iguodala-071013" rel="nofollow">"Warriors Acquire Andre Iguodala from Denver Nuggets as Part of Three-Team Trade"</a>. NBA<span class="reference-accessdate">. Retrieved <span class="nowrap">July 10,</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Warriors+Acquire+Andre+Iguodala+from+Denver+Nuggets+as+Part+of+Three-Team+Trade&amp;rft.pub=NBA&amp;rft_id=http%3A%2F%2Fwww.nba.com%2Fwarriors%2Fnews%2Fwarriors-acquire-andre-iguodala-071013&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndris+Biedri%C5%86%C5%A1"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.nba.com/jazz/news/jazz-claims-erik-murphy-waivers" rel="nofollow">Jazz Claims Erik Murphy Off Waivers; Biedrins Waived</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20141129022839/http://www.kasjauns.lv/lv/zinas/61301/biedrina-milota-madara-mums-tads-liktenis-jabut-otram-blakus;" rel="nofollow">"Latvian tabloid interview with Madara Grīnberga, mother of Biedrins son"</a>. Archived from <a class="external text" href="http://www.kasjauns.lv/lv/zinas/61301/biedrina-milota-madara-mums-tads-liktenis-jabut-otram-blakus;" rel="nofollow">the original</a> on 2014-11-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-11-18</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Latvian+tabloid+interview+with+Madara+Gr%C4%ABnberga%2C+mother+of+Biedrins+son&amp;rft_id=http%3A%2F%2Fwww.kasjauns.lv%2Flv%2Fzinas%2F61301%2Fbiedrina-milota-madara-mums-tads-liktenis-jabut-otram-blakus%3B&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndris+Biedri%C5%86%C5%A1"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Career statistics and player information from <a class="external text" href="http://www.nba.com/playerfile/andris_biedrins" rel="nofollow">NBA.com</a>, or <a class="external text" href="https://www.basketball-reference.com/players/b/biedran01.html" rel="nofollow">Basketball-Reference.com</a></li></ul>
+<div aria-labelledby="2004_NBA_draft" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:2004_NBA_draft" title="Template:2004 NBA draft"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:2004_NBA_draft" title="Template talk:2004 NBA draft"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:2004_NBA_draft&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="2004_NBA_draft" style="font-size:114%;margin:0 4em"><a href="/wiki/2004_NBA_draft" title="2004 NBA draft">2004 NBA draft</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align:center;">First round</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dwight_Howard" title="Dwight Howard">Dwight Howard</a></li>
+<li><a href="/wiki/Emeka_Okafor" title="Emeka Okafor">Emeka Okafor</a></li>
+<li><a href="/wiki/Ben_Gordon" title="Ben Gordon">Ben Gordon</a></li>
+<li><a href="/wiki/Shaun_Livingston" title="Shaun Livingston">Shaun Livingston</a></li>
+<li><a href="/wiki/Devin_Harris" title="Devin Harris">Devin Harris</a></li>
+<li><a href="/wiki/Josh_Childress" title="Josh Childress">Josh Childress</a></li>
+<li><a href="/wiki/Luol_Deng" title="Luol Deng">Luol Deng</a></li>
+<li><a href="/wiki/Rafael_Ara%C3%BAjo_(basketball)" title="Rafael Araújo (basketball)">Rafael Araújo</a></li>
+<li><a href="/wiki/Andre_Iguodala" title="Andre Iguodala">Andre Iguodala</a></li>
+<li><a href="/wiki/Luke_Jackson_(basketball)" title="Luke Jackson (basketball)">Luke Jackson</a></li>
+<li><a class="mw-selflink selflink">Andris Biedriņš</a></li>
+<li><a href="/wiki/Robert_Swift" title="Robert Swift">Robert Swift</a></li>
+<li><a href="/wiki/Sebastian_Telfair" title="Sebastian Telfair">Sebastian Telfair</a></li>
+<li><a href="/wiki/Kris_Humphries" title="Kris Humphries">Kris Humphries</a></li>
+<li><a href="/wiki/Al_Jefferson" title="Al Jefferson">Al Jefferson</a></li>
+<li><a href="/wiki/Kirk_Snyder" title="Kirk Snyder">Kirk Snyder</a></li>
+<li><a href="/wiki/Josh_Smith" title="Josh Smith">Josh Smith</a></li>
+<li><a href="/wiki/J._R._Smith" title="J. R. Smith">J. R. Smith</a></li>
+<li><a href="/wiki/Dorell_Wright" title="Dorell Wright">Dorell Wright</a></li>
+<li><a href="/wiki/Jameer_Nelson" title="Jameer Nelson">Jameer Nelson</a></li>
+<li><a href="/wiki/Pavel_Podkolzin" title="Pavel Podkolzin">Pavel Podkolzin</a></li>
+<li><a href="/wiki/Victor_Khryapa" title="Victor Khryapa">Victor Khryapa</a></li>
+<li><a href="/wiki/Sergei_Monia" title="Sergei Monia">Sergei Monia</a></li>
+<li><a href="/wiki/Delonte_West" title="Delonte West">Delonte West</a></li>
+<li><a href="/wiki/Tony_Allen_(basketball)" title="Tony Allen (basketball)">Tony Allen</a></li>
+<li><a href="/wiki/Kevin_Martin_(basketball,_born_1983)" title="Kevin Martin (basketball, born 1983)">Kevin Martin</a></li>
+<li><a href="/wiki/Sasha_Vuja%C4%8Di%C4%87" title="Sasha Vujačić">Sasha Vujačić</a></li>
+<li><a href="/wiki/Beno_Udrih" title="Beno Udrih">Beno Udrih</a></li>
+<li><a href="/wiki/David_Harrison_(basketball)" title="David Harrison (basketball)">David Harrison</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align:center;">Second round</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anderson_Varej%C3%A3o" title="Anderson Varejão">Anderson Varejão</a></li>
+<li><a href="/wiki/Jackson_Vroman" title="Jackson Vroman">Jackson Vroman</a></li>
+<li><a href="/wiki/Peter_John_Ramos" title="Peter John Ramos">Peter John Ramos</a></li>
+<li><a href="/wiki/Lionel_Chalmers" title="Lionel Chalmers">Lionel Chalmers</a></li>
+<li><a href="/wiki/Donta_Smith" title="Donta Smith">Donta Smith</a></li>
+<li><a href="/wiki/Andre_Emmett" title="Andre Emmett">Andre Emmett</a></li>
+<li><a href="/wiki/Antonio_Burks_(basketball,_born_1980)" title="Antonio Burks (basketball, born 1980)">Antonio Burks</a></li>
+<li><a href="/wiki/Royal_Ivey" title="Royal Ivey">Royal Ivey</a></li>
+<li><a href="/wiki/Chris_Duhon" title="Chris Duhon">Chris Duhon</a></li>
+<li><a href="/wiki/Albert_Miralles" title="Albert Miralles">Albert Miralles</a></li>
+<li><a href="/wiki/Justin_Reed" title="Justin Reed">Justin Reed</a></li>
+<li><a href="/wiki/David_Young_(basketball)" title="David Young (basketball)">David Young</a></li>
+<li><a href="/wiki/Viktor_Sanikidze" title="Viktor Sanikidze">Viktor Sanikidze</a></li>
+<li><a href="/wiki/Trevor_Ariza" title="Trevor Ariza">Trevor Ariza</a></li>
+<li><a href="/wiki/Tim_Pickett" title="Tim Pickett">Tim Pickett</a></li>
+<li><a href="/wiki/Bernard_Robinson_(basketball)" title="Bernard Robinson (basketball)">Bernard Robinson</a></li>
+<li><a href="/wiki/Ha_Seung-jin" title="Ha Seung-jin">Ha Seung-jin</a></li>
+<li><a href="/wiki/Pape_Sow" title="Pape Sow">Pape Sow</a></li>
+<li><a href="/wiki/Ricky_Minard" title="Ricky Minard">Ricky Minard</a></li>
+<li><a href="/wiki/Serhiy_Lishchuk" title="Serhiy Lishchuk">Serhiy Lishchuk</a></li>
+<li><a href="/wiki/Vassilis_Spanoulis" title="Vassilis Spanoulis">Vassilis Spanoulis</a></li>
+<li><a href="/wiki/Christian_Drejer" title="Christian Drejer">Christian Drejer</a></li>
+<li><a href="/wiki/Romain_Sato" title="Romain Sato">Romain Sato</a></li>
+<li><a href="/wiki/Matt_Freije" title="Matt Freije">Matt Freije</a></li>
+<li><a href="/wiki/Rickey_Paulding" title="Rickey Paulding">Rickey Paulding</a></li>
+<li><a href="/wiki/Luis_Flores_(basketball)" title="Luis Flores (basketball)">Luis Flores</a></li>
+<li><a href="/wiki/Marcus_Douthit" title="Marcus Douthit">Marcus Douthit</a></li>
+<li><a href="/wiki/Sergei_Karaulov" title="Sergei Karaulov">Sergei Karaulov</a></li>
+<li><a href="/wiki/Blake_Stepp" title="Blake Stepp">Blake Stepp</a></li>
+<li><a href="/wiki/Rashad_Wright" title="Rashad Wright">Rashad Wright</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q380812&amp;#124;Edit_this_at_Wikidata" class="navbox authority-control" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q380812&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q380812" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a class="external text" href="https://viaf.org/viaf/7059151112589337180000" rel="nofollow">7059151112589337180000</a></span></span></li>
+<li><span class="nowrap"> <a class="mw-redirect" href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a class="external text" href="https://www.worldcat.org/identities/containsVIAFID/7059151112589337180000" rel="nofollow">7059151112589337180000</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20191213045757
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.896 seconds
+Real time usage: 1.946 seconds
+Preprocessor visited node count: 2509/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40449/2097152 bytes
+Template argument size: 1739/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 19469/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.421/10.000 seconds
+Lua memory usage: 6.04 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1788.848      1 -total
+ 34.30%  613.601      1 Template:Infobox_basketball_biography
+ 32.87%  587.928      2 Template:Infobox
+ 25.78%  461.200      1 Template:Reflist
+ 17.74%  317.413      4 Template:Cite_web
+ 13.12%  234.659      1 Template:Authority_control
+  7.56%  135.294      1 Template:IPA-lv
+  6.28%  112.341      2 Template:NBA_player_statistics_start
+  5.89%  105.375      2 Template:Convert
+  5.59%   99.979      1 Template:IPA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1640462-0!canonical and timestamp 20191213045755 and revision id 928283602
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Andris_Biedriņš&amp;oldid=928283602">https://en.wikipedia.org/w/index.php?title=Andris_Biedriņš&amp;oldid=928283602</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1986_births" title="Category:1986 births">1986 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Centers_(basketball)" title="Category:Centers (basketball)">Centers (basketball)</a></li><li><a href="/wiki/Category:Golden_State_Warriors_draft_picks" title="Category:Golden State Warriors draft picks">Golden State Warriors draft picks</a></li><li><a href="/wiki/Category:Golden_State_Warriors_players" title="Category:Golden State Warriors players">Golden State Warriors players</a></li><li><a href="/wiki/Category:Latvian_men%27s_basketball_players" title="Category:Latvian men's basketball players">Latvian men's basketball players</a></li><li><a href="/wiki/Category:Latvian_expatriate_basketball_people_in_the_United_States" title="Category:Latvian expatriate basketball people in the United States">Latvian expatriate basketball people in the United States</a></li><li><a href="/wiki/Category:National_Basketball_Association_players_from_Latvia" title="Category:National Basketball Association players from Latvia">National Basketball Association players from Latvia</a></li><li><a href="/wiki/Category:Sportspeople_from_Riga" title="Category:Sportspeople from Riga">Sportspeople from Riga</a></li><li><a href="/wiki/Category:Utah_Jazz_players" title="Category:Utah Jazz players">Utah Jazz players</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_webcite_links" title="Category:Webarchive template webcite links">Webarchive template webcite links</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Andris+Biedri%C5%86%C5%A1" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Andris+Biedri%C5%86%C5%A1" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Andris_Biedri%C5%86%C5%A1" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Andris_Biedri%C5%86%C5%A1" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Andris_Biedri%C5%86%C5%A1">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Andris_Biedri%C5%86%C5%A1" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Andris_Biedri%C5%86%C5%A1" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;oldid=928283602" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q380812" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Andris_Biedri%C5%86%C5%A1&amp;id=928283602" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Andris_Biedri%C5%86%C5%A1" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Andris+Biedri%C5%86%C5%A1">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Andris+Biedri%C5%86%C5%A1&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%AF%D8%B1%D9%8A%D8%B3_%D8%A8%D9%8A%D8%AF%D8%B1%D9%8A%D9%89%D8%B4" hreflang="ar" lang="ar" title="أندريس بيدريىش – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B8%D1%81_%D0%91%D0%B8%D0%B5%D0%B4%D1%80%D0%B8%D0%BD%D1%88" hreflang="bg" lang="bg" title="Андрис Биедринш – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Andris_Biedri%C5%86%C5%A1" hreflang="de" lang="de" title="Andris Biedriņš – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Andris_Biedri%C5%86%C5%A1" hreflang="es" lang="es" title="Andris Biedriņš – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Andris_Biedri%C5%86%C5%A1" hreflang="fr" lang="fr" title="Andris Biedriņš – French">Français</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B6%D5%A4%D6%80%D5%AB%D5%BD_%D4%B2%D5%AB%D5%A5%D5%A4%D6%80%D5%AB%D5%B6%D5%B7" hreflang="hy" lang="hy" title="Անդրիս Բիեդրինշ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Andris_Biedri%C5%86%C5%A1" hreflang="hr" lang="hr" title="Andris Biedriņš – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Andris_Biedri%C5%86%C5%A1" hreflang="it" lang="it" title="Andris Biedriņš – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%93%D7%A8%D7%99%D7%A1_%D7%91%D7%99%D7%99%D7%93%D7%A8%D7%99%D7%A0%D7%A9" hreflang="he" lang="he" title="אנדריס ביידרינש – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Andris_Biedri%C5%86%C5%A1" hreflang="lv" lang="lv" title="Andris Biedriņš – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Andris_Biedrinis" hreflang="lt" lang="lt" title="Andris Biedrinis – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B8%D1%81_%D0%91%D1%98%D0%B5%D0%B4%D1%80%D0%B8%D0%BD%D1%81" hreflang="mk" lang="mk" title="Андрис Бједринс – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a class="interlanguage-link-target" href="https://mg.wikipedia.org/wiki/Andris_Biedri%C5%86%C5%A1" hreflang="mg" lang="mg" title="Andris Biedriņš – Malagasy">Malagasy</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%93%E3%82%A8%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%A5" hreflang="ja" lang="ja" title="アンドリス・ビエドリンシュ – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Andris_Biedri%C5%86%C5%A1" hreflang="pl" lang="pl" title="Andris Biedriņš – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Andris_Biedrins" hreflang="pt" lang="pt" title="Andris Biedrins – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%B5%D0%B4%D1%80%D0%B8%D0%BD%D1%8C%D1%88,_%D0%90%D0%BD%D0%B4%D1%80%D0%B8%D1%81" hreflang="ru" lang="ru" title="Биедриньш, Андрис – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Andris_Biedri%C5%86%C5%A1" hreflang="fi" lang="fi" title="Andris Biedriņš – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Andris_Biedri%C5%86%C5%A1" hreflang="tr" lang="tr" title="Andris Biedriņš – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D1%96%D1%81_%D0%91%D1%96%D1%94%D0%B4%D1%80%D1%96%D0%BD%D1%8C%D1%88" hreflang="uk" lang="uk" title="Андріс Бієдріньш – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vo"><a class="interlanguage-link-target" href="https://vo.wikipedia.org/wiki/Andris_Biedri%C5%86%C5%A1" hreflang="vo" lang="vo" title="Andris Biedriņš – Volapük">Volapük</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E9%87%8C%E6%96%AF%C2%B7%E6%AF%94%E8%80%B6%E5%BE%B7%E9%87%8C%E5%B0%BC%E4%BB%80" hreflang="zh" lang="zh" title="安德里斯·比耶德里尼什 – Chinese">中文</a></li><li class="interlanguage-link interwiki-szy"><a class="interlanguage-link-target" href="https://szy.wikipedia.org/wiki/Andris_Biedri%C5%86%C5%A1" hreflang="szy" lang="szy" title="Andris Biedriņš – Sakizaya">Sakizaya</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q380812#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 28 November 2019, at 01:23<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Andris_Biedri%C5%86%C5%A1&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.896","walltime":"1.946","ppvisitednodes":{"value":2509,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":40449,"limit":2097152},"templateargumentsize":{"value":1739,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":19469,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1788.848      1 -total"," 34.30%  613.601      1 Template:Infobox_basketball_biography"," 32.87%  587.928      2 Template:Infobox"," 25.78%  461.200      1 Template:Reflist"," 17.74%  317.413      4 Template:Cite_web"," 13.12%  234.659      1 Template:Authority_control","  7.56%  135.294      1 Template:IPA-lv","  6.28%  112.341      2 Template:NBA_player_statistics_start","  5.89%  105.375      2 Template:Convert","  5.59%   99.979      1 Template:IPA"]},"scribunto":{"limitreport-timeusage":{"value":"0.421","limit":"10.000"},"limitreport-memusage":{"value":6334457,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20191213045757","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Andris Biedri\u0146\u0161","url":"https:\/\/en.wikipedia.org\/wiki\/Andris_Biedri%C5%86%C5%A1","sameAs":"http:\/\/www.wikidata.org\/entity\/Q380812","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q380812","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-03-23T19:34:31Z","dateModified":"2019-11-28T01:23:48Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Andris_Biedrins_cropped.jpg","headline":"Latvian basketball player"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":126,"wgHostname":"mw1322"});});</script>
+
+
+</body></html>

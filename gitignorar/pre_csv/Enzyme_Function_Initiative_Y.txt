@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Enzyme Function Initiative - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfrNkwpAMFQAAEpC708AAABU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Enzyme_Function_Initiative","wgTitle":"Enzyme Function Initiative","wgCurRevisionId":931460114,"wgRevisionId":931460114,"wgArticleId":31601913,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Enzymes","Metabolism","Computational biology","National Institutes of Health"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Enzyme_Function_Initiative","wgRelevantArticleId":31601913,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5381541","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
+"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/0/0e/Efi-mark.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Enzyme_Function_Initiative" rel="alternate"/>
+<link href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Enzyme_Function_Initiative" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Enzyme_Function_Initiative rootpage-Enzyme_Function_Initiative skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Enzyme Function Initiative</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><caption class="fn org">Enzyme Function Initiative (EFI)</caption><tbody><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Efi-mark.jpg"><img alt="Efi-mark.jpg" data-file-height="100" data-file-width="200" decoding="async" height="100" src="//upload.wikimedia.org/wikipedia/en/0/0e/Efi-mark.jpg" width="200"/></a></td></tr><tr><th scope="row" style="padding-right:0.6em;">Formation</th><td class="note">2010</td></tr><tr><th scope="row" style="padding-right:0.6em;">Purpose</th><td>Develop and disseminate a robust strategy to determine enzyme function</td></tr><tr><th scope="row" style="padding-right:0.6em;">Headquarters</th><td>University of Illinois, Urbana-Champaign</td></tr><tr><th scope="row" style="padding-right:0.6em;"><div style="padding:0.1em 0;line-height:1.2em;">Principal Investigator</div></th><td>John A. Gerlt, Ph.D.</td></tr><tr><th scope="row" style="padding-right:0.6em;"><div style="padding:0.1em 0;line-height:1.2em;">Budget  </div></th><td>Five-year <a href="/wiki/National_Institute_of_General_Medical_Sciences" title="National Institute of General Medical Sciences">NIGMS</a> Glue Grant</td></tr><tr><th scope="row" style="padding-right:0.6em;">Website</th><td><a class="external text" href="http://www.enzymefunction.org" rel="nofollow">www.enzymefunction.org</a></td></tr></tbody></table>
+<p>The <b>Enzyme Function Initiative</b> (<b>EFI</b>) is a large-scale collaborative project aiming to develop and disseminate a robust strategy to determine <a href="/wiki/Enzyme" title="Enzyme">enzyme</a> function through an integrated sequence–structure-based approach.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>  The project was funded in May 2010 by the <a href="/wiki/National_Institute_of_General_Medical_Sciences" title="National Institute of General Medical Sciences">National Institute of General Medical Sciences</a> as a Glue Grant which supports the research of complex biological problems that cannot be solved by a single research group.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-PAR-07-412_3-0"><a href="#cite_note-PAR-07-412-3">[3]</a></sup>  The EFI was largely spurred by the need to develop methods to identify the functions of the enormous number proteins discovered through <a href="/wiki/Genomics" title="Genomics">genomic</a> sequencing projects.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Motivation"><span class="tocnumber">1</span> <span class="toctext">Motivation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Integrated_strategy_for_functional_assignment"><span class="tocnumber">2</span> <span class="toctext">Integrated strategy for functional assignment</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Organization"><span class="tocnumber">3</span> <span class="toctext">Organization</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Scientific_cores"><span class="tocnumber">3.1</span> <span class="toctext">Scientific cores</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Bridging_projects"><span class="tocnumber">3.2</span> <span class="toctext">Bridging projects</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Participating_investigators"><span class="tocnumber">3.3</span> <span class="toctext">Participating investigators</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Deliverables"><span class="tocnumber">4</span> <span class="toctext">Deliverables</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Funding"><span class="tocnumber">5</span> <span class="toctext">Funding</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Motivation">Motivation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=edit&amp;section=1" title="Edit section: Motivation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The dramatic increase in genome sequencing technology has caused the number of <a class="mw-redirect" href="/wiki/Peptide_sequence" title="Peptide sequence">protein sequences</a> deposited into public databases to grow apparently exponentially.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>  To cope with the influx of sequences, databases use computational predictions to auto-annotate individual protein's functions.  While these computational methods offer the advantages of being extremely high-throughput and generally provide accurate broad classifications, exclusive use has led to a significant level of misannotation of enzyme function in protein databases.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>  Thus although the information now available represents an unprecedented opportunity to understand cellular metabolism across a wide variety of organisms, which includes the ability to identify molecules and/or reactions that may benefit human quality of life, the potential has not been fully actualized.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> The biological community's ability to characterize newly discovered proteins has been outstripped by the rate of genome sequencing, and the task of assigning function is now considered the rate-limiting step in understanding biological systems in detail.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Integrated_strategy_for_functional_assignment">Integrated strategy for functional assignment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=edit&amp;section=2" title="Edit section: Integrated strategy for functional assignment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The EFI is developing an integrated sequence-structure based strategy for functional assignment by predicting the <a class="mw-redirect" href="/wiki/Substrate_specificity" title="Substrate specificity">substrate specificities</a> of unknown members of mechanistically diverse <a href="/wiki/Protein_family" title="Protein family">enzyme superfamilies</a>.<sup class="reference" id="cite_ref-EFIBIOCHEM_9-0"><a href="#cite_note-EFIBIOCHEM-9">[9]</a></sup>  The approach leverages conserved features within a given superfamily such as known chemistry, identity of <a href="/wiki/Active_site" title="Active site">active site</a> functional groups, and composition of specificity-determining residues, motifs, or structures to predict function but relies on multidisciplinary expertise to streamline, refine, and test the predictions.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>  The integrated sequence-strategy under development will be generally applicable to deciphering the ligand specificities of any functionally unknown protein.<sup class="reference" id="cite_ref-EFIBIOCHEM_9-1"><a href="#cite_note-EFIBIOCHEM-9">[9]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Organization">Organization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=edit&amp;section=3" title="Edit section: Organization">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>By NIGMS program mandate, Glue Grant consortia must contain core resources and bridging projects.<sup class="reference" id="cite_ref-PAR-07-412_3-1"><a href="#cite_note-PAR-07-412-3">[3]</a></sup> The EFI consists of six scientific cores which provide bioinformatic, structural, computational, and data management expertise to facilitate functional predictions for enzymes of unknown function targeted by the EFI. At the beginning of the grant, these predictions were tested by five Bridging Projects representing the amidohydrolase, enolase, GST, HAD, and isoprenoid synthase enzyme superfamilies. Three Bridging Projects now remain.<sup class="reference" id="cite_ref-EFIBIOCHEM_9-2"><a href="#cite_note-EFIBIOCHEM-9">[9]</a></sup> In addition, the Anaerobic Enzymology Pilot Project was added in 2014 to explore the Radical SAM superfamily and Glycyl Radical Enzyme superfamily.
+</p>
+<h3><span class="mw-headline" id="Scientific_cores">Scientific cores</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=edit&amp;section=4" title="Edit section: Scientific cores">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The bioinformatics core contributes <a class="mw-redirect" href="/wiki/Bioinformatic" title="Bioinformatic">bioinformatic</a> analysis by collecting and curating complete sequence data sets, generating sequence similarity networks, and classification of superfamily members into subgroups and families for subsequent annotation transfer and evaluation as targets for functional characterization.
+</p><p>The protein core develops cloning, expression, and <a href="/wiki/Protein_purification" title="Protein purification">protein purification</a> strategies for the enzymes targeted for study.
+</p><p>The structure core fulfills the <a href="/wiki/Structural_biology" title="Structural biology">structural biology</a> component for EFI by providing high resolution structures of targeted enzymes.
+</p><p>The computation core performs <i>in silico</i> <a href="/wiki/Docking_(molecular)" title="Docking (molecular)">docking</a> to generate rank-ordered lists of predicted substrates for targeted enzymes using both experimentally determined and/or homology modeled protein structures.
+</p><p>The microbiology core examines <i>in vivo</i> functions using genetic techniques and <a href="/wiki/Metabolomics" title="Metabolomics">metabolomics</a> to complement <i><a href="/wiki/In_vitro" title="In vitro">in vitro</a></i> functions determined by the Bridging Projects.
+</p><p>The data and dissemination core maintains a public database for experimental data (EFI-DB).<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup><sup class="reference" id="cite_ref-EFI-DB_14-0"><a href="#cite_note-EFI-DB-14">[14]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Bridging_projects">Bridging projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=edit&amp;section=5" title="Edit section: Bridging projects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Enolase_superfamily" title="Enolase superfamily">enolase superfamily</a> contains evolutionarily related enzymes with a (β/α)7β‑barrel (TIM‑barrel) fold which primarily catalyze metal-assisted epimerization/racemization or β-elimination of carboxylate substrates.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p><p>The <a href="/wiki/Haloacid_dehydrogenase_superfamily" title="Haloacid dehydrogenase superfamily">Haloacid dehydrogenase superfamily</a> contains evolutionarily related enzymes with a Rossmanoid α/β fold with an inserted "cap" region which primarily catalyze metal-assisted nucleophilic catalysis, most frequently resulting in phosphoryl group transfer.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</p><p>The isoprenoid synthase (I) superfamily contains evolutionarily related enzymes with a mostly all α-helical fold and primarily catalyze trans-prenyl transfer reactions to form elongated or cyclized <a href="/wiki/Isoprene" title="Isoprene">isoprene</a> products.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p><p>The Anaerobic Enzymology bridging project will explore radical-dependent enzymology, which allows the execution of unusual chemical transformations via an iron-sulfur cluster cleaving S-Adenosyl methionine (SAM) and producing a radical intermediate, or alternatively, abstraction of a hydrogen from glycine producing a glycyl radical. The superfamilies containing these enzymes are largely unexplored and thus, ripe with the potential for functional discoveries. The acquisition of an anaerobic protein production pipeline coupled with the installation of a Biosafety Level 2 anaerobic chamber for culturing human gut microbes has readied the EFI to pursue anaerobic enzymology.
+</p>
+<h3><span class="mw-headline" id="Participating_investigators">Participating investigators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=edit&amp;section=6" title="Edit section: Participating investigators">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Twelve investigators with expertise in various disciplines make up the EFI.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</p>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Institution</th>
+<th>Role
+</th></tr>
+<tr>
+<td><b>Gerlt, John A.</b></td>
+<td>University of Illinois, Urbana-Champaign</td>
+<td>Program Director, Director of the Enolase Bridging Project, Co-Director of Data and Dissemination Core
+</td></tr>
+<tr>
+<td>Allen, Karen N.</td>
+<td>Boston University</td>
+<td>Director of the HAD Bridging Project
+</td></tr>
+<tr>
+<td>Almo, Steven C.</td>
+<td>Albert Einstein College of Medicine</td>
+<td>Director of the Protein Core and Structure Core
+</td></tr>
+<tr>
+<td>Cronan, John E.</td>
+<td>University of Illinois, Urbana-Champaign</td>
+<td>Co-Director of the Microbiology Core
+</td></tr>
+<tr>
+<td>Jacobson, Matthew P.</td>
+<td>University of California, San Francisco</td>
+<td>Co-Director of the Computation Core
+</td></tr>
+<tr>
+<td>Minor, Wladek</td>
+<td>University of Virginia</td>
+<td>Co-Director of Data and Dissemination Core
+</td></tr>
+<tr>
+<td>Poulter, C. Dale</td>
+<td>University of Utah</td>
+<td>Director of the Isoprenoid Synthase Bridging Project
+</td></tr>
+<tr>
+<td>Sali, Andrej</td>
+<td>University of California, San Francisco</td>
+<td>Co-Director of the Computation Core
+</td></tr>
+<tr>
+<td>Shoichet, Brian K.</td>
+<td>University of California, San Francisco</td>
+<td>Co-Director of the Computation Core
+</td></tr>
+<tr>
+<td>Sweedler, Jonathan V.</td>
+<td>University of Illinois, Urbana-Champaign</td>
+<td>Co-Director of the Microbiology Core
+</td></tr>
+<tr>
+<td>Pollard, Katherine S.</td>
+<td>Gladstone Institutes</td>
+<td>Director of the Sifting Families Pilot Project
+</td></tr>
+<tr>
+<td>Booker, Squire J.</td>
+<td>Pennsylvania State University</td>
+<td>Director of the Anaerobic Enzymology Pilot Project
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Deliverables">Deliverables</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=edit&amp;section=7" title="Edit section: Deliverables">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The EFI's primary deliverable is development and dissemination of an integrated sequence/structure strategy for functional assignment.  The EFI now offers access to two high-throughput docking tools, a web tool for comparing protein sequences within entire protein families, and a web tool for composing a genome context inventory based on a protein sequence similarity network. Additionally, as the strategy is developed, data and clones generated by the EFI are made freely available via several online resources.<sup class="reference" id="cite_ref-EFIBIOCHEM_9-3"><a href="#cite_note-EFIBIOCHEM-9">[9]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Funding">Funding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=edit&amp;section=8" title="Edit section: Funding">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The EFI was established in May 2010 with $33.9 million in funding over a five-year period (grant number GM093342).<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a class="external text" href="https://web.archive.org/web/20120427131544/http://www.nigms.nih.gov/News/Results/gluegrant_051510.htm" rel="nofollow">"New NIGMS 'Glue Grant' Takes Aim at Unknown Enzymes"</a> (Press release). NIGMS. 2010-05-20. Archived from <a class="external text" href="http://www.nigms.nih.gov/News/Results/gluegrant_051510.htm" rel="nofollow">the original</a> on 2012-04-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+NIGMS+%E2%80%98Glue+Grant%E2%80%99+Takes+Aim+at+Unknown+Enzymes&amp;rft.pub=NIGMS&amp;rft.date=2010-05-20&amp;rft_id=http%3A%2F%2Fwww.nigms.nih.gov%2FNews%2FResults%2Fgluegrant_051510.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20130603062033/http://www.nigms.nih.gov/Research/FeaturedPrograms/Collaborative/GlueGrants/" rel="nofollow">"Glue Grants"</a>. NIGMS. Archived from <a class="external text" href="http://www.nigms.nih.gov/Research/FeaturedPrograms/Collaborative/GlueGrants/" rel="nofollow">the original</a> on 2013-06-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Glue+Grants&amp;rft.pub=NIGMS&amp;rft_id=http%3A%2F%2Fwww.nigms.nih.gov%2FResearch%2FFeaturedPrograms%2FCollaborative%2FGlueGrants%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-PAR-07-412-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-PAR-07-412_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PAR-07-412_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://grants.nih.gov/grants/guide/pa-files/PAR-07-412.html" rel="nofollow">"PAR-07-412: Large-Scale Collaborative Project Awards (R24/U54)"</a>. NIH/NIGMS<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PAR-07-412%3A+Large-Scale+Collaborative+Project+Awards+%28R24%2FU54%29&amp;rft.pub=NIH%2FNIGMS&amp;rft_id=http%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fpa-files%2FPAR-07-412.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a class="external text" href="http://news.illinois.edu/news/10/0520gerlt.html" rel="nofollow">"Researchers Awarded $33.9 Million Grant to Study Enzyme Functions"</a> (Press release). UIUC News Bureau. 2010-05-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Researchers+Awarded+%2433.9+Million+Grant+to+Study+Enzyme+Functions&amp;rft.pub=UIUC+News+Bureau&amp;rft.date=2010-05-20&amp;rft_id=http%3A%2F%2Fnews.illinois.edu%2Fnews%2F10%2F0520gerlt.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20151001200723/http://www.ebi.ac.uk/uniprot/TrEMBLstats" rel="nofollow">"UniProtKB/TrEMBL Protein Database Release Statistics"</a>. UniProtKB/TrEMBL Protein Database. Archived from <a class="external text" href="http://www.ebi.ac.uk/uniprot/TrEMBLstats/" rel="nofollow">the original</a> on 2015-10-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UniProtKB%2FTrEMBL+Protein+Database+Release+Statistics&amp;rft.pub=UniProtKB%2FTrEMBL+Protein+Database&amp;rft_id=http%3A%2F%2Fwww.ebi.ac.uk%2Funiprot%2FTrEMBLstats%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Schnoes, Alexandra M.; Brown, Shoshana D.; Dodevski, Igor; Babbitt, Patricia C. (2009).  Valencia, Alfonso (ed.). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2781113" rel="nofollow">"Annotation Error in Public Databases: Misannotation of Molecular Function in Enzyme Superfamilies"</a>. <i>PLoS Computational Biology</i>. <b>5</b> (12): e1000605. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1371%2Fjournal.pcbi.1000605" rel="nofollow">10.1371/journal.pcbi.1000605</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2781113" rel="nofollow">2781113</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20011109" rel="nofollow">20011109</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PLoS+Computational+Biology&amp;rft.atitle=Annotation+Error+in+Public+Databases%3A+Misannotation+of+Molecular+Function+in+Enzyme+Superfamilies&amp;rft.volume=5&amp;rft.issue=12&amp;rft.pages=e1000605&amp;rft.date=2009&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2781113&amp;rft_id=info%3Apmid%2F20011109&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pcbi.1000605&amp;rft.aulast=Schnoes&amp;rft.aufirst=Alexandra+M.&amp;rft.au=Brown%2C+Shoshana+D.&amp;rft.au=Dodevski%2C+Igor&amp;rft.au=Babbitt%2C+Patricia+C.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2781113&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Saghatelian, Alan; Cravatt, Benjamin F (2005). "Assignment of protein function in the postgenomic era". <i>Nature Chemical Biology</i>. <b>1</b> (3): 130–42. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnchembio0805-130" rel="nofollow">10.1038/nchembio0805-130</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16408016" rel="nofollow">16408016</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Chemical+Biology&amp;rft.atitle=Assignment+of+protein+function+in+the+postgenomic+era&amp;rft.volume=1&amp;rft.issue=3&amp;rft.pages=130-42&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1038%2Fnchembio0805-130&amp;rft_id=info%3Apmid%2F16408016&amp;rft.aulast=Saghatelian&amp;rft.aufirst=Alan&amp;rft.au=Cravatt%2C+Benjamin+F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Brown, Shoshana; Gerlt, John; Seffernick, Jennifer; Babbitt, Patricia (2006). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1431709" rel="nofollow">"A gold standard set of mechanistically diverse enzyme superfamilies"</a>. <i>Genome Biology</i>. <b>7</b> (1): R8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1186%2Fgb-2006-7-1-r8" rel="nofollow">10.1186/gb-2006-7-1-r8</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1431709" rel="nofollow">1431709</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16507141" rel="nofollow">16507141</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Genome+Biology&amp;rft.atitle=A+gold+standard+set+of+mechanistically+diverse+enzyme+superfamilies&amp;rft.volume=7&amp;rft.issue=1&amp;rft.pages=R8&amp;rft.date=2006&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1431709&amp;rft_id=info%3Apmid%2F16507141&amp;rft_id=info%3Adoi%2F10.1186%2Fgb-2006-7-1-r8&amp;rft.aulast=Brown&amp;rft.aufirst=Shoshana&amp;rft.au=Gerlt%2C+John&amp;rft.au=Seffernick%2C+Jennifer&amp;rft.au=Babbitt%2C+Patricia&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1431709&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-EFIBIOCHEM-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-EFIBIOCHEM_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EFIBIOCHEM_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EFIBIOCHEM_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-EFIBIOCHEM_9-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Gerlt JA, Allen KN, Almo SC, Armstrong RN, Babbitt PC, Cronan JE, Dunaway-Mariano D, Imker HJ, Jacobson MP, Minor W, Poulter CD, Raushel FM, Sali A, Shoichet BK, Sweedler JV (Nov 22, 2011). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3238057" rel="nofollow">"The Enzyme Function Initiative"</a>. <i>Biochemistry</i>. <b>50</b> (46): 9950–62. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fbi201312u" rel="nofollow">10.1021/bi201312u</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3238057" rel="nofollow">3238057</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21999478" rel="nofollow">21999478</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biochemistry&amp;rft.atitle=The+Enzyme+Function+Initiative.&amp;rft.volume=50&amp;rft.issue=46&amp;rft.pages=9950-62&amp;rft.date=2011-11-22&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3238057&amp;rft_id=info%3Apmid%2F21999478&amp;rft_id=info%3Adoi%2F10.1021%2Fbi201312u&amp;rft.aulast=Gerlt&amp;rft.aufirst=JA&amp;rft.au=Allen%2C+KN&amp;rft.au=Almo%2C+SC&amp;rft.au=Armstrong%2C+RN&amp;rft.au=Babbitt%2C+PC&amp;rft.au=Cronan%2C+JE&amp;rft.au=Dunaway-Mariano%2C+D&amp;rft.au=Imker%2C+HJ&amp;rft.au=Jacobson%2C+MP&amp;rft.au=Minor%2C+W&amp;rft.au=Poulter%2C+CD&amp;rft.au=Raushel%2C+FM&amp;rft.au=Sali%2C+A&amp;rft.au=Shoichet%2C+BK&amp;rft.au=Sweedler%2C+JV&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3238057&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Song, Ling; Kalyanaraman, Chakrapani; Fedorov, Alexander A; Fedorov, Elena V; Glasner, Margaret E; Brown, Shoshana; Imker, Heidi J; Babbitt, Patricia C; Almo, Steven C (2007). "Prediction and assignment of function for a divergent N-succinyl amino acid racemase". <i>Nature Chemical Biology</i>. <b>3</b> (8): 486–91. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnchembio.2007.11" rel="nofollow">10.1038/nchembio.2007.11</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17603539" rel="nofollow">17603539</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Chemical+Biology&amp;rft.atitle=Prediction+and+assignment+of+function+for+a+divergent+N-succinyl+amino+acid+racemase&amp;rft.volume=3&amp;rft.issue=8&amp;rft.pages=486-91&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1038%2Fnchembio.2007.11&amp;rft_id=info%3Apmid%2F17603539&amp;rft.aulast=Song&amp;rft.aufirst=Ling&amp;rft.au=Kalyanaraman%2C+Chakrapani&amp;rft.au=Fedorov%2C+Alexander+A&amp;rft.au=Fedorov%2C+Elena+V&amp;rft.au=Glasner%2C+Margaret+E&amp;rft.au=Brown%2C+Shoshana&amp;rft.au=Imker%2C+Heidi+J&amp;rft.au=Babbitt%2C+Patricia+C&amp;rft.au=Almo%2C+Steven+C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hermann, Johannes C.; Marti-Arbona, Ricardo; Fedorov, Alexander A.; Fedorov, Elena; Almo, Steven C.; Shoichet, Brian K.; Raushel, Frank M. (2007). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2254328" rel="nofollow">"Structure-based activity prediction for an enzyme of unknown function"</a>. <i>Nature</i>. <b>448</b> (7155): 775–779. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnature05981" rel="nofollow">10.1038/nature05981</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2254328" rel="nofollow">2254328</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17603473" rel="nofollow">17603473</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Structure-based+activity+prediction+for+an+enzyme+of+unknown+function&amp;rft.volume=448&amp;rft.issue=7155&amp;rft.pages=775-779&amp;rft.date=2007&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2254328&amp;rft_id=info%3Apmid%2F17603473&amp;rft_id=info%3Adoi%2F10.1038%2Fnature05981&amp;rft.aulast=Hermann&amp;rft.aufirst=Johannes+C.&amp;rft.au=Marti-Arbona%2C+Ricardo&amp;rft.au=Fedorov%2C+Alexander+A.&amp;rft.au=Fedorov%2C+Elena&amp;rft.au=Almo%2C+Steven+C.&amp;rft.au=Shoichet%2C+Brian+K.&amp;rft.au=Raushel%2C+Frank+M.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2254328&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kalyanaraman, C; Imker, H; Fedorov, A; Fedorov, E; Glasner, M; Babbitt, P; Almo, S; Gerlt, J; Jacobson, M (2008). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2714228" rel="nofollow">"Discovery of a Dipeptide Epimerase Enzymatic Function Guided by Homology Modeling and Virtual Screening"</a>. <i>Structure</i>. <b>16</b> (11): 1668–77. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.str.2008.08.015" rel="nofollow">10.1016/j.str.2008.08.015</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2714228" rel="nofollow">2714228</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19000819" rel="nofollow">19000819</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Structure&amp;rft.atitle=Discovery+of+a+Dipeptide+Epimerase+Enzymatic+Function+Guided+by+Homology+Modeling+and+Virtual+Screening&amp;rft.volume=16&amp;rft.issue=11&amp;rft.pages=1668-77&amp;rft.date=2008&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2714228&amp;rft_id=info%3Apmid%2F19000819&amp;rft_id=info%3Adoi%2F10.1016%2Fj.str.2008.08.015&amp;rft.aulast=Kalyanaraman&amp;rft.aufirst=C&amp;rft.au=Imker%2C+H&amp;rft.au=Fedorov%2C+A&amp;rft.au=Fedorov%2C+E&amp;rft.au=Glasner%2C+M&amp;rft.au=Babbitt%2C+P&amp;rft.au=Almo%2C+S&amp;rft.au=Gerlt%2C+J&amp;rft.au=Jacobson%2C+M&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2714228&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pegg, Scott C.-H.; Brown, Shoshana D.; Ojha, Sunil; Seffernick, Jennifer; Meng, Elaine C.; Morris, John H.; Chang, Patricia J.; Huang, Conrad C.; Ferrin, Thomas E. (2006). "Leveraging Enzyme Structure−Function Relationships for Functional Inference and Experimental Design: The Structure−Function Linkage Database†". <i>Biochemistry</i>. <b>45</b> (8): 2545–55. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fbi052101l" rel="nofollow">10.1021/bi052101l</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16489747" rel="nofollow">16489747</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biochemistry&amp;rft.atitle=Leveraging+Enzyme+Structure%E2%88%92Function+Relationships+for+Functional+Inference+and+Experimental+Design%3A+The+Structure%E2%88%92Function+Linkage+Database%E2%80%A0&amp;rft.volume=45&amp;rft.issue=8&amp;rft.pages=2545-55&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1021%2Fbi052101l&amp;rft_id=info%3Apmid%2F16489747&amp;rft.aulast=Pegg&amp;rft.aufirst=Scott+C.-H.&amp;rft.au=Brown%2C+Shoshana+D.&amp;rft.au=Ojha%2C+Sunil&amp;rft.au=Seffernick%2C+Jennifer&amp;rft.au=Meng%2C+Elaine+C.&amp;rft.au=Morris%2C+John+H.&amp;rft.au=Chang%2C+Patricia+J.&amp;rft.au=Huang%2C+Conrad+C.&amp;rft.au=Ferrin%2C+Thomas+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-EFI-DB-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-EFI-DB_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://kiemlicz.med.virginia.edu/efi/" rel="nofollow">"EFI-DB Experimental Database"</a>. Enzyme Function Initiative<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=EFI-DB+Experimental+Database&amp;rft.pub=Enzyme+Function+Initiative&amp;rft_id=http%3A%2F%2Fkiemlicz.med.virginia.edu%2Fefi%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gerlt, John A.; Babbitt, Patricia C.; Rayment, Ivan (2005). "Divergent evolution in the enolase superfamily: The interplay of mechanism and specificity". <i>Archives of Biochemistry and Biophysics</i>. <b>433</b> (1): 59–70. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.abb.2004.07.034" rel="nofollow">10.1016/j.abb.2004.07.034</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15581566" rel="nofollow">15581566</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Archives+of+Biochemistry+and+Biophysics&amp;rft.atitle=Divergent+evolution+in+the+enolase+superfamily%3A+The+interplay+of+mechanism+and+specificity&amp;rft.volume=433&amp;rft.issue=1&amp;rft.pages=59-70&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1016%2Fj.abb.2004.07.034&amp;rft_id=info%3Apmid%2F15581566&amp;rft.aulast=Gerlt&amp;rft.aufirst=John+A.&amp;rft.au=Babbitt%2C+Patricia+C.&amp;rft.au=Rayment%2C+Ivan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Burroughs, A. Maxwell; Allen, Karen N.; Dunaway-Mariano, Debra; Aravind, L. (2006). "Evolutionary Genomics of the HAD Superfamily: Understanding the Structural Adaptations and Catalytic Diversity in a Superfamily of Phosphoesterases and Allied Enzymes". <i>Journal of Molecular Biology</i>. <b>361</b> (5): 1003–34. <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.420.9551" rel="nofollow">10.1.1.420.9551</a></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.jmb.2006.06.049" rel="nofollow">10.1016/j.jmb.2006.06.049</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16889794" rel="nofollow">16889794</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Molecular+Biology&amp;rft.atitle=Evolutionary+Genomics+of+the+HAD+Superfamily%3A+Understanding+the+Structural+Adaptations+and+Catalytic+Diversity+in+a+Superfamily+of+Phosphoesterases+and+Allied+Enzymes&amp;rft.volume=361&amp;rft.issue=5&amp;rft.pages=1003-34&amp;rft.date=2006&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.420.9551&amp;rft_id=info%3Apmid%2F16889794&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jmb.2006.06.049&amp;rft.aulast=Burroughs&amp;rft.aufirst=A.+Maxwell&amp;rft.au=Allen%2C+Karen+N.&amp;rft.au=Dunaway-Mariano%2C+Debra&amp;rft.au=Aravind%2C+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Christianson, David W. (2006). "Structural Biology and Chemistry of the Terpenoid Cyclases". <i>Chemical Reviews</i>. <b>106</b> (8): 3412–42. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fcr050286w" rel="nofollow">10.1021/cr050286w</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16895335" rel="nofollow">16895335</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Reviews&amp;rft.atitle=Structural+Biology+and+Chemistry+of+the+Terpenoid+Cyclases&amp;rft.volume=106&amp;rft.issue=8&amp;rft.pages=3412-42&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1021%2Fcr050286w&amp;rft_id=info%3Apmid%2F16895335&amp;rft.aulast=Christianson&amp;rft.aufirst=David+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://enzymefunction.org/about/people" rel="nofollow">"People"</a>. Enzyme Function Initiative<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=People&amp;rft.pub=Enzyme+Function+Initiative&amp;rft_id=http%3A%2F%2Fenzymefunction.org%2Fabout%2Fpeople&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20120427104459/http://www.nigms.nih.gov/Research/FeaturedPrograms/Collaborative/GlueGrants/OutcomeAssessment/" rel="nofollow">"NIGMS Glue Grants Outcomes Assessment"</a>. NIGMS. Archived from <a class="external text" href="http://www.nigms.nih.gov/Research/FeaturedPrograms/Collaborative/GlueGrants/OutcomeAssessment" rel="nofollow">the original</a> on 2012-04-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NIGMS+Glue+Grants+Outcomes+Assessment&amp;rft.pub=NIGMS&amp;rft_id=http%3A%2F%2Fwww.nigms.nih.gov%2FResearch%2FFeaturedPrograms%2FCollaborative%2FGlueGrants%2FOutcomeAssessment&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnzyme+Function+Initiative"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://enzymefunction.org/" rel="nofollow">Enzyme Function Initiative</a></li>
+<li><a class="external text" href="http://sfld.rbvi.ucsf.edu/" rel="nofollow">Structure-Function Linkage Database</a></li>
+<li><a class="external text" href="http://kiemlicz.med.virginia.edu/efi/" rel="nofollow">EFI-DB</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20110627165123/http://www.nigms.nih.gov/Research/FeaturedPrograms/Collaborative/GlueGrants/Consortia.htm" rel="nofollow">NIGMS Glue Grant Consortia</a></li></ul>
+<div aria-label="Portals" class="noprint metadata navbox" role="navigation" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:ATP-3D-vdW.png"><img alt="ATP-3D-vdW.png" data-file-height="766" data-file-width="1100" decoding="async" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/ATP-3D-vdW.png/24px-ATP-3D-vdW.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/ATP-3D-vdW.png/36px-ATP-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/ATP-3D-vdW.png/48px-ATP-3D-vdW.png 2x" width="24"/></a></span><a class="mw-redirect" href="/wiki/Portal:Metabolism" title="Portal:Metabolism">Metabolism portal</a></span></li></ul></div>
+<!-- 
+NewPP limit report
+Parsed by mw1225
+Cached time: 20191219010826
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.496 seconds
+Real time usage: 0.615 seconds
+Preprocessor visited node count: 1863/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 45145/2097152 bytes
+Template argument size: 580/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 63802/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.298/10.000 seconds
+Lua memory usage: 4.84 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  559.506      1 -total
+ 68.63%  383.989      1 Template:Reflist
+ 36.73%  205.529     11 Template:Cite_journal
+ 23.90%  133.746      1 Template:Infobox_organization
+ 20.27%  113.413      1 Template:Infobox
+ 18.56%  103.864      2 Template:Cite_press_release
+  6.07%   33.958      6 Template:Cite_web
+  4.70%   26.316      2 Template:Unbulleted_list
+  4.43%   24.814      1 Template:Portal_bar
+  2.50%   13.985      4 Template:If_empty
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:31601913-0!canonical and timestamp 20191219010825 and revision id 931460114
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Enzyme_Function_Initiative&amp;oldid=931460114">https://en.wikipedia.org/w/index.php?title=Enzyme_Function_Initiative&amp;oldid=931460114</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Enzymes" title="Category:Enzymes">Enzymes</a></li><li><a href="/wiki/Category:Metabolism" title="Category:Metabolism">Metabolism</a></li><li><a href="/wiki/Category:Computational_biology" title="Category:Computational biology">Computational biology</a></li><li><a href="/wiki/Category:National_Institutes_of_Health" title="Category:National Institutes of Health">National Institutes of Health</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Enzyme+Function+Initiative" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Enzyme+Function+Initiative" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Enzyme_Function_Initiative" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Enzyme_Function_Initiative" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Enzyme_Function_Initiative">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Enzyme_Function_Initiative" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Enzyme_Function_Initiative" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Enzyme_Function_Initiative&amp;oldid=931460114" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Enzyme_Function_Initiative&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5381541" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Enzyme_Function_Initiative&amp;id=931460114" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Enzyme+Function+Initiative">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Enzyme+Function+Initiative&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Enzyme_Function_Initiative&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5381541#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 December 2019, at 01:08<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Enzyme_Function_Initiative&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.496","walltime":"0.615","ppvisitednodes":{"value":1863,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":45145,"limit":2097152},"templateargumentsize":{"value":580,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":63802,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  559.506      1 -total"," 68.63%  383.989      1 Template:Reflist"," 36.73%  205.529     11 Template:Cite_journal"," 23.90%  133.746      1 Template:Infobox_organization"," 20.27%  113.413      1 Template:Infobox"," 18.56%  103.864      2 Template:Cite_press_release","  6.07%   33.958      6 Template:Cite_web","  4.70%   26.316      2 Template:Unbulleted_list","  4.43%   24.814      1 Template:Portal_bar","  2.50%   13.985      4 Template:If_empty"]},"scribunto":{"limitreport-timeusage":{"value":"0.298","limit":"10.000"},"limitreport-memusage":{"value":5077632,"limit":52428800}},"cachereport":{"origin":"mw1225","timestamp":"20191219010826","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Enzyme Function Initiative","url":"https:\/\/en.wikipedia.org\/wiki\/Enzyme_Function_Initiative","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5381541","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5381541","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-04-26T18:17:32Z","dateModified":"2019-12-19T01:08:21Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/0\/0e\/Efi-mark.jpg","headline":"organization"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1249"});});</script>
+
+
+</body></html>

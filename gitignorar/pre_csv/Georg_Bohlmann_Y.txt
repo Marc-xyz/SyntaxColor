@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Georg Bohlmann - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfuADApAMFIAAJWGpvQAAAAX","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Georg_Bohlmann","wgTitle":"Georg Bohlmann","wgCurRevisionId":814951140,"wgRevisionId":814951140,"wgArticleId":40245486,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","Infobox person using residence","Articles with hCards","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers",
+"Wikipedia articles with MGP identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","20th-century German mathematicians","19th-century German mathematicians","Probability theorists","1869 births","1928 deaths"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Georg_Bohlmann","wgRelevantArticleId":40245486,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
+"wgWikibaseItemId":"Q126240","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons",
+"ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bohlmann.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Georg_Bohlmann" rel="alternate"/>
+<link href="/w/index.php?title=Georg_Bohlmann&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Georg_Bohlmann&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Georg_Bohlmann" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Georg_Bohlmann rootpage-Georg_Bohlmann skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Georg Bohlmann</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Georg Bohlmann</div></th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Bohlmann.jpg"><img alt="Bohlmann.jpg" data-file-height="1798" data-file-width="1200" decoding="async" height="330" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bohlmann.jpg/220px-Bohlmann.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bohlmann.jpg/330px-Bohlmann.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bohlmann.jpg/440px-Bohlmann.jpg 2x" width="220"/></a></td></tr><tr><th scope="row">Born</th><td><span style="display:none">(<span class="bday">1869-04-23</span>)</span>23 April 1869<br/><div class="birthplace" style="display:inline"><a href="/wiki/Berlin" title="Berlin">Berlin</a>, <a href="/wiki/Prussia" title="Prussia">Prussia</a></div></td></tr><tr><th scope="row">Died</th><td>25 April 1928<span style="display:none">(1928-04-25)</span> (aged 59)<br/><div class="deathplace" style="display:inline"><a href="/wiki/Berlin" title="Berlin">Berlin</a>, <a href="/wiki/Weimar_Republic" title="Weimar Republic">Germany</a></div></td></tr><tr><th scope="row">Residence</th><td><a href="/wiki/Germany" title="Germany">Germany</a></td></tr><tr><th scope="row">Nationality</th><td class="category"><a href="/wiki/Germany" title="Germany">German</a></td></tr><tr><th scope="row">Alma mater</th><td><a class="mw-redirect" href="/wiki/University_of_Berlin" title="University of Berlin">University of Berlin</a> <br/> <a class="mw-redirect" href="/wiki/University_of_Halle" title="University of Halle">University of Halle</a></td></tr><tr><td colspan="2" style="text-align:center"><b>Scientific career</b></td></tr><tr><th scope="row">Fields</th><td class="category"><a href="/wiki/Probability_theory" title="Probability theory">Probability theory</a> <br/> <a class="mw-redirect" href="/wiki/Actuarial_mathematics" title="Actuarial mathematics">Actuarial mathematics</a></td></tr><tr><th scope="row">Institutions</th><td>Meteorological Institute of Berlin <br/> <a href="/wiki/University_of_G%C3%B6ttingen" title="University of Göttingen">University of Göttingen</a> <br/> New York Mutual Life Insurance Company</td></tr><tr><th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th><td><i>Ueber eine gewisse Klasse continuirlicher Gruppen und ihren Zusammenhang mit den Additionstheoremen ("On a certain class of continuous groups and their relation to addition theorems")</i> <span style="font-size:97%;">(1892)</span></td></tr><tr><th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th><td><a class="mw-redirect" href="/wiki/Albert_Wangerin" title="Albert Wangerin">Albert Wangerin</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><b>Georg Bohlmann</b> (23 April 1869 – 25 April 1928) was a <a href="/wiki/Germans" title="Germans">German</a> <a href="/wiki/Mathematician" title="Mathematician">mathematician</a> who specialized in <a href="/wiki/Probability_theory" title="Probability theory">probability theory</a> and <a class="mw-redirect" href="/wiki/Actuarial_mathematics" title="Actuarial mathematics">actuarial mathematics</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Life_and_career"><span class="tocnumber">1</span> <span class="toctext">Life and career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Publications"><span class="tocnumber">2</span> <span class="toctext">Publications</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Life_and_career">Life and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Georg_Bohlmann&amp;action=edit&amp;section=1" title="Edit section: Life and career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Georg Bohlmann went to school in <a href="/wiki/Berlin" title="Berlin">Berlin</a> and <a href="/wiki/Leipzig" title="Leipzig">Leipzig</a> and took his <i><a href="/wiki/Abitur" title="Abitur">Abitur</a></i> at the <i>Wilhelms-Gymnasium</i> in Berlin in 1888. After that, he began studying mathematics at the <a class="mw-redirect" href="/wiki/University_of_Berlin" title="University of Berlin">University of Berlin</a> under <a href="/wiki/Leopold_Kronecker" title="Leopold Kronecker">Leopold Kronecker</a>, <a href="/wiki/Lazarus_Fuchs" title="Lazarus Fuchs">Lazarus Fuchs</a>, and <a href="/wiki/Wilhelm_Dilthey" title="Wilhelm Dilthey">Wilhelm Dilthey</a>. As he advanced in his studies, <a class="mw-redirect" href="/wiki/Lie_groups" title="Lie groups">Lie groups</a> became the focus of his interest. Since this area was poorly represented at Berlin, he moved to the <a class="mw-redirect" href="/wiki/University_of_Halle" title="University of Halle">University of Halle</a>, where he obtained his doctorate in 1892 under <a class="mw-redirect" href="/wiki/Albert_Wangerin" title="Albert Wangerin">Albert Wangerin</a> with a dissertation on the topic <i>Ueber eine gewisse Klasse continuierlicher Gruppen und ihren Zusammenhang mit den Additionstheoremen</i> ("On a certain class of continuous groups and their relation to addition theorems").<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> After that, he worked at the Meteorological Institute of Berlin, where presumably his interest in applied mathematics developed.  At the invitation of <a href="/wiki/Felix_Klein" title="Felix Klein">Felix Klein</a>, he moved to the <a href="/wiki/University_of_G%C3%B6ttingen" title="University of Göttingen">University of Göttingen</a>, where he <a href="/wiki/Habilitation" title="Habilitation">habilitated</a> in 1894. In 1895, he was involved in starting a seminar on actuarial science at Göttingen.  However, since he held no permanent position there, he went to Berlin in 1903 to work as the Chief Actuary for the German subsidiary of the New York Mutual Life Insurance Company.
+</p><p>In 1901, he wrote the entry on life insurance mathematics in the <i><a href="/wiki/Klein%27s_encyclopedia" title="Klein's encyclopedia">Enzyklopädie der mathematischen Wissenschaften</a></i> ("Encyclopaedia of Mathematical Sciences") in which he gave <a href="/wiki/Probability_axioms" title="Probability axioms">axioms for probability theory</a> long before <a href="/wiki/Andrey_Kolmogorov" title="Andrey Kolmogorov">Andrey Kolmogorov</a> did so in 1933. In particular, he was the first to give the modern definition of <a href="/wiki/Independence_(probability_theory)" title="Independence (probability theory)">statistical independence</a>. Compared to the current structure of probability theory, his work only lacked the technical condition of <a href="/wiki/Sigma_additivity" title="Sigma additivity">sigma additivity</a>. However, in contrast to Kolmogorov, Bohlmann failed to prove significant theorems within his axiomatic framework. As a result, his fundamental contributions to probability theory gained very little attention. In particular, though Kolmogorov had visited Göttingen several times in the late 1920s, he had no knowledge of Bohlmann's work.
+</p><p>Bohlmann was an invited speaker in the <a href="/wiki/International_Congress_of_Mathematicians" title="International Congress of Mathematicians">International Congress of Mathematicians</a> in 1908 at Rome.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Georg_Bohlmann&amp;action=edit&amp;section=2" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a class="external text" href="http://gdz.sub.uni-goettingen.de/en/dms/load/img/?PPN=PPN360504779&amp;DMDID=dmdlog147" rel="nofollow">Lebensversicherungsmathematik</a></i> (Life Insurance Mathematics), Enzyklopädie der Mathematischen Wissenschaften, 1901</li>
+<li><i><a class="external text" href="http://gdz.sub.uni-goettingen.de/dms/load/img/?PPN=GDZPPN00249728X" rel="nofollow">Continuierliche Gruppen von quadratischen Transformationen der Ebene</a></i> (Continuous groups of quadratic transformations of the plane), Göttinger Nachrichten, 1896, pp. 44–54</li>
+<li><i><a class="external text" href="http://gdz.sub.uni-goettingen.de/dms/load/img/?PPN=GDZPPN002498596" rel="nofollow">Ein Ausgleichungsproblem</a></i> (A stabilization problem), Göttinger Nachrichten, 1899, pp. 260–271</li>
+<li><i>Die Grundbegriffe der Wahrscheinlichkeitsrechnung in ihrer Anwendung auf die Lebensversicherung</i> (The basic concepts of probability theory and its applications to life insurance), Atti del IV Congresso internazionale dei Matematici III, Rome 1909, pp. 244–278</li>
+<li><i>Anthropometrie und Lebensversicherung</i> (Anthropometry and life insurance), Zeitschrift für die gesamte Versicherungs-Wissenschaft 14, 1914, pp. 743–786</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Georg_Bohlmann&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Bohlmann, Georg (1892). <a class="external text" href="https://books.google.com/books?id=0pALAAAAYAAJ" rel="nofollow"><i>Ueber eine gewisse Klasse continuierlicher Gruppen und ihren Zusammenhang mit den Additionstheoremen</i></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ueber+eine+gewisse+Klasse+continuierlicher+Gruppen+und+ihren+Zusammenhang+mit+den+Additionstheoremen&amp;rft.date=1892&amp;rft.au=Bohlmann%2C+Georg&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D0pALAAAAYAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeorg+Bohlmann"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Bohlmann, G. <a class="external text" href="https://babel.hathitrust.org/cgi/pt?id=iau.31858027749682;view=1up;seq=266" rel="nofollow">"Über die Grundlagen der Wahrscheinlichkeitsrechnung in ihrer Anwendung auf die Lebensversicherung"</a>. <i>Atti del IV Congresso internazionale dei matematici (Roma, 6–11 Aprile 1908)</i>. vol. 3. pp. 244–278.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=%C3%9Cber+die+Grundlagen+der+Wahrscheinlichkeitsrechnung+in+ihrer+Anwendung+auf+die+Lebensversicherung&amp;rft.btitle=Atti+del+IV+Congresso+internazionale+dei+matematici+%28Roma%2C+6%E2%80%9311+Aprile+1908%29&amp;rft.pages=244-278&amp;rft.au=Bohlmann%2C+G.&amp;rft_id=https%3A%2F%2Fbabel.hathitrust.org%2Fcgi%2Fpt%3Fid%3Diau.31858027749682%3Bview%3D1up%3Bseq%3D266&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeorg+Bohlmann"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><i>Über die Grundlagen der Wahrscheinlichkeitsrechnung in ihrer Anwendung auf die Lebensversicherung.</i><span class="nowrap">  </span>"Mr. Bohlmann forms a system of postulates from which theorems of the calculus of probability can be deduced logically. He examines the criteria of probability concerning the independence of events and demonstrates the sufficiency of the usually criterium. He formulates supplementary postulates necessary to define the survival functions of the mathematics of insurance and gives a relation between the survival functions of groups and those of individuals." p. 28 of: <cite class="citation journal">Moore, C. L. E. (October 1908). "The fourth international Congress of Mathematicians: sectional meetings". <i>Bull. Amer. Math. Soc</i>. <b>15</b>: 8–43. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1090%2FS0002-9904-1908-01685-9" rel="nofollow">10.1090/S0002-9904-1908-01685-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bull.+Amer.+Math.+Soc.&amp;rft.atitle=The+fourth+international+Congress+of+Mathematicians%3A+sectional+meetings&amp;rft.volume=15&amp;rft.pages=8-43&amp;rft.date=1908-10&amp;rft_id=info%3Adoi%2F10.1090%2FS0002-9904-1908-01685-9&amp;rft.au=Moore%2C+C.+L.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeorg+Bohlmann"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<ul><li>Ulrich Krengel, <i>100 Jahre Versicherungsmathematik an den Universitäten</i> (100 years of actuarial science at universities), Blätter der deutschen Gesellschaft für Versicherungsmathematik 22, 1996, p. 663</li>
+<li>Ulrich Krengel, <a class="external text" href="http://www.emis.de/journals/JEHPS/juin2011/Krengel.pdf" rel="nofollow">On the contributions of Bohlmann to probability theory</a> (PDF: 6.4 MB), <a class="external text" href="http://www.jehps.net/" rel="nofollow">Electronic Journal for History of Probability and Statistics</a>, 2011</li>
+<li>Peter Koch, <i>Geschichte der Versicherungswissenschaft in Deutschland</i> (History of actuarial science in Germany), Verlag Versicherungswirtschaft, Karlsruhe 1998, <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/3-88487-745-3" title="Special:BookSources/3-88487-745-3">3-88487-745-3</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Georg_Bohlmann&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a class="external text" href="http://www.stochastik.math.uni-goettingen.de/index.php?id=18" rel="nofollow">Geschichte der Stochastik in Göttingen</a></i> (History of Stochastics in Göttingen), Ulrich Krengel and Axel Munk</li></ul>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q126240&amp;#124;Edit_this_at_Wikidata" class="navbox authority-control" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q126240&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q126240" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/116231955" rel="nofollow">116231955</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a class="external text" href="http://isni.org/isni/0000000118330444" rel="nofollow">0000 0001 1833 0444</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a class="external text" href="https://id.loc.gov/authorities/names/n86861278" rel="nofollow">n86861278</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a class="external text" href="https://genealogy.math.ndsu.nodak.edu/id.php?id=37742" rel="nofollow">37742</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Royal_Library_of_the_Netherlands" title="Royal Library of the Netherlands">NTA</a>: <span class="uid"><a class="external text" href="http://data.bibliotheken.nl/id/thes/p191018244" rel="nofollow">191018244</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a class="external text" href="https://viaf.org/viaf/294922722" rel="nofollow">294922722</a></span></span></li>
+<li><span class="nowrap"> <a class="mw-redirect" href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a class="external text" href="https://www.worldcat.org/identities/containsVIAFID/294922722" rel="nofollow">294922722</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20191218225248
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.316 seconds
+Real time usage: 0.458 seconds
+Preprocessor visited node count: 1809/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23200/2097152 bytes
+Template argument size: 3286/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11398/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.167/10.000 seconds
+Lua memory usage: 3.86 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  420.328      1 -total
+ 47.65%  200.281      1 Template:Infobox_scientist
+ 45.73%  192.235      1 Template:Infobox_person
+ 43.25%  181.787      2 Template:Infobox
+ 23.80%  100.022      5 Template:Br_separated_entries
+ 21.19%   89.050      2 Template:Cite_book
+ 13.19%   55.423      1 Template:Birth_date
+ 11.60%   48.750      1 Template:Authority_control
+  9.01%   37.886      1 Template:ISBN
+  7.59%   31.923      1 Template:Cite_journal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40245486-0!canonical and timestamp 20191218225247 and revision id 814951140
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Georg_Bohlmann&amp;oldid=814951140">https://en.wikipedia.org/w/index.php?title=Georg_Bohlmann&amp;oldid=814951140</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:20th-century_German_mathematicians" title="Category:20th-century German mathematicians">20th-century German mathematicians</a></li><li><a href="/wiki/Category:19th-century_German_mathematicians" title="Category:19th-century German mathematicians">19th-century German mathematicians</a></li><li><a href="/wiki/Category:Probability_theorists" title="Category:Probability theorists">Probability theorists</a></li><li><a href="/wiki/Category:1869_births" title="Category:1869 births">1869 births</a></li><li><a href="/wiki/Category:1928_deaths" title="Category:1928 deaths">1928 deaths</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li><li><a href="/wiki/Category:Infobox_person_using_residence" title="Category:Infobox person using residence">Infobox person using residence</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MGP_identifiers" title="Category:Wikipedia articles with MGP identifiers">Wikipedia articles with MGP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Georg+Bohlmann" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Georg+Bohlmann" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Georg_Bohlmann" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Georg_Bohlmann" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Georg_Bohlmann">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Georg_Bohlmann&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Georg_Bohlmann&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Georg_Bohlmann" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Georg_Bohlmann" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Georg_Bohlmann&amp;oldid=814951140" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Georg_Bohlmann&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q126240" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Georg_Bohlmann&amp;id=814951140" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Georg+Bohlmann">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Georg+Bohlmann&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Georg_Bohlmann&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AC%D9%88%D8%B1%D8%AC_%D8%A8%D9%88%D9%84%D9%85%D8%A7%D9%86_(%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA%D9%8A)" hreflang="ar" lang="ar" title="جورج بولمان (رياضياتي) – Arabic">العربية</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Georg_Bohlmann" hreflang="de" lang="de" title="Georg Bohlmann – German">Deutsch</a></li><li class="interlanguage-link interwiki-pms"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Georg_Bohlmann" hreflang="pms" lang="pms" title="Georg Bohlmann – Piedmontese">Piemontèis</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Georg_Bohlmann" hreflang="pt" lang="pt" title="Georg Bohlmann – Portuguese">Português</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q126240#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 11 December 2017, at 21:27<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Georg_Bohlmann&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.458","ppvisitednodes":{"value":1809,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":23200,"limit":2097152},"templateargumentsize":{"value":3286,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11398,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  420.328      1 -total"," 47.65%  200.281      1 Template:Infobox_scientist"," 45.73%  192.235      1 Template:Infobox_person"," 43.25%  181.787      2 Template:Infobox"," 23.80%  100.022      5 Template:Br_separated_entries"," 21.19%   89.050      2 Template:Cite_book"," 13.19%   55.423      1 Template:Birth_date"," 11.60%   48.750      1 Template:Authority_control","  9.01%   37.886      1 Template:ISBN","  7.59%   31.923      1 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.167","limit":"10.000"},"limitreport-memusage":{"value":4043747,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20191218225248","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Georg Bohlmann","url":"https:\/\/en.wikipedia.org\/wiki\/Georg_Bohlmann","sameAs":"http:\/\/www.wikidata.org\/entity\/Q126240","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q126240","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-08-15T03:21:35Z","dateModified":"2017-12-11T21:27:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bb\/Bohlmann.jpg","headline":"German mathematician"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1247"});});</script>
+
+
+</body></html>

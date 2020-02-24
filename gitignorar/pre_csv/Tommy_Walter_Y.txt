@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Tommy Walter - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfmiEgpAADgAAJlot2cAAADJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Tommy_Walter","wgTitle":"Tommy Walter","wgCurRevisionId":919209285,"wgRevisionId":919209285,"wgArticleId":397016,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Use mdy dates from December 2014","BLP articles lacking sources from July 2007","All BLP articles lacking sources","Articles with hCards",
+"Official website different in Wikidata and Wikipedia","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1970 births","American rock guitarists","American male guitarists","American singer-songwriters","American rock songwriters","American rock singers","Eels (band) members","American indie rock musicians","Living people","Pacific University alumni","Tooth \u0026 Nail Records artists","Warner Records artists","Guitarists from Los Angeles","21st-century American singers"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Tommy_Walter","wgRelevantArticleId":397016,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,
+"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q10397818","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};
+RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tommy_Walter" rel="alternate"/>
+<link href="/w/index.php?title=Tommy_Walter&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Tommy_Walter&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Tommy_Walter" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Tommy_Walter rootpage-Tommy_Walter skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Tommy Walter</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">United States musician and songwriter</div>
+<p class="mw-empty-elt">
+</p>
+<table class="box-BLP_sources plainlinks metadata ambox ambox-content ambox-BLP_sources" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biography of a living person</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help by adding <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable sources</a>. Contentious material about living persons that is unsourced or poorly sourced <b>must be removed immediately</b>, especially if potentially <a href="/wiki/Wikipedia:Libel" title="Wikipedia:Libel">libelous</a> or harmful.<br/><small><span class="plainlinks"><i>Find sources:</i> <a class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Tommy+Walter%22" rel="nofollow">"Tommy Walter"</a> – <a class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Tommy+Walter%22+-wikipedia" rel="nofollow">news</a> <b>·</b> <a class="external text" href="//www.google.com/search?&amp;q=%22Tommy+Walter%22+site:news.google.com/newspapers&amp;source=newspapers" rel="nofollow">newspapers</a> <b>·</b> <a class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Tommy+Walter%22+-wikipedia" rel="nofollow">books</a> <b>·</b> <a class="external text" href="//scholar.google.com/scholar?q=%22Tommy+Walter%22" rel="nofollow">scholar</a> <b>·</b> <a class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Tommy+Walter%22&amp;acc=on&amp;wc=on" rel="nofollow">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">July 2007</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard plainlist" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #f0e68c"><div class="fn" style="display:inline;">Tommy Walter</div></th></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1970-10-30</span>) </span>October 30, 1970<span class="noprint ForceAgeToShow"> (age 49)</span><br/><a href="/wiki/Thousand_Oaks,_California" title="Thousand Oaks, California">Thousand Oaks, California</a>, U.S.</td></tr><tr><th scope="row">Origin</th><td><a class="mw-redirect" href="/wiki/Los_Angeles,_California" title="Los Angeles, California">Los Angeles, California</a>, U.S.</td></tr><tr><th scope="row">Genres</th><td><a class="mw-redirect" href="/wiki/Alternative_Rock" title="Alternative Rock">Alternative Rock</a>, <a class="mw-redirect" href="/wiki/Indie_Rock" title="Indie Rock">Indie Rock</a>, <a class="mw-redirect" href="/wiki/Indie_Pop" title="Indie Pop">Indie Pop</a>, <a class="mw-redirect" href="/wiki/Synthpop" title="Synthpop">Synthpop</a></td></tr><tr><th scope="row"><span class="nowrap">Occupation(s)</span></th><td class="role">Musician, singer-songwriter, record producer</td></tr><tr><th scope="row">Instruments</th><td class="note">Vocals, bass, guitar, drums, keyboards, <a href="/wiki/French_horn" title="French horn">French horn</a></td></tr><tr><th scope="row"><span class="nowrap">Years active</span></th><td>1995–present</td></tr><tr><th scope="row">Labels</th><td><a href="/wiki/DreamWorks_Records" title="DreamWorks Records">DreamWorks</a>, <a href="/wiki/Extasy_Records" title="Extasy Records">Extasy</a>, <a class="mw-redirect" href="/wiki/Universal_Records" title="Universal Records">Universal</a>, Visionary Music, <a href="/wiki/CreateSpace" title="CreateSpace">CreateSpace</a>, I Miss You, <a href="/wiki/Tooth_%26_Nail_Records" title="Tooth &amp; Nail Records">Tooth &amp; Nail</a>, Hype Music</td></tr><tr><th scope="row"><span class="nowrap">Associated acts</span></th><td>Abandoned Pools, <a href="/wiki/Eels_(band)" title="Eels (band)">Eels</a>, <a href="/wiki/On_(band)" title="On (band)">ON</a>, Glacier Hiking, Oliver the Penguin</td></tr><tr><th scope="row">Website</th><td><a class="external text" href="http://www.abandonedpools.com" rel="nofollow">Abandoned Pools</a></td></tr></tbody></table>
+<p><b>Thomas Edward "Tommy" Walter</b> (born October 30, 1970, <a href="/wiki/Thousand_Oaks,_California" title="Thousand Oaks, California">Thousand Oaks, California</a>) is an American musician and songwriter, best known for his <a href="/wiki/Alternative_rock" title="Alternative rock">alternative rock</a> band, <b>Abandoned Pools</b>, as well as being the former bassist and one of the founding members of <a href="/wiki/Eels_(band)" title="Eels (band)">Eels</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_years_and_the_Eels"><span class="tocnumber">1</span> <span class="toctext">Early years and the Eels</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Humanistic_(2001–2004)"><span class="tocnumber">2</span> <span class="toctext"><i>Humanistic</i> (2001–2004)</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Armed_to_the_Teeth_(2005–2007)"><span class="tocnumber">3</span> <span class="toctext"><i>Armed to the Teeth</i> (2005–2007)</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Sublime_Currency_(2011–2012)"><span class="tocnumber">4</span> <span class="toctext"><i>Sublime Currency</i> (2011–2012)</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Somnambulist_(2013–present)"><span class="tocnumber">5</span> <span class="toctext"><i>Somnambulist</i> (2013–present)</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Discography"><span class="tocnumber">6</span> <span class="toctext">Discography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Eels"><span class="tocnumber">6.1</span> <span class="toctext">Eels</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Abandoned_Pools"><span class="tocnumber">6.2</span> <span class="toctext">Abandoned Pools</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Glacier_Hiking"><span class="tocnumber">6.3</span> <span class="toctext">Glacier Hiking</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Oliver_the_Penguin"><span class="tocnumber">6.4</span> <span class="toctext">Oliver the Penguin</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Music_videos"><span class="tocnumber">7</span> <span class="toctext">Music videos</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Abandoned_Pools_2"><span class="tocnumber">7.1</span> <span class="toctext">Abandoned Pools</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_years_and_the_Eels">Early years and the Eels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=1" title="Edit section: Early years and the Eels">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tommy Walter was raised in Westlake Village. His father was an airplane pilot; his mother a stewardess. His father is from Canada,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> and was almost 47 when Tommy was born. He grew up in a modest, middle-class household. He began playing bass at a young age, and was formally trained on the French horn in college. He attended the <a href="/wiki/University_of_Southern_California" title="University of Southern California">University of Southern California</a>, followed by <a href="/wiki/Pacific_University" title="Pacific University">Pacific University</a>. He began teaching <a class="mw-redirect" href="/wiki/European_classical_music" title="European classical music">classical music</a> <a href="/wiki/Music_theory" title="Music theory">theory</a>, and worked with local Los Angeles area musicians.
+</p><p>He met with singer-songwriter <a href="/wiki/Mark_Oliver_Everett" title="Mark Oliver Everett">Mark Oliver Everett</a> (known as E), and <a class="mw-redirect" href="/wiki/Butch_Norton" title="Butch Norton">Butch Norton</a> and formed Eels. Prior to their founding, E had already released two records by himself, under his single-letter pseudonym, and their name was decided upon so that their music would be placed next to E's solo works. However, it was in retrospect that they realized that there were bands that would be placed in between, such as <a href="/wiki/Eagles_(band)" title="Eagles (band)">Eagles</a>.
+</p><p>Their collaborations led to refining songs that E had previously written, as well as creating new material. They released their debut album, <i><a href="/wiki/Beautiful_Freak" title="Beautiful Freak">Beautiful Freak</a></i>, in 1996. However, after a year of touring, Walter left the band. In an interview, he stated his dissatisfaction with E's personality, and the loss of the amount of creative input that both Butch and himself had prior to the success of Beautiful Freak.
+</p><p>Soon after, he formed a band called Metromax. They shortly changed their name to Tely, and released an album over the Internet. However, the band didn't garner much success, and it soon evolved into Walter's solo project, Abandoned Pools.
+</p>
+<h2><span id="Humanistic_.282001.E2.80.932004.29"></span><span class="mw-headline" id="Humanistic_(2001–2004)"><i>Humanistic</i> (2001–2004)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=2" title="Edit section: Humanistic (2001–2004)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Walter, using new material, as well as several songs he had worked on beforehand in both Tely and Metromax, composed, recorded, and released his solo album, <i><a href="/wiki/Humanistic_(album)" title="Humanistic (album)">Humanistic</a></i>, in 2001 on <a href="/wiki/Extasy_Records" title="Extasy Records">Extasy Records</a>. While being the creative force behind the project, other musicians contributed to the project, such as Angie Hart of <a href="/wiki/Frente!" title="Frente!">Frente!</a>, who sang backing vocals to "Start Over," "Ruin Your Life," "Sunny Day," and "Seed."
+</p><p>Although a solo project, he recruited a touring band, featuring <a href="/wiki/Leah_Randi" title="Leah Randi">Leah Randi</a> and Bryan Head filling out the ranks of bassist and drummer, respectively. They had several successful tours, going across the country and headlining with acts such as <a href="/wiki/Garbage_(band)" title="Garbage (band)">Garbage</a>, <a href="/wiki/A_Perfect_Circle" title="A Perfect Circle">A Perfect Circle</a> and <a href="/wiki/Lenny_Kravitz" title="Lenny Kravitz">Lenny Kravitz</a>. They also appeared on <i><a class="mw-redirect" href="/wiki/The_Late_Late_Show_(CBS_TV_series)" title="The Late Late Show (CBS TV series)">The Late Late Show with Craig Kilborn</a></i> and two videos, "<a class="mw-redirect" href="/wiki/Mercy_Kiss" title="Mercy Kiss">Mercy Kiss</a>", and "The Remedy", were released. Monster, another video, was composed of shots taken while on touring, but wasn't released for years, via MTV's website.
+</p><p>In 2002 they performed the theme song for the short-lived <a class="mw-redirect" href="/wiki/Teletoon_(Canada)" title="Teletoon (Canada)">Teletoon</a> (also broadcast on <a href="/wiki/MTV" title="MTV">MTV</a>) animated series <i><a href="/wiki/Clone_High" title="Clone High">Clone High</a></i>.   Many of their songs can be heard in the background during the show. Walter also voiced himself in a brief appearance in the final episode. After <i>Clone High</i> was dropped by MTV, however, the band stopped its touring (largely due to the dissolution of their label, <a href="/wiki/Extasy_Records" title="Extasy Records">Extasy Records</a>).
+</p>
+<h2><span id="Armed_to_the_Teeth_.282005.E2.80.932007.29"></span><span class="mw-headline" id="Armed_to_the_Teeth_(2005–2007)"><i>Armed to the Teeth</i> (2005–2007)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=3" title="Edit section: Armed to the Teeth (2005–2007)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While keeping in touch with his fanbase and caring for his sick cat, Iggy, Walter began working on material over the next few years, preparing to release another album. After a relationship of his came to a rough conclusion, he was picked up by <a href="/wiki/Universal_Music_Group" title="Universal Music Group">Universal</a>, and wrote several new songs for his next album, citing his personal life, as well as politics, as his main inspirations.
+</p><p>Teaming up with Bryan Head once more and bringing in guitarist Sean Woolstenhulme, Walter started work in 2004 to record his next album. In June 2005 they released an EP, consisting of a few songs from the new album along with b-sides and demos, called <i>The Reverb EP</i>. This was followed by the full album, <i><a href="/wiki/Armed_to_the_Teeth_(Abandoned_Pools_album)" title="Armed to the Teeth (Abandoned Pools album)">Armed to the Teeth</a></i>, in September 2005
+</p><p>In January 2006, Walter wrote in his online journal that <a class="mw-redirect" href="/wiki/Universal_Records" title="Universal Records">Universal Records</a> had stopped promoting the album. He subsequently quit the label, also noting that Abandoned Pools is once again a one-man project. He has since created two side projects—Glacier Hiking, an alternative rock band, and Oliver the Penguin, an electronica project.
+</p>
+<h2><span id="Sublime_Currency_.282011.E2.80.932012.29"></span><span class="mw-headline" id="Sublime_Currency_(2011–2012)"><i>Sublime Currency</i> (2011–2012)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=4" title="Edit section: Sublime Currency (2011–2012)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On May 3, 2011, Abandoned Pools released the song "In Silence", available in all digital stores, as the first single from the upcoming album <i>Sublime Currency</i>.  On June 7, 2011, the second single, "Marigolds" was released in all digital stores.
+</p><p>On January 30, 2012, Abandoned Pools revealed that they had signed onto a new record label, <a href="/wiki/Tooth_%26_Nail_Records" title="Tooth &amp; Nail Records">Tooth &amp; Nail Records</a>, and that <i>Sublime Currency</i>  would be released under this label. They also mentioned that the release date of the third album will be revealed "soon".<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>It was revealed on May 17, 2012, that <i>Sublime Currency</i> would feature 11 tracks.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> On July 10, 2012, it was revealed that <i>Sublime Currency</i> would be released on August 28, 2012, and the final artwork for the album was shown.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>On July 26, 2012, the album's title track premiered on <a class="mw-redirect" href="/wiki/Alternative_Press_(music_magazine)" title="Alternative Press (music magazine)">Alternative Press</a>' website.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> On August 14, 2012, the track was officially released as the album's third single.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> The next day, the track "Unrehearsed" was made free to download on <a href="/wiki/RCRD_LBL" title="RCRD LBL">RCRD LBL</a>'s website.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> On August 22, 2012, the track "Behemoth" premiered on <a href="/wiki/CMJ" title="CMJ">CMJ</a>'s website.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p><p><i>Sublime Currency</i> was released on August 28, 2012, and a music video for the single "Sublime Currency" was released on September 7.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p>
+<h2><span id="Somnambulist_.282013.E2.80.93present.29"></span><span class="mw-headline" id="Somnambulist_(2013–present)"><i>Somnambulist</i> (2013–present)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=5" title="Edit section: Somnambulist (2013–present)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On June 6, 2013, the Abandoned Pools Twitter account announced that the band's next LP, entitled <i>Somnambulist</i>, will be released on July 2, 2013.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Shortly after, it was announced that album will be delayed by a week, and will instead be released on July 9, 2013.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p><p>On November 26, 2013, Abandoned Pools released a cover of the Christmas song "<a href="/wiki/The_First_Noel" title="The First Noel">The First Noel</a>" through the album <i>Hype Music Presents Holidays, Vol. 1</i>.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=6" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Eels">Eels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=7" title="Edit section: Eels">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th style="text-align:center;">Album information
+</th></tr>
+<tr>
+<td align="left"><i><b><a href="/wiki/Beautiful_Freak" title="Beautiful Freak">Beautiful Freak</a></b></i>
+<ul><li>Released: August 13, 1996</li>
+<li>Label: <a href="/wiki/DreamWorks_Records" title="DreamWorks Records">DreamWorks Records</a></li>
+<li>Singles: "<a href="/wiki/Novocaine_for_the_Soul" title="Novocaine for the Soul">Novocaine for the Soul</a>", "<a href="/wiki/Susan%27s_House" title="Susan's House">Susan's House</a>", "Rags to Rags", "<a href="/wiki/Your_Lucky_Day_in_Hell" title="Your Lucky Day in Hell">Your Lucky Day in Hell</a>", "Beautiful Freak"</li></ul>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Abandoned_Pools">Abandoned Pools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=8" title="Edit section: Abandoned Pools">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Full-length</b>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th style="text-align:center;">Album information
+</th></tr>
+<tr>
+<td align="left"><i><b><a href="/wiki/Humanistic_(album)" title="Humanistic (album)">Humanistic</a></b></i>
+<ul><li>Released:  September 25, 2001 <small>(US)</small></li>
+<li>Label: <a href="/wiki/Extasy_Records" title="Extasy Records">Extasy Records</a>/<a class="mw-redirect" href="/wiki/Warner_Bros._Records" title="Warner Bros. Records">Warner Bros. Records</a></li>
+<li>Singles: "The Remedy", "Mercy Kiss"</li></ul>
+</td></tr>
+<tr>
+<td align="left"><i><b><a href="/wiki/Armed_to_the_Teeth_(Abandoned_Pools_album)" title="Armed to the Teeth (Abandoned Pools album)">Armed to the Teeth</a></b></i>
+<ul><li>Released:  September 27, 2005  <small>(US)</small></li>
+<li>Label: <a class="mw-redirect" href="/wiki/Universal_Records" title="Universal Records">Universal Records</a></li>
+<li>Singles: "Armed to the Teeth"</li></ul>
+</td></tr>
+<tr>
+<td align="left"><i><b>Sublime Currency</b></i>
+<ul><li>Released:  August 28, 2012  <small>(US)</small></li>
+<li>Label: <a href="/wiki/Tooth_%26_Nail_Records" title="Tooth &amp; Nail Records">Tooth &amp; Nail Records</a></li>
+<li>Singles: "In Silence", "Marigolds", "Sublime Currency"</li></ul>
+</td></tr>
+<tr>
+<td align="left"><i><b>Somnambulist</b></i>
+<ul><li>Released: July 9, 2013  <small>(US)</small></li>
+<li>Label: Hype Music</li>
+<li>Singles: "Red Flag"</li></ul>
+</td></tr></tbody></table>
+<p><b>EPs</b>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th style="text-align:center;">Album information
+</th></tr>
+<tr>
+<td align="left"><i><b>The Reverb EP</b></i>
+<ul><li>Released:  June 7, 2005  <small>(US)</small></li>
+<li>Label: Universal Records</li></ul>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Glacier_Hiking">Glacier Hiking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=9" title="Edit section: Glacier Hiking">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th style="text-align:center;">Album information
+</th></tr>
+<tr>
+<td align="left"><i><b>The Color by Number EP</b></i>
+<ul><li>Released:  January 8, 2009<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>  <small>(US)</small></li>
+<li>Label: <a href="/wiki/CreateSpace" title="CreateSpace">CreateSpace</a></li></ul>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Oliver_the_Penguin">Oliver the Penguin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=10" title="Edit section: Oliver the Penguin">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th style="text-align:center;">Album information
+</th></tr>
+<tr>
+<td align="left"><i><b>Button Pusher</b></i>
+<ul><li>Released:  August 5, 2009<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>  <small>(US)</small></li>
+<li>Label: I Miss You Records</li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Music_videos">Music videos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=11" title="Edit section: Music videos">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Abandoned_Pools_2">Abandoned Pools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=12" title="Edit section: Abandoned Pools">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Song
+</th>
+<th>Director
+</th></tr>
+<tr>
+<td>2001
+</td>
+<td>"Mercy Kiss"
+</td>
+<td>Frank Sacramento
+</td></tr>
+<tr>
+<td rowspan="2">2002
+</td>
+<td>"The Remedy"
+</td>
+<td><a href="/wiki/Greg_and_Colin_Strause" title="Greg and Colin Strause">The Brothers Strause</a>
+</td></tr>
+<tr>
+<td>"Monster"<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</td>
+<td>Corey Campodonico
+</td></tr>
+<tr>
+<td>2005
+</td>
+<td>"Armed to the Teeth"
+</td>
+<td>Deana Concilio-Lenz<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</td></tr>
+<tr>
+<td>2012
+</td>
+<td>"Sublime Currency"
+</td>
+<td>Frank Sacramento
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Clone_High" title="Clone High">Clone High</a></i></li>
+<li><a href="/wiki/Eels_(band)" title="Eels (band)">Eels</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://abandonedpools.tumblr.com/post/23248670290/are-you-going-on-tour-for-your-new-album-would-you" rel="nofollow">"Are you going on tour for your new album? Would you consider doing any Canadian dates? Perhaps n Ottawa in particular?"</a>. Abandoned Pools Tumblr<span class="reference-accessdate">. Retrieved <span class="nowrap">October 25,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Are+you+going+on+tour+for+your+new+album%3F+Would+you+consider+doing+any+Canadian+dates%3F+Perhaps+n+Ottawa+in+particular%3F&amp;rft.pub=Abandoned+Pools+Tumblr&amp;rft_id=http%3A%2F%2Fabandonedpools.tumblr.com%2Fpost%2F23248670290%2Fare-you-going-on-tour-for-your-new-album-would-you&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATommy+Walter"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Casey (January 30, 2012). <a class="external text" href="https://web.archive.org/web/20120919002229/http://www.toothandnail.com/news/3915/Welcome_Abandoned_Pools_To_The_Tooth_Nail_Family/" rel="nofollow">"Tooth &amp; Nail | News | Welcome Abandoned Pools to the Tooth &amp; Nail Family!"</a>. Toothandnail.com. Archived from <a class="external text" href="http://www.toothandnail.com/news/3915/Welcome_Abandoned_Pools_To_The_Tooth_Nail_Family/" rel="nofollow">the original</a> on September 19, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">October 25,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tooth+%26+Nail+%26%23124%3B+News+%26%23124%3B+Welcome+Abandoned+Pools+to+the+Tooth+%26+Nail+Family%21&amp;rft.pub=Toothandnail.com&amp;rft.date=2012-01-30&amp;rft.au=Casey&amp;rft_id=http%3A%2F%2Fwww.toothandnail.com%2Fnews%2F3915%2FWelcome_Abandoned_Pools_To_The_Tooth_Nail_Family%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATommy+Walter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://abandonedpools.tumblr.com/post/23248225986/hi-im-a-big-fan-of-your-music-congrats-on-signing-to" rel="nofollow">"Hi, I'm a big fan of your music. Congrats on signing to "Tooth &amp; Nail records"! I saw you live &amp; met you, at the Viper Rooms on August the 5th-2011. I was the musician dude from the UK ha ha! (We had a photo taken). I would like to ask; How many tracks are on the upcoming album "Sublime Currency" ? &amp; do you play the track, "Armed to The Teeth" in your live shows?"</a>. Abandoned Pools Tumblr<span class="reference-accessdate">. Retrieved <span class="nowrap">October 25,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hi%2C+I%27m+a+big+fan+of+your+music.+Congrats+on+signing+to+%22Tooth+%26+Nail+records%22%21+I+saw+you+live+%26+met+you%2C+at+the+Viper+Rooms+on+August+the+5th-2011.+I+was+the+musician+dude+from+the+UK+ha+ha%21+%28We+had+a+photo+taken%29.+I+would+like+to+ask%3B+How+many+tracks+are+on+the+upcoming+album+%22Sublime+Currency%22+%3F+%26+do+you+play+the+track%2C+%22Armed+to+The+Teeth%22+in+your+live+shows%3F&amp;rft.pub=Abandoned+Pools+Tumblr&amp;rft_id=http%3A%2F%2Fabandonedpools.tumblr.com%2Fpost%2F23248225986%2Fhi-im-a-big-fan-of-your-music-congrats-on-signing-to&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATommy+Walter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20120717051804/http://www.ellenwood-ep.com/2012/07/news/abandoned-pools-announce-release-of-sublime-currency-on-82812-cd-release-show-at-the-roxy-in-la-on-sept-15/" rel="nofollow">"ABANDONED POOLS Announce Release of "Sublime Currency" on 8/28/12 + cd release show at THE ROXY in LA on Sept 15 | ellenwood"</a>. Ellenwood-ep.com. August 28, 2012. Archived from <a class="external text" href="http://www.ellenwood-ep.com/2012/07/news/abandoned-pools-announce-release-of-sublime-currency-on-82812-cd-release-show-at-the-roxy-in-la-on-sept-15/" rel="nofollow">the original</a> on July 17, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">October 25,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ABANDONED+POOLS+Announce+Release+of+%22Sublime+Currency%22+on+8%2F28%2F12+%2B+cd+release+show+at+THE+ROXY+in+LA+on+Sept+15+%26%23124%3B+ellenwood&amp;rft.pub=Ellenwood-ep.com&amp;rft.date=2012-08-28&amp;rft_id=http%3A%2F%2Fwww.ellenwood-ep.com%2F2012%2F07%2Fnews%2Fabandoned-pools-announce-release-of-sublime-currency-on-82812-cd-release-show-at-the-roxy-in-la-on-sept-15%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATommy+Walter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.altpress.com/features/entry/song_premiere_abandoned_pools_sublime_currency" rel="nofollow">"Alternative Press | Features | Song Premiere: Abandoned Pools, "Sublime Currency<span class="cs1-kern-right">"</span>"</a>. Altpress.com. July 26, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">October 25,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alternative+Press+%26%23124%3B+Features+%26%23124%3B+Song+Premiere%3A+Abandoned+Pools%2C+%22Sublime+Currency%22&amp;rft.pub=Altpress.com&amp;rft.date=2012-07-26&amp;rft_id=http%3A%2F%2Fwww.altpress.com%2Ffeatures%2Fentry%2Fsong_premiere_abandoned_pools_sublime_currency&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATommy+Walter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://twitter.com/AbandonedPools/status/235436984229834752" rel="nofollow">"Twitter / AbandonedPools: New @AbandonedPools single"</a>. Twitter.com<span class="reference-accessdate">. Retrieved <span class="nowrap">October 25,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Twitter+%2F+AbandonedPools%3A+New+%40AbandonedPools+single&amp;rft.pub=Twitter.com&amp;rft_id=https%3A%2F%2Ftwitter.com%2FAbandonedPools%2Fstatus%2F235436984229834752&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATommy+Walter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20121102034304/http://rcrdlbl.com/2012/08/15/download_abandoned_pools_unrehearsed" rel="nofollow">"DOWNLOAD: Abandoned Pools – Unrehearsed"</a>. Rcrd Lbl. August 15, 2012. Archived from <a class="external text" href="http://rcrdlbl.com/2012/08/15/download_abandoned_pools_unrehearsed" rel="nofollow">the original</a> on November 2, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">October 25,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DOWNLOAD%3A+Abandoned+Pools+%E2%80%93+Unrehearsed&amp;rft.pub=Rcrd+Lbl&amp;rft.date=2012-08-15&amp;rft_id=http%3A%2F%2Frcrdlbl.com%2F2012%2F08%2F15%2Fdownload_abandoned_pools_unrehearsed&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATommy+Walter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Gianna Stefanelli (August 22, 2012). <a class="external text" href="https://web.archive.org/web/20120829233954/http://www.cmj.com/news/track-premiere-abandoned-pools-behemoth/" rel="nofollow">"Track Premiere: Listen To A New Song From Abandoned Pools"</a>. Cmj.com. Archived from <a class="external text" href="http://www.cmj.com/news/track-premiere-abandoned-pools-behemoth/" rel="nofollow">the original</a> on August 29, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">October 25,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Track+Premiere%3A+Listen+To+A+New+Song+From+Abandoned+Pools&amp;rft.pub=Cmj.com&amp;rft.date=2012-08-22&amp;rft.au=Gianna+Stefanelli&amp;rft_id=http%3A%2F%2Fwww.cmj.com%2Fnews%2Ftrack-premiere-abandoned-pools-behemoth%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATommy+Walter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.youtube.com/watch?v=nM9ftUmJoEc" rel="nofollow">"Abandoned Pools – Sublime Currency"</a>. YouTube.com. September 7, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">June 7,</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Abandoned+Pools+%E2%80%93+Sublime+Currency&amp;rft.pub=YouTube.com&amp;rft.date=2012-09-07&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnM9ftUmJoEc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATommy+Walter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://twitter.com/AbandonedPools/status/342763493017128960" rel="nofollow">"Twitter / AbandonedPools: The new Abandoned"</a>. Twitter.com. June 6, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">June 7,</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Twitter+%2F+AbandonedPools%3A+The+new+Abandoned&amp;rft.pub=Twitter.com&amp;rft.date=2013-06-06&amp;rft_id=https%3A%2F%2Ftwitter.com%2FAbandonedPools%2Fstatus%2F342763493017128960&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATommy+Walter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://twitter.com/AbandonedPools/status/349323067530555392" rel="nofollow">"Twitter / AbandonedPools: Due to a"</a>. Twitter.com. June 25, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">July 8,</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Twitter+%2F+AbandonedPools%3A+Due+to+a&amp;rft.pub=Twitter.com&amp;rft.date=2013-06-25&amp;rft_id=https%3A%2F%2Ftwitter.com%2FAbandonedPools%2Fstatus%2F349323067530555392&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATommy+Walter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://twitter.com/AbandonedPools/status/405467213030649856" rel="nofollow">"Twitter / AbandonedPools: Abandoned Pools recording"</a>. Twitter.com. November 26, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">December 1,</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Twitter+%2F+AbandonedPools%3A+Abandoned+Pools+recording&amp;rft.pub=Twitter.com&amp;rft.date=2013-11-26&amp;rft_id=https%3A%2F%2Ftwitter.com%2FAbandonedPools%2Fstatus%2F405467213030649856&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATommy+Walter"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a class="external free" href="https://www.amazon.com/The-Color-By-Number-EP/dp/B001P810IM" rel="nofollow">https://www.amazon.com/The-Color-By-Number-EP/dp/B001P810IM</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a class="external free" href="https://www.amazon.com/Button-Pusher-Oliver-Penguin/dp/B002KHNGI4" rel="nofollow">https://www.amazon.com/Button-Pusher-Oliver-Penguin/dp/B002KHNGI4</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a class="external autonumber" href="http://www.mtv.com/videos/abandoned-pools/20324/monster.jhtml" rel="nofollow">[1]</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.vh1.com/video/abandoned-pools/738581/armed-to-the-teeth.jhtml" rel="nofollow">http://www.vh1.com/video/abandoned-pools/738581/armed-to-the-teeth.jhtml</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tommy_Walter&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a class="external text" href="http://abandonedpools.com/" rel="nofollow">Abandoned Pools official website</a></span></span></li>
+<li><a class="external text" href="http://www.myspace.com/abandonedpools" rel="nofollow">Abandoned Pools on MySpace</a></li>
+<li><a class="external text" href="http://www.last.fm/music/Abandoned+Pools/" rel="nofollow">Abandoned Pools at LastFM</a></li>
+<li><a class="external text" href="http://lqprecords.bandcamp.com/" rel="nofollow">Abandoned Pools at Bandcamp</a></li></ul>
+<div aria-labelledby="Eels" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background: #b0c4de;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Eels" title="Template:Eels"><abbr style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Eels" title="Template talk:Eels"><abbr style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Eels&amp;action=edit"><abbr style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div class="fn org" id="Eels" style="font-size:114%;margin:0 4em"><a href="/wiki/Eels_(band)" title="Eels (band)">Eels</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="*_E&amp;#10;*_The_Chet&amp;#10;*_Koool_G_Murder&amp;#10;*_P-Boo&amp;#10;*_Little_Joe&amp;#10;*_Big/Krazy_Al&amp;#10;&amp;#10;*_Wayne_Bergeron&amp;#10;*_Jon_Brion&amp;#10;*_Peter_Buck&amp;#10;*_T_Bone_Burnett&amp;#10;*_Butch&amp;#10;*_Wally_Gagel&amp;#10;*_Lisa_Germano&amp;#10;*_Goldenboy&amp;#10;*_Parthenon_Huxley&amp;#10;*_Ana_Lenchantin&amp;#10;*_Andy_Martin&amp;#10;*_Mickey_P.&amp;#10;*_John_Parish&amp;#10;*_Grant-Lee_Phillips&amp;#10;*_John_Sebastian&amp;#10;*_Adam_Siegel&amp;#10;*_Michael_Simpson&amp;#10;*_Aysa_and_Chloe_of_Smoosh&amp;#10;*_Tommy_Walter">
+<ul><li><b><a href="/wiki/Mark_Oliver_Everett" title="Mark Oliver Everett">E</a></b></li>
+<li><b>The Chet</b></li>
+<li><b>Koool G Murder</b></li>
+<li><b>P-Boo</b></li>
+<li><b>Little Joe</b></li>
+<li><b>Big/Krazy Al</b></li></ul>
+<ul><li><a href="/wiki/Wayne_Bergeron" title="Wayne Bergeron">Wayne Bergeron</a></li>
+<li><a href="/wiki/Jon_Brion" title="Jon Brion">Jon Brion</a></li>
+<li><a href="/wiki/Peter_Buck" title="Peter Buck">Peter Buck</a></li>
+<li><a href="/wiki/T_Bone_Burnett" title="T Bone Burnett">T Bone Burnett</a></li>
+<li><a href="/wiki/Jonathan_Norton" title="Jonathan Norton">Butch</a></li>
+<li><a href="/wiki/Wally_Gagel" title="Wally Gagel">Wally Gagel</a></li>
+<li><a href="/wiki/Lisa_Germano" title="Lisa Germano">Lisa Germano</a></li>
+<li><a class="mw-redirect" href="/wiki/Shon_Sullivan" title="Shon Sullivan">Goldenboy</a></li>
+<li><a href="/wiki/Parthenon_Huxley" title="Parthenon Huxley">Parthenon Huxley</a></li>
+<li><a href="/wiki/Ana_Lenchantin" title="Ana Lenchantin">Ana Lenchantin</a></li>
+<li><a href="/wiki/Andy_Martin_(American_musician)" title="Andy Martin (American musician)">Andy Martin</a></li>
+<li><a href="/wiki/Mickey_Petralia" title="Mickey Petralia">Mickey P.</a></li>
+<li><a href="/wiki/John_Parish" title="John Parish">John Parish</a></li>
+<li><a href="/wiki/Grant-Lee_Phillips" title="Grant-Lee Phillips">Grant-Lee Phillips</a></li>
+<li><a href="/wiki/John_Sebastian" title="John Sebastian">John Sebastian</a></li>
+<li><a href="/wiki/Adam_Siegel" title="Adam Siegel">Adam Siegel</a></li>
+<li><a href="/wiki/Michael_Simpson_(producer)" title="Michael Simpson (producer)">Michael Simpson</a></li>
+<li><a class="mw-redirect" href="/wiki/Smoosh" title="Smoosh">Aysa and Chloe of Smoosh</a></li>
+<li><a class="mw-selflink selflink">Tommy Walter</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks vcard navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="as_E" scope="row" style="width:1%;background: #EEEEEE;">as E</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/A_Man_Called_E" title="A Man Called E">A Man Called E</a></i></li>
+<li><i><a href="/wiki/Broken_Toy_Shop" title="Broken Toy Shop">Broken Toy Shop</a></i></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Beautiful_Freak" title="Beautiful Freak">Beautiful Freak</a></i></li>
+<li><i><a href="/wiki/Electro-Shock_Blues" title="Electro-Shock Blues">Electro-Shock Blues</a></i></li>
+<li><i><a href="/wiki/Daisies_of_the_Galaxy" title="Daisies of the Galaxy">Daisies of the Galaxy</a></i></li>
+<li><i><a href="/wiki/Souljacker" title="Souljacker">Souljacker</a></i></li>
+<li><i><a href="/wiki/Shootenanny!" title="Shootenanny!">Shootenanny!</a></i></li>
+<li><i><a href="/wiki/Blinking_Lights_and_Other_Revelations" title="Blinking Lights and Other Revelations">Blinking Lights and Other Revelations</a></i></li>
+<li><i><a href="/wiki/Hombre_Lobo" title="Hombre Lobo">Hombre Lobo</a></i></li>
+<li><i><a href="/wiki/End_Times_(album)" title="End Times (album)">End Times</a></i></li>
+<li><i><a href="/wiki/Tomorrow_Morning_(album)" title="Tomorrow Morning (album)">Tomorrow Morning</a></i></li>
+<li><i><a href="/wiki/Wonderful,_Glorious" title="Wonderful, Glorious">Wonderful, Glorious</a></i></li>
+<li><i><a href="/wiki/The_Cautionary_Tales_of_Mark_Oliver_Everett" title="The Cautionary Tales of Mark Oliver Everett">The Cautionary Tales of Mark Oliver Everett</a></i></li>
+<li><i><a href="/wiki/The_Deconstruction" title="The Deconstruction">The Deconstruction</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Live albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Oh_What_a_Beautiful_Morning" title="Oh What a Beautiful Morning">Oh What a Beautiful Morning</a></i></li>
+<li><i><a href="/wiki/Electro-Shock_Blues_Show" title="Electro-Shock Blues Show">Electro-Shock Blues Show</a></i></li>
+<li><i><a href="/wiki/Eels_with_Strings:_Live_at_Town_Hall" title="Eels with Strings: Live at Town Hall">Eels with Strings: Live at Town Hall</a></i></li>
+<li><i><a href="/wiki/The_Myspace_Transmissions_Session_2009" title="The Myspace Transmissions Session 2009">The Myspace Transmissions Session 2009</a></i></li>
+<li><i><a href="/wiki/Live_at_Royal_Albert_Hall_(Eels_album)" title="Live at Royal Albert Hall (Eels album)">Live at Royal Albert Hall</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Compilations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Meet_the_Eels:_Essential_Eels,_Vol._1_(1996%E2%80%932006)" title="Meet the Eels: Essential Eels, Vol. 1 (1996–2006)">Meet the Eels: Essential Eels, Vol. 1 (1996–2006)</a></i></li>
+<li><i><a href="/wiki/Useless_Trinkets:_B-Sides,_Soundtracks,_Rarities_and_Unreleased_1996%E2%80%932006" title="Useless Trinkets: B-Sides, Soundtracks, Rarities and Unreleased 1996–2006">Useless Trinkets</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Novocaine_for_the_Soul" title="Novocaine for the Soul">Novocaine for the Soul</a>"</li>
+<li>"<a href="/wiki/Susan%27s_House" title="Susan's House">Susan's House</a>"</li>
+<li>"<a href="/wiki/Your_Lucky_Day_in_Hell" title="Your Lucky Day in Hell">Your Lucky Day in Hell</a>"</li>
+<li>"<a href="/wiki/Last_Stop:_This_Town" title="Last Stop: This Town">Last Stop: This Town</a>"</li>
+<li>"<a href="/wiki/Cancer_for_the_Cure" title="Cancer for the Cure">Cancer for the Cure</a>"</li>
+<li>"<a href="/wiki/Flyswatter_(song)" title="Flyswatter (song)">Flyswatter</a>"</li>
+<li>"<a href="/wiki/Mr._E%27s_Beautiful_Blues" title="Mr. E's Beautiful Blues">Mr. E's Beautiful Blues</a>"</li>
+<li>"<a href="/wiki/Souljacker_Part_I" title="Souljacker Part I">Souljacker Part I</a>"</li>
+<li>"<a href="/wiki/Hey_Man_(Now_You%27re_Really_Living)" title="Hey Man (Now You're Really Living)">Hey Man (Now You're Really Living)</a>"</li>
+<li>"<a href="/wiki/Fresh_Blood_(song)" title="Fresh Blood (song)">My Timing Is Off</a>"/"<a href="/wiki/Fresh_Blood_(song)" title="Fresh Blood (song)">Fresh Blood</a>"</li>
+<li>"<a href="/wiki/A_Line_in_the_Dirt" title="A Line in the Dirt">A Line in the Dirt</a>"</li>
+<li>"<a href="/wiki/Cold_Dead_Hand" title="Cold Dead Hand">Cold Dead Hand</a>"</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Eels_discography" title="Eels discography">Discography</a></li>
+<li><a href="/wiki/Hugh_Everett_III" title="Hugh Everett III">Hugh Everett III</a></li>
+<li><i><a href="/wiki/I_Am_the_Messiah" title="I Am the Messiah">I Am the Messiah</a></i></li>
+<li><i><a href="/wiki/Things_the_Grandchildren_Should_Know" title="Things the Grandchildren Should Know">Things the Grandchildren Should Know</a></i></li>
+<li><i><a href="/wiki/Parallel_Worlds,_Parallel_Lives" title="Parallel Worlds, Parallel Lives">Parallel Worlds, Parallel Lives</a></i></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q10397818&amp;#124;Edit_this_at_Wikidata" class="navbox authority-control" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q10397818&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q10397818" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a class="external text" href="https://id.loc.gov/authorities/names/no2005028427" rel="nofollow">no2005028427</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a class="external text" href="https://musicbrainz.org/artist/dab22770-9d2e-4cb9-b48b-f5000eb28cf2" rel="nofollow">dab22770-9d2e-4cb9-b48b-f5000eb28cf2</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a class="external text" href="https://viaf.org/viaf/80176391" rel="nofollow">80176391</a></span></span></li>
+<li><span class="nowrap"> <a class="mw-redirect" href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a class="external text" href="https://www.worldcat.org/identities/containsVIAFID/80176391" rel="nofollow">80176391</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20191217182543
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.544 seconds
+Real time usage: 0.795 seconds
+Preprocessor visited node count: 1919/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 67987/2097152 bytes
+Template argument size: 4926/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 38276/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.298/10.000 seconds
+Lua memory usage: 6.01 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  695.369      1 -total
+ 31.06%  215.972      1 Template:Reflist
+ 26.77%  186.154     12 Template:Cite_web
+ 15.90%  110.560      1 Template:Official_website
+ 13.25%   92.104      1 Template:Infobox_musical_artist
+ 12.21%   84.912      1 Template:BLP_sources
+ 11.20%   77.871      1 Template:Ambox
+ 11.04%   76.765      1 Template:Infobox
+ 10.82%   75.263      1 Template:Short_description
+  7.54%   52.417      1 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:397016-0!canonical and timestamp 20191217182542 and revision id 919209285
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tommy_Walter&amp;oldid=919209285">https://en.wikipedia.org/w/index.php?title=Tommy_Walter&amp;oldid=919209285</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1970_births" title="Category:1970 births">1970 births</a></li><li><a href="/wiki/Category:American_rock_guitarists" title="Category:American rock guitarists">American rock guitarists</a></li><li><a href="/wiki/Category:American_male_guitarists" title="Category:American male guitarists">American male guitarists</a></li><li><a href="/wiki/Category:American_singer-songwriters" title="Category:American singer-songwriters">American singer-songwriters</a></li><li><a href="/wiki/Category:American_rock_songwriters" title="Category:American rock songwriters">American rock songwriters</a></li><li><a href="/wiki/Category:American_rock_singers" title="Category:American rock singers">American rock singers</a></li><li><a href="/wiki/Category:Eels_(band)_members" title="Category:Eels (band) members">Eels (band) members</a></li><li><a href="/wiki/Category:American_indie_rock_musicians" title="Category:American indie rock musicians">American indie rock musicians</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Pacific_University_alumni" title="Category:Pacific University alumni">Pacific University alumni</a></li><li><a href="/wiki/Category:Tooth_%26_Nail_Records_artists" title="Category:Tooth &amp; Nail Records artists">Tooth &amp; Nail Records artists</a></li><li><a href="/wiki/Category:Warner_Records_artists" title="Category:Warner Records artists">Warner Records artists</a></li><li><a href="/wiki/Category:Guitarists_from_Los_Angeles" title="Category:Guitarists from Los Angeles">Guitarists from Los Angeles</a></li><li><a href="/wiki/Category:21st-century_American_singers" title="Category:21st-century American singers">21st-century American singers</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_December_2014" title="Category:Use mdy dates from December 2014">Use mdy dates from December 2014</a></li><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_July_2007" title="Category:BLP articles lacking sources from July 2007">BLP articles lacking sources from July 2007</a></li><li><a href="/wiki/Category:All_BLP_articles_lacking_sources" title="Category:All BLP articles lacking sources">All BLP articles lacking sources</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_identifiers" title="Category:Wikipedia articles with MusicBrainz identifiers">Wikipedia articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tommy+Walter" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Tommy+Walter" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Tommy_Walter" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Tommy_Walter" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Tommy_Walter">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Tommy_Walter&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Tommy_Walter&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Tommy_Walter" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Tommy_Walter" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tommy_Walter&amp;oldid=919209285" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tommy_Walter&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q10397818" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tommy_Walter&amp;id=919209285" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tommy+Walter">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tommy+Walter&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Tommy_Walter&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%85%D9%8A_%D9%88%D8%A7%D9%84%D8%AA%D8%B1" hreflang="ar" lang="ar" title="تومي والتر – Arabic">العربية</a></li><li class="interlanguage-link interwiki-azb"><a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D8%AA%D9%88%D9%85%DB%8C_%D9%88%D8%A7%D9%84%D8%AA%D8%B1" hreflang="azb" lang="azb" title="تومی والتر – South Azerbaijani">تۆرکجه</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Tommy_Walter" hreflang="es" lang="es" title="Tommy Walter – Spanish">Español</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Tommy_Walter" hreflang="nl" lang="nl" title="Tommy Walter – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%9F%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%AB%E3%82%BF%E3%83%BC" hreflang="ja" lang="ja" title="トミー・ウォルター – Japanese">日本語</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Abandoned_Pools" hreflang="sv" lang="sv" title="Abandoned Pools – Swedish">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q10397818#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 October 2019, at 12:26<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Tommy_Walter&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.544","walltime":"0.795","ppvisitednodes":{"value":1919,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":67987,"limit":2097152},"templateargumentsize":{"value":4926,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":38276,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  695.369      1 -total"," 31.06%  215.972      1 Template:Reflist"," 26.77%  186.154     12 Template:Cite_web"," 15.90%  110.560      1 Template:Official_website"," 13.25%   92.104      1 Template:Infobox_musical_artist"," 12.21%   84.912      1 Template:BLP_sources"," 11.20%   77.871      1 Template:Ambox"," 11.04%   76.765      1 Template:Infobox"," 10.82%   75.263      1 Template:Short_description","  7.54%   52.417      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.298","limit":"10.000"},"limitreport-memusage":{"value":6299396,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20191217182543","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tommy Walter","url":"https:\/\/en.wikipedia.org\/wiki\/Tommy_Walter","sameAs":"http:\/\/www.wikidata.org\/entity\/Q10397818","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q10397818","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-12-11T05:06:42Z","dateModified":"2019-10-02T12:26:45Z","headline":"United States musician and songwriter"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1261"});});</script>
+
+
+</body></html>

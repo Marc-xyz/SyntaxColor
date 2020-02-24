@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Tux3 - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfs2uwpAMFEAACpUis8AAACP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Tux3","wgTitle":"Tux3","wgCurRevisionId":918995831,"wgRevisionId":918995831,"wgArticleId":18678652,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","Articles lacking reliable references from September 2013","All articles lacking reliable references","Use dmy dates from February 2018","Disk file systems",
+"File systems supported by the Linux kernel"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Tux3","wgRelevantArticleId":18678652,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q17087716","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":
+"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents"
+,"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tux3" rel="alternate"/>
+<link href="/w/index.php?title=Tux3&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Tux3&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Tux3" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Tux3 rootpage-Tux3 skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Tux3</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="box-Primary_sources plainlinks metadata ambox ambox-content ambox-Primary_sources" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="Question book-new.svg" data-file-height="399" data-file-width="512" decoding="async" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">primary sources</a></b>.<span class="hide-when-compact"> Please improve this  by adding <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>.</span>  <small class="date-container"><i>(<span class="date">September 2013</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox" style="width:22em"><caption>Tux3</caption><tbody><tr><th scope="row"><a class="mw-redirect" href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th><td>Daniel Phillips, Ogawa Hirofumi</td></tr><tr><th scope="row">Full name</th><td>Tux3</td></tr><tr><th scope="row">Introduced</th><td>23 Jul 2008 with <a href="/wiki/Linux" title="Linux">Linux</a> 2.6.x</td></tr><tr><th scope="row"><a href="/wiki/Partition_type" title="Partition type">Partition identifier</a></th><td>0x83 (<a href="/wiki/Master_boot_record" title="Master boot record">MBR</a>)
+Superblock magic: "tux3" {0x74, 0x75, 0x78, 0x33}</td></tr><tr><th colspan="2" style="text-align:center">Structures</th></tr><tr><th scope="row">Directory contents</th><td><a href="/wiki/B-tree" title="B-tree">B-tree</a></td></tr><tr><th scope="row">File allocation</th><td><a href="/wiki/B-tree" title="B-tree">B-tree</a></td></tr><tr><th colspan="2" style="text-align:center">Limits</th></tr><tr><th scope="row">Max. volume size</th><td>2^60 bytes (1 <a class="mw-redirect" href="/wiki/EiB" title="EiB">EiB</a>)</td></tr><tr><th scope="row">Max. file size</th><td>2^60 bytes (1 <a class="mw-redirect" href="/wiki/EiB" title="EiB">EiB</a>)</td></tr><tr><th scope="row">Max. number of files</th><td>2^48</td></tr><tr><th scope="row">Max. filename length</th><td>255 bytes</td></tr><tr><th scope="row">Allowed characters in filenames</th><td>All bytes except NUL and '/'</td></tr><tr><th colspan="2" style="text-align:center">Features</th></tr><tr><th scope="row">Dates recorded</th><td>Attribute modification (ctime), modification (mtime), access time (atime), version create</td></tr><tr><th scope="row">Date range</th><td>40 bits</td></tr><tr><th scope="row">Date resolution</th><td>1/256 second</td></tr><tr><th scope="row"><a href="/wiki/File_system_permissions" title="File system permissions">File system permissions</a></th><td><a href="/wiki/POSIX" title="POSIX">POSIX</a></td></tr><tr><th colspan="2" style="text-align:center">Other</th></tr><tr><th scope="row">Supported <a href="/wiki/Operating_system" title="Operating system">operating systems</a></th><td><a href="/wiki/Linux" title="Linux">Linux</a></td></tr></tbody></table>
+<p><b>Tux3</b> is an open-source <a class="mw-redirect" href="/wiki/Versioning_filesystem" title="Versioning filesystem">versioning filesystem</a> created by Daniel Phillips. He introduced the filesystem as a public replacement for his Tux2 filesystem which had encountered licensing issues due to the filing of several patents.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Phillips had previously created the <a class="mw-redirect" href="/wiki/Htree" title="Htree">Htree</a> directory indexing system which eventually became an official feature of <a href="/wiki/Ext3" title="Ext3">ext3</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> The technical details of Tux3 were first publicized in an email on 23 July 2008.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Design"><span class="tocnumber">1</span> <span class="toctext">Design</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Development_history"><span class="tocnumber">2</span> <span class="toctext">Development history</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Design">Design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tux3&amp;action=edit&amp;section=1" title="Edit section: Design">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In broad outline, Tux3 follows a conventional <a href="/wiki/Unix" title="Unix">Unix</a>-style <a href="/wiki/Inode" title="Inode">inode</a>/file/directory design. A Tux3 inode table is a <a href="/wiki/B-tree" title="B-tree">B-tree</a> with versioned attributes at the leaves.  A file is an inode attribute that is a B-tree with versioned <a href="/wiki/Extent_(file_systems)" title="Extent (file systems)">extents</a> at the leaves.  Directory indexes are mapped into directory file blocks as with Htree.  Free space is mapped by a B-tree with extents at the leaves.  It attempts to avoid traditional <a href="/wiki/Journaling_file_system" title="Journaling file system">journaling</a> by introducing a recovery logic which allows it to recover upon remounting.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>A Tux3 inode is a variable sized object consisting of a list of attributes, each labeled by the version at which the attribute was added, changed or removed. The B-tree index by which inodes are referenced is not versioned.  The B-tree index of a large file is also not versioned, except for the leaves of the index, which contain lists of extents, each labeled by the version at which the referenced file data was added or changed. This style of versioning is essentially the inverse of tree versioning methods used by <a href="/wiki/Write_Anywhere_File_Layout" title="Write Anywhere File Layout">Write Anywhere File Layout</a> (WAFL), <a href="/wiki/ZFS" title="ZFS">ZFS</a> and <a href="/wiki/Btrfs" title="Btrfs">Btrfs</a>, where multiple tree roots of an entire filesystem are created in order to express differences between versions of the filesystem.
+</p><p>A claimed advantage of Tux3 style versioned entities is that only a few bytes need to be added to represent single changes to inode attributes or to index new versions of file data blocks, compared to some number of index blocks needing to be allocated and written for tree-versioned filesystems.
+</p>
+<h2><span class="mw-headline" id="Development_history">Development history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tux3&amp;action=edit&amp;section=2" title="Edit section: Development history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As of August 2008, Tux3 was only capable of performing basic file I/O on files. By the end of 2008, Tux3 was capable of running within the kernel and able to sustain repeated runs of the file system exerciser fsx-linux, a big accomplishment.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p><p>On 17 February 2009, Linux booted from a Tux3 root filesystem for the first time.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p><p>On 18 January 2013, initial <a href="/wiki/Fsck" title="Fsck">fsck</a> support was added.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> So far it just checks physical <a href="/wiki/Referential_integrity" title="Referential integrity">referential integrity</a>, but the developers are confident that they can make a fully functional <a href="/wiki/E2fsprogs" title="E2fsprogs">e2fsck</a>-quality fsck soon.
+</p><p>On 17 May 2014, Daniel Phillips made a plea<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> to the kernel maintainer, to review the code and implement it into the kernel. The goal is to stabilize the code in the kernel and finally get stable.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p><p>On 9 October 2017, Daniel Phillips sent <a class="external text" href="http://phunq.net/pipermail/tux3/2017-October/002352.html" rel="nofollow">Tux3 update - Shardmap</a> on the mailing list.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tux3&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/56px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Free_and_open-source_software" title="Portal:Free and open-source software">Free and open-source software portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Comparison_of_file_systems" title="Comparison of file systems">Comparison of file systems</a></li>
+<li><a href="/wiki/List_of_file_systems" title="List of file systems">List of file systems</a></li>
+<li><a class="mw-redirect" href="/wiki/PHTree" title="PHTree">PHTree</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tux3&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Timothy Lord (17 October 2000). <a class="external text" href="http://slashdot.org/features/00/10/13/2117258.shtml" rel="nofollow">"Tux2: The Filesystem That Would Be King"</a>. <a href="/wiki/Slashdot" title="Slashdot">Slashdot</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tux2%3A+The+Filesystem+That+Would+Be+King&amp;rft.pub=Slashdot&amp;rft.date=2000-10-17&amp;rft.au=Timothy+Lord&amp;rft_id=http%3A%2F%2Fslashdot.org%2Ffeatures%2F00%2F10%2F13%2F2117258.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATux3"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20090127040445/http://www.linuxsymposium.org/2007/view_bio.php?id=2311" rel="nofollow">"Daniel Phillips"</a>. 2007. Archived from <a class="external text" href="http://www.linuxsymposium.org/2007/view_bio.php?id=2311" rel="nofollow">the original</a> on 27 January 2009.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Daniel+Phillips&amp;rft.date=2007&amp;rft_id=http%3A%2F%2Fwww.linuxsymposium.org%2F2007%2Fview_bio.php%3Fid%3D2311&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATux3"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Daniel Phillips (23 July 2008). <a class="external text" href="https://lkml.org/lkml/2008/7/23/257" rel="nofollow">"Tux3, a Versioning Filesystem"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tux3%2C+a+Versioning+Filesystem&amp;rft.date=2008-07-23&amp;rft.au=Daniel+Phillips&amp;rft_id=https%3A%2F%2Flkml.org%2Flkml%2F2008%2F7%2F23%2F257&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATux3"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Daniel Phillips (22 July 2008). <a class="external text" href="http://phunq.net/pipermail/tux3/2008-July/000064.html" rel="nofollow">"Tux3 will always recover on mount"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tux3+will+always+recover+on+mount&amp;rft.date=2008-07-22&amp;rft.au=Daniel+Phillips&amp;rft_id=http%3A%2F%2Fphunq.net%2Fpipermail%2Ftux3%2F2008-July%2F000064.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATux3"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Daniel Phillips (30 December 2008). <a class="external text" href="http://phunq.net/pipermail/tux3/2008-December/000611.html" rel="nofollow">"Tux3 report: A Golden Copy"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tux3+report%3A+A+Golden+Copy&amp;rft.date=2008-12-30&amp;rft.au=Daniel+Phillips&amp;rft_id=http%3A%2F%2Fphunq.net%2Fpipermail%2Ftux3%2F2008-December%2F000611.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATux3"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Daniel Phillips (18 February 2009). <a class="external text" href="http://phunq.net/pipermail/tux3/2009-February/000774.html" rel="nofollow">"Tux3 Report: Tux3 boots up as root"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tux3+Report%3A+Tux3+boots+up+as+root&amp;rft.date=2009-02-18&amp;rft.au=Daniel+Phillips&amp;rft_id=http%3A%2F%2Fphunq.net%2Fpipermail%2Ftux3%2F2009-February%2F000774.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATux3"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Daniel Phillips (28 January 2013). <a class="external text" href="http://lkml.indiana.edu/hypermail/linux/kernel/1301.3/02423.html" rel="nofollow">"Tux3 Report: Initial fsck has landed"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tux3+Report%3A+Initial+fsck+has+landed&amp;rft.date=2013-01-28&amp;rft.au=Daniel+Phillips&amp;rft_id=http%3A%2F%2Flkml.indiana.edu%2Fhypermail%2Flinux%2Fkernel%2F1301.3%2F02423.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATux3"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20161014052005/http://article.gmane.org/gmane.comp.file-systems.tux3/1041" rel="nofollow">"Archived copy"</a>. Archived from <a class="external text" href="http://article.gmane.org/gmane.comp.file-systems.tux3/1041" rel="nofollow">the original</a> on 14 October 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Farticle.gmane.org%2Fgmane.comp.file-systems.tux3%2F1041&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATux3"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/> </span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a class="external free" href="http://heise.de/-2193115" rel="nofollow">http://heise.de/-2193115</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tux3&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://web.archive.org/web/20100318003729/http://tux3.org/" rel="nofollow">Official website</a></li>
+<li><a class="external text" href="https://github.com/OGAWAHirofumi/linux-tux3" rel="nofollow">Source code</a></li>
+<li><a class="external text" href="http://phunq.net/mailman/listinfo/tux3" rel="nofollow">Tux3 mailing list</a></li>
+<li><cite class="citation web">Anika Kehrer (25 July 2008). <a class="external text" href="http://www.linuxpromagazine.com/Online/News/Tux-Redux" rel="nofollow">"Tux Redux"</a>. <a href="/wiki/Linux_Magazine" title="Linux Magazine">Linux Magazine</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tux+Redux&amp;rft.pub=Linux+Magazine&amp;rft.date=2008-07-25&amp;rft.au=Anika+Kehrer&amp;rft_id=http%3A%2F%2Fwww.linuxpromagazine.com%2FOnline%2FNews%2FTux-Redux&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATux3"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li></ul>
+<div aria-labelledby="File_systems" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:File_systems" title="Template:File systems"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:File_systems" title="Template talk:File systems"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:File_systems&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="File_systems" style="font-size:114%;margin:0 4em"><a href="/wiki/File_system" title="File system">File systems</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Comparison_of_file_systems&amp;#10;**_distributed&amp;#10;*_Unix_filesystem">
+<ul><li><a href="/wiki/Comparison_of_file_systems" title="Comparison of file systems">Comparison of file systems</a>
+<ul><li><a href="/wiki/Comparison_of_distributed_file_systems" title="Comparison of distributed file systems">distributed</a></li></ul></li>
+<li><a href="/wiki/Unix_filesystem" title="Unix filesystem">Unix filesystem</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Disk</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Advanced_Disc_Filing_System" title="Advanced Disc Filing System">ADFS</a></li>
+<li><a href="/wiki/AdvFS" title="AdvFS">AdvFS</a></li>
+<li><a href="/wiki/Amiga_Fast_File_System" title="Amiga Fast File System">Amiga FFS</a></li>
+<li><a href="/wiki/Amiga_Old_File_System" title="Amiga Old File System">Amiga OFS</a></li>
+<li><a href="/wiki/Apple_File_System" title="Apple File System">APFS</a></li>
+<li><a href="/wiki/AtheOS_File_System" title="AtheOS File System">AthFS</a></li>
+<li><a href="/wiki/Bcachefs" title="Bcachefs">bcachefs</a></li>
+<li>BFS
+<ul><li><a href="/wiki/Be_File_System" title="Be File System">Be File System</a></li>
+<li><a href="/wiki/Boot_File_System" title="Boot File System">Boot File System</a></li></ul></li>
+<li><a href="/wiki/Btrfs" title="Btrfs">Btrfs</a></li>
+<li><a href="/wiki/StorNext_File_System" title="StorNext File System">CVFS</a></li>
+<li><a href="/wiki/CXFS" title="CXFS">CXFS</a></li>
+<li><a href="/wiki/Disc_Filing_System" title="Disc Filing System">DFS</a></li>
+<li>EFS
+<ul><li><a href="/wiki/Encrypting_File_System" title="Encrypting File System">Encrypting File System</a></li>
+<li><a href="/wiki/Extent_File_System" title="Extent File System">Extent File System</a></li></ul></li>
+<li><a href="/wiki/Episode_filesystem" title="Episode filesystem">Episode</a></li>
+<li><a href="/wiki/Extended_file_system" title="Extended file system">ext</a>
+<ul><li><a href="/wiki/Ext2" title="Ext2">ext2</a></li>
+<li><a href="/wiki/Ext3" title="Ext3">ext3</a></li>
+<li><a href="/wiki/Ext3cow" title="Ext3cow">ext3cow</a></li>
+<li><a href="/wiki/Ext4" title="Ext4">ext4</a></li></ul></li>
+<li><a href="/wiki/Unix_File_System" title="Unix File System">FFS/FFS2</a></li>
+<li><a href="/wiki/File_Allocation_Table" title="File Allocation Table">FAT</a>
+<ul><li><a href="/wiki/ExFAT" title="ExFAT">exFAT</a></li></ul></li>
+<li><a href="/wiki/Files-11" title="Files-11">Files-11</a></li>
+<li><a href="/wiki/Fossil_(file_system)" title="Fossil (file system)">Fossil</a></li>
+<li><a href="/wiki/HAMMER_(file_system)" title="HAMMER (file system)">HAMMER</a>
+<ul><li><a href="/wiki/HAMMER2" title="HAMMER2">HAMMER2</a></li></ul></li>
+<li><a href="/wiki/Hierarchical_File_System" title="Hierarchical File System">HFS</a></li>
+<li><a href="/wiki/HFS_Plus" title="HFS Plus">HFS+</a></li>
+<li><a href="/wiki/High_Performance_File_System" title="High Performance File System">HPFS</a></li>
+<li><a href="/wiki/High_Throughput_File_System" title="High Throughput File System">HTFS</a></li>
+<li><a href="/wiki/IBM_Spectrum_Scale" title="IBM Spectrum Scale">IBM Spectrum Scale</a></li>
+<li><a href="/wiki/JFS_(file_system)" title="JFS (file system)">JFS</a></li>
+<li><a href="/wiki/Log-structured_File_System_(BSD)" title="Log-structured File System (BSD)">LFS</a></li>
+<li>MFS
+<ul><li><a href="/wiki/Macintosh_File_System" title="Macintosh File System">Macintosh File System</a></li>
+<li><a href="/wiki/TiVo_Media_File_System" title="TiVo Media File System">TiVo Media File System</a></li></ul></li>
+<li><a href="/wiki/MINIX_file_system" title="MINIX file system">MINIX</a></li>
+<li><a href="/wiki/NetWare_File_System" title="NetWare File System">NetWare File System</a></li>
+<li><a href="/wiki/Next3" title="Next3">Next3</a></li>
+<li><a href="/wiki/NILFS" title="NILFS">NILFS</a>
+<ul><li><a href="/wiki/NILFS" title="NILFS">NILFS2</a></li></ul></li>
+<li><a href="/wiki/Novell_Storage_Services" title="Novell Storage Services">NSS</a></li>
+<li><a href="/wiki/NTFS" title="NTFS">NTFS</a></li>
+<li><a href="/wiki/OneFS_distributed_file_system" title="OneFS distributed file system">OneFS</a></li>
+<li><a href="/wiki/Professional_File_System" title="Professional File System">PFS</a></li>
+<li><a href="/wiki/QFS" title="QFS">QFS</a></li>
+<li><a href="/wiki/QNX4FS" title="QNX4FS">QNX4FS</a></li>
+<li><a href="/wiki/ReFS" title="ReFS">ReFS</a></li>
+<li><a href="/wiki/ReiserFS" title="ReiserFS">ReiserFS</a>
+<ul><li><a href="/wiki/Reiser4" title="Reiser4">Reiser4</a></li></ul></li>
+<li><a href="/wiki/Datalight#Reliance_family" title="Datalight">Reliance</a></li>
+<li><a href="/wiki/Datalight#Reliance_Nitro" title="Datalight">Reliance Nitro</a></li>
+<li><a href="/wiki/Remote_File_Sharing" title="Remote File Sharing">RFS</a></li>
+<li><a href="/wiki/Smart_File_System" title="Smart File System">SFS</a></li>
+<li><a href="/wiki/StorNext_File_System" title="StorNext File System">SNFS</a></li>
+<li><a href="/wiki/Soup_(Apple)" title="Soup (Apple)">Soup (Apple)</a></li>
+<li><a class="mw-selflink selflink">Tux3</a></li>
+<li><a href="/wiki/UBIFS" title="UBIFS">UBIFS</a></li>
+<li><a href="/wiki/Unix_File_System" title="Unix File System">UFS</a>
+<ul><li><a href="/wiki/Soft_updates" title="Soft updates">soft updates</a></li>
+<li><a href="/wiki/Write_Ahead_Physical_Block_Logging" title="Write Ahead Physical Block Logging">WAPBL</a></li></ul></li>
+<li><a href="/wiki/Veritas_File_System" title="Veritas File System">VxFS</a></li>
+<li><a href="/wiki/Write_Anywhere_File_Layout" title="Write Anywhere File Layout">WAFL</a></li>
+<li><a href="/wiki/Xiafs" title="Xiafs">Xiafs</a></li>
+<li><a href="/wiki/XFS" title="XFS">XFS</a></li>
+<li><a href="/wiki/Xsan" title="Xsan">Xsan</a></li>
+<li><a href="/wiki/ZFS_(z/OS_file_system)" title="ZFS (z/OS file system)">zFS</a></li>
+<li><a href="/wiki/ZFS" title="ZFS">ZFS</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Optical_disc" title="Optical disc">Optical disc</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/High_Sierra_Format" title="High Sierra Format">HSF</a></li>
+<li><a href="/wiki/ISO_9660" title="ISO 9660">ISO 9660</a></li>
+<li><a href="/wiki/ISO_13490" title="ISO 13490">ISO 13490</a></li>
+<li><a href="/wiki/Universal_Disk_Format" title="Universal Disk Format">UDF</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Flash_memory" title="Flash memory">Flash memory</a> and <a href="/wiki/Solid-state_drive" title="Solid-state drive">SSD</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Apple_File_System" title="Apple File System">APFS</a></li>
+<li><a href="/wiki/File_Allocation_Table" title="File Allocation Table">FAT</a></li>
+<li><a href="/wiki/ExFAT" title="ExFAT">exFAT</a></li>
+<li><a href="/wiki/CHFS" title="CHFS">CHFS</a></li>
+<li><a href="/wiki/Transaction-Safe_FAT_File_System" title="Transaction-Safe FAT File System">TFAT</a></li>
+<li><a href="/wiki/EROFS" title="EROFS">EROFS</a></li>
+<li><a href="/wiki/Flash_file_system" title="Flash file system">FFS2</a></li>
+<li><a href="/wiki/F2FS" title="F2FS">F2FS</a></li>
+<li><a href="/wiki/High_Performance_File_System" title="High Performance File System">HPFS</a></li>
+<li><a href="/wiki/JFFS" title="JFFS">JFFS</a></li>
+<li><a href="/wiki/JFFS2" title="JFFS2">JFFS2</a></li>
+<li><a href="/wiki/JFS_(file_system)" title="JFS (file system)">JFS</a></li>
+<li><a href="/wiki/LogFS" title="LogFS">LogFS</a></li>
+<li><a href="/wiki/NILFS" title="NILFS">NILFS</a>
+<ul><li><a href="/wiki/NILFS" title="NILFS">NILFS2</a></li></ul></li>
+<li><a href="/wiki/Non-Volatile_File_System" title="Non-Volatile File System">NVFS</a></li>
+<li><a href="/wiki/YAFFS" title="YAFFS">YAFFS</a></li>
+<li><a href="/wiki/UBIFS" title="UBIFS">UBIFS</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Clustered_file_system#Distributed_file_systems" title="Clustered file system">Distributed</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/CXFS" title="CXFS">CXFS</a></li>
+<li><a href="/wiki/GFS2" title="GFS2">GFS2</a></li>
+<li><a href="/wiki/Google_File_System" title="Google File System">Google File System</a></li>
+<li><a href="/wiki/OCFS2" title="OCFS2">OCFS2</a></li>
+<li><a href="/wiki/OrangeFS" title="OrangeFS">OrangeFS</a></li>
+<li><a href="/wiki/Parallel_Virtual_File_System" title="Parallel Virtual File System">PVFS</a></li>
+<li><a href="/wiki/Quantcast_File_System" title="Quantcast File System">QFS</a></li>
+<li><a href="/wiki/Xsan" title="Xsan">Xsan</a></li>
+<li><i><a href="/wiki/List_of_file_systems#Distributed_file_systems" title="List of file systems">more...</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Network-attached_storage" title="Network-attached storage">NAS</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Andrew_File_System" title="Andrew File System">AFS</a> (<a href="/wiki/OpenAFS" title="OpenAFS">OpenAFS</a>)</li>
+<li><a href="/wiki/Apple_Filing_Protocol" title="Apple Filing Protocol">AFP</a></li>
+<li><a href="/wiki/Coda_(file_system)" title="Coda (file system)">Coda</a></li>
+<li><a href="/wiki/Distributed_File_System_(Microsoft)" title="Distributed File System (Microsoft)">DFS</a></li>
+<li><a href="/wiki/Google_File_System" title="Google File System">Google File System</a></li>
+<li><a href="/wiki/IBM_Spectrum_Scale" title="IBM Spectrum Scale">IBM Spectrum Scale</a></li>
+<li><a href="/wiki/Lustre_(file_system)" title="Lustre (file system)">Lustre</a></li>
+<li><a href="/wiki/NetWare_Core_Protocol" title="NetWare Core Protocol">NCP</a></li>
+<li><a href="/wiki/Network_File_System" title="Network File System">NFS</a></li>
+<li><a href="/wiki/Elliptics" title="Elliptics">POHMELFS</a></li>
+<li><a href="/wiki/Apache_Hadoop" title="Apache Hadoop">Hadoop</a></li>
+<li><a href="/wiki/Server_Message_Block" title="Server Message Block">SMB (CIFS)</a></li>
+<li><a href="/wiki/SSHFS" title="SSHFS">SSHFS</a></li>
+<li><i><a href="/wiki/List_of_file_systems#Distributed_file_systems" title="List of file systems">more...</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Specialized</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aufs" title="Aufs">Aufs</a></li>
+<li><a href="/wiki/AXFS" title="AXFS">AXFS</a></li>
+<li><a href="/wiki/Boot_File_System" title="Boot File System">Boot File System</a></li>
+<li><a href="/wiki/CDfs" title="CDfs">CDfs</a></li>
+<li><a href="/wiki/Compact_Disc_File_System" title="Compact Disc File System">Compact Disc File System</a></li>
+<li><a href="/wiki/Cramfs" title="Cramfs">cramfs</a></li>
+<li><a href="/wiki/Davfs2" title="Davfs2">Davfs2</a></li>
+<li><a href="/wiki/EROFS" title="EROFS">EROFS</a></li>
+<li><a href="/wiki/FTPFS" title="FTPFS">FTPFS</a></li>
+<li><a href="/wiki/Filesystem_in_Userspace" title="Filesystem in Userspace">FUSE</a></li>
+<li><a href="/wiki/Lnfs" title="Lnfs">Lnfs</a></li>
+<li><a href="/wiki/Linear_Tape_File_System" title="Linear Tape File System">LTFS</a></li>
+<li><a href="/wiki/NOVA_(filesystem)" title="NOVA (filesystem)">NOVA</a></li>
+<li><a class="mw-redirect" href="/wiki/Rational_MultiVersion_File_System" title="Rational MultiVersion File System">MVFS</a></li>
+<li><a href="/wiki/SquashFS" title="SquashFS">SquashFS</a></li>
+<li><a href="/wiki/FAT_filesystem_and_Linux" title="FAT filesystem and Linux">UMSDOS</a></li>
+<li><a href="/wiki/OverlayFS" title="OverlayFS">OverlayFS</a></li>
+<li><a href="/wiki/UnionFS" title="UnionFS">UnionFS</a></li>
+<li><a href="/wiki/WBFS" title="WBFS">WBFS</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Pseudo and <a href="/wiki/Virtual_file_system" title="Virtual file system">virtual</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Configfs" title="Configfs">configfs</a></li>
+<li><a href="/wiki/Device_file" title="Device file">devfs</a></li>
+<li><a href="/wiki/Debugfs" title="Debugfs">debugfs</a></li>
+<li><a href="/wiki/Kernfs_(BSD)" title="Kernfs (BSD)">kernfs</a></li>
+<li><a href="/wiki/Procfs" title="Procfs">procfs</a></li>
+<li><a href="/wiki/Specfs" title="Specfs">specfs</a></li>
+<li><a href="/wiki/Sysfs" title="Sysfs">sysfs</a></li>
+<li><a href="/wiki/Tmpfs" title="Tmpfs">tmpfs</a></li>
+<li><a href="/wiki/WinFS" title="WinFS">WinFS</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Filesystem-level_encryption" title="Filesystem-level encryption">Encrypted</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ECryptfs" title="ECryptfs">eCryptfs</a></li>
+<li><a href="/wiki/EncFS" title="EncFS">EncFS</a></li>
+<li><a href="/wiki/Encrypting_File_System" title="Encrypting File System">EFS</a></li>
+<li><a href="/wiki/Rubberhose_(file_system)" title="Rubberhose (file system)">Rubberhose</a></li>
+<li><a href="/wiki/SSHFS" title="SSHFS">SSHFS</a></li>
+<li><a href="/wiki/ZFS" title="ZFS">ZFS</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Types</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clustered_file_system" title="Clustered file system">Clustered</a>
+<ul><li><a href="/wiki/Global_file_system" title="Global file system">Global</a></li>
+<li><a href="/wiki/Grid_file_system" title="Grid file system">Grid</a></li>
+<li><a href="/wiki/Self-certifying_File_System" title="Self-certifying File System">Self-certifying</a></li></ul></li>
+<li><a href="/wiki/Flash_file_system" title="Flash file system">Flash</a></li>
+<li><a href="/wiki/Journaling_file_system" title="Journaling file system">Journaling</a></li>
+<li><a href="/wiki/Log-structured_file_system" title="Log-structured file system">Log-structured</a></li>
+<li><a href="/wiki/Object_storage" title="Object storage">Object</a></li>
+<li><a href="/wiki/Record-oriented_filesystem" title="Record-oriented filesystem">Record-oriented</a></li>
+<li><a href="/wiki/Semantic_file_system" title="Semantic file system">Semantic</a></li>
+<li><a href="/wiki/Steganographic_file_system" title="Steganographic file system">Steganographic</a></li>
+<li><a href="/wiki/Synthetic_file_system" title="Synthetic file system">Synthetic</a></li>
+<li><a href="/wiki/Versioning_file_system" title="Versioning file system">Versioning</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Features</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Case_preservation" title="Case preservation">Case preservation</a></li>
+<li><a href="/wiki/Copy-on-write" title="Copy-on-write">Copy-on-write</a></li>
+<li><a href="/wiki/Data_deduplication" title="Data deduplication">Data deduplication</a></li>
+<li><a href="/wiki/Data_scrubbing" title="Data scrubbing">Data scrubbing</a></li>
+<li><a href="/wiki/Execute_in_place" title="Execute in place">Execute in place</a></li>
+<li><a href="/wiki/Extent_(file_systems)" title="Extent (file systems)">Extent</a></li>
+<li><a href="/wiki/File_attribute" title="File attribute">File attribute</a>
+<ul><li><a href="/wiki/Extended_file_attributes" title="Extended file attributes">Extended file attributes</a></li></ul></li>
+<li><a href="/wiki/File_change_log" title="File change log">File change log</a></li>
+<li><a href="/wiki/Fork_(file_system)" title="Fork (file system)">Fork</a></li>
+<li>Links
+<ul><li><a href="/wiki/Hard_link" title="Hard link">Hard</a></li>
+<li><a href="/wiki/Symbolic_link" title="Symbolic link">Symbolic</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Computer_access_control" title="Computer access control">Access control</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Access_control_list" title="Access control list">Access control list</a></li>
+<li><a href="/wiki/Filesystem-level_encryption" title="Filesystem-level encryption">Filesystem-level encryption</a></li>
+<li><a href="/wiki/File_system_permissions" title="File system permissions">Permissions</a>
+<ul><li><a href="/wiki/Modes_(Unix)" title="Modes (Unix)">Modes</a></li>
+<li><a href="/wiki/Sticky_bit" title="Sticky bit">Sticky bit</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Interface_(computing)" title="Interface (computing)">Interfaces</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/File_manager" title="File manager">File manager</a></li>
+<li><a href="/wiki/File_system_API" title="File system API">File system API</a>
+<ul><li><a href="/wiki/Installable_File_System" title="Installable File System">Installable File System</a></li></ul></li>
+<li><a href="/wiki/Virtual_file_system" title="Virtual file system">Virtual file system</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_file_systems" title="List of file systems">Lists</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_cryptographic_file_systems" title="List of cryptographic file systems">Cryptographic</a></li>
+<li><a href="/wiki/List_of_default_file_systems" title="List of default file systems">Default</a></li>
+<li><a href="/wiki/List_of_log-structured_file_systems" title="List of log-structured file systems">Log-structured</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p class="mw-empty-elt">
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20191214184123
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.300 seconds
+Real time usage: 0.402 seconds
+Preprocessor visited node count: 1029/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 65243/2097152 bytes
+Template argument size: 996/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 24242/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 4.7 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  321.972      1 -total
+ 45.07%  145.099      1 Template:Reflist
+ 38.03%  122.447      9 Template:Cite_web
+ 19.95%   64.220      1 Template:Primary_sources
+ 13.97%   44.995      1 Template:Infobox_filesystem
+ 13.50%   43.464      1 Template:Ambox
+ 11.60%   37.364      1 Template:Infobox
+  6.71%   21.612      1 Template:Filesystem
+  6.41%   20.648      1 Template:Use_dmy_dates
+  6.33%   20.370      4 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18678652-0!canonical and timestamp 20191214184122 and revision id 918995831
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tux3&amp;oldid=918995831">https://en.wikipedia.org/w/index.php?title=Tux3&amp;oldid=918995831</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Disk_file_systems" title="Category:Disk file systems">Disk file systems</a></li><li><a href="/wiki/Category:File_systems_supported_by_the_Linux_kernel" title="Category:File systems supported by the Linux kernel">File systems supported by the Linux kernel</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_September_2013" title="Category:Articles lacking reliable references from September 2013">Articles lacking reliable references from September 2013</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_February_2018" title="Category:Use dmy dates from February 2018">Use dmy dates from February 2018</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tux3" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Tux3" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Tux3" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Tux3" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Tux3">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Tux3&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Tux3&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Tux3" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Tux3" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tux3&amp;oldid=918995831" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tux3&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q17087716" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tux3&amp;id=918995831" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tux3">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tux3&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Tux3&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q17087716#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 1 October 2019, at 08:28<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Tux3&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.402","ppvisitednodes":{"value":1029,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":65243,"limit":2097152},"templateargumentsize":{"value":996,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":24242,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  321.972      1 -total"," 45.07%  145.099      1 Template:Reflist"," 38.03%  122.447      9 Template:Cite_web"," 19.95%   64.220      1 Template:Primary_sources"," 13.97%   44.995      1 Template:Infobox_filesystem"," 13.50%   43.464      1 Template:Ambox"," 11.60%   37.364      1 Template:Infobox","  6.71%   21.612      1 Template:Filesystem","  6.41%   20.648      1 Template:Use_dmy_dates","  6.33%   20.370      4 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":4925512,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20191214184123","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tux3","url":"https:\/\/en.wikipedia.org\/wiki\/Tux3","sameAs":"http:\/\/www.wikidata.org\/entity\/Q17087716","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q17087716","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-08-01T15:54:49Z","dateModified":"2019-10-01T08:28:40Z","headline":"filesystem"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":115,"wgHostname":"mw1246"});});</script>
+
+
+</body></html>

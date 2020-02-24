@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>WLEW-FM - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfqr4ApAICwAAIXNilsAAABW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"WLEW-FM","wgTitle":"WLEW-FM","wgCurRevisionId":902051184,"wgRevisionId":902051184,"wgArticleId":11643464,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","All articles with unsourced statements","Articles with unsourced statements from April 2019","Coordinates on Wikidata","All stub articles","Radio stations in Michigan",
+"Classic hits radio stations in the United States","Radio stations established in 1987","Michigan radio station stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"WLEW-FM","wgRelevantArticleId":11643464,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":43.891,"lon":-83.124},"wgWikibaseItemId":"Q7952191","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/2/25/WLEW_Cruise102.1_logo.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/WLEW-FM" rel="alternate"/>
+<link href="/w/index.php?title=WLEW-FM&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=WLEW-FM&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/WLEW-FM" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-WLEW-FM rootpage-WLEW-FM skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">WLEW-FM</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><caption class="fn org">WLEW-FM</caption><tbody><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:WLEW_Cruise102.1_logo.png"><img alt="WLEW Cruise102.1 logo.png" data-file-height="160" data-file-width="192" decoding="async" height="125" src="//upload.wikimedia.org/wikipedia/en/thumb/2/25/WLEW_Cruise102.1_logo.png/150px-WLEW_Cruise102.1_logo.png" srcset="//upload.wikimedia.org/wikipedia/en/2/25/WLEW_Cruise102.1_logo.png 1.5x" width="150"/></a></td></tr><tr><th scope="row"><a href="/wiki/City_of_license" title="City of license">City</a></th><td><a href="/wiki/Bad_Axe,_Michigan" title="Bad Axe, Michigan">Bad Axe, Michigan</a></td></tr><tr><th scope="row">Broadcast area</th><td class="label"><a class="external autonumber" href="http://www.radio-locator.com/cgi-bin/pat?call=WLEW&amp;service=FM&amp;status=L&amp;hours=U" rel="nofollow">[1]</a></td></tr><tr><th scope="row">Branding</th><td><i><b>Cruise 102.1</b></i></td></tr><tr class="note"><th scope="row"><a href="/wiki/Slogan" title="Slogan">Slogan</a></th><td><i>The Thumb's Power Station</i></td></tr><tr><th scope="row"><a href="/wiki/Frequency" title="Frequency">Frequency</a></th><td>102.1 <a class="mw-redirect" href="/wiki/MHz" title="MHz">MHz</a></td></tr><tr><th scope="row">First air date</th><td>1956</td></tr><tr><th scope="row"><a href="/wiki/Radio_format" title="Radio format">Format</a></th><td class="category"><a class="mw-redirect" href="/wiki/Classic_Hits" title="Classic Hits">Classic Hits</a>/<a class="mw-redirect" href="/wiki/Adult_Contemporary" title="Adult Contemporary">Adult Contemporary</a> mix</td></tr><tr><th scope="row"><a href="/wiki/Effective_radiated_power" title="Effective radiated power">ERP</a></th><td>50,000 <a href="/wiki/Watt" title="Watt">watts</a></td></tr><tr><th scope="row"><a href="/wiki/Height_above_average_terrain" title="Height above average terrain">HAAT</a></th><td>150 meters (490 ft)</td></tr><tr><th scope="row"><a href="/wiki/List_of_North_American_broadcast_station_classes" title="List of North American broadcast station classes">Class</a></th><td class="category">C2</td></tr><tr><th scope="row"><a href="/wiki/Facility_ID" title="Facility ID">Facility ID</a></th><td>67046</td></tr><tr><th scope="row">Affiliations</th><td><a href="/wiki/Associated_Press" title="Associated Press">AP Radio</a></td></tr><tr><th scope="row">Owner</th><td>Thumb Broadcasting</td></tr><tr><th scope="row"><a href="/wiki/Sister_station" title="Sister station">Sister stations</a></th><td><a href="/wiki/WLEW_(AM)" title="WLEW (AM)">WLEW</a></td></tr><tr><th scope="row"><a href="/wiki/Webcast" title="Webcast">Webcast</a></th><td><a class="external text" href="http://wlewfm.radio.net/" rel="nofollow">WLEW-FM Listen Online</a></td></tr><tr><th scope="row">Website</th><td><span class="url"><a class="external text" href="http://thumbnet.net/index.php" rel="nofollow">thumbnet<wbr/>.net<wbr/>/index<wbr/>.php</a></span></td></tr></tbody></table>
+<p><b>WLEW-FM</b> (102.1 FM) is a <a class="mw-redirect" href="/wiki/Radio_station" title="Radio station">radio station</a> in <a href="/wiki/Bad_Axe,_Michigan" title="Bad Axe, Michigan">Bad Axe, Michigan</a>, serving the Thumb area of Michigan.  It is owned by Thumb Broadcasting and broadcasts from studios on South <a href="/wiki/M-53_(Michigan_highway)" title="M-53 (Michigan highway)">Van Dyke Road</a> in Bad Axe.  Unusual for small-town radio stations, WLEW-FM is locally programmed and does not rely on satellite feeds for any of their music programming.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2019)">citation needed</span></a></i>]</sup>  
+</p><p>WLEW-FM, known as "Cruise 102.1" ("The Thumb's Power Station"), broadcasts at 102.1 MHz <a class="mw-redirect" href="/wiki/FM_radio" title="FM radio">FM</a> with 50,000 watts of power.  The station's <a href="/wiki/Adult_hits" title="Adult hits">adult hits</a> format is a combination of classic hits and adult contemporary titles from the 1960s through the present.  WLEW-FM was formerly a 3,000-watt <a href="/wiki/Easy_listening" title="Easy listening">easy listening</a> music station at 92.1 until it changed frequencies and boosted its power in the late 1980s (with <a href="/wiki/WIDL" title="WIDL">WIDL</a> in <a href="/wiki/Caro,_Michigan" title="Caro, Michigan">Caro</a>, which had been at 104.9, taking the 92.1 frequency).
+</p>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=WLEW-FM&amp;action=edit&amp;section=1" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.michiguide.com/dials/rad-j/wlew.html" rel="nofollow">Michiguide.com - WLEW-FM History</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=WLEW-FM&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li class="mw-empty-elt"></li>
+<li><a class="external text" href="https://transition.fcc.gov/fcc-bin/fmq?call=WLEW" rel="nofollow">Query the FCC's FM station database for WLEW</a></li>
+<li><a class="external text" href="https://radio-locator.com/info/WLEW-FM" rel="nofollow">Radio-Locator information on WLEW</a></li>
+<li><a class="external text" href="https://www1.arbitron.com/sip/displaySip.do?surveyID=FA19&amp;band=fm&amp;callLetter=WLEW" rel="nofollow">Query Nielsen Audio's FM station database for WLEW</a></li></ul>
+<p><br/>
+</p>
+<div aria-labelledby="Radio_stations_in_the_Thumb_area_of_east-central_Michigan" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Thumb_Radio" title="Template:Thumb Radio"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Thumb_Radio" title="Template talk:Thumb Radio"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Thumb_Radio&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Radio_stations_in_the_Thumb_area_of_east-central_Michigan" style="font-size:114%;margin:0 4em">Radio stations in <a href="/wiki/The_Thumb" title="The Thumb">the Thumb</a> area of east-central <a href="/wiki/Michigan" title="Michigan">Michigan</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">By <a href="/wiki/FM_broadcasting" title="FM broadcasting">FM frequency</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/WHYT" title="WHYT">88.1</a></li>
+<li><a href="/wiki/WNFA" title="WNFA">88.3</a></li>
+<li><a href="/wiki/WCTP" title="WCTP">88.5</a></li>
+<li><a href="/wiki/WDTR" title="WDTR">88.9</a></li>
+<li><a href="/wiki/Smile_FM" title="Smile FM">89.3</a></li>
+<li><a href="/wiki/WNFR" title="WNFR">90.7</a></li>
+<li><a href="/wiki/WRSX" title="WRSX">91.3</a></li>
+<li><a href="/wiki/WORW" title="WORW">91.9</a></li>
+<li><a href="/wiki/WIDL" title="WIDL">92.1</a></li>
+<li><a href="/wiki/WBGV" title="WBGV">92.5</a></li>
+<li><a href="/wiki/WHLX" title="WHLX">92.7</a></li>
+<li><a href="/wiki/WBTI" title="WBTI">96.9</a></li>
+<li><a href="/wiki/WVMV" title="WVMV">97.3</a></li>
+<li><a href="/wiki/WTGV-FM" title="WTGV-FM">97.7</a></li>
+<li><a href="/wiki/CFGX-FM" title="CFGX-FM">99.9</a></li>
+<li><a class="mw-selflink selflink">102.1</a></li>
+<li><a href="/wiki/WGRT" title="WGRT">102.3</a></li>
+<li><a href="/wiki/WQUS" title="WQUS">103.1</a></li>
+<li><a href="/wiki/WCZE" title="WCZE">103.7</a></li>
+<li><a href="/wiki/CHOK" title="CHOK">103.9</a></li>
+<li><a href="/wiki/WHLS" title="WHLS">105.5</a></li>
+<li><a href="/wiki/CHKS-FM" title="CHKS-FM">106.3</a></li>
+<li><a href="/wiki/WSAQ" title="WSAQ">107.1</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">By <a href="/wiki/AM_broadcasting" title="AM broadcasting">AM frequency</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/WMIC" title="WMIC">660</a></li>
+<li><a href="/wiki/CHOK" title="CHOK">1070</a></li>
+<li><a href="/wiki/WMPC" title="WMPC">1230</a></li>
+<li><a href="/wiki/WLEW_(AM)" title="WLEW (AM)">1340</a></li>
+<li><a href="/wiki/WKYO" title="WKYO">1360</a></li>
+<li><a href="/wiki/WPHM" title="WPHM">1380</a></li>
+<li><a href="/wiki/WHLS" title="WHLS">1450</a></li>
+<li><a href="/wiki/WLCO" title="WLCO">1530</a></li>
+<li><a href="/wiki/WHLX" title="WHLX">1590</a></li>
+<li><a class="mw-redirect" href="/wiki/Bluewater_Bridge" title="Bluewater Bridge">1610</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">By <a href="/wiki/Call_signs_in_North_America" title="Call signs in North America">callsign</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/CFGX-FM" title="CFGX-FM">CFGX</a></li>
+<li><a href="/wiki/CHOK" title="CHOK">CHOK</a></li>
+<li><a href="/wiki/CHKS-FM" title="CHKS-FM">CHKS</a></li>
+<li><a href="/wiki/WHLX" title="WHLX">W224DT</a></li>
+<li><a href="/wiki/WVMV" title="WVMV">W247CU</a></li>
+<li><a href="/wiki/WHLS" title="WHLS">W288BT</a></li>
+<li><a href="/wiki/WBGV" title="WBGV">WBGV</a></li>
+<li><a href="/wiki/WBTI" title="WBTI">WBTI</a></li>
+<li><a href="/wiki/WCTP" title="WCTP">WCTP</a></li>
+<li><a href="/wiki/WCZE" title="WCZE">WCZE</a></li>
+<li><a href="/wiki/WDTR" title="WDTR">WDTR</a></li>
+<li><a href="/wiki/WGRT" title="WGRT">WGRT</a></li>
+<li><a href="/wiki/WHLS" title="WHLS">WHLS</a></li>
+<li><a href="/wiki/WHLX" title="WHLX">WHLX</a></li>
+<li><a href="/wiki/WHYT" title="WHYT">WHYT</a></li>
+<li><a href="/wiki/WIDL" title="WIDL">WIDL</a></li>
+<li><a href="/wiki/WKYO" title="WKYO">WKYO</a></li>
+<li><a href="/wiki/WLCO" title="WLCO">WLCO</a></li>
+<li><a href="/wiki/WLEW_(AM)" title="WLEW (AM)">WLEW</a></li>
+<li><a class="mw-selflink selflink">WLEW-FM</a></li>
+<li><a href="/wiki/WMIC" title="WMIC">WMIC</a></li>
+<li><a href="/wiki/WMPC" title="WMPC">WMPC</a></li>
+<li><a href="/wiki/WNFA" title="WNFA">WNFA</a></li>
+<li><a href="/wiki/WNFR" title="WNFR">WNFR</a></li>
+<li><a href="/wiki/WORW" title="WORW">WORW</a></li>
+<li><a href="/wiki/WPHM" title="WPHM">WPHM</a></li>
+<li><a class="mw-redirect" href="/wiki/Bluewater_Bridge" title="Bluewater Bridge">WPLS727</a></li>
+<li><a href="/wiki/WQUS" title="WQUS">WQUS</a></li>
+<li><a href="/wiki/WRSX" title="WRSX">WRSX</a></li>
+<li><a href="/wiki/WSAQ" title="WSAQ">WSAQ</a></li>
+<li><a href="/wiki/Smile_FM" title="Smile FM">WSMB</a></li>
+<li><a href="/wiki/WTGV-FM" title="WTGV-FM">WTGV-FM</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<dl><dt>Nearby radio markets</dt>
+<dd><a href="/wiki/Template:Alpena_Radio" title="Template:Alpena Radio">Alpena–Tawas City</a></dd>
+<dd><a href="/wiki/Template:Detroit_Radio" title="Template:Detroit Radio">Detroit</a></dd>
+<dd><a href="/wiki/Template:Flint_Radio" title="Template:Flint Radio">Flint</a></dd>
+<dd><a href="/wiki/Template:Lansing-East_Lansing_Radio" title="Template:Lansing-East Lansing Radio">Lansing</a></dd>
+<dd><a href="/wiki/Template:Midwestern_Ontario_Radio" title="Template:Midwestern Ontario Radio">Midwestern Ontario</a></dd>
+<dd><a href="/wiki/Template:Central_Michigan_Radio" title="Template:Central Michigan Radio">North Central Michigan</a></dd>
+<dd><a href="/wiki/Template:Saginaw-Bay_City-Midland_Radio" title="Template:Saginaw-Bay City-Midland Radio">Tri-Cities</a></dd>
+<dd><a href="/wiki/Template:Southwestern_Ontario_Radio" title="Template:Southwestern Ontario Radio">Windsor-Chatham-Sarnia</a></dd></dl>
+<dl><dt>See also</dt>
+<dd><a href="/wiki/List_of_radio_stations_in_Michigan" title="List of radio stations in Michigan">List of radio stations in Michigan</a></dd></dl>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Classic_hits_radio_stations_in_Michigan" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Classic_Hits_Radio_Stations_in_Michigan" title="Template:Classic Hits Radio Stations in Michigan"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Classic_Hits_Radio_Stations_in_Michigan" title="Template talk:Classic Hits Radio Stations in Michigan"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Classic_Hits_Radio_Stations_in_Michigan&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Classic_hits_radio_stations_in_Michigan" style="font-size:114%;margin:0 4em"><a href="/wiki/Classic_hits" title="Classic hits">Classic hits</a> radio stations in <a href="/wiki/Michigan" title="Michigan">Michigan</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">By <a href="/wiki/Frequency" title="Frequency">frequency</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/WTOU" title="WTOU">930</a></li>
+<li><a href="/wiki/WFCX" title="WFCX">92.5</a></li>
+<li><a href="/wiki/WYVN" title="WYVN">92.7</a></li>
+<li><a href="/wiki/WHMI-FM" title="WHMI-FM">93.5</a></li>
+<li><a href="/wiki/WFCX" title="WFCX">94.3</a></li>
+<li><a href="/wiki/WUPN_(FM)" title="WUPN (FM)">95.1</a></li>
+<li><a href="/wiki/WMJO" title="WMJO">97.3</a></li>
+<li><a href="/wiki/WMRX-FM" title="WMRX-FM">97.7</a></li>
+<li><a href="/wiki/WOLV_(FM)" title="WOLV (FM)">97.7</a></li>
+<li><a href="/wiki/WTGV-FM" title="WTGV-FM">97.7</a></li>
+<li><a href="/wiki/WLCS" title="WLCS">98.3</a></li>
+<li><a href="/wiki/WUPS" title="WUPS">98.5</a></li>
+<li><a href="/wiki/WFGR" title="WFGR">98.7</a></li>
+<li><a href="/wiki/WIKB-FM" title="WIKB-FM">99.1</a></li>
+<li><a href="/wiki/WHAK-FM" title="WHAK-FM">99.9</a></li>
+<li><a href="/wiki/WUPT_(FM)" title="WUPT (FM)">100.3</a></li>
+<li><a href="/wiki/WFFR-LP" title="WFFR-LP">100.9</a></li>
+<li><a class="mw-redirect" href="/wiki/WMJZ" title="WMJZ">101.5</a></li>
+<li><a href="/wiki/WMTE-FM" title="WMTE-FM">101.5</a></li>
+<li><a class="mw-selflink selflink">102.1</a></li>
+<li><a href="/wiki/WCSY-FM" title="WCSY-FM">103.7</a></li>
+<li><a href="/wiki/WHYB" title="WHYB">103.7</a></li>
+<li><a href="/wiki/WOMC" title="WOMC">104.3</a></li>
+<li><a href="/wiki/WGKL" title="WGKL">105.5</a></li>
+<li><a href="/wiki/WWMK_(FM)" title="WWMK (FM)">106.3</a></li>
+<li><a href="/wiki/WCCW-FM" title="WCCW-FM">107.5</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">By <a href="/wiki/Call_signs_in_North_America" title="Call signs in North America">callsign</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/WCCW-FM" title="WCCW-FM">WCCW-FM</a></li>
+<li><a href="/wiki/WCSY-FM" title="WCSY-FM">WCSY-FM</a></li>
+<li><a href="/wiki/WTOU" title="WTOU">WFAT</a></li>
+<li><a href="/wiki/WFCX" title="WFCX">WFCX</a></li>
+<li><a href="/wiki/WFCX" title="WFCX">WFDX</a></li>
+<li><a href="/wiki/WFFR-LP" title="WFFR-LP">WFFR-LP</a></li>
+<li><a href="/wiki/WFGR" title="WFGR">WFGR</a></li>
+<li><a href="/wiki/WGKL" title="WGKL">WGKL</a></li>
+<li><a href="/wiki/WHAK-FM" title="WHAK-FM">WHAK-FM</a></li>
+<li><a href="/wiki/WHMI-FM" title="WHMI-FM">WHMI-FM</a></li>
+<li><a href="/wiki/WHYB" title="WHYB">WHYB</a></li>
+<li><a href="/wiki/WIKB-FM" title="WIKB-FM">WIKB-FM</a></li>
+<li><a href="/wiki/WLCS" title="WLCS">WLCS</a></li>
+<li><a class="mw-selflink selflink">WLEW-FM</a></li>
+<li><a href="/wiki/WMJO" title="WMJO">WMJO</a></li>
+<li><a class="mw-redirect" href="/wiki/WMJZ" title="WMJZ">WMJZ</a></li>
+<li><a href="/wiki/WMRX-FM" title="WMRX-FM">WMRX-FM</a></li>
+<li><a href="/wiki/WMTE-FM" title="WMTE-FM">WMTE-FM</a></li>
+<li><a href="/wiki/WOLV_(FM)" title="WOLV (FM)">WOLV</a></li>
+<li><a href="/wiki/WOMC" title="WOMC">WOMC</a></li>
+<li><a href="/wiki/WTGV-FM" title="WTGV-FM">WTGV-FM</a></li>
+<li><a href="/wiki/WUPN_(FM)" title="WUPN (FM)">WUPN</a></li>
+<li><a href="/wiki/WUPS" title="WUPS">WUPS</a></li>
+<li><a href="/wiki/WUPT_(FM)" title="WUPT (FM)">WUPT</a></li>
+<li><a href="/wiki/WWMK_(FM)" title="WWMK (FM)">WWMK</a></li>
+<li><a href="/wiki/WYVN" title="WYVN">WYVN</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">By city</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/WFCX" title="WFCX">Atlanta</a></li>
+<li><a class="mw-selflink selflink">Bad Axe</a></li>
+<li><a href="/wiki/WTOU" title="WTOU">Battle Creek</a></li>
+<li><a href="/wiki/WMRX-FM" title="WMRX-FM">Beavrton</a></li>
+<li><a href="/wiki/WOMC" title="WOMC">Detroit</a></li>
+<li><a class="mw-redirect" href="/wiki/WMJZ" title="WMJZ">Gaylord</a></li>
+<li><a href="/wiki/WGKL" title="WGKL">Gladstone</a></li>
+<li><a href="/wiki/WFGR" title="WFGR">Grand Rapids</a></li>
+<li><a href="/wiki/WUPT_(FM)" title="WUPT (FM)">Gwinn</a></li>
+<li><a href="/wiki/WUPS" title="WUPS">Harrison</a></li>
+<li><a href="/wiki/WOLV_(FM)" title="WOLV (FM)">Houghton</a></li>
+<li><a href="/wiki/WHMI-FM" title="WHMI-FM">Howell</a></li>
+<li><a href="/wiki/WIKB-FM" title="WIKB-FM">Iron River</a></li>
+<li><a href="/wiki/WFCX" title="WFCX">Leland</a></li>
+<li><a href="/wiki/WMTE-FM" title="WMTE-FM">Manistee</a></li>
+<li><a href="/wiki/WHYB" title="WHYB">Menominee</a></li>
+<li><a href="/wiki/WLCS" title="WLCS">North Muskegon</a></li>
+<li><a href="/wiki/WWMK_(FM)" title="WWMK (FM)">Onaway</a></li>
+<li><a href="/wiki/WUPN_(FM)" title="WUPN (FM)">Paradise</a></li>
+<li><a href="/wiki/WHAK-FM" title="WHAK-FM">Rogers City</a></li>
+<li><a href="/wiki/WFFR-LP" title="WFFR-LP">Roosevelt Park</a></li>
+<li><a href="/wiki/WYVN" title="WYVN">Saugatuck</a></li>
+<li><a href="/wiki/WMJO" title="WMJO">Saginaw/Essexville</a></li>
+<li><a href="/wiki/WTGV-FM" title="WTGV-FM">Sandusky</a></li>
+<li><a href="/wiki/WCSY-FM" title="WCSY-FM">South Haven</a></li>
+<li><a href="/wiki/WLKM-FM" title="WLKM-FM">Three Rivers</a></li>
+<li><a href="/wiki/WCCW-FM" title="WCCW-FM">Traverse City</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><div class="hlist">
+<dl><dt>See also</dt>
+<dd><a href="/wiki/Template:Adult_Contemporary_Radio_Stations_in_Michigan" title="Template:Adult Contemporary Radio Stations in Michigan">adult contemporary</a></dd>
+<dd><a href="/wiki/Template:Classic_Hits_Radio_Stations_in_Michigan" title="Template:Classic Hits Radio Stations in Michigan">classic hits</a></dd>
+<dd><a href="/wiki/Template:Michigan_college_radio" title="Template:Michigan college radio">college</a></dd>
+<dd><a href="/wiki/Template:Country_Radio_Stations_in_Michigan" title="Template:Country Radio Stations in Michigan">country</a></dd>
+<dd><a href="/wiki/Template:News/Talk_Radio_Stations_in_Michigan" title="Template:News/Talk Radio Stations in Michigan">news/talk</a></dd>
+<dd><a href="/wiki/Template:NPR_Michigan" title="Template:NPR Michigan">NPR</a></dd>
+<dd><a href="/wiki/Template:Oldies_Radio_Stations_in_Michigan" title="Template:Oldies Radio Stations in Michigan">oldies</a></dd>
+<dd><a href="/wiki/Template:Religious_Radio_Stations_in_Michigan" title="Template:Religious Radio Stations in Michigan">religious</a></dd>
+<dd><a href="/wiki/Template:Rock_Radio_Stations_in_Michigan" title="Template:Rock Radio Stations in Michigan">rock</a></dd>
+<dd><a href="/wiki/Template:Sports_Radio_Stations_in_Michigan" title="Template:Sports Radio Stations in Michigan">sports</a></dd>
+<dd><a href="/wiki/Template:Contemporary_Hit_Radio_Stations_in_Michigan" title="Template:Contemporary Hit Radio Stations in Michigan">top 40</a></dd>
+<dd><a href="/wiki/Template:Urban_Radio_Stations_in_Michigan" title="Template:Urban Radio Stations in Michigan">urban</a></dd>
+<dd><a href="/wiki/Template:Spanish_Radio_Stations_in_Michigan" title="Template:Spanish Radio Stations in Michigan">other</a> radio stations in Michigan</dd></dl>
+</div></div></td></tr></tbody></table></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=WLEW-FM&amp;params=43.891_N_83.124_W_type:landmark_region:US_source:FCC"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43°53′28″N</span> <span class="longitude">83°07′26″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.891°N 83.124°W</span><span style="display:none">﻿ / <span class="geo">43.891; -83.124</span></span></span></a></span></span></span>
+</p><p><br/>
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a class="image" href="/wiki/File:Radio_svg_icon.svg"><img alt="Stub icon 1" data-file-height="22" data-file-width="22" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Radio_svg_icon.svg/30px-Radio_svg_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Radio_svg_icon.svg/45px-Radio_svg_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Radio_svg_icon.svg/60px-Radio_svg_icon.svg.png 2x" width="30"/></a> <a class="image" href="/wiki/File:Flag_of_Michigan.svg"><img alt="Stub icon 2" data-file-height="457" data-file-width="685" decoding="async" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/32px-Flag_of_Michigan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/48px-Flag_of_Michigan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/64px-Flag_of_Michigan.svg.png 2x" width="32"/></a></td><td><i>This article about a radio station in Michigan is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=WLEW-FM&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Michigan-radio-station-stub" title="Template:Michigan-radio-station-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Michigan-radio-station-stub" title="Template talk:Michigan-radio-station-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Michigan-radio-station-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw1318
+Cached time: 20191214021258
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.228 seconds
+Real time usage: 0.331 seconds
+Preprocessor visited node count: 730/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38672/2097152 bytes
+Template argument size: 1408/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 14/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.087/10.000 seconds
+Lua memory usage: 3.07 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  271.799      1 -total
+ 41.78%  113.570      1 Template:Infobox_Radio_station
+ 38.70%  105.188      1 Template:Infobox
+ 24.61%   66.889      1 Template:Cn
+ 21.54%   58.545      1 Template:Fix
+ 15.50%   42.116      2 Template:Category_handler
+ 12.47%   33.892      1 Template:Convert
+ 11.37%   30.897      1 Template:Coord
+ 10.80%   29.363      2 Template:Navbox
+  8.11%   22.050      1 Template:Classic_Hits_Radio_Stations_in_Michigan
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11643464-0!canonical and timestamp 20191214021258 and revision id 902051184
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=WLEW-FM&amp;oldid=902051184">https://en.wikipedia.org/w/index.php?title=WLEW-FM&amp;oldid=902051184</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Radio_stations_in_Michigan" title="Category:Radio stations in Michigan">Radio stations in Michigan</a></li><li><a href="/wiki/Category:Classic_hits_radio_stations_in_the_United_States" title="Category:Classic hits radio stations in the United States">Classic hits radio stations in the United States</a></li><li><a href="/wiki/Category:Radio_stations_established_in_1987" title="Category:Radio stations established in 1987">Radio stations established in 1987</a></li><li><a href="/wiki/Category:Michigan_radio_station_stubs" title="Category:Michigan radio station stubs">Michigan radio station stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2019" title="Category:Articles with unsourced statements from April 2019">Articles with unsourced statements from April 2019</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=WLEW-FM" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=WLEW-FM" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/WLEW-FM" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:WLEW-FM" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/WLEW-FM">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=WLEW-FM&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=WLEW-FM&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/WLEW-FM" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/WLEW-FM" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=WLEW-FM&amp;oldid=902051184" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=WLEW-FM&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7952191" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=WLEW-FM&amp;id=902051184" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=WLEW-FM">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=WLEW-FM&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=WLEW-FM&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7952191#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 June 2019, at 05:38<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=WLEW-FM&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.331","ppvisitednodes":{"value":730,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38672,"limit":2097152},"templateargumentsize":{"value":1408,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  271.799      1 -total"," 41.78%  113.570      1 Template:Infobox_Radio_station"," 38.70%  105.188      1 Template:Infobox"," 24.61%   66.889      1 Template:Cn"," 21.54%   58.545      1 Template:Fix"," 15.50%   42.116      2 Template:Category_handler"," 12.47%   33.892      1 Template:Convert"," 11.37%   30.897      1 Template:Coord"," 10.80%   29.363      2 Template:Navbox","  8.11%   22.050      1 Template:Classic_Hits_Radio_Stations_in_Michigan"]},"scribunto":{"limitreport-timeusage":{"value":"0.087","limit":"10.000"},"limitreport-memusage":{"value":3222678,"limit":52428800}},"cachereport":{"origin":"mw1318","timestamp":"20191214021258","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"WLEW-FM","url":"https:\/\/en.wikipedia.org\/wiki\/WLEW-FM","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7952191","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7952191","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-06-07T06:23:21Z","dateModified":"2019-06-16T05:38:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/2\/25\/WLEW_Cruise102.1_logo.png"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1323"});});</script>
+
+
+</body></html>

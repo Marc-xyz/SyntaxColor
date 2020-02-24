@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Searoad Ferries - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfuARgpAMFEAAJkTWq8AAABT","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Searoad_Ferries","wgTitle":"Searoad Ferries","wgCurRevisionId":918525235,"wgRevisionId":918525235,"wgArticleId":512242,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from June 2015","Use Australian English from June 2015","All Wikipedia articles written in Australian English","All articles with unsourced statements",
+"Articles with unsourced statements from August 2007","Ferry companies of Victoria (Australia)","Transport in Geelong","Port Phillip","Bellarine Peninsula","Mornington Peninsula","1983 establishments in Australia"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Searoad_Ferries","wgRelevantArticleId":512242,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7441770","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":
+!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Searoad_Queenscliff-Sorrento_Ferries_on_Port_Phillip_Bay%2C_jjron%2C_05.07.2010.jpg/1200px-Searoad_Queenscliff-Sorrento_Ferries_on_Port_Phillip_Bay%2C_jjron%2C_05.07.2010.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Searoad_Ferries" rel="alternate"/>
+<link href="/w/index.php?title=Searoad_Ferries&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Searoad_Ferries&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Searoad_Ferries" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Searoad_Ferries rootpage-Searoad_Ferries skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Searoad Ferries</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><td class="logo" colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Searoad_ferries_logo.png"><img alt="Searoad ferries logo.png" data-file-height="47" data-file-width="200" decoding="async" height="47" src="//upload.wikimedia.org/wikipedia/en/8/8a/Searoad_ferries_logo.png" width="200"/></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;">Shipping</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1983</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div class="locality" style="display: inline;"><a href="/wiki/Queenscliff,_Victoria" title="Queenscliff, Victoria">Queenscliff</a></div>, <div class="country-name" style="display: inline;"><a href="/wiki/Australia" title="Australia">Australia</a></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;"><a href="/wiki/Port_Phillip" title="Port Phillip">Port Phillip Bay</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Services</th><td class="category" style="line-height: 1.35em;">Passenger transportation<br/>Freight transportation</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><a class="external text" href="http://www.searoad.com.au" rel="nofollow">www.searoad.com.au</a></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><a class="image" href="/wiki/File:Searoad_Queenscliff-Sorrento_Ferries_on_Port_Phillip_Bay,_jjron,_05.07.2010.jpg"><img alt="" class="thumbimage" data-file-height="1067" data-file-width="1600" decoding="async" height="233" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Searoad_Queenscliff-Sorrento_Ferries_on_Port_Phillip_Bay%2C_jjron%2C_05.07.2010.jpg/350px-Searoad_Queenscliff-Sorrento_Ferries_on_Port_Phillip_Bay%2C_jjron%2C_05.07.2010.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Searoad_Queenscliff-Sorrento_Ferries_on_Port_Phillip_Bay%2C_jjron%2C_05.07.2010.jpg/525px-Searoad_Queenscliff-Sorrento_Ferries_on_Port_Phillip_Bay%2C_jjron%2C_05.07.2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Searoad_Queenscliff-Sorrento_Ferries_on_Port_Phillip_Bay%2C_jjron%2C_05.07.2010.jpg/700px-Searoad_Queenscliff-Sorrento_Ferries_on_Port_Phillip_Bay%2C_jjron%2C_05.07.2010.jpg 2x" width="350"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Searoad_Queenscliff-Sorrento_Ferries_on_Port_Phillip_Bay,_jjron,_05.07.2010.jpg" title="Enlarge"></a></div>The <i><a href="/wiki/MV_Sorrento_(2001)" title="MV Sorrento (2001)">MV Sorrento</a></i> heading towards <a href="/wiki/Queenscliff,_Victoria" title="Queenscliff, Victoria">Queenscliff</a> with the <i><a href="/wiki/MV_Queenscliff_(1992)" title="MV Queenscliff (1992)">MV Queenscliff</a></i> in the distance heading towards <a href="/wiki/Sorrento,_Victoria" title="Sorrento, Victoria">Sorrento</a>, on <a href="/wiki/Port_Phillip" title="Port Phillip">Port Phillip Bay</a>, Victoria</div></div></div>
+<p><b>Searoad Ferries</b> (formerly known as <b>Peninsula Searoad Transport</b>) is an <a href="/wiki/Australia" title="Australia">Australian</a> company that operates a <a href="/wiki/Roll-on/roll-off" title="Roll-on/roll-off">roll-on/roll-off</a> vehicle and passenger <a href="/wiki/Ferry" title="Ferry">ferry</a> service between the heads of <a href="/wiki/Port_Phillip" title="Port Phillip">Port Phillip</a>, near <a href="/wiki/Melbourne" title="Melbourne">Melbourne</a>, <a href="/wiki/Victoria_(Australia)" title="Victoria (Australia)">Victoria</a>, <a href="/wiki/Australia" title="Australia">Australia</a>.
+</p><p>The route operates between terminals at <a href="/wiki/Queenscliff,_Victoria" title="Queenscliff, Victoria">Queenscliff</a> on the <a href="/wiki/Bellarine_Peninsula" title="Bellarine Peninsula">Bellarine Peninsula</a> and <a href="/wiki/Sorrento,_Victoria" title="Sorrento, Victoria">Sorrento</a> on the <a href="/wiki/Mornington_Peninsula" title="Mornington Peninsula">Mornington Peninsula</a>. It is serviced by two ships, currently the <a href="/wiki/MV_Queenscliff_(1992)" title="MV Queenscliff (1992)">MV <i>Queenscliff</i></a> and the <a href="/wiki/MV_Sorrento_(2001)" title="MV Sorrento (2001)">MV <i>Sorrento</i></a>. <a class="mw-redirect" href="/wiki/Dolphins" title="Dolphins">Dolphins</a> are often seen following the ferries during their crossing.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>The ferry service runs every hour during the day, and makes a crossing in approximately 40 minutes. The single journey cost for a car and driver is <a href="/wiki/Australian_dollar" title="Australian dollar">A$</a>62,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> with an additional charge for passengers. The alternative drive from Queenscliff to Sorrento via road is approximately three hours during non-peak traffic conditions.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Peninsula_Princess"><span class="tocnumber">1.1</span> <span class="toctext">Peninsula Princess</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#MV_Queenscliff"><span class="tocnumber">1.2</span> <span class="toctext">MV <i>Queenscliff</i></span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#MV_Sorrento"><span class="tocnumber">1.3</span> <span class="toctext">MV <i>Sorrento</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Searoad_Ferries&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Three sea pilots, Paul Ringe, Keith Finnemore and Maurie Cobal founded Peninsula Searoad Transport Pty Ltd (PST) in 1983. They believed that a vehicular ferry should run between Queenscliff and Sorrento. There were mixed opinions about this from the public. Some people thought that the novelty would wear off and then business would fail. However, the various tourism boards in Victoria were excited about the prospect of having a vehicular ferry, linking the two peninsulas and would also create tourism jobs.<sup class="reference" id="cite_ref-twelvemil_3-0"><a href="#cite_note-twelvemil-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Peninsula_Princess">Peninsula Princess</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Searoad_Ferries&amp;action=edit&amp;section=2" title="Edit section: Peninsula Princess">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Peninsula_Princess.jpg"><img alt="" class="thumbimage" data-file-height="556" data-file-width="825" decoding="async" height="148" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Peninsula_Princess.jpg/220px-Peninsula_Princess.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Peninsula_Princess.jpg/330px-Peninsula_Princess.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Peninsula_Princess.jpg/440px-Peninsula_Princess.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Peninsula_Princess.jpg" title="Enlarge"></a></div>The <i>Peninsula Princess</i> in 2008</div></div></div>
+<p>After various planning, on 19 June 1987 the <i><a href="/wiki/Peninsula_Princess_(Australia)" title="Peninsula Princess (Australia)">Peninsula Princess</a></i> was launched in <a href="/wiki/Carrington,_New_South_Wales" title="Carrington, New South Wales">Carrington</a>, <a href="/wiki/New_South_Wales" title="New South Wales">New South Wales</a>. She underwent sea trials before moving to Port Phillip Bay.<sup class="reference" id="cite_ref-stamp_4-0"><a href="#cite_note-stamp-4">[4]</a></sup> Her crew boarded her in <a href="/wiki/Geelong" title="Geelong">Geelong</a>, <a href="/wiki/Victoria_(Australia)" title="Victoria (Australia)">Victoria</a> to get a feel for the vessel. She had to wait there for the Queenscliff berth to be completed.
+</p><p>The first sailing was intended to be on 7 September 1987,<sup class="reference" id="cite_ref-stamp_4-1"><a href="#cite_note-stamp-4">[4]</a></sup> but the berths specially designed for this vessel<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> at Queenscliff and Sorrento were not yet complete.
+</p><p>On 13 September 1987, she entered service.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2007)">citation needed</span></a></i>]</sup> On the first arrival at Sorrento, the skipper encountered a problem with the ahead/astern controls. She hit the concrete wharf and whilst tyres around the wharf buffered the impact there was still considerable damage done to the <a href="/wiki/Transom_(nautical)" title="Transom (nautical)">transom</a>. Commercial operations started on the weekend commencing 19 September 1987.<sup class="reference" id="cite_ref-stamp_4-2"><a href="#cite_note-stamp-4">[4]</a></sup>
+</p><p>A few weeks later, during low tide at Queenscliff the crew encountered problems because of the depth of the water and the strong winds. As one of the deckhands attempted to take control by winching the boat in to its berth, the rope slipped and jumped and he was thrown to the deck. By the time he attempted to regain his footing the <i>Peninsula Princess</i> had been taken hold of by the wind. She was thrown against the edge of the creek and broke a propeller and had a bent shaft. The ferry had to be <a href="/wiki/Dry_dock" title="Dry dock">dry docked</a> for repairs. The business had financial issues and could not afford for this to happen again.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2007)">citation needed</span></a></i>]</sup>
+</p><p>After the new ferry was introduced, the <i>Peninsula Princess</i> was frequently docked at the former Queenscliff ferry berth. In 2004 the ferry was sighted docked in the <a href="/wiki/Tamar_River" title="Tamar River">Tamar River</a> in <a href="/wiki/Launceston,_Tasmania" title="Launceston, Tasmania">Launceston</a>, <a href="/wiki/Tasmania" title="Tasmania">Tasmania</a>.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<h3><span class="mw-headline" id="MV_Queenscliff">MV <i>Queenscliff</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Searoad_Ferries&amp;action=edit&amp;section=3" title="Edit section: MV Queenscliff">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/MV_Queenscliff_(1992)" title="MV Queenscliff (1992)">MV Queenscliff (1992)</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Queenscliff_ferry_terminal.jpg"><img alt="" class="thumbimage" data-file-height="1280" data-file-width="1920" decoding="async" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Queenscliff_ferry_terminal.jpg/220px-Queenscliff_ferry_terminal.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Queenscliff_ferry_terminal.jpg/330px-Queenscliff_ferry_terminal.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Queenscliff_ferry_terminal.jpg/440px-Queenscliff_ferry_terminal.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Queenscliff_ferry_terminal.jpg" title="Enlarge"></a></div>Ferry terminal at <a href="/wiki/Queenscliff,_Victoria" title="Queenscliff, Victoria">Queenscliff</a>, with <a href="/wiki/MV_Queenscliff_(1992)" title="MV Queenscliff (1992)"><i>MV Queenscliff</i></a> unloading cars</div></div></div>
+<p>By the early 1990s traffic using the ferry had increased, and an increase in capacity was required to cope. A new and much larger ferry, the <a href="/wiki/MV_Queenscliff_(1992)" title="MV Queenscliff (1992)">MV <i>Queenscliff</i></a> was purchased, and work commenced on the ferry berths to enable them to  handle the new ferry. At Sorrento the existing berth was altered, while at Queenscliff a new berth was built to the south.
+</p><p>These works were not without controversy, and Peninsula Searoad Transport was required to attend the Administrative Appeals Tribunal to resolve the issues.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> The new ferry cost $5 million, and was put into service on 22 December 1993.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p><p>On 12 October 2005 the <a href="/wiki/Australian_Defence_Force" title="Australian Defence Force">Australian Defence Force</a> staged an anti-terrorism exercise on the MV <i>Queenscliff</i>. Two <a class="mw-redirect" href="/wiki/UH-60_Black_Hawk" title="UH-60 Black Hawk">Black Hawk</a> <a class="mw-redirect" href="/wiki/Helicopters" title="Helicopters">helicopters</a> were used to fast rope members of the Tactical Assault Group onto the roof of the ferry, and members of the Boat Assault Force boarded the ferry from inflatable dinghies.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p>
+<h3><span class="mw-headline" id="MV_Sorrento">MV <i>Sorrento</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Searoad_Ferries&amp;action=edit&amp;section=4" title="Edit section: MV Sorrento">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/MV_Sorrento_(2001)" title="MV Sorrento (2001)">MV Sorrento (2001)</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:The_Searoad_Queenscliff-Sorrento_Ferry_%27MV_Sorrento%27,_Queenscliff,_jjron,_06.07.2010.jpg"><img alt="" class="thumbimage" data-file-height="1922" data-file-width="2756" decoding="async" height="153" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_Searoad_Queenscliff-Sorrento_Ferry_%27MV_Sorrento%27%2C_Queenscliff%2C_jjron%2C_06.07.2010.jpg/220px-The_Searoad_Queenscliff-Sorrento_Ferry_%27MV_Sorrento%27%2C_Queenscliff%2C_jjron%2C_06.07.2010.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_Searoad_Queenscliff-Sorrento_Ferry_%27MV_Sorrento%27%2C_Queenscliff%2C_jjron%2C_06.07.2010.jpg/330px-The_Searoad_Queenscliff-Sorrento_Ferry_%27MV_Sorrento%27%2C_Queenscliff%2C_jjron%2C_06.07.2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_Searoad_Queenscliff-Sorrento_Ferry_%27MV_Sorrento%27%2C_Queenscliff%2C_jjron%2C_06.07.2010.jpg/440px-The_Searoad_Queenscliff-Sorrento_Ferry_%27MV_Sorrento%27%2C_Queenscliff%2C_jjron%2C_06.07.2010.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:The_Searoad_Queenscliff-Sorrento_Ferry_%27MV_Sorrento%27,_Queenscliff,_jjron,_06.07.2010.jpg" title="Enlarge"></a></div><a href="/wiki/MV_Sorrento_(2001)" title="MV Sorrento (2001)"><i>MV Sorrento</i></a> docking at <a href="/wiki/Queenscliff,_Victoria" title="Queenscliff, Victoria">Queenscliff</a></div></div></div>
+<p>Traffic using the ferry service continued to grow though the 1990s, carrying about 110,000 cars/trucks/coaches/motorcycles and 600,000 passengers each year.<sup class="reference" id="cite_ref-twelvemil_3-1"><a href="#cite_note-twelvemil-3">[3]</a></sup> As a result, in 2000 it was decided to purchase a second ferry, enabling a doubling in the service frequency.
+</p><p>The <a href="/wiki/MV_Sorrento_(2001)" title="MV Sorrento (2001)"><i>MV Sorrento</i></a> was built in <a href="/wiki/Launceston,_Tasmania" title="Launceston, Tasmania">Launceston</a>, <a href="/wiki/Tasmania" title="Tasmania">Tasmania</a>, <a href="/wiki/Australia" title="Australia">Australia</a> at a cost of $12 million, and was similar in size and appearance to the existing ferry. Minor differences between the two include an elevator from the car deck to the top deck, a new lounge at the front called the 'Portsea Lounge', and the number of exterior windows at the top would be in groups of three, not in fours.
+</p><p>The increased frequency resulted in the closure of the <a href="/wiki/Queenscliff,_Victoria" title="Queenscliff, Victoria">Queenscliff</a> - <a href="/wiki/Portsea,_Victoria" title="Portsea, Victoria">Portsea</a> - <a href="/wiki/Sorrento,_Victoria" title="Sorrento, Victoria">Sorrento</a> passenger ferry service in the early 2000s.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Searoad_Ferries&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="mw-redirect" href="/wiki/List_of_Australian_ferries" title="List of Australian ferries">List of Australian ferries</a></li>
+<li><a href="/wiki/Port_Phillip_Bay_Bridge_proposals" title="Port Phillip Bay Bridge proposals">Port Phillip Bay Bridge proposals</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Searoad_Ferries&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Queenscliff-Sorrento_Ferry,_Queenscliff,_Vic,_05.12.2009.jpg"><img alt="" class="thumbimage" data-file-height="667" data-file-width="1000" decoding="async" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Queenscliff-Sorrento_Ferry%2C_Queenscliff%2C_Vic%2C_05.12.2009.jpg/220px-Queenscliff-Sorrento_Ferry%2C_Queenscliff%2C_Vic%2C_05.12.2009.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Queenscliff-Sorrento_Ferry%2C_Queenscliff%2C_Vic%2C_05.12.2009.jpg/330px-Queenscliff-Sorrento_Ferry%2C_Queenscliff%2C_Vic%2C_05.12.2009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Queenscliff-Sorrento_Ferry%2C_Queenscliff%2C_Vic%2C_05.12.2009.jpg/440px-Queenscliff-Sorrento_Ferry%2C_Queenscliff%2C_Vic%2C_05.12.2009.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Queenscliff-Sorrento_Ferry,_Queenscliff,_Vic,_05.12.2009.jpg" title="Enlarge"></a></div>The <i>MV Queenscliff</i> docked in Queenscliff</div></div></div>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20070922103843/http://www.dse.vic.gov.au/CA256F310024B628/0/474619A135BA8168CA256FFD00239072/$File/Hale+Report.pdf" rel="nofollow">"Hale Report - Interactions between Vessels and Dolphins in Port Phillip Bay"</a> <span class="cs1-format">(PDF)</span>. Department of Sustainability and Environment (Victoria). Archived from <a class="external text" href="http://www.dse.vic.gov.au/CA256F310024B628/0/474619A135BA8168CA256FFD00239072/$File/Hale+Report.pdf" rel="nofollow">the original</a> <span class="cs1-format">(PDF)</span> on 22 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">26 July</span> 2007</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hale+Report+-+Interactions+between+Vessels+and+Dolphins+in+Port+Phillip+Bay&amp;rft.pub=Department+of+Sustainability+and+Environment+%28Victoria%29&amp;rft_id=http%3A%2F%2Fwww.dse.vic.gov.au%2FCA256F310024B628%2F0%2F474619A135BA8168CA256FFD00239072%2F%24File%2FHale%2BReport.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearoad+Ferries"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.searoad.com.au/timetables-fares/fares/" rel="nofollow">"Searoad Ferries - Fares"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 November</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Searoad+Ferries+-+Fares&amp;rft_id=http%3A%2F%2Fwww.searoad.com.au%2Ftimetables-fares%2Ffares%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearoad+Ferries"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-twelvemil-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-twelvemil_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-twelvemil_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.dtf.vic.gov.au/domino/Web_Notes/MediaRelArc02.nsf/d025c300601da9dc4a25688e00143d49/e9fa53d63dc6e4ac4a256b510080ffb2!OpenDocument&amp;Click=" rel="nofollow">"Deputy Premier Launches $12 Million Queenscliff to Sorrento Ferry"</a>. <i>Media Release</i>. Office of the Premier. April 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">26 July</span> 2007</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Media+Release&amp;rft.atitle=Deputy+Premier+Launches+%2412+Million+Queenscliff+to+Sorrento+Ferry&amp;rft.date=2001-04&amp;rft_id=http%3A%2F%2Fwww.dtf.vic.gov.au%2Fdomino%2FWeb_Notes%2FMediaRelArc02.nsf%2Fd025c300601da9dc4a25688e00143d49%2Fe9fa53d63dc6e4ac4a256b510080ffb2%21OpenDocument%26Click%3D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearoad+Ferries"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-stamp-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-stamp_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-stamp_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-stamp_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><i>Peninsular Stamp Club</i> (1987), Notes on the inauguration of the Peninsular Princess car / passenger ferry</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/19991007163901/http://www.burchillpartners.com.au/ft-queen.htm" rel="nofollow">"Queenscliff and Sorrento Roll-On / Roll-Off Ferry Terminals"</a>. Burchill VDM. Archived from <a class="external text" href="http://www.burchillpartners.com.au/ft-queen.htm" rel="nofollow">the original</a> on 7 October 1999<span class="reference-accessdate">. Retrieved <span class="nowrap">26 July</span> 2007</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Queenscliff+and+Sorrento+Roll-On+%2F+Roll-Off+Ferry+Terminals&amp;rft.pub=Burchill+VDM&amp;rft_id=http%3A%2F%2Fwww.burchillpartners.com.au%2Fft-queen.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearoad+Ferries"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20070929091632/http://www.parliament.sa.gov.au/San/public/%7B94623888-D77D-4D8D-9277-507FB4E1006C%7D/20046181355/20046181355/html/20046181355_10.htm" rel="nofollow">"Member for Flinders Liz Penfold MP Parliamentary Travel report King Island/Tasmania/Melbourne"</a>. 16–29 April 2004. Archived from <a class="external text" href="http://www.parliament.sa.gov.au/San/public/%7B94623888-D77D-4D8D-9277-507FB4E1006C%7D/20046181355/20046181355/html/20046181355_10.htm" rel="nofollow">the original</a> on 29 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-07-26</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Member+for+Flinders+Liz+Penfold+MP+Parliamentary+Travel+report+King+Island%2FTasmania%2FMelbourne&amp;rft.date=2004-04-16%2F2004-04-29&amp;rft_id=http%3A%2F%2Fwww.parliament.sa.gov.au%2FSan%2Fpublic%2F%257B94623888-D77D-4D8D-9277-507FB4E1006C%257D%2F20046181355%2F20046181355%2Fhtml%2F20046181355_10.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearoad+Ferries"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20070927010621/http://www.legislation.vic.gov.au/domino/Web_Notes/pressrel.nsf/8c6a107c25fde2364a2562e600030477/70f2b876f94f5efe4a2561f1002bdaaf%21OpenDocument%26Click%3D" rel="nofollow">"Queenscliff to Sorrento Ferry"</a>. Office of the Minister for Planning. 4 February 1993. Archived from <a class="external text" href="http://www.legislation.vic.gov.au/domino/Web_Notes/pressrel.nsf/8c6a107c25fde2364a2562e600030477/70f2b876f94f5efe4a2561f1002bdaaf!OpenDocument&amp;Click=" rel="nofollow">the original</a> on 27 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">26 July</span> 2007</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Queenscliff+to+Sorrento+Ferry&amp;rft.pub=Office+of+the+Minister+for+Planning&amp;rft.date=1993-02-04&amp;rft_id=http%3A%2F%2Fwww.legislation.vic.gov.au%2Fdomino%2FWeb_Notes%2Fpressrel.nsf%2F8c6a107c25fde2364a2562e600030477%2F70f2b876f94f5efe4a2561f1002bdaaf%21OpenDocument%26Click%3D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearoad+Ferries"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20070930223526/http://www.dpc.vic.gov.au/domino/Web_Notes/pressrel.nsf/0cc988f35cba63df4a25620d002c68f3/ce757a23163f570f4a2561f100330b39%21OpenDocument%26Click%3D" rel="nofollow">"Premier Launches New Bay Ferry Service"</a>. <i>Media Release</i>. Office of the Premier. 22 December 1993. Archived from <a class="external text" href="http://www.dpc.vic.gov.au/domino/Web_Notes/pressrel.nsf/0cc988f35cba63df4a25620d002c68f3/ce757a23163f570f4a2561f100330b39!OpenDocument&amp;Click=" rel="nofollow">the original</a> on 30 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">26 July</span> 2007</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Media+Release&amp;rft.atitle=Premier+Launches+New+Bay+Ferry+Service&amp;rft.date=1993-12-22&amp;rft_id=http%3A%2F%2Fwww.dpc.vic.gov.au%2Fdomino%2FWeb_Notes%2Fpressrel.nsf%2F0cc988f35cba63df4a25620d002c68f3%2Fce757a23163f570f4a2561f100330b39%21OpenDocument%26Click%3D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearoad+Ferries"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.defence.gov.au/media/download/2005/Oct/20051020.cfm" rel="nofollow">"Exercise Mars Anchor and Exercise Mercury"</a>. ADF. 20 October 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">26 July</span> 2007</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Exercise+Mars+Anchor+and+Exercise+Mercury&amp;rft.pub=ADF&amp;rft.date=2005-10-20&amp;rft_id=http%3A%2F%2Fwww.defence.gov.au%2Fmedia%2Fdownload%2F2005%2FOct%2F20051020.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearoad+Ferries"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Searoad_Ferries&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.searoad.com.au" rel="nofollow">Peninsula Searoad Ferry</a></li></ul>
+<div aria-labelledby="30px&amp;#124;class=noviewer_Ferries_of_Australia" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Australianferries" title="Template:Australianferries"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Australianferries" title="Template talk:Australianferries"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Australianferries&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="30px&amp;#124;class=noviewer_Ferries_of_Australia" style="font-size:114%;margin:0 4em"><a class="image" href="/wiki/File:Civil_Ensign_of_Australia.svg"><img alt="Civil Ensign of Australia.svg" class="noviewer" data-file-height="640" data-file-width="1280" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Civil_Ensign_of_Australia.svg/30px-Civil_Ensign_of_Australia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Civil_Ensign_of_Australia.svg/45px-Civil_Ensign_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Civil_Ensign_of_Australia.svg/60px-Civil_Ensign_of_Australia.svg.png 2x" width="30"/></a> <a href="/wiki/List_of_ferries_of_Australia" title="List of ferries of Australia">Ferries of Australia</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Individual ferries</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/MS_Abel_Tasman" title="MS Abel Tasman"><i>Abel Tasman</i></a></li>
+<li><i><a href="/wiki/HMAS_Jervis_Bay_(GT_203)" title="HMAS Jervis Bay (GT 203)">Australian Trader</a></i></li>
+<li><i><a href="/wiki/SS_Balgowlah" title="SS Balgowlah">Balgowlah</a></i></li>
+<li><i><a href="/wiki/MV_Baragoola" title="MV Baragoola">Baragoola</a></i></li>
+<li><i><a href="/wiki/MV_North_Head" title="MV North Head">Barrenjoey</a></i></li>
+<li><i><a href="/wiki/MV_Bellubera" title="MV Bellubera">Bellubera</a></i></li>
+<li><i><a href="/wiki/Binngarra" title="Binngarra">Binngarra</a></i></li>
+<li><i><a href="/wiki/PS_Brighton" title="PS Brighton">Brighton</a></i></li>
+<li><i><a href="/wiki/HMAS_Burra_Bra" title="HMAS Burra Bra">Burra Bra</a></i></li>
+<li><i><a href="/wiki/HSC_INCAT_046" title="HSC INCAT 046">Devil Cat</a></i></li>
+<li><i><a href="/wiki/Experiment_(1832_ship)" title="Experiment (1832 ship)">Experiment</a></i></li>
+<li><a href="/wiki/MS_Empress_of_Australia" title="MS Empress of Australia"><i>Empress of Australia</i></a></li>
+<li><i><a href="/wiki/PS_Herald" title="PS Herald">Herald</a></i></li>
+<li><i><a href="/wiki/Island_Seaway" title="Island Seaway">Island Seaway</a></i></li>
+<li><i><a href="/wiki/MV_Kanangra" title="MV Kanangra">Kanangra</a></i></li>
+<li><i><a href="/wiki/HMAS_Kara_Kara" title="HMAS Kara Kara">Kara Kara</a></i></li>
+<li><i><a href="/wiki/SS_Karatta" title="SS Karatta">Karatta</a></i></li>
+<li><i><a href="/wiki/Karingal_and_Karrabee" title="Karingal and Karrabee">Karingal</a></i></li>
+<li><i><a href="/wiki/Karingal_and_Karrabee" title="Karingal and Karrabee">Karrabee</a></i></li>
+<li><i><a href="/wiki/MV_Kooleen" title="MV Kooleen">Kooleen</a></i></li>
+<li><i><a href="/wiki/HMAS_Koompartoo" title="HMAS Koompartoo">Koompartoo</a></i></li>
+<li><i><a href="/wiki/SS_Kooroongaba" title="SS Kooroongaba">Kooroongaba</a></i></li>
+<li><i><a href="/wiki/HMAS_Kuramia" title="HMAS Kuramia">Kuramia</a></i></li>
+<li><i><a href="/wiki/SS_Kuring-gai" title="SS Kuring-gai">Kuring-gai</a></i></li>
+<li><i><a href="/wiki/HMAS_Kuttabul_(ship)" title="HMAS Kuttabul (ship)">Kuttabul</a></i></li>
+<li><i><a href="/wiki/MV_Lady_Cutler" title="MV Lady Cutler">Lady Cutler</a></i></li>
+<li><i><a href="/wiki/MV_Lady_Denman" title="MV Lady Denman">Lady Denman</a></i></li>
+<li><i><a href="/wiki/MV_Manly_(1965)" title="MV Manly (1965)">Manly III</a></i></li>
+<li><i><a href="/wiki/Peninsula_Princess_(Australia)" title="Peninsula Princess (Australia)">Peninsula Princess</a></i></li>
+<li><a href="/wiki/MS_Princess_of_Tasmania" title="MS Princess of Tasmania"><i>Princess of Tasmania</i></a></li>
+<li><i><a href="/wiki/MV_Queenscliff_(1992)" title="MV Queenscliff (1992)">Queenscliff (1992)</a></i></li>
+<li><i><a href="/wiki/Sealion_2000" title="Sealion 2000">Sealion 2000</a></i></li>
+<li><a href="/wiki/MV_Sorrento_(2001)" title="MV Sorrento (2001)"><i>Sorrento</i></a></li>
+<li><i><a href="/wiki/SS_South_Steyne" title="SS South Steyne">South Steyne</a></i></li>
+<li><i><a href="/wiki/Spirit_of_Kangaroo_Island" title="Spirit of Kangaroo Island">Spirit of Kangaroo Island</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/MS_Princess_of_Norway" title="MS Princess of Norway">Spirit of Tasmania</a></i></li>
+<li><a href="/wiki/MS_Spirit_of_Tasmania_I" title="MS Spirit of Tasmania I"><i>Spirit of Tasmania I</i></a></li>
+<li><a href="/wiki/MS_Spirit_of_Tasmania_II" title="MS Spirit of Tasmania II"><i>Spirit of Tasmania II</i></a></li>
+<li><i><a href="/wiki/MS_Mega_Express_Four" title="MS Mega Express Four">Spirit of Tasmania III</a></i></li>
+<li><i><a href="/wiki/MV_Sydney_2000" title="MV Sydney 2000">Sydney 2000</a></i></li>
+<li><i><a href="/wiki/MV_Troubridge" title="MV Troubridge">Troubridge</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ferry classes</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dee_Why-class_ferry" title="Dee Why-class ferry">Sydney Dee Why</a></li>
+<li><a href="/wiki/Emerald-class_ferry" title="Emerald-class ferry">Sydney Emerald</a></li>
+<li><a href="/wiki/First_Fleet-class_ferry" title="First Fleet-class ferry">Sydney First Fleet</a></li>
+<li><a href="/wiki/Freshwater-class_ferry" title="Freshwater-class ferry">Sydney Freshwater</a></li>
+<li><a href="/wiki/Sydney_hydrofoils" title="Sydney hydrofoils">Sydney hydrofoil</a></li>
+<li><a href="/wiki/Sydney_JetCats" title="Sydney JetCats">Sydney JetCat</a></li>
+<li><a href="/wiki/Sydney_K-class_ferry" title="Sydney K-class ferry">Sydney K-class</a></li>
+<li><a href="/wiki/Lady-class_ferry" title="Lady-class ferry">Sydney Lady</a></li>
+<li><a class="mw-redirect" href="/wiki/Sydney_RiverCats" title="Sydney RiverCats">Sydney RiverCat</a></li>
+<li><a href="/wiki/Sydney_SuperCats" title="Sydney SuperCats">Sydney SuperCat</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ferry operators</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Central_Coast_Ferries" title="Central Coast Ferries">Central Coast Ferries</a></li>
+<li><a class="mw-redirect" href="/wiki/Harbour_City_Ferries" title="Harbour City Ferries">Harbour City Ferries</a></li>
+<li><a href="/wiki/My_Fast_Ferry" title="My Fast Ferry">My Fast Ferry</a></li>
+<li><a href="/wiki/Newcastle_Transport" title="Newcastle Transport">Newcastle Transport</a></li>
+<li><a href="/wiki/SeaLink_Travel_Group" title="SeaLink Travel Group">SeaLink Travel Group</a> (including <a href="/wiki/Captain_Cook_Cruises,_Australia" title="Captain Cook Cruises, Australia">Captain Cook Cruises</a>, <a href="/wiki/Captain_Cook_Cruises_Western_Australia" title="Captain Cook Cruises Western Australia">Captain Cook Cruises (WA)</a>. <a href="/wiki/Kangaroo_Island_SeaLink" title="Kangaroo Island SeaLink">Kangaroo Island SeaLink</a> &amp; <a href="/wiki/Matilda_Cruises" title="Matilda Cruises">Matilda Cruises</a>)</li>
+<li><a class="mw-selflink selflink">Searoad Ferries</a></li>
+<li><a href="/wiki/Transdev_Brisbane_Ferries" title="Transdev Brisbane Ferries">Transdev Brisbane Ferries</a></li>
+<li><a href="/wiki/Transperth" title="Transperth">Transperth</a></li>
+<li><a href="/wiki/TT-Line_Company" title="TT-Line Company">TT Line</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Former ferry operators</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Australian_National_Line" title="Australian National Line">Australian National Line</a></li>
+<li><a href="/wiki/City_of_Brisbane" title="City of Brisbane">Brisbane City Council</a></li>
+<li><a href="/wiki/Newcastle_Buses_%26_Ferries" title="Newcastle Buses &amp; Ferries">Newcastle Buses &amp; Ferries</a></li>
+<li><a class="mw-redirect" href="/wiki/Port_Jackson_%26_Manly_Steamship_Company" title="Port Jackson &amp; Manly Steamship Company">Port Jackson &amp; Manly Steamship Company</a></li>
+<li><a href="/wiki/Public_Transport_Commission" title="Public Transport Commission">Public Transport Commission</a></li>
+<li><a href="/wiki/State_Transit_Authority" title="State Transit Authority">State Transit Authority</a></li>
+<li><a href="/wiki/Sydney_Ferries" title="Sydney Ferries">Sydney Ferries Corporation</a></li>
+<li><a href="/wiki/Sydney_Ferries_Limited" title="Sydney Ferries Limited">Sydney Ferries Limited</a></li>
+<li><a href="/wiki/Sydney_Harbour_Transport_Board" title="Sydney Harbour Transport Board">Sydney Harbour Transport Board</a></li>
+<li><a href="/wiki/Transit_Systems" title="Transit Systems">Transit Systems</a></li>
+<li><a href="/wiki/Urban_Transit_Authority" title="Urban Transit Authority">Urban Transit Authority</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Miscellaneous</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Sydney_Harbour_ferries" title="List of Sydney Harbour ferries">List of Sydney Harbour ferries</a></li>
+<li><a href="/wiki/Greycliffe_disaster" title="Greycliffe disaster">Greycliffe disaster</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1299
+Cached time: 20191218152312
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.424 seconds
+Real time usage: 0.561 seconds
+Preprocessor visited node count: 2659/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 44531/2097152 bytes
+Template argument size: 3377/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 25942/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.192/10.000 seconds
+Lua memory usage: 4.26 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  463.715      1 -total
+ 32.16%  149.143      1 Template:Reflist
+ 28.08%  130.211      8 Template:Cite_web
+ 23.64%  109.635      1 Template:Infobox_company
+ 20.49%   95.007      1 Template:Infobox
+ 13.95%   64.707      2 Template:Citation_needed
+ 12.82%   59.451      2 Template:Fix
+ 12.27%   56.911      1 Template:Australianferries
+ 11.41%   52.908      1 Template:Navbox
+ 10.96%   50.837      1 Template:Use_dmy_dates
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:512242-0!canonical and timestamp 20191218152312 and revision id 918525235
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Searoad_Ferries&amp;oldid=918525235">https://en.wikipedia.org/w/index.php?title=Searoad_Ferries&amp;oldid=918525235</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ferry_companies_of_Victoria_(Australia)" title="Category:Ferry companies of Victoria (Australia)">Ferry companies of Victoria (Australia)</a></li><li><a href="/wiki/Category:Transport_in_Geelong" title="Category:Transport in Geelong">Transport in Geelong</a></li><li><a href="/wiki/Category:Port_Phillip" title="Category:Port Phillip">Port Phillip</a></li><li><a href="/wiki/Category:Bellarine_Peninsula" title="Category:Bellarine Peninsula">Bellarine Peninsula</a></li><li><a href="/wiki/Category:Mornington_Peninsula" title="Category:Mornington Peninsula">Mornington Peninsula</a></li><li><a href="/wiki/Category:1983_establishments_in_Australia" title="Category:1983 establishments in Australia">1983 establishments in Australia</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_June_2015" title="Category:Use dmy dates from June 2015">Use dmy dates from June 2015</a></li><li><a href="/wiki/Category:Use_Australian_English_from_June_2015" title="Category:Use Australian English from June 2015">Use Australian English from June 2015</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_Australian_English" title="Category:All Wikipedia articles written in Australian English">All Wikipedia articles written in Australian English</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2007" title="Category:Articles with unsourced statements from August 2007">Articles with unsourced statements from August 2007</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Searoad+Ferries" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Searoad+Ferries" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Searoad_Ferries" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Searoad_Ferries" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Searoad_Ferries">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Searoad_Ferries&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Searoad_Ferries&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Searoad_Ferries" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Searoad_Ferries" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Searoad_Ferries&amp;oldid=918525235" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Searoad_Ferries&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7441770" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Searoad_Ferries&amp;id=918525235" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Searoad+Ferries">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Searoad+Ferries&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Searoad_Ferries&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7441770#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 September 2019, at 03:03<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Searoad_Ferries&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.424","walltime":"0.561","ppvisitednodes":{"value":2659,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":44531,"limit":2097152},"templateargumentsize":{"value":3377,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":25942,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  463.715      1 -total"," 32.16%  149.143      1 Template:Reflist"," 28.08%  130.211      8 Template:Cite_web"," 23.64%  109.635      1 Template:Infobox_company"," 20.49%   95.007      1 Template:Infobox"," 13.95%   64.707      2 Template:Citation_needed"," 12.82%   59.451      2 Template:Fix"," 12.27%   56.911      1 Template:Australianferries"," 11.41%   52.908      1 Template:Navbox"," 10.96%   50.837      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.192","limit":"10.000"},"limitreport-memusage":{"value":4467977,"limit":52428800}},"cachereport":{"origin":"mw1299","timestamp":"20191218152312","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Searoad Ferries","url":"https:\/\/en.wikipedia.org\/wiki\/Searoad_Ferries","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7441770","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7441770","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-08T05:16:23Z","dateModified":"2019-09-29T03:03:44Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/13\/Searoad_Queenscliff-Sorrento_Ferries_on_Port_Phillip_Bay%2C_jjron%2C_05.07.2010.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":493,"wgHostname":"mw1246"});});</script>
+
+
+</body></html>

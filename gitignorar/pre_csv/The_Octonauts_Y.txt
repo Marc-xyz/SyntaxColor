@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>The Octonauts - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfmcSgpAAEIAAIu@pWQAAAAL","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"The_Octonauts","wgTitle":"The Octonauts","wgCurRevisionId":930346816,"wgRevisionId":930346816,"wgArticleId":29876303,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia indefinitely semi-protected pages","Articles with short description","Use British English from October 2015","Use dmy dates from December 2012",
+"All articles with unsourced statements","Articles with unsourced statements from December 2017","Articles with unsourced statements from July 2016","Official website different in Wikidata and Wikipedia","Episode list using the default LineColor","Series of children's books","BBC children's television programmes","British children's animated television programmes","Preschool education television series","English-language television programs","2010s British children's television series","2010 British television series debuts","Nature educational television series","British animated television programmes featuring anthropomorphic characters","British television programmes based on children's books","Television series by Brown Bag Films","Computer-animated television series","2010s British animated television series","Animated television series about bears","Animated television series about cats","Animated television series about penguins"],"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"The_Octonauts","wgRelevantArticleId":29876303,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1215265","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
+"ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/c/ca/OctonautsTitleCard.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Octonauts" rel="alternate"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/The_Octonauts" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-The_Octonauts rootpage-The_Octonauts skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-pp-default"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="Page semi-protected" data-file-height="512" data-file-width="512" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" width="20"/></a></div>
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en"><i>The Octonauts</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">British children's animated television series</div>
+<p class="mw-empty-elt">
+
+</p>
+<table class="infobox vevent" style="width:22em"><tbody><tr><th class="summary" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em; line-height: normal;">The Octonauts</th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:OctonautsTitleCard.jpg"><img alt="OctonautsTitleCard.jpg" data-file-height="180" data-file-width="320" decoding="async" height="141" src="//upload.wikimedia.org/wikipedia/en/thumb/c/ca/OctonautsTitleCard.jpg/250px-OctonautsTitleCard.jpg" srcset="//upload.wikimedia.org/wikipedia/en/c/ca/OctonautsTitleCard.jpg 1.5x" width="250"/></a><div>Kwazii, Barnacles and Peso</div></td></tr><tr><th scope="row">Genre</th><td class="category"><a href="/wiki/Children%27s_television_series" title="Children's television series">Children</a><br/><a href="/wiki/Animation" title="Animation">Animation</a><br/><a class="mw-redirect" href="/wiki/Action_(fiction)" title="Action (fiction)">Action</a><br/><a href="/wiki/Adventure_film" title="Adventure film">Adventure film</a></td></tr><tr><th scope="row">Created by</th><td>Meomi: Vicki Wong<br/>&amp; Michael C. Murphy</td></tr><tr><th scope="row">Written by</th><td>Stephanie Simpson (head writer)<br/>Billy Aronson<br/><a href="/wiki/Glen_Berger" title="Glen Berger">Glen Berger</a><br/>Ian Carney<br/>Cydne Clark<br/><a href="/wiki/Cusi_Cram" title="Cusi Cram">Cusi Cram</a><br/>Sarah Durkee<br/>Steve Granat<br/>Carin Greenberg<br/>Jonathan Greenberg<br/>Peter Hirsch<br/>Adam Idelson<br/>Dave Ingham<br/>Susan Kim<br/>Catherine Lieuwen<br/>Myles Mcleod<br/>Allan Neuwirth<br/>Sascha Paladino<br/>Gabe Pulliam</td></tr><tr><th scope="row">Directed by</th><td class="attendee">Darragh O'Connell<br/>Henry Lenardin-Madden (uncredited)</td></tr><tr><th scope="row">Creative <span class="nowrap">director(s)</span></th><td class="attendee">Stephen Robinson</td></tr><tr><th scope="row">Voices of</th><td class="attendee"><a href="/wiki/Simon_Greenall" title="Simon Greenall">Simon Greenall</a><br/><a href="/wiki/Rob_Rackstraw" title="Rob Rackstraw">Rob Rackstraw</a><br/><a class="new" href="/w/index.php?title=Paul_Panting&amp;action=edit&amp;redlink=1" title="Paul Panting (page does not exist)">Paul Panting</a><br/><a href="/wiki/Keith_Wickham" title="Keith Wickham">Keith Wickham</a><br/><a href="/wiki/Jo_Wyatt" title="Jo Wyatt">Jo Wyatt</a><br/><a href="/wiki/Teresa_Gallagher" title="Teresa Gallagher">Teresa Gallagher</a><br/>Michael C. Murphy</td></tr><tr><th scope="row">Theme music composer</th><td>Darren Hendley</td></tr><tr><th scope="row">Country of origin</th><td>United Kingdom<br/>Ireland</td></tr><tr><th scope="row">Original <span class="nowrap">language(s)</span></th><td>English</td></tr><tr><th scope="row"><abbr title="Number">No.</abbr> of series</th><td>4</td></tr><tr><th scope="row"><abbr title="Number">No.</abbr> of episodes</th><td>116 <span class="nowrap">(<a href="/wiki/List_of_The_Octonauts_episodes" title="List of The Octonauts episodes">list of episodes</a>)</span></td></tr><tr><th class="summary" colspan="2" style="text-align:center;background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em;">Production</th></tr><tr><th scope="row">Executive <span class="nowrap">producer(s)</span></th><td>Kurt Mueller<br/>Stephanie Simpson<br/>Cathal Gaffney<br/>Darragh O'Connell<br/>Jackie Edwards (CBeebies)</td></tr><tr><th scope="row"><span class="nowrap">Producer(s)</span></th><td>Adam Idelson<br/>Karen Ialacci<br/>Gillian Higgins</td></tr><tr><th scope="row">Running time</th><td>65 x 11 minutes<br/>3 x 23 minutes</td></tr><tr><th scope="row">Production <span class="nowrap">company(s)</span></th><td><a href="/wiki/Chorion_(company)" title="Chorion (company)">Chorion</a> (2010-12)<br/><a href="/wiki/Silvergate_Media" title="Silvergate Media">Silvergate Media</a> (2012-present)<br/><a href="/wiki/Brown_Bag_Films" title="Brown Bag Films">Brown Bag Films</a></td></tr><tr><th scope="row">Distributor</th><td><a href="/wiki/Sony_Pictures_Television" title="Sony Pictures Television">Sony Pictures Television</a></td></tr><tr><th class="summary" colspan="2" style="text-align:center;background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em;">Release</th></tr><tr><th scope="row">Original network</th><td><a href="/wiki/CBeebies" title="CBeebies">CBeebies</a></td></tr><tr><th scope="row">Original release</th><td>4 October 2010<span style="display:none"> (<span class="bday dtstart published updated">2010-10-04</span>)</span> –<br/>present</td></tr><tr><th class="summary" colspan="2" style="text-align:center;background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em;">External links</th></tr><tr><td class="url" colspan="2" style="text-align:center"><a class="external text" href="http://www.octonauts.com" rel="nofollow">Meomi official website</a></td></tr></tbody></table>
+<p><i><b>The Octonauts</b></i> is a British <a href="/wiki/Children%27s_television_series" title="Children's television series">children's television series</a>, produced by <a href="/wiki/Silvergate_Media" title="Silvergate Media">Silvergate Media</a> for the <a href="/wiki/BBC" title="BBC">BBC</a> channel <a href="/wiki/CBeebies" title="CBeebies">CBeebies</a>. 
+</p><p>The series is animated in Ireland by <a href="/wiki/Brown_Bag_Films" title="Brown Bag Films">Brown Bag Films</a> and uses British voice actors. The TV series is based on American-Canadian children's books written by Vicki Wong and Michael C. Murphy of <a href="/wiki/Meomi_Design" title="Meomi Design">Meomi Design</a> Inc.
+</p><p>The show follows an underwater exploring crew made up of stylized <a class="mw-redirect" href="/wiki/Anthropomorphic" title="Anthropomorphic">anthropomorphic</a> animals, a team of eight adventurers who live in an undersea base, the Octopod, from which they go on undersea adventures with the help of a fleet of aquatic vehicles. Although its technology is fictional, the exotic creatures and locations that the crew encounter are based on real marine animals in their natural habitats. 
+</p><p><i>The Octonauts</i> has been renewed for a 5th series that will "introduce new environments, [...] characters and a new fleet of vehicles" to be released sometime in 2020.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>The subject matter is reminiscent of <i><a href="/wiki/Star_Trek" title="Star Trek">Star Trek</a></i> and <i><a href="/wiki/Thunderbirds_(TV_series)" title="Thunderbirds (TV series)">Thunderbirds</a></i><sup class="reference" id="cite_ref-bbc-mueller_2-0"><a href="#cite_note-bbc-mueller-2">[2]</a></sup> blended with <a href="/wiki/Jacques_Cousteau" title="Jacques Cousteau">Jacques Cousteau</a>. 
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Books"><span class="tocnumber">1</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#TV_series"><span class="tocnumber">2</span> <span class="toctext">TV series</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#TV_spin-off_books"><span class="tocnumber">2.1</span> <span class="toctext">TV spin-off books</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Reception"><span class="tocnumber">3</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Characters"><span class="tocnumber">4</span> <span class="toctext">Characters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Other_Vegimals[12]"><span class="tocnumber">4.1</span> <span class="toctext">Other Vegimals<sup>[12]</sup></span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Recurrent_minor_characters"><span class="tocnumber">4.2</span> <span class="toctext">Recurrent minor characters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Vehicles"><span class="tocnumber">5</span> <span class="toctext">Vehicles</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Episodes"><span class="tocnumber">6</span> <span class="toctext">Episodes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#DVDs"><span class="tocnumber">7</span> <span class="toctext">DVDs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Australia"><span class="tocnumber">7.1</span> <span class="toctext">Australia</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Spin-offs"><span class="tocnumber">8</span> <span class="toctext">Spin-offs</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Channels"><span class="tocnumber">10.1</span> <span class="toctext">Channels</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Other_links"><span class="tocnumber">10.2</span> <span class="toctext">Other links</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Books">Books</span></h2>
+<p>The original books were first published in the US by Immedium in 2006, and were republished in the UK by <a class="mw-redirect" href="/wiki/Harper_Collins" title="Harper Collins">Harper Collins</a> in 2009. Six titles by Meomi have been published:
+</p>
+<ul><li><i>The Octonauts &amp; the Only Lonely Monster</i>, about an <a class="mw-redirect" href="/wiki/Architeuthis" title="Architeuthis">Architeuthis</a> (Giant Squid).</li>
+<li><i>The Octonauts &amp; the Sea of Shade</i>, about a world where everyone's shadows have gone missing.</li>
+<li><i>The Octonauts &amp; the Frown Fish</i>, about a glum-looking <a href="/wiki/Catfish" title="Catfish">catfish</a>.</li>
+<li><i>The Octonauts &amp; the Great Ghost Reef</i>, about <a href="/wiki/Coral_bleaching" title="Coral bleaching">coral bleaching</a>.</li>
+<li><i>The Octonauts Explore the Great Big Ocean</i>, about the search for Tunip the Vegimal's home.</li>
+<li><i>The Octonauts &amp; the Growing Goldfish</i>, about Dunkie, a giant goldfish who won't stop growing.</li></ul>
+<h2><span class="mw-headline" id="TV_series">TV series</span></h2>
+<p>In 2010, <i>The Octonauts</i> was adapted into a 52 episode <a class="mw-redirect" href="/wiki/CGI_animation" title="CGI animation">CGI animated</a> television series co-produced by <a href="/wiki/Chorion_(company)" title="Chorion (company)">Chorion</a> and Brown Bag Films. It first aired in the UK on 4 October 2010 on CBeebies, a <a href="/wiki/BBC" title="BBC">BBC</a> television channel for the under 7's. The first series ended in February 2011, but continued to be aired as repeats. A second series of 22 episodes commenced in November 2012.
+</p><p><i>The Octonauts</i> had its US premiere on the <a href="/wiki/Disney_Channel" title="Disney Channel">Disney Channel</a> in January 2012, however many of the characters' voices were redubbed to give them American accents—hispanic in the case of Peso and Pinto—although Captain Barnacles, Kwazii and Prof. Inkling retained their original British voices.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> It has also been shown in Ireland (<a class="mw-redirect" href="/wiki/RT%C3%89_Two" title="RTÉ Two">RTÉ Two</a>), Canada (<a href="/wiki/Treehouse_TV" title="Treehouse TV">Treehouse TV</a>), and Australia (<a href="/wiki/ABC_Television" title="ABC Television">ABC Television</a>). The show has been translated and shown in French (<a href="/wiki/TF1" title="TF1">TF1</a>), Spanish and Portuguese (<a href="/wiki/Discovery_Kids_(Latin_America)" title="Discovery Kids (Latin America)">Discovery Kids Latin America</a>), Finnish (<a class="mw-redirect" href="/wiki/YLE_TV2" title="YLE TV2">YLE TV2</a>), Welsh (<a href="/wiki/S4C" title="S4C">S4C</a>) and Slovakian (<a href="/wiki/Dvojka" title="Dvojka">STV 2</a>).<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>The series was made with the help of <a class="mw-redirect" href="/wiki/Marine_biologist" title="Marine biologist">marine biologists</a> Dr. Lara A. Ferry-Graham and Dr. Michael H. Graham, who had previously worked on <i><a href="/wiki/Finding_Nemo" title="Finding Nemo">Finding Nemo</a></i>.<sup class="reference" id="cite_ref-bbc-mueller_2-1"><a href="#cite_note-bbc-mueller-2">[2]</a></sup>
+</p><p>The TV show is episodic, with each 11 minute episode seeing them encountering an unusual but real sea creature as they explore strange underwater worlds. Often they must discover a vital biological or behavioral fact about that creature to rescue it or themselves from danger. The stories usually feature three main characters: Captain Barnacles, Kwazii and Peso, with the other five Octonauts acting in supporting roles.
+</p><p>In the TV series they use five sea-creature-inspired underwater vehicles called GUP-A to GUP-E, the pedal driven GUP-F, driven by Captain Barnacles and Kwazii, which appears in Episode 10 of Series 1 (<i>The Speedy Sailfish</i>), the narwhal-shaped submarine Gup-S that can split so one half goes over land, the train-shaped vegimal-driven Gup-V, and the powerful and sturdy tracked GUP-X, first appearing in Episode 52 of Series 1 (<i>The Great Christmas Rescue</i>).
+</p><p>The opening theme tune finishes with the chant "Explore! - Rescue! - Protect!", the Octonauts’ motto.
+</p>
+<h3><span class="mw-headline" id="TV_spin-off_books">TV spin-off books</span></h3>
+<p>A series of shorter books based on individual episodes from the TV series is being published by <a href="/wiki/Simon_%26_Schuster" title="Simon &amp; Schuster">Simon &amp; Schuster</a>.
+These titles can be distinguished by the "As seen on TV" label on the covers and are not written or illustrated by Meomi.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> The books have the same titles as the episodes they are based on.
+</p>
+<h2><span class="mw-headline" id="Reception">Reception</span></h2>
+<p>The TV series was well received when shown on CBeebies in the UK and by <a href="/wiki/Australian_Broadcasting_Corporation" title="Australian Broadcasting Corporation">ABC</a> in Australia. According to the authors' website, it was the No. 1 pre-school age show in the UK, and the first pre-school show to be ranked in the top ten by older audiences (aged 3–4 and up).<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> The show was the top-ranked ABC programme for 5-12 year olds in January 2011 in Australia, with the ABC calling its first month an "unprecedented success online and on-air".<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+It has been rated 7.4 out of 10 on <a href="/wiki/IMDb" title="IMDb">IMDb</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> In 2013, Octonauts was nominated for (but did not win) two awards: an <a href="/wiki/International_Emmy_Award" title="International Emmy Award">International Emmy Award</a> in the <i>"Kids—Preschool"</i> category<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+and an <a class="mw-redirect" href="/wiki/Irish_Film_and_Television_Award" title="Irish Film and Television Award">Irish Film and Television Award</a> in the <i>"Best Children's/Youth Programme"</i> category.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+The Octonauts DVD boxed set was 4th best-selling Children's TV DVD at <a class="mw-redirect" href="/wiki/Amazon.com" title="Amazon.com">Amazon</a> UK as of 7 April 2013.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Characters">Characters</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Part
+</th>
+<th>Name
+</th>
+<th>Species
+</th>
+<th>Voice cast
+</th>
+<th>Features
+</th></tr>
+<tr>
+<td>Captain</td>
+<td>Barnacles</td>
+<td><a href="/wiki/Polar_bear" title="Polar bear">Polar bear</a></td>
+<td><a href="/wiki/Simon_Greenall" title="Simon Greenall">Simon Greenall</a> (speaking voice)<br/>Ross Breen (singing voice)
+</td>
+<td>Barnacles is the brave polar bear captain of the Octonauts. He knows how to drive any vehicle and is strong enough to lift a <a href="/wiki/Tridacna" title="Tridacna">giant clam</a>. Catchphrases: "Octonauts, let's do this", "Sound the Octo-Alert!", "Octonauts, to the launch bay!" and "Hold on, this could get bumpy".
+</td></tr>
+<tr>
+<td><a href="/wiki/Lieutenant" title="Lieutenant">Lieutenant</a> and <a class="mw-redirect" href="/wiki/Cryptozoologist" title="Cryptozoologist">Cryptozoologist</a></td>
+<td>Kwazii</td>
+<td><a href="/wiki/Cat" title="Cat">Cat</a></td>
+<td><a href="/wiki/Rob_Rackstraw" title="Rob Rackstraw">Rob Rackstraw</a>
+</td>
+<td>A cat who speaks in a <a href="/wiki/Cockney" title="Cockney">Cockney</a> accent. Kwazii is a daredevil cat with a mysterious pirate past. He believes in many <a class="mw-redirect" href="/wiki/Sea_monsters" title="Sea monsters">sea monsters</a> such as the Nackerwhack, Tri-Toothed-Terror, Giant Shrimp Monster, Monster of Creepy Cove and others and likes to drive fast in the Gup-B. In the episode "The Octonauts and the Giant Spider Crab", it is revealed that he has a fear of spiders. Catchphrases: "Shiver me whiskers" and "Yeow!".
+</td></tr>
+<tr>
+<td><a href="/wiki/Medic" title="Medic">Medic</a></td>
+<td>Peso</td>
+<td><a href="/wiki/Penguin" title="Penguin">Penguin</a></td>
+<td>Paul Panting (UK) <a href="/wiki/Wayne_Grayson" title="Wayne Grayson">Wayne Grayson</a> (US)
+</td>
+<td>He is a penguin with a British accent (Spanish accent in the US version) and the medic of the Octonauts. He is not fond of scary situations, but if someone is hurt or in trouble he can be the bravest Octonaut of all. He has a younger brother called Pinto. Catchphrase: "Flappity flippers!".
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Oceanographer" title="Oceanographer">Oceanographer</a> and Founder</td>
+<td>Professor Inkling, Inkling, or Professor
+</td>
+<td><a href="/wiki/Grimpoteuthis" title="Grimpoteuthis">Grimpoteuthis</a> (Dumbo octopus)</td>
+<td><a href="/wiki/Keith_Wickham" title="Keith Wickham">Keith Wickham</a>
+</td>
+<td>An octopus who speaks in a posh accent. Inkling brought the Octonauts together, to study the oceans and have adventures. Catchphrase: "Fascinating!"
+</td></tr>
+<tr>
+<td><a href="/wiki/Biologist" title="Biologist">Biologist</a></td>
+<td>Shellington (Dr)</td>
+<td><a href="/wiki/Sea_otter" title="Sea otter">Sea otter</a></td>
+<td><a href="/wiki/Keith_Wickham" title="Keith Wickham">Keith Wickham</a>
+</td>
+<td>A sea otter who speaks with a Scottish accent. Dr.Shellington is a biologist who assists the Octonauts on missions. He is not a very good driver and once crashed the GUP-D. Catchphrase: "Jumping jellyfish!" and "Fascinating".
+</td></tr>
+<tr>
+<td>Engineer</td>
+<td>Tweak</td>
+<td><a href="/wiki/Rabbit" title="Rabbit">Rabbit</a></td>
+<td><a href="/wiki/Jo_Wyatt" title="Jo Wyatt">Jo Wyatt</a> Jaimie Kelton (US, season 1)
+</td>
+<td>A rabbit who speaks with a Southern-US accent. Tweak lives and works in the launch bay. She often invents things like the GUP-X, GUP-S, the Octo-Max suit, and the Friend Finder she made for her friend, Sandy the <a href="/wiki/Leatherback_sea_turtle" title="Leatherback sea turtle">leatherback sea turtle</a>. She often refers to Captain Barnacles as "Cap". Catchphrases: "Right away, Cap!", "...faster than you can say 'buncha munchy crunchy carrots'!", and "Oh, me, oh, my!".
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Computer_programmer" title="Computer programmer">Computer programmer</a> and <a href="/wiki/Photographer" title="Photographer">Photographer</a></td>
+<td>Dashi (Previously Sauci)</td>
+<td><a href="/wiki/Dog" title="Dog">Dog</a> (<a href="/wiki/Dachshund" title="Dachshund">Dachshund</a>)</td>
+<td><a href="/wiki/Teresa_Gallagher" title="Teresa Gallagher">Teresa Gallagher</a> (UK) Mary Murphy (US)
+</td>
+<td>A dog who speaks with a New Zealand accent (American in the US version). Dashi is the photographer for the Octonauts, and takes care of all the computers aboard the Octopod. Catchphrase: "Already on it captain!".
+</td></tr>
+<tr>
+<td><a href="/wiki/Chef" title="Chef">Chef</a> and <a class="mw-redirect" href="/wiki/Horticulturist" title="Horticulturist">Horticulturist</a></td>
+<td>Tunip</td>
+<td>Vegimal</td>
+<td>Michael C. Murphy
+</td>
+<td>Vegimals are half-animal, half-vegetable creatures – Tunip is half-tuna, half-turnip, but has the outward appearance of a <a href="/wiki/Harbor_seal" title="Harbor seal">harbor seal</a> mixed with a <a href="/wiki/Turnip" title="Turnip">turnip</a>. He loves to make <a href="/wiki/Kelp" title="Kelp">kelp</a> cakes and to work in the <a href="/wiki/Greenhouse" title="Greenhouse">greenhouse</a>. He often faints at shocking news. Catchphrase: "Cheepa cheepa!" and "Zuupa zuupa!". He and the other vegimals primarily speak Vegimalese, a language made of chirps and warbles that only Shellington understands (sometimes), though they also speak a limited amount of English (with an accent). The vegimals were discovered by Shellington as eggs attached to the side of the Octopod. To protect them he brought them into his lab, where they hatched a few days later. After a few weeks they established themselves as an integral part of the crew.<sup class="reference" id="cite_ref-Meomi2013_12-0"><a href="#cite_note-Meomi2013-12">[12]</a></sup>
+</td></tr></tbody></table>
+<p><b>Note</b>: Recent UK editions of the books changed Sauci's name to Dashi to match the television series.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2017)">citation needed</span></a></i>]</sup>
+</p>
+<h3><span id="Other_Vegimals.5B12.5D"></span><span class="mw-headline" id="Other_Vegimals[12]">Other Vegimals<sup class="reference" id="cite_ref-Meomi2013_12-1"><a href="#cite_note-Meomi2013-12">[12]</a></sup></span></h3>
+<ul><li><b>Albachoy</b>, half-bok choy and half-albacore</li>
+<li><b>Barrot</b>, half-bass, half-carrot. Although nervous, he can go super fast in an emergency.</li>
+<li><b>Carprika</b>, half-paprika and half-carp</li>
+<li><b>Charchard</b>, half-chard and half-char</li>
+<li><b>Codish</b>, half-cod, half-radish. He is very clumsy and also causes accidents.</li>
+<li><b>Grouber</b>, half-grouper, half-tuber. He is big and can eat almost anything.</li>
+<li><b>Halibeet</b>, half-beet and half-halibut</li>
+<li><b>Maccoli</b>, half-broccoli and half-mackerel</li>
+<li><b>Perchkin</b>, half-pumpkin and half-perch</li>
+<li><b>Pikato</b>, half-tomato and half-pike</li>
+<li><b>Tominnow</b>, half-minnow, half-tomato. She is the littlest one, but she is also a daredevil.</li>
+<li><b>Salepeño</b>, half-jalapeño and half-salmon</li>
+<li><b>Sharchini</b>, half-zucchini, half-shark</li>
+<li><b>VegiBot</b>, a vegimal robot (episode: Mariana Trench Adventure)</li>
+<li><b>Wallabaga</b>, half-rutabaga and half-walleye</li>
+<li><b>Yamchovy</b>, half-anchovy and half-yam</li></ul>
+<h3><span class="mw-headline" id="Recurrent_minor_characters">Recurrent minor characters</span></h3>
+<ul><li><b>Calico Jack</b>, a pirate cat and Kwazii's grandfather. His exploits are frequently talked about but he is assumed long-dead until he finally makes an appearance in the <a href="#Special_episodes">Amazon Adventure special</a>. In real life, the pirate <a href="/wiki/Calico_Jack" title="Calico Jack">Calico Jack</a> was the creator of the <a href="/wiki/Jolly_Roger" title="Jolly Roger">Jolly Roger</a>, though the Octonauts character's name might also be an allusion to the <a href="/wiki/Calico_cat" title="Calico cat">Calico cat</a>.</li>
+<li><b>Pinto</b>, Peso's little brother, a young penguin who visits in <a href="#Series_1">episode 24</a>, <a href="#Series_1">episode 32</a> and the <a href="#Special_episodes">Great Penguin Race special</a>. He initially aspires to be a pirate like Kwazii but later decides he'd rather be a medic like Peso.</li>
+<li><b>Sandy</b> the sea <a href="/wiki/Turtle" title="Turtle">turtle</a>, a good friend of Tweak's. She swims long distances and makes appointments to meet the Octonauts in several episodes.</li>
+<li><b>Boris</b> the <a href="/wiki/Narwhal" title="Narwhal">narwhal</a>, a friend of Captain Barnacle's from when he was young. Boris remains in the <a href="/wiki/Arctic" title="Arctic">Arctic</a> but the Octonauts meet him in several episodes.</li>
+<li><b>Pearl</b> the <a href="/wiki/Sea_otter" title="Sea otter">sea otter</a> and Shellington's married sister who recently had a baby named <b>Periwinkle</b>, first seen in the episode The Urchin Invasion.</li>
+<li><b>Bianca</b> the <a href="/wiki/Polar_bear" title="Polar bear">polar bear</a> is the twin sister of Captain Barnacles, she and her cubs appeared in the <a href="#Special_episodes">Great Arctic Adventure</a>.</li>
+<li><b>Orson</b> and <b>Ursa</b>, Bianca's cubs and the niece and nephew of Captain Barnacles, they first in the Great Arctic Adventure and <a href="#Series_4">episode 99</a>.</li>
+<li><b>Professor Natquik</b> the <a class="mw-redirect" href="/wiki/Artic_fox" title="Artic fox">artic fox</a> who is also a polar explorer and Captain Barnacles's old friend, first seen in <a href="#Special_episodes">Operation Deep Freeze</a>.</li>
+<li><b>Ranger Marsh</b>, a park ranger and Tweak's father,  first seen in the <a href="#Special_episodes">Great Swamp Search</a>.</li>
+<li><b>Koshi</b>, Dashi's little sister, first seen in the episode The Kelp Monster Mystery.</li></ul>
+<h2><span class="mw-headline" id="Vehicles">Vehicles</span></h2>
+<ul><li>The <i>Octopod</i> is their mobile home base and the biggest vehicle. It has almost unlimited range, as it may be nuclear powered. It is built to look like a giant <a href="/wiki/Octopus" title="Octopus">octopus</a>.</li>
+<li>The <i>GUP-A</i> is propeller-powered and Captain Barnacles' favorite. It is built to look like an <a href="/wiki/Anglerfish" title="Anglerfish">anglerfish</a>.</li>
+<li>Kwazii's favorite, the <i>GUP-B</i> is a turbo sub so is the fastest of all GUPs. It is built to look like a <a href="/wiki/Tiger_shark" title="Tiger shark">tiger shark</a>.</li>
+<li>The strong <i>GUP-C</i> has a towline and is powerful enough to tow an elephant seal. It can also be used as an icebreaker when fitted with a special reinforced prow. It is built to look like a <a href="/wiki/Blue_whale" title="Blue whale">blue whale</a>.</li>
+<li>Multi-purpose <i>GUP-D</i> has two claws, two drills and six legs. It is also Tweak's favorite. It is built to look like a <a href="/wiki/Manta_ray" title="Manta ray">manta ray</a> (or a crab when legged).</li>
+<li>The <i>GUP-E</i> is an ambulance GUP and colored green. A tank behind can be filled with water for creatures with gills. It is built to look like a <a href="/wiki/Guppy" title="Guppy">guppy</a>.</li>
+<li>The <i>GUP-F</i> was a pedal-powered metal-framed vehicle only seen in series 1, episode 10, <i>Octonauts and the Speedy <a href="/wiki/Sailfish" title="Sailfish">Sailfish</a></i>, used to round up the runaway GUPs A-E. It was built to look like a <a class="mw-redirect" href="/wiki/Clownfish" title="Clownfish">clownfish</a>. In the episode "The Artificial Reef" the GUP-F is destroyed by a hurricane and is converted into an artificial reef. In the same episode, it is also revealed by Tweak that it was the very first prototype GUP built.</li>
+<li>The <i>GUP-H</i> is a helicopter that is built to look like a dragonfly. It's used to soar above the sea, and watch the animals hop in and out of the water. It is first seen in series 4, episode 1, <i>The Poison Dart Frogs</i>.</li>
+<li>The <i>GUP-I</i> is an polar exploration station and rugged vehicle first seen in the 8th special, <i>Operation Deep Freeze</i>. It is built to look like a water bear.</li>
+<li>The <i>GUP-K</i> is a half air-boat, half-tank vehicle that can float on surface and is first seen in the 9th and latest special, <i>The Great Swamp Search</i> to save Tweak's hometown the Everglades from fire. It is built to look like a crocodile or an alligator.</li>
+<li>The <i>GUP-S</i> is an Antarctic exploration vehicle first seen in the 6th special episode <i>The Over Under Adventure</i>. Like the GUP-X, it can split in 2 sections, with the front part forming an amphibious snowmobile called the Octo-Sled. The Gup-S is built to look like a swordfish or narwhal, with a tusk-like ice-penetrating heated drill at the front.</li>
+<li>The <i>GUP-V</i> is a vehicle designed by the Vegimals in the 5th special episode, <i>A Very Vegimal Christmas</i>. It is shaped like a train, and made from improvised materials.</li>
+<li>The <i>GUP-X</i> is an armored, powerful and sturdy tracked vehicle presented to Captain Barnacles as a Christmas present from Tweak. It can split into 3 sections, for instance, a glider, the 'Octo-Ski' and its central main section with the caterpillar tracks. It is first seen in series 1, episode 52, <i>The Great Christmas Rescue</i>. It is built to look like a <a href="/wiki/Horseshoe_crab" title="Horseshoe crab">horseshoe crab</a>.</li>
+<li>The <i>Deep Sea Octolab</i> is a moveable base from which the deepest parts of the ocean can be studied and first appears in the 4th special episode, <i>The Mariana Trench Adventure</i>. It is dome-shaped and stands on springy legs to cope with subterranean tremors.</li>
+<li>The <i>Octo Servicing Station</i> is a vehicle servicing scaffold constructed on the seabed, seen in various episodes in season 4, most notably in the special episode <i>The Great Arctic Adventure</i>. It's used to refurbish the Octopod and manufacture the GUP K and GUP H.</li></ul>
+<h2><span class="mw-headline" id="Episodes">Episodes</span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/List_of_The_Octonauts_episodes" title="List of The Octonauts episodes">List of The Octonauts episodes</a></div>
+<h2><span class="mw-headline" id="DVDs">DVDs</span></h2>
+<p>The BBC have released three Octonauts DVDs, comprising episodes from the first series along with their associated "Creature Reports".  The UK DVDs are <a href="/wiki/DVD_region_code#2" title="DVD region code">Region 2</a> format, playable in European DVD players:
+</p>
+<ul><li><i>Here Come the Octonauts</i> (episodes 1–8)</li>
+<li><i>Octonauts – To The Gups</i> (episodes 9–16 plus 1st special episode)</li>
+<li><i>Octonauts – Ready for Action</i> (episodes 17–24, 2nd special episode, plus 3 minute video <i>How to Make a Gup X</i>)</li></ul>
+<p>A boxed set of all three DVDs was released under the title <i>Octonauts – The Collection</i> in September 2012.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Australia">Australia</span></h3>
+<p><i>Octonauts</i> is distributed on <a href="/wiki/DVD_region_code" title="DVD region code">region 4</a> DVD in Australia by <a href="/wiki/Roadshow_Entertainment" title="Roadshow Entertainment">Roadshow Entertainment</a> on behalf of the <a href="/wiki/Australian_Broadcasting_Corporation" title="Australian Broadcasting Corporation">ABC</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2016)">citation needed</span></a></i>]</sup>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>DVD Title</th>
+<th>Episodes</th>
+<th>Release Date
+</th></tr>
+<tr>
+<td><i>Meet the Octonauts!</i></td>
+<td>Series 1, episodes 1–7</td>
+<td>2 September 2011<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</td></tr>
+<tr>
+<td><i>To The Gups!</i></td>
+<td>Series 1, episodes 8–14</td>
+<td>17 November 2011<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</td></tr>
+<tr>
+<td><i>Ready For Action</i></td>
+<td>Series 1, episodes 15–21</td>
+<td>1 March 2012<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</td></tr>
+<tr>
+<td><i>Sound the Octoalert!</i></td>
+<td>Series 1, episodes 22–28</td>
+<td>21 June 2012<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</td></tr>
+<tr>
+<td><i>Jumpin' Jellyfish</i></td>
+<td>Series 1, episodes 29–35</td>
+<td>5 September 2012<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</td></tr>
+<tr>
+<td><i>Shiver me Whiskers!</i></td>
+<td>Series 1, episodes 36–42</td>
+<td>6 March 2013 <sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>
+</td></tr>
+<tr>
+<td><i>The Great Penguin Race</i></td>
+<td>Series 1, episodes 43–47 and <i>Great Penguin Race</i> special</td>
+<td>19 June 2013 <sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</td></tr>
+<tr>
+<td><i>GUP-X to the Rescue!</i></td>
+<td>Series 2, episodes 1–5 and <i>Great Christmas Rescue</i> special</td>
+<td>4 September 2013<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>
+</td></tr>
+<tr>
+<td><i>Amazon Adventure</i></td>
+<td>Series 2, episodes:
+<ul><li><i>Amazon Adventure</i> (special)</li>
+<li><i>Bowhead Whales</i></li>
+<li><i>Damselfish</i></li>
+<li><i>Jawfish</i></li>
+<li><i>Fiddler Crabs</i></li>
+<li><i>Manta Rays</i></li></ul>
+</td>
+<td>2 January 2014<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>
+</td></tr>
+<tr>
+<td><i>Calling all GUPs!</i></td>
+<td>Series 2, episodes:
+<ul><li><i>Porcupine Puffer</i></li>
+<li><i>Scared Sperm Whale</i></li>
+<li><i>Long Arm Squid</i></li>
+<li><i>Swashbuckling Swordfish</i></li>
+<li><i>Manatees</i></li>
+<li><i>Saltwater Crocodile</i></li>
+<li><i>Humphead Parrotfish</i></li></ul>
+</td>
+<td>11 June 2014<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup>
+</td></tr>
+<tr>
+<td><i>Deep Sea Adventure!</i></td>
+<td>Series 2 and 3, episodes:
+<ul><li><i>Mariana Trench Adventure</i> (special)</li>
+<li><i>Scared Sperm Whale</i></li>
+<li><i>Long-Arm Squid</i></li>
+<li><i>Gulper Eels</i></li>
+<li><i>Sea Pigs</i></li>
+<li><i>Yeti Crab</i></li></ul>
+</td>
+<td>3 September 2014<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>
+</td></tr>
+<tr>
+<td><i>Flappity Flippers!</i></td>
+<td>Series 2 and 3, episodes:
+<ul><li><i>Cone Snails</i></li>
+<li><i>Harbour Seal</i></li>
+<li><i>Lionfish</i></li>
+<li><i>Mimic Octopus</i></li>
+<li><i>Mudskippers</i></li>
+<li><i>Lion's Mane Jellyfish</i></li>
+<li><i>Leafy Sea Dragons</i></li></ul>
+</td>
+<td>7 January 2015<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>
+</td></tr>
+<tr>
+<td><i>Great Arctic Adventure</i></td>
+<td>Series 2 and 3, episodes:
+<ul><li><i>Great Arctic Adventure</i> (special)</li>
+<li><i>Triggerfish</i></li>
+<li><i>Humpback Whales</i></li>
+<li><i>Barracudas</i></li>
+<li><i>Urchin Invasion</i></li>
+<li><i>Siphonophore</i></li></ul>
+</td>
+<td>3 June 2015<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>
+</td></tr>
+<tr>
+<td><i>Here Come the Vegimals</i></td>
+<td>Series 3, episodes:
+<ul><li><i>Very Vegimals Christmas</i> (special)</li>
+<li><i>Water Bears</i></li>
+<li><i>Pelicans</i></li>
+<li><i>Red Rock Crabs</i></li>
+<li><i>Sea Sponge</i></li>
+<li><i>Immortal Jellyfish</i></li></ul>
+</td>
+<td>4 November 2015<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>
+</td></tr>
+<tr>
+<td><i>Over Under Adventure</i></td>
+<td>Series 3, episodes:
+<ul><li><i>Over Under Adventure</i> (special)</li>
+<li><i>Walrus Pups</i></li>
+<li><i>Hidden Lake</i></li>
+<li><i>Tree Lobsters</i></li>
+<li><i>Mantis Shrimp</i></li>
+<li><i>Convict Fish</i></li></ul>
+</td>
+<td>2 March 2016<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup>
+</td></tr>
+<tr>
+<td><i>The Great Swamp Search</i></td>
+<td>TBC</td>
+<td>6 July 2016<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup>
+</td></tr>
+</tbody></table>
+<p>The first four DVDs have sold together as the <i>Octonauts Starter Pack</i> since 2016.
+</p>
+<h2><span class="mw-headline" id="Spin-offs">Spin-offs</span></h2>
+<p>The Octonauts brand has been licensed by the production company for numerous spin-off activities. These include <a href="/wiki/Octonauts_Rollercoaster_Adventure" title="Octonauts Rollercoaster Adventure">Octonauts Rollercoaster Adventure</a>, a themed rollercoaster within the <a href="/wiki/CBeebies#CBeebies_Land" title="CBeebies">CBeebies Land</a> of <a href="/wiki/Alton_Towers" title="Alton Towers">Alton Towers</a> theme park and themed bedrooms with the CBeebies Land Hotel. There is also a travelling live show called <i>Octonauts Live</i>, which has toured in the U.S.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> and other countries.
+</p><p>An <i>Octonauts</i> app was launched for iOS on 17 November 2016, produced in partnership with Night and Day Studios.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external free" href="https://www.awn.com/news/silvergate-media-produce-fashion-ally-nick" rel="nofollow">https://www.awn.com/news/silvergate-media-produce-fashion-ally-nick</a></span>
+</li>
+<li id="cite_note-bbc-mueller-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-bbc-mueller_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bbc-mueller_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.bbc.co.uk/pressoffice/pressreleases/stories/2010/09_september/16/octonauts3.shtml" rel="nofollow">interview with executive producer Kurt Mueller</a> BBC Press Office</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.amazon.com/review/RRB8I9IN1QVD6/ref=cm_cr_pr_perm/?ie=UTF8&amp;ASIN=B0071651BY" rel="nofollow">Amazon customer review</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.s4c.co.uk/clic/c_level2.shtml?programme_id=500613693" rel="nofollow">S4C Octonots page.</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.amazon.co.uk/review/R1XHWYXRVLRA8/ref=cm_cr_dp_perm?ie=UTF8&amp;ASIN=0857072366&amp;nodeID=266239" rel="nofollow">Amazon customer review</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://www.commonsensemedia.org/tv-reviews/octonauts" rel="nofollow">"Octonauts - TV Review"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">27 October</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Octonauts+-+TV+Review&amp;rft_id=https%3A%2F%2Fwww.commonsensemedia.org%2Ftv-reviews%2Foctonauts&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://blogs.abc.net.au/abc_tv/2011/02/multiplatorm-success-for-abc-for-kids-series-octonauts.html" rel="nofollow">Multiplatform success for ABC For Kids series, Octonauts</a> <a class="external text" href="https://web.archive.org/web/20110909030816/http://blogs.abc.net.au/abc_tv/2011/02/multiplatorm-success-for-abc-for-kids-series-octonauts.html" rel="nofollow">Archived</a> 9 September 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.imdb.com/title/tt1710177/" rel="nofollow"><i>The Octonauts</i></a> on <a href="/wiki/IMDb" title="IMDb">IMDb</a> <i>(Retrieved 8 April 2013)</i></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.iemmys.tv/awards_nominees.aspx" rel="nofollow">International Emmy Kids Awards Nominees</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a class="external text" href="http://ifta.ie/nominee_2013/childrenyouthtv.html" rel="nofollow">Irish Film and Television Awards</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.amazon.co.uk/gp/bestsellers/dvd/501960/ref=pd_zg_hrsr_d_h__1_3_last" rel="nofollow">Amazon best-seller list</a> retrieved 7 April 2013</span>
+</li>
+<li id="cite_note-Meomi2013-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Meomi2013_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Meomi2013_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Meomi (2013). <i>The Octonauts Explore The Great Big Ocean</i>. HarperCollins Children's Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0007510610" title="Special:BookSources/978-0007510610"><bdi>978-0007510610</bdi></a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Octonauts+Explore+The+Great+Big+Ocean&amp;rft.pub=HarperCollins+Children%27s+Books&amp;rft.date=2013&amp;rft.isbn=978-0007510610&amp;rft.au=Meomi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.bbcshop.com/octonauts/octonauts-the-collection-dvd/invt/bbcdvd3675/" rel="nofollow">Octonauts - The Collection (DVD)</a> at <a href="/wiki/BBC" title="BBC">BBC</a> website</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/meet-the-octonauts" rel="nofollow">"Octonauts - Meet The Octonauts | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+Meet+The+Octonauts+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Fmeet-the-octonauts&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-to-the-gups" rel="nofollow">"Octonauts - To The Gups! | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+To+The+Gups%21+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-to-the-gups&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-dvd-ready-for-acti" rel="nofollow">"Octonauts - Ready For Action | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+Ready+For+Action+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-dvd-ready-for-acti&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-dvd-sound-the-octo" rel="nofollow">"Octonauts - Sound The Octoalert! | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+Sound+The+Octoalert%21+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-dvd-sound-the-octo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-jumpin-jelly-fish-dvd" rel="nofollow">"Octonauts - Jumpin' Jellyfish | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+Jumpin%27+Jellyfish+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-jumpin-jelly-fish-dvd&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-dvd-shiver-me-whiske" rel="nofollow">"Octonauts - Shiver Me Whiskers | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+Shiver+Me+Whiskers+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-dvd-shiver-me-whiske&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-dvd-great-penguin-ra" rel="nofollow">"Octonauts - The Great Penguin Race | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+The+Great+Penguin+Race+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-dvd-great-penguin-ra&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-dvd-gup-x-to-rescue" rel="nofollow">"Octonauts - GUP-X to the Rescue! | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+GUP-X+to+the+Rescue%21+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-dvd-gup-x-to-rescue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-dvd-amazon-adventure" rel="nofollow">"Octonauts - Amazon Adventure | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+Amazon+Adventure+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-dvd-amazon-adventure&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-calling-all-gups-dvd" rel="nofollow">"Octonauts - Calling all GUPs | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+Calling+all+GUPs+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-calling-all-gups-dvd&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-deep-sea-adventure-dvd" rel="nofollow">"Octonauts - Deep Sea Adventure! | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+Deep+Sea+Adventure%21+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-deep-sea-adventure-dvd&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-flappity-flippers-dvd" rel="nofollow">"Octonauts - Flappity Flippers | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+Flappity+Flippers+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-flappity-flippers-dvd&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-dvd-great-arctic" rel="nofollow">"Octonauts - Great Arctic Adventure | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+Great+Arctic+Adventure+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-dvd-great-arctic&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-here-come-the-vegimals-dvd" rel="nofollow">"Octonauts - Here Come The Vegimals | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+Here+Come+The+Vegimals+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-here-come-the-vegimals-dvd&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-over-under-adventure-dvd" rel="nofollow">"Octonauts - Over Under Adventure | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+Over+Under+Adventure+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-over-under-adventure-dvd&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://shop.abc.net.au/products/octonauts-the-great-swamp-search-dvd" rel="nofollow">"Octonauts - The Great Swamp Search | DVD"</a>. <i>ABC Shop</i>. Australian Broadcasting Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+Shop&amp;rft.atitle=Octonauts+-+The+Great+Swamp+Search+%7C+DVD&amp;rft_id=https%3A%2F%2Fshop.abc.net.au%2Fproducts%2Foctonauts-the-great-swamp-search-dvd&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation"><a class="external text" href="https://www.octonautsliveus.com" rel="nofollow"><i>Octonauts Live!</i></a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Octonauts+Live%21&amp;rft_id=https%3A%2F%2Fwww.octonautsliveus.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a class="external text" href="https://web.archive.org/web/20170307123850/http://silvergatemedia.com/wp-content/uploads/2016/11/Silvergate-Media-Octonauts-app-launched-17-November-20161.pdf" rel="nofollow">"Silvergate and Night &amp; Day Studios launch first ever Octonauts app"</a> <span class="cs1-format">(PDF)</span> (Press release). New York and London: Silvergate Media. 17 November 2016. Archived from <a class="external text" href="http://silvergatemedia.com/wp-content/uploads/2016/11/Silvergate-Media-Octonauts-app-launched-17-November-20161.pdf" rel="nofollow">the original</a> <span class="cs1-format">(PDF)</span> on 7 March 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">6 March</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Silvergate+and+Night+%26+Day+Studios+launch+first+ever+Octonauts+app&amp;rft.place=New+York+and+London&amp;rft.pub=Silvergate+Media&amp;rft.date=2016-11-17&amp;rft_id=http%3A%2F%2Fsilvergatemedia.com%2Fwp-content%2Fuploads%2F2016%2F11%2FSilvergate-Media-Octonauts-app-launched-17-November-20161.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Octonauts"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<h3><span class="mw-headline" id="Channels">Channels</span></h3>
+<ul><li><a class="external text" href="https://web.archive.org/web/20101006225439/http://www.bbc.co.uk/cbeebies/octonauts/" rel="nofollow">Octonauts on CBeebies</a></li>
+<li><a class="external text" href="http://disney.go.com/disneyjunior/octonauts" rel="nofollow">Octonauts on Disney Junior US</a></li>
+<li><a class="external text" href="http://www.abc.net.au/abcforkids/shows/s3106715.htm" rel="nofollow">Octonauts on ABC 4 Kids</a></li>
+<li><a class="external text" href="http://www.tudiscoverykids.com/personajes/octonautas" rel="nofollow">Octonauts on Discovery Kids</a></li>
+<li><a class="external text" href="http://discoverykidsbrasil.uol.com.br/personagens/octonautas" rel="nofollow">Octonauts on Discovery Kids Brazil</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20130406154810/http://videos.tf1.fr/octonauts/" rel="nofollow">Octonauts on TF1</a></li>
+<li><a class="external text" href="http://www.tfou.fr/les-octonauts/videos" rel="nofollow">Octonauts on TFOU</a></li>
+<li><a class="external text" href="http://www.treehousetv.com/show/octonauts" rel="nofollow">Octonauts on Treehouse</a></li></ul>
+<h3><span class="mw-headline" id="Other_links">Other links</span></h3>
+<ul><li><span class="official-website"><span class="url"><a class="external text" href="http://www.octonauts.com" rel="nofollow">Official website</a></span></span> (by the book's authors: <a href="/wiki/Meomi_Design" title="Meomi Design">Meomi Design</a>)</li>
+<li><a class="external text" href="https://web.archive.org/web/20111018101504/http://www.heroesforkids.co.uk/octonauts.html" rel="nofollow">Official Octonauts store UK </a></li>
+<li><a class="external text" href="http://www.theoctonauts.com/" rel="nofollow">Chorion's Octonauts TV site</a></li>
+<li><a class="external text" href="http://disneyjunior.com/the-octonauts" rel="nofollow">Octonauts on Disney Junior</a></li></ul>
+<div aria-labelledby="Disney_Junior_original_programming" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Disney_Junior" title="Template:Disney Junior"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Disney_Junior" title="Template talk:Disney Junior"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Disney_Junior&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Disney_Junior_original_programming" style="font-size:114%;margin:0 4em"><a href="/wiki/Disney_Junior" title="Disney Junior">Disney Junior</a> <a href="/wiki/List_of_programs_broadcast_by_Disney_Junior" title="List of programs broadcast by Disney Junior">original programming</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Original series</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Doc_McStuffins" title="Doc McStuffins">Doc McStuffins</a></i></li>
+<li><i><a href="/wiki/Elena_of_Avalor" title="Elena of Avalor">Elena of Avalor</a></i></li>
+<li><i><a href="/wiki/Fancy_Nancy_(TV_series)" title="Fancy Nancy (TV series)">Fancy Nancy</a></i></li>
+<li><i><a href="/wiki/Mickey_Mouse_Mixed-Up_Adventures" title="Mickey Mouse Mixed-Up Adventures">Mickey Mouse Mixed-Up Adventures</a></i></li>
+<li><i><a href="/wiki/Vampirina" title="Vampirina">Vampirina</a></i></li>
+<li><i><a href="/wiki/Muppet_Babies_(2018_TV_series)" title="Muppet Babies (2018 TV series)">Muppet Babies</a></i></li>
+<li><i><a href="/wiki/Puppy_Dog_Pals" title="Puppy Dog Pals">Puppy Dog Pals</a></i></li>
+<li><i><a href="/wiki/The_Rocketeer_(2019_TV_series)" title="The Rocketeer (2019 TV series)">The Rocketeer</a></i></li>
+<li><i><a href="/wiki/T.O.T.S." title="T.O.T.S.">T.O.T.S.</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Acquired series</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Kate_%26_Mim-Mim" title="Kate &amp; Mim-Mim">Kate &amp; Mim-Mim</a></i></li>
+<li><i><a class="mw-selflink selflink">The Octonauts</a></i></li>
+<li><i><a href="/wiki/P._King_Duckling" title="P. King Duckling">P. King Duckling</a></i></li>
+<li><i><a href="/wiki/PJ_Masks" title="PJ Masks">PJ Masks</a></i></li>
+<li><i><a href="/wiki/Gigantosaurus_(TV_series)" title="Gigantosaurus (TV series)">Gigantosaurus</a></i></li>
+<li><i><a href="/wiki/Bluey_(2018_TV_series)" title="Bluey (2018 TV series)">Bluey</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Re-running series</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Goldie_%26_Bear" title="Goldie &amp; Bear">Goldie &amp; Bear</a></i></li>
+<li><i><a href="/wiki/Handy_Manny" title="Handy Manny">Handy Manny</a></i></li>
+<li><i><a href="/wiki/Henry_Hugglemonster" title="Henry Hugglemonster">Henry Hugglemonster</a></i></li>
+<li><i><a href="/wiki/Imagination_Movers_(TV_series)" title="Imagination Movers (TV series)">Imagination Movers</a></i></li>
+<li><i><a href="/wiki/Little_Einsteins" title="Little Einsteins">Little Einsteins</a></i></li>
+<li><i><a href="/wiki/Jake_and_the_Never_Land_Pirates" title="Jake and the Never Land Pirates">Jake and the Never Land Pirates</a></i></li>
+<li><i><a href="/wiki/Jungle_Junction" title="Jungle Junction">Jungle Junction</a></i></li>
+<li><i><a href="/wiki/My_Friends_Tigger_%26_Pooh" title="My Friends Tigger &amp; Pooh">My Friends Tigger &amp; Pooh</a></i></li>
+<li><i><a href="/wiki/Mickey_Mouse_Clubhouse" title="Mickey Mouse Clubhouse">Mickey Mouse Clubhouse</a></i></li>
+<li><i><a href="/wiki/Miles_from_Tomorrowland" title="Miles from Tomorrowland">Miles from Tomorrowland</a></i></li>
+<li><i><a href="/wiki/Rolie_Polie_Olie" title="Rolie Polie Olie">Rolie Polie Olie</a></i></li>
+<li><i><a href="/wiki/Sheriff_Callie%27s_Wild_West" title="Sheriff Callie's Wild West">Sheriff Callie's Wild West</a></i></li>
+<li><i><a href="/wiki/Sofia_the_First" title="Sofia the First">Sofia the First</a></i></li>
+<li><i><a href="/wiki/Special_Agent_Oso" title="Special Agent Oso">Special Agent Oso</a></i></li>
+<li><i><a href="/wiki/The_Lion_Guard" title="The Lion Guard">The Lion Guard</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Original short series</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Minnie%27s_Bow-Toons" title="Minnie's Bow-Toons">Minnie's Bow-Toons</a></i></li>
+<li><i><a href="/wiki/Nina_Needs_to_Go!" title="Nina Needs to Go!">Nina Needs to Go!</a></i></li>
+<li><i><a href="/wiki/Small_Potatoes_(2011_TV_series)" title="Small Potatoes (2011 TV series)">Small Potatoes</a></i></li>
+<li><i><a href="/wiki/Whisker_Haven" title="Whisker Haven">Whisker Haven</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Returning short series</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Can_You_Teach_My_Alligator_Manners%3F" title="Can You Teach My Alligator Manners?">Can You Teach My Alligator Manners?</a></i></li>
+<li><i><a href="/wiki/Cars_Toons" title="Cars Toons">Cars Toons</a></i></li>
+<li><i><a href="/wiki/Choo_Choo_Soul" title="Choo Choo Soul">Choo Choo Soul</a></i></li>
+<li><i><a href="/wiki/List_of_Chuggington_episodes" title="List of Chuggington episodes">Chuggington: Badge Quest</a></i></li>
+<li><i><a href="/wiki/Go,_Baby!" title="Go, Baby!">Go, Baby!</a></i></li>
+<li><i><a href="/wiki/List_of_Handy_Manny_episodes" title="List of Handy Manny episodes">Handy Manny's School for Tools</a></i></li>
+<li><i><a href="/wiki/Happy_Monster_Band" title="Happy Monster Band">Happy Monster Band</a></i></li>
+<li><i><a href="/wiki/Tasty_Time_with_ZeFronk" title="Tasty Time with ZeFronk">Tasty Time with ZeFronk</a></i></li>
+<li><i><a href="/wiki/Where_Is_Warehouse_Mouse%3F" title="Where Is Warehouse Mouse?">Where Is Warehouse Mouse?</a></i></li>
+<li><i>Shanna's Show</i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Original future programming</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li class="mw-empty-elt"></li>
+<li><i>Mira, Royal Detective</i></li>
+<li><i>Marvel's Spidey and His Amazing Friends</i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">See also</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Disney_Junior_%E2%80%93_Live_on_Stage!" title="Disney Junior – Live on Stage!">Disney Junior – Live on Stage!</a></i></li>
+<li><a href="/wiki/25_Days_of_Christmas" title="25 Days of Christmas">25 Days of Christmas</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_Disney_home_entertainment" title="List of Disney home entertainment">Disney movies</a></li>
+<li><a href="/wiki/Disney_Channel" title="Disney Channel">Disney Channel</a></li>
+<li><a href="/wiki/Playhouse_Disney" title="Playhouse Disney">Playhouse Disney</a></li>
+<li><a href="/wiki/Soapnet" title="Soapnet">Soapnet</a></li>
+<li><a href="/wiki/Disney_Television_Animation" title="Disney Television Animation">Disney Television Animation</a></li>
+<li><a href="/wiki/List_of_programs_broadcast_by_Toon_Disney" title="List of programs broadcast by Toon Disney">List of programs broadcast by Toon Disney</a> and <a href="/wiki/List_of_programs_broadcast_by_Disney_Junior" title="List of programs broadcast by Disney Junior">List of programs broadcast by Disney Junior</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Annie_Award_for_Best_Animated_Television_Production" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background: #EEDD82;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Annie_Award_for_Best_Animated_Television_Production" title="Template:Annie Award for Best Animated Television Production"><abbr style="background: #EEDD82;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Annie_Award_for_Best_Animated_Television_Production" title="Template talk:Annie Award for Best Animated Television Production"><abbr style="background: #EEDD82;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Annie_Award_for_Best_Animated_Television_Production&amp;action=edit"><abbr style="background: #EEDD82;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Annie_Award_for_Best_Animated_Television_Production" style="font-size:114%;margin:0 4em"><a class="mw-redirect" href="/wiki/Annie_Award" title="Annie Award">Annie Award</a> for <a href="/wiki/Annie_Award_for_Best_Animated_Television_Production" title="Annie Award for Best Animated Television Production">Best Animated Television Production</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Simpsons" title="The Simpsons">The Simpsons</a></i> (1992 - 1997)</li>
+<li><i><a href="/wiki/The_Simpsons" title="The Simpsons">The Simpsons</a></i> / <i><a href="/wiki/The_New_Batman/Superman_Adventures" title="The New Batman/Superman Adventures">The New Batman/Superman Adventures</a></i> (1998)</li>
+<li><i><a href="/wiki/The_Simpsons" title="The Simpsons">The Simpsons</a></i> (1999)</li>
+<li><i><a href="/wiki/The_Simpsons" title="The Simpsons">The Simpsons</a></i> / <i><a href="/wiki/Mickey_Mouse_Works" title="Mickey Mouse Works">Mickey Mouse Works</a></i> (2000)</li>
+<li><i><a href="/wiki/The_Simpsons" title="The Simpsons">The Simpsons</a></i> / <i><a href="/wiki/Batman_Beyond" title="Batman Beyond">Batman Beyond</a></i> (2001)</li>
+<li><i><a href="/wiki/The_Simpsons" title="The Simpsons">The Simpsons</a></i> (2002 - 2003)</li>
+<li><i><a href="/wiki/SpongeBob_SquarePants" title="SpongeBob SquarePants">SpongeBob SquarePants</a></i> (2004)</li>
+<li><i><a href="/wiki/Star_Wars:_Clone_Wars_(2003_TV_series)" title="Star Wars: Clone Wars (2003 TV series)">Star Wars: Clone Wars</a></i> (2005)</li>
+<li><i><a href="/wiki/Foster%27s_Home_for_Imaginary_Friends" title="Foster's Home for Imaginary Friends">Foster's Home for Imaginary Friends</a></i> (2006)</li>
+<li><i><a href="/wiki/Creature_Comforts" title="Creature Comforts">Creature Comforts</a></i> / <i><a href="/wiki/El_Tigre:_The_Adventures_of_Manny_Rivera" title="El Tigre: The Adventures of Manny Rivera">El Tigre: The Adventures of Manny Rivera</a></i> (2007)</li>
+<li><i><a href="/wiki/Robot_Chicken" title="Robot Chicken">Robot Chicken</a></i> / <i><a href="/wiki/Avatar:_The_Last_Airbender" title="Avatar: The Last Airbender">Avatar: The Last Airbender</a></i> (2008)</li>
+<li><i><a href="/wiki/Prep_%26_Landing" title="Prep &amp; Landing">Prep &amp; Landing</a></i> / <i><a href="/wiki/The_Penguins_of_Madagascar" title="The Penguins of Madagascar">The Penguins of Madagascar</a></i> (2009)</li>
+<li><i><a href="/wiki/Futurama" title="Futurama">Futurama</a></i> / <i><a href="/wiki/SpongeBob_SquarePants" title="SpongeBob SquarePants">SpongeBob SquarePants</a></i> (2010)</li>
+<li><i><a href="/wiki/The_Simpsons" title="The Simpsons">The Simpsons</a></i> / <i><a href="/wiki/The_Amazing_World_of_Gumball" title="The Amazing World of Gumball">The Amazing World of Gumball</a></i> (2011)</li>
+<li><i><a href="/wiki/Robot_Chicken" title="Robot Chicken">Robot Chicken</a></i> / <i><a href="/wiki/DreamWorks_Dragons" title="DreamWorks Dragons">DreamWorks Dragons</a></i> / <i><a href="/wiki/Bubble_Guppies" title="Bubble Guppies">Bubble Guppies</a></i> (2012)</li>
+<li><i><a href="/wiki/Futurama" title="Futurama">Futurama</a></i> / <i><a href="/wiki/Adventure_Time" title="Adventure Time">Adventure Time</a></i> / <i><a href="/wiki/Sofia_the_First" title="Sofia the First">Sofia the First</a></i> (2013)</li>
+<li><i><a href="/wiki/The_Simpsons" title="The Simpsons">The Simpsons</a></i> / <i><a href="/wiki/Gravity_Falls" title="Gravity Falls">Gravity Falls</a></i> / <i><a href="/wiki/Tumble_Leaf" title="Tumble Leaf">Tumble Leaf</a></i> (2014)</li>
+<li><i><a href="/wiki/The_Simpsons" title="The Simpsons">The Simpsons</a></i> / <i><a href="/wiki/Wander_Over_Yonder" title="Wander Over Yonder">Wander Over Yonder</a></i> / <i><a href="/wiki/Tumble_Leaf" title="Tumble Leaf">Tumble Leaf</a></i> (2015)</li>
+<li><i><a href="/wiki/Bob%27s_Burgers" title="Bob's Burgers">Bob's Burgers</a></i> / <i><a href="/wiki/Adventure_Time" title="Adventure Time">Adventure Time</a></i> / <i><a href="/wiki/Tumble_Leaf" title="Tumble Leaf">Tumble Leaf</a></i> (2016)</li>
+<li><i><a href="/wiki/Rick_and_Morty" title="Rick and Morty">Rick and Morty</a></i> / <i><a href="/wiki/We_Bare_Bears" title="We Bare Bears">We Bare Bears</a></i> / <i><a class="mw-selflink selflink">The Octonauts</a></i> (2017)</li>
+<li><i><a href="/wiki/BoJack_Horseman" title="BoJack Horseman">BoJack Horseman</a></i> / <i><a href="/wiki/Hilda_(TV_series)" title="Hilda (TV series)">Hilda</a></i> / <i><a href="/wiki/Ask_the_StoryBots" title="Ask the StoryBots">Ask the StoryBots</a></i> (2018)</li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20191217192810
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.736 seconds
+Real time usage: 1.002 seconds
+Preprocessor visited node count: 2644/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 70466/2097152 bytes
+Template argument size: 3934/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 61886/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.376/10.000 seconds
+Lua memory usage: 6.9 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  885.150      1 -total
+ 17.78%  157.370      1 Template:Infobox_television
+ 15.71%  139.038      1 Template:Infobox
+ 12.77%  113.053     16 Template:Cite_web
+ 10.22%   90.467      1 Template:Cite_news
+  9.14%   80.909      1 Template:Pp
+  8.48%   75.025      2 Template:Citation_needed
+  7.90%   69.964      1 Template:Official_website
+  7.63%   67.570      2 Template:Fix
+  5.00%   44.223      4 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:29876303-0!canonical and timestamp 20191217192809 and revision id 930346816
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_Octonauts&amp;oldid=930346816">https://en.wikipedia.org/w/index.php?title=The_Octonauts&amp;oldid=930346816</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Series_of_children%27s_books" title="Category:Series of children's books">Series of children's books</a></li><li><a href="/wiki/Category:BBC_children%27s_television_programmes" title="Category:BBC children's television programmes">BBC children's television programmes</a></li><li><a href="/wiki/Category:British_children%27s_animated_television_programmes" title="Category:British children's animated television programmes">British children's animated television programmes</a></li><li><a href="/wiki/Category:Preschool_education_television_series" title="Category:Preschool education television series">Preschool education television series</a></li><li><a href="/wiki/Category:English-language_television_programs" title="Category:English-language television programs">English-language television programs</a></li><li><a href="/wiki/Category:2010s_British_children%27s_television_series" title="Category:2010s British children's television series">2010s British children's television series</a></li><li><a href="/wiki/Category:2010_British_television_series_debuts" title="Category:2010 British television series debuts">2010 British television series debuts</a></li><li><a href="/wiki/Category:Nature_educational_television_series" title="Category:Nature educational television series">Nature educational television series</a></li><li><a href="/wiki/Category:British_animated_television_programmes_featuring_anthropomorphic_characters" title="Category:British animated television programmes featuring anthropomorphic characters">British animated television programmes featuring anthropomorphic characters</a></li><li><a href="/wiki/Category:British_television_programmes_based_on_children%27s_books" title="Category:British television programmes based on children's books">British television programmes based on children's books</a></li><li><a href="/wiki/Category:Television_series_by_Brown_Bag_Films" title="Category:Television series by Brown Bag Films">Television series by Brown Bag Films</a></li><li><a href="/wiki/Category:Computer-animated_television_series" title="Category:Computer-animated television series">Computer-animated television series</a></li><li><a href="/wiki/Category:2010s_British_animated_television_series" title="Category:2010s British animated television series">2010s British animated television series</a></li><li><a href="/wiki/Category:Animated_television_series_about_bears" title="Category:Animated television series about bears">Animated television series about bears</a></li><li><a href="/wiki/Category:Animated_television_series_about_cats" title="Category:Animated television series about cats">Animated television series about cats</a></li><li><a href="/wiki/Category:Animated_television_series_about_penguins" title="Category:Animated television series about penguins">Animated television series about penguins</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_indefinitely_semi-protected_pages" title="Category:Wikipedia indefinitely semi-protected pages">Wikipedia indefinitely semi-protected pages</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_British_English_from_October_2015" title="Category:Use British English from October 2015">Use British English from October 2015</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_December_2012" title="Category:Use dmy dates from December 2012">Use dmy dates from December 2012</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2017" title="Category:Articles with unsourced statements from December 2017">Articles with unsourced statements from December 2017</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2016" title="Category:Articles with unsourced statements from July 2016">Articles with unsourced statements from July 2016</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Episode_list_using_the_default_LineColor" title="Category:Episode list using the default LineColor">Episode list using the default LineColor</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Octonauts" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Octonauts" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/The_Octonauts" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:The_Octonauts" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/The_Octonauts">Read</a></li><li class="collapsible" id="ca-viewsource"><a accesskey="e" href="/w/index.php?title=The_Octonauts&amp;action=edit" title="This page is protected.
+You can view its source [e]">View source</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=The_Octonauts&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/The_Octonauts" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/The_Octonauts" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=The_Octonauts&amp;oldid=930346816" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=The_Octonauts&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1215265" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Octonauts&amp;id=930346816" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Octonauts">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=The+Octonauts&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=The_Octonauts&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Die_Oktonauten" hreflang="de" lang="de" title="Die Oktonauten – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Octonautas" hreflang="es" lang="es" title="Octonautas – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Les_Octonauts" hreflang="fr" lang="fr" title="Les Octonauts – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B0%94%EB%8B%A4%ED%83%90%ED%97%98%EB%8C%80_%EC%98%A5%ED%86%A0%EB%84%9B" hreflang="ko" lang="ko" title="바다탐험대 옥토넛 – Korean">한국어</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/The_Octonauts" hreflang="jv" lang="jv" title="The Octonauts – Javanese">Jawa</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/M%C3%A9lytengeri_ment%C5%91csapat" hreflang="hu" lang="hu" title="Mélytengeri mentőcsapat – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%81%99%E3%81%99%E3%82%81!%E3%82%AA%E3%82%AF%E3%83%88%E3%83%8E%E3%83%BC%E3%83%84" hreflang="ja" lang="ja" title="すすめ!オクトノーツ – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Oktonautene" hreflang="nb" lang="nb" title="Oktonautene – Norwegian Bokmål">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Oktonauci" hreflang="pl" lang="pl" title="Oktonauci – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Octonautas" hreflang="pt" lang="pt" title="Octonautas – Portuguese">Português</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/The_Octonauts" hreflang="en-simple" lang="en-simple" title="The Octonauts – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9E%D0%BA%D1%82%D0%BE%D0%BD%D0%B0%D1%83%D1%82%D0%B8" hreflang="sr" lang="sr" title="Октонаути – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Oktonautit" hreflang="fi" lang="fi" title="Oktonautit – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B5%B7%E5%BA%95%E5%B0%8F%E7%BA%B5%E9%98%9F" hreflang="zh" lang="zh" title="海底小纵队 – Chinese">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1215265#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 11 December 2019, at 21:28<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=The_Octonauts&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.736","walltime":"1.002","ppvisitednodes":{"value":2644,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":70466,"limit":2097152},"templateargumentsize":{"value":3934,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":61886,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  885.150      1 -total"," 17.78%  157.370      1 Template:Infobox_television"," 15.71%  139.038      1 Template:Infobox"," 12.77%  113.053     16 Template:Cite_web"," 10.22%   90.467      1 Template:Cite_news","  9.14%   80.909      1 Template:Pp","  8.48%   75.025      2 Template:Citation_needed","  7.90%   69.964      1 Template:Official_website","  7.63%   67.570      2 Template:Fix","  5.00%   44.223      4 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.376","limit":"10.000"},"limitreport-memusage":{"value":7232103,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20191217192810","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"The Octonauts","url":"https:\/\/en.wikipedia.org\/wiki\/The_Octonauts","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1215265","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1215265","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-12-03T22:24:23Z","dateModified":"2019-12-11T21:28:22Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/c\/ca\/OctonautsTitleCard.jpg","headline":"Animated television series"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":157,"wgHostname":"mw1271"});});</script>
+
+
+</body></html>

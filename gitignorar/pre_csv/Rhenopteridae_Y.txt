@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Rhenopteridae - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfk4cQpAMEoAAFYjNL0AAACR","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Rhenopteridae","wgTitle":"Rhenopteridae","wgCurRevisionId":895521857,"wgRevisionId":895521857,"wgArticleId":25304476,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Rhenopteroidea","Early Devonian extinctions","Middle Ordovician first appearances","Prehistoric arthropod families"],"wgPageContentLanguage":"en","wgPageContentModel":
+"wikitext","wgRelevantPageName":"Rhenopteridae","wgRelevantArticleId":25304476,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1645821","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready"
+,"mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/5/59/Kiaeropterus_no_background.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Rhenopteridae" rel="alternate"/>
+<link href="/w/index.php?title=Rhenopteridae&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Rhenopteridae&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Rhenopteridae" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Rhenopteridae rootpage-Rhenopteridae skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Rhenopteridae</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Rhenopteridae<br/><div style="font-size: 85%;">Temporal range: <a class="mw-redirect" href="/wiki/Middle_Ordovician" title="Middle Ordovician">Middle Ordovician</a> - <a class="mw-redirect" href="/wiki/Early_Devonian" title="Early Devonian">Early Devonian</a>, <span style="display:inline-block;"></span><span style="display:inline-block;">460–402.5 <a class="mw-redirect" href="/wiki/Megaannum" title="Megaannum">Ma</a></span> <span style="display:inline-block;"></span><div id="Timeline-row" style="margin: 4px auto 0; clear:both; width:220px; padding:0px; height:18px; overflow:visible; border:1px #666; border-style:solid none; position:relative; z-index:0; font-size:13px;">
+<div style="position:absolute; height:100%; left:0px; width:208.07692307692px; padding-left:5px; text-align:left; background-color:rgb(254,214,123); background-image: -moz-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: -o-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: -webkit-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: linear-gradient(to right, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1));"><a href="/wiki/Precambrian" title="Precambrian">PreЄ</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(129,170,114); left:36.892307692308px; width:18.818461538462px;"><a href="/wiki/Cambrian" title="Cambrian">Є</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(0,169,138); left:55.710769230769px; width:14.08px;"><a href="/wiki/Ordovician" title="Ordovician">O</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(166,223,197); left:69.790769230769px; width:8.3261538461539px;"><a href="/wiki/Silurian" title="Silurian">S</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(221,150,81); left:78.116923076923px; width:20.409230769231px;"><a href="/wiki/Devonian" title="Devonian">D</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(63,174,173); left:98.526153846154px; width:20.307692307692px;"><a href="/wiki/Carboniferous" title="Carboniferous">C</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(247,88,60); left:118.83384615385px; width:15.907015384615px;"><a href="/wiki/Permian" title="Permian">P</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(153,78,150); left:134.74086153846px; width:17.126830769231px;"><a href="/wiki/Triassic" title="Triassic">T</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(0,187,231); left:151.86769230769px; width:19.055384615385px;"><a href="/wiki/Jurassic" title="Jurassic">J</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(111,200,107); left:170.92307692308px; width:26.738461538462px;"><a href="/wiki/Cretaceous" title="Cretaceous">K</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(254,161,99); left:197.66153846154px; width:14.543692307692px;"><a href="/wiki/Paleogene" title="Paleogene"><small>Pg</small></a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(254,221,45); left:212.20523076923px; width:6.9215384615385px;"><a href="/wiki/Neogene" title="Neogene"><small>N</small></a></div>
+<div id="end-border" style="position:absolute; height:100%; background-color:#666; width:1px; left:219px"></div><div style="margin:0 auto; line-height:0; clear:both; width:220px; padding:0px; height:8px; overflow:visible; background-color:transparent; position:relative; top:-4px; z-index:100;"><div style="position:absolute; height:8px; left:64.307692307692px; width:19.461538461538px; background-color:#360; opacity:0.42;"></div>
+<div style="position:absolute; height:8px; left:64.307692307692px; width:19.461538461538px; background-color:#360; opacity:1;"></div>
+<div style="position:absolute; height:6px; top:1px; left:65.307692307692px; width:17.461538461538px; background-color:#6c3;"></div>
+</div>
+</div></div>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><a class="image" href="/wiki/File:Kiaeropterus_no_background.png"><img alt="Kiaeropterus no background.png" data-file-height="714" data-file-width="608" decoding="async" height="258" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kiaeropterus_no_background.png/220px-Kiaeropterus_no_background.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kiaeropterus_no_background.png/330px-Kiaeropterus_no_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kiaeropterus_no_background.png/440px-Kiaeropterus_no_background.png 2x" width="220"/></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><i><a href="/wiki/Kiaeropterus" title="Kiaeropterus">Kiaeropterus</a></i>
+</td></tr>
+
+
+
+
+
+<tr>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Rhenopteridae" title="e"><img alt="e" data-file-height="16" data-file-width="16" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" width="16"/></a></span>
+</th></tr>
+<tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
+<tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Arthropod" title="Arthropod">Arthropoda</a>
+</td></tr>
+<tr>
+<td>Subphylum:
+</td>
+<td><a href="/wiki/Chelicerata" title="Chelicerata">Chelicerata</a>
+</td></tr>
+<tr>
+<td>Order:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a class="mw-redirect" href="/wiki/Eurypterida" title="Eurypterida">Eurypterida</a>
+</td></tr>
+<tr>
+<td>Suborder:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a href="/wiki/Stylonurina" title="Stylonurina">Stylonurina</a>
+</td></tr>
+<tr>
+<td>Superfamily:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a class="mw-selflink selflink">Rhenopteroidea</a><br/><small>Størmer, 1951</small>
+</td></tr>
+<tr>
+<td>Family:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a class="mw-selflink selflink">Rhenopteridae</a><br/><small>Størmer, 1951</small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Type_genus" title="Type genus">Type genus</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><i><b><a href="/wiki/Rhenopterus" title="Rhenopterus">Rhenopterus</a></b></i><br/><div style="font-size: 85%;">Størmer, 1936</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Genus" title="Genus">Genera</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul><li><i><a href="/wiki/Brachyopterella" title="Brachyopterella">Brachyopterella</a></i></li>
+<li><i><a href="/wiki/Brachyopterus" title="Brachyopterus">Brachyopterus</a></i></li>
+<li><i><a href="/wiki/Kiaeropterus" title="Kiaeropterus">Kiaeropterus</a></i></li>
+<li><i><a href="/wiki/Leiopterella" title="Leiopterella">Leiopterella</a></i></li>
+<li><i><a href="/wiki/Rhenopterus" title="Rhenopterus">Rhenopterus</a></i></li></ul>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul><li>Brachyopterellidae <small>Tollerton, 1989</small></li></ul>
+</td></tr>
+
+</tbody></table>
+<p>The <b>Rhenopteridae</b> are a family of <a href="/wiki/Eurypterid" title="Eurypterid">eurypterids</a>, an extinct group of <a class="mw-redirect" href="/wiki/Chelicerate" title="Chelicerate">chelicerate</a> <a href="/wiki/Arthropod" title="Arthropod">arthropods</a> commonly known as "sea scorpions". The family is the only family currently contained in the superfamily <b>Rhenopteroidea</b>, one of four superfamilies classified as part of the suborder <a href="/wiki/Stylonurina" title="Stylonurina">Stylonurina</a>.
+</p><p>The family contains one of the earliest known eurypterids, <i><a href="/wiki/Brachyopterus" title="Brachyopterus">Brachyopterus</a></i>, known from the <a class="mw-redirect" href="/wiki/Middle_Ordovician" title="Middle Ordovician">Middle Ordovician</a> (also the sister taxon to all other rhenopterids), and is the most primitive clade of stylonurine eurypterids. The last known members of the family went extinct during the <a class="mw-redirect" href="/wiki/Early_Devonian" title="Early Devonian">Early Devonian</a>.<sup class="reference" id="cite_ref-JSP_1-0"><a href="#cite_note-JSP-1">[1]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Evolutionary_history"><span class="tocnumber">2</span> <span class="toctext">Evolutionary history</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Systematics_and_genera"><span class="tocnumber">3</span> <span class="toctext">Systematics and genera</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rhenopteridae&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Rhenopteridae.png"><img alt="" class="thumbimage" data-file-height="193" data-file-width="491" decoding="async" height="86" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rhenopteridae.png/220px-Rhenopteridae.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rhenopteridae.png/330px-Rhenopteridae.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rhenopteridae.png/440px-Rhenopteridae.png 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Rhenopteridae.png" title="Enlarge"></a></div>Comparison of the carapaces of three Rhenopterid genera; <i><a href="/wiki/Brachyopterus" title="Brachyopterus">Brachyopterus</a></i>, <i><a href="/wiki/Brachyopterella" title="Brachyopterella">Brachyopterella</a></i> and <i><a href="/wiki/Rhenopterus" title="Rhenopterus">Rhenopterus</a></i>.</div></div></div>
+<p>Rhenopterids were small, characterized by scattered tubercules and knobs on the outer surface of the exoskeleton. Their first two (or possibly three) pairs of walking legs had spines; the last two pairs were long and powerful, without spines. The prosoma (head) was subtrapezoidal, with arcuate compound eyes on parallel axes.  The male genital appendages were short with two distal spines.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>The rhenopterids were the most primitive <a href="/wiki/Stylonurina" title="Stylonurina">stylonurines</a> and the family encompasses many previously enigmatic eurypterids, such as <i><a href="/wiki/Brachyopterus" title="Brachyopterus">Brachyopterus</a></i>, <i><a href="/wiki/Kiaeropterus" title="Kiaeropterus">Kiareopterus</a></i> and <i><a href="/wiki/Rhenopterus" title="Rhenopterus">Rhenopterus</a></i> itself, all united by a rounded posterior margin to the metastoma and prosomal appendage III bearing single fixed spines.<sup class="reference" id="cite_ref-JSP_1-1"><a href="#cite_note-JSP-1">[1]</a></sup>
+</p><p>Unlike the derived stylonurines of the family <a href="/wiki/Stylonuridae" title="Stylonuridae">Stylonuridae</a> and superfamily <a class="mw-redirect" href="/wiki/Hibbertopteroidea" title="Hibbertopteroidea">Hibbertopteroidea</a>, rhenopterids retained primitive <i><a href="/wiki/Hughmilleria" title="Hughmilleria">Hughmilleria</a></i>-type prosomal appendages II-IV, which are unsuited to sweep-feeding. The family is thus more likely to have adopted a <a href="/wiki/Scavenger" title="Scavenger">scavenging</a> lifestyle.<sup class="reference" id="cite_ref-JSP_1-2"><a href="#cite_note-JSP-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Evolutionary_history">Evolutionary history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rhenopteridae&amp;action=edit&amp;section=2" title="Edit section: Evolutionary history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Brachyopterus.png"><img alt="" class="thumbimage" data-file-height="836" data-file-width="792" decoding="async" height="232" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Brachyopterus.png/220px-Brachyopterus.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Brachyopterus.png/330px-Brachyopterus.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Brachyopterus.png/440px-Brachyopterus.png 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Brachyopterus.png" title="Enlarge"></a></div>Reconstruction of <i><a href="/wiki/Brachyopterus" title="Brachyopterus">Brachyopterus</a></i>, the earliest known rhenopterid.</div></div></div>
+<p>The Rhenopterids first appeared during the <a class="mw-redirect" href="/wiki/Middle_Ordovician" title="Middle Ordovician">Middle Ordovician</a> as one of the earliest and most basal groups of <a href="/wiki/Stylonurina" title="Stylonurina">Stylonurine</a> eurypterids.<sup class="reference" id="cite_ref-:0_3-0"><a href="#cite_note-:0-3">[3]</a></sup> Clear evolutionary trends can be observed in the carapaces of the rhenopterids. Basal rhenopterids possess broad carapaces narrowest at their base (as in <i><a href="/wiki/Brachyopterus" title="Brachyopterus">Brachyopterus</a></i> and <i><a href="/wiki/Brachyopterella" title="Brachyopterella">Brachyopterella</a></i>) whilst more derived rhenopterids have broad carapaces narrowest at the front and the most derived members possess narrower carapaces narrowest at the front (as in <i><a href="/wiki/Rhenopterus" title="Rhenopterus">Rhenopterus</a></i>).<sup class="reference" id="cite_ref-:0_3-1"><a href="#cite_note-:0-3">[3]</a></sup> <i><a href="/wiki/Kiaeropterus" title="Kiaeropterus">Kiaeropterus</a></i> is unusual in its morphology and might represent a <a href="/wiki/Silurian" title="Silurian">Silurian</a> offshoot.<sup class="reference" id="cite_ref-:0_3-2"><a href="#cite_note-:0-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Systematics_and_genera">Systematics and genera</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rhenopteridae&amp;action=edit&amp;section=3" title="Edit section: Systematics and genera">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Rhenopteroids are diagnosed as being <a href="/wiki/Stylonurina" title="Stylonurina">stylonurines</a> with the posterior margin of the metastomate being round. Rhenopterids are in turn rhenopteroids with single fixed spines on the prosomal appendage III and possess a short telson. The Appendages II-IV have short and fixed spines and V-VI are nonspiniferous. Since no currently known rhenopteroid challenge the diagnosis applied to the Rhenopteridae, all rhenopteroids are rhenopterids.<sup class="reference" id="cite_ref-JSP_1-3"><a href="#cite_note-JSP-1">[1]</a></sup>
+</p><p>Lamsdell, Braddy and Tetlie (2010) assigned one subfamily to the family, the Rhenopterinae, including the genera <i><a href="/wiki/Alkenopterus" title="Alkenopterus">Alkenopterus</a></i> and <i><a href="/wiki/Rhenopterus" title="Rhenopterus">Rhenopterus</a></i>. The Rhenopterinae was restricted to the <a class="mw-redirect" href="/wiki/Early_Devonian" title="Early Devonian">Early</a> to <a class="mw-redirect" href="/wiki/Middle_Devonian" title="Middle Devonian">Middle Devonian</a> and were diagnosed as being rhenopterids with a non-spiniferous appendage IV and a caudal postabdomen.<sup class="reference" id="cite_ref-JSP_1-4"><a href="#cite_note-JSP-1">[1]</a></sup> More recently, <i>Alkenopterus</i> has been reclassified as a member of the <a href="/wiki/Onychopterellidae" title="Onychopterellidae">Onychopterellidae</a> within the <a href="/wiki/Eurypterina" title="Eurypterina">Eurypterina</a>, making the subfamily defunct.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p><b>Superfamily Rhenopteroidea</b> <small>Størmer, 1951</small>
+</p>
+<ul><li>Family <b>Rhenopteridae</b> <small>Størmer, 1951</small>
+<ul><li><i><a href="/wiki/Brachyopterella" title="Brachyopterella">Brachyopterella</a> </i><small>Kjellesvig-Waering, 1966</small></li>
+<li><i><a href="/wiki/Brachyopterus" title="Brachyopterus">Brachyopterus</a> </i><small>Størmer, 1951</small></li>
+<li><i><a href="/wiki/Kiaeropterus" title="Kiaeropterus">Kiaeropterus</a></i> <small>Waterston, 1979</small></li>
+<li><i><a href="/wiki/Leiopterella" title="Leiopterella">Leiopterella</a></i> <small>Lamsdell, Braddy, Loeffler, &amp; Dineley, 2010</small></li>
+<li><i><a href="/wiki/Rhenopterus" title="Rhenopterus">Rhenopterus</a></i> <small>Størmer, 1936</small></li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rhenopteridae&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-JSP-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-JSP_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-JSP_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-JSP_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-JSP_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-JSP_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">James C. Lamsdell, Simon J. Braddy &amp; O. Erik Tetlie (2010). "The systematics and phylogeny of the Stylonurina (Arthropoda: Chelicerata: Eurypterida)". <i><a href="/wiki/Journal_of_Systematic_Palaeontology" title="Journal of Systematic Palaeontology">Journal of Systematic Palaeontology</a></i>. <b>8</b> (1): 49–61. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F14772011003603564" rel="nofollow">10.1080/14772011003603564</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Systematic+Palaeontology&amp;rft.atitle=The+systematics+and+phylogeny+of+the+Stylonurina+%28Arthropoda%3A+Chelicerata%3A+Eurypterida%29&amp;rft.volume=8&amp;rft.issue=1&amp;rft.pages=49-61&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1080%2F14772011003603564&amp;rft.au=James+C.+Lamsdell%2C+Simon+J.+Braddy+%26+O.+Erik+Tetlie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARhenopteridae"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r920966791">.mw-parser-output span.smallcaps{font-variant:small-caps}.mw-parser-output span.smallcaps-smaller{font-size:85%}</style><span class="smallcaps"> Størmer, L</span> 1955. Merostomata. <i>Treatise on Invertebrate Paleontology, Part P Arthropoda 2, Chelicerata</i>, P39.</span>
+</li>
+<li id="cite_note-:0-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Lamsdell, James C.; Braddy, Simon J.; Loeffler, Elizabeth J.; Dineley, David L. (2010-10-27). <a class="external text" href="http://www.nrcresearchpress.com/doi/abs/10.1139/E10-053" rel="nofollow">"Early Devonian stylonurine eurypterids from Arctic Canada"</a>. <i>Canadian Journal of Earth Sciences</i>. <b>47</b> (11): 1405–1415. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1139%2FE10-053" rel="nofollow">10.1139/E10-053</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0008-4077" rel="nofollow">0008-4077</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Canadian+Journal+of+Earth+Sciences&amp;rft.atitle=Early+Devonian+stylonurine+eurypterids+from+Arctic+Canada&amp;rft.volume=47&amp;rft.issue=11&amp;rft.pages=1405-1415&amp;rft.date=2010-10-27&amp;rft_id=info%3Adoi%2F10.1139%2FE10-053&amp;rft.issn=0008-4077&amp;rft.aulast=Lamsdell&amp;rft.aufirst=James+C.&amp;rft.au=Braddy%2C+Simon+J.&amp;rft.au=Loeffler%2C+Elizabeth+J.&amp;rft.au=Dineley%2C+David+L.&amp;rft_id=http%3A%2F%2Fwww.nrcresearchpress.com%2Fdoi%2Fabs%2F10.1139%2FE10-053&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARhenopteridae"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Dunlop, J. A., Penney, D. &amp; Jekel, D. 2015. A summary list of fossil spiders and their relatives. In World Spider Catalog. Natural History Museum Bern, online at http://wsc.nmbe.ch, version 16.0 <a class="external free" href="http://www.wsc.nmbe.ch/resources/fossils/Fossils16.0.pdf" rel="nofollow">http://www.wsc.nmbe.ch/resources/fossils/Fossils16.0.pdf</a> (PDF).</span>
+</li>
+</ol></div>
+<div aria-labelledby="Eurypterids" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col" style="background:#d8d8c1;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Eurypterida" title="Template:Eurypterida"><abbr style="background:#d8d8c1;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Eurypterida" title="Template talk:Eurypterida"><abbr style="background:#d8d8c1;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Eurypterida&amp;action=edit"><abbr style="background:#d8d8c1;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Eurypterids" style="font-size:114%;margin:0 4em"><a href="/wiki/Eurypterid" title="Eurypterid">Eurypterids</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3" style="background:#d8d8c1;"><div id="*_Kingdom:_Animalia&amp;#10;*_Phylum:_Arthropoda&amp;#10;*_Subphylum:_Chelicerata&amp;#10;*_Clade:_Euchelicerata&amp;#10;*_Clade:_Prosomapoda&amp;#10;*_Clade:_Planaterga&amp;#10;*_Clade:_Dekatriata&amp;#10;*_Clade:_Sclerophorata">
+<ul><li>Kingdom: <a href="/wiki/Animal" title="Animal">Animalia</a></li>
+<li>Phylum: <a href="/wiki/Arthropod" title="Arthropod">Arthropoda</a></li>
+<li>Subphylum: <a href="/wiki/Chelicerata" title="Chelicerata">Chelicerata</a></li>
+<li><i>Clade</i>: <a class="mw-redirect" href="/wiki/Euchelicerata" title="Euchelicerata">Euchelicerata</a></li>
+<li><i>Clade</i>: <a href="/wiki/Prosomapoda" title="Prosomapoda">Prosomapoda</a></li>
+<li><i>Clade</i>: <a href="/wiki/Planaterga" title="Planaterga">Planaterga</a></li>
+<li><i>Clade</i>: <a href="/wiki/Dekatriata" title="Dekatriata">Dekatriata</a></li>
+<li><i>Clade</i>: <a class="mw-redirect" href="/wiki/Sclerophorata" title="Sclerophorata">Sclerophorata</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background:#d8d8c1;;width:1%">Taxonomy</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4e79f;text-align:center;">Genera</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_eurypterid_genera" title="List of eurypterid genera">List of eurypterid genera</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4e79f;text-align:center;">Suborder<br/><a href="/wiki/Stylonurina" title="Stylonurina">Stylonurina</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4ecc9;text-align:center;"><a class="mw-selflink selflink">Rhenopteroidea</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Rhenopteridae</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4ecc9;text-align:center;"><a href="/wiki/Stylonuroidea" title="Stylonuroidea">Stylonuroidea</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parastylonuridae" title="Parastylonuridae">Parastylonuridae</a></li>
+<li><a href="/wiki/Stylonuridae" title="Stylonuridae">Stylonuridae</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4ecc9;text-align:center;"><a href="/wiki/Kokomopteroidea" title="Kokomopteroidea">Kokomopteroidea</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kokomopteridae" title="Kokomopteridae">Kokomopteridae</a></li>
+<li><a href="/wiki/Hardieopteridae" title="Hardieopteridae">Hardieopteridae</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4ecc9;text-align:center;"><a href="/wiki/Mycteropoidea" title="Mycteropoidea">Mycteropoidea</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Drepanopterus" title="Drepanopterus">Drepanopteridae</a></li>
+<li><a href="/wiki/Hibbertopteridae" title="Hibbertopteridae">Hibbertopteridae</a></li>
+<li><a href="/wiki/Mycteroptidae" title="Mycteroptidae">Mycteroptidae</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4e79f;text-align:center;">Suborder<br/><a href="/wiki/Eurypterina" title="Eurypterina">Eurypterina</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4ecc9;text-align:center;"><a href="/wiki/Onychopterellidae" title="Onychopterellidae">Onychopterelloidea</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Onychopterellidae" title="Onychopterellidae">Onychopterellidae</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4ecc9;text-align:center;"><a href="/wiki/Moselopteridae" title="Moselopteridae">Moselopteroidea</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Moselopteridae" title="Moselopteridae">Moselopteridae</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4ecc9;text-align:center;"><a href="/wiki/Eurypteroidea" title="Eurypteroidea">Eurypteroidea</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dolichopteridae" title="Dolichopteridae">Dolichopteridae</a></li>
+<li><a href="/wiki/Eurypteridae" title="Eurypteridae">Eurypteridae</a></li>
+<li><a href="/wiki/Strobilopteridae" title="Strobilopteridae">Strobilopteridae</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4ecc9;text-align:center;">Infraorder<br/><a href="/wiki/Diploperculata" title="Diploperculata">Diploperculata</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4ecc9;text-align:center;"><a href="/wiki/Carcinosomatoidea" title="Carcinosomatoidea">Carcinosomatoidea</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carcinosomatidae" title="Carcinosomatidae">Carcinosomatidae</a></li>
+<li><a href="/wiki/Megalograptidae" title="Megalograptidae">Megalograptidae</a></li>
+<li><a href="/wiki/Mixopteridae" title="Mixopteridae">Mixopteridae</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4ecc9;text-align:center;"><a href="/wiki/Waeringopteridae" title="Waeringopteridae">Waeringopteroidea</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Waeringopteridae" title="Waeringopteridae">Waeringopteridae</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4ecc9;text-align:center;"><a href="/wiki/Adelophthalmidae" title="Adelophthalmidae">Adelophthalmoidea</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adelophthalmidae" title="Adelophthalmidae">Adelophthalmidae</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#f4ecc9;text-align:center;"><a href="/wiki/Pterygotioidea" title="Pterygotioidea">Pterygotioidea</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hughmilleriidae" title="Hughmilleriidae">Hughmilleriidae</a></li>
+<li><a href="/wiki/Slimonidae" title="Slimonidae">Slimonidae</a></li>
+<li><a href="/wiki/Pterygotidae" title="Pterygotidae">Pterygotidae</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Adelophthalmus_irinae.png" title="Adelophthalmus"><img alt="Adelophthalmus" data-file-height="2683" data-file-width="2042" decoding="async" height="230" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adelophthalmus_irinae.png/175px-Adelophthalmus_irinae.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adelophthalmus_irinae.png/263px-Adelophthalmus_irinae.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adelophthalmus_irinae.png/350px-Adelophthalmus_irinae.png 2x" width="175"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="background:#d8d8c1;;width:1%"><a href="/wiki/Category:Eurypterids_by_period" title="Category:Eurypterids by period">Geochronology</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Category:Ordovician_eurypterids" title="Category:Ordovician eurypterids">Ordovician</a></li>
+<li><a href="/wiki/Category:Silurian_eurypterids" title="Category:Silurian eurypterids">Silurian</a></li>
+<li><a href="/wiki/Category:Devonian_eurypterids" title="Category:Devonian eurypterids">Devonian</a></li>
+<li><a href="/wiki/Category:Carboniferous_eurypterids" title="Category:Carboniferous eurypterids">Carboniferous</a></li>
+<li><a href="/wiki/Category:Permian_eurypterids" title="Category:Permian eurypterids">Permian</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background:#d8d8c1;;width:1%"><a href="/wiki/Category:Eurypterids_by_continent" title="Category:Eurypterids by continent">Geography</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Category:Eurypterids_of_Africa" title="Category:Eurypterids of Africa">Africa</a></li>
+<li><a href="/wiki/Category:Eurypterids_of_Asia" title="Category:Eurypterids of Asia">Asia</a></li>
+<li><a href="/wiki/Category:Eurypterids_of_Europe" title="Category:Eurypterids of Europe">Europe</a></li>
+<li><a href="/wiki/Category:Eurypterids_of_North_America" title="Category:Eurypterids of North America">North America</a></li>
+<li><a href="/wiki/Category:Eurypterids_of_Oceania" title="Category:Eurypterids of Oceania">Oceania</a></li>
+<li><a href="/wiki/Category:Eurypterids_of_South_America" title="Category:Eurypterids of South America">South America</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background:#d8d8c1;;width:1%">Notable genera</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Adelophthalmus" title="Adelophthalmus">Adelophthalmus</a></i></li>
+<li><i><a href="/wiki/Brachyopterus" title="Brachyopterus">Brachyopterus</a></i></li>
+<li><i><a href="/wiki/Campylocephalus" title="Campylocephalus">Campylocephalus</a></i></li>
+<li><i><a href="/wiki/Carcinosoma" title="Carcinosoma">Carcinosoma</a></i></li>
+<li><i><a href="/wiki/Drepanopterus" title="Drepanopterus">Drepanopterus</a></i></li>
+<li><i><a href="/wiki/Eurypterus" title="Eurypterus">Eurypterus</a></i></li>
+<li><i><a href="/wiki/Hibbertopterus" title="Hibbertopterus">Hibbertopterus</a></i></li>
+<li><i><a href="/wiki/Hughmilleria" title="Hughmilleria">Hughmilleria</a></i></li>
+<li><i><a href="/wiki/Jaekelopterus" title="Jaekelopterus">Jaekelopterus</a></i></li>
+<li><i><a href="/wiki/Megalograptus" title="Megalograptus">Megalograptus</a></i></li>
+<li><i><a href="/wiki/Megarachne" title="Megarachne">Megarachne</a></i></li>
+<li><i><a href="/wiki/Mixopterus" title="Mixopterus">Mixopterus</a></i></li>
+<li><i><a href="/wiki/Onychopterella" title="Onychopterella">Onychopterella</a></i></li>
+<li><i><a href="/wiki/Pentecopterus" title="Pentecopterus">Pentecopterus</a></i></li>
+<li><i><a href="/wiki/Pterygotus" title="Pterygotus">Pterygotus</a></i></li>
+<li><i><a href="/wiki/Slimonia" title="Slimonia">Slimonia</a></i></li>
+<li><i><a href="/wiki/Stylonurus" title="Stylonurus">Stylonurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background:#d8d8c1;;width:1%"><a class="mw-redirect" href="/wiki/Ichnogenera" title="Ichnogenera">Ichnogenera</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Arcuites" title="Arcuites">Arcuites</a></i></li>
+<li><i><a href="/wiki/Merostomichnites" title="Merostomichnites">Merostomichnites</a></i></li>
+<li><i><a href="/wiki/Palmichnium" title="Palmichnium">Palmichnium</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background:#d8d8c1;;width:1%">Related groups</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Arachnida" title="Arachnida">Arachnida</a></li>
+<li><a class="mw-redirect" href="/wiki/Chasmataspidida" title="Chasmataspidida">Chasmataspidida</a></li>
+<li><a href="/wiki/Xiphosura" title="Xiphosura">Xiphosura</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background:#d8d8c1;;width:1%">Related articles</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Metastoma" title="Metastoma">Metastoma</a></li>
+<li><a href="/wiki/Timeline_of_eurypterid_research" title="Timeline of eurypterid research">Timeline of eurypterid research</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="background:#d8d8c1;"><div><img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Eurypterida" title="Category:Eurypterida">Category</a></div></td></tr></tbody></table></div>
+<div aria-labelledby="Taxon_identifiers" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Taxon_identifiers" scope="row" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a class="extiw" href="https://www.wikidata.org/wiki/Q1645821" title="wikidata:Q1645821">Q1645821</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a class="extiw" href="https://species.wikimedia.org/wiki/Rhenopteridae" title="wikispecies:Rhenopteridae">Rhenopteridae</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>: <span class="uid"><a class="external text" href="https://eol.org/pages/9056484" rel="nofollow">9056484</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a class="external text" href="https://www.gbif.org/species/4632857" rel="nofollow">4632857</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a class="external text" href="http://www.irmng.org/aphia.php?p=taxdetails&amp;id=100958" rel="nofollow">100958</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20191130212107
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.732 seconds
+Real time usage: 0.986 seconds
+Preprocessor visited node count: 14363/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 122020/2097152 bytes
+Template argument size: 23887/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8766/5000000 bytes
+Number of Wikibase entities loaded: 6/400
+Lua time usage: 0.481/10.000 seconds
+Lua memory usage: 3.56 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  904.159      1 -total
+ 66.35%  599.937      1 Template:Automatic_taxobox
+ 19.68%  177.967      1 Template:Fossil_range
+ 18.35%  165.914      1 Template:Phanerozoic_220px
+ 17.40%  157.368      2 Template:Cite_journal
+ 13.57%  122.678     11 Template:Fossil_range/bar
+ 13.15%  118.916     34 Template:Period_start
+ 13.08%  118.274     35 Template:Period_id
+ 10.01%   90.530     35 Template:MultiReplace
+  8.41%   76.056      1 Template:Taxonbar
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25304476-0!canonical and timestamp 20191130212106 and revision id 895521857
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Rhenopteridae&amp;oldid=895521857">https://en.wikipedia.org/w/index.php?title=Rhenopteridae&amp;oldid=895521857</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Rhenopteroidea" title="Category:Rhenopteroidea">Rhenopteroidea</a></li><li><a href="/wiki/Category:Early_Devonian_extinctions" title="Category:Early Devonian extinctions">Early Devonian extinctions</a></li><li><a href="/wiki/Category:Middle_Ordovician_first_appearances" title="Category:Middle Ordovician first appearances">Middle Ordovician first appearances</a></li><li><a href="/wiki/Category:Prehistoric_arthropod_families" title="Category:Prehistoric arthropod families">Prehistoric arthropod families</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rhenopteridae" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Rhenopteridae" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Rhenopteridae" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Rhenopteridae" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Rhenopteridae">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Rhenopteridae&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Rhenopteridae&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Rhenopteridae" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Rhenopteridae" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Rhenopteridae&amp;oldid=895521857" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Rhenopteridae&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1645821" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Rhenopteridae&amp;id=895521857" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Rhenopteridae" hreflang="en">Wikispecies</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Rhenopteridae">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Rhenopteridae&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Rhenopteridae&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Rhenopteridae" hreflang="de" lang="de" title="Rhenopteridae – German">Deutsch</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1645821#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 4 May 2019, at 20:59<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Rhenopteridae&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.732","walltime":"0.986","ppvisitednodes":{"value":14363,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":122020,"limit":2097152},"templateargumentsize":{"value":23887,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8766,"limit":5000000},"entityaccesscount":{"value":6,"limit":400},"timingprofile":["100.00%  904.159      1 -total"," 66.35%  599.937      1 Template:Automatic_taxobox"," 19.68%  177.967      1 Template:Fossil_range"," 18.35%  165.914      1 Template:Phanerozoic_220px"," 17.40%  157.368      2 Template:Cite_journal"," 13.57%  122.678     11 Template:Fossil_range/bar"," 13.15%  118.916     34 Template:Period_start"," 13.08%  118.274     35 Template:Period_id"," 10.01%   90.530     35 Template:MultiReplace","  8.41%   76.056      1 Template:Taxonbar"]},"scribunto":{"limitreport-timeusage":{"value":"0.481","limit":"10.000"},"limitreport-memusage":{"value":3730044,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20191130212107","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Rhenopteridae","url":"https:\/\/en.wikipedia.org\/wiki\/Rhenopteridae","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1645821","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1645821","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-12-04T05:22:04Z","dateModified":"2019-05-04T20:59:54Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/59\/Kiaeropterus_no_background.png"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":126,"wgHostname":"mw1239"});});</script>
+
+
+</body></html>

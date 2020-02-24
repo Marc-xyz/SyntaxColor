@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Lake Saginaw - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XftW5ApAAD4AAHFJ-RkAAADB","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Lake_Saginaw","wgTitle":"Lake Saginaw","wgCurRevisionId":908339815,"wgRevisionId":908339815,"wgArticleId":42932830,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Former lakes","Proglacial lakes","Glacial lakes of the United States","Geology of Michigan","Saginaw Bay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName"
+:"Lake_Saginaw","wgRelevantArticleId":42932830,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":43.916666666666664,"lon":-83.58333333333333},"wgWikibaseItemId":"Q18154202","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":
+"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lake_Saginaw" rel="alternate"/>
+<link href="/w/index.php?title=Lake_Saginaw&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Lake_Saginaw&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Lake_Saginaw" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Lake_Saginaw rootpage-Lake_Saginaw skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Lake Saginaw</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Lake_Saginaw&amp;params=43_55_N_83_35_W_scale:500000"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43°55′N</span> <span class="longitude">83°35′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.917°N 83.583°W</span><span style="display:none">﻿ / <span class="geo">43.917; -83.583</span></span></span></a></span></span></span>
+</p><p><b>Lake Saginaw</b> occupied the basin of <a href="/wiki/Saginaw_Bay" title="Saginaw Bay">Saginaw Bay</a>.  There were two periods when it was an independent lake, not associated with a larger body of water in the <a href="/wiki/Lake_Huron" title="Lake Huron">Huron basin</a>. The first Lake Saginaw was a contemporary of the last stages of <a href="/wiki/Lake_Maumee" title="Lake Maumee">Lake Maumee</a>. When the ice border opened allowing these two lakes to become one, it entered the period of <a href="/wiki/Lake_Arkona" title="Lake Arkona">Lake Arkona</a>. Then, the ice advanced, closing the link forming the second Lake Saginaw.  This was during the time of <a href="/wiki/Lake_Whittlesey" title="Lake Whittlesey">Lake Whittlesey</a>.  When the ice margin retreated northward for the last time, it became  the western bay of <a href="/wiki/Lake_Wayne" title="Lake Wayne">Lake Wayne</a> and then of <a href="/wiki/Lake_Warren" title="Lake Warren">Lake Warren</a> and <a class="new" href="/w/index.php?title=Lake_Lundy&amp;action=edit&amp;redlink=1" title="Lake Lundy (page does not exist)">Lake Lundy</a>.<sup class="reference" id="cite_ref-Leverett1915-53_1-0"><a href="#cite_note-Leverett1915-53-1">[1]</a></sup> During its periods as an independent lake, its outlet was west through <a href="/wiki/Grand_River_(Michigan)" title="Grand River (Michigan)">Grand River</a> channel.<sup class="reference" id="cite_ref-Leverett1915-53_1-1"><a href="#cite_note-Leverett1915-53-1">[1]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#First_Lake_Saginaw"><span class="tocnumber">1</span> <span class="toctext">First Lake Saginaw</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Lakes_Saginaw_and_Arkona"><span class="tocnumber">1.1</span> <span class="toctext">Lakes Saginaw and Arkona</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Second_Lake_Saginaw"><span class="tocnumber">2</span> <span class="toctext">Second Lake Saginaw</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Lakes_Saginaw_and_Wayne"><span class="tocnumber">2.1</span> <span class="toctext">Lakes Saginaw and Wayne</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Lakes_Saginaw_and_Warren"><span class="tocnumber">2.2</span> <span class="toctext">Lakes Saginaw and Warren</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Lakes_Saginaw_and_Lundy_(Lake_Dana_&amp;_Lake_Elkton)"><span class="tocnumber">2.3</span> <span class="toctext">Lakes Saginaw and Lundy (Lake Dana &amp; Lake Elkton)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Grand_River_Channel"><span class="tocnumber">3</span> <span class="toctext">Grand River Channel</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="First_Lake_Saginaw">First Lake Saginaw</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_Saginaw&amp;action=edit&amp;section=1" title="Edit section: First Lake Saginaw">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Plate_16_-_Glacial_lakes_Whittlesey,_Sagniaw_and_Chicago.JPG"><img alt="" class="thumbimage" data-file-height="816" data-file-width="1052" decoding="async" height="171" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Plate_16_-_Glacial_lakes_Whittlesey%2C_Sagniaw_and_Chicago.JPG/220px-Plate_16_-_Glacial_lakes_Whittlesey%2C_Sagniaw_and_Chicago.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Plate_16_-_Glacial_lakes_Whittlesey%2C_Sagniaw_and_Chicago.JPG/330px-Plate_16_-_Glacial_lakes_Whittlesey%2C_Sagniaw_and_Chicago.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Plate_16_-_Glacial_lakes_Whittlesey%2C_Sagniaw_and_Chicago.JPG/440px-Plate_16_-_Glacial_lakes_Whittlesey%2C_Sagniaw_and_Chicago.JPG 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Plate_16_-_Glacial_lakes_Whittlesey,_Sagniaw_and_Chicago.JPG" title="Enlarge"></a></div>First Lake Saginaw - Map of Glacial lakes Whittlesey, Sagniaw and Chicago, based on the USGS Report of 1915</div></div></div><p>Lake Saginaw began after the building of the Flint moraine and the creation of the Imlay channel (from Flint to Maple Rapids) from glacial runoff.<sup class="reference" id="cite_ref-Leverett1915-53_1-2"><a href="#cite_note-Leverett1915-53-1">[1]</a></sup> When the ice sheet had retreated into the Saginaw basin, exposing land, water began to accumulate and the First Lake Saginaw was formed.<sup class="reference" id="cite_ref-Leverett19119-7_2-0"><a href="#cite_note-Leverett19119-7-2">[2]</a></sup>
+</p><p>The outlet of the lake was through <a href="/wiki/Grand_River_(Michigan)" title="Grand River (Michigan)">Grand River</a> to <a href="/wiki/Lake_Chicago" title="Lake Chicago">Lake Chicago</a>, which as served the run-off from the glacier. Well-defined beaches surround the outlet at an altitude 700 feet (210 m) above sea level,<sup class="reference" id="cite_ref-Leverett19119-7_2-1"><a href="#cite_note-Leverett19119-7-2">[2]</a></sup>  To the north and west, they are higher because of isostatic rebound once the glaciers weight had been removed. The bed of the lake is nearly equally divided between a sandy and a clayey soil. Sand due to lake waves and currents is restricted to the border of the lake, while glacial outwash may be present where there was a considerable depth of water,<sup class="reference" id="cite_ref-Leverett19119-7_2-2"><a href="#cite_note-Leverett19119-7-2">[2]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Lakes_Saginaw_and_Arkona">Lakes Saginaw and Arkona</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_Saginaw&amp;action=edit&amp;section=2" title="Edit section: Lakes Saginaw and Arkona">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When the ice barrier withdrew from the "thumb," a strait was opened across its northern low part and the waters on both sides merged at one level, making Lake Arkona and adding to it the area of Lake Saginaw. In this change Lake Saginaw, with its undisturbed outlet, became the controlling factor. The new lake became merely a greatly enlarged Lake Saginaw, using the same outlet and retaining the same shorelines. The <a href="/wiki/Lake_Arkona" title="Lake Arkona">Arkona</a> beaches began to be formed.  The first one merged with the existing second beach of Lake Saginaw to form a single shore.,<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> thus the second Saginaw beach merged into the first beach of Lake Arkona.<sup class="reference" id="cite_ref-Leverett1915-53_1-3"><a href="#cite_note-Leverett1915-53-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Second_Lake_Saginaw">Second Lake Saginaw</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_Saginaw&amp;action=edit&amp;section=3" title="Edit section: Second Lake Saginaw">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Plate_53_-_Glacial_Lakes_Duluth,_Chicago,_and_Lundy_(USGS_1915).JPG"><img alt="" class="thumbimage" data-file-height="850" data-file-width="1094" decoding="async" height="171" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Plate_53_-_Glacial_Lakes_Duluth%2C_Chicago%2C_and_Lundy_%28USGS_1915%29.JPG/220px-Plate_53_-_Glacial_Lakes_Duluth%2C_Chicago%2C_and_Lundy_%28USGS_1915%29.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Plate_53_-_Glacial_Lakes_Duluth%2C_Chicago%2C_and_Lundy_%28USGS_1915%29.JPG/330px-Plate_53_-_Glacial_Lakes_Duluth%2C_Chicago%2C_and_Lundy_%28USGS_1915%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Plate_53_-_Glacial_Lakes_Duluth%2C_Chicago%2C_and_Lundy_%28USGS_1915%29.JPG/440px-Plate_53_-_Glacial_Lakes_Duluth%2C_Chicago%2C_and_Lundy_%28USGS_1915%29.JPG 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Plate_53_-_Glacial_Lakes_Duluth,_Chicago,_and_Lundy_(USGS_1915).JPG" title="Enlarge"></a></div>Second Lake Saginaw - Map of Glacial Lakes Duluth, Chicago, and Lundy (USGS 1915)</div></div></div><p>The ice front advanced from its position as the barrier of Lake Arkona it closed the strait around the "thumb" and raised the waters east of it about 44 feet, thus inaugurating Lake Whittlesey. The change, however, caused no notable alteration in the discharge from Lake Saginaw, because from its beginning to the time of Lake Arkona Lake Maumee discharged into it, and after Lake Arkona ceased Lake Whittlesey discharged into it. Hence, the volume of water passing out of Lake Saginaw was not affected by the changes. During the time of Lake Whittlesey, therefore, Lake Saginaw had a second period of independent existence with its area almost at a maximum. It seems certain that the lower Arkona ridge of the Saginaw basin was made chiefly by the waves of Lake Arkona, and it seems equally sure that during the time of Lake Whittlesey the waves of Lake Saginaw beat upon this same beach, although nothing clearly establishing this relation has been observed. In the absence of positive evidence one way or the other, these inferences seem natural and necessary.<sup class="reference" id="cite_ref-Leverett1915-53_1-4"><a href="#cite_note-Leverett1915-53-1">[1]</a></sup>
+</p><p>The Later Lake Saginaw extended about to the limits of the First Lake Saginaw on the west and south, for its outlet was through the same channel, along Grand River to Lake Chicago, and at but a few feet lower level. The limits on the northeast or ice-ward side were at the Port Huron moraine, and are thus more definitely fixed than the limits of the Earlier Lake Saginaw. The lake extended up the Cass river valley about to Cass City and up the <a href="/wiki/Tittabawassee_River" title="Tittabawassee River">Tittabawassee valley</a> at least to northeastern Gladwin and possibly into southeastern Ogemaw county.<sup class="reference" id="cite_ref-Leverett19119-7_2-3"><a href="#cite_note-Leverett19119-7-2">[2]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Lakes_Saginaw_and_Wayne">Lakes Saginaw and Wayne</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_Saginaw&amp;action=edit&amp;section=4" title="Edit section: Lakes Saginaw and Wayne">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When the waters fell from Lake Whittlesey they were lowered about 80 feet, not to the Warren beach, as one might suppose, but to the Wayne beach and perhaps later to a lower level.<sup class="reference" id="cite_ref-Leverett1915-53_1-5"><a href="#cite_note-Leverett1915-53-1">[1]</a></sup> The Wayne beach lies about 20 feet below the Warren and shows modification bj^ submergence after it was made, in this respect resembling the Arkona beaches. There is much reason for thinking that this lake fell to still lower levels before its end. No proof of this has been found, but its outlet was near Syracuse, N. Y., where the situation favored large changes of lake level with relatively small oscillations of the ice front. While Lake Saginaw formed a part of Lake Wayne it abandoned the Grand River channel, its water standing a little below the head of that outlet.<sup class="reference" id="cite_ref-Leverett1915-53_1-6"><a href="#cite_note-Leverett1915-53-1">[1]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Lakes_Saginaw_and_Warren">Lakes Saginaw and Warren</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_Saginaw&amp;action=edit&amp;section=5" title="Edit section: Lakes Saginaw and Warren">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When the ice barrier advanced into <a href="/wiki/Lake_Wayne" title="Lake Wayne">Lake Wayne</a>, the water rose to the level of the <a href="/wiki/Lake_Warren" title="Lake Warren">Warren beach</a>.  Once again the <a href="/wiki/Grand_River_(Michigan)" title="Grand River (Michigan)">Grand River</a> became the outlet. <a href="/wiki/Lake_Warren" title="Lake Warren">Lake Warren</a> has been the name given to this state, with shorelines 25 feet (7.6 m) or 30 feet (9.1 m) lower than the Arkona ridges.<sup class="reference" id="cite_ref-Leverett1915-53_1-7"><a href="#cite_note-Leverett1915-53-1">[1]</a></sup>
+</p>
+<h3><span id="Lakes_Saginaw_and_Lundy_.28Lake_Dana_.26_Lake_Elkton.29"></span><span class="mw-headline" id="Lakes_Saginaw_and_Lundy_(Lake_Dana_&amp;_Lake_Elkton)">Lakes Saginaw and Lundy (Lake Dana &amp; Lake Elkton)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_Saginaw&amp;action=edit&amp;section=6" title="Edit section: Lakes Saginaw and Lundy (Lake Dana &amp; Lake Elkton)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a class="new" href="/w/index.php?title=Lake_Lundy&amp;action=edit&amp;redlink=1" title="Lake Lundy (page does not exist)">Lake Lundy</a> followed Lake Warren when a new outlet to the east opened in the <a href="/wiki/Mohawk_River" title="Mohawk River">Mohawk River</a> Valley.  The Grand River outlet was again abandoned for the final time. Lake Saginaw had ended with the onset of the Lake Warren stage.  But the opening of a lower outlet along the Mohawk, ended the chance for another independent lake to arise in Saginaw Bay.<sup class="reference" id="cite_ref-Leverett1915-53_1-8"><a href="#cite_note-Leverett1915-53-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Grand_River_Channel">Grand River Channel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_Saginaw&amp;action=edit&amp;section=7" title="Edit section: Grand River Channel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Grand_River_(Michigan)" title="Grand River (Michigan)">Grand River</a> channel was in use a much longer time than any other channel in <a href="/wiki/Michigan" title="Michigan">Michigan</a>. It began to carry the lake waters when the outlet of <a href="/wiki/Lake_Maumee" title="Lake Maumee">Lake Maumee</a> first opened near <a class="new" href="/w/index.php?title=Imlay,_Michigan&amp;action=edit&amp;redlink=1" title="Imlay, Michigan (page does not exist)">Imlay</a>, before the beginning of Lake Saginaw. Later it received the discharge from Lake Maumee through the first Lake Saginaw. Next it received the overflow of the merged <a href="/wiki/Lake_Arkona" title="Lake Arkona">Lakes Arkona</a> and Saginaw. Later it received the waters of <a href="/wiki/Lake_Whittlesey" title="Lake Whittlesey">Lake Whittlesey</a> and Saginaw. Only when the ice retreated from the Port Huron morainic system and Lake Saginaw merged again eastward and became part of <a href="/wiki/Lake_Wayne" title="Lake Wayne">Lake Wayne</a> was the Grand River channel temporarily abandoned. Through all previous changes, apparently without break or intermission from the first opening of the Imlay outlet, it had carried the overflow. Later the ice advanced, closing the eastern outlet past Syracuse creating Lake Warren, which discharged through the Grand River channel. The Warren beaches lie 20 feet (6.1 m) or 25 feet (7.6 m) above the broad, swampy, dune-covered divide at the head of the channel north of <a class="mw-redirect" href="/wiki/Bannister,_Michigan" title="Bannister, Michigan">Bannister</a>.<sup class="reference" id="cite_ref-Leverett1915-53_1-9"><a href="#cite_note-Leverett1915-53-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_Saginaw&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Lake_Chicago" title="Lake Chicago">Lake Chicago</a></li>
+<li><a href="/wiki/Lake_Arkona" title="Lake Arkona">Lake Arkona</a></li>
+<li><a href="/wiki/Lake_Whittlesey" title="Lake Whittlesey">Lake Whittlesey</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_Saginaw&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Leverett1915-53-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Leverett1915-53_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Leverett1915-53_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Leverett1915-53_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Leverett1915-53_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Leverett1915-53_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Leverett1915-53_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Leverett1915-53_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Leverett1915-53_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Leverett1915-53_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Leverett1915-53_1-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text">Chapter XV, Glacial Lake Saginaw; Frank B. Taylor; The Pleistocene of Indiana and Michigan, History of the Great Lakes;  Monographs of the United States Geological Survey, Vol LIII; Frank Leverett and Frank B. Taylor; Washington, D.C,; Government Printing Office; 1915</span>
+</li>
+<li id="cite_note-Leverett19119-7-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Leverett19119-7_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Leverett19119-7_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Leverett19119-7_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Leverett19119-7_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Publication 9. Geological Series 7; Surface Geology and Agricultural Conditions of the Southern Peninsula of Michigan; Frank Leverett with a Chapter on Climate by C. F. Schneider; Michigan Geological and Biological Survey Lansing Michigan; 1911</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Michigan: Bull. Geo. Soc. America, vol. 8, 1896, pp. 53-54.</span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Pleistocene_proglacial_lakes_and_related_seas" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Pleistocene_Lakes_and_Seas" title="Template:Pleistocene Lakes and Seas"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Pleistocene_Lakes_and_Seas" title="Template talk:Pleistocene Lakes and Seas"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Pleistocene_Lakes_and_Seas&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Pleistocene_proglacial_lakes_and_related_seas" style="font-size:114%;margin:0 4em">Pleistocene <a href="/wiki/Proglacial_lake" title="Proglacial lake">proglacial lakes</a> and related seas</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Africa</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lake_Makgadikgadi" title="Lake Makgadikgadi">Lake Makgadikgadi</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Asia</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/West_Siberian_Glacial_Lake" title="West Siberian Glacial Lake">West Siberian Glacial Lake</a></li>
+<li><a href="/wiki/Lake_Tengger" title="Lake Tengger">Lake Tengger</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Europe</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ancylus_Lake" title="Ancylus Lake">Ancylus Lake</a></li>
+<li><a href="/wiki/Baltic_Ice_Lake" title="Baltic Ice Lake">Baltic Ice Lake</a></li>
+<li><a href="/wiki/Lake_Harrison" title="Lake Harrison">Lake Harrison</a></li>
+<li><a href="/wiki/Lake_Komi" title="Lake Komi">Lake Komi</a></li>
+<li><a href="/wiki/Lake_Lapworth" title="Lake Lapworth">Lake Lapworth</a></li>
+<li><a href="/wiki/Lake_Pickering" title="Lake Pickering">Lake Pickering</a></li>
+<li><a href="/wiki/Littorina_Sea" title="Littorina Sea">Littorina Sea</a></li>
+<li><a href="/wiki/Mastogloia_Sea" title="Mastogloia Sea">Mastogloia Sea</a></li>
+<li><a href="/wiki/Yoldia_Sea" title="Yoldia Sea">Yoldia Sea</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">North America</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Nelson_River" title="Nelson River">Nelson River</a> drainage</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Proglacial_lakes_of_Minnesota" title="Proglacial lakes of Minnesota">Proglacial lakes of Minnesota</a></li>
+<li><a href="/wiki/Lake_Agassiz" title="Lake Agassiz">Lake Agassiz</a></li>
+<li><a class="mw-redirect" href="/wiki/Glacial_Lake_Bassano" title="Glacial Lake Bassano">Lake Bassano</a></li>
+<li><a href="/wiki/Lake_Souris" title="Lake Souris">Lake Souris</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/James_Bay" title="James Bay">James Bay</a> drainage</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Glacial_Lake_Ojibway" title="Glacial Lake Ojibway">Lake Ojibway</a></li>
+<li><a href="/wiki/Tyrrell_Sea" title="Tyrrell Sea">Tyrrell Sea</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Great_Lakes" title="Great Lakes">Great Lakes</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lake_Admiralty" title="Lake Admiralty">Lake Admiralty</a></li>
+<li><a href="/wiki/Lake_Algonquin" title="Lake Algonquin">Lake Algonquin</a> (Multiple basins)</li>
+<li><a href="/wiki/Lake_Arkona" title="Lake Arkona">Lake Arkona</a></li>
+<li><a href="/wiki/Lake_Chicago" title="Lake Chicago">Lake Chicago</a></li>
+<li><a href="/wiki/Lake_Chippewa" title="Lake Chippewa">Lake Chippewa</a></li>
+<li><a href="/wiki/Lake_Duluth" title="Lake Duluth">Lake Duluth</a></li>
+<li><a href="/wiki/Early_Lake_Erie" title="Early Lake Erie">Early Lake Erie</a></li>
+<li><a href="/wiki/Lake_Frontenac" title="Lake Frontenac">Lake Frontenac</a></li>
+<li><a class="new" href="/w/index.php?title=Lake_Houghton_(glacial)&amp;action=edit&amp;redlink=1" title="Lake Houghton (glacial) (page does not exist)">Lake Houghton (glacial)</a></li>
+<li><a href="/wiki/Glacial_Lake_Iroquois" title="Glacial Lake Iroquois">Glacial Lake Iroquois</a></li>
+<li><a class="new" href="/w/index.php?title=Lake_Lundy&amp;action=edit&amp;redlink=1" title="Lake Lundy (page does not exist)">Lake Lundy</a></li>
+<li><a class="mw-redirect" href="/wiki/Lake_Dana" title="Lake Dana">Lake Dana</a></li>
+<li><a href="/wiki/Mackinac_Falls" title="Mackinac Falls">Mackinac Falls</a></li>
+<li><a href="/wiki/Lake_Maumee" title="Lake Maumee">Lake Maumee</a></li>
+<li><a href="/wiki/Lake_Minong" title="Lake Minong">Lake Minong</a></li>
+<li><a href="/wiki/Nipissing_Great_Lakes" title="Nipissing Great Lakes">Nipissing Great Lakes</a> (Multiple basins)</li>
+<li><a class="new" href="/w/index.php?title=Early_Lake_Ontario&amp;action=edit&amp;redlink=1" title="Early Lake Ontario (page does not exist)">Early Lake Ontario</a></li>
+<li><a class="mw-selflink selflink">Lake Saginaw</a></li>
+<li><a class="new" href="/w/index.php?title=Lake_Stanley&amp;action=edit&amp;redlink=1" title="Lake Stanley (page does not exist)">Lake Stanley</a></li>
+<li><a href="/wiki/Lake_Tonawanda" title="Lake Tonawanda">Lake Tonawanda</a></li>
+<li><a href="/wiki/Lake_Warren" title="Lake Warren">Lake Warren</a></li>
+<li><a href="/wiki/Lake_Wayne" title="Lake Wayne">Lake Wayne</a></li>
+<li><a href="/wiki/Lake_Whittlesey" title="Lake Whittlesey">Lake Whittlesey</a></li>
+<li><a href="/wiki/Champlain_Sea" title="Champlain Sea">Champlain Sea</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Columbia_River" title="Columbia River">Columbia River</a> system</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lake_Bonneville" title="Lake Bonneville">Lake Bonneville</a></li>
+<li><a href="/wiki/Glacial_Lake_Columbia" title="Glacial Lake Columbia">Glacial Lake Columbia</a></li>
+<li><a href="/wiki/Lake_Lahontan" title="Lake Lahontan">Lake Lahontan</a></li>
+<li><a href="/wiki/Lake_Missoula" title="Lake Missoula">Lake Missoula</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Puget_Sound" title="Puget Sound">Puget Sound</a> system</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Glacial_Lake_Russell" title="Glacial Lake Russell">Glacial Lake Russell</a></li>
+<li><a href="/wiki/Lake_Skokomish" title="Lake Skokomish">Glacial Lake Hood</a></li>
+<li><a href="/wiki/Lake_Nisqually" title="Lake Nisqually">Lake Nisqually</a></li>
+<li><a href="/wiki/Lake_Puyallup" title="Lake Puyallup">Lake Puyallup</a></li>
+<li><a class="new" href="/w/index.php?title=Glacial_Lake_Sammamish&amp;action=edit&amp;redlink=1" title="Glacial Lake Sammamish (page does not exist)">Glacial Lake Sammamish</a></li>
+<li><a href="/wiki/Lake_Skokomish" title="Lake Skokomish">Lake Skokomish</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10em">Upper <a href="/wiki/Missouri_River" title="Missouri River">Missouri River</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lake_Cut_Bank" title="Lake Cut Bank">Lake Cut Bank</a></li>
+<li><a href="/wiki/Lake_Chouteau" title="Lake Chouteau">Lake Chouteau</a></li>
+<li><a href="/wiki/Lake_Great_Falls" title="Lake Great Falls">Lake Great Falls</a></li>
+<li><a href="/wiki/Lake_Circle" title="Lake Circle">Lake Circle</a></li>
+<li><a href="/wiki/Lake_Jordan_(Montana)" title="Lake Jordan (Montana)">Lake Jordan (Montana)</a></li>
+<li><a href="/wiki/Lake_Musselshell" title="Lake Musselshell">Lake Musselshell</a></li>
+<li><a href="/wiki/Lake_Glendive" title="Lake Glendive">Lake Glendive</a></li>
+<li><a href="/wiki/Glacial_Lake_McKenzie" title="Glacial Lake McKenzie">Lake McKenzie</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10em">Upper <a href="/wiki/Mississippi_River" title="Mississippi River">Mississippi</a> drainage</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lake_Kankakee" title="Lake Kankakee">Lake Kankakee</a></li>
+<li><a href="/wiki/Kankakee_Outwash_Plain" title="Kankakee Outwash Plain">Kankakee Outwash Plain</a></li>
+<li><a href="/wiki/Glacial_Lake_Wisconsin" title="Glacial Lake Wisconsin">Lake Wisconsin</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Ohio_River" title="Ohio River">Ohio</a> drainage</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lake_Monongahela" title="Lake Monongahela">Lake Monongahela</a></li>
+<li><a href="/wiki/Lake_Tight" title="Lake Tight">Lake Tight</a></li>
+<li><a href="/wiki/Teays_River" title="Teays River">Teays River</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Hudson_River" title="Hudson River">Hudson</a> valley</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lake_Albany" title="Lake Albany">Lake Albany</a></li>
+<li><a href="/wiki/Lake_Passaic" title="Lake Passaic">Lake Passaic</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10em">New England</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Glacial_Lake_Cape_Cod" title="Glacial Lake Cape Cod">Lake Cape Cod</a></li>
+<li><a href="/wiki/Lake_Connecticut" title="Lake Connecticut">Lake Connecticut</a></li>
+<li><a href="/wiki/Lake_Hitchcock" title="Lake Hitchcock">Lake Hitchcock</a></li>
+<li><a href="/wiki/Lake_Merrimack" title="Lake Merrimack">Lake Merrimack</a></li>
+<li><a href="/wiki/Glacial_Lake_Nantucket_Sound" title="Glacial Lake Nantucket Sound">Lake Nantucket Sound</a></li>
+<li><a href="/wiki/Lake_Stowe" title="Lake Stowe">Lake Stowe</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/California" title="California">California</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lake_Cahuilla" title="Lake Cahuilla">Lake Cahuilla</a></li>
+<li><a href="/wiki/Lake_Corcoran" title="Lake Corcoran">Lake Corcoran</a></li>
+<li><a class="mw-redirect" href="/wiki/Lake_Harper" title="Lake Harper">Lake Harper</a></li>
+<li><a href="/wiki/Lake_Manix" title="Lake Manix">Lake Manix</a></li>
+<li><a href="/wiki/Lake_Manly" title="Lake Manly">Lake Manly</a></li>
+<li><a href="/wiki/Lake_Mojave" title="Lake Mojave">Lake Mojave</a></li>
+<li><a href="/wiki/Lake_Panamint" title="Lake Panamint">Lake Panamint</a></li>
+<li><a href="/wiki/Lake_Russell_(prehistoric)" title="Lake Russell (prehistoric)">Lake Russell</a></li>
+<li><a href="/wiki/Lake_Tecopa" title="Lake Tecopa">Lake Tecopa</a></li>
+<li><a href="/wiki/Lake_Thompson_(California)" title="Lake Thompson (California)">Lake Thompson</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/New_Mexico" title="New Mexico">New Mexico</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lake_Palomas" title="Lake Palomas">Lake Palomas</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Alaska" title="Alaska">Alaska</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lake_Atna" title="Lake Atna">Lake Atna</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">South America</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lake_Ballivi%C3%A1n" title="Lake Ballivián">Lake Ballivián</a></li>
+<li><a href="/wiki/Cabana_(ancient_lake)" title="Cabana (ancient lake)">Cabana</a></li>
+<li><a href="/wiki/Lake_Escara" title="Lake Escara">Lake Escara</a></li>
+<li><a href="/wiki/Inca_Huasi_(ancient_lake)" title="Inca Huasi (ancient lake)">Inca Huasi</a></li>
+<li><a href="/wiki/Mataro_(ancient_lake)" title="Mataro (ancient lake)">Mataro</a></li>
+<li><a href="/wiki/Lake_Minchin" title="Lake Minchin">Lake Minchin</a></li>
+<li><a href="/wiki/Ouki" title="Ouki">Ouki</a></li>
+<li><a href="/wiki/Sajsi" title="Sajsi">Sajsi</a></li>
+<li><a href="/wiki/Salinas_(ancient_lake)" title="Salinas (ancient lake)">Salinas</a></li>
+<li><a href="/wiki/Lake_Tauca" title="Lake Tauca">Lake Tauca</a></li>
+<li><a href="/wiki/Great_Tehuelche_Paleolake" title="Great Tehuelche Paleolake">Great Tehuelche Paleolake</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Summary</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_prehistoric_lakes" title="List of prehistoric lakes">List of prehistoric lakes</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1338
+Cached time: 20191204174725
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.160 seconds
+Real time usage: 0.202 seconds
+Preprocessor visited node count: 485/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38327/2097152 bytes
+Template argument size: 76/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3730/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.047/10.000 seconds
+Lua memory usage: 2.65 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  145.774      1 -total
+ 38.26%   55.766      1 Template:Coord
+ 27.40%   39.945      5 Template:Convert
+ 15.26%   22.242      2 Template:Navbox
+ 14.32%   20.882      1 Template:Pleistocene_Lakes_and_Seas
+ 11.41%   16.627      1 Template:Reflist
+  1.98%    2.881      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:42932830-0!canonical and timestamp 20191204174725 and revision id 908339815
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lake_Saginaw&amp;oldid=908339815">https://en.wikipedia.org/w/index.php?title=Lake_Saginaw&amp;oldid=908339815</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Former_lakes" title="Category:Former lakes">Former lakes</a></li><li><a href="/wiki/Category:Proglacial_lakes" title="Category:Proglacial lakes">Proglacial lakes</a></li><li><a href="/wiki/Category:Glacial_lakes_of_the_United_States" title="Category:Glacial lakes of the United States">Glacial lakes of the United States</a></li><li><a href="/wiki/Category:Geology_of_Michigan" title="Category:Geology of Michigan">Geology of Michigan</a></li><li><a href="/wiki/Category:Saginaw_Bay" title="Category:Saginaw Bay">Saginaw Bay</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lake+Saginaw" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Lake+Saginaw" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Lake_Saginaw" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Lake_Saginaw" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Lake_Saginaw">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Lake_Saginaw&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Lake_Saginaw&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Lake_Saginaw" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Lake_Saginaw" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lake_Saginaw&amp;oldid=908339815" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lake_Saginaw&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q18154202" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lake_Saginaw&amp;id=908339815" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lake+Saginaw">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lake+Saginaw&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Lake_Saginaw&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q18154202#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 July 2019, at 03:07<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Lake_Saginaw&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.160","walltime":"0.202","ppvisitednodes":{"value":485,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38327,"limit":2097152},"templateargumentsize":{"value":76,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3730,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  145.774      1 -total"," 38.26%   55.766      1 Template:Coord"," 27.40%   39.945      5 Template:Convert"," 15.26%   22.242      2 Template:Navbox"," 14.32%   20.882      1 Template:Pleistocene_Lakes_and_Seas"," 11.41%   16.627      1 Template:Reflist","  1.98%    2.881      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.047","limit":"10.000"},"limitreport-memusage":{"value":2779656,"limit":52428800}},"cachereport":{"origin":"mw1338","timestamp":"20191204174725","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Lake Saginaw","url":"https:\/\/en.wikipedia.org\/wiki\/Lake_Saginaw","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18154202","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18154202","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2014-06-01T14:35:23Z","dateModified":"2019-07-29T03:07:56Z","headline":"former lake of Michigan now occupied by Q2211837"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1267"});});</script>
+
+
+</body></html>

@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Sirula - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfuAbQpAAEQAABfqtZIAAADE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Sirula","wgTitle":"Sirula","wgCurRevisionId":886184034,"wgRevisionId":886184034,"wgArticleId":54666116,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Coordinates on Wikidata","Articles containing Macedonian-language text","All stub articles","Villages in Ohrid Municipality","Villages in North Macedonia","North Macedonia geography stubs"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Sirula","wgRelevantArticleId":54666116,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":41.23444444444444,"lon":20.844444444444445},"wgWikibaseItemId":"Q3074950","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":
+"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/North_Macedonia_location_map.svg/1200px-North_Macedonia_location_map.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sirula" rel="alternate"/>
+<link href="/w/index.php?title=Sirula&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Sirula&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Sirula" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Sirula rootpage-Sirula skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Sirula</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Village in Ohrid municipality, North Macedonia</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div class="fn org" style="display:inline">Sirula</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category">Village</div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center;font-weight:bold;">Сирула</td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><div class="center"><div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:250px;padding:0"><div style="position:relative;width:250px"><a class="image" href="/wiki/File:North_Macedonia_location_map.svg" title="Sirula is located in Republic of North Macedonia"><img alt="Sirula is located in Republic of North Macedonia" data-file-height="1133" data-file-width="1368" decoding="async" height="207" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/North_Macedonia_location_map.svg/250px-North_Macedonia_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/North_Macedonia_location_map.svg/375px-North_Macedonia_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/North_Macedonia_location_map.svg/500px-North_Macedonia_location_map.svg.png 2x" width="250"/></a><div style="position:absolute;top:70.309%;left:18.774%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Sirula" data-file-height="64" data-file-width="64" decoding="async" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" title="Sirula" width="6"/></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Sirula</div></div></div></div><div>Location within North Macedonia</div></div></div></div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Sirula&amp;params=41_14_04_N_20_50_40_E_region:MK_type:city(10)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">41°14′04″N</span> <span class="longitude">20°50′40″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">41.23444°N 20.84444°E</span><span style="display:none">﻿ / <span class="geo">41.23444; 20.84444</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Sirula&amp;params=41_14_04_N_20_50_40_E_region:MK_type:city(10)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">41°14′04″N</span> <span class="longitude">20°50′40″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">41.23444°N 20.84444°E</span><span style="display:none">﻿ / <span class="geo">41.23444; 20.84444</span></span></span></a></span></span></span></td></tr><tr class="mergedtoprow"><th scope="row">Country</th><td><a href="/wiki/North_Macedonia" title="North Macedonia">North Macedonia</a></td></tr><tr class="mergedrow"><th scope="row"><a class="mw-redirect" href="/wiki/Municipalities_of_the_Republic_of_Macedonia" title="Municipalities of the Republic of Macedonia">Municipality</a></th><td><a class="mw-redirect" href="/wiki/Ohrid_municipality" title="Ohrid municipality">Ohrid municipality</a></td></tr><tr class="mergedrow"><th scope="row">Statistical region</th><td><a href="/wiki/Southwestern_Statistical_Region" title="Southwestern Statistical Region">Southwestern Statistical Region</a></td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population<div style="font-weight:normal;display:inline;"><span class="nowrap"> </span>(2002)</div></th></tr><tr class="mergedrow"><th scope="row"> • Total</th><td>10</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a class="mw-redirect" href="/wiki/UTC%2B1" title="UTC+1">UTC+1</a> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td></tr><tr class="mergedrow"><th scope="row"><span style="white-space:nowrap"> • Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th><td><a class="mw-redirect" href="/wiki/UTC%2B2" title="UTC+2">UTC+2</a> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td></tr><tr class="mergedtoprow"><th scope="row"><a class="mw-redirect" href="/wiki/Car_number_plates_in_the_Republic_of_Macedonia" title="Car number plates in the Republic of Macedonia">Car plates</a></th><td>OH</td></tr><tr class="mergedtoprow"><th scope="row">Website</th><td>.</td></tr></tbody></table>
+<p><b>Sirula</b> (<a href="/wiki/Macedonian_language" title="Macedonian language">Macedonian</a>: <span lang="mk">Сирула</span>) is a <a href="/wiki/Village" title="Village">village</a> in the <a href="/wiki/Municipalities_of_North_Macedonia" title="Municipalities of North Macedonia">municipality</a> of <a href="/wiki/Ohrid_Municipality" title="Ohrid Municipality">Ohrid</a>, <a href="/wiki/North_Macedonia" title="North Macedonia">North Macedonia</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Name"><span class="tocnumber">1</span> <span class="toctext">Name</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Demographics"><span class="tocnumber">2</span> <span class="toctext">Demographics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Name">Name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sirula&amp;action=edit&amp;section=1" title="Edit section: Name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The placename <i>Sirula</i>&lt;<i>Sirulja</i> and the possible suffix <i>-ja</i> stems from the name <i>Sirul</i> of which along with its suffix <i>-ul</i> is  derived from an <a href="/wiki/Aromanian_language" title="Aromanian language">Aromanian</a> foundation alongside <i>sir</i>.<sup class="reference" id="cite_ref-Wlodzimierz96_1-0"><a href="#cite_note-Wlodzimierz96-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sirula&amp;action=edit&amp;section=2" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the 2002 census, the village had a total of 10 inhabitants.<sup class="reference" id="cite_ref-Statisticaloffice_2-0"><a href="#cite_note-Statisticaloffice-2">[2]</a></sup> Ethnic groups in the village include:<sup class="reference" id="cite_ref-Statisticaloffice_2-1"><a href="#cite_note-Statisticaloffice-2">[2]</a></sup>
+</p>
+<ul><li><a href="/wiki/Macedonians_(ethnic_group)" title="Macedonians (ethnic group)">Macedonians</a> 10</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sirula&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Wlodzimierz96-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wlodzimierz96_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book" id="CITEREFWłodzimierz1970">Włodzimierz, Pianka (1970). <a class="external text" href="https://books.google.com/?id=7ELRAAAAMAAJ&amp;dq=%D0%A2%D0%BE%D0%BF%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0%D1%82%D0%B0+%D0%BD%D0%B0+%D0%9E%D1%85%D1%80%D0%B8%D0%B4%D1%81%D0%BA%D0%BE-%D0%9F%D1%80%D0%B5%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B8+%D0%B1%D0%B0%D0%B7%D0%B5%D0%BD&amp;q=%D0%A1%D0%B8%D1%80%D1%83%D0%BB%D0%B0" rel="nofollow"><i>Toponomastikata na Ohridsko-Prespanskiot bazen</i></a>. Institut za makedonski jazik "Krste Misirkov". p. 96.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Toponomastikata+na+Ohridsko-Prespanskiot+bazen&amp;rft.pages=96&amp;rft.pub=Institut+za+makedonski+jazik+%22Krste+Misirkov%22&amp;rft.date=1970&amp;rft.aulast=W%C5%82odzimierz&amp;rft.aufirst=Pianka&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D7ELRAAAAMAAJ%26dq%3D%25D0%25A2%25D0%25BE%25D0%25BF%25D0%25BE%25D0%25BD%25D0%25BE%25D0%25BC%25D0%25B0%25D1%2581%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B0%25D1%2582%25D0%25B0%2B%25D0%25BD%25D0%25B0%2B%25D0%259E%25D1%2585%25D1%2580%25D0%25B8%25D0%25B4%25D1%2581%25D0%25BA%25D0%25BE-%25D0%259F%25D1%2580%25D0%25B5%25D1%2581%25D0%25BF%25D0%25B0%25D0%25BD%25D1%2581%25D0%25BA%25D0%25B8%2B%25D0%25B1%25D0%25B0%25D0%25B7%25D0%25B5%25D0%25BD%26q%3D%25D0%25A1%25D0%25B8%25D1%2580%25D1%2583%25D0%25BB%25D0%25B0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASirula"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> "Името Сирула&lt; Сируља веројатно е изведено со посесивниот суфикс *-ja од лично име *Sirul (спор. Radul, Stanul и др. кај Маретиќ, op. cit., c. 127). Во личното име се извојува суф. -ul од романско потекло (спор. ја етимологијата на претходното село) и основата sir (спор. ги полски имиња Siroslaw. Siroch. Sirosz, Sirach, Sirota кај Ташицки, op. cit., c. 121)."</span>
+</li>
+<li id="cite_note-Statisticaloffice-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Statisticaloffice_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Statisticaloffice_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Macedonian Census (2002), <a class="external text" href="http://www.stat.gov.mk/publikacii/knigaX.pdf" rel="nofollow"><i>Book 5 - Total population according to the Ethnic Affiliation, Mother Tongue and Religion</i></a>, The State Statistical Office, Skopje, 2002, p. 118.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sirula&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Arbinovo" title="Arbinovo">Arbinovo</a></li>
+<li><a href="/wiki/Botun" title="Botun">Botun</a></li>
+<li><a href="/wiki/Laktinje" title="Laktinje">Laktinje</a></li>
+<li><a href="/wiki/Kuratica" title="Kuratica">Kuratica</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sirula&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-labelledby="Ohrid_Municipality" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Ohrid_Municipality" title="Template:Ohrid Municipality"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ohrid_Municipality" title="Template talk:Ohrid Municipality"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Ohrid_Municipality&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Ohrid_Municipality" style="font-size:114%;margin:0 4em"><a href="/wiki/Ohrid_Municipality" title="Ohrid Municipality">Ohrid Municipality</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Cities</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ohrid" title="Ohrid">Ohrid</a></li></ul>
+</div></td><td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Ohrid_od_Samoilova.jpg"><img alt="Ohrid od Samoilova.jpg" data-file-height="1944" data-file-width="2592" decoding="async" height="105" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ohrid_od_Samoilova.jpg/140px-Ohrid_od_Samoilova.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ohrid_od_Samoilova.jpg/210px-Ohrid_od_Samoilova.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ohrid_od_Samoilova.jpg/280px-Ohrid_od_Samoilova.jpg 2x" width="140"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Villages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=Dolno_Lako%C4%8Derej&amp;action=edit&amp;redlink=1" title="Dolno Lakočerej (page does not exist)">Dolno Lakočerej</a></li>
+<li><a href="/wiki/El%C5%A1ani" title="Elšani">Elšani</a></li>
+<li><a class="new" href="/w/index.php?title=Ele%C5%A1ec&amp;action=edit&amp;redlink=1" title="Elešec (page does not exist)">Elešec</a></li>
+<li><a class="new" href="/w/index.php?title=Gorno_Lako%C4%8Derej&amp;action=edit&amp;redlink=1" title="Gorno Lakočerej (page does not exist)">Gorno Lakočerej</a></li>
+<li><a class="new" href="/w/index.php?title=Konjsko,_Ohrid&amp;action=edit&amp;redlink=1" title="Konjsko, Ohrid (page does not exist)">Konjsko</a></li>
+<li><a href="/wiki/Kosel,_North_Macedonia" title="Kosel, North Macedonia">Kosel</a></li>
+<li><a href="/wiki/Kuratica" title="Kuratica">Kuratica</a></li>
+<li><a href="/wiki/Lagadin" title="Lagadin">Lagadin</a></li>
+<li><a href="/wiki/Leskoec" title="Leskoec">Leskoec</a></li>
+<li><a class="new" href="/w/index.php?title=Livoi%C5%A1ta&amp;action=edit&amp;redlink=1" title="Livoišta (page does not exist)">Livoišta</a></li>
+<li><a href="/wiki/Ljubani%C5%A1ta" title="Ljubaništa">Ljubaništa</a></li>
+<li><a class="new" href="/w/index.php?title=Openica&amp;action=edit&amp;redlink=1" title="Openica (page does not exist)">Openica</a></li>
+<li><a class="new" href="/w/index.php?title=Orman,_Ohrid&amp;action=edit&amp;redlink=1" title="Orman, Ohrid (page does not exist)">Orman</a></li>
+<li><a href="/wiki/Pe%C5%A1tani" title="Peštani">Peštani</a></li>
+<li><a href="/wiki/Plakje" title="Plakje">Plakje</a></li>
+<li><a class="new" href="/w/index.php?title=Ra%C4%8Da,_Ohrid&amp;action=edit&amp;redlink=1" title="Rača, Ohrid (page does not exist)">Rača</a></li>
+<li><a class="new" href="/w/index.php?title=Ramne&amp;action=edit&amp;redlink=1" title="Ramne (page does not exist)">Ramne</a></li>
+<li><a class="new" href="/w/index.php?title=Rasino&amp;action=edit&amp;redlink=1" title="Rasino (page does not exist)">Rasino</a></li>
+<li><a class="new" href="/w/index.php?title=Re%C4%8Dica,_Ohrid&amp;action=edit&amp;redlink=1" title="Rečica, Ohrid (page does not exist)">Rečica</a></li>
+<li><a class="mw-selflink selflink">Sirula</a></li>
+<li><a href="/wiki/Skrebatno,_North_Macedonia" title="Skrebatno, North Macedonia">Skrebatno</a></li>
+<li><a class="new" href="/w/index.php?title=Sveti_Stefan,_Ohrid&amp;action=edit&amp;redlink=1" title="Sveti Stefan, Ohrid (page does not exist)">Sveti Stefan</a></li>
+<li><a href="/wiki/Svini%C5%A1ta" title="Sviništa">Sviništa</a></li>
+<li><a class="new" href="/w/index.php?title=%C5%A0ipokno&amp;action=edit&amp;redlink=1" title="Šipokno (page does not exist)">Šipokno</a></li>
+<li><a href="/wiki/Trpejca" title="Trpejca">Trpejca</a></li>
+<li><a href="/wiki/Vapila" title="Vapila">Vapila</a></li>
+<li><a href="/wiki/Velestovo" title="Velestovo">Velestovo</a></li>
+<li><a href="/wiki/Velgo%C5%A1ti" title="Velgošti">Velgošti</a></li>
+<li><a href="/wiki/Zavoj" title="Zavoj">Zavoj</a></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a class="image" href="/wiki/File:Flag_map_of_North_Macedonia.svg"><img alt="Stub icon" data-file-height="700" data-file-width="891" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/30px-Flag_map_of_North_Macedonia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/45px-Flag_map_of_North_Macedonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/60px-Flag_map_of_North_Macedonia.svg.png 2x" width="30"/></a></td><td><i>This <a href="/wiki/North_Macedonia" title="North Macedonia">North Macedonia</a> location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Sirula&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:NorthMacedonia-geo-stub" title="Template:NorthMacedonia-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:NorthMacedonia-geo-stub" title="Template talk:NorthMacedonia-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:NorthMacedonia-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1327
+Cached time: 20191218000859
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.456 seconds
+Real time usage: 0.607 seconds
+Preprocessor visited node count: 3018/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 36732/2097152 bytes
+Template argument size: 8992/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5136/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.274/10.000 seconds
+Lua memory usage: 10.82 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  560.696      1 -total
+ 50.50%  283.154      1 Template:Infobox_settlement
+ 32.87%  184.298      1 Template:Infobox
+ 22.67%  127.122      1 Template:Lang-mk
+ 17.84%  100.052      1 Template:Reflist
+ 16.02%   89.851      1 Template:Cite_book
+ 13.19%   73.967      4 Template:Main_other
+  6.74%   37.774      5 Template:Both
+  5.78%   32.427      1 Template:Coord
+  4.82%   27.013      1 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:54666116-0!canonical and timestamp 20191218000858 and revision id 886184034
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sirula&amp;oldid=886184034">https://en.wikipedia.org/w/index.php?title=Sirula&amp;oldid=886184034</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Villages_in_Ohrid_Municipality" title="Category:Villages in Ohrid Municipality">Villages in Ohrid Municipality</a></li><li><a href="/wiki/Category:Villages_in_North_Macedonia" title="Category:Villages in North Macedonia">Villages in North Macedonia</a></li><li><a href="/wiki/Category:North_Macedonia_geography_stubs" title="Category:North Macedonia geography stubs">North Macedonia geography stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_Macedonian-language_text" title="Category:Articles containing Macedonian-language text">Articles containing Macedonian-language text</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sirula" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sirula" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Sirula" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Sirula" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Sirula">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Sirula&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Sirula&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Sirula" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sirula" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sirula&amp;oldid=886184034" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sirula&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3074950" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sirula&amp;id=886184034" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Sirula" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sirula">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sirula&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Sirula&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Siroula_(Ohrid)" hreflang="nan" lang="nan" title="Siroula (Ohrid) – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D1%83%D0%BB%D1%8F" hreflang="bg" lang="bg" title="Сируля – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A3%CE%AF%CF%81%CE%BF%CF%85%CE%BB%CE%B1" hreflang="el" lang="el" title="Σίρουλα – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Siroula" hreflang="fr" lang="fr" title="Siroula – French">Français</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Szirula" hreflang="hu" lang="hu" title="Szirula – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D1%83%D0%BB%D0%B0" hreflang="mk" lang="mk" title="Сирула – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Siru%C5%82a" hreflang="pl" lang="pl" title="Siruła – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Sirula" hreflang="pt" lang="pt" title="Sirula – Portuguese">Português</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Sirulla" hreflang="sq" lang="sq" title="Sirulla – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D1%83%D0%BB%D0%B0" hreflang="sr" lang="sr" title="Сирула – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Sirula" hreflang="sh" lang="sh" title="Sirula – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3074950#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 4 March 2019, at 18:39<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sirula&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.456","walltime":"0.607","ppvisitednodes":{"value":3018,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36732,"limit":2097152},"templateargumentsize":{"value":8992,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5136,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  560.696      1 -total"," 50.50%  283.154      1 Template:Infobox_settlement"," 32.87%  184.298      1 Template:Infobox"," 22.67%  127.122      1 Template:Lang-mk"," 17.84%  100.052      1 Template:Reflist"," 16.02%   89.851      1 Template:Cite_book"," 13.19%   73.967      4 Template:Main_other","  6.74%   37.774      5 Template:Both","  5.78%   32.427      1 Template:Coord","  4.82%   27.013      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.274","limit":"10.000"},"limitreport-memusage":{"value":11345491,"limit":52428800}},"cachereport":{"origin":"mw1327","timestamp":"20191218000859","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Sirula","url":"https:\/\/en.wikipedia.org\/wiki\/Sirula","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3074950","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3074950","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2017-07-27T10:37:30Z","dateModified":"2019-03-04T18:39:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/43\/North_Macedonia_location_map.svg","headline":"village in North Macedonia"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1273"});});</script>
+
+
+</body></html>

@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Crichton F.C. - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xft@ZQpAMEkAALkAolUAAAHA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Crichton_F.C.","wgTitle":"Crichton F.C.","wgCurRevisionId":884573788,"wgRevisionId":884573788,"wgArticleId":8820775,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from May 2015","Use British English from May 2015","Football clubs in Scotland","Football clubs in Dumfries and Galloway","Association football clubs established in 1972",
+"1972 establishments in Scotland","Dumfries","South of Scotland Football League teams"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Crichton_F.C.","wgRelevantArticleId":8820775,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5184924","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/5/51/Crichtonfc.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Crichton_F.C." rel="alternate"/>
+<link href="/w/index.php?title=Crichton_F.C.&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Crichton_F.C.&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Crichton_F.C." rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Crichton_F_C rootpage-Crichton_F_C skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Crichton F.C.</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Crichton FC</caption><tbody><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Crichtonfc.png"><img alt="Crichtonfc.png" data-file-height="200" data-file-width="200" decoding="async" height="200" src="//upload.wikimedia.org/wikipedia/en/5/51/Crichtonfc.png" width="200"/></a></td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Full name</th><td>Crichton Football Club</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Founded</th><td>1972 as Auldgarth FC
+  dissolved 2016 (following a merger)</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Ground</th><td class="label">Crichton Hospital Park, <a href="/wiki/Dumfries" title="Dumfries">Dumfries</a></td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Capacity</th><td>2,500</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">League</th><td><a href="/wiki/South_of_Scotland_Football_League" title="South of Scotland Football League">South of Scotland League</a></td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left"><a href="/wiki/2018%E2%80%9319_South_of_Scotland_Football_League" title="2018–19 South of Scotland Football League">2018–19</a></th><td><a href="/wiki/South_of_Scotland_Football_League" title="South of Scotland Football League">South of Scotland League</a>, 11th of 16</td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><td class="toccolours" colspan="2" style="padding: 0; background: #ffffff; text-align: center;">
+<table style="width:100%; text-align:center;">
+<tbody><tr>
+<td><div style="width: 100px; margin: 0 auto; padding: 0;">
+<div style="position: relative; left: 0px; top: 0px; width: 100px; height: 135px; margin: 0 auto; padding: 0;">
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px; background-color: #0000FF;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/7/73/Kit_left_arm_whiteflareatshoulder.png" style="vertical-align: top" title="Team colours" width="31"/></div>
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/47px-Kit_left_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/62px-Kit_left_arm.svg.png 2x" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px; background-color: #0000FF;"><img alt="" data-file-height="59" data-file-width="38" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/9/91/Kit_body_thinwhitesides.png" style="vertical-align: top" width="38"/></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px;"><img alt="" data-file-height="59" data-file-width="38" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/57px-Kit_body.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/76px-Kit_body.svg.png 2x" style="vertical-align: top" width="38"/></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px; background-color: #0000FF;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/e/e9/Kit_right_arm_whiteflareatshoulder.png" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/31px-Kit_right_arm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/47px-Kit_right_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/62px-Kit_right_arm.svg.png 2x" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px; background-color: #0000FF"></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px;"><img alt="" data-file-height="36" data-file-width="100" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/150px-Kit_shorts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/200px-Kit_shorts.svg.png 2x" style="vertical-align: top" width="100"/></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px; background-color: #0000FF"></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px;"><img alt="" data-file-height="40" data-file-width="100" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/150px-Kit_socks_long.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/200px-Kit_socks_long.svg.png 2x" style="vertical-align: top" width="100"/></div>
+</div>
+<div style="padding-top: 0.6em; text-align: center;"><b><a href="/wiki/Kit_(association_football)" title="Kit (association football)">Home colours</a></b></div>
+</div></td><td><div style="width: 100px; margin: 0 auto; padding: 0;">
+<div style="position: relative; left: 0px; top: 0px; width: 100px; height: 135px; margin: 0 auto; padding: 0;">
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px; background-color: #FFFFFF;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/2/28/Kit_left_arm_red_stripes.png" style="vertical-align: top" title="Team colours" width="31"/></div>
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/47px-Kit_left_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/62px-Kit_left_arm.svg.png 2x" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px; background-color: #FFFFFF;"><img alt="" data-file-height="59" data-file-width="38" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/f/f0/Kit_body_red_stripes.png" style="vertical-align: top" width="38"/></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px;"><img alt="" data-file-height="59" data-file-width="38" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/57px-Kit_body.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/76px-Kit_body.svg.png 2x" style="vertical-align: top" width="38"/></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px; background-color: #FFFFFF;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/4/42/Kit_right_arm_red_stripes.png" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px;"><img alt="" data-file-height="59" data-file-width="31" decoding="async" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/31px-Kit_right_arm.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/47px-Kit_right_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/62px-Kit_right_arm.svg.png 2x" style="vertical-align: top" width="31"/></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px; background-color: #000000"></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px;"><img alt="" data-file-height="36" data-file-width="100" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/150px-Kit_shorts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/200px-Kit_shorts.svg.png 2x" style="vertical-align: top" width="100"/></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px; background-color: #FF0000"><img alt="" data-file-height="40" data-file-width="100" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/5/5b/Kit_socks_white_hoops.png" style="vertical-align: top" width="100"/></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px;"><img alt="" data-file-height="40" data-file-width="100" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/150px-Kit_socks_long.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/200px-Kit_socks_long.svg.png 2x" style="vertical-align: top" width="100"/></div>
+</div>
+<div style="padding-top: 0.6em; text-align: center;"><b><a href="/wiki/Away_colours" title="Away colours">Away colours</a></b></div>
+</div></td></tr>
+</tbody></table></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><b>Crichton Football Club</b> was a <a href="/wiki/Association_football" title="Association football">football</a> club based in <a href="/wiki/Dumfries" title="Dumfries">Dumfries</a> in <a href="/wiki/Scotland" title="Scotland">Scotland</a>. 
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Honours"><span class="tocnumber">2</span> <span class="toctext">Honours</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#League"><span class="tocnumber">2.1</span> <span class="toctext">League</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Notable_former_players"><span class="tocnumber">3</span> <span class="toctext">Notable former players</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crichton_F.C.&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The most recent incarnation of the club formed in 1972 as <b>Auldgirth Football Club</b> playing in local amateur leagues. Auldgirth FC renamed to <b>Blackwood Dynamos Football Club</b> before a 1999 re-name to reflect their home ground is Crichton Hospital Park.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> They were originally to adopt the title <b>Crichton Royal Football Club</b>, but never assumed the <i>Royal</i> part of the name. Their strip consisted of blue and white.
+</p><p>They formerly competed in the <a href="/wiki/South_of_Scotland_Football_League" title="South of Scotland Football League">South of Scotland Football League</a>, which they joined in the <a href="/wiki/1992%E2%80%9393_in_Scottish_football" title="1992–93 in Scottish football">1992–93 season</a>. They won the South of Scotland League Cup in the <a href="/wiki/2002%E2%80%9303_in_Scottish_football" title="2002–03 in Scottish football">2002–03 season</a>.
+</p><p>Manager Jim Thompson guided the club to their best ever season in <a href="/wiki/2007%E2%80%9308_in_Scottish_football" title="2007–08 in Scottish football">2007–08</a>, as they won the league title. Winning the South of Scotland League gave the Crichton passage to the <a class="mw-redirect" href="/wiki/Scottish_Cup_2008%E2%80%9309" title="Scottish Cup 2008–09">2008–09 Scottish Cup</a>. Having received a bye in the first round, they played <a href="/wiki/Inverness" title="Inverness">Inverness</a> side <a href="/wiki/Clachnacuddin_F.C." title="Clachnacuddin F.C.">Clachnacuddin</a> away in the second round on 25 October 2008, where they lost 1–0.
+</p><p>On 3 May 2015, it was announced that the club would fold after 43 years. This was due to their Chairman and two committee members leaving a committee which was already at the bare bones. In June 2015, it was announced that the club would merge with local amateur side Lochmaben Amateurs. The club played its home fixtures for the 2015–16 season at Hospital Park after a season playing away from their home ground. Before the start of the 2016-17 season, Crichton effectively folded as part of a merger with Lochmaben Amateurs and the club moved to <a href="/wiki/Lockerbie" title="Lockerbie">Lockerbie</a> and now play under the Lochmaben name.
+</p>
+<h2><span class="mw-headline" id="Honours">Honours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crichton_F.C.&amp;action=edit&amp;section=2" title="Edit section: Honours">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="League">League</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crichton_F.C.&amp;action=edit&amp;section=3" title="Edit section: League">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><b><a href="/wiki/South_of_Scotland_Football_League" title="South of Scotland Football League">South of Scotland Football League</a></b>
+<ul><li><b>Winners (1) :</b> 2007–08</li></ul></li>
+<li><b>South of Scotland Football League Cup</b>
+<ul><li><b>Winners (1) :</b> 2002–03</li></ul></li></ul>
+<h2><span class="mw-headline" id="Notable_former_players">Notable former players</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crichton_F.C.&amp;action=edit&amp;section=4" title="Edit section: Notable former players">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/George_Cloy" title="George Cloy">George Cloy</a></li>
+<li><a href="/wiki/Billy_Houliston" title="Billy Houliston">Billy Houliston</a></li>
+<li><a class="mw-redirect" href="/wiki/William_Wilson_(goalkeeper)" title="William Wilson (goalkeeper)">William Wilson</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crichton_F.C.&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.dgwgo.com/out-and-about-in-dg/10-things-probably-never-knew-crichton-campus/" rel="nofollow">"10 Things You Probably Never Knew About The Crichton Campus"</a>. What's going on?. 20 August 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2019</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=10+Things+You+Probably+Never+Knew+About+The+Crichton+Campus&amp;rft.pub=What%27s+going+on%3F&amp;rft.date=2018-08-20&amp;rft_id=https%3A%2F%2Fwww.dgwgo.com%2Fout-and-about-in-dg%2F10-things-probably-never-knew-crichton-campus%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrichton+F.C."></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div>
+<div aria-labelledby="South_of_Scotland_Football_League" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:South_of_Scotland_Football_League" title="Template:South of Scotland Football League"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:South_of_Scotland_Football_League" title="Template talk:South of Scotland Football League"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:South_of_Scotland_Football_League&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="South_of_Scotland_Football_League" style="font-size:114%;margin:0 4em"><a href="/wiki/South_of_Scotland_Football_League" title="South of Scotland Football League">South of Scotland Football League</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">2019–20 teams</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abbey_Vale_F.C." title="Abbey Vale F.C.">Abbey Vale</a></li>
+<li><a href="/wiki/Bonnyton_Thistle_F.C." title="Bonnyton Thistle F.C.">Bonnyton Thistle</a></li>
+<li><a href="/wiki/Creetown_F.C." title="Creetown F.C.">Creetown</a></li>
+<li><a href="/wiki/Dumfries_YMCA_F.C." title="Dumfries YMCA F.C.">Dumfries YMCA</a></li>
+<li><a class="mw-redirect" href="/wiki/Edusport_Academy" title="Edusport Academy">Edusport Academy</a> reserves</li>
+<li><a href="/wiki/Heston_Rovers_F.C." title="Heston Rovers F.C.">Heston Rovers</a></li>
+<li><a href="/wiki/Lochar_Thistle_F.C." title="Lochar Thistle F.C.">Lochar Thistle</a></li>
+<li><a class="mw-redirect" href="/wiki/Lochmaben_F.C." title="Lochmaben F.C.">Lochmaben</a></li>
+<li><a href="/wiki/Mid-Annandale_F.C." title="Mid-Annandale F.C.">Mid-Annandale</a></li>
+<li><a href="/wiki/Newton_Stewart_F.C." title="Newton Stewart F.C.">Newton Stewart</a></li>
+<li><a href="/wiki/Nithsdale_Wanderers_F.C." title="Nithsdale Wanderers F.C.">Nithsdale Wanderers</a></li>
+<li><a href="/wiki/St_Cuthbert_Wanderers_F.C." title="St Cuthbert Wanderers F.C.">St Cuthbert Wanderers</a></li>
+<li><a href="/wiki/Stranraer_F.C." title="Stranraer F.C.">Stranraer</a> reserves</li>
+<li><a href="/wiki/Threave_Rovers_F.C." title="Threave Rovers F.C.">Threave Rovers</a></li>
+<li><a href="/wiki/Upper_Annandale_F.C." title="Upper Annandale F.C.">Upper Annandale</a></li>
+<li><a href="/wiki/Wigtown_%26_Bladnoch_F.C." title="Wigtown &amp; Bladnoch F.C.">Wigtown &amp; Bladnoch</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Seasons</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2014%E2%80%9315_South_of_Scotland_Football_League" title="2014–15 South of Scotland Football League">2014–15</a></li>
+<li><a href="/wiki/2015%E2%80%9316_South_of_Scotland_Football_League" title="2015–16 South of Scotland Football League">2015–16</a></li>
+<li><a href="/wiki/2016%E2%80%9317_South_of_Scotland_Football_League" title="2016–17 South of Scotland Football League">2016–17</a></li>
+<li><a href="/wiki/2017%E2%80%9318_South_of_Scotland_Football_League" title="2017–18 South of Scotland Football League">2017–18</a></li>
+<li><a href="/wiki/2018%E2%80%9319_South_of_Scotland_Football_League" title="2018–19 South of Scotland Football League">2018–19</a></li>
+<li><a href="/wiki/2019%E2%80%9320_South_of_Scotland_Football_League" title="2019–20 South of Scotland Football League"><i>2019–20</i></a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Men&amp;#039;s_football_in_Scotland" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Football_in_Scotland" title="Template:Football in Scotland"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Football_in_Scotland" title="Template talk:Football in Scotland"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Football_in_Scotland&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Men&amp;#039;s_football_in_Scotland" style="font-size:114%;margin:0 4em"><a href="/wiki/Football_in_Scotland" title="Football in Scotland">Men's football in Scotland</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_SFA&amp;#10;*_PFA_Scotland">
+<ul><li><a href="/wiki/Scottish_Football_Association" title="Scottish Football Association">SFA</a></li>
+<li><a href="/wiki/Professional_Footballers%27_Association_Scotland" title="Professional Footballers' Association Scotland">PFA Scotland</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Overview</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scottish_football_league_system" title="Scottish football league system">League system</a></li>
+<li><a href="/wiki/List_of_football_clubs_in_Scotland" title="List of football clubs in Scotland">Clubs</a></li>
+<li><a href="/wiki/List_of_football_stadiums_in_Scotland" title="List of football stadiums in Scotland">Venues</a></li>
+<li><a href="/wiki/List_of_Scottish_football_champions" title="List of Scottish football champions">Champions</a></li>
+<li><a href="/wiki/List_of_winners_of_the_Scottish_Championship_and_predecessors" title="List of winners of the Scottish Championship and predecessors">Second tier winners</a></li>
+<li><a href="/wiki/List_of_winners_of_the_Scottish_League_One_and_predecessors" title="List of winners of the Scottish League One and predecessors">Third tier winners</a></li>
+<li><a href="/wiki/List_of_winners_of_the_Scottish_League_Two_and_predecessors" title="List of winners of the Scottish League Two and predecessors">Fourth tier winners</a></li>
+<li><a href="/wiki/List_of_football_clubs_in_Scotland_by_major_honours_won" title="List of football clubs in Scotland by major honours won">Honours won</a></li>
+<li><a href="/wiki/List_of_Scottish_Professional_Football_League_managers" title="List of Scottish Professional Football League managers">Managers</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">National teams</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scotland_national_football_team" title="Scotland national football team">Scotland</a>
+<ul><li><a href="/wiki/Scotland_national_football_B_team" title="Scotland national football B team">B</a></li>
+<li><a href="/wiki/Scotland_national_under-21_football_team" title="Scotland national under-21 football team">U-21</a></li>
+<li><a href="/wiki/Scotland_national_under-20_football_team" title="Scotland national under-20 football team">U-20</a></li>
+<li><a href="/wiki/Scotland_national_under-19_football_team" title="Scotland national under-19 football team">U-19</a></li>
+<li><a href="/wiki/Scotland_national_under-18_football_team" title="Scotland national under-18 football team">U-18</a></li>
+<li><a href="/wiki/Scotland_national_under-17_football_team" title="Scotland national under-17 football team">U-17</a></li>
+<li><a href="/wiki/Scotland_national_under-16_football_team" title="Scotland national under-16 football team">U-16</a></li></ul></li>
+<li><a href="/wiki/Scottish_Football_League_XI" title="Scottish Football League XI">Scottish League</a></li>
+<li><a href="/wiki/Scotland_national_semi-professional_football_team" title="Scotland national semi-professional football team">Semi-Pro</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Scottish_football_league_system" title="Scottish football league system">League system</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scottish_Professional_Football_League" title="Scottish Professional Football League">SPFL</a>
+<ul><li><a href="/wiki/Scottish_Premiership" title="Scottish Premiership">Premiership</a></li>
+<li><a href="/wiki/Scottish_Championship" title="Scottish Championship">Championship</a></li>
+<li><a href="/wiki/Scottish_League_One" title="Scottish League One">League One</a></li>
+<li><a href="/wiki/Scottish_League_Two" title="Scottish League Two">League Two</a></li>
+<li><a href="/wiki/SPFL_Reserve_League" title="SPFL Reserve League">Reserve</a></li></ul></li>
+<li><a href="/wiki/Highland_Football_League" title="Highland Football League">Highland</a></li>
+<li><a href="/wiki/Lowland_Football_League" title="Lowland Football League">Lowland</a></li>
+<li><a href="/wiki/East_of_Scotland_Football_League" title="East of Scotland Football League">East of Scotland</a></li>
+<li><a href="/wiki/South_of_Scotland_Football_League" title="South of Scotland Football League">South of Scotland</a></li>
+<li><a href="/wiki/North_Caledonian_Football_Association" title="North Caledonian Football Association">North Caledonian</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Football_competitions_in_Scotland" title="Category:Football competitions in Scotland">Cup competitions</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scottish_Cup" title="Scottish Cup">Scottish Cup</a> (<a href="/wiki/List_of_Scottish_Cup_finals" title="List of Scottish Cup finals">finals</a>)</li>
+<li><a href="/wiki/Scottish_League_Cup" title="Scottish League Cup">League Cup</a> (<a href="/wiki/List_of_Scottish_League_Cup_finals" title="List of Scottish League Cup finals">finals</a>)</li>
+<li><a href="/wiki/Scottish_Challenge_Cup" title="Scottish Challenge Cup">Challenge Cup</a></li>
+<li><a href="/wiki/SFA_North_and_South_Region_Challenge_Cups#South" title="SFA North and South Region Challenge Cups">South Region Challenge Cup</a></li>
+<li><a href="/wiki/Scottish_Youth_Cup" title="Scottish Youth Cup">Youth Cup</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Junior football</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scottish_Junior_Football_Association" title="Scottish Junior Football Association">SJFA</a>
+<ul><li><a href="/wiki/Scottish_Junior_Cup" title="Scottish Junior Cup">Junior Cup</a></li>
+<li><a href="/wiki/Scottish_Junior_Football_Association,_West_Region" title="Scottish Junior Football Association, West Region">West</a></li>
+<li><a href="/wiki/Scottish_Junior_Football_Association,_East_Region" title="Scottish Junior Football Association, East Region">East</a></li>
+<li><a href="/wiki/Scottish_Junior_Football_Association,_North_Region" title="Scottish Junior Football Association, North Region">North</a></li>
+<li><a href="/wiki/Scottish_Junior_Football_Association#Scotland_Junior_international_team" title="Scottish Junior Football Association">National select team</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Amateur football</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scottish_Amateur_Football_Association" title="Scottish Amateur Football Association">SAFA</a>
+<ul><li><a href="/wiki/Scottish_Amateur_Cup" title="Scottish Amateur Cup">Amateur Cup</a></li>
+<li><a href="/wiki/Aberdeenshire_Amateur_Football_Association" title="Aberdeenshire Amateur Football Association">Aberdeenshire</a></li>
+<li><a href="/wiki/Ayrshire_Amateur_Football_Association" title="Ayrshire Amateur Football Association">Ayrshire</a></li>
+<li><a href="/wiki/Border_Amateur_Football_League" title="Border Amateur Football League">Border</a></li>
+<li><a href="/wiki/Caithness_Amateur_Football_Association" title="Caithness Amateur Football Association">Caithness</a></li>
+<li><a href="/wiki/Caledonian_Amateur_Football_League" title="Caledonian Amateur Football League">Caledonian</a></li>
+<li><a href="/wiki/Central_Scottish_Amateur_Football_League" title="Central Scottish Amateur Football League">Central</a></li>
+<li><a href="/wiki/Kingdom_of_Fife_AFA" title="Kingdom of Fife AFA">Fife</a></li>
+<li><a href="/wiki/Inverness_and_District_Football_Association" title="Inverness and District Football Association">Inverness &amp; District</a></li>
+<li><a href="/wiki/Lewis_%26_Harris_Football_Association" title="Lewis &amp; Harris Football Association">Lewis &amp; Harris</a></li>
+<li><a href="/wiki/Lothian_%26_Edinburgh_Amateur_Football_Association" title="Lothian &amp; Edinburgh Amateur Football Association">Lothian &amp; Edinburgh</a></li>
+<li><a href="/wiki/Midlands_Amateur_Football_Association" title="Midlands Amateur Football Association">Midlands</a></li>
+<li><a href="/wiki/North_%26_South_Lanarkshire_Amateur_Football_Association" title="North &amp; South Lanarkshire Amateur Football Association">North &amp; South Lanarkshire</a></li>
+<li><a href="/wiki/Orkney_Amateur_Football_Association" title="Orkney Amateur Football Association">Orkney</a></li>
+<li><a href="/wiki/Paisley_%26_District_Amateur_Football_Association" title="Paisley &amp; District Amateur Football Association">Paisley &amp; District</a></li>
+<li><a href="/wiki/Perthshire_Amateur_Football_Association" title="Perthshire Amateur Football Association">Perthshire</a></li>
+<li><a href="/wiki/Scottish_Amateur_Football_League" title="Scottish Amateur Football League">Scottish</a></li>
+<li><a class="mw-redirect" href="/wiki/Shetland_Amateur_Football_Association" title="Shetland Amateur Football Association">Shetland</a></li>
+<li><a href="/wiki/Stirling_%26_District_Amateur_Football_Association" title="Stirling &amp; District Amateur Football Association">Stirling &amp; District</a></li>
+<li><a href="/wiki/Strathclyde_Amateur_Football_League" title="Strathclyde Amateur Football League">Strathclyde</a></li>
+<li><a href="/wiki/Uist_%26_Barra_Amateur_Football_Association" title="Uist &amp; Barra Amateur Football Association">Uist &amp; Barra</a></li>
+<li><a href="/wiki/West_of_Scotland_Amateur_Football_League" title="West of Scotland Amateur Football League">West of Scotland</a></li></ul></li>
+<li>Representative teams:
+<ul><li><a href="/wiki/Orkney_representative_football_team" title="Orkney representative football team">Orkney</a></li>
+<li><a href="/wiki/Shetland_football_team" title="Shetland football team">Shetland</a></li>
+<li><a href="/wiki/Western_Isles_representative_football_team" title="Western Isles representative football team">Western Isles</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Welfare football</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scottish_Welfare_Football_Association" title="Scottish Welfare Football Association">SWFA</a>
+<ul><li><a href="/wiki/Forth_and_Endrick_Football_League" title="Forth and Endrick Football League">Forth &amp; Endrick</a></li>
+<li><a href="/wiki/Moray_District_Welfare_Football_Association" title="Moray District Welfare Football Association">Moray</a></li>
+<li><a href="/wiki/North_East_Scotland_Football_Association" title="North East Scotland Football Association">North East</a></li>
+<li><a href="/wiki/Ross-shire_Welfare_Football_Association" title="Ross-shire Welfare Football Association">Ross-shire</a></li>
+<li><a href="/wiki/Strathspey_and_Badenoch_Welfare_Football_Association" title="Strathspey and Badenoch Welfare Football Association">Strathspey &amp; Badenoch</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/History_of_football_in_Scotland" title="History of football in Scotland">History</a></li>
+<li><a href="/wiki/Football_records_in_Scotland" title="Football records in Scotland">Records</a>
+<ul><li><a href="/wiki/List_of_footballers_in_Scotland_by_number_of_league_appearances" title="List of footballers in Scotland by number of league appearances">Appearances</a></li>
+<li><a href="/wiki/Scottish_football_attendance_records" title="Scottish football attendance records">Attendances</a></li>
+<li><a href="/wiki/Scottish_football_clubs_in_international_competitions" title="Scottish football clubs in international competitions">Clubs in Europe</a></li>
+<li><a href="/wiki/List_of_footballers_in_Scotland_by_number_of_league_goals" title="List of footballers in Scotland by number of league goals">Goals</a></li></ul></li>
+<li><a href="/wiki/Timeline_of_Scottish_football" title="Timeline of Scottish football">Timeline</a></li>
+<li><a href="/wiki/Scottish_Football_Hall_of_Fame" title="Scottish Football Hall of Fame">Hall of Fame</a></li>
+<li><a href="/wiki/Category:Scottish_football_referees" title="Category:Scottish football referees">Referees</a></li>
+<li><a href="/wiki/Category:Football_media_in_Scotland" title="Category:Football media in Scotland">Media</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1299
+Cached time: 20191214182256
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.260 seconds
+Real time usage: 0.358 seconds
+Preprocessor visited node count: 2146/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 62884/2097152 bytes
+Template argument size: 1841/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 2998/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.074/10.000 seconds
+Lua memory usage: 2.29 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  265.366      1 -total
+ 35.83%   95.090      1 Template:Infobox_football_club
+ 32.93%   87.376      1 Template:Infobox
+ 27.82%   73.831      1 Template:Cite_web
+ 22.90%   60.778      1 Template:Use_dmy_dates
+ 14.61%   38.778      3 Template:Scottish_football_updater
+  8.87%   23.543      2 Template:DMCA
+  7.37%   19.564      2 Template:Dated_maintenance_category
+  6.35%   16.859      2 Template:Football_kit
+  6.18%   16.394      2 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8820775-0!canonical and timestamp 20191214182256 and revision id 884573788
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Crichton_F.C.&amp;oldid=884573788">https://en.wikipedia.org/w/index.php?title=Crichton_F.C.&amp;oldid=884573788</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Football_clubs_in_Scotland" title="Category:Football clubs in Scotland">Football clubs in Scotland</a></li><li><a href="/wiki/Category:Football_clubs_in_Dumfries_and_Galloway" title="Category:Football clubs in Dumfries and Galloway">Football clubs in Dumfries and Galloway</a></li><li><a href="/wiki/Category:Association_football_clubs_established_in_1972" title="Category:Association football clubs established in 1972">Association football clubs established in 1972</a></li><li><a href="/wiki/Category:1972_establishments_in_Scotland" title="Category:1972 establishments in Scotland">1972 establishments in Scotland</a></li><li><a href="/wiki/Category:Dumfries" title="Category:Dumfries">Dumfries</a></li><li><a href="/wiki/Category:South_of_Scotland_Football_League_teams" title="Category:South of Scotland Football League teams">South of Scotland Football League teams</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_May_2015" title="Category:Use dmy dates from May 2015">Use dmy dates from May 2015</a></li><li><a href="/wiki/Category:Use_British_English_from_May_2015" title="Category:Use British English from May 2015">Use British English from May 2015</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Crichton+F.C." title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Crichton+F.C." title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Crichton_F.C." title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Crichton_F.C." rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Crichton_F.C.">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Crichton_F.C.&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Crichton_F.C.&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Crichton_F.C." title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Crichton_F.C." rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Crichton_F.C.&amp;oldid=884573788" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Crichton_F.C.&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5184924" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Crichton_F.C.&amp;id=884573788" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Crichton+F.C.">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Crichton+F.C.&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Crichton_F.C.&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5184924#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 February 2019, at 14:53<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Crichton_F.C.&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.358","ppvisitednodes":{"value":2146,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":62884,"limit":2097152},"templateargumentsize":{"value":1841,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":2998,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  265.366      1 -total"," 35.83%   95.090      1 Template:Infobox_football_club"," 32.93%   87.376      1 Template:Infobox"," 27.82%   73.831      1 Template:Cite_web"," 22.90%   60.778      1 Template:Use_dmy_dates"," 14.61%   38.778      3 Template:Scottish_football_updater","  8.87%   23.543      2 Template:DMCA","  7.37%   19.564      2 Template:Dated_maintenance_category","  6.35%   16.859      2 Template:Football_kit","  6.18%   16.394      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.074","limit":"10.000"},"limitreport-memusage":{"value":2397366,"limit":52428800}},"cachereport":{"origin":"mw1299","timestamp":"20191214182256","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Crichton F.C.","url":"https:\/\/en.wikipedia.org\/wiki\/Crichton_F.C.","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5184924","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5184924","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-01-08T12:40:10Z","dateModified":"2019-02-22T14:53:52Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/5\/51\/Crichtonfc.png","headline":"association football club in Dumfries and Galloway, Scotland, UK"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":414,"wgHostname":"mw1238"});});</script>
+
+
+</body></html>

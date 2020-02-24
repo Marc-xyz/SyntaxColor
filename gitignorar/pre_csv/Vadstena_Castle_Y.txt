@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Vadstena Castle - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XftE9wpAICoAAJ0ucH0AAACI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Vadstena_Castle","wgTitle":"Vadstena Castle","wgCurRevisionId":885793700,"wgRevisionId":885793700,"wgArticleId":5179066,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Infobox mapframe without OSM relation ID on Wikidata","Articles containing Swedish-language text","Commons category link is on Wikidata","Coordinates on Wikidata","Pages using the Kartographer extension",
+"Listed buildings in Sweden","Östergötland","Castles in Östergötland County","Museums in Östergötland County","Historic house museums in Sweden","Royal residences in Sweden"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Vadstena_Castle","wgRelevantArticleId":5179066,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgKartographerLiveData":{"_c82388123934197f28adac1007566fdc2271456b":[{"type":"ExternalData","service":"geoshape","url":
+"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q1757808","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Vadstena Castle","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q1757808","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Vadstena Castle"}},{"type":"Feature","geometry":{"coordinates":[14.88361111,58.44597222],"type":"Point"},"properties":{"title":"Vadstena Castle","marker-color":"#5E74F3"}}]},"wgCoordinates":{"lat":58.44583333333333,"lon":14.88361111111111},"wgWikibaseItemId":"Q1757808","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vadstena.slottet.jpg/1200px-Vadstena.slottet.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Vadstena_Castle" rel="alternate"/>
+<link href="/w/index.php?title=Vadstena_Castle&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Vadstena_Castle&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Vadstena_Castle" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Vadstena_Castle rootpage-Vadstena_Castle skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Vadstena Castle</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Vadstena Castle</th></tr><tr><td colspan="2" style="text-align:center;text-align: center"><a class="image" href="/wiki/File:Vadstena.slottet.jpg"><img alt="Vadstena.slottet.jpg" class="thumbborder" data-file-height="3370" data-file-width="3088" decoding="async" height="262" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vadstena.slottet.jpg/240px-Vadstena.slottet.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vadstena.slottet.jpg/360px-Vadstena.slottet.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vadstena.slottet.jpg/480px-Vadstena.slottet.jpg 2x" width="240"/></a><div style="text-align: center">Front view of the castle</div></td></tr><tr><td colspan="2" style="text-align:center;text-align: center"><a class="mw-kartographer-map mw-kartographer-container center" data-height="200" data-mw="interface" data-overlays='["_c82388123934197f28adac1007566fdc2271456b"]' data-style="osm-intl" data-width="270" data-zoom="13" href="/wiki/Special:Map/13/a/a/en" style="background-image: url(https://maps.wikimedia.org/img/osm-intl,13,a,a,270x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Vadstena+Castle&amp;groups=_c82388123934197f28adac1007566fdc2271456b); width: 270px; height: 200px;"></a></td></tr><tr><th colspan="2" style="text-align:center;background-color:#ededed">General information</th></tr><tr><th scope="row">Architectural style</th><td class="category">Renaissance</td></tr><tr><th scope="row">Town or city</th><td><a href="/wiki/Vadstena" title="Vadstena">Vadstena</a></td></tr><tr><th scope="row">Country</th><td><a href="/wiki/Sweden" title="Sweden">Sweden</a></td></tr><tr><th scope="row"><span class="nowrap">Construction started</span></th><td>1545</td></tr><tr class="note"><th scope="row">Completed</th><td>1620</td></tr><tr><th colspan="2" style="text-align:center;background-color:#ededed">Design and construction</th></tr><tr><th scope="row">Architect</th><td><a href="/wiki/Arendt_de_Roy" title="Arendt de Roy">Arendt de Roy</a>, <a class="new" href="/w/index.php?title=Hans_Flemming&amp;action=edit&amp;redlink=1" title="Hans Flemming (page does not exist)">Hans Flemming</a></td></tr></tbody></table>
+<p><b>Vadstena Castle</b> (<a href="/wiki/Swedish_language" title="Swedish language">Swedish</a>: <i lang="sv">Vadstena slott</i>) is a former Royal Castle in <a href="/wiki/Vadstena" title="Vadstena">Vadstena</a>, the province of <a href="/wiki/%C3%96sterg%C3%B6tland" title="Östergötland">Östergötland</a>, <a href="/wiki/Sweden" title="Sweden">Sweden</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Today"><span class="tocnumber">2</span> <span class="toctext">Today</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Notes"><span class="tocnumber">3</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vadstena_Castle&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Vadstena Castle was originally built by <a href="/wiki/Gustav_I_of_Sweden" title="Gustav I of Sweden">King Gustav I</a> in 1545 as a <a class="mw-redirect" href="/wiki/Fortress" title="Fortress">fortress</a> to protect <a href="/wiki/Stockholm" title="Stockholm">Stockholm</a> from enemies approaching from the south. The fortress consisted of three smaller stone buildings facing <a href="/wiki/V%C3%A4ttern" title="Vättern">Lake Vättern</a>, three 31-meter wide <a href="/wiki/Defensive_wall" title="Defensive wall">ramparts</a>, a <a href="/wiki/Courtyard" title="Courtyard">courtyard</a>, a <a href="/wiki/Moat" title="Moat">moat</a> and four circular cannon <a class="mw-redirect" href="/wiki/Turrets" title="Turrets">turrets</a>. The original ramparts were torn down in the 19th century and the present ramparts were inaugurated in 1999. The stone buildings later formed the ground floor of the castle.
+</p><p>On August 22, 1552, King Gustav I married his third wife, <a href="/wiki/Catherine_Stenbock" title="Catherine Stenbock">Catherine Stenbock</a>, in Vadstena. One of the castle banqueting halls is called The Wedding Hall (<a href="/wiki/Swedish_language" title="Swedish language">Swedish</a>: <i lang="sv">Bröllopssalen</i>), although its construction wasn't finished in time for the wedding.
+</p><p>The reconstruction from fortress into a habitable <a href="/wiki/Castle" title="Castle">castle</a> began in the 1550s, when <a href="/wiki/Magnus,_Duke_of_%C3%96sterg%C3%B6tland" title="Magnus, Duke of Östergötland">prince Magnus</a> became <a href="/wiki/Duke" title="Duke">Duke</a> of Östergötland. Duke Magnus suffered from <a class="mw-redirect" href="/wiki/Mental_illness" title="Mental illness">mental illness</a> and was the only son of Gustav I who didn't eventually become king of Sweden. Magnus died in 1595 and is buried in the church of nearby <a href="/wiki/Vadstena_Abbey" title="Vadstena Abbey">Vadstena Abbey</a>.
+</p><p>By 1620, when the castle was completed,  all the kings of the <a href="/wiki/House_of_Vasa" title="House of Vasa">House of Vasa</a> had contributed to its construction. Since 1620, the castle has been very well preserved, and is one of Sweden's best examples of <a href="/wiki/Renaissance_architecture" title="Renaissance architecture">Renaissance architecture</a>.
+</p><p>Vadstena Castle was a royal palace until 1716, when the royal family lost interest in it; after which it became a storage barn for grain.
+</p>
+<h2><span class="mw-headline" id="Today">Today</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vadstena_Castle&amp;action=edit&amp;section=2" title="Edit section: Today">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since 1899, the castle has housed the Provincial Archives and today visitors can also find a Castle Museum with 16th and 17th century furniture, portraits and paintings. The castle is also the seat of the International Vadstena Academy, Sweden's smallest opera house, commissioning new operas and reviving lost operas from archival scores.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> During summers the courtyard plays host to many concerts; both classical and pop music.
+</p>
+<center>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a class="image" href="/wiki/File:Vadstena_slott_mittornet.JPG"><img alt="" data-file-height="2560" data-file-width="1920" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vadstena_slott_mittornet.JPG/90px-Vadstena_slott_mittornet.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vadstena_slott_mittornet.JPG/135px-Vadstena_slott_mittornet.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vadstena_slott_mittornet.JPG/180px-Vadstena_slott_mittornet.JPG 2x" width="90"/></a></div></div>
+			<div class="gallerytext">
+<p>The chapel is situated in the main tower.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:35px auto;"><a class="image" href="/wiki/File:Vadstena_slott.jpg"><img alt="" data-file-height="427" data-file-width="640" decoding="async" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Vadstena_slott.jpg/120px-Vadstena_slott.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Vadstena_slott.jpg/180px-Vadstena_slott.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Vadstena_slott.jpg/240px-Vadstena_slott.jpg 2x" width="120"/></a></div></div>
+			<div class="gallerytext">
+<p>Winter view from north-east.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:52.5px auto;"><a class="image" href="/wiki/File:Vadstena_Castle.JPG"><img alt="" data-file-height="1748" data-file-width="4680" decoding="async" height="45" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Vadstena_Castle.JPG/120px-Vadstena_Castle.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Vadstena_Castle.JPG/180px-Vadstena_Castle.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Vadstena_Castle.JPG/240px-Vadstena_Castle.JPG 2x" width="120"/></a></div></div>
+			<div class="gallerytext">
+<p>Summer view from south-west.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:33.5px auto;"><a class="image" href="/wiki/File:Vadstena_slott,_%C3%B6stra_sidan,_juni_2005.jpg"><img alt="" data-file-height="822" data-file-width="1192" decoding="async" height="83" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vadstena_slott%2C_%C3%B6stra_sidan%2C_juni_2005.jpg/120px-Vadstena_slott%2C_%C3%B6stra_sidan%2C_juni_2005.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vadstena_slott%2C_%C3%B6stra_sidan%2C_juni_2005.jpg/180px-Vadstena_slott%2C_%C3%B6stra_sidan%2C_juni_2005.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vadstena_slott%2C_%C3%B6stra_sidan%2C_juni_2005.jpg/240px-Vadstena_slott%2C_%C3%B6stra_sidan%2C_juni_2005.jpg 2x" width="120"/></a></div></div>
+			<div class="gallerytext">
+<p>Circular turrets by the moat.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:33px auto;"><a class="image" href="/wiki/File:Vadstena_slott_k%C3%A4llaren_kanon.JPG"><img alt="" data-file-height="1786" data-file-width="2560" decoding="async" height="84" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vadstena_slott_k%C3%A4llaren_kanon.JPG/120px-Vadstena_slott_k%C3%A4llaren_kanon.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vadstena_slott_k%C3%A4llaren_kanon.JPG/180px-Vadstena_slott_k%C3%A4llaren_kanon.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vadstena_slott_k%C3%A4llaren_kanon.JPG/240px-Vadstena_slott_k%C3%A4llaren_kanon.JPG 2x" width="120"/></a></div></div>
+			<div class="gallerytext">
+<p>The basement with a 17th-century cannon.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a class="image" href="/wiki/File:Vadstena_castle_main_gate.jpg"><img alt="" data-file-height="613" data-file-width="817" decoding="async" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Vadstena_castle_main_gate.jpg/120px-Vadstena_castle_main_gate.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Vadstena_castle_main_gate.jpg/180px-Vadstena_castle_main_gate.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Vadstena_castle_main_gate.jpg/240px-Vadstena_castle_main_gate.jpg 2x" width="120"/></a></div></div>
+			<div class="gallerytext">
+<p>Main gate
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a class="image" href="/wiki/File:Vadstena_castle_gate.jpg"><img alt="" data-file-height="613" data-file-width="817" decoding="async" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vadstena_castle_gate.jpg/120px-Vadstena_castle_gate.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vadstena_castle_gate.jpg/180px-Vadstena_castle_gate.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vadstena_castle_gate.jpg/240px-Vadstena_castle_gate.jpg 2x" width="120"/></a></div></div>
+			<div class="gallerytext">
+<p>Bridge leading to the main gate
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a class="image" href="/wiki/File:Vadstena_castle_tower.jpg"><img alt="" data-file-height="613" data-file-width="817" decoding="async" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Vadstena_castle_tower.jpg/120px-Vadstena_castle_tower.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Vadstena_castle_tower.jpg/180px-Vadstena_castle_tower.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Vadstena_castle_tower.jpg/240px-Vadstena_castle_tower.jpg 2x" width="120"/></a></div></div>
+			<div class="gallerytext">
+<p>Tower
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a class="image" href="/wiki/File:Vadstena_castle_detail.jpg"><img alt="" data-file-height="613" data-file-width="817" decoding="async" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Vadstena_castle_detail.jpg/120px-Vadstena_castle_detail.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Vadstena_castle_detail.jpg/180px-Vadstena_castle_detail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Vadstena_castle_detail.jpg/240px-Vadstena_castle_detail.jpg 2x" width="120"/></a></div></div>
+			<div class="gallerytext">
+<p>Suspension bridge
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a class="image" href="/wiki/File:Vadstena_castle_wall.jpg"><img alt="" data-file-height="613" data-file-width="817" decoding="async" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vadstena_castle_wall.jpg/120px-Vadstena_castle_wall.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vadstena_castle_wall.jpg/180px-Vadstena_castle_wall.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vadstena_castle_wall.jpg/240px-Vadstena_castle_wall.jpg 2x" width="120"/></a></div></div>
+			<div class="gallerytext">
+<p>Gun on the fortress wall
+</p>
+			</div>
+		</div></li>
+</ul>
+</center>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vadstena_Castle&amp;action=edit&amp;section=3" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.vadstena-akademien.org/english/" rel="nofollow">Vadstena Akademien</a>.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vadstena_Castle&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Vadstena_slott" title="commons:Category:Vadstena slott"><span style="">Vadstena slott</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a class="external text" href="http://www.vadstenadirect.se/" rel="nofollow">Official visitor site (Swedish)</a></li>
+<li><a class="external text" href="http://www.nationalmuseum.se/sv/english-startpage/Visit-the-museum/NM-runt-om-i-Sverige/Vadstena-slott/" rel="nofollow">The castle at the Nationalmuseum website</a></li></ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Vadstena_Castle&amp;params=58_26_45_N_14_53_01_E_region:SE-E_type:landmark_source:dewiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">58°26′45″N</span> <span class="longitude">14°53′01″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">58.44583°N 14.88361°E</span><span style="display:none">﻿ / <span class="geo">58.44583; 14.88361</span></span></span></a></span></span></span>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20191213150758
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.468 seconds
+Real time usage: 0.695 seconds
+Preprocessor visited node count: 1451/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9521/2097152 bytes
+Template argument size: 812/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8773/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.276/10.000 seconds
+Lua memory usage: 10.44 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  667.874      1 -total
+ 39.06%  260.863      2 Template:Lang-sv
+ 25.81%  172.380      1 Template:Infobox_building
+ 19.74%  131.870      1 Template:Infobox
+ 12.85%   85.792      1 Template:Commonscat
+  9.17%   61.268      1 Template:Coord
+  6.25%   41.768      2 Template:Yesno
+  6.12%   40.889      1 Template:Commons
+  5.53%   36.938      1 Template:Sister_project
+  4.60%   30.741      1 Template:Infobox_mapframe
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5179066-0!canonical and timestamp 20191213150758 and revision id 885793700
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Vadstena_Castle&amp;oldid=885793700">https://en.wikipedia.org/w/index.php?title=Vadstena_Castle&amp;oldid=885793700</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Listed_buildings_in_Sweden" title="Category:Listed buildings in Sweden">Listed buildings in Sweden</a></li><li><a href="/wiki/Category:%C3%96sterg%C3%B6tland" title="Category:Östergötland">Östergötland</a></li><li><a href="/wiki/Category:Castles_in_%C3%96sterg%C3%B6tland_County" title="Category:Castles in Östergötland County">Castles in Östergötland County</a></li><li><a href="/wiki/Category:Museums_in_%C3%96sterg%C3%B6tland_County" title="Category:Museums in Östergötland County">Museums in Östergötland County</a></li><li><a href="/wiki/Category:Historic_house_museums_in_Sweden" title="Category:Historic house museums in Sweden">Historic house museums in Sweden</a></li><li><a href="/wiki/Category:Royal_residences_in_Sweden" title="Category:Royal residences in Sweden">Royal residences in Sweden</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Infobox_mapframe_without_OSM_relation_ID_on_Wikidata" title="Category:Infobox mapframe without OSM relation ID on Wikidata">Infobox mapframe without OSM relation ID on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_Swedish-language_text" title="Category:Articles containing Swedish-language text">Articles containing Swedish-language text</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Pages_using_the_Kartographer_extension" title="Category:Pages using the Kartographer extension">Pages using the Kartographer extension</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Vadstena+Castle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Vadstena+Castle" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Vadstena_Castle" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Vadstena_Castle" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Vadstena_Castle">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Vadstena_Castle&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Vadstena_Castle&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Vadstena_Castle" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Vadstena_Castle" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Vadstena_Castle&amp;oldid=885793700" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Vadstena_Castle&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1757808" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Vadstena_Castle&amp;id=885793700" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Vadstena_slott" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Vadstena+Castle">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Vadstena+Castle&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Vadstena_Castle&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%92%D0%B0%D0%B4%D1%81%D1%82%D1%8D%D0%BD%D1%81%D0%BA%D1%96_%D0%B7%D0%B0%D0%BC%D0%B0%D0%BA" hreflang="be" lang="be" title="Вадстэнскі замак – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%92%D0%B0%D0%B4%D1%81%D1%82%D1%8D%D0%BD%D1%81%D0%BA%D1%96_%D0%B7%D0%B0%D0%BC%D0%B0%D0%BA" hreflang="be-tarask" lang="be-tarask" title="Вадстэнскі замак – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Castell_de_Vadstena" hreflang="ca" lang="ca" title="Castell de Vadstena – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Vadstena_Slot" hreflang="da" lang="da" title="Vadstena Slot – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Schloss_Vadstena" hreflang="de" lang="de" title="Schloss Vadstena – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Vadstena_loss" hreflang="et" lang="et" title="Vadstena loss – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Castillo_de_Vadstena" hreflang="es" lang="es" title="Castillo de Vadstena – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Vadstenako_gaztelua" hreflang="eu" lang="eu" title="Vadstenako gaztelua – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Vadstena" hreflang="fr" lang="fr" title="Château de Vadstena – French">Français</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Kastelo_di_Vadstena" hreflang="io" lang="io" title="Kastelo di Vadstena – Ido">Ido</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Castello_di_Vadstena" hreflang="it" lang="it" title="Castello di Vadstena – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%94%E1%83%93%E1%83%A1%E1%83%A2%E1%83%94%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%AA%E1%83%98%E1%83%AE%E1%83%94%E1%83%A1%E1%83%98%E1%83%9B%E1%83%90%E1%83%92%E1%83%A0%E1%83%94" hreflang="ka" lang="ka" title="ვედსტენის ციხესიმაგრე – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Vadstena_slott" hreflang="nb" lang="nb" title="Vadstena slott – Norwegian Bokmål">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Zamek_w_Vadstenie" hreflang="pl" lang="pl" title="Zamek w Vadstenie – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Castelo_de_Vadstena" hreflang="pt" lang="pt" title="Castelo de Vadstena – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%B4%D1%81%D1%82%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA" hreflang="ru" lang="ru" title="Вадстенский замок – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Vadstenan_linna" hreflang="fi" lang="fi" title="Vadstenan linna – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Vadstena_slott" hreflang="sv" lang="sv" title="Vadstena slott – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D0%B0%D0%B4%D1%81%D1%82%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA" hreflang="uk" lang="uk" title="Вадстенський замок – Ukrainian">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1757808#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 March 2019, at 10:46<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Vadstena_Castle&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.468","walltime":"0.695","ppvisitednodes":{"value":1451,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":9521,"limit":2097152},"templateargumentsize":{"value":812,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8773,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  667.874      1 -total"," 39.06%  260.863      2 Template:Lang-sv"," 25.81%  172.380      1 Template:Infobox_building"," 19.74%  131.870      1 Template:Infobox"," 12.85%   85.792      1 Template:Commonscat","  9.17%   61.268      1 Template:Coord","  6.25%   41.768      2 Template:Yesno","  6.12%   40.889      1 Template:Commons","  5.53%   36.938      1 Template:Sister_project","  4.60%   30.741      1 Template:Infobox_mapframe"]},"scribunto":{"limitreport-timeusage":{"value":"0.276","limit":"10.000"},"limitreport-memusage":{"value":10945110,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20191213150758","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Vadstena Castle","url":"https:\/\/en.wikipedia.org\/wiki\/Vadstena_Castle","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1757808","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1757808","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-05-17T13:39:50Z","dateModified":"2019-03-02T10:46:19Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bf\/Vadstena.slottet.jpg","headline":"built as the fortress by Gustav Vasa, in the 16th century, to protect Stockholm from enemies approaching from the south. The castle has been very well preserved, and is one best examples of Renaissance architecture of Sweden."}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1321"});});</script>
+
+
+</body></html>

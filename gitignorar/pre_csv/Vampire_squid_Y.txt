@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Vampire squid - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfkcZQpAADsAAHp4w7sAAAEV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Vampire_squid","wgTitle":"Vampire squid","wgCurRevisionId":924882133,"wgRevisionId":924882133,"wgArticleId":420944,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles with 'species' microformats","All articles with unsourced statements","Articles with unsourced statements from May 2014","Squid","Living fossils",
+"Molluscs described in 1903","Bioluminescent molluscs","Taxa named by Carl Chun"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Vampire_squid","wgRelevantArticleId":420944,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2509902","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user"
+:"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/9/90/Vampire_des_abysses.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Vampire_squid" rel="alternate"/>
+<link href="/w/index.php?title=Vampire_squid&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Vampire_squid&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Vampire_squid" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Vampire_squid rootpage-Vampire_squid skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Vampire squid</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Species of cephalopod</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Vampire squid
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><a class="image" href="/wiki/File:Vampire_des_abysses.jpg"><img alt="Vampire des abysses.jpg" data-file-height="404" data-file-width="600" decoding="async" height="148" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Vampire_des_abysses.jpg/220px-Vampire_des_abysses.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Vampire_des_abysses.jpg/330px-Vampire_des_abysses.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Vampire_des_abysses.jpg/440px-Vampire_des_abysses.jpg 2x" width="220"/></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Adult vampire squid illustration
+</td></tr>
+
+
+
+
+
+<tr>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Vampyroteuthis" title="edit"><img alt="edit" data-file-height="16" data-file-width="16" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" width="16"/></a></span>
+</th></tr>
+<tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
+<tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Mollusca" title="Mollusca">Mollusca</a>
+</td></tr>
+<tr>
+<td>Class:
+</td>
+<td><a href="/wiki/Cephalopod" title="Cephalopod">Cephalopoda</a>
+</td></tr>
+<tr>
+<td>Order:
+</td>
+<td><a href="/wiki/Vampyromorphida" title="Vampyromorphida">Vampyromorphida</a>
+</td></tr>
+<tr>
+<td>Family:
+</td>
+<td><a href="/wiki/Vampyroteuthidae" title="Vampyroteuthidae">Vampyroteuthidae</a>
+</td></tr>
+<tr>
+<td>Genus:
+</td>
+<td><a class="mw-selflink selflink"><i>Vampyroteuthis</i></a><br/><small><a href="/wiki/Carl_Chun" title="Carl Chun">Chun</a>, 1903</small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>Species:
+</td>
+<td><div class="species" style="display:inline"><i><b>V. infernalis</b></i></div>
+</td></tr>
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><span style="font-weight:normal;"></span><i>Vampyroteuthis infernalis</i></span></b><br/><div style="font-size: 85%;"><a href="/wiki/Carl_Chun" title="Carl Chun">Chun</a>, 1903</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul><li><i>Cirroteuthis macrope</i><br/><small>Berry, 1911</small></li>
+<li><i>Vampyroteuthis macrope</i><br/><small>(Berry, 1911)</small></li>
+<li><i>Melanoteuthis lucens</i><br/><small>Joubin, 1912</small></li>
+<li><i>Watasella nigra</i><br/><small>Sasaki, 1920</small></li>
+<li><i>Danateuthis schmidti</i><br/><small>Joubin, 1929</small></li>
+<li><i>Hansenoteuthis lucens</i><br/><small>Joubin, 1929</small></li>
+<li><i>Melanoteuthis schmidti</i><br/><small>Joubin, 1929</small></li>
+<li><i>Melanoteuthis beebei</i><br/><small>Robson, 1929</small></li>
+<li><i>Retroteuthis pacifica</i><br/><small>Joubin, 1929</small></li>
+<li><i>Melanoteuthis anderseni</i><br/><small>Joubin, 1931</small></li></ul>
+</td></tr>
+
+</tbody></table>
+<p>The <b>vampire squid</b> (<i>Vampyroteuthis infernalis</i>, lit. "vampire squid from Hell") is a small <a href="/wiki/Cephalopod" title="Cephalopod">cephalopod</a> found throughout temperate and tropical oceans in <a href="/wiki/Vampire_squid#Habitat_and_adaptations" title="Vampire squid">extreme deep sea conditions</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Unique retractile sensory filaments justify the vampire squid's placement in its own <a href="/wiki/Order_(biology)" title="Order (biology)">order</a>, <a href="/wiki/Vampyromorphida" title="Vampyromorphida">Vampyromorphida</a>, as it shares similarities with both <a href="/wiki/Octopus" title="Octopus">octopuses</a> and <a href="/wiki/Squid" title="Squid">squid</a>. As a <a class="mw-redirect" href="/wiki/Phylogeny" title="Phylogeny">phylogenetic</a> <a href="/wiki/Relict_(biology)" title="Relict (biology)">relict</a>, it is the only known surviving member of its order. The first specimens were collected on the <a href="/wiki/Valdivia_Expedition" title="Valdivia Expedition">Valdivia Expedition</a> and they were originally <a href="/wiki/Species_description" title="Species description">described</a> as an octopus in 1903 by German <a href="/wiki/Teuthology" title="Teuthology">teuthologist</a> <a href="/wiki/Carl_Chun" title="Carl Chun">Carl Chun</a>, but later assigned to a new order together with several extinct <a href="/wiki/Taxon" title="Taxon">taxa</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Habitat_and_adaptations"><span class="tocnumber">2</span> <span class="toctext">Habitat and adaptations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Development"><span class="tocnumber">3</span> <span class="toctext">Development</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour"><span class="tocnumber">4</span> <span class="toctext">Behaviour</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Relationships"><span class="tocnumber">5</span> <span class="toctext">Relationships</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Images"><span class="tocnumber">8.1</span> <span class="toctext">Images</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vampire_squid&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The vampire squid can reach a maximum total length around 30 cm (1 ft). Its 15-cm (6-in) gelatinous body varies in colour from velvety jet-black to pale reddish, depending on location and lighting conditions. A webbing of skin connects its eight arms, each lined with rows of fleshy spines or cirri; the inner side of this "cloak" is black. Only the distal halves (farthest from the body) of the arms have suckers. Its limpid, globular eyes, which appear red or blue, depending on lighting, are proportionately the largest in the animal kingdom at 2.5 cm (1 in) in diameter.<sup class="reference" id="cite_ref-Ellis_2-0"><a href="#cite_note-Ellis-2">[2]</a></sup> The name of the animal was inspired by its dark colour, cloaklike webbing, and red eyes, rather than habit—it feeds on <a href="/wiki/Marine_snow" title="Marine snow">detritus</a>, not blood.<sup class="reference" id="cite_ref-Seibel_3-0"><a href="#cite_note-Seibel-3">[3]</a></sup><sup class="reference" id="cite_ref-:0_4-0"><a href="#cite_note-:0-4">[4]</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Vampyroteuthis_infernalis_dorsal_view.jpg"><img alt="" class="thumbimage" data-file-height="988" data-file-width="1504" decoding="async" height="145" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vampyroteuthis_infernalis_dorsal_view.jpg/220px-Vampyroteuthis_infernalis_dorsal_view.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vampyroteuthis_infernalis_dorsal_view.jpg/330px-Vampyroteuthis_infernalis_dorsal_view.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vampyroteuthis_infernalis_dorsal_view.jpg/440px-Vampyroteuthis_infernalis_dorsal_view.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Vampyroteuthis_infernalis_dorsal_view.jpg" title="Enlarge"></a></div>Dorsal view</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Vampyroteuthis_infernalis_arms.jpg"><img alt="" class="thumbimage" data-file-height="1500" data-file-width="1444" decoding="async" height="229" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vampyroteuthis_infernalis_arms.jpg/220px-Vampyroteuthis_infernalis_arms.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vampyroteuthis_infernalis_arms.jpg/330px-Vampyroteuthis_infernalis_arms.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vampyroteuthis_infernalis_arms.jpg/440px-Vampyroteuthis_infernalis_arms.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Vampyroteuthis_infernalis_arms.jpg" title="Enlarge"></a></div>Oral view</div></div></div>
+<p>Mature adults have a pair of <a href="/wiki/Cephalopod_fin" title="Cephalopod fin">small fins</a> projecting from the lateral sides of the <a href="/wiki/Mantle_(mollusc)" title="Mantle (mollusc)">mantle</a>. These earlike fins serve as the adult's primary means of propulsion: vampire squid move through the water by flapping their fins. Their beaklike jaws are white. Within the webbing are two pouches wherein the tactile velar filaments are concealed. The filaments are analogous to a true squid's <a href="/wiki/Tentacle" title="Tentacle">tentacles</a>, extending well past the <a class="mw-redirect" href="/wiki/Cephalopod_arm" title="Cephalopod arm">arms</a>; but differ in origin, and represent the pair that was lost by the ancestral octopus.
+</p><p>The vampire squid is almost entirely covered in light-producing organs called <a href="/wiki/Photophore" title="Photophore">photophores</a>, capable of producing disorienting flashes of light ranging in duration from fractions of a second to several minutes. The intensity and size of the photophores can also be modulated. Appearing as small, white discs, the photophores are larger and more complex at the tips of the arms and at the base of the two fins, but are absent from the undersides of the caped arms. Two larger, white areas on top of the head were initially believed to also be photophores, but are now identified as <a class="mw-redirect" href="/wiki/Simple_eyes_in_invertebrates" title="Simple eyes in invertebrates">photoreceptors</a>.
+</p><p>The <a href="/wiki/Chromatophore" title="Chromatophore">chromatophores</a> (pigment organs) common to most <a href="/wiki/Cephalopod" title="Cephalopod">cephalopods</a> are poorly developed in the vampire squid. Although the animal is, therefore, incapable of changing its skin colour in the dramatic fashion of shallow-dwelling cephalopods, such ability would not be useful at the lightless depths where it lives.
+</p>
+<h2><span class="mw-headline" id="Habitat_and_adaptations">Habitat and adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vampire_squid&amp;action=edit&amp;section=2" title="Edit section: Habitat and adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The vampire squid is an extreme example of a <a href="/wiki/Deep_sea" title="Deep sea">deep sea</a> cephalopod, thought to reside at <a href="/wiki/Aphotic_zone" title="Aphotic zone">aphotic</a> (lightless) depths from 600 to 900 metres (2,000 to 3,000 ft) or more. Within this region of the world's oceans is a discrete <a class="mw-redirect" href="/wiki/Habitat_(ecology)" title="Habitat (ecology)">habitat</a> known as the <a href="/wiki/Oxygen_minimum_zone" title="Oxygen minimum zone">oxygen minimum zone</a>. Within the zone, the <a href="/wiki/Saturation_(chemistry)" title="Saturation (chemistry)">saturation</a> of <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> is too low to support aerobic <a href="/wiki/Metabolism" title="Metabolism">metabolism</a> in most complex organisms. Nonetheless, the vampire squid is able to live and breathe normally in the minimum zone at oxygen saturations as low as 3%, an ability that few other animals possess.
+</p><p>To cope with life in the suffocating depths, vampire squids have developed several interesting adaptations. Of all deep-sea cephalopods, their mass-specific <a href="/wiki/Metabolism" title="Metabolism">metabolic rate</a> is the lowest. Their blue blood's <a href="/wiki/Hemocyanin" title="Hemocyanin">hemocyanin</a> binds and transports oxygen more efficiently than in other cephalopods,<sup class="reference" id="cite_ref-FOOTNOTESeibelChaussonLallierZal1999_5-0"><a href="#cite_note-FOOTNOTESeibelChaussonLallierZal1999-5">[5]</a></sup> aided by <a href="/wiki/Gill" title="Gill">gills</a> with an especially large surface area. The animals have weak musculature, but maintain agility and buoyancy with little effort because of sophisticated <a href="/wiki/Statocyst" title="Statocyst">statocysts</a> (balancing organs akin to a human's <a href="/wiki/Inner_ear" title="Inner ear">inner ear</a>)<sup class="reference" id="cite_ref-FOOTNOTEStephensYoung2009_6-0"><a href="#cite_note-FOOTNOTEStephensYoung2009-6">[6]</a></sup> and <a href="/wiki/Ammonium" title="Ammonium">ammonium</a>-rich gelatinous tissues closely matching the <a href="/wiki/Density" title="Density">density</a> of the surrounding seawater.
+</p><p>Like many deep-sea cephalopods, the vampire squid lacks <a href="/wiki/Cephalopod_ink" title="Cephalopod ink">ink</a> sacs. If disturbed, it will curl its arms up outwards and wrap them around its body, turning itself inside-out in a way, exposing spiny projections.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> If highly agitated, it may eject a sticky cloud of bioluminescent mucus containing innumerable orbs of blue light from the arm tips. This luminous barrage, which may last nearly 10 minutes, would presumably serve to dazzle would-be predators and allow the vampire squid to disappear into the blackness without the need to swim far. The display is made only if the animal is very agitated because regenerating the mucus is metabolically costly.
+</p>
+<h2><span class="mw-headline" id="Development">Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vampire_squid&amp;action=edit&amp;section=3" title="Edit section: Development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Vampyroteuthis1.jpg"><img alt="" class="thumbimage" data-file-height="1545" data-file-width="2355" decoding="async" height="164" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Vampyroteuthis1.jpg/250px-Vampyroteuthis1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Vampyroteuthis1.jpg/375px-Vampyroteuthis1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Vampyroteuthis1.jpg/500px-Vampyroteuthis1.jpg 2x" width="250"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Vampyroteuthis1.jpg" title="Enlarge"></a></div>Dissected adult (center) and two immature specimens</div></div></div>
+<p>Few specifics are known regarding the <a href="/wiki/Ontogeny" title="Ontogeny">ontogeny</a> of the vampire squid. Their development progresses through three morphologic forms: the very young animals have a single pair of fins, an intermediate form has two pairs, and the mature form again has one. At their earliest and intermediate phases of development, a pair of fins is located near the eyes; as the animal develops, this pair gradually disappears as the other pair develops.<sup class="reference" id="cite_ref-FOOTNOTEPickford1949_8-0"><a href="#cite_note-FOOTNOTEPickford1949-8">[8]</a></sup> As the animals grow and their surface area to volume ratio drops, the fins are resized and repositioned to maximize gait efficiency. Whereas the young propel themselves primarily by jet propulsion, mature adults find flapping their fins to be the most efficient means.<sup class="reference" id="cite_ref-FOOTNOTESeibelThuesenChildress1998_9-0"><a href="#cite_note-FOOTNOTESeibelThuesenChildress1998-9">[9]</a></sup> This unique ontogeny caused confusion in the past, with the varying forms identified as several species in distinct families.<sup class="reference" id="cite_ref-FOOTNOTEYoung2002_10-0"><a href="#cite_note-FOOTNOTEYoung2002-10">[10]</a></sup>
+</p><p>If hypotheses may be drawn from knowledge of other deep-sea cephalopods, the vampire squid likely reproduces slowly by way of a small number of large eggs. Growth is slow, as nutrients are not abundant at depths frequented by the animals. The vastness of their habitat and its sparse population make procreative encounters a fortuitous event. The female may store a male's hydraulically implanted <a href="/wiki/Spermatophore" title="Spermatophore">spermatophore</a> (a tapered, cylindrical satchel of <a href="/wiki/Sperm" title="Sperm">sperm</a>) for long periods before she is ready to fertilize her eggs. Once she does, she may need to brood over them for up to 400 days before they hatch. Their reproductive strategy appears to be of the <a href="/wiki/Semelparity_and_iteroparity" title="Semelparity and iteroparity">iteroparous</a> type, which is an exception amongst the otherwise semelparous Coleoidea.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p><p>Hatchlings are about 8 mm in length and are well-developed miniatures of the adults, with some differences. Their arms lack webbing, their eyes are smaller, and their velar filaments are not fully formed. The hatchlings are transparent and survive on a generous internal <a href="/wiki/Yolk" title="Yolk">yolk</a> for an unknown period before they begin to actively feed. The smaller animals frequent much deeper waters, perhaps feeding on <a href="/wiki/Marine_snow" title="Marine snow">marine snow</a> (falling organic detritus).
+</p>
+<h2><span class="mw-headline" id="Behaviour">Behaviour</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vampire_squid&amp;action=edit&amp;section=4" title="Edit section: Behaviour">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Vampyroteuthis_illustration.jpg"><img alt="" class="thumbimage" data-file-height="431" data-file-width="675" decoding="async" height="140" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vampyroteuthis_illustration.jpg/220px-Vampyroteuthis_illustration.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vampyroteuthis_illustration.jpg/330px-Vampyroteuthis_illustration.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vampyroteuthis_illustration.jpg/440px-Vampyroteuthis_illustration.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Vampyroteuthis_illustration.jpg" title="Enlarge"></a></div>Vampire squid illustration</div></div></div>
+<p>What behavioural data are known have been gleaned from ephemeral encounters with <a href="/wiki/Remotely_operated_underwater_vehicle" title="Remotely operated underwater vehicle">ROVs</a>; animals are often injured during capture, and survive up to two months in aquaria.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2014)">citation needed</span></a></i>]</sup> An artificial environment makes reliable observation of non-defensive behaviour difficult. In May 2014, <a href="/wiki/Monterey_Bay_Aquarium" title="Monterey Bay Aquarium">Monterey Bay Aquarium</a> (California, United States) became the first to ever put this species on display.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p><p>With their long velar filaments deployed, vampire squids have been observed drifting along in the deep, black ocean currents. If the filaments contact an entity, or if vibrations impinge upon them, the animals investigate with rapid acrobatic movements. They are capable of swimming at speeds equivalent to two body lengths per second, with an acceleration time of five seconds. However, their weak muscles limit stamina considerably.
+</p><p>Unlike their relatives living in more hospitable climates, deep-sea cephalopods cannot afford to expend energy in protracted flight. Given their low metabolic rate and the low density of prey at such depths, vampire squids must use innovative predator avoidance tactics to conserve energy. Their aforementioned bioluminescent "fireworks" are combined with the writhing of glowing arms, erratic movements, and escape trajectories, making it difficult for a predator to identify a single target.
+</p><p>In a threat response called the "pumpkin" or "pineapple" posture, the vampire squid inverts its caped arms back over the body, presenting an ostensibly larger form covered in fearsome-looking though harmless spines (called cirri).<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> The underside of the cape is heavily pigmented, masking most of the body's photophores. The glowing arm tips are clustered together far above the animal's head, diverting attack away from critical areas. If a predator were to bite off an arm tip, the vampire squid can regenerate it.
+</p><p>They have eight arms but lack feeding tentacles, and instead use two retractile filaments in order to capture food. They combine the waste with mucus secreted from suckers to form balls of food. They feed on detritus, including the remains of <a href="/wiki/Gelatinous_zooplankton" title="Gelatinous zooplankton">gelatinous zooplankton</a> (such as <a href="/wiki/Salp" title="Salp">salps</a>, <a href="/wiki/Larvacea" title="Larvacea">larvaceans</a>, and medusae <a href="/wiki/Jellyfish" title="Jellyfish">jellies</a>) and complete copepods, ostracods, amphipods, and isopods.<sup class="reference" id="cite_ref-FOOTNOTEHovingRobison2012_15-0"><a href="#cite_note-FOOTNOTEHovingRobison2012-15">[15]</a></sup><sup class="reference" id="cite_ref-:0_4-1"><a href="#cite_note-:0-4">[4]</a></sup>
+</p><p>Vampire squids have been found among the stomach contents of large, deepwater fish, including <a class="mw-redirect" href="/wiki/Giant_grenadier" title="Giant grenadier">giant grenadiers</a>,<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> and deep-diving mammals, such as <a href="/wiki/Whale" title="Whale">whales</a> and <a href="/wiki/Sea_lion" title="Sea lion">sea lions</a>.
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vampire_squid&amp;action=edit&amp;section=5" title="Edit section: Relationships">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Vampylarge.JPG"><img alt="" class="thumbimage" data-file-height="860" data-file-width="1503" decoding="async" height="143" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vampylarge.JPG/250px-Vampylarge.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vampylarge.JPG/375px-Vampylarge.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vampylarge.JPG/500px-Vampylarge.JPG 2x" width="250"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Vampylarge.JPG" title="Enlarge"></a></div><a class="mw-redirect" href="/wiki/Pyritization" title="Pyritization">Pyritized</a> fossil of <i><a href="/wiki/Vampyronassa" title="Vampyronassa">Vampyronassa rhodanica</a></i> from the Lower <a href="/wiki/Callovian" title="Callovian">Callovian</a> of <a href="/wiki/La_Voulte-sur-Rh%C3%B4ne_(lagerst%C3%A4tte)" title="La Voulte-sur-Rhône (lagerstätte)">La Voulte-sur-Rhône</a>.</div></div></div>
+<p>The Vampyromorphida are characterized by derived characters such as the possession of photophores and of two velar filaments which are most probably modified arms. It also shares the inclusion of an internal <a href="/wiki/Gladius_(cephalopod)" title="Gladius (cephalopod)">gladius</a> with other <a href="/wiki/Coleoidea" title="Coleoidea">coleoids</a>, including squid, and eight webbed arms with <a href="/wiki/Cirrina" title="Cirrina">cirrate</a> octopods.
+</p><p><i>Vampyroteuthis</i> shares its eight cirrate arms with the Cirrata, in which lateral cirri, or filaments, alternate with the suckers. <i>Vampyroteuthis</i> differs in that suckers are present only on the distal half of the arms while cirri run the entire length. In cirrate octopods suckers and cirri run and alternate on the entire length. Also, a close relationship between <i>Vampyroteuthis</i> and the Jurassic-Cretaceous <a class="new" href="/w/index.php?title=Loligosepiina&amp;action=edit&amp;redlink=1" title="Loligosepiina (page does not exist)">Loligosepiina</a> is indicated by the similarity of their gladiuses, the internal stiffening structure. However, the inclusion of <i><a href="/wiki/Vampyronassa" title="Vampyronassa">Vampyronassa rhodanica</a></i> from the middle Jurassic <a href="/wiki/La_Voulte-sur-Rh%C3%B4ne_(lagerst%C3%A4tte)" title="La Voulte-sur-Rhône (lagerstätte)">La Voulte-sur-Rhône</a> of France as a vampyroteuthid turns out to be rather doubtful.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p><p>The supposed vampyromorphids from the <a href="/wiki/Kimmeridgian" title="Kimmeridgian">Kimmeridgian</a>-<a href="/wiki/Tithonian" title="Tithonian">Tithonian</a> (156–146 mya) of <a href="/wiki/Solnhofen" title="Solnhofen">Solnhofen</a>, <i><a class="new" href="/w/index.php?title=Plesioteuthis_prisca&amp;action=edit&amp;redlink=1" title="Plesioteuthis prisca (page does not exist)">Plesioteuthis prisca</a></i>, <i><a class="new" href="/w/index.php?title=Leptoteuthis_gigas&amp;action=edit&amp;redlink=1" title="Leptoteuthis gigas (page does not exist)">Leptoteuthis gigas</a></i>, and <i><a class="mw-redirect" href="/wiki/Trachyteuthis_hastiformis" title="Trachyteuthis hastiformis">Trachyteuthis hastiformis</a></i>, cannot be positively assigned to this group; they are large species (from 35 cm in <i>P. prisca</i> to &gt; 1 m in <i>L. gigas</i>) and show features not found in vampyromorphids, being somewhat similar to the true squids, <a class="mw-redirect" href="/wiki/Teuthida" title="Teuthida">Teuthida</a>.<sup class="reference" id="cite_ref-FOOTNOTEFischerRiou2002_18-0"><a href="#cite_note-FOOTNOTEFischerRiou2002-18">[18]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vampire_squid&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 40em; -webkit-column-width: 40em; column-width: 40em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://marinebio.org/species.asp?id=179" rel="nofollow">"Vampire Squid, Vampyroteuthis infernalis"</a>. <i>MarineBio.org</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MarineBio.org&amp;rft.atitle=Vampire+Squid%2C+Vampyroteuthis+infernalis&amp;rft_id=http%3A%2F%2Fmarinebio.org%2Fspecies.asp%3Fid%3D179&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Ellis-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ellis_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Ellis, Richard. <a class="external text" href="http://www.thecephalopodpage.org/vsfh.php" rel="nofollow">"Introducing Vampyroteuthis infernalis, the vampire squid from Hell"</a>. <i>The Cephalopod Page</i>. Dr. James B. Wood<span class="reference-accessdate">. Retrieved <span class="nowrap">27 April</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Cephalopod+Page&amp;rft.atitle=Introducing+Vampyroteuthis+infernalis%2C+the+vampire+squid+from+Hell&amp;rft.aulast=Ellis&amp;rft.aufirst=Richard&amp;rft_id=http%3A%2F%2Fwww.thecephalopodpage.org%2Fvsfh.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Seibel-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Seibel_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Seibel, Brad. <a class="external text" href="http://www.thecephalopodpage.org/vampy.php" rel="nofollow">"Vampyroteuthis infernalis, Deep-sea Vampire squid"</a>. <i>The Cephalopod Page</i>. Dr. James B. Wood<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Cephalopod+Page&amp;rft.atitle=Vampyroteuthis+infernalis%2C+Deep-sea+Vampire+squid&amp;rft.aulast=Seibel&amp;rft.aufirst=Brad&amp;rft_id=http%3A%2F%2Fwww.thecephalopodpage.org%2Fvampy.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:0-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.newscientist.com/article/dn22299-vampire-squid-from-hell-eats-faeces-to-survive-depths.html" rel="nofollow">"Vampire squid from hell eats faeces to survive depths"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 May</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vampire+squid+from+hell+eats+faeces+to+survive+depths&amp;rft_id=https%3A%2F%2Fwww.newscientist.com%2Farticle%2Fdn22299-vampire-squid-from-hell-eats-faeces-to-survive-depths.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-FOOTNOTESeibelChaussonLallierZal1999-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESeibelChaussonLallierZal1999_5-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSeibelChaussonLallierZal1999">Seibel et al. 1999</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTEStephensYoung2009-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEStephensYoung2009_6-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFStephensYoung2009">Stephens &amp; Young 2009</a>.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Monterey Bay Aquarium Research Institute (MBARI) (26 September 2012). <a class="external text" href="https://www.youtube.com/watch?v=X8oWnbcLI40&amp;t=33s" rel="nofollow">"What the vampire squid really eats"</a> – via YouTube.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+the+vampire+squid+really+eats&amp;rft.date=2012-09-26&amp;rft.au=Monterey+Bay+Aquarium+Research+Institute+%28MBARI%29&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DX8oWnbcLI40%26t%3D33s&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-FOOTNOTEPickford1949-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPickford1949_8-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPickford1949">Pickford 1949</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTESeibelThuesenChildress1998-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESeibelThuesenChildress1998_9-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSeibelThuesenChildress1998">Seibel, Thuesen &amp; Childress 1998</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTEYoung2002-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEYoung2002_10-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFYoung2002">Young 2002</a>.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hoving, Henk-Jan T.; Laptikhovsky, Vladimir V.; Robison, Bruce H. (2015). <a class="external text" href="http://oceanrep.geomar.de/28773/1/Hoving%2C%20Laptikhovsky%20and%20Robison%202015.pdf" rel="nofollow">"Vampire squid reproductive strategy is unique among coleoid cephalopods"</a> <span class="cs1-format">(PDF)</span>. <i>Current Biology</i>. <b>25</b> (8): R322–R323. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.cub.2015.02.018" rel="nofollow">10.1016/j.cub.2015.02.018</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/25898098" rel="nofollow">25898098</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Current+Biology&amp;rft.atitle=Vampire+squid+reproductive+strategy+is+unique+among+coleoid+cephalopods&amp;rft.volume=25&amp;rft.issue=8&amp;rft.pages=R322-R323&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cub.2015.02.018&amp;rft_id=info%3Apmid%2F25898098&amp;rft.aulast=Hoving&amp;rft.aufirst=Henk-Jan+T.&amp;rft.au=Laptikhovsky%2C+Vladimir+V.&amp;rft.au=Robison%2C+Bruce+H.&amp;rft_id=http%3A%2F%2Foceanrep.geomar.de%2F28773%2F1%2FHoving%252C%2520Laptikhovsky%2520and%2520Robison%25202015.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a href="/wiki/KION-TV" title="KION-TV">KION News</a> (1 May 2014). <i><a class="external text" href="http://www.kionrightnow.com/news/local-news/worlds-first-vampire-squid-on-display-at-monterey-bay-aquarium/25761398" rel="nofollow">World's first vampire squid on display at Monterey Bay Aquarium.</a></i> Retrieved 31 May 2014.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Adams, J. (5 May 2014) <i><a class="external text" href="http://reefbuilders.com/2014/05/05/vampire-squid-display-monterey-bay-aquarium/" rel="nofollow">First ever vampire squid goes on display at the Monterey Bay Aquarium.</a></i> ReefBuilders. Retrieved 31 May 2014.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://news.nationalgeographic.com/news/2010/01/100203-squid-vampire-threatened-video/" rel="nofollow">"Vampire Squid Turns "Inside Out<span class="cs1-kern-right">"</span>"</a>. National Geographic. February 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">3 June</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vampire+Squid+Turns+%22Inside+Out%22&amp;rft.pub=National+Geographic&amp;rft.date=2010-02&amp;rft_id=http%3A%2F%2Fnews.nationalgeographic.com%2Fnews%2F2010%2F01%2F100203-squid-vampire-threatened-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-FOOTNOTEHovingRobison2012-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHovingRobison2012_15-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHovingRobison2012">Hoving &amp; Robison 2012</a>.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Drazen, Jeffrey C; Buckley, Troy W; Hoff, Gerald R (2001). "The feeding habits of slope dwelling macrourid fishes in the eastern North Pacific". <i>Deep-Sea Research Part I: Oceanographic Research Papers</i>. <b>48</b> (3): 909–935. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="https://ui.adsabs.harvard.edu/abs/2001DSRI...48..909D" rel="nofollow">2001DSRI...48..909D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0967-0637%2800%2900058-3" rel="nofollow">10.1016/S0967-0637(00)00058-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Deep-Sea+Research+Part+I%3A+Oceanographic+Research+Papers&amp;rft.atitle=The+feeding+habits+of+slope+dwelling+macrourid+fishes+in+the+eastern+North+Pacific&amp;rft.volume=48&amp;rft.issue=3&amp;rft.pages=909-935&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1016%2FS0967-0637%2800%2900058-3&amp;rft_id=info%3Abibcode%2F2001DSRI...48..909D&amp;rft.aulast=Drazen&amp;rft.aufirst=Jeffrey+C&amp;rft.au=Buckley%2C+Troy+W&amp;rft.au=Hoff%2C+Gerald+R&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.tolweb.org/Loligosepiina/140240" rel="nofollow">"Loligosepiina"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Loligosepiina&amp;rft_id=http%3A%2F%2Fwww.tolweb.org%2FLoligosepiina%2F140240&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-FOOTNOTEFischerRiou2002-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEFischerRiou2002_18-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFFischerRiou2002">Fischer &amp; Riou 2002</a>.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vampire_squid&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><cite class="citation web" id="CITEREFBolstad2003">Bolstad, Kat (2003). <a class="external text" href="http://www.tonmo.com/science/public/deepseacephs.php" rel="nofollow">"Deep-Sea Cephalopods: An Introduction and Overview"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Deep-Sea+Cephalopods%3A+An+Introduction+and+Overview&amp;rft.date=2003&amp;rft.aulast=Bolstad&amp;rft.aufirst=Kat&amp;rft_id=http%3A%2F%2Fwww.tonmo.com%2Fscience%2Fpublic%2Fdeepseacephs.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/> (Version of 5/6/03, retrieved 2006-DEC-06.)</li>
+<li><cite class="citation book" id="CITEREFEllis1996">Ellis, Richard (1996). <a class="external text" href="http://www.thecephalopodpage.org/vsfh.php" rel="nofollow">"Introducing <i>Vampyroteuthis infernalis</i>, the vampire squid from Hell"</a>.  In Knopf, Alfred A. (ed.). <span class="cs1-lock-registration" title="Free registration required"><a class="external text" href="https://archive.org/details/deepatlanticlife00elli" rel="nofollow"><i>The Deep Atlantic: Life, Death, and Exploration in the Abyss</i></a></span>. New York: New York : Alfred A. Knopf. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-679-43324-8" title="Special:BookSources/978-0-679-43324-8"><bdi>978-0-679-43324-8</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-04-30</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Introducing+Vampyroteuthis+infernalis%2C+the+vampire+squid+from+Hell&amp;rft.btitle=The+Deep+Atlantic%3A+Life%2C+Death%2C+and+Exploration+in+the+Abyss&amp;rft.place=New+York&amp;rft.pub=New+York+%3A+Alfred+A.+Knopf&amp;rft.date=1996&amp;rft.isbn=978-0-679-43324-8&amp;rft.aulast=Ellis&amp;rft.aufirst=Richard&amp;rft_id=http%3A%2F%2Fwww.thecephalopodpage.org%2Fvsfh.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal" id="CITEREFFischerRiou2002">Fischer, Jean-Claude; Riou, Bernard (2002). "Vampyronassa rhodanica<i> nov. gen. nov sp., vampyromorphe (Cephalopoda, Coleoidea) du Callovien inférieur de la Voulte-sur-Rhône (Ardèche, France)". </i>Annales de Paléontologie<i>. <b>88</b> (1): 1–17. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0753-3969%2802%2901037-6" rel="nofollow">10.1016/S0753-3969(02)01037-6</a>.</i></cite><i><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annales+de+Pal%C3%A9ontologie&amp;rft.atitle=Vampyronassa+rhodanica+nov.+gen.+nov+sp.%2C+vampyromorphe+%28Cephalopoda%2C+Coleoidea%29+du+Callovien+inf%C3%A9rieur+de+la+Voulte-sur-Rh%C3%B4ne+%28Ard%C3%A8che%2C+France%29&amp;rft.volume=88&amp;rft.issue=1&amp;rft.pages=1-17&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1016%2FS0753-3969%2802%2901037-6&amp;rft.aulast=Fischer&amp;rft.aufirst=Jean-Claude&amp;rft.au=Riou%2C+Bernard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/> (French with English abstract)</i></li>
+<li><cite class="citation journal" id="CITEREFHovingRobison2012">Hoving, H. J. T.; Robison, B. H. (2012). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3479720" rel="nofollow">"Vampire squid: Detritivores in the oxygen minimum zone"</a>. <i>Proceedings of the Royal Society B: Biological Sciences</i>. <b>279</b> (1747): 4559–4567. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1098%2Frspb.2012.1357" rel="nofollow">10.1098/rspb.2012.1357</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3479720" rel="nofollow">3479720</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23015627" rel="nofollow">23015627</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+Royal+Society+B%3A+Biological+Sciences&amp;rft.atitle=Vampire+squid%3A+Detritivores+in+the+oxygen+minimum+zone&amp;rft.volume=279&amp;rft.issue=1747&amp;rft.pages=4559-4567&amp;rft.date=2012&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3479720&amp;rft_id=info%3Apmid%2F23015627&amp;rft_id=info%3Adoi%2F10.1098%2Frspb.2012.1357&amp;rft.aulast=Hoving&amp;rft.aufirst=H.+J.+T.&amp;rft.au=Robison%2C+B.+H.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3479720&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal" id="CITEREFPickford1949">Pickford, Grace E. (1949). "Vampyroteuthis infernalis<i> Chun an archaic dibranchiate cephalopod. II". </i>External Anatomy<i>. Dana Report (32): 1–132.</i></cite><i><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=External+Anatomy&amp;rft.atitle=Vampyroteuthis+infernalis+Chun+an+archaic+dibranchiate+cephalopod.+II.&amp;rft.issue=32&amp;rft.pages=1-132&amp;rft.date=1949&amp;rft.aulast=Pickford&amp;rft.aufirst=Grace+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></i></li>
+<li><cite class="citation journal" id="CITEREFRobisonReisenbichlerHuntHaddock2003">Robison, Bruce H.; Reisenbichler, Kim R.; Hunt, James C.; Haddock, Steven H. D. (2003). <a class="external text" href="http://www.biolbull.org/cgi/reprint/205/2/102.pdf" rel="nofollow">"Light Production by the Arm Tips of the Deep-Sea Cephalopod <i>Vampyroteuthis infernalis</i>"</a> <span class="cs1-format">(PDF)</span>. <i>Biological Bulletin</i>. <b>205</b> (2): 102–109. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2307%2F1543231" rel="nofollow">10.2307/1543231</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/1543231" rel="nofollow">1543231</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14583508" rel="nofollow">14583508</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biological+Bulletin&amp;rft.atitle=Light+Production+by+the+Arm+Tips+of+the+Deep-Sea+Cephalopod+Vampyroteuthis+infernalis&amp;rft.volume=205&amp;rft.issue=2&amp;rft.pages=102-109&amp;rft.date=2003&amp;rft_id=info%3Apmid%2F14583508&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1543231&amp;rft_id=info%3Adoi%2F10.2307%2F1543231&amp;rft.aulast=Robison&amp;rft.aufirst=Bruce+H.&amp;rft.au=Reisenbichler%2C+Kim+R.&amp;rft.au=Hunt%2C+James+C.&amp;rft.au=Haddock%2C+Steven+H.+D.&amp;rft_id=http%3A%2F%2Fwww.biolbull.org%2Fcgi%2Freprint%2F205%2F2%2F102.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation web" id="CITEREFSeibel2001">Seibel, Brad A. (2001). <a class="external text" href="https://web.archive.org/web/20051224235910/http://www.nhm.ac.uk/hosted_sites/tcp/vampy.html" rel="nofollow">"Vampyroteuthis infernalis"</a>. Archived from <a class="external text" href="http://www.nhm.ac.uk/hosted_sites/tcp/vampy.html" rel="nofollow">the original</a> on 2005-12-24<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-12-06</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vampyroteuthis+infernalis&amp;rft.date=2001&amp;rft.aulast=Seibel&amp;rft.aufirst=Brad+A.&amp;rft_id=http%3A%2F%2Fwww.nhm.ac.uk%2Fhosted_sites%2Ftcp%2Fvampy.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal" id="CITEREFSeibelThuesenChildress1998">Seibel, Brad A.; Thuesen, Erik V.; Childress, James J. (1998). <a class="external text" href="http://jeb.biologists.org/cgi/reprint/201/16/2413.pdf" rel="nofollow">"Flight of the vampire: ontogenetic gait-transition in <i>Vampyroteuthis infernalis</i> (Cephalopoda: Vampyromorpha)"</a> <span class="cs1-format">(PDF)</span>. <i>Journal of Experimental Biology</i>. <b>201</b> (16): 2413–2424.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Experimental+Biology&amp;rft.atitle=Flight+of+the+vampire%3A+ontogenetic+gait-transition+in+Vampyroteuthis+infernalis+%28Cephalopoda%3A+Vampyromorpha%29&amp;rft.volume=201&amp;rft.issue=16&amp;rft.pages=2413-2424&amp;rft.date=1998&amp;rft.aulast=Seibel&amp;rft.aufirst=Brad+A.&amp;rft.au=Thuesen%2C+Erik+V.&amp;rft.au=Childress%2C+James+J.&amp;rft_id=http%3A%2F%2Fjeb.biologists.org%2Fcgi%2Freprint%2F201%2F16%2F2413.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal" id="CITEREFSeibelChaussonLallierZal1999">Seibel, Brad A.; Chausson, Fabienne; Lallier, Francois H.; Zal, Franck; Childress, James J. (1999). "Vampire blood: respiratory physiology of the vampire squid (Cephalopoda: Vampyromorpha) in relation to the oxygen minimum layer". <i>Experimental Biology Online</i>. <b>4</b> (1): 1–10. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2Fs00898-999-0001-2" rel="nofollow">10.1007/s00898-999-0001-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Experimental+Biology+Online&amp;rft.atitle=Vampire+blood%3A+respiratory+physiology+of+the+vampire+squid+%28Cephalopoda%3A+Vampyromorpha%29+in+relation+to+the+oxygen+minimum+layer&amp;rft.volume=4&amp;rft.issue=1&amp;rft.pages=1-10&amp;rft.date=1999&amp;rft_id=info%3Adoi%2F10.1007%2Fs00898-999-0001-2&amp;rft.aulast=Seibel&amp;rft.aufirst=Brad+A.&amp;rft.au=Chausson%2C+Fabienne&amp;rft.au=Lallier%2C+Francois+H.&amp;rft.au=Zal%2C+Franck&amp;rft.au=Childress%2C+James+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/> (HTML abstract)</li>
+<li><cite class="citation journal" id="CITEREFStephensYoung2009">Stephens, P. R.; Young, J. Z. (2009). "The statocyst of Vampyroteuthis infernalis (Mollusca: Cephalopoda)". <i>Journal of Zoology</i>. <b>180</b> (4): 565–588. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1111%2Fj.1469-7998.1976.tb04704.x" rel="nofollow">10.1111/j.1469-7998.1976.tb04704.x</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Zoology&amp;rft.atitle=The+statocyst+of+Vampyroteuthis+infernalis+%28Mollusca%3A+Cephalopoda%29&amp;rft.volume=180&amp;rft.issue=4&amp;rft.pages=565-588&amp;rft.date=2009&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1469-7998.1976.tb04704.x&amp;rft.aulast=Stephens&amp;rft.aufirst=P.+R.&amp;rft.au=Young%2C+J.+Z.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation web" id="CITEREFYoung2002">Young, Richard E. (June 2002). <a class="external text" href="http://tolweb.org/accessory/Vampyroteuthidae_Taxa?acc_id=2420" rel="nofollow">"Taxa Associated with the Family Vampyroteuthidae"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-12-06</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Taxa+Associated+with+the+Family+Vampyroteuthidae&amp;rft.date=2002-06&amp;rft.aulast=Young&amp;rft.aufirst=Richard+E.&amp;rft_id=http%3A%2F%2Ftolweb.org%2Faccessory%2FVampyroteuthidae_Taxa%3Facc_id%3D2420&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vampire_squid&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Vampire_squid" title="commons:Vampire squid">vampire squid</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li class="mw-empty-elt"></li>
+<li><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20050817053958/http://www.cephbase.utmb.edu/spdb/speciesc.cfm?CephID=703" rel="nofollow">"CephBase: Vampire squid"</a>. Archived from <a class="external text" href="http://www.cephbase.utmb.edu/spdb/speciesc.cfm?CephID=703" rel="nofollow">the original</a> on 2005.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CephBase%3A+Vampire+squid&amp;rft_id=http%3A%2F%2Fwww.cephbase.utmb.edu%2Fspdb%2Fspeciesc.cfm%3FCephID%3D703&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><a href="/wiki/Tree_of_Life_Web_Project" title="Tree of Life Web Project">Tree of Life</a>: <a class="external text" href="http://tolweb.org/Vampyroteuthis_infernalis" rel="nofollow"><i>Vampyroteuthis infernalis</i></a>.</li>
+<li><a class="external text" href="https://web.archive.org/web/20070819074113/http://educatedearth.net/video.php?id=3061" rel="nofollow">National Geographic video of a vampire squid</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20121216222810/http://www.mbari.org/news/news_releases/2012/vampfood/vampfood-release.html" rel="nofollow">Monterey Bay Aquarium Research Institute (MBARI): What the vampire squid really eats.</a></li>
+<li><a class="external text" href="http://deepseacreatures.org/vampire-squid" rel="nofollow">Vampire squid</a></li>
+<li><cite class="citation journal"><a href="/wiki/Peter_Herring" title="Peter Herring">Herring, P. J.</a>; Dilly, P. N.; Cope, Celia (1994). "The bioluminescent organs of the deep-sea cephalopod <i>Vampyroteuthis infernalis</i> (Cephalopoda: Vampyromorpha)". <i>Journal of Zoology</i>. <b>233</b> (1): 45–55. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1111%2Fj.1469-7998.1994.tb05261.x" rel="nofollow">10.1111/j.1469-7998.1994.tb05261.x</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Zoology&amp;rft.atitle=The+bioluminescent+organs+of+the+deep-sea+cephalopod+Vampyroteuthis+infernalis+%28Cephalopoda%3A+Vampyromorpha%29&amp;rft.volume=233&amp;rft.issue=1&amp;rft.pages=45-55&amp;rft.date=1994&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1469-7998.1994.tb05261.x&amp;rft.aulast=Herring&amp;rft.aufirst=P.+J.&amp;rft.au=Dilly%2C+P.+N.&amp;rft.au=Cope%2C+Celia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVampire+squid"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li></ul>
+<h3><span class="mw-headline" id="Images">Images</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vampire_squid&amp;action=edit&amp;section=9" title="Edit section: Images">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a class="external text" href="http://tolweb.org/accessory/Vampyroteuthis_infernalis_Photophores?acc_id=1764" rel="nofollow">The vampire squid's photophores and photoreceptors</a></li>
+<li><a class="external text" href="http://tolweb.org/accessory/Vampyroteuthis_Hatchling?acc_id=1767" rel="nofollow">Diagram and images of a Vampyroteuthis hatchling</a></li>
+<li><a class="external text" href="http://www.biolbull.org/cgi/content/full/205/2/102/F6" rel="nofollow">Photomicrograph of arm tip fluorescence</a></li></ul>
+<div aria-labelledby="Taxon_identifiers" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Taxon_identifiers" scope="row" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a class="extiw" href="https://www.wikidata.org/wiki/Q2509902" title="wikidata:Q2509902">Q2509902</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a class="extiw" href="https://species.wikimedia.org/wiki/Vampyroteuthis_infernalis" title="wikispecies:Vampyroteuthis infernalis">Vampyroteuthis infernalis</a></span></span></span></li>
+<li><span style="white-space:nowrap;">BioLib: <span class="uid"><a class="external text" href="https://www.biolib.cz/cz/taxon/id126553" rel="nofollow">126553</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>: <span class="uid"><a class="external text" href="https://eol.org/pages/492277" rel="nofollow">492277</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a class="external text" href="https://www.gbif.org/species/2290924" rel="nofollow">2290924</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a class="external text" href="https://www.inaturalist.org/taxa/253737" rel="nofollow">253737</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a class="external text" href="http://www.irmng.org/aphia.php?p=taxdetails&amp;id=10921497" rel="nofollow">10921497</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=82587" rel="nofollow">82587</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=55288" rel="nofollow">55288</a></span></span></li>
+<li><span style="white-space:nowrap;">NZOR: <span class="uid"><a class="external text" href="http://www.nzor.org.nz/names/169315da-b8a5-42f5-a75c-824e7312cdd7" rel="nofollow">169315da-b8a5-42f5-a75c-824e7312cdd7</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/SeaLifeBase" title="SeaLifeBase">SeaLifeBase</a>: <span class="uid"><a class="external text" href="https://www.sealifebase.ca/Summary/SpeciesSummary.php?id=58187" rel="nofollow">58187</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>: <span class="uid"><a class="external text" href="http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=141887" rel="nofollow">141887</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20191217181907
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.992 seconds
+Real time usage: 1.491 seconds
+Preprocessor visited node count: 6142/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 62961/2097152 bytes
+Template argument size: 6451/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 15/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 55282/5000000 bytes
+Number of Wikibase entities loaded: 15/400
+Lua time usage: 0.690/10.000 seconds
+Lua memory usage: 9.68 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1394.200      1 -total
+ 32.68%  455.579      1 Template:Speciesbox
+ 31.73%  442.364      1 Template:Taxobox/core
+ 21.79%  303.860      1 Template:Taxonbar
+ 14.75%  205.654      1 Template:Reflist
+ 12.70%  177.033     10 Template:Cite_journal
+ 10.00%  139.432     11 Template:Cite_web
+  5.58%   77.760      1 Template:Citation_needed
+  5.11%   71.226      1 Template:Short_description
+  3.87%   53.964      3 Template:Convert
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:420944-0!canonical and timestamp 20191217181906 and revision id 924882133
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Vampire_squid&amp;oldid=924882133">https://en.wikipedia.org/w/index.php?title=Vampire_squid&amp;oldid=924882133</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Squid" title="Category:Squid">Squid</a></li><li><a href="/wiki/Category:Living_fossils" title="Category:Living fossils">Living fossils</a></li><li><a href="/wiki/Category:Molluscs_described_in_1903" title="Category:Molluscs described in 1903">Molluscs described in 1903</a></li><li><a href="/wiki/Category:Bioluminescent_molluscs" title="Category:Bioluminescent molluscs">Bioluminescent molluscs</a></li><li><a href="/wiki/Category:Taxa_named_by_Carl_Chun" title="Category:Taxa named by Carl Chun">Taxa named by Carl Chun</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2014" title="Category:Articles with unsourced statements from May 2014">Articles with unsourced statements from May 2014</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Vampire+squid" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Vampire+squid" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Vampire_squid" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Vampire_squid" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Vampire_squid">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Vampire_squid&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Vampire_squid&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Vampire_squid" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Vampire_squid" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Vampire_squid&amp;oldid=924882133" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Vampire_squid&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2509902" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Vampire_squid&amp;id=924882133" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Vampyroteuthis_infernalis" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Vampyroteuthis_infernalis" hreflang="en">Wikispecies</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Vampire+squid">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Vampire+squid&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Vampire_squid&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D8%A8%D8%A7%D8%B1_%D9%85%D8%B5%D8%A7%D8%B5_%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%A1" hreflang="ar" lang="ar" title="حبار مصاص الدماء – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/C%C9%99h%C9%99nn%C9%99m_vampiri" hreflang="az" lang="az" title="Cəhənnəm vampiri – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/Vampyroteuthis_infernalis" hreflang="bg" lang="bg" title="Vampyroteuthis infernalis – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Calamar_vampir" hreflang="ca" lang="ca" title="Calamar vampir – Catalan">Català</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Vampyroteuthis_infernalis" hreflang="ceb" lang="ceb" title="Vampyroteuthis infernalis – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Vamp%C3%BDrovka_hlubinn%C3%A1" hreflang="cs" lang="cs" title="Vampýrovka hlubinná – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Vampirtintenfisch" hreflang="de" lang="de" title="Vampirtintenfisch – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Vampyroteuthis_infernalis" hreflang="es" lang="es" title="Vampyroteuthis infernalis – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Vampyroteuthis_infernalis" hreflang="eu" lang="eu" title="Vampyroteuthis infernalis – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%87%DB%8C_%D9%85%D8%B1%DA%A9%D8%A8_%D8%AC%D9%87%D9%86%D9%85%DB%8C" hreflang="fa" lang="fa" title="ماهی مرکب جهنمی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Vampire_des_abysses" hreflang="fr" lang="fr" title="Vampire des abysses – French">Français</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Cumi-cumi_vampir" hreflang="id" lang="id" title="Cumi-cumi vampir – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Vampyroteuthis_infernalis" hreflang="it" lang="it" title="Vampyroteuthis infernalis – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%93%D7%99%D7%95%D7%A0%D7%95%D7%9F_%D7%A2%D7%A8%D7%A4%D7%93%D7%99" hreflang="he" lang="he" title="דיונון ערפדי – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Vampyroteuthis_infernalis" hreflang="la" lang="la" title="Vampyroteuthis infernalis – Latin">Latina</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Vampyriniai_kalmarai" hreflang="lt" lang="lt" title="Vampyriniai kalmarai – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/V%C3%A1mp%C3%ADrtintahal" hreflang="hu" lang="hu" title="Vámpírtintahal – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BE%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B4%AF%E0%B5%BC_%E0%B4%B8%E0%B5%8D%E0%B4%95%E0%B5%8D%E0%B4%B5%E0%B4%BF%E0%B4%A1%E0%B5%8D" hreflang="ml" lang="ml" title="വാമ്പയർ സ്ക്വിഡ് – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Vampierinktvis" hreflang="nl" lang="nl" title="Vampierinktvis – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A6%E3%83%A2%E3%83%AA%E3%83%80%E3%82%B3" hreflang="ja" lang="ja" title="コウモリダコ – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wampirzyca_piekielna" hreflang="pl" lang="pl" title="Wampirzyca piekielna – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Vampyroteuthis_infernalis" hreflang="pt" lang="pt" title="Vampyroteuthis infernalis – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B0%D0%BC%D0%BF%D0%B8%D1%80" hreflang="ru" lang="ru" title="Адский вампир – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Vampire_squid" hreflang="en-simple" lang="en-simple" title="Vampire squid – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Vampirski_ligenj" hreflang="sl" lang="sl" title="Vampirski ligenj – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Vampyyritursas" hreflang="fi" lang="fi" title="Vampyyritursas – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Vampyroteuthis_infernalis" hreflang="sv" lang="sv" title="Vampyroteuthis infernalis – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%A7%E0%B8%A1%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B9%8C" hreflang="th" lang="th" title="หมึกแวมไพร์ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Vampyroteuthis" hreflang="tr" lang="tr" title="Vampyroteuthis – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BA%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%B2%D0%B0%D0%BC%D0%BF%D1%96%D1%80" hreflang="uk" lang="uk" title="Пекельний вампір – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/M%E1%BB%B1c_qu%E1%BB%B7" hreflang="vi" lang="vi" title="Mực quỷ – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Vampyroteuthis_infernalis" hreflang="war" lang="war" title="Vampyroteuthis infernalis – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%90%B8%E8%A1%80%E7%83%8F%E8%B3%8A" hreflang="zh" lang="zh" title="吸血烏賊 – Chinese">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2509902#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 November 2019, at 14:25<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Vampire_squid&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.992","walltime":"1.491","ppvisitednodes":{"value":6142,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":62961,"limit":2097152},"templateargumentsize":{"value":6451,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":55282,"limit":5000000},"entityaccesscount":{"value":15,"limit":400},"timingprofile":["100.00% 1394.200      1 -total"," 32.68%  455.579      1 Template:Speciesbox"," 31.73%  442.364      1 Template:Taxobox/core"," 21.79%  303.860      1 Template:Taxonbar"," 14.75%  205.654      1 Template:Reflist"," 12.70%  177.033     10 Template:Cite_journal"," 10.00%  139.432     11 Template:Cite_web","  5.58%   77.760      1 Template:Citation_needed","  5.11%   71.226      1 Template:Short_description","  3.87%   53.964      3 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.690","limit":"10.000"},"limitreport-memusage":{"value":10145108,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20191217181907","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Vampire squid","url":"https:\/\/en.wikipedia.org\/wiki\/Vampire_squid","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2509902","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2509902","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-01-05T05:00:33Z","dateModified":"2019-11-06T14:25:10Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/90\/Vampire_des_abysses.jpg","headline":"species of mollusc"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":132,"wgHostname":"mw1264"});});</script>
+
+
+</body></html>

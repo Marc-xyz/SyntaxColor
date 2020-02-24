@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Baurutitan - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XffQ7QpAIDAAABYKCQkAAADP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Baurutitan","wgTitle":"Baurutitan","wgCurRevisionId":916107649,"wgRevisionId":916107649,"wgArticleId":4962729,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Titanosaurs","Maastrichtian life","Late Cretaceous dinosaurs of South America","Cretaceous Brazil","Fossils of Brazil","Marília Formation","Fossil taxa described in 2005",
+"Taxa named by Alexander Kellner"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Baurutitan","wgRelevantArticleId":4962729,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q134648","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
+"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Baurutitan" rel="alternate"/>
+<link href="/w/index.php?title=Baurutitan&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Baurutitan&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Baurutitan" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Baurutitan rootpage-Baurutitan skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en"><i>Baurutitan</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><i>Baurutitan</i><br/><div style="font-size: 85%;">Temporal range: <a href="/wiki/Maastrichtian" title="Maastrichtian">Maastrichtian</a><br/>~<span style="display:inline-block;"></span><span style="display:inline-block;">70–66 <a class="mw-redirect" href="/wiki/Megaannum" title="Megaannum">Ma</a></span> <span style="display:inline-block;"></span><div id="Timeline-row" style="margin: 4px auto 0; clear:both; width:220px; padding:0px; height:18px; overflow:visible; border:1px #666; border-style:solid none; position:relative; z-index:0; font-size:13px;">
+<div style="position:absolute; height:100%; left:0px; width:208.07692307692px; padding-left:5px; text-align:left; background-color:rgb(254,214,123); background-image: -moz-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: -o-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: -webkit-linear-gradient(left, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)); background-image: linear-gradient(to right, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1));"><a href="/wiki/Precambrian" title="Precambrian">PreЄ</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(129,170,114); left:36.892307692308px; width:18.818461538462px;"><a href="/wiki/Cambrian" title="Cambrian">Є</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(0,169,138); left:55.710769230769px; width:14.08px;"><a href="/wiki/Ordovician" title="Ordovician">O</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(166,223,197); left:69.790769230769px; width:8.3261538461539px;"><a href="/wiki/Silurian" title="Silurian">S</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(221,150,81); left:78.116923076923px; width:20.409230769231px;"><a href="/wiki/Devonian" title="Devonian">D</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(63,174,173); left:98.526153846154px; width:20.307692307692px;"><a href="/wiki/Carboniferous" title="Carboniferous">C</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(247,88,60); left:118.83384615385px; width:15.907015384615px;"><a href="/wiki/Permian" title="Permian">P</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(153,78,150); left:134.74086153846px; width:17.126830769231px;"><a href="/wiki/Triassic" title="Triassic">T</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(0,187,231); left:151.86769230769px; width:19.055384615385px;"><a href="/wiki/Jurassic" title="Jurassic">J</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(111,200,107); left:170.92307692308px; width:26.738461538462px;"><a href="/wiki/Cretaceous" title="Cretaceous">K</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(254,161,99); left:197.66153846154px; width:14.543692307692px;"><a href="/wiki/Paleogene" title="Paleogene"><small>Pg</small></a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(254,221,45); left:212.20523076923px; width:6.9215384615385px;"><a href="/wiki/Neogene" title="Neogene"><small>N</small></a></div>
+<div id="end-border" style="position:absolute; height:100%; background-color:#666; width:1px; left:219px"></div><div style="margin:0 auto; line-height:0; clear:both; width:220px; padding:0px; height:8px; overflow:visible; background-color:transparent; position:relative; top:-4px; z-index:100;">
+<div style="position:absolute; left:196.30769230769px; font-size:50%"><div style="position:relative; left:-0.42em">↓</div></div>
+</div>
+</div></div>
+</th></tr>
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Baurutitan" title="e"><img alt="e" data-file-height="16" data-file-width="16" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" width="16"/></a></span>
+</th></tr>
+<tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
+<tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
+<tr>
+<td><i>Clade</i>:
+</td>
+<td><a href="/wiki/Dinosaur" title="Dinosaur">Dinosauria</a>
+</td></tr>
+<tr>
+<td>Order:
+</td>
+<td><a href="/wiki/Saurischia" title="Saurischia">Saurischia</a>
+</td></tr>
+<tr>
+<td>Suborder:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a href="/wiki/Sauropodomorpha" title="Sauropodomorpha">Sauropodomorpha</a>
+</td></tr>
+<tr>
+<td><i>Clade</i>:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a href="/wiki/Sauropoda" title="Sauropoda">Sauropoda</a>
+</td></tr>
+<tr>
+<td><i>Clade</i>:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a href="/wiki/Titanosauria" title="Titanosauria">Titanosauria</a>
+</td></tr>
+<tr>
+<td><i>Clade</i>:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a href="/wiki/Lithostrotia" title="Lithostrotia">Lithostrotia</a>
+</td></tr>
+<tr>
+<td>Genus:
+</td>
+<td><span style="font-style:normal;font-weight:normal;">†</span><a class="mw-selflink selflink"><i>Baurutitan</i></a><br/><small><a href="/wiki/Alexander_Kellner" title="Alexander Kellner">Kellner</a> <i>et al.</i> 2005</small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Type_species" title="Type species">Type species</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><i><b>Baurutitan britoi</b></i><br/><div style="font-size: 85%;"><a href="/wiki/Alexander_Kellner" title="Alexander Kellner">Kellner</a> <i>et al.</i> 2005</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<p><i><b>Baurutitan</b></i> is a <a href="/wiki/Genus" title="Genus">genus</a> of <a class="mw-redirect" href="/wiki/Sauropod" title="Sauropod">sauropod</a> <a href="/wiki/Dinosaur" title="Dinosaur">dinosaur</a> that lived during the <a href="/wiki/Late_Cretaceous" title="Late Cretaceous">Late Cretaceous</a> in what is now <a href="/wiki/Brazil" title="Brazil">Brazil</a>. The <a href="/wiki/Type_species" title="Type species">type species</a>, <i>Baurutitan britoi</i>, was described in 2005 by <a href="/wiki/Alexander_Kellner" title="Alexander Kellner">Kellner</a> and colleagues, although the fossil remains had already been discovered in 1957. <i>Baurutitan</i> is classified as a <a href="/wiki/Lithostrotia" title="Lithostrotia">lithostrotian</a> <a class="mw-redirect" href="/wiki/Titanosaur" title="Titanosaur">titanosaur</a>, and is distinguished from related genera based on its distinctive caudal <a href="/wiki/Vertebra" title="Vertebra">vertebrae</a>. This South American dinosaur was found in the <a href="/wiki/Mar%C3%ADlia_Formation" title="Marília Formation">Marília Formation</a> near <a href="/wiki/Uberaba" title="Uberaba">Uberaba</a>, in the Brazilian state of <a href="/wiki/Minas_Gerais" title="Minas Gerais">Minas Gerais</a>.<sup class="reference" id="cite_ref-kellner2005_1-0"><a href="#cite_note-kellner2005-1">[1]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Discovery"><span class="tocnumber">1</span> <span class="toctext">Discovery</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Description"><span class="tocnumber">3</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Discovery">Discovery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baurutitan&amp;action=edit&amp;section=1" title="Edit section: Discovery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The remains of <i>Baurutitan</i> were found in 1957 by <a href="/wiki/Llewellyn_Ivor_Price" title="Llewellyn Ivor Price">Llewellyn Ivor Price</a>, famous Brazilian paleontologist, in the region of Peirópolis, <a href="/wiki/Minas_Gerais" title="Minas Gerais">Minas Gerais</a>. It was, however, not until 2005 that it was officially published and named. The works of Price in Peirópolis began in 1947 after Jesuíno Felicíssimo Junior, from the Instituto Geográfico e Geológico of São Paulo, told him about the presence of fossils in the region. Price then conducted excavations in an old quarry, known as Quarry Caieira, on the in São Luis farm. Recovered fossils included those of <a href="/wiki/Turtle" title="Turtle">turtles</a>, <a href="/wiki/Crocodylomorpha" title="Crocodylomorpha">crocodylomorphs</a>, <a class="mw-redirect" href="/wiki/Theropod" title="Theropod">theropods</a> and <a class="mw-redirect" href="/wiki/Sauropod" title="Sauropod">sauropods</a>, <a href="/wiki/Fish" title="Fish">fish</a>, freshwater invertebrates (<a class="mw-redirect" href="/wiki/Gastropod" title="Gastropod">gastropods</a> and <a class="mw-redirect" href="/wiki/Bivalve" title="Bivalve">bivalves</a>), <a href="/wiki/Ichnotaxon" title="Ichnotaxon">trace fossils</a>, fragments of <a class="mw-redirect" href="/wiki/Ootaxon" title="Ootaxon">eggs</a>, and plant debris. Dynamite was occasionally used to remove materials embedded in the matrix. There were expeditions to Caieira between 1949 and 1961, after which fieldwork was not continued due to a lack of new relevant findings.<sup class="reference" id="cite_ref-kellner2005_1-1"><a href="#cite_note-kellner2005-1">[1]</a></sup>
+</p><p>A series of 19 vertebrae (the last sacral and 18 caudals) found at this locality were recognized as belong to those of a titanosaur; they were initially named 'Series "C"', and subsequently became the holotype of the new genus <i>Baurutitan</i> (specimen number MCT 1490-R). All material found was stored in the collection of Museu de Ciência da Terra (Earth Science Museum – MCT) of the Departamento Nacional de Produção Mineral (National Department of Mineral Production) in <a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a>.<sup class="reference" id="cite_ref-kellner2005_1-2"><a href="#cite_note-kellner2005-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baurutitan&amp;action=edit&amp;section=2" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name <i>Baurutitan</i> comes from the junction of the word "bauru", which alludes to the geographical region of the finding, within the <a href="/wiki/Bauru_Group" title="Bauru Group">Bauru Group</a>, and the word "titan" of Greek myths. The specific name "britoi" is given in honor of Ignácio Aureliano Machado Brito, a <a href="/wiki/Brazilians" title="Brazilians">Brazilian</a> <a class="mw-redirect" href="/wiki/Paleontologist" title="Paleontologist">paleontologist</a> who advised the study and description of this <a href="/wiki/Dinosaur" title="Dinosaur">dinosaur</a>, whose fossils have remained stored for many years.<sup class="reference" id="cite_ref-kellner2005_1-3"><a href="#cite_note-kellner2005-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baurutitan&amp;action=edit&amp;section=3" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Baurutitan</i> was a <a class="mw-redirect" href="/wiki/Sauropod" title="Sauropod">sauropod</a> which was estimated to have measured 12–14 metres (39–46 ft) long and had a height of around 3.5 metres (11 ft). The holotype specimen was found in the <a class="mw-redirect" href="/wiki/Marilia_Formation" title="Marilia Formation">Marilia Formation</a>, dating to the <a href="/wiki/Maastrichtian" title="Maastrichtian">Maastrichtian</a> epoch, some 72-66 million years ago. <i>Baurutitan</i> was the fourth sauropod described in <a href="/wiki/Brazil" title="Brazil">Brazil</a>, after <i><a href="/wiki/Antarctosaurus" title="Antarctosaurus">Antarctosaurus</a></i>, <i><a href="/wiki/Gondwanatitan" title="Gondwanatitan">Gondwanatitan</a></i> and <i><a href="/wiki/Amazonsaurus" title="Amazonsaurus">Amazonsaurus</a></i>.<sup class="reference" id="cite_ref-kellner2005_1-4"><a href="#cite_note-kellner2005-1">[1]</a></sup>
+</p><p>A 2017 cladistic analysis by José Carballido and colleagues places <i>Baurutitan</i> as a member of Lithostrotia.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baurutitan&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="3058" data-file-width="4095" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tyrannoskull.jpg/32px-Tyrannoskull.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tyrannoskull.jpg/48px-Tyrannoskull.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tyrannoskull.jpg/64px-Tyrannoskull.jpg 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Dinosaurs" title="Portal:Dinosaurs">Dinosaurs portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="28" data-file-width="32" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/48px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/64px-Portal-puzzle.svg.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Cretaceous" title="Portal:Cretaceous">Cretaceous portal</a></span></li></ul></div>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-kellner2005-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-kellner2005_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-kellner2005_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-kellner2005_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-kellner2005_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-kellner2005_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Kellner, A.W.A.; Campos, D.d.A.; Trotta, M.N.F. (2005). <a class="external text" href="https://www.researchgate.net/publication/228969515" rel="nofollow">"Description of a titanosaurid caudal series from the Bauru Group, Late Cretaceous of Brazil"</a>. <i>Arquivos do Museu Nacional, Rio de Janeiro</i>. <b>63</b> (3): 529–564.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Arquivos+do+Museu+Nacional%2C+Rio+de+Janeiro&amp;rft.atitle=Description+of+a+titanosaurid+caudal+series+from+the+Bauru+Group%2C+Late+Cretaceous+of+Brazil.&amp;rft.volume=63&amp;rft.issue=3&amp;rft.pages=529-564&amp;rft.date=2005&amp;rft.aulast=Kellner&amp;rft.aufirst=A.W.A.&amp;rft.au=Campos%2C+D.d.A.&amp;rft.au=Trotta%2C+M.N.F.&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F228969515&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABaurutitan"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">José L. Carballido; Diego Pol; Alejandro Otero; Ignacio A. Cerda; Leonardo Salgado ; Alberto C. Garrido ; Jahandar Ramezani ; Néstor R. Cúneo ; Javier M. Krause (2017). "A new giant titanosaur sheds light on body mass evolution among sauropod dinosaurs". Proceedings of the Royal Society B: Biological Sciences. 284 (1860): 20171219. doi:10.1098/rspb.2017.1219.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baurutitan&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://dml.cmnh.org/2006Apr/msg00201.html" rel="nofollow"><i>Baurutitan</i> on the Dinosaur Mailing List</a></li></ul>
+<div aria-labelledby="Sauropodomorpha" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sauropodomorpha" title="Template:Sauropodomorpha"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:Sauropodomorpha&amp;action=edit&amp;redlink=1" title="Template talk:Sauropodomorpha (page does not exist)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Sauropodomorpha&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Sauropodomorpha" style="font-size:114%;margin:0 4em"><a href="/wiki/Sauropodomorpha" title="Sauropodomorpha">Sauropodomorpha</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Kingdom:_Animalia&amp;#10;*_Phylum:_Chordata&amp;#10;*_Class:_Sauropsida&amp;#10;*_Clade:_Avemetatarsalia&amp;#10;*_Clade:_Dinosauria">
+<ul><li>Kingdom: <a href="/wiki/Animal" title="Animal">Animalia</a></li>
+<li>Phylum: <a href="/wiki/Chordate" title="Chordate">Chordata</a></li>
+<li>Class: <a href="/wiki/Reptile" title="Reptile">Sauropsida</a></li>
+<li><i>Clade</i>: <a href="/wiki/Avemetatarsalia" title="Avemetatarsalia">Avemetatarsalia</a></li>
+<li><i>Clade</i>: <a href="/wiki/Dinosaur" title="Dinosaur">Dinosauria</a></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div id="Sauropodomorpha" style="font-size:114%;margin:0 4em"><a href="/wiki/Sauropodomorpha" title="Sauropodomorpha">Sauropodomorpha</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Sauropodomorpha" scope="row" style="width:1%"><span style="margin:-55px;display: inline-block;-webkit-transform: rotate(270deg);-moz-transform: rotate(270deg);-ms-transform: rotate(270deg);-o-transform: rotate(270deg);transform: rotate(270deg);"><a href="/wiki/Sauropodomorpha" title="Sauropodomorpha">Sauropodomorpha</a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Buriolestes" title="Buriolestes">Buriolestes</a></i></li>
+<li><i><a href="/wiki/Eoraptor" title="Eoraptor">Eoraptor</a></i>?</li>
+<li><i><a href="/wiki/Nyasasaurus" title="Nyasasaurus">Nyasasaurus</a></i>?</li>
+<li><i><a href="/wiki/Pampadromaeus" title="Pampadromaeus">Pampadromaeus</a></i></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Guaibasauridae" title="Guaibasauridae">Guaibasauridae</a>?</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Guaibasaurus" title="Guaibasaurus">Guaibasaurus</a></i></li>
+<li><i><a href="/wiki/Panphagia" title="Panphagia">Panphagia</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Saturnaliinae" title="Saturnaliinae">Saturnaliinae</a>/<a href="/wiki/Saturnaliinae" title="Saturnaliinae">Saturnaliidae</a>?</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Chromogisaurus" title="Chromogisaurus">Chromogisaurus</a></i></li>
+<li><i><a href="/wiki/Pampadromaeus" title="Pampadromaeus">Pampadromaeus</a></i>?</li>
+<li><i><a href="/wiki/Panphagia" title="Panphagia">Panphagia</a></i>?</li>
+<li><i><a href="/wiki/Saturnalia_tupiniquim" title="Saturnalia tupiniquim">Saturnalia</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><span style="margin:-43px;display: inline-block;-webkit-transform: rotate(270deg);-moz-transform: rotate(270deg);-ms-transform: rotate(270deg);-o-transform: rotate(270deg);transform: rotate(270deg);"><a class="mw-redirect" href="/wiki/Bagualosauria" title="Bagualosauria">Bagualosauria</a></span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Arcusaurus" title="Arcusaurus">Arcusaurus</a></i></li>
+<li><i><a href="/wiki/Asylosaurus" title="Asylosaurus">Asylosaurus</a></i></li>
+<li><i><a href="/wiki/Bagualosaurus" title="Bagualosaurus">Bagualosaurus</a></i></li>
+<li><i><a href="/wiki/Efraasia" title="Efraasia">Efraasia</a></i></li>
+<li><i><a href="/wiki/Nambalia" title="Nambalia">Nambalia</a></i></li>
+<li><i><a href="/wiki/Pantydraco" title="Pantydraco">Pantydraco</a></i></li>
+<li><i><a href="/wiki/Thecodontosaurus" title="Thecodontosaurus">Thecodontosaurus</a></i></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Unaysauridae" scope="row" style="width:1%"><a href="/wiki/Unaysauridae" title="Unaysauridae">Unaysauridae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Jaklapallisaurus" title="Jaklapallisaurus">Jaklapallisaurus</a></i></li>
+<li><i><a href="/wiki/Macrocollum" title="Macrocollum">Macrocollum</a></i></li>
+<li><i><a href="/wiki/Unaysaurus" title="Unaysaurus">Unaysaurus</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><span style="margin:-37px;display: inline-block;-webkit-transform: rotate(270deg);-moz-transform: rotate(270deg);-ms-transform: rotate(270deg);-o-transform: rotate(270deg);transform: rotate(270deg);"><a href="/wiki/Plateosauria" title="Plateosauria">Plateosauria</a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Plateosauridae" scope="row" style="width:1%"><a href="/wiki/Plateosauridae" title="Plateosauridae">Plateosauridae</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Euskelosaurus" title="Euskelosaurus">Euskelosaurus</a></i></li>
+<li><i><a href="/wiki/Plateosauravus" title="Plateosauravus">Plateosauravus</a></i></li>
+<li><i><a href="/wiki/Plateosaurus" title="Plateosaurus">Plateosaurus</a></i></li>
+<li><i><a href="/wiki/Ruehleia" title="Ruehleia">Ruehleia</a></i>?</li>
+<li><i><a href="/wiki/Xixiposaurus" title="Xixiposaurus">Xixiposaurus</a></i></li>
+<li><i><a href="/wiki/Yimenosaurus" title="Yimenosaurus">Yimenosaurus</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><span style="margin:-33px;display: inline-block;-webkit-transform: rotate(270deg);-moz-transform: rotate(270deg);-ms-transform: rotate(270deg);-o-transform: rotate(270deg);transform: rotate(270deg);"><a href="/wiki/Massopoda" title="Massopoda">Massopoda</a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Gryponyx" title="Gryponyx">Gryponyx</a></i></li>
+<li><i><a href="/wiki/Gyposaurus" title="Gyposaurus">Gyposaurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Riojasauridae" title="Riojasauridae">Riojasauridae</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Eucnemesaurus" title="Eucnemesaurus">Eucnemesaurus</a></i></li>
+<li><i><a href="/wiki/Riojasaurus" title="Riojasaurus">Riojasaurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Massospondylidae" title="Massospondylidae">Massospondylidae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Adeopapposaurus" title="Adeopapposaurus">Adeopapposaurus</a></i></li>
+<li><i><a href="/wiki/Coloradisaurus" title="Coloradisaurus">Coloradisaurus</a></i></li>
+<li><i><a href="/wiki/Glacialisaurus" title="Glacialisaurus">Glacialisaurus</a></i></li>
+<li><i><a href="/wiki/Ignavusaurus" title="Ignavusaurus">Ignavusaurus</a></i>?</li>
+<li><i><a href="/wiki/Leyesaurus" title="Leyesaurus">Leyesaurus</a></i></li>
+<li><i><a href="/wiki/Lufengosaurus" title="Lufengosaurus">Lufengosaurus</a></i></li>
+<li><i><a href="/wiki/Massospondylus" title="Massospondylus">Massospondylus</a></i></li>
+<li><i><a href="/wiki/Ngwevu" title="Ngwevu">Ngwevu</a></i></li>
+<li><i><a href="/wiki/Pradhania" title="Pradhania">Pradhania</a></i></li>
+<li><i><a href="/wiki/Sarahsaurus" title="Sarahsaurus">Sarahsaurus</a></i>?</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Sauropodiformes" title="Sauropodiformes">Sauropodiformes</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Chuxiongosaurus" title="Chuxiongosaurus">Chuxiongosaurus</a></i></li>
+<li><i><a href="/wiki/Jingshanosaurus" title="Jingshanosaurus">Jingshanosaurus</a></i></li>
+<li><i><a href="/wiki/Seitaad" title="Seitaad">Seitaad</a></i></li>
+<li><i><a href="/wiki/Xingxiulong" title="Xingxiulong">Xingxiulong</a></i></li>
+<li><i><a href="/wiki/Yizhousaurus" title="Yizhousaurus">Yizhousaurus</a></i></li>
+<li><i><a href="/wiki/Yunnanosaurus" title="Yunnanosaurus">Yunnanosaurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Anchisauria" title="Anchisauria">Anchisauria</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Aardonyx" title="Aardonyx">Aardonyx</a></i></li>
+<li><i><a href="/wiki/Anchisaurus" title="Anchisaurus">Anchisaurus</a></i></li>
+<li><i><a href="/wiki/Lamplughsaura" title="Lamplughsaura">Lamplughsaura</a></i></li>
+<li><i><a href="/wiki/Leonerasaurus" title="Leonerasaurus">Leonerasaurus</a></i></li>
+<li><i><a href="/wiki/Mussaurus" title="Mussaurus">Mussaurus</a></i></li>
+<li><i><a href="/wiki/Pulanesaura" title="Pulanesaura">Pulanesaura</a></i>?</li>
+<li><i><a href="/wiki/Sefapanosaurus" title="Sefapanosaurus">Sefapanosaurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Melanorosauridae" title="Melanorosauridae">Melanorosauridae</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Camelotia" title="Camelotia">Camelotia</a></i></li>
+<li><i><a href="/wiki/Melanorosaurus" title="Melanorosaurus">Melanorosaurus</a></i></li>
+<li><i><a href="/wiki/Meroktenos" title="Meroktenos">Meroktenos</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sauropoda" title="Sauropoda">Sauropoda</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><ul><li>see below↓</li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Pantydraco_BW.jpg" title="Pantydraco caducus"><img alt="Pantydraco caducus" data-file-height="364" data-file-width="800" decoding="async" height="64" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pantydraco_BW.jpg/140px-Pantydraco_BW.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pantydraco_BW.jpg/210px-Pantydraco_BW.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pantydraco_BW.jpg/280px-Pantydraco_BW.jpg 2x" width="140"/></a>
+<p><a class="image" href="/wiki/File:Massospondylus_reconstruction.png" title="Massospondylus carinatus"><img alt="Massospondylus carinatus" data-file-height="579" data-file-width="1306" decoding="async" height="62" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Massospondylus_reconstruction.png/140px-Massospondylus_reconstruction.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Massospondylus_reconstruction.png/210px-Massospondylus_reconstruction.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Massospondylus_reconstruction.png/280px-Massospondylus_reconstruction.png 2x" width="140"/></a>
+</p>
+<a class="image" href="/wiki/File:Jingshanosaurus_xinwaensis.png" title="Jingshanosaurus xinwaensis"><img alt="Jingshanosaurus xinwaensis" data-file-height="619" data-file-width="1900" decoding="async" height="46" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jingshanosaurus_xinwaensis.png/140px-Jingshanosaurus_xinwaensis.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jingshanosaurus_xinwaensis.png/210px-Jingshanosaurus_xinwaensis.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jingshanosaurus_xinwaensis.png/280px-Jingshanosaurus_xinwaensis.png 2x" width="140"/></a></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Sauropoda" style="font-size:114%;margin:0 4em"><a href="/wiki/Sauropoda" title="Sauropoda">Sauropoda</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Sauropoda" scope="row" style="width:1%"><span style="margin:-33px;display: inline-block;-webkit-transform: rotate(270deg);-moz-transform: rotate(270deg);-ms-transform: rotate(270deg);-o-transform: rotate(270deg);transform: rotate(270deg);"><a href="/wiki/Sauropoda" title="Sauropoda">Sauropoda</a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Archaeodontosaurus" title="Archaeodontosaurus">Archaeodontosaurus</a></i></li>
+<li><i><a href="/wiki/Blikanasaurus" title="Blikanasaurus">Blikanasaurus</a></i></li>
+<li><i><a href="/wiki/Chinshakiangosaurus" title="Chinshakiangosaurus">Chinshakiangosaurus</a></i></li>
+<li><i><a href="/wiki/Gongxianosaurus" title="Gongxianosaurus">Gongxianosaurus</a></i></li>
+<li><i><a href="/wiki/Isanosaurus" title="Isanosaurus">Isanosaurus</a></i></li>
+<li><i><a href="/wiki/Kotasaurus" title="Kotasaurus">Kotasaurus</a></i></li>
+<li><i><a href="/wiki/Protognathosaurus" title="Protognathosaurus">Protognathosaurus</a></i></li>
+<li><i><a href="/wiki/Pulanesaura" title="Pulanesaura">Pulanesaura</a></i></li>
+<li><i><a href="/wiki/Sanpasaurus" title="Sanpasaurus">Sanpasaurus</a></i></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Lessemsauridae" title="Lessemsauridae">Lessemsauridae</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Antetonitrus" title="Antetonitrus">Antetonitrus</a></i></li>
+<li><i><a href="/wiki/Ingentia" title="Ingentia">Ingentia</a></i></li>
+<li><i><a href="/wiki/Ledumahadi" title="Ledumahadi">Ledumahadi</a></i></li>
+<li><i><a href="/wiki/Lessemsaurus" title="Lessemsaurus">Lessemsaurus</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><span style="margin:-34px;display: inline-block;-webkit-transform: rotate(270deg);-moz-transform: rotate(270deg);-ms-transform: rotate(270deg);-o-transform: rotate(270deg);transform: rotate(270deg);"><a href="/wiki/Gravisauria" title="Gravisauria">Gravisauria</a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Barapasaurus" title="Barapasaurus">Barapasaurus</a></i></li>
+<li><i><a href="/wiki/Rhoetosaurus" title="Rhoetosaurus">Rhoetosaurus</a></i></li>
+<li><i><a href="/wiki/Spinophorosaurus" title="Spinophorosaurus">Spinophorosaurus</a></i></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Vulcanodontidae" title="Vulcanodontidae">Vulcanodontidae</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Ohmdenosaurus" title="Ohmdenosaurus">Ohmdenosaurus</a></i>?</li>
+<li><i><a href="/wiki/Tazoudasaurus" title="Tazoudasaurus">Tazoudasaurus</a></i></li>
+<li><i><a href="/wiki/Vulcanodon" title="Vulcanodon">Vulcanodon</a></i></li>
+<li><i><a href="/wiki/Zizhongosaurus" title="Zizhongosaurus">Zizhongosaurus</a></i>?</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><span style="margin:-40px;display: inline-block;-webkit-transform: rotate(270deg);-moz-transform: rotate(270deg);-ms-transform: rotate(270deg);-o-transform: rotate(270deg);transform: rotate(270deg);"><a href="/wiki/Eusauropoda" title="Eusauropoda">Eusauropoda</a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Algoasaurus" title="Algoasaurus">Algoasaurus</a></i>?</li>
+<li><i><a href="/wiki/Amygdalodon" title="Amygdalodon">Amygdalodon</a></i></li>
+<li><i><a href="/wiki/Asiatosaurus" title="Asiatosaurus">Asiatosaurus</a></i>?</li>
+<li><i><a href="/wiki/Cetiosauriscus" title="Cetiosauriscus">Cetiosauriscus</a></i>?</li>
+<li><i><a href="/wiki/Chebsaurus" title="Chebsaurus">Chebsaurus</a></i></li>
+<li><i><a href="/wiki/Ferganasaurus" title="Ferganasaurus">Ferganasaurus</a></i></li>
+<li><i><a href="/wiki/Jobaria" title="Jobaria">Jobaria</a></i></li>
+<li><i><a href="/wiki/Klamelisaurus" title="Klamelisaurus">Klamelisaurus</a></i></li>
+<li><i><a href="/wiki/Lapparentosaurus" title="Lapparentosaurus">Lapparentosaurus</a></i></li>
+<li><i><a href="/wiki/Nebulasaurus" title="Nebulasaurus">Nebulasaurus</a></i></li>
+<li><i><a href="/wiki/Qinlingosaurus" title="Qinlingosaurus">Qinlingosaurus</a></i></li>
+<li><i><a href="/wiki/Shunosaurus" title="Shunosaurus">Shunosaurus</a></i></li>
+<li><i><a href="/wiki/Volkheimeria" title="Volkheimeria">Volkheimeria</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Cetiosauridae" title="Cetiosauridae">Cetiosauridae</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Cetiosaurus" title="Cetiosaurus">Cetiosaurus</a></i></li>
+<li><i><a href="/wiki/Patagosaurus" title="Patagosaurus">Patagosaurus</a></i>?</li>
+<li><i><a href="/wiki/Tehuelchesaurus" title="Tehuelchesaurus">Tehuelchesaurus</a></i>?</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Mamenchisauridae" title="Mamenchisauridae">Mamenchisauridae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Anhuilong" title="Anhuilong">Anhuilong</a></i></li>
+<li><i><a href="/wiki/Chuanjiesaurus" title="Chuanjiesaurus">Chuanjiesaurus</a></i></li>
+<li><i><a href="/wiki/Datousaurus" title="Datousaurus">Datousaurus</a></i>?</li>
+<li><i><a href="/wiki/Eomamenchisaurus" title="Eomamenchisaurus">Eomamenchisaurus</a></i></li>
+<li><i><a href="/wiki/Huangshanlong" title="Huangshanlong">Huangshanlong</a></i></li>
+<li><i><a href="/wiki/Hudiesaurus" title="Hudiesaurus">Hudiesaurus</a></i></li>
+<li><i><a href="/wiki/Mamenchisaurus" title="Mamenchisaurus">Mamenchisaurus</a></i></li>
+<li><i><a href="/wiki/Omeisaurus" title="Omeisaurus">Omeisaurus</a></i></li>
+<li><i><a href="/wiki/Qijianglong" title="Qijianglong">Qijianglong</a></i></li>
+<li><i><a href="/wiki/Tienshanosaurus" title="Tienshanosaurus">Tienshanosaurus</a></i></li>
+<li><i><a href="/wiki/Tonganosaurus" title="Tonganosaurus">Tonganosaurus</a></i></li>
+<li><i><a href="/wiki/Wamweracaudia" title="Wamweracaudia">Wamweracaudia</a></i></li>
+<li><i><a href="/wiki/Xinjiangtitan" title="Xinjiangtitan">Xinjiangtitan</a></i></li>
+<li><i><a href="/wiki/Yuanmousaurus" title="Yuanmousaurus">Yuanmousaurus</a></i></li>
+<li><i><a href="/wiki/Zigongosaurus" title="Zigongosaurus">Zigongosaurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Turiasauria" title="Turiasauria">Turiasauria</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Atlasaurus" title="Atlasaurus">Atlasaurus</a></i>?</li>
+<li><i><a href="/wiki/Cardiodon" title="Cardiodon">Cardiodon</a></i>?</li>
+<li><i><a href="/wiki/Galvesaurus" title="Galvesaurus">Galvesaurus</a></i></li>
+<li><i><a href="/wiki/Losillasaurus" title="Losillasaurus">Losillasaurus</a></i></li>
+<li><i><a href="/wiki/Mierasaurus" title="Mierasaurus">Mierasaurus</a></i></li>
+<li><i><a href="/wiki/Moabosaurus" title="Moabosaurus">Moabosaurus</a></i></li>
+<li><i><a href="/wiki/Oplosaurus" title="Oplosaurus">Oplosaurus</a></i>?</li>
+<li><i><a href="/wiki/Turiasaurus" title="Turiasaurus">Turiasaurus</a></i></li>
+<li><i><a href="/wiki/Zby" title="Zby">Zby</a></i></li>
+<li><i><a href="/wiki/Neosodon" title="Neosodon">Neosodon</a></i>?</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Neosauropoda" title="Neosauropoda">Neosauropoda</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><i><a href="/wiki/Incertae_sedis" title="Incertae sedis">Incertae sedis</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Bothriospondylus" title="Bothriospondylus">Bothriospondylus</a></i></li>
+<li>"<i><a href="/wiki/Ischyrosaurus" title="Ischyrosaurus">Ischyrosaurus</a></i>"</li>
+<li><i><a href="/wiki/Ultrasaurus" title="Ultrasaurus">Ultrasaurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Diplodocoidea" title="Diplodocoidea">Diplodocoidea</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><ul><li>see below↓</li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Macronaria" title="Macronaria">Macronaria</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><ul><li>see below↓</li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="dubious_sauropods" scope="row" style="width:1%"><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">dubious sauropods</span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Gigantosaurus" title="Gigantosaurus">Gigantosaurus</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Barapasaurus_DB.jpg" title="Barapasaurus tagorei"><img alt="Barapasaurus tagorei" data-file-height="694" data-file-width="1553" decoding="async" height="63" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Barapasaurus_DB.jpg/140px-Barapasaurus_DB.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Barapasaurus_DB.jpg/210px-Barapasaurus_DB.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Barapasaurus_DB.jpg/280px-Barapasaurus_DB.jpg 2x" width="140"/></a>
+<p><a class="image" href="/wiki/File:Vulcanodon_NT.jpg" title="Vulcanodon karibaensis"><img alt="Vulcanodon karibaensis" data-file-height="224" data-file-width="600" decoding="async" height="52" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Vulcanodon_NT.jpg/140px-Vulcanodon_NT.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Vulcanodon_NT.jpg/210px-Vulcanodon_NT.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Vulcanodon_NT.jpg/280px-Vulcanodon_NT.jpg 2x" width="140"/></a>
+<a class="image" href="/wiki/File:Patagosaurus.jpg" title="Patagosaurus fariasi"><img alt="Patagosaurus fariasi" data-file-height="845" data-file-width="2257" decoding="async" height="52" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Patagosaurus.jpg/140px-Patagosaurus.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Patagosaurus.jpg/210px-Patagosaurus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Patagosaurus.jpg/280px-Patagosaurus.jpg 2x" width="140"/></a>
+</p>
+<a class="image" href="/wiki/File:Turiasaurus1.jpg" title="Turiasaurus riodevnesis"><img alt="Turiasaurus riodevnesis" data-file-height="1261" data-file-width="2507" decoding="async" height="70" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Turiasaurus1.jpg/140px-Turiasaurus1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Turiasaurus1.jpg/210px-Turiasaurus1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Turiasaurus1.jpg/280px-Turiasaurus1.jpg 2x" width="140"/></a></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Diplodocoidea" style="font-size:114%;margin:0 4em"><a href="/wiki/Diplodocoidea" title="Diplodocoidea">Diplodocoidea</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Haplocanthosauridae" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Haplocanthosauridae" title="Haplocanthosauridae">Haplocanthosauridae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Haplocanthosaurus" title="Haplocanthosaurus">Haplocanthosaurus</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Nigersaurus_BW.jpg" title="Nigersaurus taqueti"><img alt="Nigersaurus taqueti" data-file-height="366" data-file-width="753" decoding="async" height="68" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nigersaurus_BW.jpg/140px-Nigersaurus_BW.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nigersaurus_BW.jpg/210px-Nigersaurus_BW.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nigersaurus_BW.jpg/280px-Nigersaurus_BW.jpg 2x" width="140"/></a>
+<p><a class="image" href="/wiki/File:Dicraeosaurus_hansemanni22.jpg" title="Dicraeosaurus hansemanni"><img alt="Dicraeosaurus hansemanni" data-file-height="718" data-file-width="2269" decoding="async" height="44" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dicraeosaurus_hansemanni22.jpg/140px-Dicraeosaurus_hansemanni22.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dicraeosaurus_hansemanni22.jpg/210px-Dicraeosaurus_hansemanni22.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dicraeosaurus_hansemanni22.jpg/280px-Dicraeosaurus_hansemanni22.jpg 2x" width="140"/></a>
+</p>
+<a class="image" href="/wiki/File:Diplodocus_carnegii.jpg" title="Diplodocus carnegii"><img alt="Diplodocus carnegii" data-file-height="2578" data-file-width="5362" decoding="async" height="67" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Diplodocus_carnegii.jpg/140px-Diplodocus_carnegii.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Diplodocus_carnegii.jpg/210px-Diplodocus_carnegii.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Diplodocus_carnegii.jpg/280px-Diplodocus_carnegii.jpg 2x" width="140"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><span style="margin:-50px;display: inline-block;-webkit-transform: rotate(270deg);-moz-transform: rotate(270deg);-ms-transform: rotate(270deg);-o-transform: rotate(270deg);transform: rotate(270deg);"><a href="/wiki/Diplodocimorpha" title="Diplodocimorpha">Diplodocimorpha</a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Rebbachisauridae" title="Rebbachisauridae">Rebbachisauridae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Amazonsaurus" title="Amazonsaurus">Amazonsaurus</a></i></li>
+<li><i><a href="/wiki/Comahuesaurus" title="Comahuesaurus">Comahuesaurus</a></i></li>
+<li><i><a href="/wiki/Histriasaurus" title="Histriasaurus">Histriasaurus</a></i></li>
+<li><i><a href="/wiki/Itapeuasaurus" title="Itapeuasaurus">Itapeuasaurus</a></i></li>
+<li><i><a href="/wiki/Lavocatisaurus" title="Lavocatisaurus">Lavocatisaurus</a></i></li>
+<li><i><a href="/wiki/Maraapunisaurus" title="Maraapunisaurus">Maraapunisaurus</a></i></li>
+<li><i><a href="/wiki/Nopcsaspondylus" title="Nopcsaspondylus">Nopcsaspondylus</a></i></li>
+<li><i><a href="/wiki/Rayososaurus" title="Rayososaurus">Rayososaurus</a></i></li>
+<li><i><a href="/wiki/Xenoposeidon" title="Xenoposeidon">Xenoposeidon</a></i></li>
+<li><i><a href="/wiki/Zapalasaurus" title="Zapalasaurus">Zapalasaurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Limaysaurinae" title="Limaysaurinae">Limaysaurinae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Cathartesaura" title="Cathartesaura">Cathartesaura</a></i></li>
+<li><i><a href="/wiki/Limaysaurus" title="Limaysaurus">Limaysaurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Rebbachisaurinae" title="Rebbachisaurinae">Rebbachisaurinae</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Demandasaurus" title="Demandasaurus">Demandasaurus</a></i></li>
+<li><i><a href="/wiki/Katepensaurus" title="Katepensaurus">Katepensaurus</a></i></li>
+<li><i><a href="/wiki/Nigersaurus" title="Nigersaurus">Nigersaurus</a></i></li>
+<li><i><a href="/wiki/Rebbachisaurus" title="Rebbachisaurus">Rebbachisaurus</a></i></li>
+<li><i><a href="/wiki/Tataouinea" title="Tataouinea">Tataouinea</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Flagellicaudata" title="Flagellicaudata">Flagellicaudata</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Dicraeosauridae" title="Dicraeosauridae">Dicraeosauridae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Amargasaurus" title="Amargasaurus">Amargasaurus</a></i></li>
+<li><i><a href="/wiki/Amargatitanis" title="Amargatitanis">Amargatitanis</a></i></li>
+<li><i><a href="/wiki/Bajadasaurus" title="Bajadasaurus">Bajadasaurus</a></i></li>
+<li><i><a href="/wiki/Brachytrachelopan" title="Brachytrachelopan">Brachytrachelopan</a></i></li>
+<li><i><a href="/wiki/Dicraeosaurus" title="Dicraeosaurus">Dicraeosaurus</a></i></li>
+<li><i><a href="/wiki/Dyslocosaurus" title="Dyslocosaurus">Dyslocosaurus</a></i></li>
+<li><i><a href="/wiki/Dystrophaeus" title="Dystrophaeus">Dystrophaeus</a></i></li>
+<li><i><a href="/wiki/Lingwulong" title="Lingwulong">Lingwulong</a></i></li>
+<li><i><a href="/wiki/Pilmatueia" title="Pilmatueia">Pilmatueia</a></i></li>
+<li><i><a href="/wiki/Suuwassea" title="Suuwassea">Suuwassea</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Diplodocidae" title="Diplodocidae">Diplodocidae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Amphicoelias" title="Amphicoelias">Amphicoelias</a></i></li>
+<li><i><a href="/wiki/Atlantosaurus" title="Atlantosaurus">Atlantosaurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Apatosaurinae" title="Apatosaurinae">Apatosaurinae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Apatosaurus" title="Apatosaurus">Apatosaurus</a></i></li>
+<li><i><a href="/wiki/Brontosaurus" title="Brontosaurus">Brontosaurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Diplodocinae" title="Diplodocinae">Diplodocinae</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Barosaurus" title="Barosaurus">Barosaurus</a></i></li>
+<li><i><a href="/wiki/Dinheirosaurus" title="Dinheirosaurus">Dinheirosaurus</a></i>?</li>
+<li><i><a href="/wiki/Diplodocus" title="Diplodocus">Diplodocus</a></i></li>
+<li><i><a href="/wiki/Galeamopus" title="Galeamopus">Galeamopus</a></i></li>
+<li><i><a href="/wiki/Kaatedocus" title="Kaatedocus">Kaatedocus</a></i></li>
+<li><i><a href="/wiki/Leinkupal" title="Leinkupal">Leinkupal</a></i></li>
+<li><i><a href="/wiki/Supersaurus" title="Supersaurus">Supersaurus</a></i></li>
+<li><i><a href="/wiki/Tornieria" title="Tornieria">Tornieria</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Macronaria" style="font-size:114%;margin:0 4em"><a href="/wiki/Macronaria" title="Macronaria">Macronaria</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Macronaria" scope="row" style="width:1%"><span style="margin:-33px;display: inline-block;-webkit-transform: rotate(270deg);-moz-transform: rotate(270deg);-ms-transform: rotate(270deg);-o-transform: rotate(270deg);transform: rotate(270deg);"><a href="/wiki/Macronaria" title="Macronaria">Macronaria</a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Abrosaurus" title="Abrosaurus">Abrosaurus</a></i></li>
+<li><i><a href="/wiki/Aragosaurus" title="Aragosaurus">Aragosaurus</a></i></li>
+<li><i><a href="/wiki/Atlasaurus" title="Atlasaurus">Atlasaurus</a></i>?</li>
+<li><i><a href="/wiki/Daanosaurus" title="Daanosaurus">Daanosaurus</a></i></li>
+<li><i><a href="/wiki/Dinodocus" title="Dinodocus">Dinodocus</a></i>?</li>
+<li><i><a href="/wiki/Haestasaurus" title="Haestasaurus">Haestasaurus</a></i></li>
+<li><i><a href="/wiki/Haplocanthosaurus" title="Haplocanthosaurus">Haplocanthosaurus</a></i>?</li>
+<li><i><a href="/wiki/Janenschia" title="Janenschia">Janenschia</a></i></li>
+<li><i><a href="/wiki/Jobaria" title="Jobaria">Jobaria</a></i>?</li>
+<li><i><a href="/wiki/Liubangosaurus" title="Liubangosaurus">Liubangosaurus</a></i></li>
+<li><i><a href="/wiki/Oplosaurus" title="Oplosaurus">Oplosaurus</a></i></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Camarasauridae" title="Camarasauridae">Camarasauridae</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Bellusaurus" title="Bellusaurus">Bellusaurus</a></i></li>
+<li><i><a href="/wiki/Camarasaurus" title="Camarasaurus">Camarasaurus</a></i></li>
+<li><i><a href="/wiki/Cathetosaurus" title="Cathetosaurus">Cathetosaurus</a></i></li>
+<li><i><a href="/wiki/Dashanpusaurus" title="Dashanpusaurus">Dashanpusaurus</a></i></li>
+<li><i><a href="/wiki/Lourinhasaurus" title="Lourinhasaurus">Lourinhasaurus</a></i></li>
+<li><i><a href="/wiki/Tehuelchesaurus" title="Tehuelchesaurus">Tehuelchesaurus</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><span style="margin:-53px;display: inline-block;-webkit-transform: rotate(270deg);-moz-transform: rotate(270deg);-ms-transform: rotate(270deg);-o-transform: rotate(270deg);transform: rotate(270deg);"><a class="mw-redirect" href="/wiki/Titanosauriformes" title="Titanosauriformes">Titanosauriformes</a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Brohisaurus" title="Brohisaurus">Brohisaurus</a></i></li>
+<li><i><a href="/wiki/Eucamerotus" title="Eucamerotus">Eucamerotus</a></i></li>
+<li><i><a href="/wiki/Fushanosaurus" title="Fushanosaurus">Fushanosaurus</a></i></li>
+<li><i><a href="/wiki/Oceanotitan" title="Oceanotitan">Oceanotitan</a></i></li>
+<li><i><a href="/wiki/Ornithopsis" title="Ornithopsis">Ornithopsis</a></i></li>
+<li><i><a href="/wiki/Padillasaurus" title="Padillasaurus">Padillasaurus</a></i></li>
+<li><i><a href="/wiki/Pukyongosaurus" title="Pukyongosaurus">Pukyongosaurus</a></i></li>
+<li><i><a href="/wiki/Rugocaudia" title="Rugocaudia">Rugocaudia</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Brachiosauridae" title="Brachiosauridae">Brachiosauridae</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Abydosaurus" title="Abydosaurus">Abydosaurus</a></i></li>
+<li><i><a href="/wiki/Brachiosaurus" title="Brachiosaurus">Brachiosaurus</a></i></li>
+<li><i><a href="/wiki/Cedarosaurus" title="Cedarosaurus">Cedarosaurus</a></i></li>
+<li><i><a href="/wiki/Duriatitan" title="Duriatitan">Duriatitan</a></i></li>
+<li><i><a href="/wiki/Europasaurus" title="Europasaurus">Europasaurus</a></i></li>
+<li><i><a href="/wiki/Giraffatitan" title="Giraffatitan">Giraffatitan</a></i></li>
+<li><i><a href="/wiki/Lusotitan" title="Lusotitan">Lusotitan</a></i></li>
+<li><i><a href="/wiki/Sonorasaurus" title="Sonorasaurus">Sonorasaurus</a></i></li>
+<li><i><a href="/wiki/Soriatitan" title="Soriatitan">Soriatitan</a></i></li>
+<li><i><a href="/wiki/Tastavinsaurus" title="Tastavinsaurus">Tastavinsaurus</a></i></li>
+<li><i><a href="/wiki/Venenosaurus" title="Venenosaurus">Venenosaurus</a></i></li>
+<li><i><a href="/wiki/Vouivria" title="Vouivria">Vouivria</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Somphospondyli" title="Somphospondyli">Somphospondyli</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Agustinia" title="Agustinia">Agustinia</a></i>?</li>
+<li><i><a href="/wiki/Angolatitan" title="Angolatitan">Angolatitan</a></i></li>
+<li><i><a href="/wiki/Arkharavia" title="Arkharavia">Arkharavia</a></i></li>
+<li><i><a href="/wiki/Astrodon" title="Astrodon">Astrodon</a></i></li>
+<li><i><a href="/wiki/Astrophocaudia" title="Astrophocaudia">Astrophocaudia</a></i></li>
+<li><i><a href="/wiki/Australodocus" title="Australodocus">Australodocus</a></i>?</li>
+<li><i><a href="/wiki/Austrosaurus" title="Austrosaurus">Austrosaurus</a></i></li>
+<li><i><a href="/wiki/Brontomerus" title="Brontomerus">Brontomerus</a></i></li>
+<li><i><a href="/wiki/Dongbeititan" title="Dongbeititan">Dongbeititan</a></i></li>
+<li><i><a href="/wiki/Dongyangosaurus" title="Dongyangosaurus">Dongyangosaurus</a></i></li>
+<li><i><a href="/wiki/Europatitan" title="Europatitan">Europatitan</a></i></li>
+<li><i><a href="/wiki/Fukuititan" title="Fukuititan">Fukuititan</a></i></li>
+<li><i><a href="/wiki/Huabeisaurus" title="Huabeisaurus">Huabeisaurus</a></i></li>
+<li><i><a href="/wiki/Huanghetitan" title="Huanghetitan">Huanghetitan</a></i></li>
+<li><i><a href="/wiki/Jiangshanosaurus" title="Jiangshanosaurus">Jiangshanosaurus</a></i></li>
+<li><i><a href="/wiki/Jiutaisaurus" title="Jiutaisaurus">Jiutaisaurus</a></i></li>
+<li><i><a href="/wiki/Ligabuesaurus" title="Ligabuesaurus">Ligabuesaurus</a></i></li>
+<li><i><a href="/wiki/Malarguesaurus" title="Malarguesaurus">Malarguesaurus</a></i></li>
+<li><i><a href="/wiki/Pelorosaurus" title="Pelorosaurus">Pelorosaurus</a></i></li>
+<li><i><a href="/wiki/Sauroposeidon" title="Sauroposeidon">Sauroposeidon</a></i></li>
+<li><i><a href="/wiki/Sibirotitan" title="Sibirotitan">Sibirotitan</a></i></li>
+<li><i><a href="/wiki/Tendaguria" title="Tendaguria">Tendaguria</a></i></li>
+<li><i><a href="/wiki/Triunfosaurus" title="Triunfosaurus">Triunfosaurus</a></i></li>
+<li><i><a href="/wiki/Wintonotitan" title="Wintonotitan">Wintonotitan</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Euhelopodidae" title="Euhelopodidae">Euhelopodidae</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Chiayusaurus" title="Chiayusaurus">Chiayusaurus</a></i>?</li>
+<li><i><a href="/wiki/Daxiatitan" title="Daxiatitan">Daxiatitan</a></i>?</li>
+<li><i><a href="/wiki/Erketu" title="Erketu">Erketu</a></i></li>
+<li><i><a href="/wiki/Euhelopus" title="Euhelopus">Euhelopus</a></i></li>
+<li><i><a href="/wiki/Fusuisaurus" title="Fusuisaurus">Fusuisaurus</a></i></li>
+<li><i><a href="/wiki/Gannansaurus" title="Gannansaurus">Gannansaurus</a></i></li>
+<li><i><a href="/wiki/Gobititan" title="Gobititan">Gobititan</a></i></li>
+<li><i><a href="/wiki/Phuwiangosaurus" title="Phuwiangosaurus">Phuwiangosaurus</a></i></li>
+<li><i><a href="/wiki/Qiaowanlong" title="Qiaowanlong">Qiaowanlong</a></i></li>
+<li><i><a href="/wiki/Tambatitanis" title="Tambatitanis">Tambatitanis</a></i></li>
+<li><i><a href="/wiki/Tangvayosaurus" title="Tangvayosaurus">Tangvayosaurus</a></i></li>
+<li><i><a href="/wiki/Yongjinglong" title="Yongjinglong">Yongjinglong</a></i></li>
+<li><i><a href="/wiki/Yunmenglong" title="Yunmenglong">Yunmenglong</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Titanosauria" title="Titanosauria">Titanosauria</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><ul><li>see below↓</li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Pelorosaurus2.jpg" title="Pelorosaurus brevis"><img alt="Pelorosaurus brevis" data-file-height="3712" data-file-width="5904" decoding="async" height="88" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pelorosaurus2.jpg/140px-Pelorosaurus2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pelorosaurus2.jpg/210px-Pelorosaurus2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pelorosaurus2.jpg/280px-Pelorosaurus2.jpg 2x" width="140"/></a>
+<a class="image" href="/wiki/File:Sauroposeidon_proteles.jpg" title="Sauroposeidon proteles"><img alt="Sauroposeidon proteles" data-file-height="1976" data-file-width="3088" decoding="async" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sauroposeidon_proteles.jpg/140px-Sauroposeidon_proteles.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sauroposeidon_proteles.jpg/210px-Sauroposeidon_proteles.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sauroposeidon_proteles.jpg/280px-Sauroposeidon_proteles.jpg 2x" width="140"/></a></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible uncollapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Titanosauria" style="font-size:114%;margin:0 4em"><a href="/wiki/Titanosauria" title="Titanosauria">Titanosauria</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><link href="mw-data:TemplateStyles:r886047488" rel="mw-deduplicated-inline-style"/><span class="nobold"><b>Basal titanosaurs</b></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Andesaurus" title="Andesaurus">Andesaurus</a></i></li>
+<li><i><a href="/wiki/Choconsaurus" title="Choconsaurus">Choconsaurus</a></i></li>
+<li><i><a href="/wiki/Daxiatitan" title="Daxiatitan">Daxiatitan</a></i></li>
+<li><i><a href="/wiki/Diamantinasaurus" title="Diamantinasaurus">Diamantinasaurus</a></i></li>
+<li><i><a href="/wiki/Kaijutitan" title="Kaijutitan">Kaijutitan</a></i></li>
+<li><i><a href="/wiki/Malarguesaurus" title="Malarguesaurus">Malarguesaurus</a></i></li>
+<li><i><a href="/wiki/Ruyangosaurus" title="Ruyangosaurus">Ruyangosaurus</a></i></li>
+<li><i><a href="/wiki/Savannasaurus" title="Savannasaurus">Savannasaurus</a></i></li>
+<li><i><a href="/wiki/Baotianmansaurus" title="Baotianmansaurus">Baotianmansaurus</a></i>?</li>
+<li><i><a href="/wiki/Ligabuesaurus" title="Ligabuesaurus">Ligabuesaurus</a></i>?</li>
+<li><i><a href="/wiki/Triunfosaurus" title="Triunfosaurus">Triunfosaurus</a></i>?</li>
+<li><i><a href="/wiki/Wintonotitan" title="Wintonotitan">Wintonotitan</a></i>?</li></ul>
+</div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Wintonotitan.png" title="Wintonotitan wattsi"><img alt="Wintonotitan wattsi" data-file-height="861" data-file-width="2773" decoding="async" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wintonotitan.png/140px-Wintonotitan.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wintonotitan.png/210px-Wintonotitan.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wintonotitan.png/280px-Wintonotitan.png 2x" width="140"/></a>
+<p><a class="image" href="/wiki/File:Paralititan_stromeri.jpg" title="Paralititan stromeri"><img alt="Paralititan stromeri" data-file-height="2048" data-file-width="3642" decoding="async" height="79" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Paralititan_stromeri.jpg/140px-Paralititan_stromeri.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Paralititan_stromeri.jpg/210px-Paralititan_stromeri.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Paralititan_stromeri.jpg/280px-Paralititan_stromeri.jpg 2x" width="140"/></a>
+<a class="image" href="/wiki/File:Futalognkosaurus_BW.jpg" title="Futalognkosaurus dukei"><img alt="Futalognkosaurus dukei" data-file-height="734" data-file-width="1280" decoding="async" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Futalognkosaurus_BW.jpg/140px-Futalognkosaurus_BW.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Futalognkosaurus_BW.jpg/210px-Futalognkosaurus_BW.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Futalognkosaurus_BW.jpg/280px-Futalognkosaurus_BW.jpg 2x" width="140"/></a>
+<a class="image" href="/wiki/File:AmpelosaurusDB.jpg" title="Ampelosaurus atacis"><img alt="Ampelosaurus atacis" data-file-height="380" data-file-width="1182" decoding="async" height="45" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/AmpelosaurusDB.jpg/140px-AmpelosaurusDB.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/AmpelosaurusDB.jpg/210px-AmpelosaurusDB.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/AmpelosaurusDB.jpg/280px-AmpelosaurusDB.jpg 2x" width="140"/></a>
+</p>
+<a class="image" href="/wiki/File:Saltasaurus_dinosaur.png" title="Saltasaurus loricatus"><img alt="Saltasaurus loricatus" data-file-height="1080" data-file-width="1920" decoding="async" height="79" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Saltasaurus_dinosaur.png/140px-Saltasaurus_dinosaur.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Saltasaurus_dinosaur.png/210px-Saltasaurus_dinosaur.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Saltasaurus_dinosaur.png/280px-Saltasaurus_dinosaur.png 2x" width="140"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><link href="mw-data:TemplateStyles:r886047488" rel="mw-deduplicated-inline-style"/><span class="nobold"><b>Intermediate titanosaurs</b></span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Adamantisaurus" title="Adamantisaurus">Adamantisaurus</a></i></li>
+<li><i><a href="/wiki/Aegyptosaurus" title="Aegyptosaurus">Aegyptosaurus</a></i></li>
+<li><i><a href="/wiki/Atacamatitan" title="Atacamatitan">Atacamatitan</a></i></li>
+<li><i><a href="/wiki/Baalsaurus" title="Baalsaurus">Baalsaurus</a></i></li>
+<li><i><a href="/wiki/Barrosasaurus" title="Barrosasaurus">Barrosasaurus</a></i></li>
+<li><i><a href="/wiki/Borealosaurus" title="Borealosaurus">Borealosaurus</a></i></li>
+<li><i><a href="/wiki/Jiutaisaurus" title="Jiutaisaurus">Jiutaisaurus</a></i></li>
+<li><i><a href="/wiki/Karongasaurus" title="Karongasaurus">Karongasaurus</a></i></li>
+<li><i><a href="/wiki/Laplatasaurus" title="Laplatasaurus">Laplatasaurus</a></i></li>
+<li><i><a href="/wiki/Magyarosaurus" title="Magyarosaurus">Magyarosaurus</a></i></li>
+<li><i><a href="/wiki/Petrobrasaurus" title="Petrobrasaurus">Petrobrasaurus</a></i></li>
+<li><i><a href="/wiki/Qingxiusaurus" title="Qingxiusaurus">Qingxiusaurus</a></i></li>
+<li><i><a href="/wiki/Sonidosaurus" title="Sonidosaurus">Sonidosaurus</a></i></li>
+<li><i><a href="/wiki/Xianshanosaurus" title="Xianshanosaurus">Xianshanosaurus</a></i></li>
+<li><i><a href="/wiki/Argyrosaurus" title="Argyrosaurus">Argyrosaurus</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Lithostrotia" title="Lithostrotia">Lithostrotia</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Austroposeidon" title="Austroposeidon">Austroposeidon</a></i></li>
+<li><i><a class="mw-selflink selflink">Baurutitan</a></i></li>
+<li><i><a href="/wiki/Dreadnoughtus" title="Dreadnoughtus">Dreadnoughtus</a></i></li>
+<li><i><a href="/wiki/Elaltitan" title="Elaltitan">Elaltitan</a></i></li>
+<li><i><a href="/wiki/Epachthosaurus" title="Epachthosaurus">Epachthosaurus</a></i></li>
+<li><i><a href="/wiki/Lohuecotitan" title="Lohuecotitan">Lohuecotitan</a></i></li>
+<li><i><a href="/wiki/Malawisaurus" title="Malawisaurus">Malawisaurus</a></i></li>
+<li><i><a href="/wiki/Mansourasaurus" title="Mansourasaurus">Mansourasaurus</a></i></li>
+<li><i><a href="/wiki/Mnyamawamtuka" title="Mnyamawamtuka">Mnyamawamtuka</a></i></li>
+<li><i><a href="/wiki/Narambuenatitan" title="Narambuenatitan">Narambuenatitan</a></i></li>
+<li><i><a href="/wiki/Normanniasaurus" title="Normanniasaurus">Normanniasaurus</a></i></li>
+<li><i><a href="/wiki/Paludititan" title="Paludititan">Paludititan</a></i></li>
+<li><i><a href="/wiki/Pellegrinisaurus" title="Pellegrinisaurus">Pellegrinisaurus</a></i></li>
+<li><i><a href="/wiki/Rukwatitan" title="Rukwatitan">Rukwatitan</a></i></li>
+<li><i><a href="/wiki/Sarmientosaurus" title="Sarmientosaurus">Sarmientosaurus</a></i></li>
+<li><i><a href="/wiki/Tengrisaurus" title="Tengrisaurus">Tengrisaurus</a></i></li>
+<li><i><a href="/wiki/Volgatitan" title="Volgatitan">Volgatitan</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Lirainosaurinae" title="Lirainosaurinae">Lirainosaurinae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Ampelosaurus" title="Ampelosaurus">Ampelosaurus</a></i></li>
+<li><i><a href="/wiki/Atsinganosaurus" title="Atsinganosaurus">Atsinganosaurus</a></i></li>
+<li><i><a href="/wiki/Lirainosaurus" title="Lirainosaurus">Lirainosaurus</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Colossosauria" title="Colossosauria">Colossosauria</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Antarctosaurus" title="Antarctosaurus">Antarctosaurus</a></i></li>
+<li><i><a href="/wiki/Bonitasaura" title="Bonitasaura">Bonitasaura</a></i></li>
+<li><i><a href="/wiki/Jainosaurus" title="Jainosaurus">Jainosaurus</a></i></li>
+<li><i><a href="/wiki/Notocolossus" title="Notocolossus">Notocolossus</a></i></li>
+<li><i><a href="/wiki/Nullotitan" title="Nullotitan">Nullotitan</a></i></li>
+<li><i><a href="/wiki/Vahiny" title="Vahiny">Vahiny</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Rinconsauria" title="Rinconsauria">Rinconsauria</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Muyelensaurus" title="Muyelensaurus">Muyelensaurus</a></i></li>
+<li><i><a href="/wiki/Rinconsaurus" title="Rinconsaurus">Rinconsaurus</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Lognkosauria" title="Lognkosauria">Lognkosauria</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Drusilasaura" title="Drusilasaura">Drusilasaura</a></i></li>
+<li><i><a href="/wiki/Futalognkosaurus" title="Futalognkosaurus">Futalognkosaurus</a></i></li>
+<li><i><a href="/wiki/Mendozasaurus" title="Mendozasaurus">Mendozasaurus</a></i></li>
+<li><i><a href="/wiki/Patagotitan" title="Patagotitan">Patagotitan</a></i></li>
+<li><i><a href="/wiki/Puertasaurus" title="Puertasaurus">Puertasaurus</a></i></li>
+<li><i><a href="/wiki/Quetecsaurus" title="Quetecsaurus">Quetecsaurus</a></i></li>
+<li><i><a href="/wiki/Traukutitan" title="Traukutitan">Traukutitan</a></i></li>
+<li><i><a href="/wiki/Argentinosaurus" title="Argentinosaurus">Argentinosaurus</a></i>?</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Nemegtosauridae" title="Nemegtosauridae">Nemegtosauridae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Nemegtosaurus" title="Nemegtosaurus">Nemegtosaurus</a></i></li>
+<li><i><a href="/wiki/Quaesitosaurus" title="Quaesitosaurus">Quaesitosaurus</a></i></li>
+<li><i><a href="/wiki/Tapuiasaurus" title="Tapuiasaurus">Tapuiasaurus</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Aeolosauridae" title="Aeolosauridae">Aeolosauridae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Overosaurus" title="Overosaurus">Overosaurus</a></i></li>
+<li><i><a href="/wiki/Panamericansaurus" title="Panamericansaurus">Panamericansaurus</a></i></li>
+<li><i><a href="/wiki/Pitekunsaurus" title="Pitekunsaurus">Pitekunsaurus</a></i></li>
+<li><i><a href="/wiki/Shingopana" title="Shingopana">Shingopana</a></i></li>
+<li><i><a href="/wiki/Argyrosaurus" title="Argyrosaurus">Argyrosaurus</a></i>?</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Aeolosaurini" title="Aeolosaurini">Aeolosaurini</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Aeolosaurus" title="Aeolosaurus">Aeolosaurus</a></i></li>
+<li><i><a href="/wiki/Gondwanatitan" title="Gondwanatitan">Gondwanatitan</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Saltasauridae" title="Saltasauridae">Saltasauridae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Rapetosaurus" title="Rapetosaurus">Rapetosaurus</a></i></li>
+<li><i><a href="/wiki/Zhuchengtitan" title="Zhuchengtitan">Zhuchengtitan</a></i></li>
+<li><i><a href="/wiki/Isisaurus" title="Isisaurus">Isisaurus</a></i>?</li>
+<li><i><a href="/wiki/Trigonosaurus" title="Trigonosaurus">Trigonosaurus</a></i>?</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Opisthocoelicaudiinae" title="Opisthocoelicaudiinae">Opisthocoelicaudiinae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Alamosaurus" title="Alamosaurus">Alamosaurus</a></i></li>
+<li><i><a href="/wiki/Opisthocoelicaudia" title="Opisthocoelicaudia">Opisthocoelicaudia</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Saltasaurinae" title="Saltasaurinae">Saltasaurinae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Brasilotitan" title="Brasilotitan">Brasilotitan</a></i></li>
+<li><i><a href="/wiki/Uberabatitan" title="Uberabatitan">Uberabatitan</a></i></li>
+<li><i><a href="/wiki/Yamanasaurus" title="Yamanasaurus">Yamanasaurus</a></i></li>
+<li><i><a href="/wiki/Loricosaurus" title="Loricosaurus">Loricosaurus</a></i>?</li>
+<li><i><a href="/wiki/Maxakalisaurus" title="Maxakalisaurus">Maxakalisaurus</a></i>?</li>
+<li><i><a href="/wiki/Microcoelus" title="Microcoelus">Microcoelus</a></i>?</li>
+<li><i><a href="/wiki/Paralititan" title="Paralititan">Paralititan</a></i>?</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Saltasaurini" title="Saltasaurini">Saltasaurini</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Neuquensaurus" title="Neuquensaurus">Neuquensaurus</a></i></li>
+<li><i><a href="/wiki/Rocasaurus" title="Rocasaurus">Rocasaurus</a></i></li>
+<li><i><a href="/wiki/Saltasaurus" title="Saltasaurus">Saltasaurus</a></i></li>
+<li><i><a href="/wiki/Bonatitan" title="Bonatitan">Bonatitan</a></i>?</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><link href="mw-data:TemplateStyles:r886047488" rel="mw-deduplicated-inline-style"/><span class="nobold"><b>Dubious titanosaurs</b></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Campylodoniscus" title="Campylodoniscus">Campylodoniscus</a></i></li>
+<li><i><a href="/wiki/Clasmodosaurus" title="Clasmodosaurus">Clasmodosaurus</a></i></li>
+<li><i><a href="/wiki/Hypselosaurus" title="Hypselosaurus">Hypselosaurus</a></i></li>
+<li><i><a href="/wiki/Iuticosaurus" title="Iuticosaurus">Iuticosaurus</a></i></li>
+<li><i><a href="/wiki/Mongolosaurus" title="Mongolosaurus">Mongolosaurus</a></i></li>
+<li><i><a href="/wiki/Titanosaurus" title="Titanosaurus">Titanosaurus</a></i></li>
+<li><i><a href="/wiki/Bruhathkayosaurus" title="Bruhathkayosaurus">Bruhathkayosaurus</a></i>?</li>
+<li><i><a href="/wiki/Macrurosaurus" title="Macrurosaurus">Macrurosaurus</a></i>?</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div aria-labelledby="Taxon_identifiers" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Taxon_identifiers" scope="row" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a class="extiw" href="https://www.wikidata.org/wiki/Q134648" title="wikidata:Q134648">Q134648</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>: <span class="uid"><a class="external text" href="https://eol.org/pages/4531321" rel="nofollow">4531321</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a class="external text" href="http://fossilworks.org/bridge.pl?a=taxonInfo&amp;taxon_no=85462" rel="nofollow">85462</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a class="external text" href="https://www.gbif.org/species/4967341" rel="nofollow">4967341</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1338
+Cached time: 20191209102918
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.044 seconds
+Real time usage: 1.336 seconds
+Preprocessor visited node count: 18210/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 414065/2097152 bytes
+Template argument size: 24191/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5132/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.644/10.000 seconds
+Lua memory usage: 7.01 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1134.583      1 -total
+ 59.26%  672.338      1 Template:Automatic_taxobox
+ 27.33%  310.100     45 Template:Navbox
+ 15.25%  173.075      1 Template:Fossil_range
+ 14.08%  159.724      1 Template:Phanerozoic_220px
+ 11.57%  131.217      1 Template:Sauropodomorpha
+ 11.06%  125.460      1 Template:Navbox_with_collapsible_groups
+ 10.93%  123.998     11 Template:Fossil_range/bar
+ 10.57%  119.893      1 Template:Reflist
+ 10.44%  118.493     34 Template:Period_start
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4962729-0!canonical and timestamp 20191209102918 and revision id 916107649
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Baurutitan&amp;oldid=916107649">https://en.wikipedia.org/w/index.php?title=Baurutitan&amp;oldid=916107649</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Titanosaurs" title="Category:Titanosaurs">Titanosaurs</a></li><li><a href="/wiki/Category:Maastrichtian_life" title="Category:Maastrichtian life">Maastrichtian life</a></li><li><a href="/wiki/Category:Late_Cretaceous_dinosaurs_of_South_America" title="Category:Late Cretaceous dinosaurs of South America">Late Cretaceous dinosaurs of South America</a></li><li><a href="/wiki/Category:Cretaceous_Brazil" title="Category:Cretaceous Brazil">Cretaceous Brazil</a></li><li><a href="/wiki/Category:Fossils_of_Brazil" title="Category:Fossils of Brazil">Fossils of Brazil</a></li><li><a href="/wiki/Category:Mar%C3%ADlia_Formation" title="Category:Marília Formation">Marília Formation</a></li><li><a href="/wiki/Category:Fossil_taxa_described_in_2005" title="Category:Fossil taxa described in 2005">Fossil taxa described in 2005</a></li><li><a href="/wiki/Category:Taxa_named_by_Alexander_Kellner" title="Category:Taxa named by Alexander Kellner">Taxa named by Alexander Kellner</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Baurutitan" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Baurutitan" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Baurutitan" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Baurutitan" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Baurutitan">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Baurutitan&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Baurutitan&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Baurutitan" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Baurutitan" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Baurutitan&amp;oldid=916107649" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Baurutitan&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q134648" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Baurutitan&amp;id=916107649" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Baurutitan">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Baurutitan&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Baurutitan&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Baurutitan_britoi" hreflang="ca" lang="ca" title="Baurutitan britoi – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Baurutitan" hreflang="cs" lang="cs" title="Baurutitan – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Baurutitan" hreflang="de" lang="de" title="Baurutitan – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Baurutitan_britoi" hreflang="es" lang="es" title="Baurutitan britoi – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Baurutitan" hreflang="fr" lang="fr" title="Baurutitan – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Baurutitan_britoi" hreflang="it" lang="it" title="Baurutitan britoi – Italian">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Baurutitan" hreflang="nl" lang="nl" title="Baurutitan – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A6%E3%83%AB%E3%83%86%E3%82%A3%E3%82%BF%E3%83%B3" hreflang="ja" lang="ja" title="バウルティタン – Japanese">日本語</a></li><li class="interlanguage-link interwiki-or"><a class="interlanguage-link-target" href="https://or.wikipedia.org/wiki/Baurutitan" hreflang="or" lang="or" title="Baurutitan – Odia">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Baurutytan" hreflang="pl" lang="pl" title="Baurutytan – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Baurutitan" hreflang="pt" lang="pt" title="Baurutitan – Portuguese">Português</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Baurutitan" hreflang="vi" lang="vi" title="Baurutitan – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a class="interlanguage-link-target" href="https://vo.wikipedia.org/wiki/Baurutitan" hreflang="vo" lang="vo" title="Baurutitan – Volapük">Volapük</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8C%85%E9%AD%AF%E5%B7%A8%E9%BE%8D%E5%B1%AC" hreflang="zh" lang="zh" title="包魯巨龍屬 – Chinese">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q134648#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 17 September 2019, at 02:02<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Baurutitan&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.044","walltime":"1.336","ppvisitednodes":{"value":18210,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":414065,"limit":2097152},"templateargumentsize":{"value":24191,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5132,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1134.583      1 -total"," 59.26%  672.338      1 Template:Automatic_taxobox"," 27.33%  310.100     45 Template:Navbox"," 15.25%  173.075      1 Template:Fossil_range"," 14.08%  159.724      1 Template:Phanerozoic_220px"," 11.57%  131.217      1 Template:Sauropodomorpha"," 11.06%  125.460      1 Template:Navbox_with_collapsible_groups"," 10.93%  123.998     11 Template:Fossil_range/bar"," 10.57%  119.893      1 Template:Reflist"," 10.44%  118.493     34 Template:Period_start"]},"scribunto":{"limitreport-timeusage":{"value":"0.644","limit":"10.000"},"limitreport-memusage":{"value":7347039,"limit":52428800}},"cachereport":{"origin":"mw1338","timestamp":"20191209102918","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Baurutitan","url":"https:\/\/en.wikipedia.org\/wiki\/Baurutitan","sameAs":"http:\/\/www.wikidata.org\/entity\/Q134648","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q134648","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-05-01T01:40:14Z","dateModified":"2019-09-17T02:02:10Z","headline":"genus of reptiles (fossil)"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":132,"wgHostname":"mw1327"});});</script>
+
+
+</body></html>

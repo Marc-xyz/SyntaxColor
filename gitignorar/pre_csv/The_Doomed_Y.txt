@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>The Doomed - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xfqr@gpAIC4AAIJf55sAAABW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"The_Doomed","wgTitle":"The Doomed","wgCurRevisionId":927157810,"wgRevisionId":927157810,"wgArticleId":55566406,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from November 2017","Articles with hAudio microformats","2017 songs","2017 singles","A Perfect Circle songs","Song recordings produced by Dave Sardy","Songs written by Maynard James Keenan",
+"Songs written by Billy Howerdel"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"The_Doomed","wgRelevantArticleId":55566406,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q42531031","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
+"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/1/1c/The_doomed_apc.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Doomed" rel="alternate"/>
+<link href="/w/index.php?title=The_Doomed&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=The_Doomed&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/The_Doomed" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-The_Doomed rootpage-The_Doomed skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">The Doomed</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the German silent drama film, see <a href="/wiki/The_Doomed_(film)" title="The Doomed (film)">The Doomed (film)</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox vevent" style="width:22em"><tbody><tr><th class="summary" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: khaki;">"The Doomed"</th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:The_doomed_apc.jpg"><img alt="The doomed apc.jpg" data-file-height="316" data-file-width="316" decoding="async" height="220" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1c/The_doomed_apc.jpg/220px-The_doomed_apc.jpg" srcset="//upload.wikimedia.org/wikipedia/en/1/1c/The_doomed_apc.jpg 1.5x" width="220"/></a></td></tr><tr class="description"><th class="description" colspan="2" style="text-align:center;background-color: khaki;"><a href="/wiki/Single_(music)" title="Single (music)">Single</a> by <a href="/wiki/A_Perfect_Circle" title="A Perfect Circle">A Perfect Circle</a></th></tr><tr class="description"><th class="description" colspan="2" style="text-align:center;background-color: khaki;">from the album <i><a href="/wiki/Eat_the_Elephant" title="Eat the Elephant">Eat the Elephant</a></i></th></tr><tr><th scope="row">Released</th><td class="plainlist">October 16, 2017<span style="display:none"> (<span class="bday dtstart published updated">2017-10-16</span>)</span></td></tr><tr><th scope="row">Format</th><td class="hlist"><a href="/wiki/Music_download" title="Music download">Digital download</a></td></tr><tr><th scope="row">Recorded</th><td class="plainlist">2017</td></tr><tr><th scope="row"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th><td class="category hlist"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Hard_rock" title="Hard rock">Hard rock</a><sup class="reference" id="cite_ref-RollingStone1_1-0"><a href="#cite_note-RollingStone1-1">[1]</a></sup><sup class="reference" id="cite_ref-LoudwireHR17_2-0"><a href="#cite_note-LoudwireHR17-2">[2]</a></sup></li><li><a href="/wiki/Progressive_rock" title="Progressive rock">progressive rock</a><sup class="reference" id="cite_ref-PostGazette1_3-0"><a href="#cite_note-PostGazette1-3">[3]</a></sup></li></ul></div></td></tr><tr><th scope="row">Length</th><td class="plainlist"><span class="duration"><span class="min">4</span>:<span class="s">41</span></span></td></tr><tr><th scope="row"><a href="/wiki/Record_label" title="Record label">Label</a></th><td class="hlist"><a href="/wiki/BMG_Rights_Management" title="BMG Rights Management">BMG</a></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/Songwriter" title="Songwriter">Songwriter(s)</a></span></th><td class="hlist"><a href="/wiki/Billy_Howerdel" title="Billy Howerdel">Billy Howerdel</a>, <a href="/wiki/Maynard_James_Keenan" title="Maynard James Keenan">Maynard James Keenan</a></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/Record_producer" title="Record producer">Producer(s)</a></span></th><td class="hlist"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Dave_Sardy" title="Dave Sardy">Dave Sardy</a></li></ul></div></td></tr><tr><th class="description" colspan="2" style="text-align:center;background-color: khaki;"><a href="/wiki/A_Perfect_Circle" title="A Perfect Circle">A Perfect Circle</a> singles chronology</th></tr><tr><td colspan="2" style="text-align:center">
+<table style="background: transparent; width: 100%; min-width: 100%; border-collapse: collapse;">
+
+<tbody><tr style="line-height: 1.4em;">
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0;">"<a href="/wiki/By_and_Down" title="By and Down">By and Down</a>" <br/>(2013)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding:.2em .1em;">"<b>The Doomed</b>" <br/>(2017)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em;">"<a href="/wiki/Disillusioned" title="Disillusioned">Disillusioned</a>" <br/>(2018)
+</td></tr></tbody></table></td></tr></tbody></table>
+<p>"<b>The Doomed</b>" is a song by American <a href="/wiki/Rock_music" title="Rock music">rock</a> band <a href="/wiki/A_Perfect_Circle" title="A Perfect Circle">A Perfect Circle</a>. The song was first released as a single on October 16, 2017. It is the band's first single since 2013's "<a href="/wiki/By_and_Down" title="By and Down">By and Down</a>" for their <a class="mw-redirect" href="/wiki/Greatest_hits" title="Greatest hits">greatest hits</a> album <i><a href="/wiki/Three_Sixty" title="Three Sixty">Three Sixty</a></i>, and was the lead single for their fourth studio album, <i><a href="/wiki/Eat_the_Elephant" title="Eat the Elephant">Eat the Elephant</a></i>. It peaked at number 16 on the <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> US <a href="/wiki/Mainstream_Rock_(chart)" title="Mainstream Rock (chart)">Mainstream Rock Songs</a> chart in November 2017.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Writing_and_recording"><span class="tocnumber">2</span> <span class="toctext">Writing and recording</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Themes_and_composition"><span class="tocnumber">3</span> <span class="toctext">Themes and composition</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Reception"><span class="tocnumber">4</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Personnel"><span class="tocnumber">5</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Charts"><span class="tocnumber">6</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Doomed&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The song was first teased on October 13, 2017, through a short, fifteen second soundless video posted to the band's social media, saying nothing other than "A Perfect Circle - The Doomed".<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> The ambiguity of the tease led to much speculation among music journalists, on whether it was about a song title, album title, or something else altogether.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-Glide_Magazine1_8-0"><a href="#cite_note-Glide_Magazine1-8">[8]</a></sup> On Monday, October 16, the band revealed to a song, with the band releasing it as a single.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> The song is their first in four years, since "<a href="/wiki/By_and_Down" title="By and Down">By and Down</a>" in 2013, from their <a class="mw-redirect" href="/wiki/Greatest_hits" title="Greatest hits">greatest hits</a> album <i><a href="/wiki/Three_Sixty" title="Three Sixty">Three Sixty</a></i>.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> The song was released just prior to the band starting their second leg of their North American tour, which is scheduled to run from October to December 2017.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> It is planned to be on the band's upcoming fourth studio album, scheduled for release in 2018.<sup class="reference" id="cite_ref-Pitchfork1_12-0"><a href="#cite_note-Pitchfork1-12">[12]</a></sup> The song was debuted live on October 21, 2017, at the <a href="/wiki/Aftershock_Festival" title="Aftershock Festival">Aftershock Festival</a>.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p><p>On November 16, 2017, a <a href="/wiki/Music_video" title="Music video">music video</a>, directed by Jeremy Danger and Travis Shinn, was released for the song.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> The video features the five band members, in black and white, looking pensive and bleak, with little movement other than slowly looking towards, or away from, the camera, with alternative white and black backdrops.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Writing_and_recording">Writing and recording</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Doomed&amp;action=edit&amp;section=2" title="Edit section: Writing and recording">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The song's origins date back to a song idea by band guitarist <a href="/wiki/Billy_Howerdel" title="Billy Howerdel">Billy Howerdel</a>, who was working on writing the soundtrack for the indie film <i>D-Love</i> during the band's downtime in 2015.<sup class="reference" id="cite_ref-Spokesman1_16-0"><a href="#cite_note-Spokesman1-16">[16]</a></sup> Howerdel had written a small orchestral part for the film that he was unable to fit into the finished project.<sup class="reference" id="cite_ref-Spokesman1_16-1"><a href="#cite_note-Spokesman1-16">[16]</a></sup><sup class="reference" id="cite_ref-PostGazette1_3-1"><a href="#cite_note-PostGazette1-3">[3]</a></sup> Feeling there was still something there, Howerdel sent the part to band vocalist <a href="/wiki/Maynard_James_Keenan" title="Maynard James Keenan">Maynard James Keenan</a> during the band's 2017 writing sessions for a fourth studio album, not necessarily as a song idea, but rather, just as a starting point for writing material.<sup class="reference" id="cite_ref-PostGazette1_3-2"><a href="#cite_note-PostGazette1-3">[3]</a></sup><sup class="reference" id="cite_ref-Spokesman1_16-2"><a href="#cite_note-Spokesman1-16">[16]</a></sup> Keenan approved of the part, requesting that Howerdel write a song around the idea.<sup class="reference" id="cite_ref-PostGazette1_3-3"><a href="#cite_note-PostGazette1-3">[3]</a></sup> Despite generally slow writing sessions tracing back to 2008, the two moved quickly on the track; Howerdel wrote the song's music in a day and a half, and upon hearing his work, Keenan put down demo vocals just a day and a half later, with the song being completed shortly after.<sup class="reference" id="cite_ref-PostGazette1_3-4"><a href="#cite_note-PostGazette1-3">[3]</a></sup><sup class="reference" id="cite_ref-Spokesman1_16-3"><a href="#cite_note-Spokesman1-16">[16]</a></sup> The song's lyrics were written entirely by Keenan.<sup class="reference" id="cite_ref-PostGazette1_3-5"><a href="#cite_note-PostGazette1-3">[3]</a></sup><sup class="reference" id="cite_ref-Spokesman1_16-4"><a href="#cite_note-Spokesman1-16">[16]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Themes_and_composition">Themes and composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Doomed&amp;action=edit&amp;section=3" title="Edit section: Themes and composition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The song's lyrics deals with topics such as <a class="mw-redirect" href="/wiki/Wealth_inequality" title="Wealth inequality">wealth inequality</a> and <a class="mw-redirect" href="/wiki/Class_inequality" title="Class inequality">class inequality</a>.<sup class="reference" id="cite_ref-Spin1_17-0"><a href="#cite_note-Spin1-17">[17]</a></sup> Specifically, journalists interpreted the lyrics to be attacking the <a class="mw-redirect" href="/wiki/Conservative" title="Conservative">conservative</a> ideal that <a href="/wiki/Society" title="Society">society</a> isn't responsible for the well being of the less fortunate.<sup class="reference" id="cite_ref-Stereogum1_18-0"><a href="#cite_note-Stereogum1-18">[18]</a></sup> The song's lyrics, written by band <a class="mw-redirect" href="/wiki/Frontman" title="Frontman">frontman</a> <a href="/wiki/Maynard_James_Keenan" title="Maynard James Keenan">Maynard James Keenan</a>, conveyed the message through lines such as "What of the <a class="mw-redirect" href="/wiki/Pious" title="Pious">pious</a>, the pure of heart, the peaceful? What of the <a class="mw-redirect" href="/wiki/Meek" title="Meek">meek</a>, the <a href="/wiki/Mourning" title="Mourning">mourning</a>, and the <a class="mw-redirect" href="/wiki/Merciful" title="Merciful">merciful</a>? All doomed. All doomed."<sup class="reference" id="cite_ref-Glide_Magazine1_8-1"><a href="#cite_note-Glide_Magazine1-8">[8]</a></sup> Upon the release of the single, Keenan said of the song:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886047036">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>14 years have passed since we released <i>Emotive</i>. A new release is long overdue. In light of this current difficult and polarized social, spiritual and political climate, we artist types need to open our big mouths and share the light a little louder."<sup class="reference" id="cite_ref-Spin1_17-1"><a href="#cite_note-Spin1-17">[17]</a></sup>
+</p></blockquote>
+<p>It was also interpreted to be a statement against modern <a href="/wiki/Christianity" title="Christianity">Christianity</a>, a topic Keenan frequently has addressed in his work,<sup class="reference" id="cite_ref-MetalSucks1_19-0"><a href="#cite_note-MetalSucks1-19">[19]</a></sup><sup class="reference" id="cite_ref-Glide_Magazine1_8-2"><a href="#cite_note-Glide_Magazine1-8">[8]</a></sup> with  <a class="mw-redirect" href="/wiki/AZ_Central" title="AZ Central">AZ Central</a> comparing it to a "<a href="/wiki/Nihilism" title="Nihilism">nihilistic</a> <a href="/wiki/Sermon_on_the_Mount" title="Sermon on the Mount">Sermon on the Mount</a>".<sup class="reference" id="cite_ref-AZC1_20-0"><a href="#cite_note-AZC1-20">[20]</a></sup> The song has been described as <a class="mw-redirect" href="/wiki/Ominous" title="Ominous">ominous</a>,<sup class="reference" id="cite_ref-Radio.com1_21-0"><a href="#cite_note-Radio.com1-21">[21]</a></sup> <a class="mw-redirect" href="/wiki/Aggressive" title="Aggressive">aggressive</a>,<sup class="reference" id="cite_ref-Radio.com1_21-1"><a href="#cite_note-Radio.com1-21">[21]</a></sup> <a class="mw-redirect" href="/wiki/Apocalypse" title="Apocalypse">apocalyptic</a><sup class="reference" id="cite_ref-RollingStone1_1-1"><a href="#cite_note-RollingStone1-1">[1]</a></sup> and intense<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>. While not the lyrics writer, Howerdel explained that, to him, the song was about the <a href="/wiki/Human_condition" title="Human condition">human condition</a> of power corrupting the people in control of the world.<sup class="reference" id="cite_ref-PostGazette1_3-6"><a href="#cite_note-PostGazette1-3">[3]</a></sup>
+</p><p>Musically, the song has been described as a "surging, sweeping <a class="mw-redirect" href="/wiki/Guitar_riff" title="Guitar riff">riff</a>-<a href="/wiki/Rock_music" title="Rock music">rocker</a> that builds to a raging conclusion".<sup class="reference" id="cite_ref-Stereogum1_18-1"><a href="#cite_note-Stereogum1-18">[18]</a></sup> The song alternates between soft and loud dynamics, the song starts with a prominent drum beat and guitarist <a href="/wiki/Billy_Howerdel" title="Billy Howerdel">Billy Howerdel</a>'s swirling guitar notes, before building into a <a href="/wiki/Hard_rock" title="Hard rock">hard rock</a> sound with distorted guitars and Keenan's angry singing.<sup class="reference" id="cite_ref-RollingStone1_1-2"><a href="#cite_note-RollingStone1-1">[1]</a></sup><sup class="reference" id="cite_ref-AZC1_20-1"><a href="#cite_note-AZC1-20">[20]</a></sup> The song then dials back to segments consisting only of Keenan's soft-spoken, melodic vocals over <a href="/wiki/Piano" title="Piano">piano</a>/<a href="/wiki/Xylophone" title="Xylophone">xylophone</a> parts, leading to a sound described as "a band’s take on what an orchestra could accomplish if stripped to its bare bones, coming across as grand yet minimalistic."<sup class="reference" id="cite_ref-Loudwire1_23-0"><a href="#cite_note-Loudwire1-23">[23]</a></sup><sup class="reference" id="cite_ref-Radio.com1_21-2"><a href="#cite_note-Radio.com1-21">[21]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Doomed&amp;action=edit&amp;section=4" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The song's initial release was generally well received by critics. <i><a href="/wiki/Kerrang!" title="Kerrang!">Kerrang!</a></i> named it their top song of the week upon release, praising it for taking  the style of "<a href="/wiki/Counting_Bodies_Like_Sheep_to_the_Rhythm_of_the_War_Drums" title="Counting Bodies Like Sheep to the Rhythm of the War Drums">Counting Bodies Like Sheep to the Rhythm of the War Drums</a>" and giving it scathing lyrics relevant to the polarized political landscape of 2017.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> <a href="/wiki/Loudwire" title="Loudwire">Loudwire</a> described the song as "incredible" and "glorious", praising the track's <a href="/wiki/Progressive_rock" title="Progressive rock">progressive</a> and atmospheric qualities.<sup class="reference" id="cite_ref-Loudwire1_23-1"><a href="#cite_note-Loudwire1-23">[23]</a></sup> <i>Glide</i> magazine praised the song for being "stunning addition to A Perfect Circle catalogue" and "a fantastic example of how music and art should react to the horrors of contemporary life.<sup class="reference" id="cite_ref-Glide_Magazine1_8-3"><a href="#cite_note-Glide_Magazine1-8">[8]</a></sup> <a class="mw-redirect" href="/wiki/Metal_Sucks" title="Metal Sucks">Metal Sucks</a> praised the song for being "unsurprisingly, it’s good...there are parts that sound almost like <a href="/wiki/Viking_metal" title="Viking metal">viking metal</a>, which is pretty rad. I do kinda miss <a href="/wiki/Josh_Freese" title="Josh Freese">Josh Freese</a>’s drums, which were less <a class="mw-redirect" href="/wiki/Aggressive" title="Aggressive">aggro</a> and more eloquent than Jeff Friedl’s, but it’s not a deal breaker or whatever. On the whole, I can’t really imagine any APC fan feeling let down by this."<sup class="reference" id="cite_ref-MetalSucks1_19-1"><a href="#cite_note-MetalSucks1-19">[19]</a></sup> The song was named the fifth best <a href="/wiki/Hard_rock" title="Hard rock">hard rock</a> song of 2017 by <a href="/wiki/Loudwire" title="Loudwire">Loudwire</a>.<sup class="reference" id="cite_ref-LoudwireHR17_2-1"><a href="#cite_note-LoudwireHR17-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Doomed&amp;action=edit&amp;section=5" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Credits adapted from CD liner notes.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>
+</p>
+<dl><dt>Band</dt></dl>
+<ul><li><a href="/wiki/Maynard_James_Keenan" title="Maynard James Keenan">Maynard James Keenan</a> – lead vocals</li>
+<li><a href="/wiki/Billy_Howerdel" title="Billy Howerdel">Billy Howerdel</a> – guitar, bass, keyboards</li>
+<li>Jeff Friedl – drums</li></ul>
+<dl><dt>Production</dt></dl>
+<ul><li><a href="/wiki/Dave_Sardy" title="Dave Sardy">Dave Sardy</a></li></ul>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Doomed&amp;action=edit&amp;section=6" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Chart (2017)
+</th>
+<th>Peak<br/>position
+</th></tr>
+<tr>
+<td>US <a href="/wiki/Mainstream_Rock_(chart)" title="Mainstream Rock (chart)">Mainstream Rock</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)
+</td>
+<td style="text-align:center;">16<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>
+</td></tr>
+<tr>
+<td>US <a class="mw-redirect" href="/wiki/Hot_Rock_Songs" title="Hot Rock Songs">Hot Rock Songs</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)
+</td>
+<td style="text-align:center;">19<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Doomed&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-RollingStone1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-RollingStone1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RollingStone1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-RollingStone1_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.rollingstone.com/music/news/hear-a-perfect-circles-apocalyptic-new-song-the-doomed-w509255" rel="nofollow">"Hear A Perfect Circle's Apocalyptic New Song 'The Doomed<span class="cs1-kern-right">'</span>"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hear+A+Perfect+Circle%27s+Apocalyptic+New+Song+%27The+Doomed%27&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fnews%2Fhear-a-perfect-circles-apocalyptic-new-song-the-doomed-w509255&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-LoudwireHR17-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-LoudwireHR17_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LoudwireHR17_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Martin, Grizzlee; Harris, Amy (December 5, 2017). <a class="external text" href="http://loudwire.com/25-best-hard-rock-songs-of-2017/" rel="nofollow">"25 Best Hard Rock Songs of 2017"</a>. <i><a href="/wiki/Loudwire" title="Loudwire">Loudwire</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 16,</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Loudwire&amp;rft.atitle=25+Best+Hard+Rock+Songs+of+2017&amp;rft.date=2017-12-05&amp;rft.aulast=Martin&amp;rft.aufirst=Grizzlee&amp;rft.au=Harris%2C+Amy&amp;rft_id=http%3A%2F%2Floudwire.com%2F25-best-hard-rock-songs-of-2017%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-PostGazette1-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-PostGazette1_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PostGazette1_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-PostGazette1_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-PostGazette1_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-PostGazette1_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-PostGazette1_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-PostGazette1_3-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Mervis, Scott (November 14, 2017). <a class="external text" href="https://www.post-gazette.com/ae/music/2017/11/14/A-Perfect-Circle-tour-Billy-Howerdel-interview-Pittsburgh-Petersen-Events-Center/stories/201711140011" rel="nofollow">"A Perfect Circle rounds up members of Tool, Smashing Pumpkins, Eagles of Death Metal"</a>. <i><a href="/wiki/Pittsburgh_Post-Gazette" title="Pittsburgh Post-Gazette">Pittsburgh Post-Gazette</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 16,</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pittsburgh+Post-Gazette&amp;rft.atitle=A+Perfect+Circle+rounds+up+members+of+Tool%2C+Smashing+Pumpkins%2C+Eagles+of+Death+Metal&amp;rft.date=2017-11-14&amp;rft.aulast=Mervis&amp;rft.aufirst=Scott&amp;rft_id=https%3A%2F%2Fwww.post-gazette.com%2Fae%2Fmusic%2F2017%2F11%2F14%2FA-Perfect-Circle-tour-Billy-Howerdel-interview-Pittsburgh-Petersen-Events-Center%2Fstories%2F201711140011&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://abcnewsradioonline.com/music-news/2017/10/13/a-perfect-circle-teases-something-called-the-doomed.html" rel="nofollow">"A Perfect Circle teases something called "The Doomed"  - Music News - ABC News Radio"</a>. <i>ABC News Radio</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+News+Radio&amp;rft.atitle=A+Perfect+Circle+teases+something+called+%22The+Doomed%22++-+Music+News+-+ABC+News+Radio&amp;rft_id=http%3A%2F%2Fabcnewsradioonline.com%2Fmusic-news%2F2017%2F10%2F13%2Fa-perfect-circle-teases-something-called-the-doomed.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.metalinsider.net/updates/a-perfect-circle-tease-the-doomed-is-upon-us" rel="nofollow">"A Perfect Circle tease ‘The Doomed’ is upon usMetal Insider"</a>. October 13, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Perfect+Circle+tease+%26%238216%3BThe+Doomed%26%238217%3B+is+upon+usMetal+Insider&amp;rft.date=2017-10-13&amp;rft_id=http%3A%2F%2Fwww.metalinsider.net%2Fupdates%2Fa-perfect-circle-tease-the-doomed-is-upon-us&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://musicfeeds.com.au/news/perfect-circle-just-teased-new-release-doomed-fans-frothing-big-time/" rel="nofollow">"A Perfect Circle Just Teased New Release 'The Doomed' &amp; Fans Are Frothing Big Time"</a>. October 14, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Perfect+Circle+Just+Teased+New+Release+%27The+Doomed%27+%26+Fans+Are+Frothing+Big+Time&amp;rft.date=2017-10-14&amp;rft_id=http%3A%2F%2Fmusicfeeds.com.au%2Fnews%2Fperfect-circle-just-teased-new-release-doomed-fans-frothing-big-time%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.theprp.com/2017/10/13/news/perfect-circle-post-teaser-doomed/" rel="nofollow">"A Perfect Circle Post Teaser For "The Doomed" - Theprp.com"</a>. October 13, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Perfect+Circle+Post+Teaser+For+%22The+Doomed%22+-+Theprp.com&amp;rft.date=2017-10-13&amp;rft_id=http%3A%2F%2Fwww.theprp.com%2F2017%2F10%2F13%2Fnews%2Fperfect-circle-post-teaser-doomed%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Glide_Magazine1-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Glide_Magazine1_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Glide_Magazine1_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Glide_Magazine1_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Glide_Magazine1_8-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://glidemagazine.com/195346/a-perfect-circle-the-doomed-song-review/" rel="nofollow">"A Perfect Circle Unleashes 'The Doomed' (SONG REVIEW) - Glide Magazine"</a>. October 17, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Perfect+Circle+Unleashes+%27The+Doomed%27+%28SONG+REVIEW%29+-+Glide+Magazine&amp;rft.date=2017-10-17&amp;rft_id=https%3A%2F%2Fglidemagazine.com%2F195346%2Fa-perfect-circle-the-doomed-song-review%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.theprp.com/2017/10/16/news/perfect-circle-premiere-new-song-doomed/" rel="nofollow">"A Perfect Circle Premiere New Song "The Doomed" - Theprp.com"</a>. October 16, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Perfect+Circle+Premiere+New+Song+%22The+Doomed%22+-+Theprp.com&amp;rft.date=2017-10-16&amp;rft_id=http%3A%2F%2Fwww.theprp.com%2F2017%2F10%2F16%2Fnews%2Fperfect-circle-premiere-new-song-doomed%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.guitarworld.com/artist-news/perfect-circle-unveil-new-song-doomed/31930" rel="nofollow">"A Perfect Circle Unveil New Song, "The Doomed<span class="cs1-kern-right">"</span>"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Perfect+Circle+Unveil+New+Song%2C+%22The+Doomed%22&amp;rft_id=http%3A%2F%2Fwww.guitarworld.com%2Fartist-news%2Fperfect-circle-unveil-new-song-doomed%2F31930&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.blabbermouth.net/news/hear-new-a-perfect-circle-song-the-doomed/" rel="nofollow">"Hear New A PERFECT CIRCLE Song 'The Doomed<span class="cs1-kern-right">'</span>"</a>. October 16, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hear+New+A+PERFECT+CIRCLE+Song+%27The+Doomed%27&amp;rft.date=2017-10-16&amp;rft_id=http%3A%2F%2Fwww.blabbermouth.net%2Fnews%2Fhear-new-a-perfect-circle-song-the-doomed%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Pitchfork1-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pitchfork1_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://pitchfork.com/news/listen-to-a-perfect-circles-first-new-song-in-4-years/" rel="nofollow">"Listen to A Perfect Circle's First New Song in 4 Years - Pitchfork"</a>. <i>pitchfork.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pitchfork.com&amp;rft.atitle=Listen+to+A+Perfect+Circle%E2%80%99s+First+New+Song+in+4+Years+-+Pitchfork&amp;rft_id=https%3A%2F%2Fpitchfork.com%2Fnews%2Flisten-to-a-perfect-circles-first-new-song-in-4-years%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.revolvermag.com/music/watch-perfect-circle-perform-new-single-doomed-live-first-time" rel="nofollow">"Watch A Perfect Circle Perform New Single "Doomed" Live For First Time"</a>. October 23, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Watch+A+Perfect+Circle+Perform+New+Single+%22Doomed%22+Live+For+First+Time&amp;rft.date=2017-10-23&amp;rft_id=https%3A%2F%2Fwww.revolvermag.com%2Fmusic%2Fwatch-perfect-circle-perform-new-single-doomed-live-first-time&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a class="external free" href="https://pitchfork.com/news/watch-a-perfect-circles-new-music-video-for-the-doomed/" rel="nofollow">https://pitchfork.com/news/watch-a-perfect-circles-new-music-video-for-the-doomed/</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a class="external free" href="https://www.rollingstone.com/music/news/see-a-perfect-circles-cold-stark-video-for-the-doomed-w511941" rel="nofollow">https://www.rollingstone.com/music/news/see-a-perfect-circles-cold-stark-video-for-the-doomed-w511941</a></span>
+</li>
+<li id="cite_note-Spokesman1-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Spokesman1_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Spokesman1_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Spokesman1_16-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Spokesman1_16-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Spokesman1_16-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a class="external free" href="http://www.spokesman.com/stories/2017/nov/24/panic-mode-inspires-a-perfect-circle-to-finish-upc/" rel="nofollow">http://www.spokesman.com/stories/2017/nov/24/panic-mode-inspires-a-perfect-circle-to-finish-upc/</a></span>
+</li>
+<li id="cite_note-Spin1-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Spin1_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Spin1_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.spin.com/2017/10/a-perfect-circle-the-doomed/" rel="nofollow">"A Perfect Circle – "The Doomed<span class="cs1-kern-right">"</span>"</a>. October 17, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Perfect+Circle+%E2%80%93+%22The+Doomed%22&amp;rft.date=2017-10-17&amp;rft_id=https%3A%2F%2Fwww.spin.com%2F2017%2F10%2Fa-perfect-circle-the-doomed%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Stereogum1-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stereogum1_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stereogum1_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.stereogum.com/1967528/a-perfect-circle-the-doomed/music/" rel="nofollow">"A Perfect Circle – "The Doomed<span class="cs1-kern-right">"</span>"</a>. October 17, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Perfect+Circle+%E2%80%93+%22The+Doomed%22&amp;rft.date=2017-10-17&amp;rft_id=https%3A%2F%2Fwww.stereogum.com%2F1967528%2Fa-perfect-circle-the-doomed%2Fmusic%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-MetalSucks1-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-MetalSucks1_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MetalSucks1_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.metalsucks.net/2017/10/17/listen-to-a-perfect-circles-new-song-or-youre-doomed/" rel="nofollow">"Listen to A Perfect Circle's New Song or You're "Doomed" - MetalSucks"</a>. October 17, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Listen+to+A+Perfect+Circle%27s+New+Song+or+You%27re+%22Doomed%22+-+MetalSucks&amp;rft.date=2017-10-17&amp;rft_id=http%3A%2F%2Fwww.metalsucks.net%2F2017%2F10%2F17%2Flisten-to-a-perfect-circles-new-song-or-youre-doomed%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-AZC1-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-AZC1_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AZC1_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.azcentral.com/story/entertainment/music/2017/10/11/best-october-singles-playlist-songs/751172001/" rel="nofollow">"Best October singles: St. Vincent, Spoon, Bittersweet Way, U.S. Girls, Rentals, G Herbo"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Best+October+singles%3A+St.+Vincent%2C+Spoon%2C+Bittersweet+Way%2C+U.S.+Girls%2C+Rentals%2C+G+Herbo&amp;rft_id=http%3A%2F%2Fwww.azcentral.com%2Fstory%2Fentertainment%2Fmusic%2F2017%2F10%2F11%2Fbest-october-singles-playlist-songs%2F751172001%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Radio.com1-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Radio.com1_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Radio.com1_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Radio.com1_21-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20171017181544/http://news.radio.com/2017/10/17/a-perfect-circle-the-doomed/" rel="nofollow">"A Perfect Circle Release New Track 'The Doomed<span class="cs1-kern-right">'</span>"</a>. Archived from <a class="external text" href="http://news.radio.com/2017/10/17/a-perfect-circle-the-doomed/" rel="nofollow">the original</a> on October 17, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Perfect+Circle+Release+New+Track+%27The+Doomed%27&amp;rft_id=http%3A%2F%2Fnews.radio.com%2F2017%2F10%2F17%2Fa-perfect-circle-the-doomed%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.revolvermag.com/music/hear-perfect-circles-intense-new-song-doomed" rel="nofollow">"Hear A Perfect Circle's Intense New Song "The Doomed<span class="cs1-kern-right">"</span>"</a>. October 17, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hear+A+Perfect+Circle%27s+Intense+New+Song+%22The+Doomed%22&amp;rft.date=2017-10-17&amp;rft_id=https%3A%2F%2Fwww.revolvermag.com%2Fmusic%2Fhear-perfect-circles-intense-new-song-doomed&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Loudwire1-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-Loudwire1_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Loudwire1_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://loudwire.com/a-perfect-circle-the-doomed-new-album-2018/" rel="nofollow">"A Perfect Circle Unveil Glorious New Track 'The Doomed<span class="cs1-kern-right">'</span>"</a>. <i>Loudwire</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Loudwire&amp;rft.atitle=A+Perfect+Circle+Unveil+Glorious+New+Track+%27The+Doomed%27&amp;rft_id=http%3A%2F%2Floudwire.com%2Fa-perfect-circle-the-doomed-new-album-2018%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.revolvermag.com/music/6-new-songs-you-need-hear-week-102017" rel="nofollow">"6 New Songs You Need to Hear This Week: 10/20/17"</a>. October 20, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=6+New+Songs+You+Need+to+Hear+This+Week%3A+10%2F20%2F17&amp;rft.date=2017-10-20&amp;rft_id=https%3A%2F%2Fwww.revolvermag.com%2Fmusic%2F6-new-songs-you-need-hear-week-102017&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><i>Eat the Elephant</i> (inlay cover). <a href="/wiki/A_Perfect_Circle" title="A Perfect Circle">A Perfect Circle</a>. <a class="mw-redirect" href="/wiki/BMG_Records" title="BMG Records">BMG Records</a>. 2018.</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.billboard.com/music/a-perfect-circle/chart-history/hot-mainstream-rock-tracks" rel="nofollow">"A Perfect Circle Chart History"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Perfect+Circle+Chart+History&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fmusic%2Fa-perfect-circle%2Fchart-history%2Fhot-mainstream-rock-tracks&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Doomed"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a class="external free" href="https://www.billboard.com/music/a-perfect-circle/chart-history/rock-songs" rel="nofollow">https://www.billboard.com/music/a-perfect-circle/chart-history/rock-songs</a></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="A_Perfect_Circle" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background: #b0c4de;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:A_Perfect_Circle" title="Template:A Perfect Circle"><abbr style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:A_Perfect_Circle" title="Template talk:A Perfect Circle"><abbr style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:A_Perfect_Circle&amp;action=edit"><abbr style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div class="fn org" id="A_Perfect_Circle" style="font-size:114%;margin:0 4em"><a href="/wiki/A_Perfect_Circle" title="A Perfect Circle">A Perfect Circle</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="*_Billy_Howerdel&amp;#10;*_Maynard_James_Keenan&amp;#10;*_James_Iha&amp;#10;*_Matt_McJunkins&amp;#10;*_Jeff_Friedl&amp;#10;&amp;#10;*_Tim_Alexander&amp;#10;*_Troy_Van_Leeuwen&amp;#10;*_Paz_Lenchantin&amp;#10;*_Josh_Freese&amp;#10;*_Danny_Lohner&amp;#10;*_Jeordie_White&amp;#10;&amp;#10;*_Discography&amp;#10;*_List_of_songs">
+<ul><li><b><a href="/wiki/Billy_Howerdel" title="Billy Howerdel">Billy Howerdel</a></b></li>
+<li><b><a href="/wiki/Maynard_James_Keenan" title="Maynard James Keenan">Maynard James Keenan</a></b></li>
+<li><b><a href="/wiki/James_Iha" title="James Iha">James Iha</a></b></li>
+<li><b><a href="/wiki/Matt_McJunkins" title="Matt McJunkins">Matt McJunkins</a></b></li>
+<li><b><a class="mw-redirect" href="/wiki/Jeff_Friedl" title="Jeff Friedl">Jeff Friedl</a></b></li></ul>
+<ul><li><a href="/wiki/Tim_Alexander" title="Tim Alexander">Tim Alexander</a></li>
+<li><a href="/wiki/Troy_Van_Leeuwen" title="Troy Van Leeuwen">Troy Van Leeuwen</a></li>
+<li><a href="/wiki/Paz_Lenchantin" title="Paz Lenchantin">Paz Lenchantin</a></li>
+<li><a href="/wiki/Josh_Freese" title="Josh Freese">Josh Freese</a></li>
+<li><a href="/wiki/Danny_Lohner" title="Danny Lohner">Danny Lohner</a></li>
+<li><a class="mw-redirect" href="/wiki/Jeordie_White" title="Jeordie White">Jeordie White</a></li></ul>
+<ul><li><a href="/wiki/A_Perfect_Circle_discography" title="A Perfect Circle discography">Discography</a></li>
+<li><a href="/wiki/List_of_songs_recorded_by_A_Perfect_Circle" title="List of songs recorded by A Perfect Circle">List of songs</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Mer_de_Noms" title="Mer de Noms">Mer de Noms</a></i></li>
+<li><i><a href="/wiki/Thirteenth_Step" title="Thirteenth Step">Thirteenth Step</a></i></li>
+<li><i><a href="/wiki/Emotive_(album)" title="Emotive (album)">Emotive</a></i></li>
+<li><i><a href="/wiki/Eat_the_Elephant" title="Eat the Elephant">Eat the Elephant</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Compilations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Amotion" title="Amotion">Amotion</a></i></li>
+<li><i><a href="/wiki/Three_Sixty" title="Three Sixty">Three Sixty</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Box sets</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/A_Perfect_Circle_Live:_Featuring_Stone_and_Echo" title="A Perfect Circle Live: Featuring Stone and Echo">A Perfect Circle Live: Featuring Stone and Echo</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Judith_(song)" title="Judith (song)">Judith</a>"</li>
+<li>"<a href="/wiki/3_Libras" title="3 Libras">3 Libras</a>"</li>
+<li>"<a href="/wiki/The_Hollow_(song)" title="The Hollow (song)">The Hollow</a>"</li>
+<li>"<a href="/wiki/Weak_and_Powerless" title="Weak and Powerless">Weak and Powerless</a>"</li>
+<li>"<a href="/wiki/The_Outsider_(song)" title="The Outsider (song)">The Outsider</a>"</li>
+<li>"<a href="/wiki/Blue_(A_Perfect_Circle_song)" title="Blue (A Perfect Circle song)">Blue</a>"</li>
+<li>"<a class="mw-redirect" href="/wiki/Imagine_(A_Perfect_Circle_Song)" title="Imagine (A Perfect Circle Song)">Imagine</a>"</li>
+<li>"<a href="/wiki/Passive_(song)" title="Passive (song)">Passive</a>"</li>
+<li>"<a href="/wiki/By_and_Down" title="By and Down">By and Down</a>"</li>
+<li>"<a class="mw-selflink selflink">The Doomed</a>"</li>
+<li>"<a href="/wiki/Disillusioned" title="Disillusioned">Disillusioned</a>"</li>
+<li>"<a href="/wiki/TalkTalk_(A_Perfect_Circle_song)" title="TalkTalk (A Perfect Circle song)">TalkTalk</a>"</li>
+<li>"<a href="/wiki/So_Long,_and_Thanks_for_All_the_Fish_(A_Perfect_Circle_song)" title="So Long, and Thanks for All the Fish (A Perfect Circle song)">So Long, and Thanks for All the Fish</a>"</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Promotional songs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Counting_Bodies_Like_Sheep_to_the_Rhythm_of_the_War_Drums" title="Counting Bodies Like Sheep to the Rhythm of the War Drums">Counting Bodies Like Sheep</a>"</li>
+<li>"<a href="/wiki/The_Contrarian" title="The Contrarian">The Contrarian</a>"</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background: #EEEEEE;">Related bands</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tool_(band)" title="Tool (band)">Tool</a></li>
+<li><a href="/wiki/Ashes_Divide" title="Ashes Divide">Ashes Divide</a></li>
+<li><a href="/wiki/Puscifer" title="Puscifer">Puscifer</a></li>
+<li><a href="/wiki/Tapeworm_(band)" title="Tapeworm (band)">Tapeworm</a></li>
+<li><a href="/wiki/Nine_Inch_Nails" title="Nine Inch Nails">Nine Inch Nails</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1243
+Cached time: 20191214185858
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.440 seconds
+Real time usage: 0.548 seconds
+Preprocessor visited node count: 2472/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 66595/2097152 bytes
+Template argument size: 4583/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 71351/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.201/10.000 seconds
+Lua memory usage: 5.73 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  488.707      1 -total
+ 44.24%  216.220      1 Template:Reflist
+ 37.43%  182.909     22 Template:Cite_web
+ 26.64%  130.182      1 Template:Infobox_song
+ 22.06%  107.818      1 Template:Infobox
+  6.92%   33.805      1 Template:For
+  6.01%   29.393      1 Template:Use_mdy_dates
+  5.21%   25.443      1 Template:Quote
+  4.36%   21.285      1 Template:A_Perfect_Circle
+  3.75%   18.307      4 Template:If_empty
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:55566406-0!canonical and timestamp 20191214185857 and revision id 927157810
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_Doomed&amp;oldid=927157810">https://en.wikipedia.org/w/index.php?title=The_Doomed&amp;oldid=927157810</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2017_songs" title="Category:2017 songs">2017 songs</a></li><li><a href="/wiki/Category:2017_singles" title="Category:2017 singles">2017 singles</a></li><li><a href="/wiki/Category:A_Perfect_Circle_songs" title="Category:A Perfect Circle songs">A Perfect Circle songs</a></li><li><a href="/wiki/Category:Song_recordings_produced_by_Dave_Sardy" title="Category:Song recordings produced by Dave Sardy">Song recordings produced by Dave Sardy</a></li><li><a href="/wiki/Category:Songs_written_by_Maynard_James_Keenan" title="Category:Songs written by Maynard James Keenan">Songs written by Maynard James Keenan</a></li><li><a href="/wiki/Category:Songs_written_by_Billy_Howerdel" title="Category:Songs written by Billy Howerdel">Songs written by Billy Howerdel</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_November_2017" title="Category:Use mdy dates from November 2017">Use mdy dates from November 2017</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Doomed" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Doomed" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/The_Doomed" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:The_Doomed" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/The_Doomed">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=The_Doomed&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=The_Doomed&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/The_Doomed" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/The_Doomed" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=The_Doomed&amp;oldid=927157810" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=The_Doomed&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q42531031" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Doomed&amp;id=927157810" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Doomed">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=The+Doomed&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=The_Doomed&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/The_Doomed" hreflang="es" lang="es" title="The Doomed – Spanish">Español</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/The_Doomed" hreflang="it" lang="it" title="The Doomed – Italian">Italiano</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q42531031#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 November 2019, at 18:46<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=The_Doomed&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.440","walltime":"0.548","ppvisitednodes":{"value":2472,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":66595,"limit":2097152},"templateargumentsize":{"value":4583,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":71351,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  488.707      1 -total"," 44.24%  216.220      1 Template:Reflist"," 37.43%  182.909     22 Template:Cite_web"," 26.64%  130.182      1 Template:Infobox_song"," 22.06%  107.818      1 Template:Infobox","  6.92%   33.805      1 Template:For","  6.01%   29.393      1 Template:Use_mdy_dates","  5.21%   25.443      1 Template:Quote","  4.36%   21.285      1 Template:A_Perfect_Circle","  3.75%   18.307      4 Template:If_empty"]},"scribunto":{"limitreport-timeusage":{"value":"0.201","limit":"10.000"},"limitreport-memusage":{"value":6008718,"limit":52428800}},"cachereport":{"origin":"mw1243","timestamp":"20191214185858","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"The Doomed","url":"https:\/\/en.wikipedia.org\/wiki\/The_Doomed","sameAs":"http:\/\/www.wikidata.org\/entity\/Q42531031","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q42531031","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2017-10-18T16:43:28Z","dateModified":"2019-11-20T18:46:05Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/The_doomed_apc.jpg","headline":"single by A Perfect Circle"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1325"});});</script>
+
+
+</body></html>

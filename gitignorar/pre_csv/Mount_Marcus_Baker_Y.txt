@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Mount Marcus Baker - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xft3@wpAAD0AAFZ-WSoAAACP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mount_Marcus_Baker","wgTitle":"Mount Marcus Baker","wgCurRevisionId":838742640,"wgRevisionId":838742640,"wgArticleId":4653522,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","Mountains of Alaska","Mountains of Matanuska-Susitna Borough, Alaska",
+"North American 4000 m summits"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Mount_Marcus_Baker","wgRelevantArticleId":4653522,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":61.4377778,"lon":-147.7505556},"wgWikibaseItemId":"Q829432","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/c/c4/Mt_Marcus_Baker.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mount_Marcus_Baker" rel="alternate"/>
+<link href="/w/index.php?title=Mount_Marcus_Baker&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Mount_Marcus_Baker&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Mount_Marcus_Baker" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Mount_Marcus_Baker rootpage-Mount_Marcus_Baker skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Mount Marcus Baker</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em;line-height:normal; width:23.5em;"><tbody><tr><th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #e7dcc3;">Mount Marcus Baker</th></tr><tr><td colspan="2" style="text-align:center;padding: 0.2em 0.2em 0.2em 0.2em;"><a class="image" href="/wiki/File:Mt_Marcus_Baker.jpg"><img alt="Mt Marcus Baker.jpg" data-file-height="476" data-file-width="772" decoding="async" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mt_Marcus_Baker.jpg/270px-Mt_Marcus_Baker.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mt_Marcus_Baker.jpg/405px-Mt_Marcus_Baker.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mt_Marcus_Baker.jpg/540px-Mt_Marcus_Baker.jpg 2x" width="270"/></a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #e7dcc3;">Highest point</th></tr><tr><th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/Summit" title="Summit">Elevation</a></th><td style="padding: 0.2em 0em; vertical-align:text-top;">13,176 ft (4,016 m) <small><a href="/wiki/Sea_Level_Datum_of_1929" title="Sea Level Datum of 1929"> NGVD 29</a></small><sup class="reference" id="cite_ref-pb_1-0"><a href="#cite_note-pb-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/Topographic_prominence" title="Topographic prominence">Prominence</a></th><td style="padding: 0.2em 0em; vertical-align:text-top;">10,726 ft (3,269 m) <sup class="reference" id="cite_ref-pb_1-1"><a href="#cite_note-pb-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/Topographic_isolation" title="Topographic isolation">Isolation</a></th><td style="padding: 0.2em 0em; vertical-align:text-top;">204 kilometres (127 mi)</td></tr><tr><th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/List_of_mountain_lists" title="List of mountain lists">Listing</a></th><td class="category" style="padding: 0.2em 0em; vertical-align:text-top;"><div class="plainlist"><ul><li><a class="mw-redirect" href="/wiki/List_of_peaks_by_prominence" title="List of peaks by prominence">World most prominent peaks</a> 67th</li><li><a href="/wiki/List_of_the_highest_major_summits_of_North_America" title="List of the highest major summits of North America">North America highest peaks</a> 117th</li><li><a class="mw-redirect" href="/wiki/List_of_the_most_prominent_summits_of_North_America" title="List of the most prominent summits of North America">North America prominent peaks</a> 13th</li><li><a href="/wiki/List_of_the_most_isolated_major_summits_of_North_America" title="List of the most isolated major summits of North America">North America isolated peaks</a> 103rd</li><li><a href="/wiki/List_of_the_highest_major_summits_of_the_United_States" title="List of the highest major summits of the United States">US highest major peaks</a> 97th</li><li><a href="/wiki/List_of_the_most_prominent_summits_of_the_United_States" title="List of the most prominent summits of the United States">US most prominent peaks</a> 8th</li><li><a href="/wiki/List_of_the_most_isolated_major_summits_of_the_United_States" title="List of the most isolated major summits of the United States">US most isolated peaks</a> 39th</li><li><a class="mw-redirect" href="/wiki/List_of_the_highest_major_summits_of_Alaska" title="List of the highest major summits of Alaska">Alaska highest major peaks</a> 23rd</li></ul></div></td></tr><tr><th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th><td style="padding: 0.2em 0em; vertical-align:text-top;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Mount_Marcus_Baker&amp;params=61.4377778_N_147.7505556_W_type:mountain_region:US-AK_scale:100000_source:GNIS"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">61°26′16″N</span> <span class="longitude">147°45′02″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">61.4377778°N 147.7505556°W</span><span style="display:none">﻿ / <span class="geo">61.4377778; -147.7505556</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Mount_Marcus_Baker&amp;params=61.4377778_N_147.7505556_W_type:mountain_region:US-AK_scale:100000_source:GNIS"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">61°26′16″N</span> <span class="longitude">147°45′02″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">61.4377778°N 147.7505556°W</span><span style="display:none">﻿ / <span class="geo">61.4377778; -147.7505556</span></span></span></a></span></span></span> <sup class="reference" id="cite_ref-gnis_2-0"><a href="#cite_note-gnis-2">[2]</a></sup></td></tr><tr><th colspan="2" style="text-align:center;background-color: #e7dcc3;">Geography</th></tr><tr><td colspan="2" style="text-align:center;padding: 0.2em 0em; vertical-align:text-top;"><div style="padding:0.2em 0.2em 0.5em 0.2em;"><div class="center"><div style="width:256px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:256px;padding:0"><div style="position:relative;width:256px"><a class="image" href="/wiki/File:Relief_map_of_USA_Alaska.png" title="Mount Marcus Baker is located in Alaska"><img alt="Mount Marcus Baker is located in Alaska" data-file-height="580" data-file-width="776" decoding="async" height="191" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Relief_map_of_USA_Alaska.png/256px-Relief_map_of_USA_Alaska.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Relief_map_of_USA_Alaska.png/384px-Relief_map_of_USA_Alaska.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Relief_map_of_USA_Alaska.png/512px-Relief_map_of_USA_Alaska.png 2x" width="256"/></a><div style="position:absolute;top:50.296%;left:68.219%"><div style="position:absolute;left:-8px;top:-8px;line-height:0"><img alt="Mount Marcus Baker" data-file-height="240" data-file-width="270" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/3/39/Red_triangle_with_thick_white_border.svg/16px-Red_triangle_with_thick_white_border.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/3/39/Red_triangle_with_thick_white_border.svg/24px-Red_triangle_with_thick_white_border.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/3/39/Red_triangle_with_thick_white_border.svg/32px-Red_triangle_with_thick_white_border.svg.png 2x" title="Mount Marcus Baker" width="16"/></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:9px;text-align:right"><div style="display:inline;padding:1px;float:right">Mount Marcus Baker</div></div></div></div><div>Location in Alaska</div></div></div></div>
+            </div></td></tr><tr><th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;">Location</th><td class="label" style="padding: 0.2em 0em; vertical-align:text-top;"><a href="/wiki/Matanuska-Susitna_Borough,_Alaska" title="Matanuska-Susitna Borough, Alaska">Matanuska-Susitna Borough, Alaska</a>, U.S.</td></tr><tr><th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/Mountain_range" title="Mountain range">Parent range</a></th><td class="category" style="padding: 0.2em 0em; vertical-align:text-top;"><a href="/wiki/Chugach_Mountains" title="Chugach Mountains">Chugach Mountains</a></td></tr><tr><th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/Topographic_map" title="Topographic map">Topo map</a></th><td style="padding: 0.2em 0em; vertical-align:text-top;"><a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">USGS</a> Anchorage B-3 Quadrangle</td></tr><tr><th colspan="2" style="text-align:center;background-color: #e7dcc3;">Climbing</th></tr><tr><th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/First_ascent" title="First ascent">First ascent</a></th><td style="padding: 0.2em 0em; vertical-align:text-top;">1938 by <a class="mw-redirect" href="/wiki/Norman_Bright" title="Norman Bright">Norman Bright</a>, Peter Gabriel, <a href="/wiki/Norman_Dyhrenfurth" title="Norman Dyhrenfurth">Norman Dyhrenfurth</a>, <a href="/wiki/Bradford_Washburn" title="Bradford Washburn">Bradford Washburn</a></td></tr><tr><th scope="row" style="padding: 0.2em 0.4em 0.2em 0em; vertical-align:text-bottom; white-space: nowrap;"><a href="/wiki/Normal_route" title="Normal route">Easiest route</a></th><td style="padding: 0.2em 0em; vertical-align:text-top;">Snow/ice climb (<a href="/wiki/Grade_(climbing)#Alaskan" title="Grade (climbing)">Alaska grade 2</a>)</td></tr></tbody></table>
+<p><b>Mount Marcus Baker</b> is the highest peak of the <a href="/wiki/Chugach_Mountains" title="Chugach Mountains">Chugach Mountains</a> of <a href="/wiki/Alaska" title="Alaska">Alaska</a>. 
+It is located approximately 75 miles (121 km) east of Anchorage. This peak is very prominent because of its proximity to tidewater and is only 12 miles (19 km) north of the <a href="/wiki/Ice_calving" title="Ice calving">calving</a> face of <a href="/wiki/Harvard_Glacier" title="Harvard Glacier">Harvard Glacier</a>. 
+When ranked by <a href="/wiki/Topographic_prominence" title="Topographic prominence">topographic prominence</a>, Mount Marcus Baker is one of the top 75 peaks in the world.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mount_Marcus_Baker&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mount Marcus Baker was originally called "Mount Saint Agnes"; according to <a href="/wiki/Bradford_Washburn" title="Bradford Washburn">Bradford Washburn</a>, <a href="/wiki/James_W._Bagley" title="James W. Bagley">James W. Bagley</a> of the <a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">USGS</a> named it after his wife Agnes, adding the "Saint" in hopes of making the name stick. The name was later changed to honor a cartographer and geologist named <a href="/wiki/Marcus_Baker" title="Marcus Baker">Marcus Baker</a>.<sup class="reference" id="cite_ref-wood_coombs_3-0"><a href="#cite_note-wood_coombs-3">[3]</a></sup>
+</p><p>The peak was first climbed on June 19, 1938 by a party led by famed explorer <a href="/wiki/Bradford_Washburn" title="Bradford Washburn">Bradford Washburn</a>; the climb took almost two months owing to weather delays. Today's standard route is the North Ridge. Despite being much lower in elevation than <a href="/wiki/Denali" title="Denali">Denali</a>, Marcus Baker is a similarly serious ascent, due to the remoteness of the peak and the resulting length of the approach and climb.<sup class="reference" id="cite_ref-wood_coombs_3-1"><a href="#cite_note-wood_coombs-3">[3]</a></sup>  A number of noted climbers have perished or sustained permanent injury in attempting to summit the peak as climbing conditions can change rapidly as storms arise.  In early 1988, a State of Alaska Fish and Game biologist, 28-year-old Sylvia Jean Lane, succumbed to hypothermia as a two-day storm separated her from the two others in the climbing party attempting to dash to the top in a winter ascent.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mount_Marcus_Baker&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="map" class="noviewer" data-file-height="550" data-file-width="550" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/North_America_%28orthographic_projection%29.svg/28px-North_America_%28orthographic_projection%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/North_America_%28orthographic_projection%29.svg/42px-North_America_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/North_America_%28orthographic_projection%29.svg/56px-North_America_%28orthographic_projection%29.svg.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:North_America" title="Portal:North America">North America portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" class="noviewer thumbborder" data-file-height="650" data-file-width="1235" decoding="async" height="17" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/48px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/64px-Flag_of_the_United_States.svg.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:United_States" title="Portal:United States">United States portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" class="noviewer thumbborder" data-file-height="1000" data-file-width="1416" decoding="async" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/32px-Flag_of_Alaska.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/48px-Flag_of_Alaska.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/64px-Flag_of_Alaska.svg.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Alaska" title="Portal:Alaska">Alaska portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="icon" class="noviewer" data-file-height="994" data-file-width="1000" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_Matterhorn_as_seen_from_Zermatt.png/28px-The_Matterhorn_as_seen_from_Zermatt.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_Matterhorn_as_seen_from_Zermatt.png/42px-The_Matterhorn_as_seen_from_Zermatt.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_Matterhorn_as_seen_from_Zermatt.png/56px-The_Matterhorn_as_seen_from_Zermatt.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Mountains" title="Portal:Mountains">Mountains portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/List_of_mountain_peaks_of_North_America" title="List of mountain peaks of North America">List of mountain peaks of North America</a>
+<ul><li><a href="/wiki/List_of_mountain_peaks_of_the_United_States" title="List of mountain peaks of the United States">List of mountain peaks of the United States</a>
+<ul><li><a href="/wiki/List_of_mountain_peaks_of_Alaska" title="List of mountain peaks of Alaska">List of mountain peaks of Alaska</a></li></ul></li></ul></li>
+<li><a href="/wiki/List_of_Ultras_of_the_United_States" title="List of Ultras of the United States">List of Ultras of the United States</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mount_Marcus_Baker&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-pb-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-pb_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pb_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.peakbagger.com/peak.aspx?pid=443" rel="nofollow">"Mount Marcus Baker, Alaska"</a>. <i>Peakbagger.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-01-19</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Peakbagger.com&amp;rft.atitle=Mount+Marcus+Baker%2C+Alaska&amp;rft_id=http%3A%2F%2Fwww.peakbagger.com%2Fpeak.aspx%3Fpid%3D443&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMount+Marcus+Baker"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-gnis-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-gnis_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://geonames.usgs.gov/apex/f?p=gnispq:3:::NO::P3_FID:1405944" rel="nofollow">"Mount Marcus Baker"</a>. <i><a href="/wiki/Geographic_Names_Information_System" title="Geographic Names Information System">Geographic Names Information System</a></i>. <a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">United States Geological Survey</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-01-19</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Geographic+Names+Information+System&amp;rft.atitle=Mount+Marcus+Baker&amp;rft_id=https%3A%2F%2Fgeonames.usgs.gov%2Fapex%2Ff%3Fp%3Dgnispq%3A3%3A%3A%3ANO%3A%3AP3_FID%3A1405944&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMount+Marcus+Baker"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-wood_coombs-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-wood_coombs_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wood_coombs_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Michael Wood and Colby Coombs, <i>Alaska: A Climbing Guide</i>, The Mountaineers, 2001.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mount_Marcus_Baker&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-labelledby="sister-projects" class="metadata plainlinks sistersitebox plainlist mbox-small" role="navigation" style="border:1px solid #aaa; padding:0; background:#f9f9f9;"><div style="padding: 0.75em 0; text-align: center;"><b style="display:block;">Mount Marcus Baker</b>at Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects"><span id="sister-projects">sister projects</span></a></div><ul style="border-top:1px solid #aaa; padding: 0.75em 0; width:217px; margin:0 auto;"><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" data-file-height="391" data-file-width="391" decoding="async" height="27" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/27px-Wiktionary-logo-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/41px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/54px-Wiktionary-logo-v2.svg.png 2x" style="vertical-align: middle" width="27"/></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/Mount_Marcus_Baker" title="wikt:Special:Search/Mount Marcus Baker">Definitions</a> from Wiktionary</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" data-file-height="1376" data-file-width="1024" decoding="async" height="27" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" style="vertical-align: middle" width="20"/></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a class="extiw" href="https://commons.wikimedia.org/wiki/Special:Search/Mount_Marcus_Baker" title="c:Special:Search/Mount Marcus Baker">Media</a> from Wikimedia Commons</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" data-file-height="415" data-file-width="759" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/27px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/41px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/54px-Wikinews-logo.svg.png 2x" style="vertical-align: middle" width="27"/></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a class="extiw" href="https://en.wikinews.org/wiki/Special:Search/Mount_Marcus_Baker" title="n:Special:Search/Mount Marcus Baker">News</a> from Wikinews</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" data-file-height="355" data-file-width="300" decoding="async" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/23px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/46px-Wikiquote-logo.svg.png 2x" style="vertical-align: middle" width="23"/></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Mount_Marcus_Baker" title="q:Special:Search/Mount Marcus Baker">Quotations</a> from Wikiquote</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" data-file-height="430" data-file-width="410" decoding="async" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/26px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/39px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/51px-Wikisource-logo.svg.png 2x" style="vertical-align: middle" width="26"/></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a class="extiw" href="https://en.wikisource.org/wiki/Special:Search/Mount_Marcus_Baker" title="s:Special:Search/Mount Marcus Baker">Texts</a> from Wikisource</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" data-file-height="300" data-file-width="300" decoding="async" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/27px-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/41px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/54px-Wikibooks-logo.svg.png 2x" style="vertical-align: middle" width="27"/></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a class="extiw" href="https://en.wikibooks.org/wiki/Special:Search/Mount_Marcus_Baker" title="b:Special:Search/Mount Marcus Baker">Textbooks</a> from Wikibooks</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" data-file-height="900" data-file-width="1000" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/27px-Wikiversity-logo-en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/41px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/54px-Wikiversity-logo-en.svg.png 2x" style="vertical-align: middle" width="27"/></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a class="extiw" href="https://en.wikiversity.org/wiki/Special:Search/Mount_Marcus_Baker" title="v:Special:Search/Mount Marcus Baker">Resources</a> from Wikiversity</span>
+            </li></ul>
+</div>
+<ul><li><a class="external text" href="http://www.peaklist.org/USlists/AK5000.html" rel="nofollow">Alaskan peaks with prominence &gt; 1500m</a></li>
+<li><a class="external text" href="http://bivouac.com/MtnPg.asp?MtnId=7654" rel="nofollow">Mount Marcus Baker on bivouac.com</a></li></ul>
+<div aria-labelledby="The_124_highest_major_summits_of_greater_North_America" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background:#EEFFFF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:NA_highest" title="Template:NA highest"><abbr style=";background:#EEFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:NA_highest" title="Template talk:NA highest"><abbr style=";background:#EEFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:NA_highest&amp;action=edit"><abbr style=";background:#EEFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="The_124_highest_major_summits_of_greater_North_America" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_the_major_4000-meter_summits_of_North_America" title="List of the major 4000-meter summits of North America">The 124 highest major summits of greater North America</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;text-align:left;"><div style="padding:0em 0.25em"><div class="div-col columns column-width" style="-moz-column-width: 16em; -webkit-column-width: 16em; column-width: 16em;">
+<ol><li><a href="/wiki/Denali" title="Denali">Denali</a></li>
+<li><a href="/wiki/Mount_Logan" title="Mount Logan">Mount Logan</a></li>
+<li><a href="/wiki/Pico_de_Orizaba" title="Pico de Orizaba">Pico de Orizaba</a></li>
+<li><a href="/wiki/Mount_Saint_Elias" title="Mount Saint Elias">Mount Saint Elias</a></li>
+<li><a href="/wiki/Popocat%C3%A9petl" title="Popocatépetl">Popocatépetl</a></li>
+<li><a href="/wiki/Mount_Foraker" title="Mount Foraker">Mount Foraker</a></li>
+<li><a href="/wiki/Mount_Lucania" title="Mount Lucania">Mount Lucania</a></li>
+<li><a href="/wiki/Iztaccihuatl" title="Iztaccihuatl">Iztaccíhuatl</a></li>
+<li><a href="/wiki/King_Peak_(Yukon)" title="King Peak (Yukon)">King Peak</a></li>
+<li><a href="/wiki/Mount_Bona" title="Mount Bona">Mount Bona</a></li>
+<li><a href="/wiki/Mount_Steele" title="Mount Steele">Mount Steele</a></li>
+<li><a href="/wiki/Mount_Blackburn" title="Mount Blackburn">Mount Blackburn</a></li>
+<li><a href="/wiki/Mount_Sanford_(Alaska)" title="Mount Sanford (Alaska)">Mount Sanford</a></li>
+<li><a href="/wiki/Mount_Wood_(Yukon)" title="Mount Wood (Yukon)">Mount Wood</a></li>
+<li><a href="/wiki/Mount_Vancouver" title="Mount Vancouver">Mount Vancouver</a></li>
+<li><a href="/wiki/Mount_Slaggard" title="Mount Slaggard">Mount Slaggard</a></li>
+<li><a href="/wiki/Nevado_de_Toluca" title="Nevado de Toluca">Nevado de Toluca</a></li>
+<li><a href="/wiki/Mount_Fairweather" title="Mount Fairweather">Mount Fairweather</a></li>
+<li><a href="/wiki/Mount_Hubbard" title="Mount Hubbard">Mount Hubbard</a></li>
+<li><a href="/wiki/Mount_Bear" title="Mount Bear">Mount Bear</a></li>
+<li><a href="/wiki/Mount_Walsh" title="Mount Walsh">Mount Walsh</a></li>
+<li><a href="/wiki/Mount_Hunter_(Alaska)" title="Mount Hunter (Alaska)">Mount Hunter</a></li>
+<li><a href="/wiki/Malinche_(volcano)" title="Malinche (volcano)">La Malinche</a></li>
+<li><a href="/wiki/Mount_Whitney" title="Mount Whitney">Mount Whitney</a></li>
+<li><a href="/wiki/Mount_Alverstone" title="Mount Alverstone">Mount Alverstone</a></li>
+<li><a href="/wiki/University_Peak_(Alaska)" title="University Peak (Alaska)">University Peak</a></li>
+<li><a href="/wiki/Mount_Elbert" title="Mount Elbert">Mount Elbert</a></li>
+<li><a href="/wiki/Mount_Massive" title="Mount Massive">Mount Massive</a></li>
+<li><a href="/wiki/Mount_Harvard" title="Mount Harvard">Mount Harvard</a></li>
+<li><a href="/wiki/Mount_Rainier" title="Mount Rainier">Mount Rainier</a></li>
+<li><a href="/wiki/Mount_Williamson" title="Mount Williamson">Mount Williamson</a></li>
+<li><a href="/wiki/McArthur_Peak" title="McArthur Peak">McArthur Peak</a></li>
+<li><a href="/wiki/Blanca_Peak" title="Blanca Peak">Blanca Peak</a></li>
+<li><a href="/wiki/La_Plata_Peak" title="La Plata Peak">La Plata Peak</a></li>
+<li><a href="/wiki/Uncompahgre_Peak" title="Uncompahgre Peak">Uncompahgre Peak</a></li>
+<li><a href="/wiki/Crestone_Peak" title="Crestone Peak">Crestone Peak</a></li>
+<li><a href="/wiki/Mount_Lincoln_(Colorado)" title="Mount Lincoln (Colorado)">Mount Lincoln</a></li>
+<li><a href="/wiki/Castle_Peak_(Colorado)" title="Castle Peak (Colorado)">Castle Peak</a></li>
+<li><a href="/wiki/Grays_Peak" title="Grays Peak">Grays Peak</a></li>
+<li><a href="/wiki/Mount_Antero" title="Mount Antero">Mount Antero</a></li>
+<li><a href="/wiki/Mount_Evans" title="Mount Evans">Mount Evans</a></li>
+<li><a href="/wiki/Longs_Peak" title="Longs Peak">Longs Peak</a></li>
+<li><a href="/wiki/Mount_Wilson_(Colorado)" title="Mount Wilson (Colorado)">Mount Wilson</a></li>
+<li><a href="/wiki/White_Mountain_Peak" title="White Mountain Peak">White Mountain Peak</a></li>
+<li><a href="/wiki/North_Palisade" title="North Palisade">North Palisade</a></li>
+<li><a href="/wiki/Mount_Princeton" title="Mount Princeton">Mount Princeton</a></li>
+<li><a href="/wiki/Mount_Yale" title="Mount Yale">Mount Yale</a></li>
+<li><a href="/wiki/Mount_Shasta" title="Mount Shasta">Mount Shasta</a></li>
+<li><a href="/wiki/Maroon_Bells" title="Maroon Bells">Maroon Peak</a></li>
+<li><a href="/wiki/Mount_Wrangell" title="Mount Wrangell">Mount Wrangell</a></li>
+<li><a href="/wiki/Mount_Sneffels" title="Mount Sneffels">Mount Sneffels</a></li>
+<li><a href="/wiki/Capitol_Peak_(Colorado)" title="Capitol Peak (Colorado)">Capitol Peak</a></li>
+<li><a href="/wiki/Pikes_Peak" title="Pikes Peak">Pikes Peak</a></li>
+<li><a href="/wiki/Windom_Peak" title="Windom Peak">Windom Peak</a>/<a href="/wiki/Mount_Eolus" title="Mount Eolus">Mount Eolus</a></li>
+<li><a href="/wiki/Mount_Augusta" title="Mount Augusta">Mount Augusta</a></li>
+<li><a href="/wiki/Handies_Peak" title="Handies Peak">Handies Peak</a></li>
+<li><a href="/wiki/Culebra_Peak" title="Culebra Peak">Culebra Peak</a></li>
+<li><a href="/wiki/San_Luis_Peak" title="San Luis Peak">San Luis Peak</a></li>
+<li><a href="/wiki/Mount_of_the_Holy_Cross" title="Mount of the Holy Cross">Mount of the Holy Cross</a></li>
+<li><a class="mw-redirect" href="/wiki/Nevado_de_Colima" title="Nevado de Colima">Nevado de Colima</a></li>
+<li><a href="/wiki/Grizzly_Peak_(Sawatch_Range)" title="Grizzly Peak (Sawatch Range)">Grizzly Peak</a></li>
+<li><a href="/wiki/Mount_Humphreys" title="Mount Humphreys">Mount Humphreys</a></li>
+<li><a href="/wiki/Mount_Keith" title="Mount Keith">Mount Keith</a></li>
+<li><a href="/wiki/Mount_Strickland" title="Mount Strickland">Mount Strickland</a></li>
+<li><a href="/wiki/Mount_Ouray" title="Mount Ouray">Mount Ouray</a></li>
+<li><a href="/wiki/Vermilion_Peak" title="Vermilion Peak">Vermilion Peak</a></li>
+<li><a href="/wiki/Avalanche_Peak_(Yukon)" title="Avalanche Peak (Yukon)">Avalanche Peak</a></li>
+<li><a href="/wiki/Atna_Peaks" title="Atna Peaks">Atna Peaks</a></li>
+<li><a href="/wiki/Volc%C3%A1n_Tajumulco" title="Volcán Tajumulco">Volcán Tajumulco</a></li>
+<li><a href="/wiki/Regal_Mountain" title="Regal Mountain">Regal Mountain</a></li>
+<li><a href="/wiki/Mount_Darwin_(California)" title="Mount Darwin (California)">Mount Darwin</a></li>
+<li><a href="/wiki/Mount_Hayes" title="Mount Hayes">Mount Hayes</a></li>
+<li><a href="/wiki/Mount_Silverheels" title="Mount Silverheels">Mount Silverheels</a></li>
+<li><a href="/wiki/Rio_Grande_Pyramid" title="Rio Grande Pyramid">Rio Grande Pyramid</a></li>
+<li><a href="/wiki/Cofre_de_Perote" title="Cofre de Perote">Cofre de Perote</a></li>
+<li><a href="/wiki/Gannett_Peak" title="Gannett Peak">Gannett Peak</a></li>
+<li><a href="/wiki/Mount_Kaweah" title="Mount Kaweah">Mount Kaweah</a></li>
+<li><a href="/wiki/Grand_Teton" title="Grand Teton">Grand Teton</a></li>
+<li><a href="/wiki/Mount_Cook_(Saint_Elias_Mountains)" title="Mount Cook (Saint Elias Mountains)">Mount Cook</a></li>
+<li><a href="/wiki/Mount_Morgan_(Inyo_County,_California)" title="Mount Morgan (Inyo County, California)">Mount Morgan</a></li>
+<li><a href="/wiki/Mount_Gabb" title="Mount Gabb">Mount Gabb</a></li>
+<li><a class="mw-redirect" href="/wiki/Bald_Mountain_(Colorado)" title="Bald Mountain (Colorado)">Bald Mountain</a></li>
+<li><a href="/wiki/Mount_Oso_(Colorado)" title="Mount Oso (Colorado)">Mount Oso</a></li>
+<li><a href="/wiki/Mount_Jackson_(Colorado)" title="Mount Jackson (Colorado)">Mount Jackson</a></li>
+<li><a href="/wiki/Mount_Tom_(California)" title="Mount Tom (California)">Mount Tom</a></li>
+<li><a href="/wiki/Bard_Peak" title="Bard Peak">Bard Peak</a></li>
+<li><a href="/wiki/West_Spanish_Peak" title="West Spanish Peak">West Spanish Peak</a></li>
+<li><a href="/wiki/Mount_Powell_(Colorado)" title="Mount Powell (Colorado)">Mount Powell</a></li>
+<li><a href="/wiki/Hagues_Peak" title="Hagues Peak">Hagues Peak</a></li>
+<li><a href="/wiki/Mount_Dubois" title="Mount Dubois">Mount Dubois</a></li>
+<li><a href="/wiki/Tower_Mountain_(Colorado)" title="Tower Mountain (Colorado)">Tower Mountain</a></li>
+<li><a href="/wiki/Treasure_Mountain_(Colorado)" title="Treasure Mountain (Colorado)">Treasure Mountain</a></li>
+<li><a href="/wiki/Kings_Peak_(Utah)" title="Kings Peak (Utah)">Kings Peak</a></li>
+<li><a href="/wiki/North_Arapaho_Peak" title="North Arapaho Peak">North Arapaho Peak</a></li>
+<li><a href="/wiki/Mount_Pinchot_(California)" title="Mount Pinchot (California)">Mount Pinchot</a></li>
+<li><a href="/wiki/Mount_Natazhat" title="Mount Natazhat">Mount Natazhat</a></li>
+<li><a href="/wiki/Mount_Jarvis" title="Mount Jarvis">Mount Jarvis</a></li>
+<li><a href="/wiki/Parry_Peak" title="Parry Peak">Parry Peak</a></li>
+<li><a class="mw-redirect" href="/wiki/Bill_Williams_Peak" title="Bill Williams Peak">Bill Williams Peak</a></li>
+<li><a href="/wiki/Sultan_Mountain" title="Sultan Mountain">Sultan Mountain</a></li>
+<li><a href="/wiki/Mount_Herard" title="Mount Herard">Mount Herard</a></li>
+<li><a href="/wiki/Volc%C3%A1n_Tacan%C3%A1" title="Volcán Tacaná">Volcán Tacaná</a></li>
+<li><a href="/wiki/West_Buffalo_Peak" title="West Buffalo Peak">West Buffalo Peak</a></li>
+<li><a href="/wiki/Mount_Craig_(Yukon)" title="Mount Craig (Yukon)">Mount Craig</a></li>
+<li><a href="/wiki/Tressider_Peak" title="Tressider Peak">Tressider Peak</a></li>
+<li><a href="/wiki/Summit_Peak" title="Summit Peak">Summit Peak</a></li>
+<li><a href="/wiki/Middle_Peak_(Colorado)" title="Middle Peak (Colorado)">Middle Peak</a>/<a href="/wiki/Dolores_Peak" title="Dolores Peak">Dolores Peak</a></li>
+<li><a href="/wiki/Antora_Peak" title="Antora Peak">Antora Peak</a></li>
+<li><a href="/wiki/Henry_Mountain" title="Henry Mountain">Henry Mountain</a></li>
+<li><a href="/wiki/Hesperus_Mountain_(Colorado)" title="Hesperus Mountain (Colorado)">Hesperus Mountain</a></li>
+<li><a href="/wiki/Mount_Silverthrone_(Alaska)" title="Mount Silverthrone (Alaska)">Mount Silverthrone</a></li>
+<li><a href="/wiki/Jacque_Peak" title="Jacque Peak">Jacque Peak</a></li>
+<li><a href="/wiki/Bennett_Peak" title="Bennett Peak">Bennett Peak</a></li>
+<li><a href="/wiki/Wind_River_Peak" title="Wind River Peak">Wind River Peak</a></li>
+<li><a href="/wiki/Mount_Waddington" title="Mount Waddington">Mount Waddington</a></li>
+<li><a href="/wiki/Conejos_Peak" title="Conejos Peak">Conejos Peak</a></li>
+<li><a class="mw-selflink selflink">Mount Marcus Baker</a></li>
+<li><a href="/wiki/Cloud_Peak" title="Cloud Peak">Cloud Peak</a></li>
+<li><a href="/wiki/Wheeler_Peak_(New_Mexico)" title="Wheeler Peak (New Mexico)">Wheeler Peak</a></li>
+<li><a href="/wiki/Francs_Peak" title="Francs Peak">Francs Peak</a></li>
+<li><a href="/wiki/Twilight_Peak" title="Twilight Peak">Twilight Peak</a></li>
+<li><a href="/wiki/South_River_Peak" title="South River Peak">South River Peak</a></li>
+<li><a href="/wiki/Mount_Ritter" title="Mount Ritter">Mount Ritter</a></li>
+<li><a href="/wiki/Red_Slate_Mountain" title="Red Slate Mountain">Red Slate Mountain</a></li></ol>
+</div></div></td></tr></tbody></table></div><div aria-labelledby="The_100_most_prominent_summits_of_greater_North_America" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background:#EEFFFF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:NA_prominent" title="Template:NA prominent"><abbr style=";background:#EEFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:NA_prominent" title="Template talk:NA prominent"><abbr style=";background:#EEFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:NA_prominent&amp;action=edit"><abbr style=";background:#EEFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="The_100_most_prominent_summits_of_greater_North_America" style="font-size:114%;margin:0 4em"><a class="mw-redirect" href="/wiki/List_of_the_most_prominent_summits_of_North_America" title="List of the most prominent summits of North America">The 100 most prominent summits of greater North America</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;text-align:left;"><div style="padding:0em 0.25em"><div class="div-col columns column-width" style="-moz-column-width: 16em; -webkit-column-width: 16em; column-width: 16em;">
+<ol><li><a href="/wiki/Denali" title="Denali">Denali</a></li>
+<li><a href="/wiki/Mount_Logan" title="Mount Logan">Mount Logan</a></li>
+<li><a href="/wiki/Pico_de_Orizaba" title="Pico de Orizaba">Pico de Orizaba</a></li>
+<li><a href="/wiki/Mount_Rainier" title="Mount Rainier">Mount Rainier</a></li>
+<li><a href="/wiki/Volc%C3%A1n_Tajumulco" title="Volcán Tajumulco">Volcán Tajumulco</a></li>
+<li><a href="/wiki/Mount_Fairweather" title="Mount Fairweather">Mount Fairweather</a></li>
+<li><a class="mw-redirect" href="/wiki/Cerro_Chirrip%C3%B3" title="Cerro Chirripó">Chirripó Grande</a></li>
+<li><a href="/wiki/Gunnbj%C3%B8rn_Fjeld" title="Gunnbjørn Fjeld">Gunnbjørn Fjeld</a></li>
+<li><a href="/wiki/Mount_Blackburn" title="Mount Blackburn">Mount Blackburn</a></li>
+<li><a href="/wiki/Mount_Hayes" title="Mount Hayes">Mount Hayes</a></li>
+<li><a href="/wiki/Mount_Saint_Elias" title="Mount Saint Elias">Mount Saint Elias</a></li>
+<li><a href="/wiki/Mount_Waddington" title="Mount Waddington">Mount Waddington</a></li>
+<li><a class="mw-selflink selflink">Mount Marcus Baker</a></li>
+<li><a href="/wiki/Pico_Duarte" title="Pico Duarte">Pico Duarte</a></li>
+<li><a href="/wiki/Mount_Lucania" title="Mount Lucania">Mount Lucania</a></li>
+<li><a href="/wiki/Mount_Whitney" title="Mount Whitney">Mount Whitney</a></li>
+<li><a href="/wiki/Popocat%C3%A9petl" title="Popocatépetl">Popocatépetl</a></li>
+<li><a href="/wiki/Mount_Shasta" title="Mount Shasta">Mount Shasta</a></li>
+<li><a href="/wiki/Monarch_Mountain" title="Monarch Mountain">Monarch Mountain</a></li>
+<li><a href="/wiki/Mount_Shishaldin" title="Mount Shishaldin">Shishaldin Volcano</a></li>
+<li><a href="/wiki/Mount_Robson" title="Mount Robson">Mount Robson</a></li>
+<li><a href="/wiki/Mount_Redoubt" title="Mount Redoubt">Redoubt Volcano</a></li>
+<li><a href="/wiki/Mount_Elbert" title="Mount Elbert">Mount Elbert</a></li>
+<li><a href="/wiki/Mount_Sir_Wilfrid_Laurier" title="Mount Sir Wilfrid Laurier">Mount Sir Wilfrid Laurier</a></li>
+<li><a class="mw-redirect" href="/wiki/Nevado_de_Colima" title="Nevado de Colima">Nevado de Colima</a></li>
+<li><a href="/wiki/Mount_Vancouver" title="Mount Vancouver">Mount Vancouver</a></li>
+<li><a href="/wiki/Mount_Sir_Sandford" title="Mount Sir Sandford">Mount Sir Sandford</a></li>
+<li><a href="/wiki/Mount_Baker" title="Mount Baker">Mount Baker</a></li>
+<li><a href="/wiki/Mount_Torbert" title="Mount Torbert">Mount Torbert</a></li>
+<li><a href="/wiki/Pic_la_Selle" title="Pic la Selle">Pic la Selle</a></li>
+<li><a href="/wiki/Barbeau_Peak" title="Barbeau Peak">Barbeau Peak</a></li>
+<li><a href="/wiki/San_Jacinto_Peak" title="San Jacinto Peak">San Jacinto Peak</a></li>
+<li><a href="/wiki/San_Gorgonio_Mountain" title="San Gorgonio Mountain">San Gorgonio Mountain</a></li>
+<li><a href="/wiki/Mount_Charleston" title="Mount Charleston">Charleston Peak</a></li>
+<li><a href="/wiki/Mount_Pavlof" title="Mount Pavlof">Pavlof Volcano</a></li>
+<li><a href="/wiki/Mount_Veniaminof" title="Mount Veniaminof">Mount Veniaminof</a></li>
+<li><a href="/wiki/Mount_Adams_(Washington)" title="Mount Adams (Washington)">Mount Adams</a></li>
+<li><a href="/wiki/Skihist_Mountain" title="Skihist Mountain">Skihist Mountain</a></li>
+<li><a href="/wiki/Mount_Hubbard" title="Mount Hubbard">Mount Hubbard</a></li>
+<li><a href="/wiki/Mount_Ratz" title="Mount Ratz">Mount Ratz</a></li>
+<li><a href="/wiki/Mount_Odin_(British_Columbia)" title="Mount Odin (British Columbia)">Mount Odin</a></li>
+<li><a href="/wiki/Mount_Isto" title="Mount Isto">Mount Isto</a></li>
+<li><a class="new" href="/w/index.php?title=Mount_Monashee&amp;action=edit&amp;redlink=1" title="Mount Monashee (page does not exist)">Mount Monashee</a></li>
+<li><a href="/wiki/Mount_Iliamna" title="Mount Iliamna">Iliamna Volcano</a></li>
+<li><a href="/wiki/Mount_Olympus_(Washington)" title="Mount Olympus (Washington)">Mount Olympus</a></li>
+<li><a href="/wiki/Mount_Columbia_(Canada)" title="Mount Columbia (Canada)">Mount Columbia</a></li>
+<li><a href="/wiki/Mount_Queen_Bess" title="Mount Queen Bess">Mount Queen Bess</a></li>
+<li><a href="/wiki/Mount_Cook_(Saint_Elias_Mountains)" title="Mount Cook (Saint Elias Mountains)">Mount Cook</a></li>
+<li><a href="/wiki/Mount_Hood" title="Mount Hood">Mount Hood</a></li>
+<li><a href="/wiki/Mount_Sanford_(Alaska)" title="Mount Sanford (Alaska)">Mount Sanford</a></li>
+<li><a class="new" href="/w/index.php?title=Mount_Tom_White&amp;action=edit&amp;redlink=1" title="Mount Tom White (page does not exist)">Mount Tom White</a></li>
+<li><a class="new" href="/w/index.php?title=Mount_Cooper_(British_Columbia)&amp;action=edit&amp;redlink=1" title="Mount Cooper (British Columbia) (page does not exist)">Mount Cooper</a></li>
+<li><a href="/wiki/Wheeler_Peak_(Nevada)" title="Wheeler Peak (Nevada)">Wheeler Peak</a></li>
+<li><a href="/wiki/Mount_Ulysses" title="Mount Ulysses">Ulysses Mountain</a></li>
+<li><a href="/wiki/Glacier_Peak" title="Glacier Peak">Glacier Peak</a></li>
+<li><a href="/wiki/Mount_Kimball_(Alaska)" title="Mount Kimball (Alaska)">Mount Kimball</a></li>
+<li><a href="/wiki/Blue_Mountain_Peak" title="Blue Mountain Peak">Blue Mountain Peak</a></li>
+<li><a href="/wiki/Wedge_Mountain" title="Wedge Mountain">Wedge Mountain</a></li>
+<li><a class="new" href="/w/index.php?title=Otter_Mountain&amp;action=edit&amp;redlink=1" title="Otter Mountain (page does not exist)">Otter Mountain</a></li>
+<li><a href="/wiki/Mount_Griggs" title="Mount Griggs">Mount Griggs</a></li>
+<li><a href="/wiki/Nevado_de_Toluca" title="Nevado de Toluca">Nevado de Toluca</a></li>
+<li><a class="new" href="/w/index.php?title=Kwatna_Peak&amp;action=edit&amp;redlink=1" title="Kwatna Peak (page does not exist)">Kwatna Peak</a></li>
+<li><a href="/wiki/Outlook_Peak" title="Outlook Peak">Outlook Peak</a></li>
+<li><a href="/wiki/Mount_Foraker" title="Mount Foraker">Mount Foraker</a></li>
+<li><a href="/wiki/Golden_Hinde_(mountain)" title="Golden Hinde (mountain)">Golden Hinde</a></li>
+<li><a href="/wiki/White_Mountain_Peak" title="White Mountain Peak">White Mountain Peak</a></li>
+<li><a href="/wiki/Mount_Crillon" title="Mount Crillon">Mount Crillon</a></li>
+<li><a class="mw-redirect" href="/wiki/Stauning_Alper" title="Stauning Alper">Stauning Alper</a></li>
+<li><a class="new" href="/w/index.php?title=Cerro_Teotepec&amp;action=edit&amp;redlink=1" title="Cerro Teotepec (page does not exist)">Cerro Teotepec</a></li>
+<li><a class="new" href="/w/index.php?title=Scud_Peak&amp;action=edit&amp;redlink=1" title="Scud Peak (page does not exist)">Scud Peak</a></li>
+<li><a href="/wiki/Keele_Peak" title="Keele Peak">Keele Peak</a></li>
+<li><a href="/wiki/Cloud_Peak" title="Cloud Peak">Cloud Peak</a></li>
+<li><a href="/wiki/Gannett_Peak" title="Gannett Peak">Gannett Peak</a></li>
+<li><a href="/wiki/Razorback_Mountain_(British_Columbia)" title="Razorback Mountain (British Columbia)">Razorback Mountain</a></li>
+<li><a href="/wiki/Mount_Vsevidof" title="Mount Vsevidof">Mount Vsevidof</a></li>
+<li><a href="/wiki/Mount_Odin" title="Mount Odin">Mount Odin</a></li>
+<li><a class="new" href="/w/index.php?title=Cerro_el_Nacimiento&amp;action=edit&amp;redlink=1" title="Cerro el Nacimiento (page does not exist)">Cerro el Nacimiento</a></li>
+<li><a href="/wiki/Mount_Hesperus_(Alaska)" title="Mount Hesperus (Alaska)">Mount Hesperus</a></li>
+<li><a href="/wiki/Picacho_del_Diablo" title="Picacho del Diablo">Picacho del Diablo</a></li>
+<li><a href="/wiki/Mount_Farnham" title="Mount Farnham">Mount Farnham</a></li>
+<li><a class="new" href="/w/index.php?title=Palup_Qaqa&amp;action=edit&amp;redlink=1" title="Palup Qaqa (page does not exist)">Palup Qaqa HP</a></li>
+<li><a href="/wiki/Mount_Bona" title="Mount Bona">Mount Bona</a></li>
+<li><a class="new" href="/w/index.php?title=Oscar_Peak&amp;action=edit&amp;redlink=1" title="Oscar Peak (page does not exist)">Oscar Peak</a></li>
+<li><a href="/wiki/Pic_Macaya" title="Pic Macaya">Pic Macaya</a></li>
+<li><a class="new" href="/w/index.php?title=Monta%C3%B1a_de_Santa_B%C3%A1rbara&amp;action=edit&amp;redlink=1" title="Montaña de Santa Bárbara (page does not exist)">Montaña de Santa Bárbara</a></li>
+<li><a href="/wiki/Mount_Assiniboine" title="Mount Assiniboine">Mount Assiniboine</a></li>
+<li><a class="new" href="/w/index.php?title=Mount_Jancowski&amp;action=edit&amp;redlink=1" title="Mount Jancowski (page does not exist)">Mount Jancowski</a></li>
+<li><a href="/wiki/Cerro_Las_Minas" title="Cerro Las Minas">Cerro Las Minas</a></li>
+<li><a href="/wiki/Mount_Drum" title="Mount Drum">Mount Drum</a></li>
+<li><a href="/wiki/Gladsheim_Peak" title="Gladsheim Peak">Gladsheim Peak</a></li>
+<li><a href="/wiki/Milne_Land" title="Milne Land">Milne Land HP</a></li>
+<li><a href="/wiki/Mount_Dawson_(Canada)" title="Mount Dawson (Canada)">Mount Dawson</a></li>
+<li><a class="mw-redirect" href="/wiki/Payers_Tinde" title="Payers Tinde">Payers Tinde</a></li>
+<li><a class="new" href="/w/index.php?title=Beitstad_Peak&amp;action=edit&amp;redlink=1" title="Beitstad Peak (page does not exist)">Beitstad Peak</a></li>
+<li><a href="/wiki/Mount_Chiginagak" title="Mount Chiginagak">Mount Chiginagak</a></li>
+<li><a href="/wiki/Mount_Edith_Cavell" title="Mount Edith Cavell">Mount Edith Cavell</a></li>
+<li><a class="new" href="/w/index.php?title=Alsek_Peak&amp;action=edit&amp;redlink=1" title="Alsek Peak (page does not exist)">Alsek Peak</a></li>
+<li><a class="new" href="/w/index.php?title=Mount_Valpy&amp;action=edit&amp;redlink=1" title="Mount Valpy (page does not exist)">Mount Valpy</a></li>
+<li><a class="new" href="/w/index.php?title=Perserajoq&amp;action=edit&amp;redlink=1" title="Perserajoq (page does not exist)">Perserajoq</a></li>
+<li><a href="/wiki/Mount_Cairnes" title="Mount Cairnes">Mount Cairnes</a></li></ol>
+</div></div></td></tr></tbody></table></div><div aria-labelledby="The_107_most_isolated_major_summits_of_greater_North_America" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background:#EEFFFF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:NA_isolated" title="Template:NA isolated"><abbr style=";background:#EEFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:NA_isolated" title="Template talk:NA isolated"><abbr style=";background:#EEFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:NA_isolated&amp;action=edit"><abbr style=";background:#EEFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="The_107_most_isolated_major_summits_of_greater_North_America" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_the_most_isolated_major_summits_of_North_America" title="List of the most isolated major summits of North America">The 107 most isolated major summits of greater North America</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;text-align:left;"><div style="padding:0em 0.25em"><div class="div-col columns column-width" style="-moz-column-width: 16em; -webkit-column-width: 16em; column-width: 16em;">
+<ol><li><a href="/wiki/Denali" title="Denali">Denali</a></li>
+<li><a href="/wiki/Gunnbj%C3%B8rn_Fjeld" title="Gunnbjørn Fjeld">Gunnbjørn Fjeld</a></li>
+<li><a href="/wiki/Pico_de_Orizaba" title="Pico de Orizaba">Pico de Orizaba</a></li>
+<li><a href="/wiki/Mount_Whitney" title="Mount Whitney">Mount Whitney</a></li>
+<li><a href="/wiki/Mount_Mitchell" title="Mount Mitchell">Mount Mitchell</a></li>
+<li><a href="/wiki/Mount_Washington_(New_Hampshire)" title="Mount Washington (New Hampshire)">Mount Washington</a></li>
+<li><a href="/wiki/Mount_Rainier" title="Mount Rainier">Mount Rainier</a></li>
+<li><a href="/wiki/Mount_Elbert" title="Mount Elbert">Mount Elbert</a></li>
+<li><a href="/wiki/Pico_Duarte" title="Pico Duarte">Pico Duarte</a></li>
+<li><a class="mw-redirect" href="/wiki/Cerro_Chirrip%C3%B3" title="Cerro Chirripó">Chirripó Grande</a></li>
+<li><a href="/wiki/Mount_Shishaldin" title="Mount Shishaldin">Shishaldin Volcano</a></li>
+<li><a href="/wiki/Barbeau_Peak" title="Barbeau Peak">Barbeau Peak</a></li>
+<li><a href="/wiki/Mount_Caubvick" title="Mount Caubvick">Mount Caubvick</a></li>
+<li><a href="/wiki/Volc%C3%A1n_Tajumulco" title="Volcán Tajumulco">Volcán Tajumulco</a></li>
+<li><a href="/wiki/Melville_Island_(Northwest_Territories_and_Nunavut)" title="Melville Island (Northwest Territories and Nunavut)">Melville Island HP</a></li>
+<li><a href="/wiki/La_Grande_Soufri%C3%A8re" title="La Grande Soufrière">La Grande Soufrière</a></li>
+<li><a href="/wiki/Tanaga_(volcano)" title="Tanaga (volcano)">Tanaga Volcano</a></li>
+<li><a href="/wiki/Avannaa" title="Avannaa">Avannaarsua HP</a></li>
+<li><a href="/wiki/Mount_Isto" title="Mount Isto">Mount Isto</a></li>
+<li><a class="mw-redirect" href="/wiki/Cerro_San_Rafael" title="Cerro San Rafael">Cerro San Rafael</a></li>
+<li><a class="new" href="/w/index.php?title=Mathiassen_Mountain&amp;action=edit&amp;redlink=1" title="Mathiassen Mountain (page does not exist)">Mathiassen Mountain</a></li>
+<li><a href="/wiki/Mount_Logan" title="Mount Logan">Mount Logan</a></li>
+<li><a href="/wiki/Angilaaq_Mountain" title="Angilaaq Mountain">Angilaaq Mountain</a></li>
+<li><a href="/wiki/Mount_Magazine" title="Mount Magazine">Signal Hill</a></li>
+<li><a href="/wiki/Mount_Odin" title="Mount Odin">Mount Odin</a></li>
+<li><a href="/wiki/Cerro_Potos%C3%AD" title="Cerro Potosí">Cerro el Potosí</a></li>
+<li><a href="/wiki/Mount_Waddington" title="Mount Waddington">Mount Waddington</a></li>
+<li><a class="new" href="/w/index.php?title=Melville_Hills&amp;action=edit&amp;redlink=1" title="Melville Hills (page does not exist)">Melville Hills HP</a></li>
+<li><a href="/wiki/Keele_Peak" title="Keele Peak">Keele Peak</a></li>
+<li><a href="/wiki/Mount_Shasta" title="Mount Shasta">Mount Shasta</a></li>
+<li><a class="new" href="/w/index.php?title=Perserajoq&amp;action=edit&amp;redlink=1" title="Perserajoq (page does not exist)">Perserajoq</a></li>
+<li><a href="/wiki/Mealy_Mountains" title="Mealy Mountains">Mealy Mountains HP</a></li>
+<li><a href="/wiki/Peary_Land" title="Peary Land">Peary Land HP</a></li>
+<li><a href="/wiki/The_Cabox" title="The Cabox">The Cabox</a></li>
+<li><a class="new" href="/w/index.php?title=Volc%C3%A1n_Everman&amp;action=edit&amp;redlink=1" title="Volcán Everman (page does not exist)">Volcán Everman</a></li>
+<li><a href="/wiki/Greenland_ice_sheet" title="Greenland ice sheet">Greenland Ice Sheet HP</a></li>
+<li><a href="/wiki/Gannett_Peak" title="Gannett Peak">Gannett Peak</a></li>
+<li><a class="new" href="/w/index.php?title=Mont_Yapeitso&amp;action=edit&amp;redlink=1" title="Mont Yapeitso (page does not exist)">Mont Yapeitso</a></li>
+<li><a href="/wiki/Mount_Robson" title="Mount Robson">Mount Robson</a></li>
+<li><a href="/wiki/Mount_Osborn" title="Mount Osborn">Mount Osborn</a></li>
+<li><a href="/wiki/Mount_Igikpak" title="Mount Igikpak">Mount Igikpak</a></li>
+<li><a href="/wiki/Mount_Ulysses" title="Mount Ulysses">Ulysses Mountain</a></li>
+<li><a href="/wiki/Cerro_de_Punta" title="Cerro de Punta">Cerro de Punta</a></li>
+<li><a class="new" href="/w/index.php?title=Cerro_Gordo_(Durango)&amp;action=edit&amp;redlink=1" title="Cerro Gordo (Durango) (page does not exist)">Cerro Gordo</a></li>
+<li><a class="new" href="/w/index.php?title=Pico_San_Juan&amp;action=edit&amp;redlink=1" title="Pico San Juan (page does not exist)">Pico San Juan</a></li>
+<li><a class="mw-redirect" href="/wiki/Mont_Jacques-Cartier" title="Mont Jacques-Cartier">Mont Jacques-Cartier</a></li>
+<li><a class="mw-redirect" href="/wiki/Nevado_de_Colima" title="Nevado de Colima">Nevado de Colima</a></li>
+<li><a class="mw-redirect" href="/wiki/Sukkertoppen_(Greenland)" title="Sukkertoppen (Greenland)">Sukkertoppen</a></li>
+<li><a href="/wiki/Humphreys_Peak" title="Humphreys Peak">Humphreys Peak</a></li>
+<li><a class="new" href="/w/index.php?title=Haffner_Bjerg&amp;action=edit&amp;redlink=1" title="Haffner Bjerg (page does not exist)">Haffner Bjerg</a></li>
+<li><a href="/wiki/Victoria_Island_(Canada)" title="Victoria Island (Canada)">Victoria Island HP</a></li>
+<li><a href="/wiki/Wheeler_Peak_(Nevada)" title="Wheeler Peak (Nevada)">Wheeler Peak</a></li>
+<li><a href="/wiki/Revaltoppe" title="Revaltoppe">Revaltoppe</a></li>
+<li><a href="/wiki/Kisimngiuqtuq_Peak" title="Kisimngiuqtuq Peak">Kisimngiuqtuq Peak</a></li>
+<li><a href="/wiki/Mount_Vsevidof" title="Mount Vsevidof">Mount Vsevidof</a></li>
+<li><a href="/wiki/Mont_Forel" title="Mont Forel">Mont Forel</a></li>
+<li><a class="new" href="/w/index.php?title=Beitstad_Peak&amp;action=edit&amp;redlink=1" title="Beitstad Peak (page does not exist)">Beitstad Peak</a></li>
+<li><a class="mw-redirect" href="/wiki/Hahn_Land" title="Hahn Land">Hahn Land HP</a></li>
+<li><a class="new" href="/w/index.php?title=Pico_La_Laguna&amp;action=edit&amp;redlink=1" title="Pico La Laguna (page does not exist)">Pico La Laguna</a></li>
+<li><a class="mw-redirect" href="/wiki/Tres_Virgenes" title="Tres Virgenes">Volcán Las Tres Vírgenes</a></li>
+<li><a href="/wiki/Guadalupe_Island" title="Guadalupe Island">Isla Guadalupe HP</a></li>
+<li><a href="/wiki/Mount_Veniaminof" title="Mount Veniaminof">Mount Veniaminof</a></li>
+<li><a href="/wiki/Picacho_del_Diablo" title="Picacho del Diablo">Picacho del Diablo</a></li>
+<li><a class="new" href="/w/index.php?title=Cerro_el_Nacimiento&amp;action=edit&amp;redlink=1" title="Cerro el Nacimiento (page does not exist)">Cerro el Nacimiento</a></li>
+<li><a href="/wiki/Mount_Ratz" title="Mount Ratz">Mount Ratz</a></li>
+<li><a href="/wiki/Hall_Island_(Alaska)" title="Hall Island (Alaska)">Hall Island HP</a></li>
+<li><a href="/wiki/Dillingham_Census_Area,_Alaska" title="Dillingham Census Area, Alaska">Dillingham HP</a></li>
+<li><a href="/wiki/Mount_Paatusoq" title="Mount Paatusoq">Mount Paatusoq</a></li>
+<li><a class="mw-redirect" href="/wiki/Petermann_Bjerg" title="Petermann Bjerg">Petermann Bjerg</a></li>
+<li><a href="/wiki/Spruce_Knob" title="Spruce Knob">Spruce Knob</a></li>
+<li><a href="/wiki/Blue_Mountain_Peak" title="Blue Mountain Peak">Blue Mountain Peak</a></li>
+<li><a href="/wiki/Kings_Peak_(Utah)" title="Kings Peak (Utah)">Kings Peak</a></li>
+<li><a href="/wiki/Outlook_Peak" title="Outlook Peak">Outlook Peak</a></li>
+<li><a href="/wiki/Sierra_Blanca_(New_Mexico)" title="Sierra Blanca (New Mexico)">Sierra Blanca Peak</a></li>
+<li><a href="/wiki/Devon_Ice_Cap" title="Devon Ice Cap">Devon Ice Cap HP</a></li>
+<li><a class="new" href="/w/index.php?title=Point_1740&amp;action=edit&amp;redlink=1" title="Point 1740 (page does not exist)">Point 1740</a></li>
+<li><a href="/wiki/San_Gorgonio_Mountain" title="San Gorgonio Mountain">San Gorgonio Mountain</a></li>
+<li><a class="new" href="/w/index.php?title=Manuel_Peak&amp;action=edit&amp;redlink=1" title="Manuel Peak (page does not exist)">Manuel Peak</a></li>
+<li><a href="/wiki/Mount_Katahdin" title="Mount Katahdin">Katahdin</a></li>
+<li><a class="new" href="/w/index.php?title=Peak_4030&amp;action=edit&amp;redlink=1" title="Peak 4030 (page does not exist)">Peak 4030</a></li>
+<li><a href="/wiki/Howson_Peak" title="Howson Peak">Howson Peak</a></li>
+<li><a href="/wiki/Mount_Baldy_(Arizona)" title="Mount Baldy (Arizona)">Mount Baldy</a></li>
+<li><a href="/wiki/Borah_Peak" title="Borah Peak">Borah Peak</a></li>
+<li><a class="new" href="/w/index.php?title=Sierra_Fr%C3%ADa&amp;action=edit&amp;redlink=1" title="Sierra Fría (page does not exist)">Sierra Fría</a></li>
+<li><a href="/wiki/Cloud_Peak" title="Cloud Peak">Cloud Peak</a></li>
+<li><a href="/wiki/Cerro_Mohinora" title="Cerro Mohinora">Cerro Mohinora</a></li>
+<li><a class="new" href="/w/index.php?title=Fox_Mountain&amp;action=edit&amp;redlink=1" title="Fox Mountain (page does not exist)">Fox Mountain</a></li>
+<li><a class="new" href="/w/index.php?title=Cap_Mountain&amp;action=edit&amp;redlink=1" title="Cap Mountain (page does not exist)">Cap Mountain</a></li>
+<li><a class="new" href="/w/index.php?title=Sierra_la_Madera&amp;action=edit&amp;redlink=1" title="Sierra la Madera (page does not exist)">Sierra la Madera</a></li>
+<li><a href="/wiki/Black_Elk_Peak" title="Black Elk Peak">Black Elk Peak</a></li>
+<li><a href="/wiki/Mount_Frank_Rae" title="Mount Frank Rae">Mount Frank Rae</a></li>
+<li><a href="/wiki/Mount_Nirvana" title="Mount Nirvana">Mount Nirvana</a></li>
+<li><a href="/wiki/Slide_Mountain_(Ulster_County,_New_York)" title="Slide Mountain (Ulster County, New York)">Slide Mountain</a></li>
+<li><a class="new" href="/w/index.php?title=Durham_Heights&amp;action=edit&amp;redlink=1" title="Durham Heights (page does not exist)">Durham Heights</a></li>
+<li><a href="/wiki/Mount_Griggs" title="Mount Griggs">Mount Griggs</a></li>
+<li><a href="/wiki/Mount_Charleston" title="Mount Charleston">Charleston Peak</a></li>
+<li><a href="/wiki/Pico_Turquino" title="Pico Turquino">Pico Turquino</a></li>
+<li><a href="/wiki/Pic_Macaya" title="Pic Macaya">Pic Macaya</a></li>
+<li><a href="/wiki/Junipero_Serra_Peak" title="Junipero Serra Peak">Junipero Serra Peak</a></li>
+<li><a href="/wiki/Mount_Baker" title="Mount Baker">Mount Baker</a></li>
+<li><a href="/wiki/Mount_Marcy" title="Mount Marcy">Mount Marcy</a></li>
+<li><a class="new" href="/w/index.php?title=Mont_Raoul-Blanchard&amp;action=edit&amp;redlink=1" title="Mont Raoul-Blanchard (page does not exist)">Mont Raoul-Blanchard</a></li>
+<li><a class="mw-selflink selflink">Mount Marcus Baker</a></li>
+<li><a href="/wiki/Mount_Hayes" title="Mount Hayes">Mount Hayes</a></li>
+<li><a href="/wiki/Sacajawea_Peak" title="Sacajawea Peak">Sacajawea Peak</a></li>
+<li><a href="/wiki/Steens_Mountain" title="Steens Mountain">Steens Mountain</a></li>
+<li><a href="/wiki/Mount_Fairweather" title="Mount Fairweather">Mount Fairweather</a></li></ol>
+</div></div></td></tr></tbody></table></div>
+<div aria-labelledby="The_23_highest_major_summits_of_Alaska" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background:#EEFFFF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Alaska_highest" title="Template:Alaska highest"><abbr style=";background:#EEFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Alaska_highest" title="Template talk:Alaska highest"><abbr style=";background:#EEFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Alaska_highest&amp;action=edit"><abbr style=";background:#EEFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="The_23_highest_major_summits_of_Alaska" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_mountain_peaks_of_Alaska#Highest_major_summits" title="List of mountain peaks of Alaska">The 23 highest major summits of Alaska</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;text-align:left;"><div style="padding:0em 0.25em"><div class="div-col columns column-width" style="-moz-column-width: 16em; -webkit-column-width: 16em; column-width: 16em;">
+<ol><li><a href="/wiki/Denali" title="Denali">Denali</a></li>
+<li><a href="/wiki/Mount_Saint_Elias" title="Mount Saint Elias">Mount Saint Elias</a></li>
+<li><a href="/wiki/Mount_Foraker" title="Mount Foraker">Mount Foraker</a></li>
+<li><a href="/wiki/Mount_Bona" title="Mount Bona">Mount Bona</a></li>
+<li><a href="/wiki/Mount_Blackburn" title="Mount Blackburn">Mount Blackburn</a></li>
+<li><a href="/wiki/Mount_Sanford_(Alaska)" title="Mount Sanford (Alaska)">Mount Sanford</a></li>
+<li><a href="/wiki/Mount_Fairweather" title="Mount Fairweather">Mount Fairweather</a></li>
+<li><a href="/wiki/Mount_Hubbard" title="Mount Hubbard">Mount Hubbard</a></li>
+<li><a href="/wiki/Mount_Bear" title="Mount Bear">Mount Bear</a></li>
+<li><a href="/wiki/Mount_Hunter_(Alaska)" title="Mount Hunter (Alaska)">Mount Hunter</a></li>
+<li><a href="/wiki/Mount_Alverstone" title="Mount Alverstone">Mount Alverstone</a></li>
+<li><a href="/wiki/University_Peak_(Alaska)" title="University Peak (Alaska)">University Peak</a></li>
+<li><a href="/wiki/Mount_Wrangell" title="Mount Wrangell">Mount Wrangell</a></li>
+<li><a href="/wiki/Mount_Augusta" title="Mount Augusta">Mount Augusta</a></li>
+<li><a href="/wiki/Atna_Peaks" title="Atna Peaks">Atna Peaks</a></li>
+<li><a href="/wiki/Regal_Mountain" title="Regal Mountain">Regal Mountain</a></li>
+<li><a href="/wiki/Mount_Hayes" title="Mount Hayes">Mount Hayes</a></li>
+<li><a href="/wiki/Mount_Cook_(Saint_Elias_Mountains)" title="Mount Cook (Saint Elias Mountains)">Mount Cook</a></li>
+<li><a href="/wiki/Mount_Natazhat" title="Mount Natazhat">Mount Natazhat</a></li>
+<li><a href="/wiki/Mount_Jarvis" title="Mount Jarvis">Mount Jarvis</a></li>
+<li><a href="/wiki/Tressider_Peak" title="Tressider Peak">Tressider Peak</a></li>
+<li><a href="/wiki/Mount_Silverthrone_(Alaska)" title="Mount Silverthrone (Alaska)">Mount Silverthrone</a></li>
+<li><a class="mw-selflink selflink">Mount Marcus Baker</a></li></ol>
+</div></div></td></tr></tbody></table></div>
+<div aria-labelledby="23x16px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_State_of_Alaska" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col" style="background-color:#BBDDFF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Alaska" title="Template:Alaska"><abbr style="background-color:#BBDDFF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Alaska" title="Template talk:Alaska"><abbr style="background-color:#BBDDFF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Alaska&amp;action=edit"><abbr style="background-color:#BBDDFF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="23x16px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_State_of_Alaska" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" class="thumbborder" data-file-height="1000" data-file-width="1416" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/23px-Flag_of_Alaska.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/34px-Flag_of_Alaska.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/46px-Flag_of_Alaska.svg.png 2x" width="23"/></span> <a href="/wiki/U.S._state" title="U.S. state">State</a> of <a href="/wiki/Alaska" title="Alaska">Alaska</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3" style="background-color:#BBDDFF;"><div id="Juneau_(capital)"><b><a href="/wiki/Juneau,_Alaska" title="Juneau, Alaska">Juneau</a></b> (capital)</div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/Outline_of_Alaska" title="Outline of Alaska">Topics</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Index_of_Alaska-related_articles" title="Index of Alaska-related articles">Index</a></li>
+<li><a href="/wiki/Geography_of_Alaska" title="Geography of Alaska">Geography</a></li>
+<li><a href="/wiki/List_of_earthquakes_in_Alaska" title="List of earthquakes in Alaska">Earthquakes</a></li>
+<li><a href="/wiki/Climate_of_Alaska" title="Climate of Alaska">Climate</a></li>
+<li><a href="/wiki/Wildlife_of_Alaska" title="Wildlife of Alaska">Wildlife</a></li>
+<li><a href="/wiki/History_of_Alaska" title="History of Alaska">History</a></li>
+<li><a href="/wiki/List_of_people_from_Alaska" title="List of people from Alaska">People</a></li>
+<li><a href="/wiki/Transportation_in_Alaska" title="Transportation in Alaska">Transportation</a></li>
+<li><a href="/wiki/Government_of_Alaska" title="Government of Alaska">Government</a></li>
+<li><a href="/wiki/United_States_congressional_delegations_from_Alaska" title="United States congressional delegations from Alaska">Delegations</a></li>
+<li><a href="/wiki/Music_of_Alaska" title="Music of Alaska">Music</a></li></ul>
+</div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><img alt="" data-file-height="388" data-file-width="393" decoding="async" height="99" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_Seal_of_Alaska.svg/100px-State_Seal_of_Alaska.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_Seal_of_Alaska.svg/150px-State_Seal_of_Alaska.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_Seal_of_Alaska.svg/200px-State_Seal_of_Alaska.svg.png 2x" width="100"/></div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#BBDDFF;;width:1%">Society</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Crime_in_Alaska" title="Crime in Alaska">Crime</a></li>
+<li><a href="/wiki/Demographics_of_Alaska" title="Demographics of Alaska">Demographics</a></li>
+<li><a href="/wiki/Economy_of_Alaska" title="Economy of Alaska">Economy</a></li>
+<li><a class="mw-redirect" href="/wiki/Education_in_Alaska" title="Education in Alaska">Education</a></li>
+<li><a href="/wiki/Dentistry_in_rural_Alaska" title="Dentistry in rural Alaska">Rural dentistry</a></li>
+<li><a href="/wiki/Politics_of_Alaska" title="Politics of Alaska">Politics</a></li>
+<li><a href="/wiki/Sports_in_Alaska" title="Sports in Alaska">Sports</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#BBDDFF;;width:1%">Regions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alaska_Peninsula" title="Alaska Peninsula">Alaska Peninsula</a></li>
+<li><a href="/wiki/Aleutian_Islands" title="Aleutian Islands">Aleutian Islands</a></li>
+<li><a href="/wiki/Arctic_Alaska" title="Arctic Alaska">Arctic</a></li>
+<li><a href="/wiki/The_Bush_(Alaska)" title="The Bush (Alaska)">The Bush</a></li>
+<li><a href="/wiki/Inside_Passage" title="Inside Passage">Inside Passage</a></li>
+<li><a href="/wiki/Interior_Alaska" title="Interior Alaska">Interior</a></li>
+<li><a href="/wiki/Kenai_Peninsula" title="Kenai Peninsula">Kenai Peninsula</a></li>
+<li><a href="/wiki/Matanuska-Susitna_Valley" title="Matanuska-Susitna Valley">Mat‑Su Valley</a></li>
+<li><a href="/wiki/Alaska_North_Slope" title="Alaska North Slope">North Slope</a></li>
+<li><a href="/wiki/Seward_Peninsula" title="Seward Peninsula">Seward Peninsula</a></li>
+<li><a href="/wiki/Southcentral_Alaska" title="Southcentral Alaska">Southcentral</a></li>
+<li><a href="/wiki/Southeast_Alaska" title="Southeast Alaska">Southeast</a></li>
+<li><a href="/wiki/Southwest_Alaska" title="Southwest Alaska">Southwest</a></li>
+<li><a href="/wiki/Tanana_Valley" title="Tanana Valley">Tanana Valley</a></li>
+<li><a href="/wiki/Yukon%E2%80%93Kuskokwim_Delta" title="Yukon–Kuskokwim Delta">Yukon–Kuskokwim Delta</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/List_of_cities_in_Alaska" title="List of cities in Alaska">Largest cities</a> <br/> pop. over 25,000</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
+<li><a href="/wiki/Fairbanks,_Alaska" title="Fairbanks, Alaska">Fairbanks</a></li>
+<li><a href="/wiki/Juneau,_Alaska" title="Juneau, Alaska">Juneau</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/List_of_cities_in_Alaska" title="List of cities in Alaska">Smaller cities</a> <br/> pop. over 2,000</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bethel,_Alaska" title="Bethel, Alaska">Bethel</a></li>
+<li><a href="/wiki/Cordova,_Alaska" title="Cordova, Alaska">Cordova</a></li>
+<li><a href="/wiki/Dillingham,_Alaska" title="Dillingham, Alaska">Dillingham</a></li>
+<li><a href="/wiki/Homer,_Alaska" title="Homer, Alaska">Homer</a></li>
+<li><a href="/wiki/Kenai,_Alaska" title="Kenai, Alaska">Kenai</a></li>
+<li><a href="/wiki/Ketchikan,_Alaska" title="Ketchikan, Alaska">Ketchikan</a></li>
+<li><a href="/wiki/Kodiak,_Alaska" title="Kodiak, Alaska">Kodiak</a></li>
+<li><a href="/wiki/Kotzebue,_Alaska" title="Kotzebue, Alaska">Kotzebue</a></li>
+<li><a href="/wiki/Nome,_Alaska" title="Nome, Alaska">Nome</a></li>
+<li><a href="/wiki/North_Pole,_Alaska" title="North Pole, Alaska">North Pole</a></li>
+<li><a href="/wiki/Palmer,_Alaska" title="Palmer, Alaska">Palmer</a></li>
+<li><a href="/wiki/Petersburg,_Alaska" title="Petersburg, Alaska">Petersburg</a></li>
+<li><a href="/wiki/Seward,_Alaska" title="Seward, Alaska">Seward</a></li>
+<li><a href="/wiki/Sitka,_Alaska" title="Sitka, Alaska">Sitka</a></li>
+<li><a href="/wiki/Soldotna,_Alaska" title="Soldotna, Alaska">Soldotna</a></li>
+<li><a href="/wiki/Unalaska,_Alaska" title="Unalaska, Alaska">Unalaska</a></li>
+<li><a href="/wiki/Valdez,_Alaska" title="Valdez, Alaska">Valdez</a></li>
+<li><a href="/wiki/Wasilla,_Alaska" title="Wasilla, Alaska">Wasilla</a></li>
+<li><a href="/wiki/Wrangell,_Alaska" title="Wrangell, Alaska">Wrangell</a></li>
+<li><a class="mw-redirect" href="/wiki/Utqia%C4%A1vik,_Alaska" title="Utqiaġvik, Alaska">Utqiaġvik</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/List_of_boroughs_and_census_areas_in_Alaska" title="List of boroughs and census areas in Alaska">Boroughs</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aleutians_East_Borough,_Alaska" title="Aleutians East Borough, Alaska">Aleutians East</a></li>
+<li><a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
+<li><a href="/wiki/Bristol_Bay_Borough,_Alaska" title="Bristol Bay Borough, Alaska">Bristol Bay</a></li>
+<li><a href="/wiki/Denali_Borough,_Alaska" title="Denali Borough, Alaska">Denali</a></li>
+<li><a href="/wiki/Fairbanks_North_Star_Borough,_Alaska" title="Fairbanks North Star Borough, Alaska">Fairbanks North Star</a></li>
+<li><a href="/wiki/Haines_Borough,_Alaska" title="Haines Borough, Alaska">Haines</a></li>
+<li><a href="/wiki/Juneau,_Alaska" title="Juneau, Alaska">Juneau</a></li>
+<li><a href="/wiki/Kenai_Peninsula_Borough,_Alaska" title="Kenai Peninsula Borough, Alaska">Kenai Peninsula</a></li>
+<li><a href="/wiki/Ketchikan_Gateway_Borough,_Alaska" title="Ketchikan Gateway Borough, Alaska">Ketchikan Gateway</a></li>
+<li><a href="/wiki/Kodiak_Island_Borough,_Alaska" title="Kodiak Island Borough, Alaska">Kodiak Island</a></li>
+<li><a href="/wiki/Lake_and_Peninsula_Borough,_Alaska" title="Lake and Peninsula Borough, Alaska">Lake and Peninsula</a></li>
+<li><a href="/wiki/Matanuska-Susitna_Borough,_Alaska" title="Matanuska-Susitna Borough, Alaska">Matanuska‑Susitna</a></li>
+<li><a href="/wiki/North_Slope_Borough,_Alaska" title="North Slope Borough, Alaska">North Slope</a></li>
+<li><a href="/wiki/Northwest_Arctic_Borough,_Alaska" title="Northwest Arctic Borough, Alaska">Northwest Arctic</a></li>
+<li><a href="/wiki/Petersburg_Borough,_Alaska" title="Petersburg Borough, Alaska">Petersburg</a></li>
+<li><a href="/wiki/Sitka,_Alaska" title="Sitka, Alaska">Sitka</a></li>
+<li><a href="/wiki/Skagway,_Alaska" title="Skagway, Alaska">Skagway</a></li>
+<li><a href="/wiki/Wrangell,_Alaska" title="Wrangell, Alaska">Wrangell</a></li>
+<li><a href="/wiki/Yakutat,_Alaska" title="Yakutat, Alaska">Yakutat</a></li>
+<li><a href="/wiki/Unorganized_Borough,_Alaska" title="Unorganized Borough, Alaska">Unorganized</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/List_of_boroughs_and_census_areas_in_Alaska" title="List of boroughs and census areas in Alaska">Census Areas</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aleutians_West_Census_Area,_Alaska" title="Aleutians West Census Area, Alaska">Aleutians West</a></li>
+<li><a href="/wiki/Bethel_Census_Area,_Alaska" title="Bethel Census Area, Alaska">Bethel</a></li>
+<li><a href="/wiki/Dillingham_Census_Area,_Alaska" title="Dillingham Census Area, Alaska">Dillingham</a></li>
+<li><a href="/wiki/Hoonah%E2%80%93Angoon_Census_Area,_Alaska" title="Hoonah–Angoon Census Area, Alaska">Hoonah–Angoon</a></li>
+<li><a href="/wiki/Kusilvak_Census_Area,_Alaska" title="Kusilvak Census Area, Alaska">Kusilvak</a></li>
+<li><a href="/wiki/Nome_Census_Area,_Alaska" title="Nome Census Area, Alaska">Nome</a></li>
+<li><a href="/wiki/Prince_of_Wales%E2%80%93Hyder_Census_Area,_Alaska" title="Prince of Wales–Hyder Census Area, Alaska">Prince of Wales–Hyder</a></li>
+<li><a href="/wiki/Southeast_Fairbanks_Census_Area,_Alaska" title="Southeast Fairbanks Census Area, Alaska">Southeast Fairbanks</a></li>
+<li><a href="/wiki/Valdez%E2%80%93Cordova_Census_Area,_Alaska" title="Valdez–Cordova Census Area, Alaska">Valdez–Cordova</a></li>
+<li><a href="/wiki/Yukon%E2%80%93Koyukuk_Census_Area,_Alaska" title="Yukon–Koyukuk Census Area, Alaska">Yukon–Koyukuk</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="background-color:#BBDDFF;"><div><a class="image" href="/wiki/File:Flag_of_Alaska.svg"><img alt="Flag of Alaska.svg" class="noviewer" data-file-height="1000" data-file-width="1416" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/16px-Flag_of_Alaska.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/24px-Flag_of_Alaska.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/32px-Flag_of_Alaska.svg.png 2x" width="16"/></a> <a href="/wiki/Portal:Alaska" title="Portal:Alaska">Alaska portal</a></div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q829432&amp;#124;Edit_this_at_Wikidata" class="navbox authority-control" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q829432&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q829432" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a class="external text" href="https://viaf.org/viaf/249392948" rel="nofollow">249392948</a></span></span></li>
+<li><span class="nowrap"> <a class="mw-redirect" href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a class="external text" href="https://www.worldcat.org/identities/containsVIAFID/249392948" rel="nofollow">249392948</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1323
+Cached time: 20191214064514
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.500 seconds
+Real time usage: 0.708 seconds
+Preprocessor visited node count: 2862/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 174578/2097152 bytes
+Template argument size: 49801/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6398/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.217/10.000 seconds
+Lua memory usage: 6.24 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  557.355      1 -total
+ 51.25%  285.658      1 Template:Infobox_mountain
+ 45.28%  252.361      1 Template:Infobox
+ 17.65%   98.375      1 Template:Reflist
+ 14.69%   81.893      1 Template:Cite_peakbagger
+ 14.64%   81.621      2 Template:Cite_web
+ 13.08%   72.876      5 Template:Navbox
+  9.21%   51.340      4 Template:Convert
+  7.99%   44.557      1 Template:Coord
+  7.68%   42.829      2 Template:Convinfobox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4653522-0!canonical and timestamp 20191214064513 and revision id 838742640
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mount_Marcus_Baker&amp;oldid=838742640">https://en.wikipedia.org/w/index.php?title=Mount_Marcus_Baker&amp;oldid=838742640</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Mountains_of_Alaska" title="Category:Mountains of Alaska">Mountains of Alaska</a></li><li><a href="/wiki/Category:Mountains_of_Matanuska-Susitna_Borough,_Alaska" title="Category:Mountains of Matanuska-Susitna Borough, Alaska">Mountains of Matanuska-Susitna Borough, Alaska</a></li><li><a href="/wiki/Category:North_American_4000_m_summits" title="Category:North American 4000 m summits">North American 4000 m summits</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mount+Marcus+Baker" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Mount+Marcus+Baker" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Mount_Marcus_Baker" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Mount_Marcus_Baker" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Mount_Marcus_Baker">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Mount_Marcus_Baker&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Mount_Marcus_Baker&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Mount_Marcus_Baker" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Mount_Marcus_Baker" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mount_Marcus_Baker&amp;oldid=838742640" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mount_Marcus_Baker&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q829432" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mount_Marcus_Baker&amp;id=838742640" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Mount_Marcus_Baker" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mount+Marcus+Baker">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mount+Marcus+Baker&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Mount_Marcus_Baker&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Mont_Marcus_Baker" hreflang="ca" lang="ca" title="Mont Marcus Baker – Catalan">Català</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Mount_Marcus_Baker" hreflang="ceb" lang="ceb" title="Mount Marcus Baker – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Mount_Marcus_Baker" hreflang="cs" lang="cs" title="Mount Marcus Baker – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Mount_Marcus_Baker" hreflang="de" lang="de" title="Mount Marcus Baker – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Monte_Marcus_Baker" hreflang="es" lang="es" title="Monte Marcus Baker – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Mont_Marcus_Baker" hreflang="fr" lang="fr" title="Mont Marcus Baker – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Monte_Marcus_Baker" hreflang="it" lang="it" title="Monte Marcus Baker – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%90%E1%83%A0%E1%83%99%E1%83%A3%E1%83%A1-%E1%83%91%E1%83%94%E1%83%98%E1%83%99%E1%83%94%E1%83%A0%E1%83%98" hreflang="ka" lang="ka" title="მარკუს-ბეიკერი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Mlima_Marcus_Baker" hreflang="sw" lang="sw" title="Mlima Marcus Baker – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Mount_Marcus_Baker" hreflang="pl" lang="pl" title="Mount Marcus Baker – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Monte_Marcus_Baker" hreflang="pt" lang="pt" title="Monte Marcus Baker – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D1%83%D1%81-%D0%91%D0%B5%D0%B9%D0%BA%D0%B5%D1%80_(%D0%B3%D0%BE%D1%80%D0%B0)" hreflang="ru" lang="ru" title="Маркус-Бейкер (гора) – Russian">Русский</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D1%83%D1%81-%D0%91%D0%B5%D0%B9%D0%BA%D0%B5%D1%80" hreflang="uk" lang="uk" title="Маркус-Бейкер – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%85%D8%A7%D8%A4%D9%86%D9%B9_%D9%85%D8%A7%D8%B1%DA%A9%D8%B3_%D8%A8%DB%8C%DA%A9%D8%B1" hreflang="ur" lang="ur" title="ماؤنٹ مارکس بیکر – Urdu">اردو</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%BA%AB%E6%96%AF%E8%B2%9D%E5%85%8B%E5%B3%B0" hreflang="zh" lang="zh" title="馬庫斯貝克峰 – Chinese">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q829432#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 April 2018, at 01:12<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Mount_Marcus_Baker&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.500","walltime":"0.708","ppvisitednodes":{"value":2862,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":174578,"limit":2097152},"templateargumentsize":{"value":49801,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6398,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  557.355      1 -total"," 51.25%  285.658      1 Template:Infobox_mountain"," 45.28%  252.361      1 Template:Infobox"," 17.65%   98.375      1 Template:Reflist"," 14.69%   81.893      1 Template:Cite_peakbagger"," 14.64%   81.621      2 Template:Cite_web"," 13.08%   72.876      5 Template:Navbox","  9.21%   51.340      4 Template:Convert","  7.99%   44.557      1 Template:Coord","  7.68%   42.829      2 Template:Convinfobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.217","limit":"10.000"},"limitreport-memusage":{"value":6539192,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1323","timestamp":"20191214064514","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Mount Marcus Baker","url":"https:\/\/en.wikipedia.org\/wiki\/Mount_Marcus_Baker","sameAs":"http:\/\/www.wikidata.org\/entity\/Q829432","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q829432","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-04-06T21:53:10Z","dateModified":"2018-04-29T01:12:23Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c4\/Mt_Marcus_Baker.jpg","headline":"mountain"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":150,"wgHostname":"mw1266"});});</script>
+
+
+</body></html>

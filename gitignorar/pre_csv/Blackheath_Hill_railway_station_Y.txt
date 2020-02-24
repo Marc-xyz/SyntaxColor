@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Blackheath Hill railway station - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xft-jgpAME0AADBRzt4AAABH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Blackheath_Hill_railway_station","wgTitle":"Blackheath Hill railway station","wgCurRevisionId":792647296,"wgRevisionId":792647296,"wgArticleId":15634429,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from February 2017","Use British English from February 2017","Articles with OS grid coordinates","Coordinates on Wikidata","All stub articles",
+"Disused railway stations in the Royal Borough of Greenwich","Railway stations opened in 1871","Railway stations closed in 1917","Former London, Chatham and Dover Railway stations","London railway station stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Blackheath_Hill_railway_station","wgRelevantArticleId":15634429,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":51.47244,"lon":-0.01445},"wgWikibaseItemId":"Q4922995",
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons",
+"ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Blackheath_Hill_railway_station" rel="alternate"/>
+<link href="/w/index.php?title=Blackheath_Hill_railway_station&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Blackheath_Hill_railway_station&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Blackheath_Hill_railway_station" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Blackheath_Hill_railway_station rootpage-Blackheath_Hill_railway_station skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Blackheath Hill railway station</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Blackheath Hill</th></tr><tr><th scope="row" style="white-space: nowrap">Location</th><td class="label"><a href="/wiki/Greenwich" title="Greenwich">Greenwich</a></td></tr><tr><th scope="row" style="white-space: nowrap"><a href="/wiki/Ordnance_Survey_National_Grid" title="Ordnance Survey National Grid">Grid reference</a></th><td><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/51.472441630841;-0.014451168459559_region:GB_scale:25000?pagename=Blackheath_Hill_railway_station">TQ380767</a></span></td></tr><tr><th scope="row" style="white-space: nowrap">Owner</th><td><a href="/wiki/London,_Chatham_and_Dover_Railway" title="London, Chatham and Dover Railway">London, Chatham and Dover Railway</a></td></tr><tr><th scope="row" style="white-space: nowrap">Number of platforms</th><td>2</td></tr><tr><th colspan="2" style="text-align:center;background: #eee">Key dates</th></tr><tr><th scope="row" style="white-space: nowrap">18 September 1871<span style="display:none"> (<span class="bday dtstart published updated">1871-09-18</span>)</span></th><td>Opened</td></tr><tr><th scope="row" style="white-space: nowrap">1 January 1917<span style="display:none"> (<span class="dtend">1917-01-01</span>)</span></th><td>Closed</td></tr><tr><th colspan="2" style="text-align:center;background: #eee">Other information</th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Underground_sign_at_Westminster.jpg"><img alt="Underground sign at Westminster.jpg" class="noviewer" data-file-height="750" data-file-width="820" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Underground_sign_at_Westminster.jpg/16px-Underground_sign_at_Westminster.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Underground_sign_at_Westminster.jpg/24px-Underground_sign_at_Westminster.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Underground_sign_at_Westminster.jpg/32px-Underground_sign_at_Westminster.jpg 2x" width="16"/></a> <a href="/wiki/Portal:London_transport" title="Portal:London transport">London transport portal</a></td></tr></tbody></table>
+<p><b>Blackheath Hill</b> was a railway station between the <a href="/wiki/Greenwich" title="Greenwich">Greenwich</a> and <a href="/wiki/Lewisham" title="Lewisham">Lewisham</a> areas in south-east London. It was opened in 1871 by the <a href="/wiki/London,_Chatham_and_Dover_Railway" title="London, Chatham and Dover Railway">London, Chatham and Dover Railway</a> (LCDR) on its <a class="mw-redirect" href="/wiki/Greenwich_Park_Branch_Line" title="Greenwich Park Branch Line">Greenwich Park Branch Line</a>. Blackheath Hill was at the end of the line until an extension to <a href="/wiki/Greenwich_Park_railway_station" title="Greenwich Park railway station">Greenwich Park</a> opened in 1888.
+</p><p>The station closed in 1917 along with the rest of the line, owing to low usage and economy measures during <a href="/wiki/World_War_I" title="World War I">World War I</a>. The station building beside the <a href="/wiki/A2_road_(England)" title="A2 road (England)">A2 road</a> was demolished in the mid-1980s, and the site has since been entirely built over. Whilst the building work was being undertaken the retaining wall and tunnel under the A2 were visible.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blackheath_Hill_railway_station&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.subbrit.org.uk/sb-sites/stations/b/blackheath_hill/index.shtml" rel="nofollow">Subterranea Britannica: SB-Sites:Blackheath Hill Station</a></span>
+</li>
+</ol></div></div>
+<table class="wikitable" style="margin:0.5em auto; font-size:95%; border-top: 0px none;">
+
+
+<tbody><tr>
+<th style="vertical-align: middle; width: 30%; border: 1px solid #aaa; border-left: none; border-bottom: none; white-space:nowrap;">Preceding station
+</th>
+<th style="border: none; border-top: 1px solid #aaa;"> 
+</th>
+<th style="vertical-align: middle; border: none; border-top: 1px solid #aaa;">Disused railways
+</th>
+<th style="border: none; border-top: 1px solid #aaa;"> 
+</th>
+<th style="vertical-align: middle; width: 30%; border: 1px solid #aaa; border-right: none; border-bottom: none; white-space:nowrap;">Following station
+</th></tr>
+
+<tr>
+<td rowspan="1" style="text-align:center; border-left: 0px none; border-right: 1px #aaa solid; border-top: 1px #aaa solid; border-bottom:0px none;"><a href="/wiki/Lewisham_Road_railway_station" title="Lewisham Road railway station">Lewisham Road</a>
+</td>
+<td style="background:#FECB09; border-left: 0px none; border-right: 0px none; border-top:1px #aaa solid; border-bottom:0px none;"> 
+</td>
+<td rowspan="1" style="text-align: center; border-left: 1px #aaa solid; border-right: 1px #aaa solid; border-top:solid 1px #aaa; border-bottom:0px none;"><a href="/wiki/London,_Chatham_and_Dover_Railway" title="London, Chatham and Dover Railway">London, Chatham<br/>&amp; Dover Railway</a><br/><small><a class="mw-redirect" href="/wiki/Greenwich_Park_Branch_Line" title="Greenwich Park Branch Line">Greenwich Park Branch Line</a></small>
+</td>
+<td style="background:#FECB09; border-left: 0px none; border-right: 0px none; border-top:1px #aaa solid; border-bottom:0px none;"> 
+</td>
+<td rowspan="1" style="text-align:center; border-left: 1px #aaa solid; border-right: 0px none; border-top: 1px #aaa solid; border-bottom:0px none;"><a href="/wiki/Greenwich_Park_railway_station" title="Greenwich Park railway station">Greenwich Park</a>
+</td></tr></tbody></table>
+<div aria-labelledby="Disused_railway_stations_of_London" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Disused_railway_stations_of_London" title="Template:Disused railway stations of London"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Disused_railway_stations_of_London" title="Template talk:Disused railway stations of London"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Disused_railway_stations_of_London&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Disused_railway_stations_of_London" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_closed_railway_stations_in_London" title="List of closed railway stations in London">Disused railway stations of London</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Addiscombe_railway_station" title="Addiscombe railway station">Addiscombe</a></li>
+<li><a href="/wiki/Alexandra_Palace_railway_station_(1873%E2%80%931954)" title="Alexandra Palace railway station (1873–1954)">Alexandra Palace</a></li>
+<li><a href="/wiki/Angel_Road_railway_station" title="Angel Road railway station">Angel Road</a></li>
+<li><a href="/wiki/Bandon_Halt_railway_station" title="Bandon Halt railway station">Bandon Halt</a></li>
+<li><a href="/wiki/Hammersmith_%26_Chiswick_railway_station#Other_stations_on_the_branch" title="Hammersmith &amp; Chiswick railway station">Bath Road Halt</a></li>
+<li><a href="/wiki/Battersea_railway_station" title="Battersea railway station">Battersea</a></li>
+<li><a href="/wiki/Battersea_Park_railway_station_(1860-1870)" title="Battersea Park railway station (1860-1870)">Battersea Park</a></li>
+<li><a href="/wiki/Battersea_Park_Road_railway_station" title="Battersea Park Road railway station">Battersea Park Road</a></li>
+<li><a href="/wiki/Beckton_railway_station" title="Beckton railway station">Beckton</a></li>
+<li><a href="/wiki/Beddington_Lane_railway_station" title="Beddington Lane railway station">Beddington Lane</a></li>
+<li><a href="/wiki/Belmont_railway_station_(Harrow)" title="Belmont railway station (Harrow)">Belmont</a></li>
+<li><a class="mw-redirect" href="/wiki/Bingham_Road_Halt_railway_station" title="Bingham Road Halt railway station">Bingham Road</a></li>
+<li><a href="/wiki/Bishopsgate_railway_station" title="Bishopsgate railway station">Bishopsgate</a></li>
+<li><a href="/wiki/Bishopsgate_(Low_Level)_railway_station" title="Bishopsgate (Low Level) railway station">Bishopsgate (Low Level)</a></li>
+<li><a class="mw-redirect" href="/wiki/Blackfriars_Bridge_railway_station" title="Blackfriars Bridge railway station">Blackfriars Bridge</a></li>
+<li><a href="/wiki/Blackfriars_Road_railway_station" title="Blackfriars Road railway station">Blackfriars Road</a></li>
+<li><a class="mw-selflink selflink">Blackheath Hill</a></li>
+<li><a href="/wiki/Blackwall_railway_station" title="Blackwall railway station">Blackwall</a></li>
+<li><a href="/wiki/Borough_Road_railway_station" title="Borough Road railway station">Borough Road</a></li>
+<li><a href="/wiki/Bow_railway_station" title="Bow railway station">Bow</a></li>
+<li><a href="/wiki/Bow_Road_railway_station" title="Bow Road railway station">Bow Road</a></li>
+<li><a class="mw-redirect" href="/wiki/Brentford_railway_station_(1860-1942)" title="Brentford railway station (1860-1942)">Brentford</a></li>
+<li><a href="/wiki/Brentham_for_North_Ealing_and_Greystoke_Park_railway_station" title="Brentham for North Ealing and Greystoke Park railway station">Brentham for North Ealing and Greystoke Park</a></li>
+<li><a href="/wiki/Bricklayers_Arms_railway_station" title="Bricklayers Arms railway station">Bricklayers Arms</a></li>
+<li><a class="mw-redirect" href="/wiki/Broad_Street_railway_station_(London)" title="Broad Street railway station (London)">Broad Street</a></li>
+<li><a href="/wiki/Brockley_Lane_railway_station" title="Brockley Lane railway station">Brockley Lane</a></li>
+<li><a href="/wiki/Burdett_Road_railway_station" title="Burdett Road railway station">Burdett Road</a></li>
+<li><a href="/wiki/Camberwell_railway_station_(England)" title="Camberwell railway station (England)">Camberwell</a></li>
+<li><a class="mw-redirect" href="/wiki/Camden_Road_(Midland)_railway_station" title="Camden Road (Midland) railway station">Camden Road (Midland)</a></li>
+<li><a href="/wiki/Cannon_Street_Road_railway_station" title="Cannon Street Road railway station">Cannon Street Road</a></li>
+<li><a class="mw-redirect" href="/wiki/Carterhatch_Lane_Halt_railway_station" title="Carterhatch Lane Halt railway station">Carterhatch Lane Halt</a></li>
+<li><a href="/wiki/Central_railway_station_(London)" title="Central railway station (London)">Central</a></li>
+<li><a href="/wiki/Central_Croydon_railway_station" title="Central Croydon railway station">Central Croydon</a></li>
+<li><a href="/wiki/Chelsea_%26_Fulham_railway_station" title="Chelsea &amp; Fulham railway station">Chelsea &amp; Fulham</a></li>
+<li><a href="/wiki/Church_Manor_Way_Halt_railway_station" title="Church Manor Way Halt railway station">Church Manor Way Halt</a></li>
+<li><a href="/wiki/Clapham_Common_railway_station" title="Clapham Common railway station">Clapham Common</a></li>
+<li><a href="/wiki/Coborn_Road_railway_station" title="Coborn Road railway station">Coborn Road</a></li>
+<li><a href="/wiki/Commercial_Dock_railway_station" title="Commercial Dock railway station">Commercial Dock</a></li>
+<li><a href="/wiki/Connaught_Road_railway_station" title="Connaught Road railway station">Connaught Road</a></li>
+<li><a href="/wiki/Coombe_Road_railway_station" title="Coombe Road railway station">Coombe Road</a></li>
+<li><a href="/wiki/Coulsdon_North_railway_station" title="Coulsdon North railway station">Coulsdon North</a></li>
+<li><a href="/wiki/Cowley_railway_station" title="Cowley railway station">Cowley</a></li>
+<li><a href="/wiki/Cranley_Gardens_railway_station" title="Cranley Gardens railway station">Cranley Gardens</a></li>
+<li><a href="/wiki/Crouch_End_railway_station" title="Crouch End railway station">Crouch End</a></li>
+<li><a href="/wiki/Crowlands_railway_station" title="Crowlands railway station">Crowlands</a></li>
+<li><a href="/wiki/Crystal_Palace_(High_Level)_railway_station" title="Crystal Palace (High Level) railway station">Crystal Palace (High Level)</a></li>
+<li><a href="/wiki/Devonshire_Street_railway_station" title="Devonshire Street railway station">Devonshire Street</a></li>
+<li><a href="/wiki/Dudding_Hill_railway_station" title="Dudding Hill railway station">Dudding Hill</a></li>
+<li><a href="/wiki/East_Brixton_railway_station" title="East Brixton railway station">East Brixton</a></li>
+<li><a href="/wiki/Edgware_railway_station" title="Edgware railway station">Edgware</a></li>
+<li><a href="/wiki/Eltham_railway_station" title="Eltham railway station">Eltham Park</a></li>
+<li><a href="/wiki/Eltham_railway_station" title="Eltham railway station">Eltham Well Hall</a></li>
+<li><a class="mw-redirect" href="/wiki/Enfield_(London)_railway_station" title="Enfield (London) railway station">Enfield</a></li>
+<li><a href="/wiki/Finchley_Road_railway_station" title="Finchley Road railway station">Finchley Road</a></li>
+<li><a href="/wiki/Gallions_railway_station" title="Gallions railway station">Gallions</a></li>
+<li><a class="mw-redirect" href="/wiki/Globe_Road_and_Devonshire_Street_railway_station" title="Globe Road and Devonshire Street railway station">Globe Road &amp; Devonshire Street</a></li>
+<li><a href="/wiki/Greenwich_Park_railway_station" title="Greenwich Park railway station">Greenwich Park</a></li>
+<li><a href="/wiki/Grosvenor_Road_railway_station" title="Grosvenor Road railway station">Grosvenor Road</a></li>
+<li><a href="/wiki/Haggerston_railway_station" title="Haggerston railway station">Haggerston</a></li>
+<li><a href="/wiki/Hammersmith_%26_Chiswick_railway_station" title="Hammersmith &amp; Chiswick railway station">Hammersmith &amp; Chiswick</a></li>
+<li><a href="/wiki/Hammersmith_(Grove_Road)_railway_station" title="Hammersmith (Grove Road) railway station">Hammersmith (Grove Road)</a></li>
+<li><a class="mw-redirect" href="/wiki/Harlesden_(Midland)_railway_station" title="Harlesden (Midland) railway station">Harlesden</a></li>
+<li><a href="/wiki/Haverstock_Hill_railway_station" title="Haverstock Hill railway station">Haverstock Hill</a></li>
+<li><a href="/wiki/Heathrow_Junction_railway_station" title="Heathrow Junction railway station">Heathrow Junction</a></li>
+<li><a href="/wiki/Highgate_tube_station" title="Highgate tube station">Highgate</a></li>
+<li><a href="/wiki/Highgate_Road_railway_stations" title="Highgate Road railway stations">Highgate Road</a></li>
+<li><a href="/wiki/Holborn_Viaduct_railway_station" title="Holborn Viaduct railway station">Holborn Viaduct</a></li>
+<li><a href="/wiki/Holloway_and_Caledonian_Road_railway_station" title="Holloway and Caledonian Road railway station">Holloway &amp; Caledonian Road</a></li>
+<li><a href="/wiki/Honor_Oak_railway_station" title="Honor Oak railway station">Honor Oak</a></li>
+<li><a href="/wiki/Hornsey_Road_railway_station" title="Hornsey Road railway station">Hornsey Road</a></li>
+<li><a href="/wiki/Junction_Road_railway_station" title="Junction Road railway station">Junction Road</a></li>
+<li><a href="/wiki/Kensal_Green_and_Harlesden_railway_station" title="Kensal Green and Harlesden railway station">Kensal Green &amp; Harlesden</a></li>
+<li><a class="mw-redirect" href="/wiki/Kew_railway_station_(London)" title="Kew railway station (London)">Kew</a></li>
+<li><a href="/wiki/King%27s_Cross_Thameslink_railway_station" title="King's Cross Thameslink railway station">King's Cross Thameslink</a></li>
+<li><a href="/wiki/Leman_Street_railway_station" title="Leman Street railway station">Leman Street</a></li>
+<li><a href="/wiki/Lewisham_Road_railway_station" title="Lewisham Road railway station">Lewisham Road</a></li>
+<li><a href="/wiki/Limehouse_railway_station_(1840-1926)" title="Limehouse railway station (1840-1926)">Limehouse</a></li>
+<li><a href="/wiki/Lordship_Lane_railway_station" title="Lordship Lane railway station">Lordship Lane</a></li>
+<li><a href="/wiki/Lower_Edmonton_(low_level)_railway_station" title="Lower Edmonton (low level) railway station">Lower Edmonton (Low Level)</a></li>
+<li><a href="/wiki/Ludgate_Hill_railway_station" title="Ludgate Hill railway station">Ludgate Hill</a></li>
+<li><a href="/wiki/Maiden_Lane_railway_stations" title="Maiden Lane railway stations">Maiden Lane</a></li>
+<li><a href="/wiki/Manor_Way_railway_station" title="Manor Way railway station">Manor Way</a></li>
+<li><a href="/wiki/Merton_Abbey_railway_station" title="Merton Abbey railway station">Merton Abbey</a></li>
+<li><a href="/wiki/Merton_Park_railway_station" title="Merton Park railway station">Merton Park</a></li>
+<li><a href="/wiki/Mildmay_Park_railway_station" title="Mildmay Park railway station">Mildmay Park</a></li>
+<li><a href="/wiki/Mile_End_railway_station_(London)" title="Mile End railway station (London)">Mile End</a></li>
+<li><a href="/wiki/Mill_Hill_(The_Hale)_railway_station" title="Mill Hill (The Hale) railway station">Mill Hill (The Hale)</a></li>
+<li><a href="/wiki/Millwall_Docks_railway_station" title="Millwall Docks railway station">Millwall Docks</a></li>
+<li><a href="/wiki/Millwall_Junction_railway_station" title="Millwall Junction railway station">Millwall Junction</a></li>
+<li><a href="/wiki/Minories_railway_station" title="Minories railway station">Minories</a></li>
+<li><a class="mw-redirect" href="/wiki/Mitcham_railway_station,_London" title="Mitcham railway station, London">Mitcham</a></li>
+<li><a href="/wiki/Morden_Road_railway_station" title="Morden Road railway station">Morden Road</a></li>
+<li><a href="/wiki/Muswell_Hill_railway_station" title="Muswell Hill railway station">Muswell Hill</a></li>
+<li><a href="/wiki/London_Necropolis_railway_station" title="London Necropolis railway station">Necropolis</a></li>
+<li><a href="/wiki/New_Wandsworth_railway_station" title="New Wandsworth railway station">New Wandsworth</a></li>
+<li><a href="/wiki/Nine_Elms_railway_station" title="Nine Elms railway station">Nine Elms</a></li>
+<li><a href="/wiki/Noel_Park_and_Wood_Green_railway_station" title="Noel Park and Wood Green railway station">Noel Park &amp; Wood Green</a></li>
+<li><a class="mw-redirect" href="/wiki/North_Acton_railway_station" title="North Acton railway station">North Acton</a></li>
+<li><a href="/wiki/North_Greenwich_railway_station" title="North Greenwich railway station">North Greenwich</a></li>
+<li><a href="/wiki/North_Woolwich_railway_station" title="North Woolwich railway station">North Woolwich</a></li>
+<li><a href="/wiki/Old_Ford_railway_station" title="Old Ford railway station">Old Ford</a></li>
+<li><a href="/wiki/Old_Kent_Road_railway_station" title="Old Kent Road railway station">Old Kent Road</a></li>
+<li><a href="/wiki/Old_Oak_Lane_Halt_railway_station" title="Old Oak Lane Halt railway station">Old Oak Lane Halt</a></li>
+<li><a href="/wiki/Palace_Gates_railway_station" title="Palace Gates railway station">Palace Gates</a></li>
+<li><a href="/wiki/Park_Royal_railway_station" title="Park Royal railway station">Park Royal</a></li>
+<li><a href="/wiki/Park_Royal_West_Halt_railway_station" title="Park Royal West Halt railway station">Park Royal West Halt</a></li>
+<li><a href="/wiki/Perivale_Halt_railway_station" title="Perivale Halt railway station">Perivale Halt</a></li>
+<li><a href="/wiki/Poplar_railway_station" title="Poplar railway station">Poplar</a></li>
+<li><a href="/wiki/Poplar_(East_India_Road)_railway_station" title="Poplar (East India Road) railway station">Poplar (East India Road)</a></li>
+<li><a href="/wiki/Primrose_Hill_railway_station" title="Primrose Hill railway station">Primrose Hill</a></li>
+<li><a class="new" href="/w/index.php?title=Royal_Showground_railway_station&amp;action=edit&amp;redlink=1" title="Royal Showground railway station (page does not exist)">Royal Showground</a></li>
+<li><a href="/wiki/Hammersmith_%26_Chiswick_railway_station#Other_stations_on_the_branch" title="Hammersmith &amp; Chiswick railway station">Rugby Road Halt</a></li>
+<li><a href="/wiki/Selsdon_railway_station" title="Selsdon railway station">Selsdon</a></li>
+<li><a href="/wiki/Shadwell_%26_St._George%27s_East_railway_station" title="Shadwell &amp; St. George's East railway station">Shadwell &amp; St. George's East</a></li>
+<li><a href="/wiki/Shepherd%27s_Bush_railway_station_(1869-1916)" title="Shepherd's Bush railway station (1869-1916)">Shepherd's Bush</a></li>
+<li><a href="/wiki/Shern_Hall_Street_railway_station" title="Shern Hall Street railway station">Shern Hall Street</a></li>
+<li><a href="/wiki/Shoreditch_railway_station" title="Shoreditch railway station">Shoreditch</a></li>
+<li><a href="/wiki/Silvertown_railway_station" title="Silvertown railway station">Silvertown</a></li>
+<li><a href="/wiki/South_Bromley_railway_station" title="South Bromley railway station">South Bromley</a></li>
+<li><a href="/wiki/South_Dock_railway_station" title="South Dock railway station">South Dock</a></li>
+<li><a href="/wiki/Harefield_Road_tube_station" title="Harefield Road tube station">South Harefield Halt</a></li>
+<li><a href="/wiki/Southwark_Park_railway_station" title="Southwark Park railway station">Southwark Park</a></li>
+<li><a href="/wiki/Spa_Road_railway_station" title="Spa Road railway station">Spa Road</a></li>
+<li><a href="/wiki/Spencer_Road_Halt_railway_station" title="Spencer Road Halt railway station">Spencer Road Halt</a></li>
+<li><a href="/wiki/St_Ann%27s_Road_railway_station" title="St Ann's Road railway station">St. Ann's Road</a></li>
+<li><a class="mw-redirect" href="/wiki/St._Quintin_Park_and_Wormwood_Scrubs_railway_station" title="St. Quintin Park and Wormwood Scrubs railway station">St. Quintin Park &amp; Wormwood Scrubs</a></li>
+<li><a href="/wiki/Stanmore_Village_railway_station" title="Stanmore Village railway station">Stanmore Village</a></li>
+<li><a class="mw-redirect" href="/wiki/Stewarts_Lane_railway_station" title="Stewarts Lane railway station">Stewarts Lane</a></li>
+<li><a href="/wiki/Stratford_High_Street_DLR_station" title="Stratford High Street DLR station">Stratford Market</a></li>
+<li><a href="/wiki/Stroud_Green_railway_station" title="Stroud Green railway station">Stroud Green</a></li>
+<li><a href="/wiki/Tidal_Basin_railway_station" title="Tidal Basin railway station">Tidal Basin</a></li>
+<li><a href="/wiki/Tooting_Junction_railway_station_(1868-1894)" title="Tooting Junction railway station (1868-1894)">Tooting Junction</a></li>
+<li><a href="/wiki/Trumpers_Crossing_Halte_railway_station" title="Trumpers Crossing Halte railway station">Trumpers Crossing Halte</a></li>
+<li><a href="/wiki/Twyford_Abbey_Halt_railway_station" title="Twyford Abbey Halt railway station">Twyford Abbey Halt</a></li>
+<li><a href="/wiki/Upper_Sydenham_railway_station" title="Upper Sydenham railway station">Upper Sydenham</a></li>
+<li><a href="/wiki/Uxbridge_High_Street_railway_station" title="Uxbridge High Street railway station">Uxbridge High Street</a></li>
+<li><a href="/wiki/Uxbridge_Road_tube_station" title="Uxbridge Road tube station">Uxbridge Road</a></li>
+<li><a href="/wiki/Uxbridge_Vine_Street_railway_station" title="Uxbridge Vine Street railway station">Uxbridge Vine Street</a></li>
+<li><a class="mw-redirect" href="/wiki/Victoria_Park_railway_station_(London)" title="Victoria Park railway station (London)">Victoria Park</a></li>
+<li><a href="/wiki/Victoria_Park_%26_Bow_railway_station" title="Victoria Park &amp; Bow railway station">Victoria Park &amp; Bow</a></li>
+<li><a href="/wiki/Waddon_Marsh_railway_station" title="Waddon Marsh railway station">Waddon Marsh</a></li>
+<li><a href="/wiki/Walworth_Road_railway_station" title="Walworth Road railway station">Walworth Road</a></li>
+<li><a href="/wiki/Welsh_Harp_railway_station" title="Welsh Harp railway station">Welsh Harp</a></li>
+<li><a href="/wiki/Wembley_Exhibition_railway_station" title="Wembley Exhibition railway station">Wembley Stadium</a></li>
+<li><a href="/wiki/West_Green_railway_station" title="West Green railway station">West Green</a></li>
+<li><a href="/wiki/West_India_Docks_railway_station" title="West India Docks railway station">West India Docks</a></li>
+<li><a href="/wiki/Willesden_railway_station" title="Willesden railway station">Willesden</a></li>
+<li><a class="mw-redirect" href="/wiki/Woodside_(London)_railway_station" title="Woodside (London) railway station">Woodside</a></li>
+<li><a href="/wiki/Hammersmith_%26_Chiswick_railway_station#Other_stations_on_the_branch" title="Hammersmith &amp; Chiswick railway station">Woodstock Road Halt</a></li>
+<li class="mw-empty-elt"></li></ul>
+</div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Broad_street_station_1865.png"><img alt="Broad street station 1865.png" data-file-height="337" data-file-width="500" decoding="async" height="101" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Broad_street_station_1865.png/150px-Broad_street_station_1865.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Broad_street_station_1865.png/225px-Broad_street_station_1865.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Broad_street_station_1865.png/300px-Broad_street_station_1865.png 2x" width="150"/></a><br/><a class="mw-redirect" href="/wiki/Broad_Street_railway_station_(London)" title="Broad Street railway station (London)">Broad Street (1865–1986)</a></div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div><a class="image" href="/wiki/File:Underground_sign_at_Westminster.jpg"><img alt="Underground sign at Westminster.jpg" class="noviewer" data-file-height="750" data-file-width="820" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Underground_sign_at_Westminster.jpg/31px-Underground_sign_at_Westminster.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Underground_sign_at_Westminster.jpg/46px-Underground_sign_at_Westminster.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Underground_sign_at_Westminster.jpg/61px-Underground_sign_at_Westminster.jpg 2x" width="31"/></a> <a href="/wiki/Portal:London_transport" title="Portal:London transport">London transport portal</a></div></td></tr></tbody></table></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Blackheath_Hill_railway_station&amp;params=51.47244_N_0.01445_W_type:railwaystation_region:GB_source:subbrit.org.uk-enwiki"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°28′21″N</span> <span class="longitude">0°00′52″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.47244°N 0.01445°W</span><span style="display:none">﻿ / <span class="geo">51.47244; -0.01445</span></span></span></a></span></span></span>
+</p><p><br/>
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a class="image" href="/wiki/File:Overground_roundel_(no_text).svg"><img alt="Stub icon" data-file-height="520" data-file-width="640" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Overground_roundel_%28no_text%29.svg/30px-Overground_roundel_%28no_text%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Overground_roundel_%28no_text%29.svg/45px-Overground_roundel_%28no_text%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Overground_roundel_%28no_text%29.svg/60px-Overground_roundel_%28no_text%29.svg.png 2x" width="30"/></a></td><td><i>This London railway station–related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Blackheath_Hill_railway_station&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:London-railstation-stub" title="Template:London-railstation-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:London-railstation-stub" title="Template talk:London-railstation-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:London-railstation-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20191214180442
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.360 seconds
+Real time usage: 0.489 seconds
+Preprocessor visited node count: 2959/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46447/2097152 bytes
+Template argument size: 1865/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 468/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.065/10.000 seconds
+Lua memory usage: 2.28 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  413.545      1 -total
+ 58.60%  242.337      1 Template:Infobox_London_station
+ 47.68%  197.165      1 Template:Infobox
+ 15.18%   62.768      5 Template:Rail-interchange
+ 11.51%   47.617      1 Template:Use_dmy_dates
+  7.18%   29.689      1 Template:Coord
+  5.92%   24.467      1 Template:Disused_Rail_Start
+  4.91%   20.289      2 Template:DMCA
+  4.57%   18.882      1 Template:Gbmapscaled
+  4.24%   17.516      2 Template:Portal-inline
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15634429-0!canonical and timestamp 20191214180441 and revision id 792647296
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Blackheath_Hill_railway_station&amp;oldid=792647296">https://en.wikipedia.org/w/index.php?title=Blackheath_Hill_railway_station&amp;oldid=792647296</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Disused_railway_stations_in_the_Royal_Borough_of_Greenwich" title="Category:Disused railway stations in the Royal Borough of Greenwich">Disused railway stations in the Royal Borough of Greenwich</a></li><li><a href="/wiki/Category:Railway_stations_opened_in_1871" title="Category:Railway stations opened in 1871">Railway stations opened in 1871</a></li><li><a href="/wiki/Category:Railway_stations_closed_in_1917" title="Category:Railway stations closed in 1917">Railway stations closed in 1917</a></li><li><a href="/wiki/Category:Former_London,_Chatham_and_Dover_Railway_stations" title="Category:Former London, Chatham and Dover Railway stations">Former London, Chatham and Dover Railway stations</a></li><li><a href="/wiki/Category:London_railway_station_stubs" title="Category:London railway station stubs">London railway station stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_February_2017" title="Category:Use dmy dates from February 2017">Use dmy dates from February 2017</a></li><li><a href="/wiki/Category:Use_British_English_from_February_2017" title="Category:Use British English from February 2017">Use British English from February 2017</a></li><li><a href="/wiki/Category:Articles_with_OS_grid_coordinates" title="Category:Articles with OS grid coordinates">Articles with OS grid coordinates</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Blackheath+Hill+railway+station" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Blackheath+Hill+railway+station" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Blackheath_Hill_railway_station" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Blackheath_Hill_railway_station" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Blackheath_Hill_railway_station">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Blackheath_Hill_railway_station&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Blackheath_Hill_railway_station&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Blackheath_Hill_railway_station" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Blackheath_Hill_railway_station" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Blackheath_Hill_railway_station&amp;oldid=792647296" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Blackheath_Hill_railway_station&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4922995" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Blackheath_Hill_railway_station&amp;id=792647296" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Blackheath+Hill+railway+station">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Blackheath+Hill+railway+station&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Blackheath_Hill_railway_station&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4922995#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 July 2017, at 19:29<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Blackheath_Hill_railway_station&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.360","walltime":"0.489","ppvisitednodes":{"value":2959,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":46447,"limit":2097152},"templateargumentsize":{"value":1865,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":468,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  413.545      1 -total"," 58.60%  242.337      1 Template:Infobox_London_station"," 47.68%  197.165      1 Template:Infobox"," 15.18%   62.768      5 Template:Rail-interchange"," 11.51%   47.617      1 Template:Use_dmy_dates","  7.18%   29.689      1 Template:Coord","  5.92%   24.467      1 Template:Disused_Rail_Start","  4.91%   20.289      2 Template:DMCA","  4.57%   18.882      1 Template:Gbmapscaled","  4.24%   17.516      2 Template:Portal-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.065","limit":"10.000"},"limitreport-memusage":{"value":2389072,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\ntable#1 {\n}\n"},"cachereport":{"origin":"mw1270","timestamp":"20191214180442","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Blackheath Hill railway station","url":"https:\/\/en.wikipedia.org\/wiki\/Blackheath_Hill_railway_station","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4922995","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4922995","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-02-07T03:50:28Z","dateModified":"2017-07-27T19:29:57Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1242"});});</script>
+
+
+</body></html>

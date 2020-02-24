@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>The Jilt - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfuANQpAME0AACW0LrIAAAAH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"The_Jilt","wgTitle":"The Jilt","wgCurRevisionId":920360553,"wgRevisionId":920360553,"wgArticleId":60640247,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All stub articles","1922 films","1920s drama films","English-language films","American films","American silent feature films","American drama films","Films directed by Irving Cummings",
+"American black-and-white films","Universal Pictures films","Silent film stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"The_Jilt","wgRelevantArticleId":60640247,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q65066643","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":
+"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Jilt_%281922%29_-_Ad_2.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Jilt" rel="alternate"/>
+<link href="/w/index.php?title=The_Jilt&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=The_Jilt&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/The_Jilt" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-The_Jilt rootpage-The_Jilt skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en"><i>The Jilt</i></h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">1922 film</div>
+<table class="infobox vevent" style="width:22em;font-size:90%;"><tbody><tr><th class="summary" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:110%;font-style:italic;">The Jilt</th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:The_Jilt_(1922)_-_Ad_2.jpg"><img alt="The Jilt (1922) - Ad 2.jpg" class="thumbborder" data-file-height="849" data-file-width="675" decoding="async" height="277" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Jilt_%281922%29_-_Ad_2.jpg/220px-The_Jilt_%281922%29_-_Ad_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Jilt_%281922%29_-_Ad_2.jpg/330px-The_Jilt_%281922%29_-_Ad_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Jilt_%281922%29_-_Ad_2.jpg/440px-The_Jilt_%281922%29_-_Ad_2.jpg 2x" width="220"/></a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Directed by</th><td><a href="/wiki/Irving_Cummings" title="Irving Cummings">Irving Cummings</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Produced by</th><td><a href="/wiki/Carl_Laemmle" title="Carl Laemmle">Carl Laemmle </a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Written by</th><td><a href="/wiki/Arthur_F._Statter" title="Arthur F. Statter">Arthur F. Statter </a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Starring</th><td><a href="/wiki/Marguerite_De_La_Motte" title="Marguerite De La Motte">Marguerite De La Motte</a> <br/> <a href="/wiki/Ralph_Graves" title="Ralph Graves">Ralph Graves</a> <br/> <a href="/wiki/Matt_Moore_(actor)" title="Matt Moore (actor)">Matt Moore</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Cinematography</th><td><a href="/wiki/William_Marshall_(cinematographer)" title="William Marshall (cinematographer)">William Marshall</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><div style="padding:0.1em 0;line-height:1.2em;">Production<br/>company </div></th><td><div style="vertical-align:middle;">Universal Pictures  </div></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Distributed by</th><td><a href="/wiki/Universal_Pictures" title="Universal Pictures">Universal Pictures</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><div style="padding:0.1em 0;line-height:1.2em;white-space:normal;">Release date</div></th><td>November 13, 1922</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><div style="padding:0.1em 0;line-height:1.2em;white-space:normal;">Running time</div></th><td>50 minutes</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Country</th><td>United States</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Language</th><td>Silent <br/> English intertitles</td></tr></tbody></table>
+<p><i><b>The Jilt</b></i> is a 1922 American <a href="/wiki/Silent_film" title="Silent film">silent</a> <a class="mw-redirect" href="/wiki/Drama_film" title="Drama film">drama film</a> directed by <a href="/wiki/Irving_Cummings" title="Irving Cummings">Irving Cummings</a> and starring <a href="/wiki/Marguerite_De_La_Motte" title="Marguerite De La Motte">Marguerite De La Motte</a>, <a href="/wiki/Ralph_Graves" title="Ralph Graves">Ralph Graves</a> and <a href="/wiki/Matt_Moore_(actor)" title="Matt Moore (actor)">Matt Moore</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Cast"><span class="tocnumber">1</span> <span class="toctext">Cast</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Bibliography"><span class="tocnumber">3</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Cast">Cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Jilt&amp;action=edit&amp;section=1" title="Edit section: Cast">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Marguerite_De_La_Motte" title="Marguerite De La Motte">Marguerite De La Motte</a> as Rose Trenton</li>
+<li><a href="/wiki/Ralph_Graves" title="Ralph Graves">Ralph Graves</a> as Sandy Sanderson</li>
+<li><a href="/wiki/Matt_Moore_(actor)" title="Matt Moore (actor)">Matt Moore</a> as George Prothero</li>
+<li><a class="new" href="/w/index.php?title=Ben_Hewlett&amp;action=edit&amp;redlink=1" title="Ben Hewlett (page does not exist)">Ben Hewlett</a> as Protheoro's Secretary</li>
+<li><a href="/wiki/Harry_De_Vere" title="Harry De Vere">Harry De Vere</a> as Mr. Trenton</li>
+<li><a href="/wiki/Elinor_Hancock" title="Elinor Hancock">Elinor Hancock</a> as Mrs. Trenton</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Jilt&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Munden p.395</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Jilt&amp;action=edit&amp;section=3" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Munden, Kenneth White. <i>The American Film Institute Catalog of Motion Pictures Produced in the United States, Part 1</i>. University of California Press, 1997.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Jilt&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.imdb.com/title/tt0013277/" rel="nofollow"><i>The Jilt</i></a> on <a href="/wiki/IMDb" title="IMDb">IMDb</a></li></ul>
+<div aria-labelledby="Films_directed_by_Irving_Cummings" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Irving_Cummings" title="Template:Irving Cummings"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Irving_Cummings" title="Template talk:Irving Cummings"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Irving_Cummings&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Films_directed_by_Irving_Cummings" style="font-size:114%;margin:0 4em">Films directed by <a href="/wiki/Irving_Cummings" title="Irving Cummings">Irving Cummings</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Flesh_and_Blood_(1922_film)" title="Flesh and Blood (1922 film)">Flesh and Blood</a></i> (1922)</li>
+<li><i><a href="/wiki/Broad_Daylight_(film)" title="Broad Daylight (film)">Broad Daylight</a></i> (1922)</li>
+<li><i><a class="mw-selflink selflink">The Jilt</a></i> (1922)</li>
+<li><i><a href="/wiki/Stolen_Secrets" title="Stolen Secrets">Stolen Secrets</a></i> (1924)</li>
+<li><i><a href="/wiki/In_Every_Woman%27s_Life" title="In Every Woman's Life">In Every Woman's Life</a></i> (1924)</li>
+<li><i><a href="/wiki/The_Rose_of_Paris" title="The Rose of Paris">The Rose of Paris</a></i> (1924)</li>
+<li><i><a href="/wiki/One_Year_to_Live" title="One Year to Live">One Year to Live</a></i> (1925)</li>
+<li><i><a href="/wiki/The_Desert_Flower_(film)" title="The Desert Flower (film)">The Desert Flower</a></i> (1925)</li>
+<li><i><a href="/wiki/Infatuation_(1925_film)" title="Infatuation (1925 film)">Infatuation</a></i> (1925)</li>
+<li><i><a href="/wiki/The_Johnstown_Flood_(1926_film)" title="The Johnstown Flood (1926 film)">The Johnstown Flood</a></i> (1926)</li>
+<li><i><a href="/wiki/Rustling_for_Cupid" title="Rustling for Cupid">Rustling for Cupid</a></i> (1926)</li>
+<li><i><a href="/wiki/The_Country_Beyond_(1926_film)" title="The Country Beyond (1926 film)">The Country Beyond</a></i> (1926)</li>
+<li><i><a href="/wiki/Bertha,_the_Sewing_Machine_Girl" title="Bertha, the Sewing Machine Girl">Bertha, the Sewing Machine Girl</a></i> (1926)</li>
+<li><i><a href="/wiki/The_Port_of_Missing_Girls" title="The Port of Missing Girls">The Port of Missing Girls</a></i> (1928)</li>
+<li><i><a href="/wiki/Romance_of_the_Underworld" title="Romance of the Underworld">Romance of the Underworld</a></i> (1928)</li>
+<li><i><a href="/wiki/In_Old_Arizona" title="In Old Arizona">In Old Arizona</a></i> (1929)</li>
+<li><i><a href="/wiki/Behind_That_Curtain_(film)" title="Behind That Curtain (film)">Behind That Curtain</a></i> (1929)</li>
+<li><i><a href="/wiki/Not_Quite_Decent" title="Not Quite Decent">Not Quite Decent</a></i> (1929)</li>
+<li><i><a href="/wiki/Cameo_Kirby_(1930_film)" title="Cameo Kirby (1930 film)">Cameo Kirby</a></i> (1930)</li>
+<li><i><a href="/wiki/On_the_Level_(1930_film)" title="On the Level (1930 film)">On the Level</a></i> (1930)</li>
+<li><i><a href="/wiki/A_Holy_Terror" title="A Holy Terror">A Holy Terror</a></i> (1931)</li>
+<li><i><a href="/wiki/The_Cisco_Kid_(1931_film)" title="The Cisco Kid (1931 film)">The Cisco Kid</a></i> (1931)</li>
+<li><i><a href="/wiki/Attorney_for_the_Defense" title="Attorney for the Defense">Attorney for the Defense</a></i> (1932)</li>
+<li><i><a href="/wiki/Man_Hunt_(1933_film)" title="Man Hunt (1933 film)">Man Hunt</a></i> (1933)</li>
+<li><i><a href="/wiki/The_Woman_I_Stole" title="The Woman I Stole">The Woman I Stole</a></i> (1933)</li>
+<li><i><a href="/wiki/I_Believed_in_You" title="I Believed in You">I Believed in You</a></i> (1934)</li>
+<li><i><a href="/wiki/Grand_Canary_(film)" title="Grand Canary (film)">Grand Canary</a></i> (1934)</li>
+<li><i><a href="/wiki/The_White_Parade" title="The White Parade">The White Parade</a></i> (1934)</li>
+<li><i><a href="/wiki/Curly_Top_(film)" title="Curly Top (film)">Curly Top</a></i> (1935)</li>
+<li><i><a href="/wiki/Poor_Little_Rich_Girl_(1936_film)" title="Poor Little Rich Girl (1936 film)">Poor Little Rich Girl</a></i> (1936)</li>
+<li><i><a href="/wiki/Girls%27_Dormitory" title="Girls' Dormitory">Girls' Dormitory</a></i> (1936)</li>
+<li><i><a href="/wiki/White_Hunter_(film)" title="White Hunter (film)">White Hunter</a></i> (1936)</li>
+<li><i><a href="/wiki/Walter_Wanger%27s_Vogues_of_1938" title="Walter Wanger's Vogues of 1938">Vogues of 1938</a></i> (1937)</li>
+<li><i><a href="/wiki/Merry-Go-Round_of_1938" title="Merry-Go-Round of 1938">Merry-Go-Round of 1938</a></i> (1937)</li>
+<li><i><a href="/wiki/Little_Miss_Broadway" title="Little Miss Broadway">Little Miss Broadway</a></i> (1938)</li>
+<li><i><a href="/wiki/Just_Around_the_Corner" title="Just Around the Corner">Just Around the Corner</a></i> (1938)</li>
+<li><i><a href="/wiki/Everything_Happens_at_Night" title="Everything Happens at Night">Everything Happens at Night</a></i> (1939)</li>
+<li><i><a href="/wiki/Hollywood_Cavalcade" title="Hollywood Cavalcade">Hollywood Cavalcade</a></i> (1939)</li>
+<li><i><a href="/wiki/The_Story_of_Alexander_Graham_Bell" title="The Story of Alexander Graham Bell">The Story of Alexander Graham Bell</a></i> (1939)</li>
+<li><i><a href="/wiki/Lillian_Russell_(film)" title="Lillian Russell (film)">Lillian Russell</a></i> (1940)</li>
+<li><i><a href="/wiki/Down_Argentine_Way" title="Down Argentine Way">Down Argentine Way</a></i> (1940)</li>
+<li><i><a href="/wiki/That_Night_in_Rio" title="That Night in Rio">That Night in Rio</a></i> (1941)</li>
+<li><i><a href="/wiki/Belle_Starr_(film)" title="Belle Starr (film)">Belle Starr</a></i> (1941)</li>
+<li><i><a href="/wiki/Louisiana_Purchase_(film)" title="Louisiana Purchase (film)">Louisiana Purchase</a></i> (1941)</li>
+<li><i><a href="/wiki/My_Gal_Sal" title="My Gal Sal">My Gal Sal</a></i> (1942)</li>
+<li><i><a href="/wiki/Springtime_in_the_Rockies" title="Springtime in the Rockies">Springtime in the Rockies</a></i> (1942)</li>
+<li><i><a href="/wiki/Sweet_Rosie_O%27Grady" title="Sweet Rosie O'Grady">Sweet Rosie O'Grady</a></i> (1943)</li>
+<li><i><a href="/wiki/The_Impatient_Years" title="The Impatient Years">The Impatient Years</a></i> (1944)</li>
+<li><i><a href="/wiki/The_Dolly_Sisters_(film)" title="The Dolly Sisters (film)">The Dolly Sisters</a></i> (1945)</li>
+<li><i><a href="/wiki/Double_Dynamite" title="Double Dynamite">Double Dynamite</a></i> (1951)</li></ul>
+</div></td></tr></tbody></table></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a class="image" href="/wiki/File:Silentfilm.png"><img alt="Stub icon" data-file-height="128" data-file-width="128" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Silentfilm.png/30px-Silentfilm.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Silentfilm.png/45px-Silentfilm.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Silentfilm.png/60px-Silentfilm.png 2x" width="30"/></a></td><td><i>This article about a silent film is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=The_Jilt&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Silent-film-stub" title="Template:Silent-film-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Silent-film-stub" title="Template talk:Silent-film-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Silent-film-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20191217212816
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.136 seconds
+Real time usage: 0.216 seconds
+Preprocessor visited node count: 721/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 20982/2097152 bytes
+Template argument size: 933/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 299/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.040/10.000 seconds
+Lua memory usage: 1.92 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  179.090      1 -total
+ 33.89%   60.687      1 Template:Short_description
+ 28.15%   50.420      1 Template:Infobox_film
+ 25.11%   44.970      1 Template:Pagetype
+ 21.81%   39.061      1 Template:Infobox
+ 18.96%   33.955      1 Template:IMDb_title
+  7.31%   13.096      1 Template:Silent-film-stub
+  7.21%   12.905      1 Template:Irving_Cummings
+  6.14%   10.996      1 Template:Asbox
+  5.26%    9.428      1 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:60640247-0!canonical and timestamp 20191217212816 and revision id 920360553
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_Jilt&amp;oldid=920360553">https://en.wikipedia.org/w/index.php?title=The_Jilt&amp;oldid=920360553</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1922_films" title="Category:1922 films">1922 films</a></li><li><a href="/wiki/Category:1920s_drama_films" title="Category:1920s drama films">1920s drama films</a></li><li><a href="/wiki/Category:English-language_films" title="Category:English-language films">English-language films</a></li><li><a href="/wiki/Category:American_films" title="Category:American films">American films</a></li><li><a href="/wiki/Category:American_silent_feature_films" title="Category:American silent feature films">American silent feature films</a></li><li><a href="/wiki/Category:American_drama_films" title="Category:American drama films">American drama films</a></li><li><a href="/wiki/Category:Films_directed_by_Irving_Cummings" title="Category:Films directed by Irving Cummings">Films directed by Irving Cummings</a></li><li><a href="/wiki/Category:American_black-and-white_films" title="Category:American black-and-white films">American black-and-white films</a></li><li><a href="/wiki/Category:Universal_Pictures_films" title="Category:Universal Pictures films">Universal Pictures films</a></li><li><a href="/wiki/Category:Silent_film_stubs" title="Category:Silent film stubs">Silent film stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Jilt" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Jilt" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/The_Jilt" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:The_Jilt" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/The_Jilt">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=The_Jilt&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=The_Jilt&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/The_Jilt" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/The_Jilt" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=The_Jilt&amp;oldid=920360553" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=The_Jilt&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q65066643" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Jilt&amp;id=920360553" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Jilt">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=The+Jilt&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=The_Jilt&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q65066643#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 9 October 2019, at 08:25<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=The_Jilt&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.136","walltime":"0.216","ppvisitednodes":{"value":721,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":20982,"limit":2097152},"templateargumentsize":{"value":933,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":299,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  179.090      1 -total"," 33.89%   60.687      1 Template:Short_description"," 28.15%   50.420      1 Template:Infobox_film"," 25.11%   44.970      1 Template:Pagetype"," 21.81%   39.061      1 Template:Infobox"," 18.96%   33.955      1 Template:IMDb_title","  7.31%   13.096      1 Template:Silent-film-stub","  7.21%   12.905      1 Template:Irving_Cummings","  6.14%   10.996      1 Template:Asbox","  5.26%    9.428      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"10.000"},"limitreport-memusage":{"value":2010107,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20191217212816","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"The Jilt","url":"https:\/\/en.wikipedia.org\/wiki\/The_Jilt","sameAs":"http:\/\/www.wikidata.org\/entity\/Q65066643","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q65066643","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2019-05-02T11:44:03Z","dateModified":"2019-10-09T08:25:31Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f4\/The_Jilt_%281922%29_-_Ad_2.jpg","headline":"1922 film"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":196,"wgHostname":"mw1242"});});</script>
+
+
+</body></html>

@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Cellodextrin phosphorylase - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfpwqwpAMFQAACNiYdEAAADC","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cellodextrin_phosphorylase","wgTitle":"Cellodextrin phosphorylase","wgCurRevisionId":917348988,"wgRevisionId":917348988,"wgArticleId":14650732,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All stub articles","EC 2.4 stubs","EC 2.4.1","Enzymes of unknown structure"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Cellodextrin_phosphorylase","wgRelevantArticleId":14650732,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3664288","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cellodextrin_phosphorylase" rel="alternate"/>
+<link href="/w/index.php?title=Cellodextrin_phosphorylase&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Cellodextrin_phosphorylase&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Cellodextrin_phosphorylase" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cellodextrin_phosphorylase rootpage-Cellodextrin_phosphorylase skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Cellodextrin phosphorylase</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">cellodextrin phosphorylase</th></tr><tr><th colspan="2" style="text-align:center;background-color: #ddd">Identifiers</th></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC number</a></th><td style="background-color: #eee"><a class="external text" href="https://www.qmul.ac.uk/sbcs/iubmb/enzyme/EC2/4/1/49.html" rel="nofollow">2.4.1.49</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a class="mw-redirect" href="/wiki/CAS_registry_number" title="CAS registry number">CAS number</a></th><td style="background-color: #eee"><a class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=37277-58-0&amp;title=" rel="nofollow">37277-58-0 </a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #ddd">Databases</th></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/IntEnz" title="IntEnz">IntEnz</a></th><td style="background-color: #eee"><a class="external text" href="https://www.ebi.ac.uk/intenz/query?cmd=SearchEC&amp;ec=2.4.1.49" rel="nofollow">IntEnz view</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/BRENDA" title="BRENDA">BRENDA</a></th><td style="background-color: #eee"><a class="external text" href="http://www.brenda-enzymes.org/enzyme.php?ecno=2.4.1.49" rel="nofollow">BRENDA entry</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/ExPASy" title="ExPASy">ExPASy</a></th><td style="background-color: #eee"><a class="external text" href="http://www.expasy.org/enzyme/2.4.1.49" rel="nofollow">NiceZyme view</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/KEGG" title="KEGG">KEGG</a></th><td style="background-color: #eee"><a class="external text" href="https://www.genome.jp/dbget-bin/www_bget?enzyme+2.4.1.49" rel="nofollow">KEGG entry</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/MetaCyc" title="MetaCyc">MetaCyc</a></th><td style="background-color: #eee"><a class="external text" href="https://biocyc.org/META/substring-search?type=NIL&amp;object=2.4.1.49" rel="nofollow">metabolic pathway</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a class="mw-redirect" href="/wiki/PRIAM_enzyme_specific_profiles" title="PRIAM enzyme specific profiles">PRIAM</a></th><td style="background-color: #eee"><a class="external text" href="http://priam.prabi.fr/cgi-bin/PRIAM_profiles_CurrentRelease.pl?EC=2.4.1.49" rel="nofollow">profile</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a> structures</th><td style="background-color: #eee"><span style="font-size:85%;"><a class="external text" href="http://www.rcsb.org/pdb/search/smartSubquery.do?smartSearchSubtype=EnzymeClassificationQuery&amp;Enzyme_Classification=2.4.1.49" rel="nofollow">RCSB PDB</a> <a class="external text" href="https://www.ebi.ac.uk/pdbe/entry/search/index?ec_number:2.4.1.49" rel="nofollow">PDBe</a> <a class="external text" href="//www.ebi.ac.uk/thornton-srv/databases/cgi-bin/enzymes/GetPage.pl?ec_number=2.4.1.49" rel="nofollow">PDBsum</a></span></td></tr><tr><th scope="row" style="background-color: #e7dcc3"><a class="mw-redirect" href="/wiki/Gene_Ontology" title="Gene Ontology">Gene Ontology</a></th><td style="background-color: #eee"><span style="font-size:85%;"><a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0050102" rel="nofollow">AmiGO </a> / <a class="external text" href="//www.ebi.ac.uk/QuickGO/term/GO:0050102" rel="nofollow">QuickGO</a></span></td></tr><tr><td colspan="2" style="text-align:center;background-color: #eee"><table class="infobox collapsible collapsed" style="width:22em;float:none; clear:none; margin:0; border-width:0; border-collapse:collapse; text-align:left; width:100%"><tbody><tr><th colspan="2" style="text-align:center;background-color: #ddd">Search</th></tr><tr><th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a></th><td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;term=2.4.1.49%5BEC/RN%20Number%5D%20AND%20pubmed%20pmc%20local%5Bsb%5D" rel="nofollow">articles</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/PubMed" title="PubMed">PubMed</a></th><td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;term=2.4.1.49%5BEC/RN%20Number%5D" rel="nofollow">articles</a></td></tr><tr><th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a></th><td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a class="external text" href="https://www.ncbi.nlm.nih.gov/protein?term=2.4.1.49%5BEC/RN%20Number%5D" rel="nofollow">proteins</a></td></tr></tbody></table></td></tr></tbody></table>
+<p>In <a class="mw-redirect" href="/wiki/Enzymology" title="Enzymology">enzymology</a>, a <b><a href="/wiki/Cellodextrin" title="Cellodextrin">cellodextrin</a> phosphorylase</b> (<a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC</a> <a class="external text" href="https://enzyme.expasy.org/EC/2.4.1.49" rel="nofollow">2.4.1.49</a>) is an <a href="/wiki/Enzyme" title="Enzyme">enzyme</a> that <a href="/wiki/Catalysis" title="Catalysis">catalyzes</a> the <a href="/wiki/Chemical_reaction" title="Chemical reaction">chemical reaction</a>
+</p>
+<dl><dd>(1,4-beta-D-<a class="mw-redirect" href="/wiki/Glucosyl" title="Glucosyl">glucosyl</a>)n + phosphate <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \rightleftharpoons }" xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo class="MJX-variant" stretchy="false">⇌<!-- ⇌ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rightleftharpoons }</annotation>
+  </semantics>
+</math></span><img alt="\rightleftharpoons " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1c37b981df851b9e54e489e017b1481e37d418f3" style="vertical-align: -0.338ex; width:2.324ex; height:1.843ex;"/></span> (1,4-beta-D-glucosyl)n-1 + alpha-D-glucose 1-phosphate</dd></dl>
+<p>Thus, the two <a class="mw-redirect" href="/wiki/Substrate_(biochemistry)" title="Substrate (biochemistry)">substrates</a> of this enzyme are <a class="mw-redirect" href="/wiki/(1,4-beta-D-glucosyl)n" title="(1,4-beta-D-glucosyl)n">(1,4-beta-D-glucosyl)n</a> and <a href="/wiki/Phosphate" title="Phosphate">phosphate</a>, whereas its two <a href="/wiki/Product_(chemistry)" title="Product (chemistry)">products</a> are <a class="new" href="/w/index.php?title=(1,4-beta-D-glucosyl)n-1&amp;action=edit&amp;redlink=1" title="(1,4-beta-D-glucosyl)n-1 (page does not exist)">(1,4-beta-D-glucosyl)n-1</a> and <a class="new" href="/w/index.php?title=Alpha-D-glucose_1-phosphate&amp;action=edit&amp;redlink=1" title="Alpha-D-glucose 1-phosphate (page does not exist)">alpha-D-glucose 1-phosphate</a>.
+</p><p>This enzyme belongs to GH (glycoside hydrolases) family 94.  The <a href="/wiki/List_of_enzymes" title="List of enzymes">systematic name</a> of this enzyme class is <b>1,4-beta-D-oligo-D-glucan:phosphate alpha-D-glucosyltransferase</b>. This enzyme is also called <b>beta-1,4-oligoglucan:orthophosphate glucosyltransferase</b>.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cellodextrin_phosphorylase&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="list-style-type: decimal;">
+</div>
+<ul><li><cite class="citation journal">Sheth K, Alexander JK (1969). "Purification and properties of beta-1,4-oligoglucan:orthophosphate glucosyltransferase from Clostridium thermocellum". <i>J. Biol. Chem</i>. <b>244</b> (2): 457–64. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/5773308" rel="nofollow">5773308</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Biol.+Chem.&amp;rft.atitle=Purification+and+properties+of+beta-1%2C4-oligoglucan%3Aorthophosphate+glucosyltransferase+from+Clostridium+thermocellum&amp;rft.volume=244&amp;rft.issue=2&amp;rft.pages=457-64&amp;rft.date=1969&amp;rft_id=info%3Apmid%2F5773308&amp;rft.aulast=Sheth&amp;rft.aufirst=K&amp;rft.au=Alexander%2C+JK&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACellodextrin+phosphorylase"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li></ul>
+<div aria-labelledby="Transferases:_glycosyltransferases_(EC_2.4)" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Glycosyltransferases" title="Template:Glycosyltransferases"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Glycosyltransferases" title="Template talk:Glycosyltransferases"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Glycosyltransferases&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Transferases:_glycosyltransferases_(EC_2.4)" style="font-size:114%;margin:0 4em"><a href="/wiki/Transferase" title="Transferase">Transferases</a>: <a href="/wiki/Glycosyltransferase" title="Glycosyltransferase">glycosyltransferases</a> (<a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC</a> 2.4)</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_EC_numbers_(EC_2)#EC_2.4.1:_Hexosyltransferases" title="List of EC numbers (EC 2)">2.4.1</a>: <a href="/wiki/Hexosyltransferase" title="Hexosyltransferase">Hexosyl-<br/>transferases</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Glucosyltransferase" title="Glucosyltransferase">Glucosyl-</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Phosphorylase" title="Phosphorylase">Phosphorylase</a>
+<ul><li><a href="/wiki/Starch_phosphorylase" title="Starch phosphorylase">Starch</a></li>
+<li><a href="/wiki/Glycogen_phosphorylase" title="Glycogen phosphorylase">Glycogen</a></li>
+<li><a href="/wiki/Myophosphorylase" title="Myophosphorylase">Myo-</a></li></ul></li>
+<li><a href="/wiki/Glycogen_synthase" title="Glycogen synthase">Glycogen synthase</a></li>
+<li><a href="/wiki/Glycogen_debranching_enzyme" title="Glycogen debranching enzyme">Debranching enzyme</a></li>
+<li><a href="/wiki/Glycogen_branching_enzyme" title="Glycogen branching enzyme">Branching enzyme</a></li>
+<li><a href="/wiki/1,3-Beta-glucan_synthase" title="1,3-Beta-glucan synthase">1,3-Beta-glucan synthase</a></li>
+<li><a href="/wiki/Ceramide_glucosyltransferase" title="Ceramide glucosyltransferase">Ceramide glucosyltransferase</a></li>
+<li><a href="/wiki/N-glycosyltransferase" title="N-glycosyltransferase">N-glycosyltransferase</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Galactosyltransferase" title="Galactosyltransferase">Galactosyl-</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lactose_synthase" title="Lactose synthase">Lactose synthase</a></li>
+<li><a href="/wiki/B-N-acetylglucosaminyl-glycopeptide_b-1,4-galactosyltransferase" title="B-N-acetylglucosaminyl-glycopeptide b-1,4-galactosyltransferase">B-N-acetylglucosaminyl-glycopeptide b-1,4-galactosyltransferase</a></li>
+<li><a href="/wiki/Glycoprotein-N-acetylgalactosamine_3-beta-galactosyltransferase" title="Glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase">Glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase</a> (<a href="/wiki/C1GALT1" title="C1GALT1">C1GALT1</a>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Glucuronosyltransferase" title="Glucuronosyltransferase">Glucuronosyl-</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/B3GAT1" title="B3GAT1">B3GAT1</a></li>
+<li><a href="/wiki/B3GAT2" title="B3GAT2">B3GAT2</a></li>
+<li><a href="/wiki/B3GAT3" title="B3GAT3">B3GAT3</a></li></ul>
+<ul><li><a href="/wiki/UDP_glucuronosyltransferase_1_family,_polypeptide_A1" title="UDP glucuronosyltransferase 1 family, polypeptide A1">UGT1A1</a></li>
+<li><a href="/wiki/UGT1A3" title="UGT1A3">UGT1A3</a></li>
+<li><a href="/wiki/UGT1A4" title="UGT1A4">UGT1A4</a></li>
+<li><a href="/wiki/UGT1A5" title="UGT1A5">UGT1A5</a></li>
+<li><a href="/wiki/UGT1A6" title="UGT1A6">UGT1A6</a></li>
+<li><a class="mw-redirect" href="/wiki/UGT1A7" title="UGT1A7">UGT1A7</a></li>
+<li><a href="/wiki/UGT1A8" title="UGT1A8">UGT1A8</a></li>
+<li><a href="/wiki/UGT1A9" title="UGT1A9">UGT1A9</a></li>
+<li><a href="/wiki/UGT1A10" title="UGT1A10">UGT1A10</a></li></ul>
+<ul><li><a href="/wiki/UGT2A1" title="UGT2A1">UGT2A1</a></li>
+<li><a href="/wiki/UGT2A2" title="UGT2A2">UGT2A2</a></li>
+<li><a class="mw-redirect" href="/wiki/UGT2A3" title="UGT2A3">UGT2A3</a></li>
+<li><a href="/wiki/UGT2B4" title="UGT2B4">UGT2B4</a></li>
+<li><a href="/wiki/UGT2B7" title="UGT2B7">UGT2B7</a></li>
+<li><a href="/wiki/UGT2B10" title="UGT2B10">UGT2B10</a></li>
+<li><a class="mw-redirect" href="/wiki/UGT2B11" title="UGT2B11">UGT2B11</a></li>
+<li><a href="/wiki/UGT2B15" title="UGT2B15">UGT2B15</a></li>
+<li><a href="/wiki/UGT2B17" title="UGT2B17">UGT2B17</a></li>
+<li><a class="mw-redirect" href="/wiki/UGT2B28" title="UGT2B28">UGT2B28</a></li></ul>
+<ul><li><a href="/wiki/Hyaluronan_synthase" title="Hyaluronan synthase">Hyaluronan synthase</a>: <a href="/wiki/HAS1" title="HAS1">HAS1</a></li>
+<li><a href="/wiki/HAS2" title="HAS2">HAS2</a></li>
+<li><a href="/wiki/HAS3" title="HAS3">HAS3</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Fucosyltransferase" title="Fucosyltransferase">Fucosyl-</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/GDP-fucose_protein_O-fucosyltransferase_1" title="GDP-fucose protein O-fucosyltransferase 1">POFUT1</a></li>
+<li><a href="/wiki/GDP-fucose_protein_O-fucosyltransferase_2" title="GDP-fucose protein O-fucosyltransferase 2">POFUT2</a></li>
+<li><a href="/wiki/FUT1" title="FUT1">FUT1</a></li>
+<li><a href="/wiki/FUT2" title="FUT2">FUT2</a></li>
+<li><a href="/wiki/Fucosyltransferase_3" title="Fucosyltransferase 3">FUT3</a></li>
+<li><a href="/wiki/FUT4" title="FUT4">FUT4</a></li>
+<li><a href="/wiki/FUT5" title="FUT5">FUT5</a></li>
+<li><a href="/wiki/FUT6" title="FUT6">FUT6</a></li>
+<li><a href="/wiki/FUT7" title="FUT7">FUT7</a></li>
+<li><a href="/wiki/FUT8" title="FUT8">FUT8</a></li>
+<li><a href="/wiki/FUT9" title="FUT9">FUT9</a></li>
+<li><a class="new" href="/w/index.php?title=FUT10&amp;action=edit&amp;redlink=1" title="FUT10 (page does not exist)">FUT10</a></li>
+<li><a class="new" href="/w/index.php?title=FUT11&amp;action=edit&amp;redlink=1" title="FUT11 (page does not exist)">FUT11</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Mannosyltransferase" title="Mannosyltransferase">Mannosyl-</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dolichyl-phosphate-mannose-protein_mannosyltransferase" title="Dolichyl-phosphate-mannose-protein mannosyltransferase">Dolichyl-phosphate-mannose-protein mannosyltransferase</a>
+<ul><li><a href="/wiki/POMT1" title="POMT1">POMT1</a></li>
+<li><a href="/wiki/POMT2" title="POMT2">POMT2</a></li></ul></li>
+<li><a href="/wiki/DPM1" title="DPM1">DPM1</a></li>
+<li><a href="/wiki/DPM3" title="DPM3">DPM3</a></li></ul>
+<ul><li><a href="/wiki/ALG1" title="ALG1">ALG1</a></li>
+<li><a href="/wiki/ALG2" title="ALG2">ALG2</a></li>
+<li><a href="/wiki/ALG3" title="ALG3">ALG3</a></li>
+<li><a href="/wiki/ALG6" title="ALG6">ALG6</a></li>
+<li><a href="/wiki/ALG8" title="ALG8">ALG8</a></li>
+<li><a href="/wiki/ALG9" title="ALG9">ALG9</a></li>
+<li><a href="/wiki/ALG12" title="ALG12">ALG12</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_EC_numbers_(EC_2)#EC_2.4.2:_Pentosyltransferases" title="List of EC numbers (EC 2)">2.4.2</a>: <a href="/wiki/Pentosyltransferase" title="Pentosyltransferase">Pentosyl-<br/>transferases</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Ribose" scope="row" style="width:1%"><a href="/wiki/Ribose" title="Ribose">Ribose</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/ADP-ribosylation" title="ADP-ribosylation">ADP-ribosyltransferase</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/NAD(%2B)%E2%80%94diphthamide_ADP-ribosyltransferase" title="NAD(+)—diphthamide ADP-ribosyltransferase">NAD<sup>+</sup>:diphthamide ADP-ribosyltransferase</a>
+<ul><li><a href="/wiki/Diphtheria_toxin" title="Diphtheria toxin">Diphtheria toxin</a></li>
+<li><a href="/wiki/Pseudomonas_exotoxin" title="Pseudomonas exotoxin">Pseudomonas exotoxin</a></li></ul></li></ul>
+<ul><li><a href="/wiki/NAD(P)(%2B)%E2%80%94protein-arginine_ADP-ribosyltransferase" title="NAD(P)(+)—protein-arginine ADP-ribosyltransferase">NAD(P)<sup>+</sup>:arginine ADP-ribosyltransferase</a>
+<ul><li><a href="/wiki/Pertussis_toxin" title="Pertussis toxin">Pertussis toxin</a></li>
+<li><a href="/wiki/Cholera_toxin" title="Cholera toxin">Cholera toxin</a></li></ul></li></ul>
+<ul><li><a class="mw-redirect" href="/wiki/Poly_ADP_ribose_polymerase" title="Poly ADP ribose polymerase">Poly ADP ribose polymerase</a></li></ul>
+<ul><li><a href="/wiki/Sirtuin" title="Sirtuin">Sirtuin</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Phosphoribosyltransferase" title="Phosphoribosyltransferase">Phosphoribosyltransferase</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adenine_phosphoribosyltransferase" title="Adenine phosphoribosyltransferase">Adenine phosphoribosyltransferase</a></li>
+<li><a href="/wiki/Hypoxanthine-guanine_phosphoribosyltransferase" title="Hypoxanthine-guanine phosphoribosyltransferase">Hypoxanthine-guanine phosphoribosyltransferase</a></li>
+<li><a href="/wiki/Uracil_phosphoribosyltransferase" title="Uracil phosphoribosyltransferase">Uracil phosphoribosyltransferase</a></li>
+<li><a href="/wiki/Amidophosphoribosyltransferase" title="Amidophosphoribosyltransferase">Amidophosphoribosyltransferase</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Purine_nucleoside_phosphorylase" title="Purine nucleoside phosphorylase">Purine nucleoside phosphorylase</a>: <a href="/wiki/Thymidine_phosphorylase" title="Thymidine phosphorylase">Thymidine phosphorylase</a>
+<ul><li><a href="/wiki/ECGF1" title="ECGF1">ECGF1</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Xylosyltransferase" title="Xylosyltransferase">Xylosyltransferase</a>
+<ul><li><a href="/wiki/XYLT1" title="XYLT1">XYLT1</a></li>
+<li><a href="/wiki/XYLT2" title="XYLT2">XYLT2</a></li></ul></li>
+<li><a href="/wiki/Arabinosyltransferase" title="Arabinosyltransferase">Arabinosyltransferase</a>
+<ul><li><a href="/wiki/Indolylacetylinositol_arabinosyltransferase" title="Indolylacetylinositol arabinosyltransferase">Indolylacetylinositol arabinosyltransferase</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_EC_numbers_(EC_2)#EC_2.4.99:_Transferring_Other_Glycosyl_Groups" title="List of EC numbers (EC 2)">2.4.99</a>: <a href="/wiki/Sialyltransferase" title="Sialyltransferase">Sialyl<br/>transferases</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Beta-galactoside_alpha-2,6-sialyltransferase" title="Beta-galactoside alpha-2,6-sialyltransferase">Beta-galactoside alpha-2,6-sialyltransferase</a></li>
+<li><a href="/wiki/Monosialoganglioside_sialyltransferase" title="Monosialoganglioside sialyltransferase">Monosialoganglioside sialyltransferase</a></li>
+<li><a href="/wiki/ST8SIA4" title="ST8SIA4">ST8SIA4</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Enzymes" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Enzymes" title="Template:Enzymes"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Enzymes" title="Template talk:Enzymes"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Enzymes&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Enzymes" style="font-size:114%;margin:0 4em"><a href="/wiki/Enzyme" title="Enzyme">Enzymes</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Activity</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Active_site" title="Active site">Active site</a></li>
+<li><a href="/wiki/Binding_site" title="Binding site">Binding site</a></li>
+<li><a href="/wiki/Catalytic_triad" title="Catalytic triad">Catalytic triad</a></li>
+<li><a href="/wiki/Oxyanion_hole" title="Oxyanion hole">Oxyanion hole</a></li>
+<li><a href="/wiki/Enzyme_promiscuity" title="Enzyme promiscuity">Enzyme promiscuity</a></li>
+<li><a class="mw-redirect" href="/wiki/Catalytically_perfect_enzyme" title="Catalytically perfect enzyme">Catalytically perfect enzyme</a></li>
+<li><a class="mw-redirect" href="/wiki/Coenzyme" title="Coenzyme">Coenzyme</a></li>
+<li><a href="/wiki/Cofactor_(biochemistry)" title="Cofactor (biochemistry)">Cofactor</a></li>
+<li><a href="/wiki/Enzyme_catalysis" title="Enzyme catalysis">Enzyme catalysis</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Regulation</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Allosteric_regulation" title="Allosteric regulation">Allosteric regulation</a></li>
+<li><a href="/wiki/Cooperativity" title="Cooperativity">Cooperativity</a></li>
+<li><a href="/wiki/Enzyme_inhibitor" title="Enzyme inhibitor">Enzyme inhibitor</a></li>
+<li><a href="/wiki/Enzyme_activator" title="Enzyme activator">Enzyme activator</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Classification</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC number</a></li>
+<li><a class="mw-redirect" href="/wiki/Enzyme_superfamily" title="Enzyme superfamily">Enzyme superfamily</a></li>
+<li><a class="mw-redirect" href="/wiki/Enzyme_family" title="Enzyme family">Enzyme family</a></li>
+<li><a href="/wiki/List_of_enzymes" title="List of enzymes">List of enzymes</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Kinetics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Enzyme_kinetics" title="Enzyme kinetics">Enzyme kinetics</a></li>
+<li><a href="/wiki/Eadie%E2%80%93Hofstee_diagram" title="Eadie–Hofstee diagram">Eadie–Hofstee diagram</a></li>
+<li><a href="/wiki/Hanes%E2%80%93Woolf_plot" title="Hanes–Woolf plot">Hanes–Woolf plot</a></li>
+<li><a href="/wiki/Lineweaver%E2%80%93Burk_plot" title="Lineweaver–Burk plot">Lineweaver–Burk plot</a></li>
+<li><a href="/wiki/Michaelis%E2%80%93Menten_kinetics" title="Michaelis–Menten kinetics">Michaelis–Menten kinetics</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>EC1 <a href="/wiki/Oxidoreductase" title="Oxidoreductase">Oxidoreductases</a></b> (<a href="/wiki/List_of_EC_numbers_(EC_1)" title="List of EC numbers (EC 1)">list</a>)</li>
+<li><b>EC2 <a href="/wiki/Transferase" title="Transferase">Transferases</a></b> (<a href="/wiki/List_of_EC_numbers_(EC_2)" title="List of EC numbers (EC 2)">list</a>)</li>
+<li><b>EC3 <a href="/wiki/Hydrolase" title="Hydrolase">Hydrolases</a></b> (<a href="/wiki/List_of_EC_numbers_(EC_3)" title="List of EC numbers (EC 3)">list</a>)</li>
+<li><b>EC4 <a href="/wiki/Lyase" title="Lyase">Lyases</a></b> (<a href="/wiki/List_of_EC_numbers_(EC_4)" title="List of EC numbers (EC 4)">list</a>)</li>
+<li><b>EC5 <a href="/wiki/Isomerase" title="Isomerase">Isomerases</a></b> (<a href="/wiki/List_of_EC_numbers_(EC_5)" title="List of EC numbers (EC 5)">list</a>)</li>
+<li><b>EC6 <a href="/wiki/Ligase" title="Ligase">Ligases</a></b> (<a href="/wiki/List_of_EC_numbers_(EC_6)" title="List of EC numbers (EC 6)">list</a>)</li>
+<li><b>EC7 <a href="/wiki/Translocase" title="Translocase">Translocases</a></b> (<a href="/wiki/List_of_EC_numbers_(EC_7)" title="List of EC numbers (EC 7)">list</a>)</li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-label="Portals" class="noprint metadata" role="navigation" style="font-weight:bold;padding:0.3em 1.7em 0.1em;font-size:88%;text-align:center"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Issoria_lathonia.jpg"><img alt="Issoria lathonia.jpg" data-file-height="445" data-file-width="629" decoding="async" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/24px-Issoria_lathonia.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/36px-Issoria_lathonia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/48px-Issoria_lathonia.jpg 2x" width="24"/></a></span><a href="/wiki/Portal:Biology" title="Portal:Biology">Biology portal</a></span></li></ul></div>
+<p><br/>
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><i>This <a class="mw-redirect" href="/wiki/EC_2.4" title="EC 2.4">EC 2.4</a> <a href="/wiki/Enzyme" title="Enzyme">enzyme</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Cellodextrin_phosphorylase&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:2.4-enzyme-stub" title="Template:2.4-enzyme-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:2.4-enzyme-stub" title="Template talk:2.4-enzyme-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:2.4-enzyme-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20191122060508
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.212 seconds
+Real time usage: 0.326 seconds
+Preprocessor visited node count: 661/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 69557/2097152 bytes
+Template argument size: 1278/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1908/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.099/10.000 seconds
+Lua memory usage: 2.45 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  236.126      1 -total
+ 42.45%  100.226      1 Template:Cite_journal
+ 26.74%   63.142      2 Template:Infobox
+ 24.99%   58.999      1 Template:Enzyme
+ 13.53%   31.948      5 Template:Navbox
+  9.58%   22.621      1 Template:Glycosyltransferases
+  8.05%   19.003      1 Template:Portal_bar
+  5.71%   13.474      1 Template:2.4-enzyme-stub
+  4.78%   11.287      1 Template:Asbox
+  4.34%   10.256      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14650732-0!canonical!math=5 and timestamp 20191122060507 and revision id 917348988
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cellodextrin_phosphorylase&amp;oldid=917348988">https://en.wikipedia.org/w/index.php?title=Cellodextrin_phosphorylase&amp;oldid=917348988</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:EC_2.4.1" title="Category:EC 2.4.1">EC 2.4.1</a></li><li><a href="/wiki/Category:Enzymes_of_unknown_structure" title="Category:Enzymes of unknown structure">Enzymes of unknown structure</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li><li><a href="/wiki/Category:EC_2.4_stubs" title="Category:EC 2.4 stubs">EC 2.4 stubs</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cellodextrin+phosphorylase" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Cellodextrin+phosphorylase" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Cellodextrin_phosphorylase" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Cellodextrin_phosphorylase" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Cellodextrin_phosphorylase">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Cellodextrin_phosphorylase&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Cellodextrin_phosphorylase&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Cellodextrin_phosphorylase" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Cellodextrin_phosphorylase" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cellodextrin_phosphorylase&amp;oldid=917348988" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cellodextrin_phosphorylase&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3664288" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cellodextrin_phosphorylase&amp;id=917348988" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cellodextrin+phosphorylase">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cellodextrin+phosphorylase&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Cellodextrin_phosphorylase&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Cellodextrina_fosforilasi" hreflang="it" lang="it" title="Cellodextrina fosforilasi – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AD%E3%83%87%E3%82%AD%E3%82%B9%E3%83%88%E3%83%AA%E3%83%B3%E3%83%9B%E3%82%B9%E3%83%9B%E3%83%AA%E3%83%A9%E3%83%BC%E3%82%BC" hreflang="ja" lang="ja" title="セロデキストリンホスホリラーゼ – Japanese">日本語</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Celodekstrin_fosforilaza" hreflang="sr" lang="sr" title="Celodekstrin fosforilaza – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Celodekstrin_fosforilaza" hreflang="sh" lang="sh" title="Celodekstrin fosforilaza – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3664288#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 23 September 2019, at 12:28<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Cellodextrin_phosphorylase&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.326","ppvisitednodes":{"value":661,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":69557,"limit":2097152},"templateargumentsize":{"value":1278,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1908,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  236.126      1 -total"," 42.45%  100.226      1 Template:Cite_journal"," 26.74%   63.142      2 Template:Infobox"," 24.99%   58.999      1 Template:Enzyme"," 13.53%   31.948      5 Template:Navbox","  9.58%   22.621      1 Template:Glycosyltransferases","  8.05%   19.003      1 Template:Portal_bar","  5.71%   13.474      1 Template:2.4-enzyme-stub","  4.78%   11.287      1 Template:Asbox","  4.34%   10.256      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.099","limit":"10.000"},"limitreport-memusage":{"value":2566509,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20191122060508","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cellodextrin phosphorylase","url":"https:\/\/en.wikipedia.org\/wiki\/Cellodextrin_phosphorylase","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3664288","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3664288","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-12-10T23:49:58Z","dateModified":"2019-09-23T12:28:49Z","headline":"class of enzymes"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1249"});});</script>
+
+
+</body></html>

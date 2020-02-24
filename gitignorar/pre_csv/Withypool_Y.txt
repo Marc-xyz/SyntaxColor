@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Withypool - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfsHHApAMEwAACYIKT4AAAAC","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Withypool","wgTitle":"Withypool","wgCurRevisionId":922025614,"wgRevisionId":922025614,"wgArticleId":4123311,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from October 2019","Pages using deprecated image syntax","Articles with OS grid coordinates","Coordinates on Wikidata","Commons category link is on Wikidata","Civil parishes in Somerset",
+"Villages in West Somerset","Exmoor"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Withypool","wgRelevantArticleId":4123311,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":51.107125,"lon":-3.651191},"wgWikibaseItemId":"Q2422634","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/2/29/Withypool_bridge.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Withypool" rel="alternate"/>
+<link href="/w/index.php?title=Withypool&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Withypool&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Withypool" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Withypool rootpage-Withypool skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Withypool</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">Withypool</th></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Withypool_bridge.jpg"><img alt="Stone bridge with six arches over water." data-file-height="427" data-file-width="640" decoding="async" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Withypool_bridge.jpg/240px-Withypool_bridge.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Withypool_bridge.jpg/360px-Withypool_bridge.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Withypool_bridge.jpg/480px-Withypool_bridge.jpg 2x" width="240"/></a><br/><a href="/wiki/Withypool_Bridge" title="Withypool Bridge">Bridge</a> over the <a href="/wiki/River_Barle" title="River Barle">River Barle</a></td></tr><tr><td colspan="2" style="text-align:center"><div class="center"><div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:240px;padding:0"><div style="position:relative;width:240px"><a class="image" href="/wiki/File:Somerset_UK_location_map.svg" title="Withypool is located in Somerset"><img alt="Withypool is located in Somerset" data-file-height="901" data-file-width="1425" decoding="async" height="152" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Somerset_UK_location_map.svg/240px-Somerset_UK_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Somerset_UK_location_map.svg/360px-Somerset_UK_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Somerset_UK_location_map.svg/480px-Somerset_UK_location_map.svg.png 2x" width="240"/></a><div style="position:absolute;top:59.05%;left:16.783%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Withypool" data-file-height="64" data-file-width="64" decoding="async" height="6" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" title="Withypool" width="6"/></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Withypool</div></div></div></div><div>Location within <a href="/wiki/Somerset" title="Somerset">Somerset</a></div></div></div></div></td></tr><tr><th scope="row" style="width: 40%">Population</th><td>201 (201)<sup class="reference" id="cite_ref-popn_1-0"><a href="#cite_note-popn-1">[1]</a></sup></td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/Ordnance_Survey_National_Grid" title="Ordnance Survey National Grid">OS grid reference</a></th><td><span class="plainlinks nourlexpansion"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/51.107124496041;-3.6511917663011_region:GB_scale:25000?pagename=Withypool">SS845355</a></span></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Districts_of_England" title="Districts of England">District</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Somerset_West_and_Taunton" title="Somerset West and Taunton">Somerset West and Taunton</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">Shire county</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Somerset" title="Somerset">Somerset</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Regions_of_England" title="Regions of England">Region</a></th><td><div class="plainlist"><ul><li><a href="/wiki/South_West_England" title="South West England">South West</a></li></ul></div></td></tr><tr class="mergedrow adr"><th scope="row" style="width: 40%"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Country</a></th><td><span class="country-name"><a href="/wiki/England" title="England">England</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign state</a></th><td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/Post_town" title="Post town">Post town</a></th><td><span style="font-size:80%;"><style data-mw-deduplicate="TemplateStyles:r920968872">.mw-parser-output span.allcaps{text-transform:uppercase}</style><span class="allcaps">Minehead</span></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Postcodes_in_the_United_Kingdom" title="Postcodes in the United Kingdom">Postcode district</a></th><td><span style="font-size:100%;"><a href="/wiki/TA_postcode_area" title="TA postcode area">TA24</a></span></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><a class="mw-redirect" href="/wiki/List_of_law_enforcement_agencies_in_the_United_Kingdom" title="List of law enforcement agencies in the United Kingdom">Police</a></th><td><a href="/wiki/Avon_and_Somerset_Constabulary" title="Avon and Somerset Constabulary">Avon and Somerset</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Fire_services_in_the_United_Kingdom" title="Fire services in the United Kingdom">Fire</a></th><td><a href="/wiki/Devon_and_Somerset_Fire_and_Rescue_Service" title="Devon and Somerset Fire and Rescue Service">Devon and Somerset</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Emergency_medical_services_in_the_United_Kingdom" title="Emergency medical services in the United Kingdom">Ambulance</a></th><td><a href="/wiki/South_Western_Ambulance_Service" title="South Western Ambulance Service">South Western</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_members_of_the_European_Parliament_for_the_United_Kingdom,_2019%E2%80%9324" title="List of members of the European Parliament for the United Kingdom, 2019–24">EU Parliament</a></th><td><a href="/wiki/South_West_England_(European_Parliament_constituency)" title="South West England (European Parliament constituency)">South West England</a></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a class="mw-redirect" href="/wiki/List_of_United_Kingdom_Parliament_constituencies" title="List of United Kingdom Parliament constituencies">UK Parliament</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Bridgwater_and_West_Somerset_(UK_Parliament_constituency)" title="Bridgwater and West Somerset (UK Parliament constituency)">Bridgwater and West Somerset</a></li></ul></div></td></tr><tr><td class="hlist noprint nowrap" colspan="2" style="text-align:center;border-top: 1px solid #aaa; padding-top: 3px; font-size:85%;">
+<dl><dt><span style="font-weight:normal;">List of places</span></dt>
+<dd><a href="/wiki/List_of_United_Kingdom_locations" title="List of United Kingdom locations">UK</a></dd>
+<dd><a href="/wiki/List_of_places_in_England" title="List of places in England">England</a></dd>
+<dd><a href="/wiki/List_of_places_in_Somerset" title="List of places in Somerset">Somerset</a></dd></dl>
+<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Withypool&amp;params=51.107125_N_3.651191_W_region:GB_type:city(201)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°06′26″N</span> <span class="longitude">3°39′04″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.107125°N 3.651191°W</span><span style="display:none">﻿ / <span class="geo">51.107125; -3.651191</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Withypool&amp;params=51.107125_N_3.651191_W_region:GB_type:city(201)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°06′26″N</span> <span class="longitude">3°39′04″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.107125°N 3.651191°W</span><span style="display:none">﻿ / <span class="geo">51.107125; -3.651191</span></span></span></a></span></span></span></td></tr></tbody></table>
+<p><b>Withypool</b> (formerly <b>Widepolle</b>, <b>Widipol</b>, <b>Withypoole</b>) is a small village in <a href="/wiki/Somerset" title="Somerset">Somerset</a>, England, near the centre of <a class="mw-redirect" href="/wiki/Exmoor_National_Park" title="Exmoor National Park">Exmoor National Park</a> and close to the border with <a href="/wiki/Devon" title="Devon">Devon</a>.  The word <b><a class="extiw" href="https://en.wiktionary.org/wiki/withy" title="wiktionary:withy">Withy</a></b> means "willow". The <a href="/wiki/Civil_parish" title="Civil parish">civil parish</a>, known as <b>Withypool and Hawkridge</b>, covers 3,097 hectares (7,653 acres), includes the village of <b>Hawkridge</b> and has a population around 201.<sup class="reference" id="cite_ref-popn_1-1"><a href="#cite_note-popn-1">[1]</a></sup>
+</p><p>Withypool is in the <a href="/wiki/Barle_Valley" title="Barle Valley">Barle Valley</a> on the <a href="/wiki/River_Barle" title="River Barle">River Barle</a>. The village lies on the route of the <a href="/wiki/Two_Moors_Way" title="Two Moors Way">Two Moors Way</a> and the <a href="/wiki/Celtic_Way" title="Celtic Way">Celtic Way</a> Exmoor Option.
+</p><p>To the southwest of the village lie Withypool Common and Withypool Hill.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Governance"><span class="tocnumber">2</span> <span class="toctext">Governance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Landmarks"><span class="tocnumber">3</span> <span class="toctext">Landmarks</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#The_Royal_Oak_Inn"><span class="tocnumber">3.1</span> <span class="toctext">The Royal Oak Inn</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Religious_sites"><span class="tocnumber">4</span> <span class="toctext">Religious sites</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notable_people"><span class="tocnumber">5</span> <span class="toctext">Notable people</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Withypool&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The area around Withypool has been inhabited since the <a href="/wiki/Bronze_Age" title="Bronze Age">Bronze Age</a> and the <a href="/wiki/Withypool_Stone_Circle" title="Withypool Stone Circle">Withypool Stone Circle</a> can still be seen on top of Withypool Hill. The Brightworthy <a href="/wiki/Tumulus" title="Tumulus">barrows</a> lie on the Common; of three original, two survive.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>Withypool is mentioned in the <a href="/wiki/Domesday_Book" title="Domesday Book">Domesday Book</a> as being tended by three foresters: Dodo, Almer and Godric.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> The parishes of Hawkridge and Withypool were part of the <a class="mw-redirect" href="/wiki/Williton_and_Freemanners_(hundred)" title="Williton and Freemanners (hundred)">Williton and Freemanners</a> <a class="mw-redirect" href="/wiki/Hundred_(county_subdivision)" title="Hundred (county subdivision)">Hundred</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p><p>In the 14th century, <a href="/wiki/Geoffrey_Chaucer" title="Geoffrey Chaucer">Geoffrey Chaucer</a> was in charge of the village in his duties as forester of <a href="/wiki/North_Petherton" title="North Petherton">North Petherton</a>.
+</p><p>The red <a href="/wiki/Sandstone" title="Sandstone">sandstone</a> <a href="/wiki/Withypool_Bridge" title="Withypool Bridge">Withypool Bridge</a> (or New Bridge) carries a small road over the <a href="/wiki/River_Barle" title="River Barle">River Barle</a>. It was built in the 19th century and is a Grade II* <a href="/wiki/Listed_building" title="Listed building">listed building</a>.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Governance">Governance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Withypool&amp;action=edit&amp;section=2" title="Edit section: Governance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a class="mw-redirect" href="/wiki/Parish_councils_of_England" title="Parish councils of England">parish council</a> has responsibility for local issues, including setting an annual precept (local rate) to cover the council’s operating costs and producing annual accounts for public scrutiny. The parish council evaluates local planning applications and works with the local police, district council officers, and <a class="mw-redirect" href="/wiki/Neighbourhood_Watch_(UK)" title="Neighbourhood Watch (UK)">neighbourhood watch</a> groups on matters of crime, security, and traffic. The parish council's role also includes initiating projects for the maintenance and repair of parish facilities, as well as consulting with the district council on the maintenance, repair, and improvement of highways, drainage, footpaths, public transport, and street cleaning. Conservation matters (including trees and listed buildings) and environmental issues are also the responsibility of the council.
+</p><p>The village falls within the <a href="/wiki/Non-metropolitan_district" title="Non-metropolitan district">non-metropolitan district</a> of <a href="/wiki/Somerset_West_and_Taunton" title="Somerset West and Taunton">Somerset West and Taunton</a>, which was established on 1 April 2019. It was previously in the district of <a href="/wiki/West_Somerset" title="West Somerset">West Somerset</a>, which was formed on 1 April 1974 under the <a href="/wiki/Local_Government_Act_1972" title="Local Government Act 1972">Local Government Act 1972</a>, and part of <a href="/wiki/Dulverton_Rural_District" title="Dulverton Rural District">Dulverton Rural District</a> before that.<sup class="reference" id="cite_ref-dulvertonrd_9-0"><a href="#cite_note-dulvertonrd-9">[9]</a></sup> The district council is responsible for <a href="/wiki/Planning_permission" title="Planning permission">local planning</a> and <a href="/wiki/Building_regulations_in_the_United_Kingdom" title="Building regulations in the United Kingdom">building control</a>, local roads, <a class="mw-redirect" href="/wiki/Council_housing" title="Council housing">council housing</a>, <a href="/wiki/Environmental_health" title="Environmental health">environmental health</a>, <a class="mw-redirect" href="/wiki/Market_(place)" title="Market (place)">markets</a> and fairs, <a class="mw-redirect" href="/wiki/Refuse_collection" title="Refuse collection">refuse collection</a> and <a href="/wiki/Recycling" title="Recycling">recycling</a>, <a class="mw-redirect" href="/wiki/Cemeteries" title="Cemeteries">cemeteries</a> and <a class="mw-redirect" href="/wiki/Crematoria" title="Crematoria">crematoria</a>, leisure services, parks, and <a href="/wiki/Tourism" title="Tourism">tourism</a>.
+</p><p><a href="/wiki/Somerset_County_Council" title="Somerset County Council">Somerset County Council</a> is responsible for running the largest and most expensive local services such as <a class="mw-redirect" href="/wiki/Local_Education_Authority" title="Local Education Authority">education</a>, <a href="/wiki/Social_services" title="Social services">social services</a>, <a href="/wiki/Library" title="Library">libraries</a>, main roads, <a href="/wiki/Public_transport" title="Public transport">public transport</a>, <a href="/wiki/Police" title="Police">policing</a> and  <a class="mw-redirect" href="/wiki/Fire_service" title="Fire service">fire services</a>, <a href="/wiki/Trading_Standards" title="Trading Standards">trading standards</a>, <a class="mw-redirect" href="/wiki/Waste_disposal" title="Waste disposal">waste disposal</a> and strategic planning.
+</p><p>As Withypool falls within the <a class="mw-redirect" href="/wiki/Exmoor_National_Park" title="Exmoor National Park">Exmoor National Park</a> some functions normally administered by district or county councils have, since 1997, fallen under the Exmoor National Park Authority, which is known as a ‘single purpose’ authority, which aims to "conserve and enhance the natural beauty, wildlife and cultural heritage of the National Parks" and "promote opportunities for the understanding and enjoyment of the special qualities of the Parks by the public",<sup class="reference" id="cite_ref-ENPA_10-0"><a href="#cite_note-ENPA-10">[10]</a></sup> including responsibility for the conservation of the historic environment.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p><p>It is also part of the <a href="/wiki/Bridgwater_and_West_Somerset_(UK_Parliament_constituency)" title="Bridgwater and West Somerset (UK Parliament constituency)">Bridgwater and West Somerset</a> <a class="mw-redirect" href="/wiki/County_constituency" title="County constituency">county constituency</a> represented in the <a class="mw-redirect" href="/wiki/British_House_of_Commons" title="British House of Commons">House of Commons</a> of the <a href="/wiki/Parliament_of_the_United_Kingdom" title="Parliament of the United Kingdom">Parliament of the United Kingdom</a>. It elects one <a class="mw-redirect" href="/wiki/Member_of_Parliament" title="Member of Parliament">Member of Parliament (MP)</a> by the <a class="mw-redirect" href="/wiki/First_past_the_post" title="First past the post">first past the post</a> system of election, and part of the <a href="/wiki/South_West_England_(European_Parliament_constituency)" title="South West England (European Parliament constituency)">South West England constituency</a> of the <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a> which elects seven <a class="mw-redirect" href="/wiki/Members_of_the_European_Parliament" title="Members of the European Parliament">MEPs</a> using the <a href="/wiki/D%27Hondt_method" title="D'Hondt method">d'Hondt method</a> of <a href="/wiki/Party-list_proportional_representation" title="Party-list proportional representation">party-list proportional representation</a>.
+</p>
+<h2><span class="mw-headline" id="Landmarks">Landmarks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Withypool&amp;action=edit&amp;section=3" title="Edit section: Landmarks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>2 miles upstream of the village, the River Barle passes under a late medieval five-arch stone <a href="/wiki/Landacre_Bridge" title="Landacre Bridge">Landacre Bridge</a>.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Royal_Oak_Inn">The Royal Oak Inn</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Withypool&amp;action=edit&amp;section=4" title="Edit section: The Royal Oak Inn">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The village's Royal Oak Inn has seen its share of history since its construction in the late 17th century.  <a href="/wiki/R._D._Blackmore" title="R. D. Blackmore">R. D. Blackmore</a> wrote part of <i><a href="/wiki/Lorna_Doone" title="Lorna Doone">Lorna Doone</a></i> in the bar, and artist <a href="/wiki/Alfred_Munnings" title="Alfred Munnings">Alfred Munnings</a> had a studio in the loft.  In the 1930s, the inn was owned by Gwladys and Maxwell Knight, a spy-ring leader and radio broadcaster upon whom <a href="/wiki/Ian_Fleming" title="Ian Fleming">Ian Fleming</a> based the character of <a href="/wiki/James_Bond" title="James Bond">James Bond</a>'s boss, <a href="/wiki/M_(James_Bond)" title="M (James Bond)">M</a>.  During <a href="/wiki/World_War_II" title="World War II">World War II</a>, the nearby <a href="/wiki/Woolacombe" title="Woolacombe">Woolacombe</a> beach was used to simulate the <a class="mw-redirect" href="/wiki/D-Day" title="D-Day">invasion of Normandy</a>, and General <a class="mw-redirect" href="/wiki/Dwight_Eisenhower" title="Dwight Eisenhower">Dwight Eisenhower</a> planned some of the operation from the Royal Oak.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Religious_sites">Religious sites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Withypool&amp;action=edit&amp;section=5" title="Edit section: Religious sites">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The late medieval <a href="/wiki/Church_of_St_Andrew,_Withypool" title="Church of St Andrew, Withypool">Church of St Andrew</a> is a Grade II* <a href="/wiki/Listed_building" title="Listed building">listed building</a>. The tower was rebuilt in the early 17th century, <a href="/wiki/Victorian_restoration" title="Victorian restoration">restored and refitted</a> in 1887, and restored extensively and rebuilt again in 1902.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</p><p>The <a href="/wiki/Norman_architecture" title="Norman architecture">Norman</a> <a href="/wiki/Church_of_St_Giles,_Hawkridge" title="Church of St Giles, Hawkridge">Church of St Giles in Hawkridge</a> has 14th-century origins.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Withypool&amp;action=edit&amp;section=6" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Ina_Skriver" title="Ina Skriver">Ina Skriver</a>, actress</li>
+<li><a href="/wiki/Mary_Etherington" title="Mary Etherington">Mary Etherington</a>, conservationist</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Withypool&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-popn-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-popn_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-popn_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.somersetintelligence.org.uk/files/Somerset%20Census%20Key%20Statistics%20-%20Summary%20Profiles.xls" rel="nofollow">"Statistics for Wards, LSOAs and Parishes — SUMMARY Profiles"</a> <span class="cs1-format">(Excel)</span>. Somerset Intelligence<span class="reference-accessdate">. Retrieved <span class="nowrap">4 January</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Statistics+for+Wards%2C+LSOAs+and+Parishes+%E2%80%94+SUMMARY+Profiles&amp;rft.pub=Somerset+Intelligence&amp;rft_id=http%3A%2F%2Fwww.somersetintelligence.org.uk%2Ffiles%2FSomerset%2520Census%2520Key%2520Statistics%2520-%2520Summary%2520Profiles.xls&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.themodernantiquarian.com/site/7436" rel="nofollow">"Brightworthy Barrows"</a>. Modern Antiquarian<span class="reference-accessdate">. Retrieved <span class="nowrap">18 October</span> 2008</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Brightworthy+Barrows&amp;rft.pub=Modern+Antiquarian&amp;rft_id=http%3A%2F%2Fwww.themodernantiquarian.com%2Fsite%2F7436&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.megalithic.co.uk/article.php?sid=1362" rel="nofollow">"Withypool circle"</a>. Megalithic Portal<span class="reference-accessdate">. Retrieved <span class="nowrap">18 October</span> 2008</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Withypool+circle&amp;rft.pub=Megalithic+Portal&amp;rft_id=http%3A%2F%2Fwww.megalithic.co.uk%2Farticle.php%3Fsid%3D1362&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.everythingexmoor.org.uk/_W/Withypool.php" rel="nofollow">"Withypool"</a>. Everything Exmoor<span class="reference-accessdate">. Retrieved <span class="nowrap">18 October</span> 2008</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Withypool&amp;rft.pub=Everything+Exmoor&amp;rft_id=http%3A%2F%2Fwww.everythingexmoor.org.uk%2F_W%2FWithypool.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.genuki.org.uk/big/eng/SOM/Miscellaneous/" rel="nofollow">"Somerset Hundreds"</a>. GENUKI<span class="reference-accessdate">. Retrieved <span class="nowrap">23 October</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Somerset+Hundreds&amp;rft.pub=GENUKI&amp;rft_id=http%3A%2F%2Fwww.genuki.org.uk%2Fbig%2Feng%2FSOM%2FMiscellaneous%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web" id="CITEREFHistoric_England1057969"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1057969" rel="nofollow">"Withypool Bridge at NGR SS 8452 (1057969)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Withypool+Bridge+at+NGR+SS+8452+%281057969%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1057969&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.exmoorher.co.uk/hbsmr-web/record.aspx?UID=MSO8671-New-Bridge-Withypool" rel="nofollow">"MSO8671 - New Bridge, Withypool"</a>. <i>Exmoor Historic Environment Record</i>. Exmoor National Park<span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Exmoor+Historic+Environment+Record&amp;rft.atitle=MSO8671+-+New+Bridge%2C+Withypool&amp;rft_id=https%3A%2F%2Fwww.exmoorher.co.uk%2Fhbsmr-web%2Frecord.aspx%3FUID%3DMSO8671-New-Bridge-Withypool&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web" id="CITEREFHistoric_England35757"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a class="external text" href="http://www.pastscape.org.uk/hob.aspx?hob_id=35757" rel="nofollow">"New Bridge  (35757)"</a>. <i>PastScape</i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PastScape&amp;rft.atitle=New+Bridge++%2835757%29&amp;rft.au=Historic+England&amp;rft_id=http%3A%2F%2Fwww.pastscape.org.uk%2Fhob.aspx%3Fhob_id%3D35757&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-dulvertonrd-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-dulvertonrd_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.visionofbritain.org.uk/unit/10001547" rel="nofollow">"Dulverton RD"</a>. <i>A vision of Britain Through Time</i>. University of Portsmouth<span class="reference-accessdate">. Retrieved <span class="nowrap">5 January</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=A+vision+of+Britain+Through+Time&amp;rft.atitle=Dulverton+RD&amp;rft_id=http%3A%2F%2Fwww.visionofbritain.org.uk%2Funit%2F10001547&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-ENPA-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-ENPA_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20071224124146/http://www.exmoor-nationalpark.gov.uk/index/living_in/the_authority.htm" rel="nofollow">"The Authority"</a>. <i>Exmoor National Park</i>. Archived from <a class="external text" href="http://www.exmoor-nationalpark.gov.uk/index/living_in/the_authority.htm" rel="nofollow">the original</a> on 24 December 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2007</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Exmoor+National+Park&amp;rft.atitle=The+Authority&amp;rft_id=http%3A%2F%2Fwww.exmoor-nationalpark.gov.uk%2Findex%2Fliving_in%2Fthe_authority.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.english-heritage.org.uk/server/show/nav.00100200300400200300l" rel="nofollow">"Exmoor National Park NMP"</a>. <i>English Heritage</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2007</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=English+Heritage&amp;rft.atitle=Exmoor+National+Park+NMP&amp;rft_id=http%3A%2F%2Fwww.english-heritage.org.uk%2Fserver%2Fshow%2Fnav.00100200300400200300l&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web" id="CITEREFHistoric_England1058006"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1058006" rel="nofollow">"Landacre Bridge (1058006)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 October</span> 2008</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Landacre+Bridge+%281058006%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1058006&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20080510145649/http://www.royaloakwithypool.co.uk/history.html" rel="nofollow">"History"</a>. Royal Oak Inn. Archived from <a class="external text" href="http://www.royaloakwithypool.co.uk/history.html" rel="nofollow">the original</a> on 10 May 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">18 October</span> 2008</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=History&amp;rft.pub=Royal+Oak+Inn&amp;rft_id=http%3A%2F%2Fwww.royaloakwithypool.co.uk%2Fhistory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web" id="CITEREFHistoric_England1057968"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1057968" rel="nofollow">"Church of St Andrew (1057968)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 October</span> 2008</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Church+of+St+Andrew+%281057968%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1057968&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web" id="CITEREFHistoric_England1174221"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1174221" rel="nofollow">"Church of St Giles (1174221)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 October</span> 2008</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Church+of+St+Giles+%281174221%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1174221&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWithypool"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Withypool&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="image" href="/wiki/File:Commons-logo.svg"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" width="12"/></a> Media related to <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Withypool" title="commons:Category:Withypool">Withypool</a> at Wikimedia Commons
+</p>
+<div aria-labelledby="Towns,_villages_and_hamlets_in_the_West_Somerset_district_of_Somerset,_England" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:West_Somerset" title="Template:West Somerset"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:West_Somerset" title="Template talk:West Somerset"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:West_Somerset&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Towns,_villages_and_hamlets_in_the_West_Somerset_district_of_Somerset,_England" style="font-size:114%;margin:0 4em">Towns, villages and hamlets in the <a href="/wiki/West_Somerset" title="West Somerset">West Somerset</a> district of <a href="/wiki/Somerset" title="Somerset">Somerset</a>, England</div></th></tr><tr><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 2px 0px 0px"><div><a class="image" href="/wiki/File:SomersetWest.png"><img alt="SomersetWest.png" data-file-height="101" data-file-width="200" decoding="async" height="71" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SomersetWest.png/140px-SomersetWest.png" srcset="//upload.wikimedia.org/wikipedia/commons/a/a1/SomersetWest.png 1.5x" width="140"/></a></div></td><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Allerford" title="Allerford">Allerford</a></li>
+<li><a href="/wiki/Stogumber" title="Stogumber">Ashbeer</a></li>
+<li><a href="/wiki/Bicknoller" title="Bicknoller">Bicknoller</a></li>
+<li><a href="/wiki/Selworthy" title="Selworthy">Brandish Street</a></li>
+<li><a href="/wiki/Brompton_Ralph" title="Brompton Ralph">Brompton Ralph</a></li>
+<li><a href="/wiki/Brompton_Regis" title="Brompton Regis">Brompton Regis</a></li>
+<li><a href="/wiki/Brushford,_Somerset" title="Brushford, Somerset">Brushford</a></li>
+<li><a href="/wiki/Carhampton" title="Carhampton">Carhampton</a></li>
+<li><a href="/wiki/Clatworthy" title="Clatworthy">Clatworthy</a></li>
+<li><a href="/wiki/Cockercombe" title="Cockercombe">Cockercombe</a></li>
+<li><a href="/wiki/Crowcombe" title="Crowcombe">Crowcombe</a></li>
+<li><a href="/wiki/Culbone" title="Culbone">Culbone</a></li>
+<li><a href="/wiki/Cutcombe" title="Cutcombe">Cutcombe</a></li>
+<li><a href="/wiki/Dulverton" title="Dulverton">Dulverton</a></li>
+<li><a href="/wiki/Dunster" title="Dunster">Dunster</a></li>
+<li><a href="/wiki/East_Quantoxhead" title="East Quantoxhead">East Quantoxhead</a></li>
+<li><a href="/wiki/Elworthy" title="Elworthy">Elworthy</a></li>
+<li><a href="/wiki/Exford,_Somerset" title="Exford, Somerset">Exford</a></li>
+<li><a href="/wiki/Exton,_Somerset" title="Exton, Somerset">Exton</a></li>
+<li><a href="/wiki/Holford" title="Holford">Holford</a></li>
+<li><a href="/wiki/Huish_Champflower" title="Huish Champflower">Huish Champflower</a></li>
+<li><a href="/wiki/Kilve" title="Kilve">Kilve</a></li>
+<li><a href="/wiki/Lilstock" title="Lilstock">Lilstock</a></li>
+<li><a href="/wiki/Luccombe,_Somerset" title="Luccombe, Somerset">Luccombe</a></li>
+<li><a href="/wiki/Luxborough" title="Luxborough">Luxborough</a></li>
+<li><a href="/wiki/Malmsmead" title="Malmsmead">Malmsmead</a></li>
+<li><a href="/wiki/Minehead" title="Minehead">Minehead</a></li>
+<li><a href="/wiki/Monksilver" title="Monksilver">Monksilver</a></li>
+<li><a href="/wiki/Oare,_Somerset" title="Oare, Somerset">Oare</a></li>
+<li><a href="/wiki/Old_Cleeve" title="Old Cleeve">Old Cleeve</a></li>
+<li><a href="/wiki/Porlock" title="Porlock">Porlock</a></li>
+<li><a href="/wiki/Roadwater" title="Roadwater">Roadwater</a></li>
+<li><a href="/wiki/Sampford_Brett" title="Sampford Brett">Sampford Brett</a></li>
+<li><a href="/wiki/Selworthy" title="Selworthy">Selworthy</a></li>
+<li><a href="/wiki/Simonsbath" title="Simonsbath">Simonsbath</a></li>
+<li><a href="/wiki/Skilgate" title="Skilgate">Skilgate</a></li>
+<li><a href="/wiki/Stogumber" title="Stogumber">Stogumber</a></li>
+<li><a href="/wiki/Stogursey" title="Stogursey">Stogursey</a></li>
+<li><a href="/wiki/Stringston" title="Stringston">Stringston</a></li>
+<li><a href="/wiki/Timberscombe" title="Timberscombe">Timberscombe</a></li>
+<li><a href="/wiki/Treborough" title="Treborough">Treborough</a></li>
+<li><a href="/wiki/Upton,_Somerset" title="Upton, Somerset">Upton</a></li>
+<li><a href="/wiki/Washford" title="Washford">Washford</a></li>
+<li><a href="/wiki/Watchet" title="Watchet">Watchet</a></li>
+<li><a href="/wiki/West_Quantoxhead" title="West Quantoxhead">West Quantoxhead</a></li>
+<li><b><a href="/wiki/Williton" title="Williton">Williton</a></b></li>
+<li><a href="/wiki/Winsford,_Somerset" title="Winsford, Somerset">Winsford</a></li>
+<li><a href="/wiki/Withycombe" title="Withycombe">Withycombe</a></li>
+<li><a class="mw-selflink selflink">Withypool</a></li>
+<li><a href="/wiki/Wootton_Courtenay" title="Wootton Courtenay">Wootton Courtenay</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20191214174828
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.648 seconds
+Real time usage: 0.879 seconds
+Preprocessor visited node count: 3417/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 71783/2097152 bytes
+Template argument size: 9888/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 43164/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.295/10.000 seconds
+Lua memory usage: 7.02 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  790.404      1 -total
+ 46.61%  368.417      2 Template:Infobox
+ 45.99%  363.509      1 Template:Infobox_UK_place
+ 31.79%  251.295      1 Template:Reflist
+ 19.72%  155.878     11 Template:Cite_web
+  9.65%   76.280     26 Template:Ubl
+  7.66%   60.513      4 Template:NHLE
+  7.58%   59.906      1 Template:Commons_category-inline
+  7.56%   59.741      1 Template:Coord
+  6.13%   48.434      1 Template:Use_dmy_dates
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4123311-0!canonical and timestamp 20191214174827 and revision id 922025614
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Withypool&amp;oldid=922025614">https://en.wikipedia.org/w/index.php?title=Withypool&amp;oldid=922025614</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Civil_parishes_in_Somerset" title="Category:Civil parishes in Somerset">Civil parishes in Somerset</a></li><li><a href="/wiki/Category:Villages_in_West_Somerset" title="Category:Villages in West Somerset">Villages in West Somerset</a></li><li><a href="/wiki/Category:Exmoor" title="Category:Exmoor">Exmoor</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_October_2019" title="Category:Use dmy dates from October 2019">Use dmy dates from October 2019</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_with_OS_grid_coordinates" title="Category:Articles with OS grid coordinates">Articles with OS grid coordinates</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Withypool" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Withypool" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Withypool" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Withypool" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Withypool">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Withypool&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Withypool&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Withypool" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Withypool" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Withypool&amp;oldid=922025614" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Withypool&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2422634" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Withypool&amp;id=922025614" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Withypool" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Withypool">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Withypool&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Withypool&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Withypool" hreflang="nan" lang="nan" title="Withypool – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Withypool" hreflang="ceb" lang="ceb" title="Withypool – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Withypool" hreflang="nl" lang="nl" title="Withypool – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Withypool" hreflang="pl" lang="pl" title="Withypool – Polish">Polski</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Withypool" hreflang="sv" lang="sv" title="Withypool – Swedish">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2422634#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 October 2019, at 12:26<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Withypool&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.648","walltime":"0.879","ppvisitednodes":{"value":3417,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":71783,"limit":2097152},"templateargumentsize":{"value":9888,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":43164,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  790.404      1 -total"," 46.61%  368.417      2 Template:Infobox"," 45.99%  363.509      1 Template:Infobox_UK_place"," 31.79%  251.295      1 Template:Reflist"," 19.72%  155.878     11 Template:Cite_web","  9.65%   76.280     26 Template:Ubl","  7.66%   60.513      4 Template:NHLE","  7.58%   59.906      1 Template:Commons_category-inline","  7.56%   59.741      1 Template:Coord","  6.13%   48.434      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.295","limit":"10.000"},"limitreport-memusage":{"value":7363296,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20191214174828","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Withypool","url":"https:\/\/en.wikipedia.org\/wiki\/Withypool","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2422634","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2422634","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-02-19T02:31:52Z","dateModified":"2019-10-19T12:26:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/29\/Withypool_bridge.jpg","headline":"village in the United Kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":153,"wgHostname":"mw1241"});});</script>
+
+
+</body></html>

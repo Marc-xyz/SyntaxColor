@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Standard J - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xft-6ApAICEAAF2SaUMAAADQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Standard_J","wgTitle":"Standard J","wgCurRevisionId":928914147,"wgRevisionId":928914147,"wgArticleId":16821797,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Wikipedia references cleanup from April 2013","All articles needing references cleanup","Articles covered by WikiProject Wikify from April 2013",
+"All articles covered by WikiProject Wikify","All articles with unsourced statements","Articles with unsourced statements from May 2017","All articles with failed verification","Articles with failed verification from May 2017","CS1 maint: extra text: authors list","CS1: Julian–Gregorian uncertainty","Commons category link is on Wikidata","1910s United States military trainer aircraft","Standard Aircraft Corporation aircraft"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Standard_J","wgRelevantArticleId":16821797,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":
+!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3968143","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse",
+"ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.11" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Standard_J-1_USAF.jpg/1200px-Standard_J-1_USAF.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Standard_J" rel="alternate"/>
+<link href="/w/index.php?title=Standard_J&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Standard_J&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Standard_J" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Standard_J rootpage-Standard_J skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Standard J</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Biplane trainer aircraft produced 1916-1918</div>
+<table class="box-Citation_style plainlinks metadata ambox ambox-style ambox-citation_style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>has an unclear citation style</b>.<span class="hide-when-compact"> The references used may be made clearer with a different or consistent style of <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citation</a> and <a href="/wiki/Help:Footnotes" title="Help:Footnotes">footnoting</a>.</span>  <small class="date-container"><i>(<span class="date">April 2013</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox" style="width:25.5em;border-spacing:2px;">
+<tbody><tr>
+<th colspan="2" style="text-align: center; font-size: large; padding-bottom: 0.3em;">Standard J
+</th></tr>
+
+
+<tr>
+<td colspan="2" style="text-align: center;"><a class="image" href="/wiki/File:Standard_J-1_USAF.jpg"><img alt="Standard J-1 USAF.jpg" data-file-height="1216" data-file-width="1800" decoding="async" height="203" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Standard_J-1_USAF.jpg/300px-Standard_J-1_USAF.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Standard_J-1_USAF.jpg/450px-Standard_J-1_USAF.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Standard_J-1_USAF.jpg/600px-Standard_J-1_USAF.jpg 2x" width="300"/></a>
+</td></tr>
+
+<tr>
+<th>Role
+</th>
+<td>Trainer
+</td></tr>
+<tr>
+<th><span class="nowrap">National origin</span>
+</th>
+<td>United States
+</td></tr>
+<tr>
+<th>Manufacturer
+</th>
+<td><a href="/wiki/Standard_Aircraft_Corporation" title="Standard Aircraft Corporation">Standard Aircraft Corporation</a>
+</td></tr>
+
+<tr>
+<th>Designer
+</th>
+<td><a class="new" href="/w/index.php?title=Charles_Healy_Day&amp;action=edit&amp;redlink=1" title="Charles Healy Day (page does not exist)">Charles Healy Day</a>
+</td></tr>
+
+<tr>
+<th>First flight
+</th>
+<td>1916
+</td></tr>
+
+
+
+
+
+
+<tr>
+<th><span class="nowrap">Number built</span>
+</th>
+<td>1,600+
+</td></tr>
+
+<tr>
+<th><span class="nowrap">Unit cost</span>
+</th>
+<td><div>
+$6,000</div>
+</td></tr>
+<tr>
+<th><span class="nowrap">Developed from</span>
+</th>
+<td>Sloan H series
+</td></tr>
+
+
+</tbody></table>
+<p>The <b>Standard J</b> is a two-seat basic trainer <a href="/wiki/Bracing_(aeronautics)#Bays" title="Bracing (aeronautics)">two-bay</a> biplane produced in the United States from 1916 to 1918, powered by a four-cylinder inline <a href="/wiki/Hall-Scott_A-7" title="Hall-Scott A-7">Hall-Scott A-7a</a> engine. It was constructed from wood with wire bracing and fabric covering. The J-1 was built as a stopgap to supplement the <a href="/wiki/Curtiss_JN-4" title="Curtiss JN-4">Curtiss JN-4</a> in production.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Development"><span class="tocnumber">1</span> <span class="toctext">Development</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Operational_history"><span class="tocnumber">2</span> <span class="toctext">Operational history</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Variants"><span class="tocnumber">3</span> <span class="toctext">Variants</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#War-surplus_conversions"><span class="tocnumber">3.1</span> <span class="toctext">War-surplus conversions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Operators"><span class="tocnumber">4</span> <span class="toctext">Operators</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Surviving_aircraft"><span class="tocnumber">5</span> <span class="toctext">Surviving aircraft</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Specifications_(SJ)"><span class="tocnumber">6</span> <span class="toctext">Specifications (SJ)</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Development">Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_J&amp;action=edit&amp;section=1" title="Edit section: Development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Charles Healy Day had designed the preceding <a href="/wiki/Standard_H-2" title="Standard H-2">Sloan H</a> series of aircraft, and continued the line under the Standard Aero Corporation (later <a href="/wiki/Standard_Aircraft_Corporation" title="Standard Aircraft Corporation">Standard Aircraft Corporation</a>). Four companies, Standard, Dayton-Wright, Fisher Body, and Wright-Martin, delivered 1,601 J-1s between June 1917 and June 1918. The Standard J-1 can be differentiated from the Curtiss JN series by its slightly swept-back wing planform, triangular <a href="/wiki/King_post" title="King post">king posts</a> above the upper wings, and the front legs of the landing gear which were mounted behind the lower wing's leading edge, just about where the forward <a href="/wiki/Spar_(aeronautics)" title="Spar (aeronautics)">wing spar</a> of the lower wing panel attaches to the fuselage.
+</p>
+<h2><span class="mw-headline" id="Operational_history">Operational history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_J&amp;action=edit&amp;section=2" title="Edit section: Operational history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:04-00075_Carrying_passengers_at_Rockwell_Field._(5684424286).jpg"><img alt="" class="thumbimage" data-file-height="580" data-file-width="1024" decoding="async" height="125" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/04-00075_Carrying_passengers_at_Rockwell_Field._%285684424286%29.jpg/220px-04-00075_Carrying_passengers_at_Rockwell_Field._%285684424286%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/04-00075_Carrying_passengers_at_Rockwell_Field._%285684424286%29.jpg/330px-04-00075_Carrying_passengers_at_Rockwell_Field._%285684424286%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/04-00075_Carrying_passengers_at_Rockwell_Field._%285684424286%29.jpg/440px-04-00075_Carrying_passengers_at_Rockwell_Field._%285684424286%29.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:04-00075_Carrying_passengers_at_Rockwell_Field._(5684424286).jpg" title="Enlarge"></a></div>Standard J-1 providing joyrides.</div></div></div>
+<p>Although produced in large numbers, its four-cylinder <a class="mw-redirect" href="/wiki/Hall-Scott_A-7a" title="Hall-Scott A-7a">Hall-Scott A-7a</a> engine was unreliable and vibrated badly. While JN-4 production outnumbered J-1s by about two to one to June 1918, fatalities in JN-4s versus J-1s numbered about seven to one as a result of the limited use of the J-1s. Few later production J-1s left their delivery crates.
+</p><p>In June 1918, all Standard J-1s were grounded, although training remained intensive. Sufficient JN-4s were available to meet training needs, and at $2,000 per aircraft it was not cost-effective to convert them to use <a href="/wiki/Curtiss_OX-5" title="Curtiss OX-5">Curtiss OX-5</a> engines. Contracts for 2,600+ JS-1s were canceled, and those not used for ground instruction by the US Army were sold as surplus or scrapped. <a href="/wiki/Curtiss_Aeroplane_and_Motor_Company" title="Curtiss Aeroplane and Motor Company">Curtiss</a>, which produced its competitor (the Curtiss JN) bought surplus J-1s which they modified with different powerplants, for resale.
+</p><p>Many J-1s were flown by civilian flying schools, and for joy-riding and barnstorming operations, until they were worn out, or were forced into retirement by new air transport legislation in 1927 which banned passenger aircraft with wood structures due to a number of high-profile accidents.
+</p>
+<h2><span class="mw-headline" id="Variants">Variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_J&amp;action=edit&amp;section=3" title="Edit section: Variants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Ryan_Standard.jpg"><img alt="" class="thumbimage" data-file-height="408" data-file-width="600" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ryan_Standard.jpg/220px-Ryan_Standard.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ryan_Standard.jpg/330px-Ryan_Standard.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ryan_Standard.jpg/440px-Ryan_Standard.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Ryan_Standard.jpg" title="Enlarge"></a></div>Standard J, modified with an enclosed cabin by <a href="/wiki/T._Claude_Ryan" title="T. Claude Ryan">T. Claude Ryan</a>, in flight over <a href="/wiki/San_Diego" title="San Diego">San Diego</a><sup class="reference" id="cite_ref-Ryan_1-0"><a href="#cite_note-Ryan-1">[1]</a></sup></div></div></div>
+<ul><li><b>Sloan H</b> series: trainers and reconnaissance aircraft from 1913</li>
+<li><b>Standard H</b> series: production by Standard of Sloan H-series</li>
+<li><b>Standard J</b>: first Standard-designed variant</li>
+<li><b>Standard J-1</b>: trainer for U.S. Army</li>
+<li><b>Standard SJ-1</b>: J-1 with additional pair of forward wheels to prevent noseovers</li>
+<li><b>Standard JR-1</b>: advanced trainer for US Army</li>
+<li><b>Standard JR-1B</b>: mail carrier for US Post Office, modification of JR-1</li>
+<li><b>Standard E-4</b>: redesignated JR-1B mailcarrier</li></ul>
+<h3><span class="mw-headline" id="War-surplus_conversions">War-surplus conversions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_J&amp;action=edit&amp;section=4" title="Edit section: War-surplus conversions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Nicholas-Beazley_Standard_Aero_Digest_September_1926.jpg"><img alt="" class="thumbimage" data-file-height="478" data-file-width="983" decoding="async" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Nicholas-Beazley_Standard_Aero_Digest_September_1926.jpg/220px-Nicholas-Beazley_Standard_Aero_Digest_September_1926.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Nicholas-Beazley_Standard_Aero_Digest_September_1926.jpg/330px-Nicholas-Beazley_Standard_Aero_Digest_September_1926.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Nicholas-Beazley_Standard_Aero_Digest_September_1926.jpg/440px-Nicholas-Beazley_Standard_Aero_Digest_September_1926.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Nicholas-Beazley_Standard_Aero_Digest_September_1926.jpg" title="Enlarge"></a></div>Nicholas-Beazley Standard photo from Aero Digest September 1926</div></div></div>
+<ul><li><b><a href="/wiki/Aerial_Engineering_Corporation_Standard_6W-3" title="Aerial Engineering Corporation Standard 6W-3">Aerial Engineering Corporation Standard 6W-3</a></b>: Modification for a pilot and four passengers. Also known as the Mercury Standard 6<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></li>
+<li><b>Curtiss Night Mail</b>: 1922 mailplane conversion of J-1 by <a href="/wiki/Curtiss_Aeroplane_and_Motor_Company" title="Curtiss Aeroplane and Motor Company">Curtiss</a> with new wings (about 6 converted)</li>
+<li><b><a href="/wiki/Lincoln_Standard_L.S.5" title="Lincoln Standard L.S.5">Lincoln Standard L.S.5</a></b>: J-1 modified with an open cockpit for four passengers</li>
+<li><b>Nicholas-Beazley-Standard</b>: J-1 aircraft modified by <a class="mw-redirect" href="/wiki/Nicholas-Beazley" title="Nicholas-Beazley">Nicholas-Beazley</a></li>
+<li><b>Ryan Standard</b>: J-1 with a 180 hp <a class="mw-redirect" href="/wiki/Hispano_Suiza" title="Hispano Suiza">Hispano Suiza</a> engine<sup class="reference" id="cite_ref-Ryan_1-1"><a href="#cite_note-Ryan-1">[1]</a></sup> and an enclosed cabin for four passengers fitted by the <a href="/wiki/Ryan_Aeronautical" title="Ryan Aeronautical">Ryan Flying Company</a><sup class="reference" id="cite_ref-IEA_2835_3-0"><a href="#cite_note-IEA_2835-3">[3]</a></sup> (9 converted)<sup class="reference" id="cite_ref-JEA_774_4-0"><a href="#cite_note-JEA_774-4">[4]</a></sup></li>
+<li><b>Sikorsky Standard</b>: civil trainer with <a href="/wiki/Sikorsky_Aircraft" title="Sikorsky Aircraft">Sikorsky</a>-<a href="/wiki/Eugene_Michael_Gluhareff" title="Eugene Michael Gluhareff">Gluhareff</a> <a class="mw-redirect" href="/wiki/Parasol_wing" title="Parasol wing">Parasol wing</a> (also known as Standard SJ)</li></ul>
+<h2><span class="mw-headline" id="Operators">Operators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_J&amp;action=edit&amp;section=5" title="Edit section: Operators">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a></dt></dl>
+<ul><li><a href="/wiki/United_States_Army_Air_Service" title="United States Army Air Service">United States Army Air Service</a></li>
+<li><a href="/wiki/United_States_Navy" title="United States Navy">United States Navy</a></li>
+<li><a href="/wiki/United_States_Post_Office_Department" title="United States Post Office Department">United States Post Office Department</a></li>
+<li>The San Diego—Los Angeles Airlines<sup class="reference" id="cite_ref-Ryan_1-2"><a href="#cite_note-Ryan-1">[1]</a></sup></li></ul>
+<h2><span class="mw-headline" id="Surviving_aircraft">Surviving aircraft</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_J&amp;action=edit&amp;section=6" title="Edit section: Surviving aircraft">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Standard_J-1_belowL_Early_Years_NMUSAF_25Sep09_(14413259688).jpg"><img alt="" class="thumbimage" data-file-height="669" data-file-width="1000" decoding="async" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Standard_J-1_belowL_Early_Years_NMUSAF_25Sep09_%2814413259688%29.jpg/220px-Standard_J-1_belowL_Early_Years_NMUSAF_25Sep09_%2814413259688%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Standard_J-1_belowL_Early_Years_NMUSAF_25Sep09_%2814413259688%29.jpg/330px-Standard_J-1_belowL_Early_Years_NMUSAF_25Sep09_%2814413259688%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Standard_J-1_belowL_Early_Years_NMUSAF_25Sep09_%2814413259688%29.jpg/440px-Standard_J-1_belowL_Early_Years_NMUSAF_25Sep09_%2814413259688%29.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Standard_J-1_belowL_Early_Years_NMUSAF_25Sep09_(14413259688).jpg" title="Enlarge"></a></div>Standard J-1 at the <a href="/wiki/National_Museum_of_the_United_States_Air_Force" title="National Museum of the United States Air Force">USAF Museum</a>, showing the wing sweepback</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:17_14_023_museum.jpg"><img alt="" class="thumbimage" data-file-height="3990" data-file-width="5736" decoding="async" height="153" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/17_14_023_museum.jpg/220px-17_14_023_museum.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/17_14_023_museum.jpg/330px-17_14_023_museum.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/17_14_023_museum.jpg/440px-17_14_023_museum.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:17_14_023_museum.jpg" title="Enlarge"></a></div>Standard J-1 (fabric covering removed) at the <a href="/wiki/National_Museum_of_the_United_States_Air_Force" title="National Museum of the United States Air Force">USAF Museum</a></div></div></div>
+<p>Over a dozen J-1s are on display or being restored. Others projects are incomplete and awaiting restoration.
+</p>
+<ul><li>214 – J-1 on static display at the <a href="/wiki/Yanks_Air_Museum" title="Yanks Air Museum">Yanks Air Museum</a> in <a href="/wiki/Chino,_California" title="Chino, California">Chino, California</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></li>
+<li>581 – J-1 airworthy at the Owls Head Transportation Museum in <a href="/wiki/Owls_Head,_Maine" title="Owls Head, Maine">Owls Head, Maine</a>. It has a <a href="/wiki/Hispano-Suiza" title="Hispano-Suiza">Hispano-Suiza</a> V-8 engine installed.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></li>
+<li>1000 – J-1 airworthy with James F. Hammond of <a href="/wiki/Yellow_Springs,_Ohio" title="Yellow Springs, Ohio">Yellow Springs, Ohio</a>.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></li>
+<li>1141 – J-1 on static display at the <a href="/wiki/National_Museum_of_the_United_States_Air_Force" title="National Museum of the United States Air Force">National Museum of the United States Air Force</a> in <a href="/wiki/Dayton,_Ohio" title="Dayton, Ohio">Dayton, Ohio</a>. It is displayed without a right wing or fabric covering, has a <a href="/wiki/Hall-Scott" title="Hall-Scott">Hall-Scott</a> A-4A engine installed, and was donated by Robert Greiger in December 1962.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></li>
+<li>1582 – J-1 in storage at the <a href="/wiki/Fantasy_of_Flight" title="Fantasy of Flight">Fantasy of Flight</a> in <a href="/wiki/Polk_City,_Florida" title="Polk City, Florida">Polk City, Florida</a>.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> It is composite of two airframes.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2017)">citation needed</span></a></i>]</sup></li>
+<li>1598 – J-1 on static display at the <a class="mw-redirect" href="/wiki/San_Diego_Aerospace_Museum" title="San Diego Aerospace Museum">San Diego Aerospace Museum</a> in <a class="mw-redirect" href="/wiki/San_Diego,_California" title="San Diego, California">San Diego, California</a>.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup></li>
+<li>1956 – J-1 airworthy at the <a href="/wiki/EAA_Aviation_Museum" title="EAA Aviation Museum">EAA Aviation Museum</a> in <a href="/wiki/Oshkosh,_Wisconsin" title="Oshkosh, Wisconsin">Oshkosh, Wisconsin</a>. It has a Hispano-Suiza Model A engine installed.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup><sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></li>
+<li>2434 – J-1 on display at the <a href="/wiki/Fargo_Air_Museum" title="Fargo Air Museum">Fargo Air Museum</a> in <a href="/wiki/Fargo,_North_Dakota" title="Fargo, North Dakota">Fargo, North Dakota</a>. It is on loan from <a class="mw-redirect" href="/wiki/Bonanzaville,_U.S.A." title="Bonanzaville, U.S.A.">Bonanzaville, U.S.A.</a>. It has an <a href="/wiki/Curtiss_OXX" title="Curtiss OXX">OXX-6</a> engine installed.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (May 2017)">failed verification</span></a></i>]</sup><sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (May 2017)">failed verification</span></a></i>]</sup></li>
+<li>2969 – J-1 airworthy with Walter C. Bowe of <a href="/wiki/Sonoma,_California" title="Sonoma, California">Sonoma, California</a>.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> It is assembled from original components as a period kit.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2017)">citation needed</span></a></i>]</sup></li>
+<li>41236 – J-1 on static display at the <a href="/wiki/Glenn_H._Curtiss_Museum" title="Glenn H. Curtiss Museum">Glenn H. Curtiss Museum</a> in <a href="/wiki/Hammondsport,_New_York" title="Hammondsport, New York">Hammondsport, New York</a>. It is on loan from the <a class="mw-redirect" href="/wiki/Henry_Ford_Museum" title="Henry Ford Museum">Henry Ford Museum</a>.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup><sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup></li>
+<li>T-4595 – J-1 at the <a href="/wiki/Historic_Aircraft_Restoration_Museum" title="Historic Aircraft Restoration Museum">Historic Aircraft Restoration Museum</a> in <a href="/wiki/Creve_Coeur,_Missouri" title="Creve Coeur, Missouri">Creve Coeur, Missouri</a>.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup><sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup></li>
+<li>T-4598 – J-1 airworthy with the Freeman Heritage Collection in <a href="/wiki/Kingsbury,_Texas" title="Kingsbury, Texas">Kingsbury, Texas</a>.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup></li>
+<li>T-4732 – J-1 airworthy with C C Air Corp of <a href="/wiki/Port_Hueneme,_California" title="Port Hueneme, California">Port Hueneme, California</a>.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup></li>
+<li>J-1 on static display at the <a href="/wiki/National_Museum_of_the_United_States_Air_Force" title="National Museum of the United States Air Force">National Museum of the United States Air Force</a> in <a href="/wiki/Dayton,_Ohio" title="Dayton, Ohio">Dayton, Ohio</a>. It has an <a href="/wiki/Curtiss_OXX" title="Curtiss OXX">OXX-6</a> engine installed.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></li></ul>
+<h2><span id="Specifications_.28SJ.29"></span><span class="mw-headline" id="Specifications_(SJ)">Specifications (SJ)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_J&amp;action=edit&amp;section=7" title="Edit section: Specifications (SJ)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Standard_J-1_with_Hispano-Suiza_engine.jpg"><img alt="" class="thumbimage" data-file-height="584" data-file-width="1024" decoding="async" height="125" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Standard_J-1_with_Hispano-Suiza_engine.jpg/220px-Standard_J-1_with_Hispano-Suiza_engine.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Standard_J-1_with_Hispano-Suiza_engine.jpg/330px-Standard_J-1_with_Hispano-Suiza_engine.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Standard_J-1_with_Hispano-Suiza_engine.jpg/440px-Standard_J-1_with_Hispano-Suiza_engine.jpg 2x" width="220"/></a>  <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Standard_J-1_with_Hispano-Suiza_engine.jpg" title="Enlarge"></a></div>Standard J-1 with <a href="/wiki/Hispano-Suiza" title="Hispano-Suiza">Hispano-Suiza</a> engine</div></div></div>
+<p style="font-size: 90%; margin:0;"><i>Data from</i> The Standard Aero Corporation Model J Training Tractor<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup></p><p><span style="font-size: 120%;"><b>General characteristics</b></span>
+</p><ul><li><b>Crew:</b> 2</li>
+<li><b>Length:</b> 26 ft 7 in (8.10 m)</li>
+<li><b>Upper wingspan:</b> 43 ft 11 in (13.39 m)</li>
+<li><b>Lower wingspan:</b> 32 ft (9.8 m)</li>
+<li><b>Height:</b> 10 ft 10 in (3.30 m)</li>
+<li><b>Wing area:</b> 429 sq ft (39.9 m<sup>2</sup>)</li>
+<li><b><a href="/wiki/Airfoil" title="Airfoil">Airfoil</a>:</b> R.A.F No 3</li>
+<li><b>Empty weight:</b> 1,350 lb (612 kg)</li>
+<li><b>Gross weight:</b> 1,950 lb (885 kg)</li>
+<li><b>Fuel capacity:</b> 31 US gal (26 imp gal; 120 L)</li>
+<li><b>Powerplant:</b> 1 × <a href="/wiki/Hall-Scott_A-7" title="Hall-Scott A-7">Hall-Scott A-7</a> water-cooled <a class="mw-redirect" href="/wiki/Straight-4" title="Straight-4">straight-4</a> engine, 100 hp (75 kW)</li></ul>
+<p><span style="font-size: 120%;"><b>Performance</b></span>
+</p>
+<ul><li><b>Maximum speed:</b> 68 mph (109 km/h, 59 kn)</li>
+<li><b>Stall speed:</b> 37 mph (60 km/h, 32 kn)</li>
+<li><b>Range:</b> 350 mi (560 km, 300 nmi)</li>
+<li><b>Time to altitude:</b> 10 minutes to 2,600 ft (790 m)</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_J&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="1600" data-file-width="1600" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aviacionavion.png/28px-Aviacionavion.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aviacionavion.png/42px-Aviacionavion.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aviacionavion.png/56px-Aviacionavion.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Aviation" title="Portal:Aviation">Aviation portal</a></span></li></ul></div>
+<p>
+
+<b>Aircraft of comparable role, configuration and era</b>
+</p>
+<ul><li><a href="/wiki/Airco_DH.4" title="Airco DH.4">Airco DH.4</a></li>
+<li><a href="/wiki/Airco_DH.6" title="Airco DH.6">Airco DH.6</a></li>
+<li><a href="/wiki/Albatros_C.III" title="Albatros C.III">Albatros C.III</a></li>
+<li><a href="/wiki/Avro_504" title="Avro 504">Avro 504</a></li>
+<li><a class="mw-redirect" href="/wiki/Caudron_G.III" title="Caudron G.III">Caudron G.III</a></li>
+<li><a href="/wiki/Martin_T" title="Martin T">Martin TT</a></li>
+<li><a class="mw-redirect" href="/wiki/Nieuport_83" title="Nieuport 83">Nieuport 83</a></li></ul>
+<p>
+<b>Related lists</b>
+</p>
+<ul><li><a href="/wiki/List_of_military_aircraft_of_the_United_States" title="List of military aircraft of the United States">List of military aircraft of the United States</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_J&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Notes</dt></dl>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Ryan-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ryan_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ryan_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Ryan_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Radecki, Alan (2012). <a class="external text" href="http://vintageairphotos.blogspot.co.uk/2012/02/first-airline-in-america.html" rel="nofollow">"The First Airline in America"</a>. <i>Vintage Air</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 November</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vintage+Air&amp;rft.atitle=The+First+Airline+in+America&amp;rft.date=2012&amp;rft.aulast=Radecki&amp;rft.aufirst=Alan&amp;rft_id=http%3A%2F%2Fvintageairphotos.blogspot.co.uk%2F2012%2F02%2Ffirst-airline-in-america.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://gallica.bnf.fr/ark:/12148/bpt6k6568276c/f2.image" rel="nofollow">"Les Ailes : journal hebdomadaire de la locomotion aérienne / directeur, rédacteur en chef, Georges Houard"</a>. <i>Gallica</i>. 1926-02-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-08-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gallica&amp;rft.atitle=Les+Ailes+%3A+journal+hebdomadaire+de+la+locomotion+a%C3%A9rienne+%2F+directeur%2C+r%C3%A9dacteur+en+chef%2C+Georges+Houard&amp;rft.date=1926-02-18&amp;rft_id=https%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k6568276c%2Ff2.image&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-IEA_2835-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-IEA_2835_3-0">^</a></b></span> <span class="reference-text"><i>The Illustrated Encyclopedia of Aircraft</i> p.2835</span>
+</li>
+<li id="cite_note-JEA_774-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-JEA_774_4-0">^</a></b></span> <span class="reference-text">Taylor 1989, p.774</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://yanksair.org/collection/standard-j-1" rel="nofollow">"Standard J-1"</a>. <i>Yanks Air Museum</i>. Yanks Air Museum. 2017-02-06<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Yanks+Air+Museum&amp;rft.atitle=Standard+J-1&amp;rft.date=2017-02-06&amp;rft_id=http%3A%2F%2Fyanksair.org%2Fcollection%2Fstandard-j-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://aerialvisuals.ca/AirframeDossier.php?Serial=93198" rel="nofollow">"Airframe Dossier — StandardH / J / SJ / JR / E-4, c/n 214, c/r N214J"</a>. <i>Aerial Visuals</i>. AerialVisuals.ca<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Aerial+Visuals&amp;rft.atitle=Airframe+Dossier+%E2%80%94+StandardH+%2F+J+%2F+SJ+%2F+JR+%2F+E-4%2C+c%2Fn+214%2C+c%2Fr+N214J&amp;rft_id=http%3A%2F%2Faerialvisuals.ca%2FAirframeDossier.php%3FSerial%3D93198&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://owlshead.org/collections/detail/1918-standard-j-1" rel="nofollow">"1918 STANDARD J-1"</a>. <i>Owls Head Transportation Museum</i>. Owls Head Transportation Museum<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Owls+Head+Transportation+Museum&amp;rft.atitle=1918+STANDARD+J-1&amp;rft_id=http%3A%2F%2Fowlshead.org%2Fcollections%2Fdetail%2F1918-standard-j-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=22581" rel="nofollow">"FAA REGISTRY [N22581]"</a>. <i>Federal Aviation Administration</i>. U.S. Department of Transportation<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Aviation+Administration&amp;rft.atitle=FAA+REGISTRY+%5BN22581%5D&amp;rft_id=http%3A%2F%2Fregistry.faa.gov%2Faircraftinquiry%2FNNum_Results.aspx%3FNNumbertxt%3D22581&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=7063X" rel="nofollow">"FAA REGISTRY [N7063X]"</a>. <i>Federal Aviation Administration</i>. U.S. Department of Transportation<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Aviation+Administration&amp;rft.atitle=FAA+REGISTRY+%5BN7063X%5D&amp;rft_id=http%3A%2F%2Fregistry.faa.gov%2Faircraftinquiry%2FNNum_Results.aspx%3FNNumbertxt%3D7063X&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197398/standard-j-1-fabric-removed" rel="nofollow">"Standard J-1 (Fabric Removed)"</a>. <i>National Museum of the US Air Force</i>. 7 April 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Museum+of+the+US+Air+Force&amp;rft.atitle=Standard+J-1+%28Fabric+Removed%29&amp;rft.date=2015-04-07&amp;rft_id=http%3A%2F%2Fwww.nationalmuseum.af.mil%2FVisit%2FMuseum-Exhibits%2FFact-Sheets%2FDisplay%2FArticle%2F197398%2Fstandard-j-1-fabric-removed&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://aerialvisuals.ca/AirframeDossier.php?Serial=174259" rel="nofollow">"Airframe Dossier — Standard J-1, c/n 1141"</a>. <i>Aerial Visuals</i>. AerialVisuals.ca<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Aerial+Visuals&amp;rft.atitle=Airframe+Dossier+%E2%80%94+Standard+J-1%2C+c%2Fn+1141&amp;rft_id=http%3A%2F%2Faerialvisuals.ca%2FAirframeDossier.php%3FSerial%3D174259&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.fantasyofflight.com/collection/aircraft/currently-not-showing-in-museum/wwi/1917-standard-j-1" rel="nofollow">"1917 Standard J-1"</a>. <i>Fantasy of Flight</i>. Fantasy of Flight<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fantasy+of+Flight&amp;rft.atitle=1917+Standard+J-1&amp;rft_id=http%3A%2F%2Fwww.fantasyofflight.com%2Fcollection%2Faircraft%2Fcurrently-not-showing-in-museum%2Fwwi%2F1917-standard-j-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=2825D" rel="nofollow">"FAA REGISTRY [N2825D]"</a>. <i>Federal Aviation Administration</i>. U.S. Department of Transportation<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Aviation+Administration&amp;rft.atitle=FAA+REGISTRY+%5BN2825D%5D&amp;rft_id=http%3A%2F%2Fregistry.faa.gov%2Faircraftinquiry%2FNNum_Results.aspx%3FNNumbertxt%3D2825D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://aerialvisuals.ca/AirframeDossier.php?Serial=11310" rel="nofollow">"Airframe Dossier — Standard J-1, c/n 1598, c/r NX2826D"</a>. <i>Aerial Visuals</i>. AerialVisuals.ca<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Aerial+Visuals&amp;rft.atitle=Airframe+Dossier+%E2%80%94+Standard+J-1%2C+c%2Fn+1598%2C+c%2Fr+NX2826D&amp;rft_id=http%3A%2F%2Faerialvisuals.ca%2FAirframeDossier.php%3FSerial%3D11310&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=2826D" rel="nofollow">"FAA REGISTRY [N2826D]"</a>. <i>Federal Aviation Administration</i>. U.S. Department of Transportation<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Aviation+Administration&amp;rft.atitle=FAA+REGISTRY+%5BN2826D%5D&amp;rft_id=http%3A%2F%2Fregistry.faa.gov%2Faircraftinquiry%2FNNum_Results.aspx%3FNNumbertxt%3D2826D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.eaa.org/en/eaa/eaa-news-and-aviation-news/eaa/2014-10-02-eaas_standard_j-1_makes_first_post-restorative_flight" rel="nofollow">"EAA's Standard J-1 Makes First Post-Restorative Flight"</a>. <i>EAA</i>. EAA. 2 October 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=EAA&amp;rft.atitle=EAA%27s+Standard+J-1+Makes+First+Post-Restorative+Flight&amp;rft.date=2014-10-02&amp;rft_id=http%3A%2F%2Fwww.eaa.org%2Fen%2Feaa%2Feaa-news-and-aviation-news%2Feaa%2F2014-10-02-eaas_standard_j-1_makes_first_post-restorative_flight&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://aerialvisuals.ca/AirframeDossier.php?Serial=8733" rel="nofollow">"Airframe Dossier — Standard H / J / SJ / JR / E-4, c/r N6948"</a>. <i>Aerial Visuals</i>. AerialVisuals.ca<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Aerial+Visuals&amp;rft.atitle=Airframe+Dossier+%E2%80%94+Standard+H+%2F+J+%2F+SJ+%2F+JR+%2F+E-4%2C+c%2Fr+N6948&amp;rft_id=http%3A%2F%2Faerialvisuals.ca%2FAirframeDossier.php%3FSerial%3D8733&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=6948" rel="nofollow">"FAA REGISTRY [N6948]"</a>. <i>Federal Aviation Administration</i>. U.S. Department of Transportation<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Aviation+Administration&amp;rft.atitle=FAA+REGISTRY+%5BN6948%5D&amp;rft_id=http%3A%2F%2Fregistry.faa.gov%2Faircraftinquiry%2FNNum_Results.aspx%3FNNumbertxt%3D6948&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.airport-data.com/aircraft/N9477.html" rel="nofollow">"Aircraft N9477 Data"</a>. <i>Airport-Data.com</i>. Airport-Data.com<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Airport-Data.com&amp;rft.atitle=Aircraft+N9477+Data&amp;rft_id=http%3A%2F%2Fwww.airport-data.com%2Faircraft%2FN9477.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N9477" rel="nofollow">"FAA REGISTRY [N9477]"</a>. <i>Federal Aviation Administration</i>. U.S. Department of Transportation<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Aviation+Administration&amp;rft.atitle=FAA+REGISTRY+%5BN9477%5D&amp;rft_id=http%3A%2F%2Fregistry.faa.gov%2Faircraftinquiry%2FNNum_Results.aspx%3FNNumbertxt%3DN9477&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=5264" rel="nofollow">"FAA REGISTRY [N5264]"</a>. <i>Federal Aviation Administration</i>. U.S. Department of Transportation<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Aviation+Administration&amp;rft.atitle=FAA+REGISTRY+%5BN5264%5D&amp;rft_id=http%3A%2F%2Fregistry.faa.gov%2Faircraftinquiry%2FNNum_Results.aspx%3FNNumbertxt%3D5264&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.glennhcurtissmuseum.org/aircraft.php" rel="nofollow">"Aircraft"</a>. <i>Glenn H. Curtiss Museum</i>. Glenn H. Curtiss Museum<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Glenn+H.+Curtiss+Museum&amp;rft.atitle=Aircraft&amp;rft_id=http%3A%2F%2Fwww.glennhcurtissmuseum.org%2Faircraft.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N823H" rel="nofollow">"FAA REGISTRY [N823H]"</a>. <i>Federal Aviation Administration</i>. U.S. Department of Transportation<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Aviation+Administration&amp;rft.atitle=FAA+REGISTRY+%5BN823H%5D&amp;rft_id=http%3A%2F%2Fregistry.faa.gov%2Faircraftinquiry%2FNNum_Results.aspx%3FNNumbertxt%3DN823H&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.historicaircraftrestorationmuseum.org/museumhangar4.html" rel="nofollow">"Museum Hangar 4"</a>. <i>Historic Aircraft Restoration Museum</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Historic+Aircraft+Restoration+Museum&amp;rft.atitle=Museum+Hangar+4&amp;rft_id=http%3A%2F%2Fwww.historicaircraftrestorationmuseum.org%2Fmuseumhangar4.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N62505" rel="nofollow">"FAA Registry [N62505]"</a>. <i>Federal Aviation Administration</i>. U.S. Department of Transportation<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Aviation+Administration&amp;rft.atitle=FAA+Registry+%5BN62505%5D&amp;rft_id=http%3A%2F%2Fregistry.faa.gov%2Faircraftinquiry%2FNNum_Results.aspx%3FNNumbertxt%3DN62505&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=598EF" rel="nofollow">"FAA REGISTRY [N598EF]"</a>. <i>Federal Aviation Administration</i>. U.S. Department of Transportation<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Aviation+Administration&amp;rft.atitle=FAA+REGISTRY+%5BN598EF%5D&amp;rft_id=http%3A%2F%2Fregistry.faa.gov%2Faircraftinquiry%2FNNum_Results.aspx%3FNNumbertxt%3D598EF&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=4732W" rel="nofollow">"FAA REGISTRY [N4732W]"</a>. <i>Federal Aviation Administration</i>. U.S. Department of Transportation<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Aviation+Administration&amp;rft.atitle=FAA+REGISTRY+%5BN4732W%5D&amp;rft_id=http%3A%2F%2Fregistry.faa.gov%2Faircraftinquiry%2FNNum_Results.aspx%3FNNumbertxt%3D4732W&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198093/standard-j-1" rel="nofollow">"Standard J-1"</a>. <i>National Museum of the US Air Force</i>. 7 April 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Museum+of+the+US+Air+Force&amp;rft.atitle=Standard+J-1&amp;rft.date=2015-04-07&amp;rft_id=http%3A%2F%2Fwww.nationalmuseum.af.mil%2FVisit%2FMuseum-Exhibits%2FFact-Sheets%2FDisplay%2FArticle%2F198093%2Fstandard-j-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><i>Aviation</i> April 1, 1917, pp. 216–217.</span>
+</li>
+</ol></div></div>
+<dl><dt>Bibliography</dt></dl>
+<ul><li><cite class="citation book">Donald, David, ed (1997). <i><span></span></i>Encyclopedia of World Aircraft<i><span></span></i>. Ontario: Prospero Books. p. 854.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+World+Aircraft&amp;rft.place=Ontario&amp;rft.pages=854&amp;rft.pub=Prospero+Books&amp;rft.date=1997&amp;rft.aulast=Donald&amp;rft.aufirst=David%2C+ed&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><span class="cs1-maint citation-comment">CS1 maint: extra text: authors list (<a href="/wiki/Category:CS1_maint:_extra_text:_authors_list" title="Category:CS1 maint: extra text: authors list">link</a>)</span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book"><i>The Illustrated Encyclopedia of Aircraft</i>. London: Aerospace Publishing.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Illustrated+Encyclopedia+of+Aircraft&amp;rft.place=London&amp;rft.pub=Aerospace+Publishing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation web"><a class="external text" href="http://aerofiles.com/_st.html" rel="nofollow">"Standard, Standard-Caproni, Standard-DH,Standard-Handley-Page, Gates-Day Standard"</a>. <i>Aerofiles</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Aerofiles&amp;rft.atitle=Standard%2C+Standard-Caproni%2C+Standard-DH%2CStandard-Handley-Page%2C+Gates-Day+Standard&amp;rft_id=http%3A%2F%2Faerofiles.com%2F_st.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">Taylor, Michael J. H. (1989). <i>Jane's Encyclopedia of Aviation</i>. London: Studio Editions.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Jane%27s+Encyclopedia+of+Aviation&amp;rft.place=London&amp;rft.pub=Studio+Editions&amp;rft.date=1989&amp;rft.aulast=Taylor&amp;rft.aufirst=Michael+J.+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation magazine"><span class="cs1-lock-registration" title="Free registration required"><a class="external text" href="http://archive.aviationweek.com/issue/19170401/#!&amp;pid=216" rel="nofollow">"The Standard Aero Corporation Model J Training Tractor"</a></span>. <i><a href="/wiki/Aviation_Week_%26_Space_Technology" title="Aviation Week &amp; Space Technology">Aviation</a></i>. Vol. II no. 5. April 1, 1917. pp. 216–217.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Aviation&amp;rft.atitle=The+Standard+Aero+Corporation+Model+J+Training+Tractor&amp;rft.volume=II&amp;rft.issue=5&amp;rft.pages=216-217&amp;rft.date=1917-04-01&amp;rft_id=http%3A%2F%2Farchive.aviationweek.com%2Fissue%2F19170401%2F%23%21%26pid%3D216&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book"><i>United States Air Force Museum</i>. Wright-Patterson AFB, Ohio: Air Force Museum Foundation. 1975.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=United+States+Air+Force+Museum&amp;rft.place=Wright-Patterson+AFB%2C+Ohio&amp;rft.pub=Air+Force+Museum+Foundation&amp;rft.date=1975&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+J"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_J&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Standard_J" title="commons:Category:Standard J"><span style="">Standard J</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a class="external text" href="http://owlshead.org/collections/detail/1918-standard-j-1" rel="nofollow">The Owl's Head Transportation Museum's Standard J-1 page</a></li></ul>
+<div aria-labelledby="Standard_Aircraft_Corporation" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Standard_Aircraft_Corporation" title="Template:Standard Aircraft Corporation"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Standard_Aircraft_Corporation" title="Template talk:Standard Aircraft Corporation"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Standard_Aircraft_Corporation&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Standard_Aircraft_Corporation" style="font-size:114%;margin:0 4em"><a href="/wiki/Standard_Aircraft_Corporation" title="Standard Aircraft Corporation">Standard Aircraft Corporation</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Aircraft</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Standard_E-1" title="Standard E-1">Standard E-1</a></li>
+<li><a href="/wiki/Standard_H-2" title="Standard H-2">Standard H-2</a></li>
+<li><a class="mw-selflink selflink">Standard J</a></li>
+<li><a href="/wiki/New_Standard_D-25" title="New Standard D-25">New Standard D-25</a></li>
+<li><a href="/wiki/New_Standard_D-29" title="New Standard D-29">New Standard D-29</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Companies</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/New_Standard_Aircraft_Company" title="New Standard Aircraft Company">New Standard Aircraft Company</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Aircraft_produced_by_Ryan_Aeronautical" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Ryan_aircraft" title="Template:Ryan aircraft"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ryan_aircraft" title="Template talk:Ryan aircraft"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Ryan_aircraft&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Aircraft_produced_by_Ryan_Aeronautical" style="font-size:114%;margin:0 4em">Aircraft produced by <a href="/wiki/Ryan_Aeronautical" title="Ryan Aeronautical">Ryan Aeronautical</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Commercial</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Standard J</a></li>
+<li><a href="/wiki/Douglas_Cloudster" title="Douglas Cloudster">Cloudster</a></li>
+<li><a href="/wiki/Ryan_M-1" title="Ryan M-1">M-1</a></li>
+<li><a href="/wiki/Ryan_M-1" title="Ryan M-1">M-2</a></li>
+<li><a href="/wiki/Ryan_Brougham" title="Ryan Brougham">Brougham</a></li>
+<li><a href="/wiki/Ryan_Foursome" title="Ryan Foursome">Foursome</a></li>
+<li><a href="/wiki/Ryan_S-C" title="Ryan S-C">S-C</a></li>
+<li><a href="/wiki/Ryan_ST" title="Ryan ST">S-T</a></li>
+<li><a href="/wiki/Ryan_Navion" title="Ryan Navion">Navion</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Special purpose</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Spirit_of_St._Louis" title="Spirit of St. Louis">NYP (<i>Spirit of St. Louis</i>)</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Trainers</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ryan_ST" title="Ryan ST">YPT-16</a></li>
+<li><a href="/wiki/Ryan_ST" title="Ryan ST">PT-20</a></li>
+<li><a href="/wiki/Ryan_ST" title="Ryan ST">PT-21</a></li>
+<li><a href="/wiki/Ryan_PT-22_Recruit" title="Ryan PT-22 Recruit">PT-22</a></li>
+<li><a href="/wiki/Ryan_ST" title="Ryan ST">PT-25</a></li>
+<li><a href="/wiki/Ryan_ST" title="Ryan ST">NR</a><br/></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Fighters</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ryan_FR_Fireball" title="Ryan FR Fireball">FR</a></li>
+<li><a href="/wiki/Ryan_XF2R_Dark_Shark" title="Ryan XF2R Dark Shark">XF2R</a><br/></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Observation</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ryan_S-C" title="Ryan S-C">L-10</a></li>
+<li><a href="/wiki/Ryan_YO-51_Dragonfly" title="Ryan YO-51 Dragonfly">YO-51</a><br/></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Research</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ryan_X-13_Vertijet" title="Ryan X-13 Vertijet">X-13</a></li>
+<li><a href="/wiki/Ryan_VZ-3_Vertiplane" title="Ryan VZ-3 Vertiplane">VZ-3</a></li>
+<li><a href="/wiki/Ryan_XV-5_Vertifan" title="Ryan XV-5 Vertifan">XV-5</a></li>
+<li><a href="/wiki/Ryan_XV-8" title="Ryan XV-8">XV-8</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20191217185757
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.760 seconds
+Real time usage: 0.983 seconds
+Preprocessor visited node count: 4148/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 82769/2097152 bytes
+Template argument size: 4483/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 87049/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.379/10.000 seconds
+Lua memory usage: 9.06 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  863.919      1 -total
+ 31.13%  268.952      1 Template:Reflist
+ 27.73%  239.522     27 Template:Cite_web
+ 17.38%  150.166      1 Template:Aircraft_specs
+  7.44%   64.266      1 Template:Citation_style
+  7.10%   61.301      1 Template:Short_description
+  6.43%   55.578      4 Template:Fix
+  6.38%   55.095      1 Template:Ambox
+  6.17%   53.261     10 Template:Convert
+  5.98%   51.627      1 Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16821797-0!canonical and timestamp 20191217185756 and revision id 928914147
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Standard_J&amp;oldid=928914147">https://en.wikipedia.org/w/index.php?title=Standard_J&amp;oldid=928914147</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1910s_United_States_military_trainer_aircraft" title="Category:1910s United States military trainer aircraft">1910s United States military trainer aircraft</a></li><li><a href="/wiki/Category:Standard_Aircraft_Corporation_aircraft" title="Category:Standard Aircraft Corporation aircraft">Standard Aircraft Corporation aircraft</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Wikipedia_references_cleanup_from_April_2013" title="Category:Wikipedia references cleanup from April 2013">Wikipedia references cleanup from April 2013</a></li><li><a href="/wiki/Category:All_articles_needing_references_cleanup" title="Category:All articles needing references cleanup">All articles needing references cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_April_2013" title="Category:Articles covered by WikiProject Wikify from April 2013">Articles covered by WikiProject Wikify from April 2013</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2017" title="Category:Articles with unsourced statements from May 2017">Articles with unsourced statements from May 2017</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_May_2017" title="Category:Articles with failed verification from May 2017">Articles with failed verification from May 2017</a></li><li><a href="/wiki/Category:CS1_maint:_extra_text:_authors_list" title="Category:CS1 maint: extra text: authors list">CS1 maint: extra text: authors list</a></li><li><a href="/wiki/Category:CS1:_Julian%E2%80%93Gregorian_uncertainty" title="Category:CS1: Julian–Gregorian uncertainty">CS1: Julian–Gregorian uncertainty</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Standard+J" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Standard+J" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Standard_J" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Standard_J" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Standard_J">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Standard_J&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Standard_J&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Standard_J" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Standard_J" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Standard_J&amp;oldid=928914147" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Standard_J&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3968143" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Standard_J&amp;id=928914147" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Standard_J" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Standard+J">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Standard+J&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Standard_J&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Standard_J" hreflang="it" lang="it" title="Standard J – Italian">Italiano</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Standard_J" hreflang="nb" lang="nb" title="Standard J – Norwegian Bokmål">Norsk bokmål</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3968143#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 December 2019, at 13:34<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Standard_J&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.760","walltime":"0.983","ppvisitednodes":{"value":4148,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":82769,"limit":2097152},"templateargumentsize":{"value":4483,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":87049,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  863.919      1 -total"," 31.13%  268.952      1 Template:Reflist"," 27.73%  239.522     27 Template:Cite_web"," 17.38%  150.166      1 Template:Aircraft_specs","  7.44%   64.266      1 Template:Citation_style","  7.10%   61.301      1 Template:Short_description","  6.43%   55.578      4 Template:Fix","  6.38%   55.095      1 Template:Ambox","  6.17%   53.261     10 Template:Convert","  5.98%   51.627      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.379","limit":"10.000"},"limitreport-memusage":{"value":9497753,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20191217185757","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Standard J","url":"https:\/\/en.wikipedia.org\/wiki\/Standard_J","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3968143","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3968143","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-04-08T05:14:11Z","dateModified":"2019-12-02T13:34:11Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/04\/Standard_J-1_USAF.jpg","headline":"1916 trainer aircraft family by Standard Aircraft Corporation"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":147,"wgHostname":"mw1331"});});</script>
+
+
+</body></html>

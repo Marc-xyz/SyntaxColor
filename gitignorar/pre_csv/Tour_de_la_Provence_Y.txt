@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Tour de la Provence - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfqtyApAMFUAACPxvisAAADN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Tour_de_la_Provence","wgTitle":"Tour de la Provence","wgCurRevisionId":921778765,"wgRevisionId":921778765,"wgArticleId":49505907,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Articles with hCards","Articles with French-language external links","All stub articles","Tour la Provence","UCI Europe Tour races","Cycle races in France",
+"Recurring sporting events established in 2016","French cycling race stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Tour_de_la_Provence","wgRelevantArticleId":49505907,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q22677272","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups"
+,"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tour_de_la_Provence" rel="alternate"/>
+<link href="/w/index.php?title=Tour_de_la_Provence&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Tour_de_la_Provence&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Tour_de_la_Provence" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Tour_de_la_Provence rootpage-Tour_de_la_Provence skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Tour de la Provence</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox" style="width:22em"><caption>Tour de la Provence</caption><tbody><tr><th class="navbox-title" colspan="2" style="text-align:center">Race details</th></tr><tr><th scope="row">Date</th><td>February</td></tr><tr><th scope="row">Region</th><td><a href="/wiki/Bouches-du-Rh%C3%B4ne" title="Bouches-du-Rhône">Bouches-du-Rhône</a></td></tr><tr><th scope="row">English name</th><td>Tour La Provence</td></tr><tr><th scope="row">Discipline</th><td><a href="/wiki/Road_bicycle_racing" title="Road bicycle racing">Road</a></td></tr><tr><th scope="row">Competition</th><td><a class="mw-redirect" href="/wiki/UCI_Europe_Tour" title="UCI Europe Tour">UCI Europe Tour</a></td></tr><tr><th scope="row">Type</th><td>Stage race</td></tr><tr><th scope="row">Organiser</th><td><a href="/wiki/La_Provence" title="La Provence">La Provence</a></td></tr><tr><th scope="row">Race director</th><td>Serge Pascal</td></tr><tr><th scope="row">Web site</th><td><span class="url"><a class="external text" href="http://www.aquiletour.info/" rel="nofollow">www<wbr/>.aquiletour<wbr/>.info</a></span> <a href="https://www.wikidata.org/wiki/Q22677272#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" style="vertical-align: text-top" width="10"/></a></td></tr><tr><th class="navbox-title" colspan="2" style="text-align:center">History</th></tr><tr><th scope="row">First edition</th><td>2016<span style="display:none"> (<span class="bday dtstart published updated">2016</span>)</span></td></tr><tr><th scope="row">Editions</th><td>3 (as of 2018)</td></tr><tr><th scope="row">First winner</th><td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" width="23"/> </span><a href="/wiki/Thomas_Voeckler" title="Thomas Voeckler">Thomas Voeckler</a> <span style="font-size:90%;">(<abbr title="France">FRA</abbr>)</span></td></tr><tr><th scope="row">Most wins</th><td>No repeat winners</td></tr><tr><th scope="row">Most recent</th><td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="500" data-file-width="750" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" width="23"/> </span><a href="/wiki/Gorka_Izagirre" title="Gorka Izagirre">Gorka Izagirre</a> <span style="font-size:90%;">(<abbr title="Spain">ESP</abbr>)</span></td></tr></tbody></table>
+<p>The <b>Tour de la Provence</b> is an early-season <a href="/wiki/Road_bicycle_racing#Stage_races" title="Road bicycle racing">bicycle stage race</a> in the <a href="/wiki/Provence" title="Provence">Provence</a> region of <a href="/wiki/France" title="France">France</a>. It is organized by southern French newspaper <a href="/wiki/La_Provence" title="La Provence">La Provence</a>, which serves as the race's title sponsor for its first three years. It is held in February, as a <a href="/wiki/UCI_race_classifications" title="UCI race classifications">2.1 event</a> on the <a class="mw-redirect" href="/wiki/UCI_Europe_Tour" title="UCI Europe Tour">UCI Europe Tour</a> calendar.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-La_Provence_lance_2-0"><a href="#cite_note-La_Provence_lance-2">[2]</a></sup>The race will become part of the new <a href="/wiki/UCI_ProSeries" title="UCI ProSeries">UCI ProSeries</a> in 2020. <i>La Provence</i> has entrusted the organization of the event to Serge Pascal, who also organizes the Tour du Haut Var. The inaugural edition of 2016 was won by <a href="/wiki/Thomas_Voeckler" title="Thomas Voeckler">Thomas Voeckler</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Route"><span class="tocnumber">2</span> <span class="toctext">Route</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Winners"><span class="tocnumber">3</span> <span class="toctext">Winners</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tour_de_la_Provence&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Organizers intend to build on the tradition of the former <a href="/wiki/Tour_du_Vaucluse" title="Tour du Vaucluse">Tour du Vaucluse</a> and the Tour du Sud-Est, two races in the same region that have disappeared over time.<sup class="reference" id="cite_ref-La_Provence_lance_2-1"><a href="#cite_note-La_Provence_lance-2">[2]</a></sup> The event is part of a series of cycling stage races being held in the <a class="mw-redirect" href="/wiki/South_of_France" title="South of France">south of France</a> in February, following the <a href="/wiki/%C3%89toile_de_Bess%C3%A8ges" title="Étoile de Bessèges">Étoile de Bessèges</a>, <a href="/wiki/La_M%C3%A9diterran%C3%A9enne" title="La Méditerranéenne">La Méditerranéenne</a> and the <a href="/wiki/Tour_du_Haut_Var" title="Tour du Haut Var">Tour du Haut Var</a>. The Tour La Provence takes place mid-week between the Tour du Haut-Var and the <a href="/wiki/Classic_Sud-Ard%C3%A8che" title="Classic Sud-Ardèche">Classic Sud-Ardèche</a>.<sup class="reference" id="cite_ref-new_French_race_5-0"><a href="#cite_note-new_French_race-5">[5]</a></sup> These races are competed mainly by French teams and are considered early-season preparations for <a href="/wiki/Paris%E2%80%93Nice" title="Paris–Nice">Paris–Nice</a>, the first European <a href="/wiki/UCI_World_Tour" title="UCI World Tour">World Tour</a> event in March.<sup class="reference" id="cite_ref-new_French_race_5-1"><a href="#cite_note-new_French_race-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Route">Route</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tour_de_la_Provence&amp;action=edit&amp;section=2" title="Edit section: Route">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The race is run over three stages in the <a href="/wiki/Bouches-du-Rh%C3%B4ne" title="Bouches-du-Rhône">Bouches-du-Rhône</a> department of the <a href="/wiki/Provence-Alpes-C%C3%B4te_d%27Azur" title="Provence-Alpes-Côte d'Azur">Provence-Alpes-Côte d'Azur</a> region, in the <a href="/wiki/Southern_France" title="Southern France">south of France</a>. The final stage finishes on the <a href="/wiki/Canebi%C3%A8re" title="Canebière">Canebière</a>, the historic main street in the old quarter of <a href="/wiki/Marseille" title="Marseille">Marseille</a>, in front of the city hall.<sup class="reference" id="cite_ref-La_Provence_lance_2-2"><a href="#cite_note-La_Provence_lance-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Winners">Winners</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tour_de_la_Provence&amp;action=edit&amp;section=3" title="Edit section: Winners">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable plainrowheaders sortable">
+
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Country
+</th>
+<th scope="col">Rider
+</th>
+<th scope="col">Team
+</th></tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/2016_Tour_La_Provence" title="2016 Tour La Provence">2016</a>
+</td>
+<td><span data-sort-value="FRA !"><span class="datasortkey" data-sort-value="France"><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" width="23"/> </span><a href="/wiki/France" title="France">France</a></span></span>
+</td>
+<th scope="row"><span data-sort-value="Voeckler, Thomas"><span class="vcard"><span class="fn"><a href="/wiki/Thomas_Voeckler" title="Thomas Voeckler">Thomas Voeckler</a></span></span></span>
+</th>
+<td><a href="/wiki/Total_Direct_%C3%89nergie_(cycling_team)" title="Total Direct Énergie (cycling team)">Direct Énergie</a>
+</td></tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/2017_Tour_La_Provence" title="2017 Tour La Provence">2017</a>
+</td>
+<td><span data-sort-value="AUS !"><span class="datasortkey" data-sort-value="Australia"><span class="flagicon"><img alt="" class="thumbborder" data-file-height="640" data-file-width="1280" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" width="23"/> </span><a href="/wiki/Australia" title="Australia">Australia</a></span></span>
+</td>
+<th scope="row"><span data-sort-value="Dennis, Rohan"><span class="vcard"><span class="fn"><a href="/wiki/Rohan_Dennis" title="Rohan Dennis">Rohan Dennis</a></span></span></span>
+</th>
+<td><a href="/wiki/CCC_Pro_Team" title="CCC Pro Team">BMC Racing Team</a>
+</td></tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/2018_Tour_La_Provence" title="2018 Tour La Provence">2018</a>
+</td>
+<td><span data-sort-value="FRA !"><span class="datasortkey" data-sort-value="France"><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" width="23"/> </span><a href="/wiki/France" title="France">France</a></span></span>
+</td>
+<th scope="row"><span data-sort-value="Geniez, Alexandre"><span class="vcard"><span class="fn"><a href="/wiki/Alexandre_Geniez" title="Alexandre Geniez">Alexandre Geniez</a></span></span></span>
+</th>
+<td><a href="/wiki/AG2R_La_Mondiale_(cycling_team)" title="AG2R La Mondiale (cycling team)">AG2R La Mondiale</a>
+</td></tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/2019_Tour_de_la_Provence" title="2019 Tour de la Provence">2019</a>
+</td>
+<td><span data-sort-value="ESP !"><span class="datasortkey" data-sort-value="Spain"><span class="flagicon"><img alt="" class="thumbborder" data-file-height="500" data-file-width="750" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" width="23"/> </span><a href="/wiki/Spain" title="Spain">Spain</a></span></span>
+</td>
+<th scope="row"><span data-sort-value="Izagirre, Gorka"><span class="vcard"><span class="fn"><a href="/wiki/Gorka_Izagirre" title="Gorka Izagirre">Gorka Izagirre</a></span></span></span>
+</th>
+<td><a href="/wiki/Astana_Pro_Team" title="Astana Pro Team">Astana</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tour_de_la_Provence&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Gilles, Benoît. <a class="external text" href="http://www.laprovence.com/article/sports/3466988/cyclisme-la-provence-cree-son-tour.html" rel="nofollow">"Cyclisme : "La Provence" crée son Tour"</a>. <i><a href="/wiki/La_Provence" title="La Provence">La Provence</a></i> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">21 February</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=La+Provence&amp;rft.atitle=Cyclisme+%3A+%22La+Provence%22+cr%C3%A9e+son+Tour&amp;rft.aulast=Gilles&amp;rft.aufirst=Beno%C3%AEt&amp;rft_id=http%3A%2F%2Fwww.laprovence.com%2Farticle%2Fsports%2F3466988%2Fcyclisme-la-provence-cree-son-tour.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATour+de+la+Provence"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-La_Provence_lance-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-La_Provence_lance_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-La_Provence_lance_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-La_Provence_lance_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Gilles, Benoît. <a class="external text" href="http://www.laprovence.com/article/sports/3664620/cyclisme-la-provence-se-lance-a-son-tour.html" rel="nofollow">"Cyclisme : la Provence se lance à son Tour"</a>. <i>laprovence.com</i> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">21 February</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=laprovence.com&amp;rft.atitle=Cyclisme+%3A+la+Provence+se+lance+%C3%A0+son+Tour&amp;rft.aulast=Gilles&amp;rft.aufirst=Beno%C3%AEt&amp;rft_id=http%3A%2F%2Fwww.laprovence.com%2Farticle%2Fsports%2F3664620%2Fcyclisme-la-provence-se-lance-a-son-tour.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATour+de+la+Provence"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.cyclingnews.com/races/tour-de-provence-2016/stage-3/results/" rel="nofollow">"Gaviria wins final stage in Provence. Voeckler takes home overall victory"</a>. <i><a href="/wiki/Cyclingnews.com" title="Cyclingnews.com">Cyclingnews.com</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 February</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Cyclingnews.com&amp;rft.atitle=Gaviria+wins+final+stage+in+Provence.+Voeckler+takes+home+overall+victory&amp;rft_id=http%3A%2F%2Fwww.cyclingnews.com%2Fraces%2Ftour-de-provence-2016%2Fstage-3%2Fresults%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATour+de+la+Provence"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.cyclismactu.net/news-tour-la-provence-le-sprint-victorieux-de-gaviria-en-video-56490.html" rel="nofollow">"Le sprint victorieux de Gaviria en vidéo"</a>. <i>cyclismactu.net</i> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">25 February</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cyclismactu.net&amp;rft.atitle=Le+sprint+victorieux+de+Gaviria+en+vid%C3%A9o&amp;rft_id=http%3A%2F%2Fwww.cyclismactu.net%2Fnews-tour-la-provence-le-sprint-victorieux-de-gaviria-en-video-56490.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATour+de+la+Provence"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-new_French_race-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-new_French_race_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-new_French_race_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.cyclingnews.com/news/news-shorts-new-french-stage-race-planned-for-february/" rel="nofollow">"News shorts: New French stage race planned for February"</a>. <i><a class="mw-redirect" href="/wiki/Cycling_News" title="Cycling News">Cycling News</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 February</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Cycling+News&amp;rft.atitle=News+shorts%3A+New+French+stage+race+planned+for+February&amp;rft_id=http%3A%2F%2Fwww.cyclingnews.com%2Fnews%2Fnews-shorts-new-french-stage-race-planned-for-february%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATour+de+la+Provence"></span><link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tour_de_la_Provence&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a class="external text" href="http://www.aquiletour.info/" rel="nofollow">Official website</a></span></span> <a href="https://www.wikidata.org/wiki/Q22677272#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" style="vertical-align: text-top" width="10"/></a> <span class="languageicon">(in French)</span></li></ul>
+<div aria-labelledby="Tour_La_Provence" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Tour_La_Provence" title="Template:Tour La Provence"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:Tour_La_Provence&amp;action=edit&amp;redlink=1" title="Template talk:Tour La Provence (page does not exist)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Tour_La_Provence&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Tour_La_Provence" style="font-size:114%;margin:0 4em"><a class="mw-redirect" href="/wiki/Tour_La_Provence" title="Tour La Provence">Tour La Provence</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2016_Tour_La_Provence" title="2016 Tour La Provence">2016</a></li>
+<li><a href="/wiki/2017_Tour_La_Provence" title="2017 Tour La Provence">2017</a></li>
+<li><a href="/wiki/2018_Tour_La_Provence" title="2018 Tour La Provence">2018</a></li>
+<li><a href="/wiki/2019_Tour_de_la_Provence" title="2019 Tour de la Provence">2019</a></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a class="image" href="/wiki/File:USDOT_highway_sign_bicycle_symbol_-_white_on_green.svg"><img alt="Stub icon 2" data-file-height="379" data-file-width="653" decoding="async" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/USDOT_highway_sign_bicycle_symbol_-_white_on_green.svg/30px-USDOT_highway_sign_bicycle_symbol_-_white_on_green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/USDOT_highway_sign_bicycle_symbol_-_white_on_green.svg/45px-USDOT_highway_sign_bicycle_symbol_-_white_on_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/USDOT_highway_sign_bicycle_symbol_-_white_on_green.svg/60px-USDOT_highway_sign_bicycle_symbol_-_white_on_green.svg.png 2x" width="30"/></a> <a class="image" href="/wiki/File:Flag_of_France.svg"><img alt="Stub icon 2" data-file-height="600" data-file-width="900" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/30px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png 2x" width="30"/></a></td><td><i>This cycling race article related to French cycling is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Tour_de_la_Provence&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:France-cycling-race-stub" title="Template:France-cycling-race-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:France-cycling-race-stub" title="Template talk:France-cycling-race-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:France-cycling-race-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1318
+Cached time: 20191211203010
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.456 seconds
+Real time usage: 0.655 seconds
+Preprocessor visited node count: 1777/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 33517/2097152 bytes
+Template argument size: 4272/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15457/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.268/10.000 seconds
+Lua memory usage: 10.75 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  602.890      1 -total
+ 37.39%  225.430      1 Template:Fr_icon
+ 36.99%  222.995      1 Template:Link_language
+ 25.98%  156.602      1 Template:Infobox_cycling_race
+ 25.11%  151.394      1 Template:Infobox
+ 18.23%  109.909      1 Template:Reflist
+ 16.17%   97.467      5 Template:Cite_web
+ 12.82%   77.276      1 Template:Official_URL
+ 10.54%   63.543      4 Template:Cycling_past_winner_rider
+  9.57%   57.698      1 Template:URL
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:49505907-0!canonical and timestamp 20191211203010 and revision id 921778765
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tour_de_la_Provence&amp;oldid=921778765">https://en.wikipedia.org/w/index.php?title=Tour_de_la_Provence&amp;oldid=921778765</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Tour_la_Provence" title="Category:Tour la Provence">Tour la Provence</a></li><li><a href="/wiki/Category:UCI_Europe_Tour_races" title="Category:UCI Europe Tour races">UCI Europe Tour races</a></li><li><a href="/wiki/Category:Cycle_races_in_France" title="Category:Cycle races in France">Cycle races in France</a></li><li><a href="/wiki/Category:Recurring_sporting_events_established_in_2016" title="Category:Recurring sporting events established in 2016">Recurring sporting events established in 2016</a></li><li><a href="/wiki/Category:French_cycling_race_stubs" title="Category:French cycling race stubs">French cycling race stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_with_French-language_external_links" title="Category:Articles with French-language external links">Articles with French-language external links</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tour+de+la+Provence" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Tour+de+la+Provence" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Tour_de_la_Provence" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Tour_de_la_Provence" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Tour_de_la_Provence">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Tour_de_la_Provence&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Tour_de_la_Provence&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Tour_de_la_Provence" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Tour_de_la_Provence" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tour_de_la_Provence&amp;oldid=921778765" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tour_de_la_Provence&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q22677272" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tour_de_la_Provence&amp;id=921778765" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Tour_de_La_Provence" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tour+de+la+Provence">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tour+de+la+Provence&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Tour_de_la_Provence&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Tour_La_Provence" hreflang="ca" lang="ca" title="Tour La Provence – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Tour_de_La_Provence" hreflang="da" lang="da" title="Tour de La Provence – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Tour_Cycliste_International_La_Provence" hreflang="de" lang="de" title="Tour Cycliste International La Provence – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Tour_La_Provence" hreflang="es" lang="es" title="Tour La Provence – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Tour_de_La_Provence" hreflang="fr" lang="fr" title="Tour de La Provence – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Tour_de_la_Provence" hreflang="it" lang="it" title="Tour de la Provence – Italian">Italiano</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Tour_La_Provence" hreflang="lb" lang="lb" title="Tour La Provence – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Ronde_van_de_Provence" hreflang="nl" lang="nl" title="Ronde van de Provence – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%89%E3%83%BB%E3%83%A9%E3%83%BB%E3%83%97%E3%83%AD%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B9" hreflang="ja" lang="ja" title="ツール・ド・ラ・プロヴァンス – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Tour_La_Provence" hreflang="pl" lang="pl" title="Tour La Provence – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Tour_La_Provence" hreflang="pt" lang="pt" title="Tour La Provence – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80_%D0%9F%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D1%81%D0%B0" hreflang="ru" lang="ru" title="Тур Прованса – Russian">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q22677272#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 17 October 2019, at 20:53<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Tour_de_la_Provence&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.456","walltime":"0.655","ppvisitednodes":{"value":1777,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":33517,"limit":2097152},"templateargumentsize":{"value":4272,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15457,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  602.890      1 -total"," 37.39%  225.430      1 Template:Fr_icon"," 36.99%  222.995      1 Template:Link_language"," 25.98%  156.602      1 Template:Infobox_cycling_race"," 25.11%  151.394      1 Template:Infobox"," 18.23%  109.909      1 Template:Reflist"," 16.17%   97.467      5 Template:Cite_web"," 12.82%   77.276      1 Template:Official_URL"," 10.54%   63.543      4 Template:Cycling_past_winner_rider","  9.57%   57.698      1 Template:URL"]},"scribunto":{"limitreport-timeusage":{"value":"0.268","limit":"10.000"},"limitreport-memusage":{"value":11271810,"limit":52428800}},"cachereport":{"origin":"mw1318","timestamp":"20191211203010","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tour de la Provence","url":"https:\/\/en.wikipedia.org\/wiki\/Tour_de_la_Provence","sameAs":"http:\/\/www.wikidata.org\/entity\/Q22677272","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q22677272","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-02-21T22:06:39Z","dateModified":"2019-10-17T20:53:50Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw1250"});});</script>
+
+
+</body></html>

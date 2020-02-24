@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<title>Gruene Hall - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XfthawpAADoAAI42z-QAAACS","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Gruene_Hall","wgTitle":"Gruene Hall","wgCurRevisionId":921652552,"wgRevisionId":921652552,"wgArticleId":3434221,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Coordinates on Wikidata","Commons category link from Wikidata","Historic district contributing properties","Music venues in Texas","New Braunfels, Texas",
+"Buildings and structures in Comal County, Texas","Event venues established in 1878","Theatres completed in 1878","1878 establishments in Texas"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Gruene_Hall","wgRelevantArticleId":3434221,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":29.738333333333333,"lon":-98.10444444444444},"wgWikibaseItemId":"Q5611959","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.35.0-wmf.10" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gruene_July_2017_1_%28Gruene_Hall%29.jpg/1200px-Gruene_July_2017_1_%28Gruene_Hall%29.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Gruene_Hall" rel="alternate"/>
+<link href="/w/index.php?title=Gruene_Hall&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Gruene_Hall&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Gruene_Hall" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Gruene_Hall rootpage-Gruene_Hall skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+	<a id="top"></a>
+	<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 class="firstHeading" id="firstHeading" lang="en">Gruene Hall</h1>
+	
+	<div class="mw-body-content" id="bodyContent">
+		<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">United States historic place</div><table class="infobox" style="width:22em;width:250px; border-spacing:1px;"><tbody><tr><td colspan="2" style="text-align:center;padding:0; border:none;"></td></tr><tr><td colspan="2" style="text-align:center"><div style="width:100%; font-size:105%; font-weight:bold; background: #A8EDEF; line-height:1.5">Gruene Hall</div></td></tr><tr><td colspan="2" style="text-align:center"><div style="width:100%; text-align:center; line-height:1.4; background: #CCFFCC"><a href="/wiki/Historic_districts_in_the_United_States" title="Historic districts in the United States">U.S. Historic district</a><br/><a href="/wiki/Contributing_property" title="Contributing property">Contributing property</a></div></td></tr><tr><td colspan="2" style="text-align:center"><div style="width:100%; text-align:center; line-height:1.5; background: #DACAA5"><a href="/wiki/Recorded_Texas_Historic_Landmark" title="Recorded Texas Historic Landmark">Recorded Texas Historic Landmark</a></div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Gruene_July_2017_1_(Gruene_Hall).jpg"><img alt="Gruene July 2017 1 (Gruene Hall).jpg" data-file-height="4000" data-file-width="6000" decoding="async" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gruene_July_2017_1_%28Gruene_Hall%29.jpg/250px-Gruene_July_2017_1_%28Gruene_Hall%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gruene_July_2017_1_%28Gruene_Hall%29.jpg/375px-Gruene_July_2017_1_%28Gruene_Hall%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gruene_July_2017_1_%28Gruene_Hall%29.jpg/500px-Gruene_July_2017_1_%28Gruene_Hall%29.jpg 2x" width="250"/></a><div style="font-size:95%;">Gruene Hall in 2017</div></td></tr><tr><th scope="row" style="font-weight:bold; border: 0;">Location</th><td style="border: 0;"><a href="/wiki/Gruene,_New_Braunfels,_Texas" title="Gruene, New Braunfels, Texas">Gruene, Texas</a></td></tr><tr><th scope="row" style="font-weight:bold; border: 0;">Coordinates</th><td style="border: 0;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Gruene_Hall&amp;params=29_44_18_N_98_6_16_W_type:landmark_region:US"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">29°44′18″N</span> <span class="longitude">98°6′16″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">29.73833°N 98.10444°W</span><span style="display:none">﻿ / <span class="geo">29.73833; -98.10444</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Gruene_Hall&amp;params=29_44_18_N_98_6_16_W_type:landmark_region:US"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">29°44′18″N</span> <span class="longitude">98°6′16″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">29.73833°N 98.10444°W</span><span style="display:none">﻿ / <span class="geo">29.73833; -98.10444</span></span></span></a></span></span></span></td></tr><tr><th scope="row" style="font-weight:bold; border: 0;">Built</th><td style="border: 0;">1878<span style="display:none"> (<span class="bday dtstart published updated">1878</span>)</span></td></tr><tr><th scope="row" style="font-weight:bold; border: 0;">Built by</th><td style="border: 0;">Christian Herry</td></tr><tr><th scope="row" style="font-weight:bold; border: 0;">Architect</th><td style="border: 0;">H.D. Gruene</td></tr><tr><th scope="row" style="font-weight:bold; border: 0;">Part of</th><td style="border: 0;"><a class="mw-redirect" href="/wiki/Gruene_Historic_District" title="Gruene Historic District">Gruene Historic District</a> (<a class="external text" href="https://npgallery.nps.gov/AssetDetail/NRIS/75001962" rel="nofollow">#75001962</a>)</td></tr><tr><th scope="row" style="font-weight:bold; border: 0;">RTHL #</th><td style="border: 0;"><a class="external text" href="https://atlas.thc.state.tx.us/Details/5091002296" rel="nofollow">2296</a></td></tr><tr><th colspan="2" style="text-align:center;background: #A8EDEF">Significant dates</th></tr><tr><th scope="row" style="font-weight:bold; border: 0;">Designated CP</th><td style="border: 0;">April 21, 1975<sup class="reference" id="cite_ref-nris_1-0"><a href="#cite_note-nris-1">[1]</a></sup></td></tr><tr><th scope="row" style="font-weight:bold; border: 0;">Designated RTHL</th><td style="border: 0;">1988</td></tr></tbody></table>
+<p><b>Gruene Hall</b>, was built in 1878 by Henry (Heinrich) D. Gruene and is located in the historical town of <a class="mw-redirect" href="/wiki/Gruene,_Texas" title="Gruene, Texas">Gruene, Texas</a> (now a part of <a class="mw-redirect" href="/wiki/New_Braunfels" title="New Braunfels">New Braunfels</a>), and bills itself as "the oldest continually run dance hall in Texas." By design, not much has physically changed since the Hall was first built. The 6,000 square foot dance hall with a high pitched tin roof still has the original layout with side flaps for open air dancing, a bar in the front, a small lighted stage in the back and a huge outdoor garden. Advertisement signs from the 1930s and 1940s still hang in the old hall and around the stage.
+</p><p>Under the current ownership, Gruene Hall has become internationally recognized as a destination tourist attraction and major music venue for up-and-coming as well as established artists. Gruene Hall has hosted such acts as <a href="/wiki/Garth_Brooks" title="Garth Brooks">Garth Brooks</a>, <a href="/wiki/Willie_Nelson" title="Willie Nelson">Willie Nelson</a>, <a href="/wiki/Merle_Haggard" title="Merle Haggard">Merle Haggard</a>, <a href="/wiki/George_Strait" title="George Strait">George Strait</a>, <a href="/wiki/Townes_Van_Zandt" title="Townes Van Zandt">Townes Van Zandt</a>, <a href="/wiki/Jerry_Jeff_Walker" title="Jerry Jeff Walker">Jerry Jeff Walker</a>, <a href="/wiki/Lyle_Lovett" title="Lyle Lovett">Lyle Lovett</a>, <a href="/wiki/Hal_Ketchum" title="Hal Ketchum">Hal Ketchum</a>, and <a href="/wiki/Gregg_Allman" title="Gregg Allman">Gregg Allman</a>. It was also used as a set for <i><a href="/wiki/Michael_(1996_film)" title="Michael (1996 film)">Michael</a></i>, starring <a href="/wiki/John_Travolta" title="John Travolta">John Travolta</a>. Booking agent of 30 years, Tracie Ferguson is credited with starting the original music approach that has made Gruene Hall an <a class="mw-redirect" href="/wiki/Iconic" title="Iconic">iconic</a> music venue, helping to jump start the careers of Lyle Lovett, Townes Van Zandt, Hal Ketchum, <a href="/wiki/Bruce_Robison" title="Bruce Robison">Bruce Robison</a>, <a href="/wiki/Nanci_Griffith" title="Nanci Griffith">Nanci Griffith</a>, <a href="/wiki/Ryan_Bingham" title="Ryan Bingham">Ryan Bingham</a>, <a class="mw-redirect" href="/wiki/Jimmy_Dale_Gilmore" title="Jimmy Dale Gilmore">Jimmy Dale Gilmore</a>, <a href="/wiki/Robert_Earl_Keen" title="Robert Earl Keen">Robert Earl Keen</a>, <a href="/wiki/Lucinda_Williams" title="Lucinda Williams">Lucinda Williams</a> and many others.
+</p><p>The hall has been featured in several books including Pat Green's Dancehalls &amp; Dreamers, Gail Folkins' Texas Dance Halls: A Two Step Circuit, Vokac's The Great Towns of America and Schultz's 1000 Places to See Before You Die.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gruene_Hall&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="1969" data-file-width="2498" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HistoricPlacesNationalRegisterPlaque.JPG/32px-HistoricPlacesNationalRegisterPlaque.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HistoricPlacesNationalRegisterPlaque.JPG/48px-HistoricPlacesNationalRegisterPlaque.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HistoricPlacesNationalRegisterPlaque.JPG/64px-HistoricPlacesNationalRegisterPlaque.JPG 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:National_Register_of_Historic_Places" title="Portal:National Register of Historic Places">National Register of Historic Places portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" class="noviewer thumbborder" data-file-height="720" data-file-width="1080" decoding="async" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/32px-Flag_of_Texas.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/48px-Flag_of_Texas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/64px-Flag_of_Texas.svg.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Texas" title="Portal:Texas">Texas portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Comal_County,_Texas" title="National Register of Historic Places listings in Comal County, Texas">National Register of Historic Places listings in Comal County, Texas</a></li>
+<li><a href="/wiki/List_of_Recorded_Texas_Historic_Landmarks_(Cameron-Duval)#Comal_County" title="List of Recorded Texas Historic Landmarks (Cameron-Duval)">Recorded Texas Historic Landmarks in Comal County</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gruene_Hall&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-nris-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-nris_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://nrhp.focus.nps.gov/natreg/docs/All_Data.html" rel="nofollow">"National Register Information System"</a>. <i><a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">National Register of Historic Places</a></i>. <a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a>. July 9, 2010.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Register+of+Historic+Places&amp;rft.atitle=National+Register+Information+System&amp;rft.date=2010-07-09&amp;rft_id=http%3A%2F%2Fnrhp.focus.nps.gov%2Fnatreg%2Fdocs%2FAll_Data.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGruene+Hall"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> </span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gruene_Hall&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Gruene_Hall" title="commons:Category:Gruene Hall"><span style="">Gruene Hall</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a class="external text" href="http://www.gruenehall.com/" rel="nofollow">Gruene Hall web site</a></li>
+<li><a class="external text" href="http://www.gruenetexas.com/" rel="nofollow">Gruene Historic District web site</a></li></ul>
+<div aria-labelledby="National_Register_of_Historic_Places_in_Texas" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col" style="background-color:#A8EDEF"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:National_Register_of_Historic_Places_in_Texas" title="Template:National Register of Historic Places in Texas"><abbr style=";background-color:#A8EDEF;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:National_Register_of_Historic_Places_in_Texas" title="Template talk:National Register of Historic Places in Texas"><abbr style=";background-color:#A8EDEF;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:National_Register_of_Historic_Places_in_Texas&amp;action=edit"><abbr style=";background-color:#A8EDEF;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="National_Register_of_Historic_Places_in_Texas" style="font-size:114%;margin:0 4em"><a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">National Register of Historic Places</a> in <a href="/wiki/National_Register_of_Historic_Places_listings_in_Texas" title="National Register of Historic Places listings in Texas">Texas</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%;background-color:#A8EDEF">Lists<br/>by county</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Anderson_County,_Texas" title="National Register of Historic Places listings in Anderson County, Texas">Anderson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Andrews_County,_Texas" title="National Register of Historic Places listings in Andrews County, Texas">Andrews</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Angelina_County,_Texas" title="National Register of Historic Places listings in Angelina County, Texas">Angelina</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Aransas_County,_Texas" title="National Register of Historic Places listings in Aransas County, Texas">Aransas</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Archer_County,_Texas" title="National Register of Historic Places listings in Archer County, Texas">Archer</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Armstrong_County,_Texas" title="National Register of Historic Places listings in Armstrong County, Texas">Armstrong</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Atascosa_County,_Texas" title="National Register of Historic Places listings in Atascosa County, Texas">Atascosa</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Austin_County,_Texas" title="National Register of Historic Places listings in Austin County, Texas">Austin</a></li>
+<li>Bailey</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Bandera_County,_Texas" title="National Register of Historic Places listings in Bandera County, Texas">Bandera</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Bastrop_County,_Texas" title="National Register of Historic Places listings in Bastrop County, Texas">Bastrop</a></li>
+<li>Baylor</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Bee_County,_Texas" title="National Register of Historic Places listings in Bee County, Texas">Bee</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Bell_County,_Texas" title="National Register of Historic Places listings in Bell County, Texas">Bell</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Bexar_County,_Texas" title="National Register of Historic Places listings in Bexar County, Texas">Bexar</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Blanco_County,_Texas" title="National Register of Historic Places listings in Blanco County, Texas">Blanco</a></li>
+<li>Borden</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Bosque_County,_Texas" title="National Register of Historic Places listings in Bosque County, Texas">Bosque</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Bowie_County,_Texas" title="National Register of Historic Places listings in Bowie County, Texas">Bowie</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Brazoria_County,_Texas" title="National Register of Historic Places listings in Brazoria County, Texas">Brazoria</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Brazos_County,_Texas" title="National Register of Historic Places listings in Brazos County, Texas">Brazos</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Brewster_County,_Texas" title="National Register of Historic Places listings in Brewster County, Texas">Brewster</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Briscoe_County,_Texas" title="National Register of Historic Places listings in Briscoe County, Texas">Briscoe</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Brooks_County,_Texas" title="National Register of Historic Places listings in Brooks County, Texas">Brooks</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Brown_County,_Texas" title="National Register of Historic Places listings in Brown County, Texas">Brown</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Burleson_County,_Texas" title="National Register of Historic Places listings in Burleson County, Texas">Burleson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Burnet_County,_Texas" title="National Register of Historic Places listings in Burnet County, Texas">Burnet</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Caldwell_County,_Texas" title="National Register of Historic Places listings in Caldwell County, Texas">Caldwell</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Calhoun_County,_Texas" title="National Register of Historic Places listings in Calhoun County, Texas">Calhoun</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Callahan_County,_Texas" title="National Register of Historic Places listings in Callahan County, Texas">Callahan</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cameron_County,_Texas" title="National Register of Historic Places listings in Cameron County, Texas">Cameron</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Camp_County,_Texas" title="National Register of Historic Places listings in Camp County, Texas">Camp</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Carson_County,_Texas" title="National Register of Historic Places listings in Carson County, Texas">Carson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cass_County,_Texas" title="National Register of Historic Places listings in Cass County, Texas">Cass</a></li>
+<li>Castro</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Chambers_County,_Texas" title="National Register of Historic Places listings in Chambers County, Texas">Chambers</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cherokee_County,_Texas" title="National Register of Historic Places listings in Cherokee County, Texas">Cherokee</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Childress_County,_Texas" title="National Register of Historic Places listings in Childress County, Texas">Childress</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Clay_County,_Texas" title="National Register of Historic Places listings in Clay County, Texas">Clay</a></li>
+<li>Cochran</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Coke_County,_Texas" title="National Register of Historic Places listings in Coke County, Texas">Coke</a></li>
+<li>Coleman</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Collin_County,_Texas" title="National Register of Historic Places listings in Collin County, Texas">Collin</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Collingsworth_County,_Texas" title="National Register of Historic Places listings in Collingsworth County, Texas">Collingsworth</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Colorado_County,_Texas" title="National Register of Historic Places listings in Colorado County, Texas">Colorado</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Comal_County,_Texas" title="National Register of Historic Places listings in Comal County, Texas">Comal</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Comanche_County,_Texas" title="National Register of Historic Places listings in Comanche County, Texas">Comanche</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Concho_County,_Texas" title="National Register of Historic Places listings in Concho County, Texas">Concho</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cooke_County,_Texas" title="National Register of Historic Places listings in Cooke County, Texas">Cooke</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Coryell_County,_Texas" title="National Register of Historic Places listings in Coryell County, Texas">Coryell</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cottle_County,_Texas" title="National Register of Historic Places listings in Cottle County, Texas">Cottle</a></li>
+<li>Crane</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Crockett_County,_Texas" title="National Register of Historic Places listings in Crockett County, Texas">Crockett</a></li>
+<li>Crosby</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Culberson_County,_Texas" title="National Register of Historic Places listings in Culberson County, Texas">Culberson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Dallam_County,_Texas" title="National Register of Historic Places listings in Dallam County, Texas">Dallam</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Dallas_County,_Texas" title="National Register of Historic Places listings in Dallas County, Texas">Dallas</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Dawson_County,_Texas" title="National Register of Historic Places listings in Dawson County, Texas">Dawson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Deaf_Smith_County,_Texas" title="National Register of Historic Places listings in Deaf Smith County, Texas">Deaf Smith</a></li>
+<li>Delta</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Denton_County,_Texas" title="National Register of Historic Places listings in Denton County, Texas">Denton</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_DeWitt_County,_Texas" title="National Register of Historic Places listings in DeWitt County, Texas">DeWitt</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Dickens_County,_Texas" title="National Register of Historic Places listings in Dickens County, Texas">Dickens</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Dimmit_County,_Texas" title="National Register of Historic Places listings in Dimmit County, Texas">Dimmit</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Donley_County,_Texas" title="National Register of Historic Places listings in Donley County, Texas">Donley</a></li>
+<li>Duval</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Eastland_County,_Texas" title="National Register of Historic Places listings in Eastland County, Texas">Eastland</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Ector_County,_Texas" title="National Register of Historic Places listings in Ector County, Texas">Ector</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Edwards_County,_Texas" title="National Register of Historic Places listings in Edwards County, Texas">Edwards</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_El_Paso_County,_Texas" title="National Register of Historic Places listings in El Paso County, Texas">El Paso</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Ellis_County,_Texas" title="National Register of Historic Places listings in Ellis County, Texas">Ellis</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Erath_County,_Texas" title="National Register of Historic Places listings in Erath County, Texas">Erath</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Falls_County,_Texas" title="National Register of Historic Places listings in Falls County, Texas">Falls</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Fannin_County,_Texas" title="National Register of Historic Places listings in Fannin County, Texas">Fannin</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Fayette_County,_Texas" title="National Register of Historic Places listings in Fayette County, Texas">Fayette</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Fisher_County,_Texas" title="National Register of Historic Places listings in Fisher County, Texas">Fisher</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Floyd_County,_Texas" title="National Register of Historic Places listings in Floyd County, Texas">Floyd</a></li>
+<li>Foard</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Fort_Bend_County,_Texas" title="National Register of Historic Places listings in Fort Bend County, Texas">Fort Bend</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Franklin_County,_Texas" title="National Register of Historic Places listings in Franklin County, Texas">Franklin</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Freestone_County,_Texas" title="National Register of Historic Places listings in Freestone County, Texas">Freestone</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Frio_County,_Texas" title="National Register of Historic Places listings in Frio County, Texas">Frio</a></li>
+<li>Gaines</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Galveston_County,_Texas" title="National Register of Historic Places listings in Galveston County, Texas">Galveston</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Garza_County,_Texas" title="National Register of Historic Places listings in Garza County, Texas">Garza</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Gillespie_County,_Texas" title="National Register of Historic Places listings in Gillespie County, Texas">Gillespie</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Glasscock_County,_Texas" title="National Register of Historic Places listings in Glasscock County, Texas">Glasscock</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Goliad_County,_Texas" title="National Register of Historic Places listings in Goliad County, Texas">Goliad</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Gonzales_County,_Texas" title="National Register of Historic Places listings in Gonzales County, Texas">Gonzales</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Gray_County,_Texas" title="National Register of Historic Places listings in Gray County, Texas">Gray</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Grayson_County,_Texas" title="National Register of Historic Places listings in Grayson County, Texas">Grayson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Gregg_County,_Texas" title="National Register of Historic Places listings in Gregg County, Texas">Gregg</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Grimes_County,_Texas" title="National Register of Historic Places listings in Grimes County, Texas">Grimes</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Guadalupe_County,_Texas" title="National Register of Historic Places listings in Guadalupe County, Texas">Guadalupe</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hale_County,_Texas" title="National Register of Historic Places listings in Hale County, Texas">Hale</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hall_County,_Texas" title="National Register of Historic Places listings in Hall County, Texas">Hall</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hamilton_County,_Texas" title="National Register of Historic Places listings in Hamilton County, Texas">Hamilton</a></li>
+<li>Hansford</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hardeman_County,_Texas" title="National Register of Historic Places listings in Hardeman County, Texas">Hardeman</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hardin_County,_Texas" title="National Register of Historic Places listings in Hardin County, Texas">Hardin</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Harris_County,_Texas" title="National Register of Historic Places listings in Harris County, Texas">Harris</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Harrison_County,_Texas" title="National Register of Historic Places listings in Harrison County, Texas">Harrison</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hartley_County,_Texas" title="National Register of Historic Places listings in Hartley County, Texas">Hartley</a></li>
+<li>Haskell</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hays_County,_Texas" title="National Register of Historic Places listings in Hays County, Texas">Hays</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hemphill_County,_Texas" title="National Register of Historic Places listings in Hemphill County, Texas">Hemphill</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Henderson_County,_Texas" title="National Register of Historic Places listings in Henderson County, Texas">Henderson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hidalgo_County,_Texas" title="National Register of Historic Places listings in Hidalgo County, Texas">Hidalgo</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hill_County,_Texas" title="National Register of Historic Places listings in Hill County, Texas">Hill</a></li>
+<li>Hockley</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hood_County,_Texas" title="National Register of Historic Places listings in Hood County, Texas">Hood</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hopkins_County,_Texas" title="National Register of Historic Places listings in Hopkins County, Texas">Hopkins</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Houston_County,_Texas" title="National Register of Historic Places listings in Houston County, Texas">Houston</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Howard_County,_Texas" title="National Register of Historic Places listings in Howard County, Texas">Howard</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hudspeth_County,_Texas" title="National Register of Historic Places listings in Hudspeth County, Texas">Hudspeth</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hunt_County,_Texas" title="National Register of Historic Places listings in Hunt County, Texas">Hunt</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hutchinson_County,_Texas" title="National Register of Historic Places listings in Hutchinson County, Texas">Hutchinson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Irion_County,_Texas" title="National Register of Historic Places listings in Irion County, Texas">Irion</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Jack_County,_Texas" title="National Register of Historic Places listings in Jack County, Texas">Jack</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Jackson_County,_Texas" title="National Register of Historic Places listings in Jackson County, Texas">Jackson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Jasper_County,_Texas" title="National Register of Historic Places listings in Jasper County, Texas">Jasper</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Jeff_Davis_County,_Texas" title="National Register of Historic Places listings in Jeff Davis County, Texas">Jeff Davis</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Jefferson_County,_Texas" title="National Register of Historic Places listings in Jefferson County, Texas">Jefferson</a></li>
+<li>Jim Hogg</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Jim_Wells_County,_Texas" title="National Register of Historic Places listings in Jim Wells County, Texas">Jim Wells</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Johnson_County,_Texas" title="National Register of Historic Places listings in Johnson County, Texas">Johnson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Jones_County,_Texas" title="National Register of Historic Places listings in Jones County, Texas">Jones</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Karnes_County,_Texas" title="National Register of Historic Places listings in Karnes County, Texas">Karnes</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Kaufman_County,_Texas" title="National Register of Historic Places listings in Kaufman County, Texas">Kaufman</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Kendall_County,_Texas" title="National Register of Historic Places listings in Kendall County, Texas">Kendall</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Kenedy_County,_Texas" title="National Register of Historic Places listings in Kenedy County, Texas">Kenedy</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Kent_County,_Texas" title="National Register of Historic Places listings in Kent County, Texas">Kent</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Kerr_County,_Texas" title="National Register of Historic Places listings in Kerr County, Texas">Kerr</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Kimble_County,_Texas" title="National Register of Historic Places listings in Kimble County, Texas">Kimble</a></li>
+<li>King</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Kinney_County,_Texas" title="National Register of Historic Places listings in Kinney County, Texas">Kinney</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Kleberg_County,_Texas" title="National Register of Historic Places listings in Kleberg County, Texas">Kleberg</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Knox_County,_Texas" title="National Register of Historic Places listings in Knox County, Texas">Knox</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_La_Salle_County,_Texas" title="National Register of Historic Places listings in La Salle County, Texas">La Salle</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lamar_County,_Texas" title="National Register of Historic Places listings in Lamar County, Texas">Lamar</a></li>
+<li>Lamb</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lampasas_County,_Texas" title="National Register of Historic Places listings in Lampasas County, Texas">Lampasas</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lavaca_County,_Texas" title="National Register of Historic Places listings in Lavaca County, Texas">Lavaca</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lee_County,_Texas" title="National Register of Historic Places listings in Lee County, Texas">Lee</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Leon_County,_Texas" title="National Register of Historic Places listings in Leon County, Texas">Leon</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Liberty_County,_Texas" title="National Register of Historic Places listings in Liberty County, Texas">Liberty</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Limestone_County,_Texas" title="National Register of Historic Places listings in Limestone County, Texas">Limestone</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lipscomb_County,_Texas" title="National Register of Historic Places listings in Lipscomb County, Texas">Lipscomb</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Live_Oak_County,_Texas" title="National Register of Historic Places listings in Live Oak County, Texas">Live Oak</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Llano_County,_Texas" title="National Register of Historic Places listings in Llano County, Texas">Llano</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Loving_County,_Texas" title="National Register of Historic Places listings in Loving County, Texas">Loving</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lubbock_County,_Texas" title="National Register of Historic Places listings in Lubbock County, Texas">Lubbock</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lynn_County,_Texas" title="National Register of Historic Places listings in Lynn County, Texas">Lynn</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Madison_County,_Texas" title="National Register of Historic Places listings in Madison County, Texas">Madison</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Marion_County,_Texas" title="National Register of Historic Places listings in Marion County, Texas">Marion</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Martin_County,_Texas" title="National Register of Historic Places listings in Martin County, Texas">Martin</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Mason_County,_Texas" title="National Register of Historic Places listings in Mason County, Texas">Mason</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Matagorda_County,_Texas" title="National Register of Historic Places listings in Matagorda County, Texas">Matagorda</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Maverick_County,_Texas" title="National Register of Historic Places listings in Maverick County, Texas">Maverick</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_McCulloch_County,_Texas" title="National Register of Historic Places listings in McCulloch County, Texas">McCulloch</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_McLennan_County,_Texas" title="National Register of Historic Places listings in McLennan County, Texas">McLennan</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_McMullen_County,_Texas" title="National Register of Historic Places listings in McMullen County, Texas">McMullen</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Medina_County,_Texas" title="National Register of Historic Places listings in Medina County, Texas">Medina</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Menard_County,_Texas" title="National Register of Historic Places listings in Menard County, Texas">Menard</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Midland_County,_Texas" title="National Register of Historic Places listings in Midland County, Texas">Midland</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Milam_County,_Texas" title="National Register of Historic Places listings in Milam County, Texas">Milam</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Mills_County,_Texas" title="National Register of Historic Places listings in Mills County, Texas">Mills</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Mitchell_County,_Texas" title="National Register of Historic Places listings in Mitchell County, Texas">Mitchell</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Montague_County,_Texas" title="National Register of Historic Places listings in Montague County, Texas">Montague</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Montgomery_County,_Texas" title="National Register of Historic Places listings in Montgomery County, Texas">Montgomery</a></li>
+<li>Moore</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Morris_County,_Texas" title="National Register of Historic Places listings in Morris County, Texas">Morris</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Motley_County,_Texas" title="National Register of Historic Places listings in Motley County, Texas">Motley</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Nacogdoches_County,_Texas" title="National Register of Historic Places listings in Nacogdoches County, Texas">Nacogdoches</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Navarro_County,_Texas" title="National Register of Historic Places listings in Navarro County, Texas">Navarro</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Newton_County,_Texas" title="National Register of Historic Places listings in Newton County, Texas">Newton</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Nolan_County,_Texas" title="National Register of Historic Places listings in Nolan County, Texas">Nolan</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Nueces_County,_Texas" title="National Register of Historic Places listings in Nueces County, Texas">Nueces</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Ochiltree_County,_Texas" title="National Register of Historic Places listings in Ochiltree County, Texas">Ochiltree</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Oldham_County,_Texas" title="National Register of Historic Places listings in Oldham County, Texas">Oldham</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Orange_County,_Texas" title="National Register of Historic Places listings in Orange County, Texas">Orange</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Palo_Pinto_County,_Texas" title="National Register of Historic Places listings in Palo Pinto County, Texas">Palo Pinto</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Panola_County,_Texas" title="National Register of Historic Places listings in Panola County, Texas">Panola</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Parker_County,_Texas" title="National Register of Historic Places listings in Parker County, Texas">Parker</a></li>
+<li>Parmer</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Pecos_County,_Texas" title="National Register of Historic Places listings in Pecos County, Texas">Pecos</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Polk_County,_Texas" title="National Register of Historic Places listings in Polk County, Texas">Polk</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Potter_County,_Texas" title="National Register of Historic Places listings in Potter County, Texas">Potter</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Presidio_County,_Texas" title="National Register of Historic Places listings in Presidio County, Texas">Presidio</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Rains_County,_Texas" title="National Register of Historic Places listings in Rains County, Texas">Rains</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Randall_County,_Texas" title="National Register of Historic Places listings in Randall County, Texas">Randall</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Reagan_County,_Texas" title="National Register of Historic Places listings in Reagan County, Texas">Reagan</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Real_County,_Texas" title="National Register of Historic Places listings in Real County, Texas">Real</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Red_River_County,_Texas" title="National Register of Historic Places listings in Red River County, Texas">Red River</a></li>
+<li>Reeves</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Refugio_County,_Texas" title="National Register of Historic Places listings in Refugio County, Texas">Refugio</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Roberts_County,_Texas" title="National Register of Historic Places listings in Roberts County, Texas">Roberts</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Robertson_County,_Texas" title="National Register of Historic Places listings in Robertson County, Texas">Robertson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Rockwall_County,_Texas" title="National Register of Historic Places listings in Rockwall County, Texas">Rockwall</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Runnels_County,_Texas" title="National Register of Historic Places listings in Runnels County, Texas">Runnels</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Rusk_County,_Texas" title="National Register of Historic Places listings in Rusk County, Texas">Rusk</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Sabine_County,_Texas" title="National Register of Historic Places listings in Sabine County, Texas">Sabine</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_San_Augustine_County,_Texas" title="National Register of Historic Places listings in San Augustine County, Texas">San Augustine</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_San_Jacinto_County,_Texas" title="National Register of Historic Places listings in San Jacinto County, Texas">San Jacinto</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_San_Patricio_County,_Texas" title="National Register of Historic Places listings in San Patricio County, Texas">San Patricio</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_San_Saba_County,_Texas" title="National Register of Historic Places listings in San Saba County, Texas">San Saba</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Schleicher_County,_Texas" title="National Register of Historic Places listings in Schleicher County, Texas">Schleicher</a></li>
+<li>Scurry</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Shackelford_County,_Texas" title="National Register of Historic Places listings in Shackelford County, Texas">Shackelford</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Shelby_County,_Texas" title="National Register of Historic Places listings in Shelby County, Texas">Shelby</a></li>
+<li>Sherman</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Smith_County,_Texas" title="National Register of Historic Places listings in Smith County, Texas">Smith</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Somervell_County,_Texas" title="National Register of Historic Places listings in Somervell County, Texas">Somervell</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Starr_County,_Texas" title="National Register of Historic Places listings in Starr County, Texas">Starr</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Stephens_County,_Texas" title="National Register of Historic Places listings in Stephens County, Texas">Stephens</a></li>
+<li>Sterling</li>
+<li>Stonewall</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Sutton_County,_Texas" title="National Register of Historic Places listings in Sutton County, Texas">Sutton</a></li>
+<li>Swisher</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Tarrant_County,_Texas" title="National Register of Historic Places listings in Tarrant County, Texas">Tarrant</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Taylor_County,_Texas" title="National Register of Historic Places listings in Taylor County, Texas">Taylor</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Terrell_County,_Texas" title="National Register of Historic Places listings in Terrell County, Texas">Terrell</a></li>
+<li>Terry</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Throckmorton_County,_Texas" title="National Register of Historic Places listings in Throckmorton County, Texas">Throckmorton</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Titus_County,_Texas" title="National Register of Historic Places listings in Titus County, Texas">Titus</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Tom_Green_County,_Texas" title="National Register of Historic Places listings in Tom Green County, Texas">Tom Green</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Travis_County,_Texas" title="National Register of Historic Places listings in Travis County, Texas">Travis</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Trinity_County,_Texas" title="National Register of Historic Places listings in Trinity County, Texas">Trinity</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Tyler_County,_Texas" title="National Register of Historic Places listings in Tyler County, Texas">Tyler</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Upshur_County,_Texas" title="National Register of Historic Places listings in Upshur County, Texas">Upshur</a></li>
+<li>Upton</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Uvalde_County,_Texas" title="National Register of Historic Places listings in Uvalde County, Texas">Uvalde</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Val_Verde_County,_Texas" title="National Register of Historic Places listings in Val Verde County, Texas">Val Verde</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Van_Zandt_County,_Texas" title="National Register of Historic Places listings in Van Zandt County, Texas">Van Zandt</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Victoria_County,_Texas" title="National Register of Historic Places listings in Victoria County, Texas">Victoria</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Walker_County,_Texas" title="National Register of Historic Places listings in Walker County, Texas">Walker</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Waller_County,_Texas" title="National Register of Historic Places listings in Waller County, Texas">Waller</a></li>
+<li>Ward</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Washington_County,_Texas" title="National Register of Historic Places listings in Washington County, Texas">Washington</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Webb_County,_Texas" title="National Register of Historic Places listings in Webb County, Texas">Webb</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wharton_County,_Texas" title="National Register of Historic Places listings in Wharton County, Texas">Wharton</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wheeler_County,_Texas" title="National Register of Historic Places listings in Wheeler County, Texas">Wheeler</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wichita_County,_Texas" title="National Register of Historic Places listings in Wichita County, Texas">Wichita</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wilbarger_County,_Texas" title="National Register of Historic Places listings in Wilbarger County, Texas">Wilbarger</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Willacy_County,_Texas" title="National Register of Historic Places listings in Willacy County, Texas">Willacy</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Williamson_County,_Texas" title="National Register of Historic Places listings in Williamson County, Texas">Williamson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wilson_County,_Texas" title="National Register of Historic Places listings in Wilson County, Texas">Wilson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Winkler_County,_Texas" title="National Register of Historic Places listings in Winkler County, Texas">Winkler</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wise_County,_Texas" title="National Register of Historic Places listings in Wise County, Texas">Wise</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wood_County,_Texas" title="National Register of Historic Places listings in Wood County, Texas">Wood</a></li>
+<li>Yoakum</li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Young_County,_Texas" title="National Register of Historic Places listings in Young County, Texas">Young</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Zapata_County,_Texas" title="National Register of Historic Places listings in Zapata County, Texas">Zapata</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Zavala_County,_Texas" title="National Register of Historic Places listings in Zavala County, Texas">Zavala</a></li></ul>
+</div></td><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><img alt="" data-file-height="720" data-file-width="553" decoding="async" height="65" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/50px-Logo_of_the_United_States_National_Park_Service.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/75px-Logo_of_the_United_States_National_Park_Service.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/100px-Logo_of_the_United_States_National_Park_Service.svg.png 2x" width="50"/><br/><br/><img alt="" data-file-height="186" data-file-width="286" decoding="async" height="65" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Map_of_USA_TX.svg/100px-Map_of_USA_TX.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Map_of_USA_TX.svg/151px-Map_of_USA_TX.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Map_of_USA_TX.svg/200px-Map_of_USA_TX.svg.png 2x" width="100"/></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background-color:#A8EDEF">National Parks</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Big_Bend_National_Park" title="National Register of Historic Places listings in Big Bend National Park">Big Bend National Park</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Guadalupe_Mountains_National_Park" title="National Register of Historic Places listings in Guadalupe Mountains National Park">Guadalupe Mountains National Park</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background-color:#A8EDEF">Other lists</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_bridges_on_the_National_Register_of_Historic_Places_in_Texas" title="List of bridges on the National Register of Historic Places in Texas">Bridges</a></li>
+<li><a href="/wiki/List_of_National_Historic_Landmarks_in_Texas" title="List of National Historic Landmarks in Texas">National Historic Landmarks</a></li>
+<li><a href="/wiki/List_of_National_Natural_Landmarks_in_Texas" title="List of National Natural Landmarks in Texas">National Natural Landmarks</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_Recorded_Texas_Historic_Landmarks" title="List of Recorded Texas Historic Landmarks">Recorded Texas Historic Landmarks</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="3" style="background-color:#A8EDEF"><div>
+<ul><li><a href="/wiki/United_States_National_Register_of_Historic_Places_listings" title="United States National Register of Historic Places listings">United States National Register of Historic Places listings</a></li>
+<li><a href="/wiki/Keeper_of_the_Register" title="Keeper of the Register">Keeper of the Register</a></li>
+<li><a href="/wiki/History_of_the_National_Register_of_Historic_Places" title="History of the National Register of Historic Places">History of the National Register of Historic Places</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_property_types" title="National Register of Historic Places property types">Property types</a></li>
+<li><a href="/wiki/Historic_districts_in_the_United_States" title="Historic districts in the United States">Historic district</a></li>
+<li><a href="/wiki/Contributing_property" title="Contributing property">Contributing property</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Municipalities_and_communities_of_Comal_County,_Texas,_United_States" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Comal_County,_Texas" title="Template:Comal County, Texas"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Comal_County,_Texas" title="Template talk:Comal County, Texas"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Comal_County,_Texas&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div class="adr" id="Municipalities_and_communities_of_Comal_County,_Texas,_United_States" style="font-size:114%;margin:0 4em">Municipalities and communities of <a href="/wiki/Comal_County,_Texas" title="Comal County, Texas"><span class="region">Comal County, Texas</span></a>, <span class="country-name">United States</span></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="County_seat:_New_Braunfels"><a href="/wiki/County_seat" title="County seat"><span>County seat</span></a>: <b><a href="/wiki/New_Braunfels,_Texas" title="New Braunfels, Texas"><span>New Braunfels</span></a></b></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/City" title="City">Cities</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bulverde,_Texas" title="Bulverde, Texas">Bulverde</a></li>
+<li><a href="/wiki/Fair_Oaks_Ranch,_Texas" title="Fair Oaks Ranch, Texas">Fair Oaks Ranch</a>‡</li>
+<li><a href="/wiki/Garden_Ridge,_Texas" title="Garden Ridge, Texas">Garden Ridge</a></li>
+<li><a href="/wiki/New_Braunfels,_Texas" title="New Braunfels, Texas">New Braunfels</a>‡</li>
+<li><a href="/wiki/San_Antonio" title="San Antonio">San Antonio</a>‡</li>
+<li><a href="/wiki/Schertz,_Texas" title="Schertz, Texas">Schertz</a>‡</li>
+<li><a href="/wiki/Selma,_Texas" title="Selma, Texas">Selma</a>‡</li>
+<li><a href="/wiki/Spring_Branch,_Comal_County,_Texas" title="Spring Branch, Comal County, Texas">Spring Branch</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><div class="center"><div class="floatnone"><img alt="" data-file-height="11855" data-file-width="12473" decoding="async" height="95" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Map_of_Texas_highlighting_Comal_County.svg/100px-Map_of_Texas_highlighting_Comal_County.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Map_of_Texas_highlighting_Comal_County.svg/150px-Map_of_Texas_highlighting_Comal_County.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Map_of_Texas_highlighting_Comal_County.svg/200px-Map_of_Texas_highlighting_Comal_County.svg.png 2x" title="Comal County map" width="100"/></div></div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Census-designated_place" title="Census-designated place">CDP</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Canyon_Lake,_Texas" title="Canyon Lake, Texas">Canyon Lake</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Unincorporated_area#United_States" title="Unincorporated area">Other<br/>unincorporated<br/>communities</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bracken,_Texas" title="Bracken, Texas">Bracken</a></li>
+<li><a href="/wiki/Fischer,_Texas" title="Fischer, Texas">Fischer</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ghost_town" title="Ghost town">Ghost town</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Canyon_City,_Texas" title="Canyon City, Texas">Canyon City</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Footnotes</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">‡This populated place also has portions in an adjacent county or counties</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div><a class="image" href="/wiki/File:Flag_of_Texas.svg"><img alt="Flag of Texas.svg" class="noviewer" data-file-height="720" data-file-width="1080" decoding="async" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/32px-Flag_of_Texas.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/48px-Flag_of_Texas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/64px-Flag_of_Texas.svg.png 2x" width="32"/></a> <a href="/wiki/Portal:Texas" title="Portal:Texas">Texas portal</a>   <a class="image" href="/wiki/File:Flag_of_the_United_States.svg"><img alt="Flag of the United States.svg" class="noviewer" data-file-height="650" data-file-width="1235" decoding="async" height="17" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/48px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/64px-Flag_of_the_United_States.svg.png 2x" width="32"/></a> <a href="/wiki/Portal:United_States" title="Portal:United States">United States portal</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20191217184934
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.584 seconds
+Real time usage: 0.907 seconds
+Preprocessor visited node count: 5598/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 116517/2097152 bytes
+Template argument size: 5250/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 2883/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.230/10.000 seconds
+Lua memory usage: 4.52 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  751.763      1 -total
+ 62.37%  468.899      2 Template:Infobox
+ 58.17%  437.322      1 Template:Infobox_NRHP
+ 18.42%  138.447      1 Template:Reflist
+ 17.25%  129.647      1 Template:NRISref
+ 16.66%  125.237      1 Template:Cite_web
+  9.54%   71.729      1 Template:Short_description
+  9.19%   69.063      1 Template:Coord
+  9.12%   68.566      2 Template:Navbox
+  8.64%   64.976      1 Template:Country_abbreviation
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3434221-0!canonical and timestamp 20191217184933 and revision id 921652552
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gruene_Hall&amp;oldid=921652552">https://en.wikipedia.org/w/index.php?title=Gruene_Hall&amp;oldid=921652552</a>"</div>
+		
+		<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Historic_district_contributing_properties" title="Category:Historic district contributing properties">Historic district contributing properties</a></li><li><a href="/wiki/Category:Music_venues_in_Texas" title="Category:Music venues in Texas">Music venues in Texas</a></li><li><a href="/wiki/Category:New_Braunfels,_Texas" title="Category:New Braunfels, Texas">New Braunfels, Texas</a></li><li><a href="/wiki/Category:Buildings_and_structures_in_Comal_County,_Texas" title="Category:Buildings and structures in Comal County, Texas">Buildings and structures in Comal County, Texas</a></li><li><a href="/wiki/Category:Event_venues_established_in_1878" title="Category:Event venues established in 1878">Event venues established in 1878</a></li><li><a href="/wiki/Category:Theatres_completed_in_1878" title="Category:Theatres completed in 1878">Theatres completed in 1878</a></li><li><a href="/wiki/Category:1878_establishments_in_Texas" title="Category:1878 establishments in Texas">1878 establishments in Texas</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id="mw-data-after-content">
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+						<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+			<h3 id="p-personal-label">Personal tools</h3>
+			<ul>
+				<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Gruene+Hall" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Gruene+Hall" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+		<li class="selected" id="ca-nstab-main"><a accesskey="c" href="/wiki/Gruene_Hall" title="View the content page [c]">Article</a></li><li id="ca-talk"><a accesskey="t" href="/wiki/Talk:Gruene_Hall" rel="discussion" title="Discussion about the content page [t]">Talk</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+						<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+		<li class="collapsible selected" id="ca-view"><a href="/wiki/Gruene_Hall">Read</a></li><li class="collapsible" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Gruene_Hall&amp;action=edit" title="Edit this page [e]">Edit</a></li><li class="collapsible" id="ca-history"><a accesskey="h" href="/w/index.php?title=Gruene_Hall&amp;action=history" title="Past revisions of this page [h]">View history</a></li>
+	</ul>
+</div>
+		<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+			<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3>
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+			<input name="title" type="hidden" value="Special:Search"/>
+			
+			<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+			<input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Gruene_Hall" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Gruene_Hall" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Gruene_Hall&amp;oldid=921652552" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Gruene_Hall&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5611959" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gruene_Hall&amp;id=921652552" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Gruene_Hall" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gruene+Hall">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Gruene+Hall&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Gruene_Hall&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5611959#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 17 October 2019, at 00:41<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Gruene_Hall&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+							</ul>
+										<ul class="noprint" id="footer-icons">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.584","walltime":"0.907","ppvisitednodes":{"value":5598,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":116517,"limit":2097152},"templateargumentsize":{"value":5250,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":2883,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  751.763      1 -total"," 62.37%  468.899      2 Template:Infobox"," 58.17%  437.322      1 Template:Infobox_NRHP"," 18.42%  138.447      1 Template:Reflist"," 17.25%  129.647      1 Template:NRISref"," 16.66%  125.237      1 Template:Cite_web","  9.54%   71.729      1 Template:Short_description","  9.19%   69.063      1 Template:Coord","  9.12%   68.566      2 Template:Navbox","  8.64%   64.976      1 Template:Country_abbreviation"]},"scribunto":{"limitreport-timeusage":{"value":"0.230","limit":"10.000"},"limitreport-memusage":{"value":4737282,"limit":52428800},"limitreport-logs":"table#1 {\n}\ntable#1 {\n}\n"},"cachereport":{"origin":"mw1267","timestamp":"20191217184934","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Gruene Hall","url":"https:\/\/en.wikipedia.org\/wiki\/Gruene_Hall","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5611959","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5611959","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-12-15T22:45:33Z","dateModified":"2019-10-17T00:41:31Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7b\/Gruene_July_2017_1_%28Gruene_Hall%29.jpg","headline":"historic dance hall in Texas"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1263"});});</script>
+
+
+</body></html>
