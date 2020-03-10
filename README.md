@@ -6,6 +6,22 @@
  - [ ] 10 mil fitxers ```*.csv``` amb _vectr=(paraula,tipus, ... , paraula,tipus)_ (com ```NomDelArticle_Y.cvs```)
 
 ## Historial de treball (El més recent adalt)
+### 02/03/2020
+T ho passo per aquí:
+
+**Fer parlar el trasto**
+
+La idea seria dividir la tasca en varios troços.
+
+1. Necesites una funció que rebi un número i et retorni un document codificat en tensors de nombres reals.
+
+2. Un cop tinguis aquesta funció/classe faras una petita xarxa amb l arquitectura que creguis convenient que anira rebent N lletres i haurà de predir la N+1.
+
+3. Un cop aquesta xarxa es defengui parlant podem cambiar l entrenament a un entrenament adversari.
+
+4. Quan vagi prou bé comencem afegint lo del color
+
+(Mirar foto Codi)
 ### 24/02/2020
 * El problema de `ls` que imprimeix els arxius amb `""` o amb `''` és perquè contenen o bé espais, o bé algun caràcter que internament se li han de ficar cometes per a que el _Sistema_ no confongui el String amb el nom amb algun altre orde, potser algun caràcter reservat. En tot cas no ha de ser problema i en cas de ser-lo hi ha una _idea_ de com solucionar-ho.
 
