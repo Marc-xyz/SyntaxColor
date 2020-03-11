@@ -6,7 +6,26 @@
  - [ ] 10 mil fitxers ```*.csv``` amb _vectr=(paraula,tipus, ... , paraula,tipus)_ (com ```NomDelArticle_Y.cvs```)
 
 ## Historial de treball (El més recent adalt)
-### 02/03/2020
+### 11/03/2020
+1. El dataset amb els noms en angles ja està però de passar al document genera conflicte error cada 3 segons, he trobat 15 errors diferents.No és trivial solucionar-ho. Però podem funcionar amb molts errors:
+ ```bash
+ for i in {1..200}; do python3 scraping_names_of_articles_simple_version.py ; done
+ ```
+2. També està en proces un dataset en catlà perquè tinc curiositat en veure com és defensa la IA en un idioma que no em requereix consultar constantment el traductor per veure si la frase realment tè sentit o no. Aquest el fare directe tot i ja tenir el dataset amb noms. Fara un arxiu .txt on anairà enganxant el contingut dels articles que vagi agafant consecutibament amb `write()`
+
+3. Ensenyar les fotos de Nitzsche en la 40 generació. 
+### 10/03/2020
+1. Necesites una funció que rebi un número i et retorni un document codificat en tensors de nombres reals. 
+**Fet entenc que això esta estandaritzat i se'n diu hot-one encoding**
+
+2. Un cop tinguis aquesta funció/classe faras una petita xarxa amb l arquitectura que creguis convenient que anira rebent N lletres i haurà de predir la N+1.
+    * **Exemple amb Keras encara em queda editar el codi per guardar els pesos, però va prou bé**[Así hablo Zaratrusta][https://keras.io/examples/lstm_text_generation/]
+    * **No he fet servir Tenserflow perquè:** `'Tensor' object has no attribute 'numpy'`veure més detalls en[https://github.com/tensorflow/tensorflow/issues/27519], tot i que en collab tira com la conexio no és massa bona  m'he decantat per: 
+    ![Why Keras ?](./pictures_for_README/WhyKeras.png)
+notes:
+    * Queda pendent llegir [https://colah.github.io/posts/2015-08-Understanding-LSTMs/] o 
+    [https://translate.google.com/translate?hl=es&sl=auto&tl=es&u=https%3A%2F%2Fcolah.github.io%2Fposts%2F2015-08-Understanding-LSTMs%2F]
+### 02/03/2020 i 04/03/2020
 T ho passo per aquí:
 
 **Fer parlar el trasto**
@@ -22,6 +41,7 @@ La idea seria dividir la tasca en varios troços.
 4. Quan vagi prou bé comencem afegint lo del color
 
 (Mirar foto Codi)
+   ![Codi ](./pictures_for_README/WitheBoard04OfMarch.jpg)
 ### 24/02/2020
 * El problema de `ls` que imprimeix els arxius amb `""` o amb `''` és perquè contenen o bé espais, o bé algun caràcter que internament se li han de ficar cometes per a que el _Sistema_ no confongui el String amb el nom amb algun altre orde, potser algun caràcter reservat. En tot cas no ha de ser problema i en cas de ser-lo hi ha una _idea_ de com solucionar-ho.
 
