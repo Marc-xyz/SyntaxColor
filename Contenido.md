@@ -1,47 +1,50 @@
 # Maketitle
 |Nombre Archivo| Palabra Clave | Descripción|
 |--------------|---------------|------------|
-|`2020:04:02:Dia_12:41:30:Hora`|||
-|`2020:04:02:Dia_12:53:58:Hora`|||
-|`2020:04:02:Dia_12:58:46:Hora`|||
-|`2020:04:02:Dia_12:59:04:Hora`|||
-|`2020:04:02:Dia_13:00:41:Hora`|||
-|`2020:04:02:Dia_13:01:09:Hora`|||
-|`2020:04:02:Dia_13:10:16:Hora`|||
-|`2020:04:02:Dia_17:23:31:Hora`|||
-|`2020:04:02:Dia_17:24:02:Hora`|||
-|`2020:04:02:Dia_17:25:30:Hora`|||
-|`2020:04:02:Dia_17:26:41:Hora`|||
-|`2020:04:02:Dia_17:27:05:Hora`|||
-|`2020:04:02:Dia_17:28:37:Hora`|||
-|`2020:04:02:Dia_17:29:01:Hora`|||
-|`2020:04:02:Dia_17:29:18:Hora`|||
-|`2020:04:02:Dia_17:29:24:Hora`|||
-|`2020:04:02:Dia_17:50:24:Hora`|||
-|`2020:04:02:Dia_17:59:32:Hora`|||
-|`2020:04:02:Dia_17:59:41:Hora`|||
-|`2020:04:02:Dia_18:00:09:Hora`|||
-|`2020:04:02:Dia_18:02:25:Hora`|||
-|`2020:04:03:Dia_02:14:11:Hora`|||
-|`2020:04:03:Dia_16:00:44:Hora`|||
-|`2020:04:03:Dia_16:03:37:Hora`|||
-|`2020:04:03:Dia_16:05:06:Hora`|||
-|`2020:04:03:Dia_16:24:57:Hora`|||
-|`2020:04:03:Dia_16:27:43:Hora`|||
-|`2020:04:03:Dia_16:28:52:Hora`|||
-|`2020:04:03:Dia_16:29:18:Hora`|||
-|`2020:04:03:Dia_16:29:53:Hora`|||
-|`2020:04:03:Dia_22:32:23:Hora`|||
-|`2020:04:03:Dia_22:35:19:Hora`|||
-|`2020:04:03:Dia_22:40:10:Hora`|||
-|`2020:04:03:Dia_22:40:32:Hora`|||
-|`2020:04:03:Dia_22:40:50:Hora`|||
-|`2020:04:03:Dia_22:41:01:Hora`|||
-|`2020:04:03:Dia_22:41:13:Hora`|||
-|`2020:04:03:Dia_22:42:34:Hora`|||
-|`2020:04:03:Dia_22:42:41:Hora`|||
-|`2020:04:03:Dia_22:55:28:Hora`|||
-|`2020:04:03:Dia_22:55:33:Hora`|||
+|`2020:04:02:Dia_12:41:30:Hora`|`Meme`|Perfecta para hacer memes de **El estadista responde**.|
+|`2020:04:02:Dia_12:53:58:Hora`|`censo` , `encuesta`|**Censo:** Aplicación del instrumento estadístico para obtener información al total de la población. **Encuesta:** Aplicación del instrumento estadístico para obtener información a una muestra de la población.|
+|`2020:04:02:Dia_12:58:46:Hora`|`SuperEdición`|Imagen que muestra la altura de las diferentes versiones de *Gozilla* con sus respectivas siluetas en un eje que permite, a simple vista, distinguir las alturas. Gran trabajo de diseño.|
+|`2020:04:02:Dia_12:59:04:Hora`|`lista`|Lista de todas las versiones de *Gozilla*: Altura, largo y peso|
+|`2020:04:02:Dia_13:00:41:Hora`|`tabla`, `representaciones tabulares`| Tabla en formato lista con los datos de las alturas de *Gozilla*.|
+|`2020:04:02:Dia_13:01:09:Hora`|`tabla`, `representaciones tabulares`| Tabla en formato lista con los datos de las alturas de *Gozilla*, con los datos repetidos agrupados.|
+|`2020:04:02:Dia_13:10:16:Hora`|`tabla`, `representaciones tabulares`| Tabla con los datos agrupados y grafico con las siluetas de los *Gozillas* de diferentes películas.|
+|`2020:04:02:Dia_17:23:31:Hora`|`frecuencias absolutas acumuladas`| Es el primer item.|
+|`2020:04:02:Dia_17:24:02:Hora`|`ojiva`, `frecuencia acumulada`| Grafica que muestra como se ha realizado el grafico de una **ojiva** con la ayuda de las **frecuencia absolutas acumuladas**|
+|`2020:04:02:Dia_17:25:30:Hora`|`tabla`, `frecuencia relativa`, `frecuencia absoluta`, `frecuencia relativa acumulada`| Tabla mejorada que muestra las frecuencia: relativa, absoluta y absoluta acumulada.|
+|`2020:04:02:Dia_17:26:41:Hora`|`ojiva porcentual`| Muestra la **ojiva porcentual** de la tabla de datos anterior.|
+|`2020:04:02:Dia_17:27:05:Hora`|`gráfico de caja`, `datos atípicos`|Imagen que muestra el **grafico de caja** de los datos se puede ver con el punto en azul más fuerte, la presencia de *datos atípicos*|
+|`2020:04:02:Dia_17:28:37:Hora`|`histograma`| **Histograma** de alguna de las actividades propuestas, observamos una **distribución normal asimétrica**.  |
+|`2020:04:02:Dia_17:29:01:Hora`|`histograma`, `datos atípicos`|**Histograma** de alguna de las actividades propuestas, observamos una **distribución normal ** y un  **dato atípico** en 1.|
+|`2020:04:02:Dia_17:29:18:Hora`|`histograma`, `datos atípicos`|**Histograma** de alguna de las actividades propuestas, observamos una **distribución normal ** y un  **dato atípico** en 1. Ahora se remarca el dato atípico con un recuadro rojo.|
+|`2020:04:02:Dia_17:29:24:Hora`|`histograma`, `datos atípicos`, `grafico de caja`| Datos anteriores, ahora sale junto a el **histograma** el **grafico de cajas** observamos una **distribución normal ** y un  **dato atípico** senyalado con una flecha roja. Observamos que las dos representaciones de los datos ofrecen una información coherente entre ellas.|
+|`2020:04:02:Dia_17:50:24:Hora`|`tabla`, `tabla variables cualitativas`| Tabla que muestra la representación resumida, en una tabla que podria responder a las pregunta, ¿Siglo XX? Sí o no.|
+|`2020:04:02:Dia_17:59:32:Hora`|`probabilidad`| **Probabilidad:** Ciencia que se encarga de estudiar los fenómenos aleatorios y que sirve como soporte para la estadística.|
+|`2020:04:02:Dia_17:59:41:Hora`|`probabilidad`,`fenómeno aleatorio`|**Fenómeno aleatorio:** Fenómeno que tiene más de un posible resultado, que no se puede predecir y que depende del azar.|
+|`2020:04:02:Dia_18:00:09:Hora`|`estadística`| **Estadística:** Ciencia que se encarga de recabar, organizar, presentar y analizar datos numéricos para poder predecir situaciones futuras.|
+|`2020:04:02:Dia_18:02:25:Hora`|`muesta`| **Muestra:** Sector de la población dentro del cual se pretende replicar el comportamiento de la variable de interés.|
+|`2020:04:03:Dia_02:14:11:Hora`|`moda`| **Moda:** Observación que tiene la frecuencia absoluta mayor.|
+|`2020:04:03:Dia_16:00:44:Hora`|`mediana`, `hallar mediana`| Indicación visual de donde se encuentra la **mediana**, divide las frecuencias absolutas en dos mitades.|
+|`2020:04:03:Dia_16:03:37:Hora`|`media aritmética`| Resultado de la media aritmética de los valores de la tabla. En este caso $\overline{X}=85.25$|
+|`2020:04:03:Dia_16:05:06:Hora`|`media`, `moda`, `mediana`| Comparación de la  (50) **moda** `X^`, (60) **mediana** `X~` y  (85.25) la **media** `X-`, de los valores de la tabla del inicio.|
+|`2020:04:03:Dia_16:24:57:Hora`|`frecuencia relativa acumulada`, `percentil`, `calculo de un percentil`, `semejanza de triángulos`|calculo del valor asociado a un percentil mediante **semejanza de triángulos**|
+|`2020:04:03:Dia_16:27:43:Hora`|`cuantiles`, `cuartiles`| 25%, 50%, 75%, 100% son cuantiles, concretamente,  cuartiles.|
+|`2020:04:03:Dia_16:28:52:Hora`|`cuantiles`, `cuartles`, `quintiles`|20%, 40%, 60%, 80%, 100% son cuantiles, concretamente, quintiles.|
+|`2020:04:03:Dia_16:29:18:Hora`|`cuantiles`, `deciles`| 10%, 20%, 30%, 40%, ..., 90%, 100% son cuantiles, concretamente,  deciles.|
+|`2020:04:03:Dia_16:29:53:Hora`|`cuantiles`, `deciles`, `centiles`|1%, 2%, 3%, ..., 99%, 100% son cuantiles, concretamente, centiles.|
+|`2020:04:03:Dia_22:32:23:Hora`|`error`| **Error:** Diferencia de algún valor observado de una variable con respecto de algún valor fijo.|
+|`2020:04:03:Dia_22:35:19:Hora`|`tabla con error`| Tabla con una columna para los errores.|
+|`2020:04:03:Dia_22:40:10:Hora`|`varianza discreta`, `error`, `error cuadrado`, `error cuadrado por frecuencia relativa`| Tabla con error, error cuadrado, error cuadrado por frecuencia relativa añadidos. |
+|`2020:04:03:Dia_22:40:32:Hora`|`varianza discreta`, `error`, `error cuadrado`| Fórmulas **error** y **error cuadrado**. |
+|`2020:04:03:Dia_22:40:50:Hora`|`calculo rebuscado varianza discreta`, `varianza`| Tercer paso del calculo de la **varianza discreta n-1**. |
+|`2020:04:03:Dia_22:41:01:Hora`|`calculo rebuscado varianza`, `varianza`| Quarto paso del calculo de la **varianza discreta n-1**.|
+|`2020:04:03:Dia_22:41:13:Hora`|`calculo rebuscado varianza`, `varianza`| Quinto paso del calculo de la **varianza discreta n-1**.|
+|`2020:04:03:Dia_22:42:34:Hora`|`amplitud`|**Amplitud:** Diferencia entre el mayor valor esperado y el menor valor esperado. (A=M-m)|
+|`2020:04:03:Dia_22:42:41:Hora`|`amplitud`| Ejemplo calculo amplitud.|
+|`2020:04:03:Dia_22:55:28:Hora`|`coeficiente de variación`| Relación que tiene la desvinculación estàndard con respecto de la media.|
+
+>PARA AQUÍ, NO ANTES.
+
+|`2020:04:03:Dia_22:55:33:Hora`|`coeficiente de variación`|**coeficiente de variación:** cociente de la raíz cuadrada de la varianza entre la media aritmética.|
 |`2020:04:03:Dia_22:56:00:Hora`|||
 |`2020:04:03:Dia_23:02:28:Hora`|||
 |`2020:04:03:Dia_23:03:19:Hora`|||
@@ -79,9 +82,18 @@
 |`2020:04:09:Dia_12:39:45:Hora`|||
 |`2020:04:09:Dia_12:48:43:Hora`|||
 
+**week_01**
+Variable, Muestreo, representaciones tabulares, frecuencias absolutas, frecuencias relativas, frecuencias absolutas acumuladas, representaciones graficas, agrupación de datos,
+histograma, polígono de frecuencias, ojiva, gráfico de caja, simetría, datos atípicos, grafica de variables cualitativas.  
 
+**week_02**
+medidas descriptivas de tendencia, medidas de tendencia central, mediana, moda, media,  interpretación de las medidas de tendencia central, clasificación de los cuantiles, medidas descriptivas de variabilidad, varianza, desviación estándar, amplitud, coeficiente de variación, regla empírica.
 
+**week_03**
+representación estadística, análisis de datos, variables numéricas conjuntas, recta de ajuste, construcción recta de ajuste, coeficiente de correlación, limitaciones de los modelos lineales, estimaciones, dos variables conjuntas ,tablas de contingencia, representación para datos con dos variables conjuntas.
 
+**week_04**
+fenómeno aleatorio, espacio muestral, evento, eventos compuestos, tablas de doble entrada, probabilidad unión dos eventos, axiomas de Kolmogorov, probabilidad condicional, independencia de la probabilidad de sucesos, verificación independencia, formulas elementales probabilidad.
 
 ## DosEstilosDatos
 
