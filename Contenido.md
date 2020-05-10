@@ -36,51 +36,49 @@
 |`2020:04:03:Dia_22:40:10:Hora`|`varianza discreta`, `error`, `error cuadrado`, `error cuadrado por frecuencia relativa`| Tabla con error, error cuadrado, error cuadrado por frecuencia relativa añadidos. |
 |`2020:04:03:Dia_22:40:32:Hora`|`varianza discreta`, `error`, `error cuadrado`| Fórmulas **error** y **error cuadrado**. |
 |`2020:04:03:Dia_22:40:50:Hora`|`calculo rebuscado varianza discreta`, `varianza`| Tercer paso del calculo de la **varianza discreta n-1**. |
-|`2020:04:03:Dia_22:41:01:Hora`|`calculo rebuscado varianza`, `varianza`| Quarto paso del calculo de la **varianza discreta n-1**.|
+|`2020:04:03:Dia_22:41:01:Hora`|`calculo rebuscado varianza`, `varianza`| Cuarto paso del calculo de la **varianza discreta n-1**.|
 |`2020:04:03:Dia_22:41:13:Hora`|`calculo rebuscado varianza`, `varianza`| Quinto paso del calculo de la **varianza discreta n-1**.|
 |`2020:04:03:Dia_22:42:34:Hora`|`amplitud`|**Amplitud:** Diferencia entre el mayor valor esperado y el menor valor esperado. (A=M-m)|
 |`2020:04:03:Dia_22:42:41:Hora`|`amplitud`| Ejemplo calculo amplitud.|
-|`2020:04:03:Dia_22:55:28:Hora`|`coeficiente de variación`| Relación que tiene la desvinculación estàndard con respecto de la media.|
-
->PARA AQUÍ, NO ANTES.
-
+|`2020:04:03:Dia_22:55:28:Hora`|`coeficiente de variación`| Relación que tiene la desvinculación estándar con respecto de la media.|
 |`2020:04:03:Dia_22:55:33:Hora`|`coeficiente de variación`|**coeficiente de variación:** cociente de la raíz cuadrada de la varianza entre la media aritmética.|
-|`2020:04:03:Dia_22:56:00:Hora`|||
-|`2020:04:03:Dia_23:02:28:Hora`|||
-|`2020:04:03:Dia_23:03:19:Hora`|||
-|`2020:04:04:Dia_23:18:38:Hora`|||
-|`2020:04:04:Dia_23:19:39:Hora`|||
-|`2020:04:04:Dia_23:19:45:Hora`|||
-|`2020:04:05:Dia_12:32:42:Hora`|||
-|`2020:04:05:Dia_12:37:25:Hora`|||
-|`2020:04:05:Dia_13:04:04:Hora`|||
-|`2020:04:05:Dia_13:04:10:Hora`|||
-|`2020:04:05:Dia_13:13:46:Hora`|||
-|`2020:04:06:Dia_19:49:05:Hora`|||
-|`2020:04:06:Dia_19:52:15:Hora`|||
-|`2020:04:06:Dia_19:52:42:Hora`|||
-|`2020:04:06:Dia_19:55:07:Hora`|||
-|`2020:04:06:Dia_20:03:44:Hora`|||
-|`2020:04:07:Dia_16:55:27:Hora`|||
-|`2020:04:07:Dia_16:56:10:Hora`|||
-|`2020:04:07:Dia_16:57:05:Hora`|||
-|`2020:04:07:Dia_17:01:05:Hora`|||
-|`2020:04:07:Dia_17:01:52:Hora`|||
-|`2020:04:07:Dia_17:02:45:Hora`|||
-|`2020:04:07:Dia_17:04:52:Hora`|||
-|`2020:04:07:Dia_17:06:44:Hora`|||
-|`2020:04:07:Dia_17:06:50:Hora`|||
-|`2020:04:07:Dia_17:07:36:Hora`|||
-|`2020:04:07:Dia_17:12:50:Hora`|||
-|`2020:04:07:Dia_17:13:49:Hora`|||
-|`2020:04:07:Dia_17:14:04:Hora`|||
-|`2020:04:07:Dia_17:29:22:Hora`|||
-|`2020:04:07:Dia_17:29:52:Hora`|||
-|`2020:04:07:Dia_17:35:00:Hora`|||
-|`2020:04:07:Dia_17:41:39:Hora`|||
-|`2020:04:09:Dia_12:39:19:Hora`|||
-|`2020:04:09:Dia_12:39:45:Hora`|||
-|`2020:04:09:Dia_12:48:43:Hora`|||
+|`2020:04:03:Dia_22:56:00:Hora`|`coeficiente de variación`|**Comentario Coeficiente:** Para poderlo utilizar necesitamos cumplir con dos condiciones. **1.** La primera es que las dos poblaciones tengan más o menos la misma distribución para la variable con la que se está trabajando. La segunda *2.* condicion es que en ambos casos se utilice la misma variable, es decir, podremos comparar variabilidad entre los pesos de los tigres y los pesos de los gatos, pero no la variabilidad entre las longitudes de los tigres y los pesos de los gatos a traves del coeficiente de variación.|
+|`2020:04:03:Dia_23:02:28:Hora`|`coeficiente de variación`, `coeficiente de variación ejemplo`| En la imagen se puede ver como _cv_ para el Paravicursor es de 0.13/0.39=0.333, mientras que para el Titanosaurio, el cv es de 2/40=0.005.|
+|`2020:04:03:Dia_23:03:19:Hora`|`coeficiente de variación`, `coeficiente de variación ejemplo`| **Interpretación de los resultados del cv para el ejemplo:** Observando ambos valores, encontramos que el Parvicursor tienen un coeficiente de variación mayor que el del Titanosaurio, por lo que podemos decir que, para la variable altura, el Parvicursor presnta **mayor varaibilidad** que el Titanosaurio. También es posible que presentemos el **coeficiente de variación como un porcentaje**. En el caso Del Paravicursor será del 33 por ciento y en el caso del Titanosaurio del 5 por ciento.|
+|`2020:04:04:Dia_23:18:38:Hora`|`regla empírica`| Wikipedia: _En estadística, la regla 68-95-99.7, también conocida como regla empírica, es una abreviatura utilizada para recordar el porcentaje de valores que se encuentran dentro de una banda alrededor de la media en una distribución normal con un ancho de dos, cuatro y seis veces la desviación típica, respectivamente. Más exactamente, el 68.27%, el 95.45% y el 99.73% de los valores se encuentran dentro de bandas con semiancho de una, dos y tres veces la desviación típica respecto a la media._. En la imagen se muestra: media más menos una desviación estándar **~68%** y media más menos dos desviaciones estándar **~95%**.|
+<!--Delete `2020:04:04:Dia_23:19:39:Hora`  Same of `2020:04:04:Dia_23:19:45:Hora`-->
+|`2020:04:04:Dia_23:19:45:Hora`|`regla empírica`|En la imagen se muestra: media más menos _tres_ desviación estándar **~99%** y media más menos _cuatro_ desviaciones estándar **~0.999936657516334%**.|
+|`2020:04:05:Dia_12:32:42:Hora`|`Diagrama de dispersión`, `Nube de puntos` | Wikipedia: _Un diagrama de dispersión o gráfica de dispersión o gráfico de burbujas es un tipo de diagrama matemático que utiliza las coordenadas cartesianas para mostrar los valores de dos variables para un conjunto de datos._|
+|`2020:04:05:Dia_12:37:25:Hora`|`Diagrama de dispersión`, `Recta de regresión`, `Recta de mejor ajuste`, `recta de ajuste`, `método de mínimos cuadrados`| En la imagen se muestran los puntos en color azul claro del diagram de dispersion en el plano, también se muestra una recta en negro (que será la recta de regresión), finalmente en ese fragmento del primer cuadrante del plano con los ejes podemos observar cuadrados con perímetro azul oscuro que representan el cuadrado de la distancia mínima de cada punto a la recta de regresión. Una forma de encontrar la recta que mejor se ajusta es el _método de mínimos cuadrados_|
+<!--Delete `2020:04:05:Dia_13:04:04:Hora`  Same of `2020:04:05:Dia_13:04:10:Hora`-->
+|`2020:04:05:Dia_13:04:10:Hora`||Diferentes valores necesarios para calcular la recta de ajuste o de regression. Suma de todas las `x_i`, suma de todas las `y_i`, suma del producto de `x_i*y_i`, suma de los cuadrados de `x_i`, suma de los cuadrados de `y_i`.|
+|`2020:04:05:Dia_13:13:46:Hora`|`coeficiente de correlación`, `coeficiente de correlación lineal`, `coeficiente de Pearson`|Mide el grado de asociación lineal entre las variables sin verse afectado por las unidades. |
+|`2020:04:06:Dia_19:49:05:Hora`|`estimación`,`regression`, `no lineal`, `limitaciones de los modelos lineales`,`correlación` `causalidad`, `dependencia`| Por ejemplo dos variables podrían comportarse de manera conjunta como una función cuadrática, como una logarítmica o como una función exponencial. Es importante resaltar que correlación no quiere decir ni _causalidad_ ni _dependencia_. Que hay _correlación_ entre dos variables, únicamente significa que ambas varían más o menos de la misma forma. No significa que la variación en una de estas variables, provoque la variación en la otra y tampoco significa que los valores de una de estas variables, dependan de los valores que tome la otra.|
+|`2020:04:06:Dia_19:52:15:Hora`|`Enunciado problema Profesor Lewis Dodgson`| _Lewis Dodgson tenía 18 amigas. Nueve eran rubias y nueve morenas, once tenían los ojos oscuros y siete tenían los ojos azules. ¡Ah, y seis eran rubias y de ojos oscuros! ¿Cómo eran todas las amigas del professor Dodgson?_. ***Observamos** que hay dos variables: color de los ojos y color del cabello.|
+|`2020:04:06:Dia_19:52:42:Hora`|`Tabla cruzada`, `Tabla de contingencia`| Tabla de contingencia del problema de las amigas del Profesor Dodgson.|
+|`2020:04:06:Dia_19:55:07:Hora`|`Tabla cruzada`, `Tabla de contingencia`, `Otras Tablas`| Tabla de contingencia del problema de las amigas del Profesor Dodgson esta vez en formato _simil histograma.|
+|`2020:04:06:Dia_20:03:44:Hora`|`Tabla de contingencia`, `Ejercicio propuesto`, `Otro acertijo Lewis Carroll`|El señor Charles Lutwidge Carroll coleccionaba marionetas y tenía veinte. Ocho eran de animales y doce de personas, seis eran grandes y ocho eran de personas y pequeñas. ¿Cómo eran todas las marionetas del señor Carroll?|
+|`2020:04:07:Dia_16:55:27:Hora`|`Enfoque subjetivo`| _Lo usual bajo el enfoque subjetivo es asignar la medida de probabilidad, no en términos numéricos, sino simplemente en términos de más probable, menos probable, altamente probable o poco probable._|
+|`2020:04:07:Dia_16:56:10:Hora`|`Enfoque frecuencial`| _El siguiente enfoque para calcular medidas de probabilidad se conoce como enfoque frecuencial. En este caso, para poder asignar una medida de probabilidad a algún resultado en particular del fenómeno aleatorio lo que se hace es contabilizar observaciones sobre repeticiones sucesivas del fenómeno._|
+|`2020:04:07:Dia_16:57:05:Hora`|`Enfoque clásico`|_
+El tercer enfoque es el enfoque clásico de la probabilidad. En este caso, calcularemos el cociente del total de formas en las que puede darse un resultado en específico del fenómeno aleatorio sobre el total de formas en que puede ocurrir el fenómeno aleatorio._ |
+<!--Delete `2020:04:07:Dia_17:01:05:Hora`  Same of `2020:04:07:Dia_17:01:52:Hora`-->
+|`2020:04:07:Dia_17:01:52:Hora`|`espacio muestral`|Wikipedia: _el conjunto de todos los posibles resultados de un experimento aleatorio, junto con una estructura sobre el mismo_. Pensar en el ejemplo de los posibles escenarios al tirar un dado. A veces también se denota el conjunto con una letra omega majúscula.|
+|`2020:04:07:Dia_17:02:45:Hora`|`evento`| En el _ejemplo de tirar el dado_ nos referimos al **evento** de que salga 5. Podemos pensar un evento, como un subconjunto del espacio muestral.|
+|`2020:04:07:Dia_17:04:52:Hora`|`eventos`| Más ejemplos de eventos del _ejemplo de lanzar un dado_, el evento A se puede leer cómo: _que salga un número par_. El evento B se puede leer cómo: "que salga un número menor que 5". |
+<!--Delete `2020:04:07:Dia_17:06:44:Hora`  Same of `2020:04:07:Dia_17:01:52:Hora`-->
+<!--Delete `2020:04:07:Dia_17:06:50:Hora`  Same of `2020:04:07:Dia_17:01:52:Hora`-->
+|`2020:04:07:Dia_17:07:36:Hora`| `Eventos compuestos`, `Unión de eventos`, `Conjunción de eventos`, `Complemento de eventos`|La **unión** de dos eventos  A y B, se puede interpretar cómo _pasa A o pasa B_, la **intersección o conjunción** de dos eventos A y B se puede leer cómo: _sucede A y también sucede B_. Finalmente el **complemento** de un evento A se interpreta cómo: _No pasa A_|
+<!--Delete `2020:04:07:Dia_17:12:50:Hora`  Same of `2020:04:07:Dia_17:14:04:Hora`-->
+<!--Delete `2020:04:07:Dia_17:13:49:Hora`  Same of `2020:04:07:Dia_17:14:04:Hora`-->
+|`2020:04:07:Dia_17:14:04:Hora`|`Tabla de contingencia de probabilidades`, `problema Profesor Lewis Dodgson`| Ejemplo de tabla de contingencia como probabilidades del ejemplo de _Profesor Dodgson_.|
+|`2020:04:07:Dia_17:29:22:Hora`|`Tabla de contingencia de probabilidades`, `problema Profesor Lewis Dodgson`|Tabla de contingencia de probabilidades del ejemplo de _Profesor Dodgson_, con el calculo explicito de _La probabilidad de tener cabello rubio u ojos claros_, nótese que es una unión de eventos.|
+|`2020:04:07:Dia_17:29:52:Hora`|`Tabla de contingencia de probabilidades`, `problema Profesor Lewis Dodgson`, `Grassmann`|Símil de fórmula de Grassmann para calcular la probabilidad de que en escoger una amiga al azar del professor Dodgson y que cumpla que _cabello rubio u ojos oscuros_.|
+|`2020:04:07:Dia_17:35:00:Hora`|`evento o sucesos imposible`, `evento o sucesos seguro` | En el _ejemplo del dado_ un **evento imposible** podría ser _obtener un 7_ (recordemos que el espacio muestral es de 1 a 6). En el mismo ejemplo un **evento seguro** es obtener un número menor que 7.|
+|`2020:04:07:Dia_17:41:39:Hora`|`axiomas de Kolomogorov`, `probabilidades marginales`| **1.** Probabilidad valor entre 0 y 1. **2.** Probabilidad de todos el espacio muestral igual a 1. **3.** _La probabilidad de la unión de una serie de eventos del mismo espació muestral es igual a la suma de las probabilidades marginales de cada uno de los eventos, siempre que todos los eventos sean mutuamente excluyentes y del mismo espació muestral.|
+|`2020:04:09:Dia_12:39:19:Hora`|`Tabla de contingencia de probabilidades`, `problema Profesor Lewis Dodgson`, `probabilidad condicional`|Con la misma tabla de contingencia, se enuncia que significado se dan a los valores A y B que serviran para el posterior calculo de la probabilidad condicionada.|
+|`2020:04:09:Dia_12:39:45:Hora`|Tabla de contingencia de probabilidades`, `problema Profesor Lewis Dodgson`, `probabilidad condicional`|Misma Imagen que antes pero con titulo identificativo.|
+|`2020:04:09:Dia_12:48:43:Hora`||Tabla con cuatro formulas para la probabilidad condicional de eventos _dependientes_ y _independientes_.|
 
 **week_01**
 Variable, Muestreo, representaciones tabulares, frecuencias absolutas, frecuencias relativas, frecuencias absolutas acumuladas, representaciones graficas, agrupación de datos,
